@@ -1,0 +1,40 @@
+### Get 100 most upvoted Flutter issues
+
+POST https://api.github.com/graphql
+Accept: application/vnd.github+json
+Authorization: Bearer ghp_12324
+X-Request-Type: GraphQL
+
+query ($after: String) {
+  search(
+    query: "repo:flutter/flutter is:open sort:reactions-+1-desc"
+    type: ISSUE
+    first: 100
+    after: $after
+  ) {
+    pageInfo {
+      endCursor
+      hasNextPage
+    }
+    edges {
+      node {
+        ... on Issue {
+          comments {
+            totalCount
+          }
+          createdAt
+          number
+          participants {
+            totalCount
+          }
+          publishedAt
+          reactions {
+            totalCount
+          }
+          state
+          title
+        }
+      }
+    }
+  }
+}
