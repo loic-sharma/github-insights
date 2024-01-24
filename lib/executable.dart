@@ -77,7 +77,7 @@ Future<File> createOutputFile(String outputPath) async {
   final outputDir = Directory(outputPath);
   await outputDir.create(recursive: true);
 
-  final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.now());
+  final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.timestamp());
   final filePath = path.join(outputPath, '$today.jsonl');
 
   return File(filePath);
