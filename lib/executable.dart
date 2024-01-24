@@ -72,6 +72,9 @@ Future<List<github.Issue>> loadTopIssues(
     hasNextPage = result.hasNextPage;
   } while (issues.length < limit && hasNextPage);
 
+  // Sort descending by reactions then by issue number.
+  issues.sort((a, b) => compareIssues(b, a));
+
   return issues.take(limit).toList();
 }
 
@@ -108,4 +111,13 @@ Future<void> writeIssues(
 
   await writer.flush();
   await writer.close();
+}
+
+int compareIssues(github.Issue a, github.Issue b) {
+  final reactionsComparison = a.reactions.compareTo(b.reactions);
+  if (reactionsComparison != 0) {
+    return reactionsComparison;
+  }
+
+  return a.number.compareTo(b.number);
 }
