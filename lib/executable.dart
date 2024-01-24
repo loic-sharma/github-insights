@@ -84,7 +84,7 @@ Future<File> createOutputFile(String outputPath) async {
 }
 
 Future<void> writeIssues(IOSink writer, List<github.Issue> issues) async {
-  final timestamp = DateTime.now().toIso8601String();
+  final timestamp = DateTime.timestamp().toIso8601String();
   for (final issue in issues) {
     final issueJson = json.encode({
       'timestamp': timestamp,
