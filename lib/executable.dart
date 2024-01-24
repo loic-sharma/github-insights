@@ -44,7 +44,8 @@ void main(List<String> arguments) async {
 
   final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.timestamp());
   final outputFile = await createOutputFile(outputPath, today);
-  await writeIssues(outputFile.openWrite(), today, issues);
+
+  await writeIssues(outputFile.openWrite(), today, repository, issues);
   print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
 }
 
@@ -83,10 +84,16 @@ Future<File> createOutputFile(String outputPath, String date) async {
   return File(filePath);
 }
 
-Future<void> writeIssues(IOSink writer, String date, List<github.Issue> issues) async {
+Future<void> writeIssues(
+  IOSink writer,
+  String date,
+  String repository,
+  List<github.Issue> issues,
+) async {
   for (final issue in issues) {
     final issueJson = json.encode({
       'date': date,
+      'repository': repository,
       'id': issue.number,
       'title': issue.title,
       'state': issue.state,
