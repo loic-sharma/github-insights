@@ -42,8 +42,9 @@ void main(List<String> arguments) async {
   print('Loaded ${issues.length} issues');
   print('');
 
-  final outputFile = await createOutputFile(outputPath);
-  await writeIssues(outputFile.openWrite(), issues);
+  final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.timestamp());
+  final outputFile = await createOutputFile(outputPath, today);
+  await writeIssues(outputFile.openWrite(), today, issues);
   print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
 }
 
@@ -73,21 +74,19 @@ Future<List<github.Issue>> loadTopIssues(
   return issues.take(limit).toList();
 }
 
-Future<File> createOutputFile(String outputPath) async {
+Future<File> createOutputFile(String outputPath, String date) async {
   final outputDir = Directory(outputPath);
   await outputDir.create(recursive: true);
 
-  final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.timestamp());
-  final filePath = path.join(outputPath, '$today.jsonl');
+  final filePath = path.join(outputPath, '$date.jsonl');
 
   return File(filePath);
 }
 
-Future<void> writeIssues(IOSink writer, List<github.Issue> issues) async {
-  final timestamp = DateTime.timestamp().toIso8601String();
+Future<void> writeIssues(IOSink writer, String date, List<github.Issue> issues) async {
   for (final issue in issues) {
     final issueJson = json.encode({
-      'timestamp': timestamp,
+      'date': date,
       'id': issue.number,
       'title': issue.title,
       'state': issue.state,
