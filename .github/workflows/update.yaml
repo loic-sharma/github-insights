@@ -23,6 +23,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
 
+      - name: Generate Dart SDK top issues
+        run: dart run ./bin/github_insights.dart --repository dart-lang/sdk --top 1000 --output top_issues/dart-lang/sdk
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
       - name: Commit and push if data has changed
         id: commit-if-changed
         run: |-
