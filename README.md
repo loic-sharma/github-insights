@@ -4,6 +4,8 @@ Find trending GitHub issues.
 
 ## Trending issues report
 
+Find the Flutter issues with the most reactions in the last 6 weeks:
+
 ```sql
 SELECT
   repository || '#' || id AS id,
@@ -11,6 +13,7 @@ SELECT
   list(reactions) AS reactions,
   max(reactions) - min(reactions) AS delta_reactions
 FROM 'top_issues/flutter/flutter/*.jsonl'
+WHERE date_diff('day', "date", today()) <= 42
 GROUP BY repository, id
 ORDER BY delta_reactions desc;
 ```
