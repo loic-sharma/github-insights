@@ -7,6 +7,9 @@ Find trending GitHub issues.
 Find the Flutter issues with the most reactions in the last 6 weeks:
 
 ```sql
+.mode csv
+.output top_issues.csv
+
 SELECT
   '[`' || repository || '#' || id || '`](https://github.com/' || repository || '/issues/' || id || ')' AS id,
   any_value(title) AS title,
