@@ -8,19 +8,20 @@ Find the Flutter issues with the most reactions in the last 6 weeks:
 
 ```sql
 SELECT
-  repository || '#' || id AS id,
+  '[`' || repository || '#' || id || '`](https://github.com/' || repository || '/issues/' || id || ')' AS id,
   any_value(title) AS title,
   min(date) AS start,
   max(date) AS end,
-  -- list(reactions) AS list_reactions,
-  max(reactions) AS max_reactions,
-  max(reactions) - min(reactions) AS delta_reactions
+  max(reactions) AS total_reactions,
+  max(comments) AS total_comments,
+  max(reactions) - min(reactions) AS new_reactions,
+  max(comments) - min(comments) AS new_comments
 FROM 'top_issues/flutter/flutter/*.jsonl'
 WHERE
   date_diff('day', "date", today()) <= 42
 GROUP BY repository, id
-HAVING delta_reactions > 0
-ORDER BY delta_reactions DESC;
+HAVING new_reactions > 0 OR new_comments > 0
+ORDER BY new_reactions DESC;
 ```
 
 Example results:
