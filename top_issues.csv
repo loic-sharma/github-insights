@@ -1,275 +1,339 @@
 id,title,start,end,total_reactions,total_comments,new_reactions,new_comments
-[`flutter/flutter#128313`](https://github.com/flutter/flutter/issues/128313),"Add support for visionOS",2024-01-24,2024-02-06,238,15,26,2
-[`flutter/flutter#83596`](https://github.com/flutter/flutter/issues/83596),"Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file ""/system/framework/android.test.runner.jar"", zip file ""/system/framework/org.apache.http.legacy.boot.jar""........",2024-01-24,2024-02-06,350,237,21,2
-[`flutter/flutter#115912`](https://github.com/flutter/flutter/issues/115912),"Support tone-based surface and surface container `ColorScheme` roles",2024-01-24,2024-02-06,97,10,13,0
-[`flutter/flutter#138614`](https://github.com/flutter/flutter/issues/138614),"Preserve WillPopScope as an alternate for PopScope",2024-01-24,2024-02-06,93,22,12,2
-[`flutter/flutter#30701`](https://github.com/flutter/flutter/issues/30701),"Support multiple windows for desktop shells",2024-01-24,2024-02-06,551,105,10,1
-[`flutter/flutter#126005`](https://github.com/flutter/flutter/issues/126005),"☂️ Add Swift Package Manager compatibility",2024-01-24,2024-02-06,80,6,8,0
-[`flutter/flutter#53041`](https://github.com/flutter/flutter/issues/53041),"Enable ""hot reload"" (not just ""hot restart"") for Flutter Web",2024-01-24,2024-02-06,956,146,7,0
-[`flutter/flutter#18345`](https://github.com/flutter/flutter/issues/18345),"SliverAppBar flexibleSpace with height depending on children",2024-01-24,2024-02-06,224,56,7,2
-[`flutter/flutter#128059`](https://github.com/flutter/flutter/issues/128059),"[Web] CanvasKit error on web app after hot restart/hot reload",2024-01-24,2024-02-06,62,26,7,0
-[`flutter/flutter#41737`](https://github.com/flutter/flutter/issues/41737),"Distribute Flutter as a Flatpak",2024-01-24,2024-02-06,236,45,6,1
-[`flutter/flutter#112196`](https://github.com/flutter/flutter/issues/112196),"[go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)",2024-01-24,2024-02-06,84,45,6,1
-[`flutter/flutter#26134`](https://github.com/flutter/flutter/issues/26134),"Support home and lock screen widgets",2024-01-24,2024-02-06,310,50,5,0
+[`flutter/flutter#128313`](https://github.com/flutter/flutter/issues/128313),"Add support for visionOS",2024-01-24,2024-02-12,250,15,38,2
+[`flutter/flutter#83596`](https://github.com/flutter/flutter/issues/83596),"Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file ""/system/framework/android.test.runner.jar"", zip file ""/system/framework/org.apache.http.legacy.boot.jar""........",2024-01-24,2024-02-12,351,238,22,3
+[`flutter/flutter#138614`](https://github.com/flutter/flutter/issues/138614),"Preserve WillPopScope as an alternate for PopScope",2024-01-24,2024-02-12,98,24,17,4
+[`flutter/flutter#115912`](https://github.com/flutter/flutter/issues/115912),"Support tone-based surface and surface container `ColorScheme` roles",2024-01-24,2024-02-12,97,10,13,0
+[`flutter/flutter#30701`](https://github.com/flutter/flutter/issues/30701),"Support multiple windows for desktop shells",2024-01-24,2024-02-12,552,106,11,2
+[`flutter/flutter#53041`](https://github.com/flutter/flutter/issues/53041),"Enable ""hot reload"" (not just ""hot restart"") for Flutter Web",2024-01-24,2024-02-12,959,147,10,1
+[`flutter/flutter#126005`](https://github.com/flutter/flutter/issues/126005),"☂️ Add Swift Package Manager compatibility",2024-01-24,2024-02-12,81,6,9,0
+[`flutter/flutter#112915`](https://github.com/flutter/flutter/issues/112915),"[go_router] Redirection with Riverpod example",2024-01-24,2024-02-12,44,17,9,0
+[`flutter/flutter#138737`](https://github.com/flutter/flutter/issues/138737),"PopScope seems to be incompatible with GoRouter",2024-01-24,2024-02-12,37,8,9,2
+[`flutter/flutter#128059`](https://github.com/flutter/flutter/issues/128059),"[Web] CanvasKit error on web app after hot restart/hot reload",2024-01-24,2024-02-12,64,26,9,0
+[`flutter/flutter#60240`](https://github.com/flutter/flutter/issues/60240),"Make it easier to upload Android native debug symbols for release builds",2024-01-24,2024-02-12,223,55,8,1
+[`flutter/flutter#18345`](https://github.com/flutter/flutter/issues/18345),"SliverAppBar flexibleSpace with height depending on children",2024-01-24,2024-02-12,224,56,7,2
+[`flutter/flutter#41737`](https://github.com/flutter/flutter/issues/41737),"Distribute Flutter as a Flatpak",2024-01-24,2024-02-12,237,45,7,1
+[`flutter/flutter#41722`](https://github.com/flutter/flutter/issues/41722),"Implement PlatformView support on macOS",2024-01-24,2024-02-12,590,55,7,0
+[`flutter/flutter#26134`](https://github.com/flutter/flutter/issues/26134),"Support home and lock screen widgets",2024-01-24,2024-02-12,311,50,6,0
+[`flutter/flutter#33577`](https://github.com/flutter/flutter/issues/33577),"[web] Support compute on separate thread in Flutter Web",2024-01-24,2024-02-12,302,101,6,6
+[`flutter/flutter#112196`](https://github.com/flutter/flutter/issues/112196),"[go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)",2024-01-24,2024-02-12,84,45,6,1
+[`flutter/flutter#41725`](https://github.com/flutter/flutter/issues/41725),"[webview_flutter] Add macOS support",2024-01-24,2024-02-12,358,50,6,0
+[`flutter/flutter#46789`](https://github.com/flutter/flutter/issues/46789),"Improve the indexability (SEO) of Flutter apps on the web ",2024-01-24,2024-02-12,701,189,6,1
+[`flutter/flutter#129640`](https://github.com/flutter/flutter/issues/129640),"Support eye tracking when running on visionOS",2024-01-24,2024-02-12,42,0,6,0
 [`flutter/flutter#94340`](https://github.com/flutter/flutter/issues/94340),"[Feature Request] Support for Jetbrains Fleet
-",2024-01-24,2024-02-06,427,19,5,0
-[`flutter/flutter#33577`](https://github.com/flutter/flutter/issues/33577),"[web] Support compute on separate thread in Flutter Web",2024-01-24,2024-02-06,301,99,5,4
-[`flutter/flutter#65504`](https://github.com/flutter/flutter/issues/65504),"Ctrl+F support, finding text on a page (even when scrolled off screen)",2024-01-24,2024-02-06,103,13,5,0
-[`flutter/flutter#129638`](https://github.com/flutter/flutter/issues/129638),"Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc.",2024-01-24,2024-02-06,54,3,4,1
-[`flutter/flutter#14330`](https://github.com/flutter/flutter/issues/14330),"Code Push / Hot Update / out of band updates",2024-01-24,2024-02-06,1948,277,4,0
-[`flutter/flutter#41722`](https://github.com/flutter/flutter/issues/41722),"Implement PlatformView support on macOS",2024-01-24,2024-02-06,587,55,4,0
-[`flutter/flutter#25841`](https://github.com/flutter/flutter/issues/25841),"Add a way to detect keyboard language",2024-01-24,2024-02-06,138,34,4,0
-[`flutter/flutter#31713`](https://github.com/flutter/flutter/issues/31713),"Implement PlatformView support on Windows",2024-01-24,2024-02-06,348,31,4,0
-[`flutter/flutter#31191`](https://github.com/flutter/flutter/issues/31191),"PageView should preload pages",2024-01-24,2024-02-06,138,44,4,0
-[`flutter/flutter#132735`](https://github.com/flutter/flutter/issues/132735),"[Impeller] Blur performance issue.",2024-01-24,2024-02-06,74,29,4,0
-[`flutter/flutter#47600`](https://github.com/flutter/flutter/issues/47600),"Server-side rendering for Flutter web",2024-01-24,2024-02-06,592,57,4,0
-[`flutter/flutter#129640`](https://github.com/flutter/flutter/issues/129640),"Support eye tracking when running on visionOS",2024-01-24,2024-02-06,40,0,4,0
-[`flutter/flutter#41980`](https://github.com/flutter/flutter/issues/41980),"[Desktop] - Splash screen or background color customization",2024-01-24,2024-02-06,149,11,3,0
-[`flutter/flutter#37777`](https://github.com/flutter/flutter/issues/37777),"Support 32-bit Windows as a target",2024-01-24,2024-02-06,122,39,3,0
-[`flutter/flutter#64491`](https://github.com/flutter/flutter/issues/64491),"Colorized console output does not work in iOS builds but works for Android builds",2024-01-24,2024-02-06,47,42,3,3
-[`flutter/flutter#46979`](https://github.com/flutter/flutter/issues/46979),"Support different dependencies when using flavors",2024-01-24,2024-02-06,120,20,3,0
+",2024-01-24,2024-02-12,427,19,5,0
+[`flutter/flutter#18443`](https://github.com/flutter/flutter/issues/18443),"Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)",2024-01-24,2024-02-12,275,39,5,0
+[`flutter/flutter#31713`](https://github.com/flutter/flutter/issues/31713),"Implement PlatformView support on Windows",2024-01-24,2024-02-12,349,31,5,0
+[`flutter/flutter#31191`](https://github.com/flutter/flutter/issues/31191),"PageView should preload pages",2024-01-24,2024-02-12,139,44,5,0
+[`flutter/flutter#65504`](https://github.com/flutter/flutter/issues/65504),"Ctrl+F support, finding text on a page (even when scrolled off screen)",2024-01-24,2024-02-12,103,13,5,0
+[`flutter/flutter#132735`](https://github.com/flutter/flutter/issues/132735),"[Impeller] Blur performance issue.",2024-01-24,2024-02-12,75,29,5,0
+[`flutter/flutter#37597`](https://github.com/flutter/flutter/issues/37597),"[webview_flutter] Add Windows support",2024-01-24,2024-02-12,270,43,4,0
+[`flutter/flutter#45296`](https://github.com/flutter/flutter/issues/45296),"[path_provider] Add support for web",2024-01-24,2024-02-12,230,41,4,0
+[`flutter/flutter#129638`](https://github.com/flutter/flutter/issues/129638),"Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc.",2024-01-24,2024-02-12,54,3,4,1
+[`flutter/flutter#120353`](https://github.com/flutter/flutter/issues/120353),"[go_router] ShellRoutes break iOS swipe back navigation",2024-01-24,2024-02-12,28,14,4,2
+[`flutter/flutter#114620`](https://github.com/flutter/flutter/issues/114620),"Web autofill throw exception when using html InputElement",2024-02-01,2024-02-12,17,21,4,7
+[`flutter/flutter#41980`](https://github.com/flutter/flutter/issues/41980),"[Desktop] - Splash screen or background color customization",2024-01-24,2024-02-12,150,11,4,0
+[`flutter/flutter#64491`](https://github.com/flutter/flutter/issues/64491),"Colorized console output does not work in iOS builds but works for Android builds",2024-01-24,2024-02-12,48,42,4,3
+[`flutter/flutter#14330`](https://github.com/flutter/flutter/issues/14330),"Code Push / Hot Update / out of band updates",2024-01-24,2024-02-12,1948,277,4,0
+[`flutter/flutter#56665`](https://github.com/flutter/flutter/issues/56665),"[video_player] Better exception message on iOS devices if the video fails to play",2024-01-24,2024-02-12,148,62,4,2
+[`flutter/flutter#25841`](https://github.com/flutter/flutter/issues/25841),"Add a way to detect keyboard language",2024-01-24,2024-02-12,138,34,4,0
+[`flutter/flutter#55809`](https://github.com/flutter/flutter/issues/55809),"Support iPadOS pointer interactions",2024-01-24,2024-02-12,54,11,4,0
+[`flutter/flutter#64958`](https://github.com/flutter/flutter/issues/64958),"Make it easy to use C# for Windows plugins",2024-01-24,2024-02-12,204,65,4,3
+[`flutter/flutter#52207`](https://github.com/flutter/flutter/issues/52207),"ListView: Poor performance with many variable-extent items + jumpTo (scroll bar, trackpad, mouse wheels)",2024-01-24,2024-02-12,155,110,4,1
+[`flutter/flutter#101479`](https://github.com/flutter/flutter/issues/101479),"Move the material and cupertino packages outside of Flutter",2024-01-24,2024-02-12,98,22,4,0
+[`flutter/flutter#47600`](https://github.com/flutter/flutter/issues/47600),"Server-side rendering for Flutter web",2024-01-24,2024-02-12,592,57,4,0
+[`flutter/flutter#138624`](https://github.com/flutter/flutter/issues/138624),"PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set to false",2024-01-24,2024-02-12,33,30,4,12
+[`flutter/flutter#5813`](https://github.com/flutter/flutter/issues/5813),"specify assets that are for development only",2024-01-24,2024-02-12,22,6,4,2
+[`flutter/flutter#47928`](https://github.com/flutter/flutter/issues/47928),"Add Support for tvOS",2024-01-24,2024-02-12,30,21,3,0
+[`flutter/flutter#42560`](https://github.com/flutter/flutter/issues/42560),"Support for sheet presentation style",2024-01-24,2024-02-12,136,45,3,0
+[`flutter/flutter#87789`](https://github.com/flutter/flutter/issues/87789),"Request for `Wrap.builder` method ",2024-01-24,2024-02-12,52,10,3,0
+[`flutter/flutter#73786`](https://github.com/flutter/flutter/issues/73786),"[proposal] Allow Horizontal ListView with Vertical ListView Children Without Fixed Height",2024-01-24,2024-02-12,43,8,3,1
+[`flutter/flutter#139289`](https://github.com/flutter/flutter/issues/139289),"Allow to provide compile-time variables for native platforms from a file",2024-01-24,2024-02-12,36,5,3,1
+[`flutter/flutter#125980`](https://github.com/flutter/flutter/issues/125980),"Adding a Carousel Widget",2024-01-24,2024-02-12,32,9,3,0
+[`flutter/flutter#124205`](https://github.com/flutter/flutter/issues/124205),"Keyboard issue on mobile Web platform",2024-01-24,2024-02-12,32,38,3,3
+[`flutter/flutter#127852`](https://github.com/flutter/flutter/issues/127852),"[Impeller] Implement Wide Gamut colors for Vulkan",2024-01-24,2024-02-12,21,3,3,0
+[`flutter/flutter#46979`](https://github.com/flutter/flutter/issues/46979),"Support different dependencies when using flavors",2024-01-24,2024-02-12,120,20,3,0
+[`flutter/flutter#63693`](https://github.com/flutter/flutter/issues/63693),"Add new Cupertino calendar date picker mode",2024-01-24,2024-02-12,117,33,3,0
+[`flutter/flutter#139292`](https://github.com/flutter/flutter/issues/139292),"New DOM renderer for Flutter web",2024-01-24,2024-02-12,61,27,3,0
 [`flutter/flutter#53120`](https://github.com/flutter/flutter/issues/53120),"Add Support for running Flutter on Windows ARM64",2024-01-24,2024-01-31,55,48,3,0
-[`flutter/flutter#87789`](https://github.com/flutter/flutter/issues/87789),"Request for `Wrap.builder` method ",2024-01-24,2024-02-06,52,10,3,0
-[`flutter/flutter#73786`](https://github.com/flutter/flutter/issues/73786),"[proposal] Allow Horizontal ListView with Vertical ListView Children Without Fixed Height",2024-01-24,2024-02-06,43,8,3,1
-[`flutter/flutter#125980`](https://github.com/flutter/flutter/issues/125980),"Adding a Carousel Widget",2024-01-24,2024-02-06,32,9,3,0
-[`flutter/flutter#18443`](https://github.com/flutter/flutter/issues/18443),"Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)",2024-01-24,2024-02-06,273,39,3,0
-[`flutter/flutter#58997`](https://github.com/flutter/flutter/issues/58997),"InteractiveViewer `constrained: false` custom default scale",2024-01-24,2024-02-06,34,25,3,0
-[`flutter/flutter#56665`](https://github.com/flutter/flutter/issues/56665),"[video_player] Better exception message on iOS devices if the video fails to play",2024-01-24,2024-02-06,147,61,3,1
-[`flutter/flutter#55809`](https://github.com/flutter/flutter/issues/55809),"Support iPadOS pointer interactions",2024-01-24,2024-02-06,53,11,3,0
-[`flutter/flutter#41725`](https://github.com/flutter/flutter/issues/41725),"[webview_flutter] Add macOS support",2024-01-24,2024-02-06,355,50,3,0
+[`flutter/flutter#104509`](https://github.com/flutter/flutter/issues/104509),"Flutter web - Need documentation on how to conditionally display a ""Refresh. New Version is available."" prompt when updated code is deployed to production.",2024-01-24,2024-02-12,46,19,3,1
+[`flutter/flutter#37777`](https://github.com/flutter/flutter/issues/37777),"Support 32-bit Windows as a target",2024-01-24,2024-02-12,122,39,3,0
+[`flutter/flutter#105672`](https://github.com/flutter/flutter/issues/105672),"[Proposal] Access l18n Translations with Dynamic Keys",2024-01-24,2024-02-12,76,16,3,0
+[`flutter/flutter#114012`](https://github.com/flutter/flutter/issues/114012),"Camera CameraCaptureSession.close() crash",2024-01-24,2024-02-12,33,50,3,1
+[`flutter/flutter#110658`](https://github.com/flutter/flutter/issues/110658),"coreLibraryDesugaringEnabled  option in android/app/build.gradle causes immediate flutter crash (java.lang.NoSuchMethod) on Android 12L/13 ",2024-01-24,2024-02-12,28,16,3,1
+[`flutter/flutter#65065`](https://github.com/flutter/flutter/issues/65065),"Bundling assets only on a specific platform (and remove assets on another platform)",2024-01-24,2024-02-12,105,13,3,0
+[`flutter/flutter#61069`](https://github.com/flutter/flutter/issues/61069),"[proposal] ability to change text overflow on the TextField",2024-01-24,2024-02-12,46,22,3,2
+[`flutter/flutter#120874`](https://github.com/flutter/flutter/issues/120874),"Failed assertion node.isRepaintBoundary is not true when combining LayoutBuilder, AnimatedSwitcher and ProgressIndicator",2024-01-24,2024-02-12,34,14,3,1
+[`flutter/flutter#58997`](https://github.com/flutter/flutter/issues/58997),"InteractiveViewer `constrained: false` custom default scale",2024-01-24,2024-02-12,34,25,3,0
+[`flutter/flutter#30541`](https://github.com/flutter/flutter/issues/30541),"Space between text and underline",2024-01-24,2024-02-12,107,32,3,0
+[`flutter/flutter#109842`](https://github.com/flutter/flutter/issues/109842),"Add suport for Android 13 per-app language preferences ",2024-01-24,2024-02-12,50,4,3,0
+[`flutter/flutter#32120`](https://github.com/flutter/flutter/issues/32120),"Add option to smoothly animate stepped mouse scroll deltas",2024-01-24,2024-02-12,131,55,3,4
+[`flutter/flutter#28901`](https://github.com/flutter/flutter/issues/28901),"Flutter support for Apple Watch",2024-01-24,2024-02-12,239,41,3,2
+[`flutter/flutter#67283`](https://github.com/flutter/flutter/issues/67283),"Make ""fields"" in FormState not a private member",2024-01-24,2024-02-12,25,3,3,0
 [`flutter/flutter#112281`](https://github.com/flutter/flutter/issues/112281),"iOS  15+ save password prompt dismiss is pushing UI up and down",2024-01-24,2024-02-04,17,29,3,3
-[`flutter/flutter#60240`](https://github.com/flutter/flutter/issues/60240),"Make it easier to upload Android native debug symbols for release builds",2024-01-24,2024-02-06,217,55,2,1
-[`flutter/flutter#42332`](https://github.com/flutter/flutter/issues/42332),"2D TreeView widget",2024-01-24,2024-02-06,44,4,2,1
-[`flutter/flutter#29021`](https://github.com/flutter/flutter/issues/29021),"Expo like tool for flutter",2024-01-24,2024-02-06,265,76,2,0
-[`flutter/flutter#63500`](https://github.com/flutter/flutter/issues/63500),"Web Cache invalidation based on Build Number",2024-01-24,2024-02-06,61,67,2,2
-[`flutter/flutter#9707`](https://github.com/flutter/flutter/issues/9707),"""Lost connection to device"" randomly when not doing anything in particular",2024-01-24,2024-02-06,43,43,2,0
-[`flutter/flutter#120353`](https://github.com/flutter/flutter/issues/120353),"[go_router] ShellRoutes break iOS swipe back navigation",2024-01-24,2024-02-06,26,13,2,1
-[`flutter/flutter#45336`](https://github.com/flutter/flutter/issues/45336),"Add TextOverflow  ""ellipsisStart"" , ""ellipsisMiddle""  and ""ellipsisEnd"" ",2024-01-24,2024-02-06,143,31,2,1
-[`flutter/flutter#14230`](https://github.com/flutter/flutter/issues/14230),"Provide an easy way to select the version of Flutter to use",2024-01-24,2024-02-06,126,50,2,0
-[`flutter/flutter#90612`](https://github.com/flutter/flutter/issues/90612),"[flutter_tools] Add support for running custom scripts",2024-01-24,2024-02-06,33,7,2,0
-[`flutter/flutter#84833`](https://github.com/flutter/flutter/issues/84833),"[web][PWA] SafeArea Widget does not work on iOS Safari PWA",2024-01-24,2024-02-06,30,23,2,2
-[`flutter/flutter#127852`](https://github.com/flutter/flutter/issues/127852),"[Impeller] Implement Wide Gamut colors for Vulkan",2024-01-24,2024-02-06,20,3,2,0
-[`flutter/flutter#98484`](https://github.com/flutter/flutter/issues/98484),"[in_app_purchase][ios] `AppStorePurchaseDetails.pendingCompletePurchase = true` after calling `completePurchase`",2024-01-24,2024-02-06,17,25,2,1
-[`flutter/flutter#137394`](https://github.com/flutter/flutter/issues/137394),"[go_router_builder] add onExit parameter",2024-01-24,2024-02-06,15,0,2,0
-[`flutter/flutter#61229`](https://github.com/flutter/flutter/issues/61229),"AVIF codec support",2024-01-24,2024-02-06,141,22,2,0
-[`flutter/flutter#65065`](https://github.com/flutter/flutter/issues/65065),"Bundling assets only on a specific platform (and remove assets on another platform)",2024-01-24,2024-02-06,104,13,2,0
-[`flutter/flutter#61069`](https://github.com/flutter/flutter/issues/61069),"[proposal] ability to change text overflow on the TextField",2024-01-24,2024-02-06,45,22,2,2
-[`flutter/flutter#60298`](https://github.com/flutter/flutter/issues/60298),"Pull-Down Menus for iOS 14",2024-01-24,2024-02-06,44,18,2,0
-[`flutter/flutter#120874`](https://github.com/flutter/flutter/issues/120874),"Failed assertion node.isRepaintBoundary is not true when combining LayoutBuilder, AnimatedSwitcher and ProgressIndicator",2024-01-24,2024-02-06,33,13,2,0
-[`flutter/flutter#54200`](https://github.com/flutter/flutter/issues/54200),"allow Hero widgets to have transitions within the same screen",2024-01-24,2024-02-06,202,23,2,1
-[`flutter/flutter#30541`](https://github.com/flutter/flutter/issues/30541),"Space between text and underline",2024-01-24,2024-02-06,106,32,2,0
-[`flutter/flutter#123095`](https://github.com/flutter/flutter/issues/123095),"App crash on Android device with type FlutterJNI.nativeUpdateRefreshRate",2024-01-24,2024-02-06,56,34,2,0
+[`flutter/flutter#64739`](https://github.com/flutter/flutter/issues/64739),"[shared_preferences] Be able to specify the suiteName in SharedPreferences iOS",2024-01-24,2024-02-12,73,19,2,0
+[`flutter/flutter#77638`](https://github.com/flutter/flutter/issues/77638),"Avoid requiring Visual Studio for Windows development",2024-01-24,2024-02-12,61,52,2,2
+[`flutter/flutter#104908`](https://github.com/flutter/flutter/issues/104908),"Android TalkBack Item label warning for the whole screen",2024-01-24,2024-02-12,52,22,2,0
+[`flutter/flutter#27650`](https://github.com/flutter/flutter/issues/27650),"[camera] Allow controlling the preview and output mirroring",2024-01-24,2024-02-12,35,51,2,0
+[`flutter/flutter#115704`](https://github.com/flutter/flutter/issues/115704),"Add support to define widget preview and see it in the IDE when developing",2024-01-24,2024-02-12,29,15,2,0
+[`flutter/flutter#108683`](https://github.com/flutter/flutter/issues/108683),"Add Dropdown support to `FilterChip`",2024-01-24,2024-02-12,26,7,2,1
+[`flutter/flutter#111110`](https://github.com/flutter/flutter/issues/111110),"When using `flutter drive`, Flutter's semantics tree doesn't produce virtual Android Views",2024-01-24,2024-02-12,25,16,2,0
+[`flutter/flutter#45336`](https://github.com/flutter/flutter/issues/45336),"Add TextOverflow  ""ellipsisStart"" , ""ellipsisMiddle""  and ""ellipsisEnd"" ",2024-01-24,2024-02-12,143,31,2,1
+[`flutter/flutter#14230`](https://github.com/flutter/flutter/issues/14230),"Provide an easy way to select the version of Flutter to use",2024-01-24,2024-02-12,126,50,2,0
+[`flutter/flutter#33798`](https://github.com/flutter/flutter/issues/33798),"[iOS 13] new fullscreen stack type route transition",2024-01-24,2024-02-12,98,16,2,0
+[`flutter/flutter#34138`](https://github.com/flutter/flutter/issues/34138),"[webview_flutter] make height of WebView the height of webpage",2024-01-24,2024-02-12,54,33,2,1
+[`flutter/flutter#47030`](https://github.com/flutter/flutter/issues/47030),"[video_player] Videos don't play in Safari/Chrome on iOS ",2024-01-24,2024-02-12,50,100,2,1
+[`flutter/flutter#90612`](https://github.com/flutter/flutter/issues/90612),"[flutter_tools] Add support for running custom scripts",2024-01-24,2024-02-12,33,7,2,0
+[`flutter/flutter#84833`](https://github.com/flutter/flutter/issues/84833),"[web][PWA] SafeArea Widget does not work on iOS Safari PWA",2024-01-24,2024-02-12,30,23,2,2
+[`flutter/flutter#134723`](https://github.com/flutter/flutter/issues/134723),"Password bar in the keyboard is flashing when using `TextField` with `AutofillHints.password` on iOS 17",2024-01-24,2024-02-12,21,22,2,1
+[`flutter/flutter#98484`](https://github.com/flutter/flutter/issues/98484),"[in_app_purchase][ios] `AppStorePurchaseDetails.pendingCompletePurchase = true` after calling `completePurchase`",2024-01-24,2024-02-12,17,25,2,1
+[`flutter/flutter#137394`](https://github.com/flutter/flutter/issues/137394),"[go_router_builder] add onExit parameter",2024-01-24,2024-02-12,15,0,2,0
+[`flutter/flutter#14050`](https://github.com/flutter/flutter/issues/14050),"Let flutter be installable via homebrew",2024-01-24,2024-02-12,1002,83,2,0
+[`flutter/flutter#29021`](https://github.com/flutter/flutter/issues/29021),"Expo like tool for flutter",2024-01-24,2024-02-12,265,76,2,0
+[`flutter/flutter#32045`](https://github.com/flutter/flutter/issues/32045),"Flutter clipboard should support images",2024-01-24,2024-02-12,82,20,2,0
+[`flutter/flutter#63500`](https://github.com/flutter/flutter/issues/63500),"Web Cache invalidation based on Build Number",2024-01-24,2024-02-12,61,69,2,4
+[`flutter/flutter#123078`](https://github.com/flutter/flutter/issues/123078),"[shared_preferences] Consider making async accessors, with optional caching layer",2024-01-24,2024-02-12,52,6,2,0
+[`flutter/flutter#9707`](https://github.com/flutter/flutter/issues/9707),"""Lost connection to device"" randomly when not doing anything in particular",2024-01-24,2024-02-12,43,43,2,0
+[`flutter/flutter#124334`](https://github.com/flutter/flutter/issues/124334),"WebGPU Backend for Flutter Web",2024-01-24,2024-02-12,41,5,2,0
+[`flutter/flutter#41726`](https://github.com/flutter/flutter/issues/41726),"[webview_flutter] Add Linux support",2024-01-24,2024-02-12,87,4,2,0
+[`flutter/flutter#51928`](https://github.com/flutter/flutter/issues/51928),"[camera] Support for multiple cameras at once",2024-01-24,2024-02-12,81,9,2,0
+[`flutter/flutter#60069`](https://github.com/flutter/flutter/issues/60069),"[web] support offline PWA",2024-01-24,2024-02-12,59,35,2,7
+[`flutter/flutter#97050`](https://github.com/flutter/flutter/issues/97050),"Supporting of in app purchases on Windows Store",2024-01-24,2024-02-12,45,6,2,1
+[`flutter/flutter#42332`](https://github.com/flutter/flutter/issues/42332),"2D TreeView widget",2024-01-24,2024-02-12,44,5,2,2
+[`flutter/flutter#22856`](https://github.com/flutter/flutter/issues/22856),"On Android when there are multiple flavors and no --flavor flag is specified then use a default one",2024-01-24,2024-02-12,43,22,2,1
+[`flutter/flutter#8230`](https://github.com/flutter/flutter/issues/8230),"Platform specific assets",2024-01-24,2024-02-12,38,8,2,0
+[`flutter/flutter#98178`](https://github.com/flutter/flutter/issues/98178),"[ListTile] Support custom height constraints of leading/trailing",2024-01-24,2024-02-12,29,7,2,0
+[`flutter/flutter#61229`](https://github.com/flutter/flutter/issues/61229),"AVIF codec support",2024-01-24,2024-02-12,141,22,2,0
+[`flutter/flutter#60298`](https://github.com/flutter/flutter/issues/60298),"Pull-Down Menus for iOS 14",2024-01-24,2024-02-12,44,18,2,0
+[`flutter/flutter#54200`](https://github.com/flutter/flutter/issues/54200),"allow Hero widgets to have transitions within the same screen",2024-01-24,2024-02-12,202,23,2,1
+[`flutter/flutter#139039`](https://github.com/flutter/flutter/issues/139039),"Samsung phones running Android 14 stops drawing platform views on resume",2024-01-24,2024-02-12,56,49,2,2
+[`flutter/flutter#123095`](https://github.com/flutter/flutter/issues/123095),"App crash on Android device with type FlutterJNI.nativeUpdateRefreshRate",2024-01-24,2024-02-12,56,34,2,0
 [`flutter/flutter#122541`](https://github.com/flutter/flutter/issues/122541),"Flutter web rendering occasionally becomes blurry when page is expanded",2024-01-24,2024-01-28,56,54,2,2
-[`flutter/flutter#10647`](https://github.com/flutter/flutter/issues/10647),"Using dart:ui from non-main-thread Isolates crashes",2024-01-24,2024-02-06,53,40,2,2
-[`flutter/flutter#51530`](https://github.com/flutter/flutter/issues/51530),"[web]: Support for backend proxy",2024-01-24,2024-02-06,37,17,2,0
-[`flutter/flutter#109813`](https://github.com/flutter/flutter/issues/109813),"Flutter app flagged for missing accessibility content labels by Google Play Store",2024-01-24,2024-02-06,16,8,2,1
-[`flutter/flutter#37597`](https://github.com/flutter/flutter/issues/37597),"[webview_flutter] Add Windows support",2024-01-24,2024-02-06,268,43,2,0
-[`flutter/flutter#45296`](https://github.com/flutter/flutter/issues/45296),"[path_provider] Add support for web",2024-01-24,2024-02-06,228,41,2,0
-[`flutter/flutter#77638`](https://github.com/flutter/flutter/issues/77638),"Avoid requiring Visual Studio for Windows development",2024-01-24,2024-02-06,61,52,2,2
-[`flutter/flutter#27650`](https://github.com/flutter/flutter/issues/27650),"[camera] Allow controlling the preview and output mirroring",2024-01-24,2024-02-06,35,51,2,0
-[`flutter/flutter#47928`](https://github.com/flutter/flutter/issues/47928),"Add Support for tvOS",2024-01-24,2024-02-06,29,21,2,0
-[`flutter/flutter#108683`](https://github.com/flutter/flutter/issues/108683),"Add Dropdown support to `FilterChip`",2024-01-24,2024-02-06,26,7,2,1
-[`flutter/flutter#111110`](https://github.com/flutter/flutter/issues/111110),"When using `flutter drive`, Flutter's semantics tree doesn't produce virtual Android Views",2024-01-24,2024-02-06,25,16,2,0
-[`flutter/flutter#19941`](https://github.com/flutter/flutter/issues/19941),"Return index of the first visible item in ListView",2024-01-24,2024-02-06,198,27,2,0
-[`flutter/flutter#52207`](https://github.com/flutter/flutter/issues/52207),"ListView: Poor performance with many variable-extent items + jumpTo (scroll bar, trackpad, mouse wheels)",2024-01-24,2024-02-06,153,109,2,0
-[`flutter/flutter#32120`](https://github.com/flutter/flutter/issues/32120),"Add option to smoothly animate stepped mouse scroll deltas",2024-01-24,2024-02-06,130,52,2,1
-[`flutter/flutter#112181`](https://github.com/flutter/flutter/issues/112181),"[go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute",2024-01-24,2024-02-06,21,1,2,0
-[`flutter/flutter#46789`](https://github.com/flutter/flutter/issues/46789),"Improve the indexability (SEO) of Flutter apps on the web ",2024-01-24,2024-02-06,697,189,2,1
-[`flutter/flutter#28901`](https://github.com/flutter/flutter/issues/28901),"Flutter support for Apple Watch",2024-01-24,2024-02-06,238,41,2,2
-[`flutter/flutter#39707`](https://github.com/flutter/flutter/issues/39707),"Import multiple Flutter modules in a native app",2024-01-24,2024-02-06,186,41,2,0
-[`flutter/flutter#86295`](https://github.com/flutter/flutter/issues/86295),"[integration_test] Allow driving native UI interactions from Dart",2024-01-24,2024-02-06,79,24,2,0
-[`flutter/flutter#50890`](https://github.com/flutter/flutter/issues/50890),"How to remove 'I/flutter (13135):' in vscode debug console",2024-01-24,2024-02-06,36,13,2,0
-[`flutter/flutter#91318`](https://github.com/flutter/flutter/issues/91318),"[flutter_tools] Refactor Flutter SDK to support installation in read-only directory",2024-01-24,2024-02-06,25,24,2,0
-[`flutter/flutter#67283`](https://github.com/flutter/flutter/issues/67283),"Make ""fields"" in FormState not a private member",2024-01-24,2024-02-06,24,3,2,0
-[`flutter/flutter#5813`](https://github.com/flutter/flutter/issues/5813),"specify assets that are for development only",2024-01-24,2024-02-06,20,6,2,2
-[`flutter/flutter#42560`](https://github.com/flutter/flutter/issues/42560),"Support for sheet presentation style",2024-01-24,2024-02-06,134,45,1,0
-[`flutter/flutter#21980`](https://github.com/flutter/flutter/issues/21980),"Dependency Injection for Flutter",2024-01-24,2024-02-06,123,19,1,0
-[`flutter/flutter#63323`](https://github.com/flutter/flutter/issues/63323),"Code generation experience needs improvements",2024-01-24,2024-02-06,114,16,1,0
-[`flutter/flutter#35042`](https://github.com/flutter/flutter/issues/35042),"Official support for Raspberry PI 4",2024-01-24,2024-02-06,111,10,1,0
-[`flutter/flutter#33798`](https://github.com/flutter/flutter/issues/33798),"[iOS 13] new fullscreen stack type route transition",2024-01-24,2024-02-06,97,16,1,0
-[`flutter/flutter#102408`](https://github.com/flutter/flutter/issues/102408),"[go_router] Replace redirect with onEnter and onExit",2024-01-24,2024-02-06,65,49,1,1
-[`flutter/flutter#38684`](https://github.com/flutter/flutter/issues/38684),"Allow nested hero widgets",2024-01-24,2024-02-06,61,19,1,0
-[`flutter/flutter#34138`](https://github.com/flutter/flutter/issues/34138),"[webview_flutter] make height of WebView the height of webpage",2024-01-24,2024-02-06,53,32,1,0
-[`flutter/flutter#47030`](https://github.com/flutter/flutter/issues/47030),"[video_player] Videos don't play in Safari/Chrome on iOS ",2024-01-24,2024-02-06,49,100,1,1
-[`flutter/flutter#32115`](https://github.com/flutter/flutter/issues/32115),"Allow to set the logical pixel size programmatically ",2024-01-24,2024-02-06,49,44,1,0
-[`flutter/flutter#60695`](https://github.com/flutter/flutter/issues/60695),"[google_maps_flutter] Add callback for click on google poi's on the map",2024-01-24,2024-02-06,47,13,1,0
-[`flutter/flutter#66618`](https://github.com/flutter/flutter/issues/66618),"WebGPU in Flutter",2024-01-24,2024-02-06,43,1,1,0
-[`flutter/flutter#119207`](https://github.com/flutter/flutter/issues/119207),"Unable receive Platform Channel calls in background isolates",2024-01-24,2024-02-06,37,15,1,0
-[`flutter/flutter#58854`](https://github.com/flutter/flutter/issues/58854),"[video_player] Can't  Change HSL Video Quilty",2024-01-24,2024-02-06,35,17,1,0
-[`flutter/flutter#41708`](https://github.com/flutter/flutter/issues/41708),"[camera] Add macOS support",2024-01-24,2024-02-06,36,16,1,0
-[`flutter/flutter#51752`](https://github.com/flutter/flutter/issues/51752),"Reusing state logic is either too verbose or too difficult",2024-01-24,2024-02-06,273,518,1,0
-[`flutter/flutter#40740`](https://github.com/flutter/flutter/issues/40740),"NestedScrollView's use of PrimaryScrollController breaks when there are multiple inner ScrollPositions",2024-01-24,2024-02-06,101,65,1,0
-[`flutter/flutter#18636`](https://github.com/flutter/flutter/issues/18636),"ShadowBox inset attribute? Inner shadow",2024-01-24,2024-02-06,90,46,1,0
-[`flutter/flutter#58145`](https://github.com/flutter/flutter/issues/58145),"3D Flutter Api Support",2024-01-24,2024-02-06,79,13,1,0
-[`flutter/flutter#84957`](https://github.com/flutter/flutter/issues/84957),"[camera] Taking pictures is too slow on some devices",2024-01-24,2024-02-06,69,50,1,0
-[`flutter/flutter#41710`](https://github.com/flutter/flutter/issues/41710),"[camera] Add Linux support",2024-01-24,2024-02-06,62,16,1,0
-[`flutter/flutter#75588`](https://github.com/flutter/flutter/issues/75588),"Decoration for unselected tabs in TabBar",2024-01-24,2024-02-06,56,19,1,0
-[`flutter/flutter#65006`](https://github.com/flutter/flutter/issues/65006),"[InteractiveViewer] ListView in InteractiveViewer doesn't zoom sometimes",2024-01-24,2024-02-06,34,22,1,0
-[`flutter/flutter#89525`](https://github.com/flutter/flutter/issues/89525),"[camera] Proposal - Add support for optical image stabilization (OIS)",2024-01-27,2024-02-06,13,6,1,1
-[`flutter/flutter#21594`](https://github.com/flutter/flutter/issues/21594),"Table > TableRow > TableCell colspan",2024-01-24,2024-02-06,243,41,1,0
-[`flutter/flutter#139039`](https://github.com/flutter/flutter/issues/139039),"Samsung phones running Android 14 stops drawing platform views on resume",2024-01-24,2024-02-06,55,48,1,1
-[`flutter/flutter#133465`](https://github.com/flutter/flutter/issues/133465),"Long-term solution to replacing `ios-deploy`",2024-01-24,2024-02-06,52,16,1,0
-[`flutter/flutter#109842`](https://github.com/flutter/flutter/issues/109842),"Add suport for Android 13 per-app language preferences ",2024-01-24,2024-02-06,48,4,1,0
-[`flutter/flutter#94804`](https://github.com/flutter/flutter/issues/94804),"Use gtk4 for linux desktop",2024-01-24,2024-02-06,48,22,1,0
-[`flutter/flutter#62118`](https://github.com/flutter/flutter/issues/62118),"Video_Player issues - out of memory exception when choosing large file from phone to play",2024-01-24,2024-02-06,35,42,1,0
-[`flutter/flutter#138737`](https://github.com/flutter/flutter/issues/138737),"PopScope seems to be incompatible with GoRouter",2024-01-24,2024-02-06,29,7,1,1
-[`flutter/flutter#116651`](https://github.com/flutter/flutter/issues/116651),"[go_router] What does 'refreshListenable' do? How does it work? (missing documentation)",2024-01-24,2024-02-06,28,80,1,0
-[`flutter/flutter#43582`](https://github.com/flutter/flutter/issues/43582),"keep state inside SearchDelegate ",2024-01-24,2024-02-06,21,15,1,0
-[`flutter/flutter#114324`](https://github.com/flutter/flutter/issues/114324),"Extra page shown when swiping back in Safari on iOS ",2024-01-24,2024-02-06,19,24,1,0
-[`flutter/flutter#50455`](https://github.com/flutter/flutter/issues/50455),"Failed to xcodebuild against multiple iOS devices: Build service could not start build operation: unknown error while handling message: Could not acquire lock at path `Path(str: "".../DerivedData/.../...-Workspace.lock"")`",2024-01-24,2024-02-06,19,32,1,0
-[`flutter/flutter#51267`](https://github.com/flutter/flutter/issues/51267),"[google_maps_flutter] Please clarify why API KEY in source code is OK",2024-01-24,2024-02-06,16,16,1,0
-[`flutter/flutter#87734`](https://github.com/flutter/flutter/issues/87734),"[web] Incomplete sourcemaps",2024-01-24,2024-02-06,15,14,1,0
-[`flutter/flutter#58192`](https://github.com/flutter/flutter/issues/58192),"Add mouse cursor support to the remaining widgets",2024-01-24,2024-02-06,15,21,1,0
-[`flutter/flutter#72029`](https://github.com/flutter/flutter/issues/72029),"Selection toolbar/handler should disappear when it is opened and user clicks outside of it",2024-01-24,2024-02-06,14,15,1,0
-[`flutter/flutter#71400`](https://github.com/flutter/flutter/issues/71400),"Customizable project structure (platforms)",2024-01-24,2024-02-06,403,21,1,0
-[`flutter/flutter#37673`](https://github.com/flutter/flutter/issues/37673),"[video_player] Add Windows support",2024-01-24,2024-02-06,177,66,1,0
-[`flutter/flutter#26152`](https://github.com/flutter/flutter/issues/26152),"Tizen platform support",2024-01-24,2024-02-06,111,27,1,0
-[`flutter/flutter#116526`](https://github.com/flutter/flutter/issues/116526),"Support Material 3 motion - Transitions",2024-01-24,2024-02-06,78,11,1,0
-[`flutter/flutter#102560`](https://github.com/flutter/flutter/issues/102560),"Support Material Symbols ",2024-01-24,2024-02-06,74,19,1,0
-[`flutter/flutter#25652`](https://github.com/flutter/flutter/issues/25652),"Scrollbar resizing and jumping",2024-01-24,2024-02-06,61,50,1,0
-[`flutter/flutter#41731`](https://github.com/flutter/flutter/issues/41731),"[google_maps_flutter] Performance drop when loading markers from bytes",2024-01-24,2024-02-06,55,40,1,0
-[`flutter/flutter#62401`](https://github.com/flutter/flutter/issues/62401),"showDatePicker has date format issues when DatePickerEntryMode.input is selected",2024-01-24,2024-02-06,44,22,1,0
-[`flutter/flutter#115751`](https://github.com/flutter/flutter/issues/115751),"Building all integration test targets into a single application binary",2024-01-24,2024-02-06,34,12,1,0
-[`flutter/flutter#90063`](https://github.com/flutter/flutter/issues/90063),"TextField with lots of text can hang app",2024-01-24,2024-02-06,30,39,1,1
-[`flutter/flutter#61246`](https://github.com/flutter/flutter/issues/61246),"[flutter_tools] IDE plugin validators should be deprecated",2024-01-24,2024-02-06,28,6,1,0
-[`flutter/flutter#56239`](https://github.com/flutter/flutter/issues/56239),"Specifying cacheWidth / cacheHeight can degrade the image quality",2024-01-24,2024-02-06,26,16,1,0
-[`flutter/flutter#127209`](https://github.com/flutter/flutter/issues/127209),"Add docs for go_router StatefulShellRoute",2024-01-24,2024-02-06,21,0,1,0
-[`flutter/flutter#110928`](https://github.com/flutter/flutter/issues/110928),"Documentation request: deep linking and Android launchMode",2024-01-24,2024-02-06,20,1,1,0
-[`flutter/flutter#97305`](https://github.com/flutter/flutter/issues/97305),"[web] support scaling page content using two-finger pinch gesture",2024-01-24,2024-02-06,15,22,1,0
-[`flutter/flutter#24213`](https://github.com/flutter/flutter/issues/24213),"[google_maps_flutter] Support Widgets as markers",2024-01-24,2024-02-06,411,52,1,0
-[`flutter/flutter#110431`](https://github.com/flutter/flutter/issues/110431),"Flutter adds additional one frame touch latency compared to native",2024-01-24,2024-02-06,274,23,1,0
-[`flutter/flutter#64958`](https://github.com/flutter/flutter/issues/64958),"Make it easy to use C# for Windows plugins",2024-01-24,2024-02-06,201,62,1,0
-[`flutter/flutter#14288`](https://github.com/flutter/flutter/issues/14288),"Antialiasing behaviour when same-colour ",2024-01-24,2024-02-06,139,92,1,0
-[`flutter/flutter#101479`](https://github.com/flutter/flutter/issues/101479),"Move the material and cupertino packages outside of Flutter",2024-01-24,2024-02-06,95,22,1,0
-[`flutter/flutter#104889`](https://github.com/flutter/flutter/issues/104889),"[webview_flutter][android] webview crashes when embedded in a scrollview",2024-01-24,2024-02-06,75,49,1,0
-[`flutter/flutter#9688`](https://github.com/flutter/flutter/issues/9688),"Input validator async",2024-01-24,2024-02-06,65,23,1,0
-[`flutter/flutter#40135`](https://github.com/flutter/flutter/issues/40135),"Don't rely on global `pod` installation, use bundled version",2024-01-24,2024-02-06,50,10,1,0
-[`flutter/flutter#37510`](https://github.com/flutter/flutter/issues/37510),"Provide a disableSwipe to PageView",2024-01-24,2024-02-06,45,22,1,0
-[`flutter/flutter#76248`](https://github.com/flutter/flutter/issues/76248),"[web] Emojis take a few seconds to render on canvaskit",2024-01-24,2024-02-06,39,14,1,1
-[`flutter/flutter#76478`](https://github.com/flutter/flutter/issues/76478),"[web]: No back/forward gesture support on iOS and MacOS browsers",2024-01-24,2024-02-06,36,14,1,1
-[`flutter/flutter#117382`](https://github.com/flutter/flutter/issues/117382),"Canvas instrumentation (recording)",2024-01-24,2024-02-06,28,6,1,0
-[`flutter/flutter#37987`](https://github.com/flutter/flutter/issues/37987),"Enable hot restart on profile mode",2024-01-24,2024-02-06,27,14,1,0
-[`flutter/flutter#62966`](https://github.com/flutter/flutter/issues/62966),"Use dart_test.yaml in flutter test",2024-01-24,2024-02-06,20,6,1,0
-[`flutter/flutter#90373`](https://github.com/flutter/flutter/issues/90373),"[Image_picker]: Image gallery opens twice if we choose select photos permission.",2024-01-24,2024-02-06,19,42,1,1
-[`flutter/flutter#69676`](https://github.com/flutter/flutter/issues/69676),"Persistent bottom sheet does not respect SafeArea",2024-01-24,2024-02-06,19,8,1,0
-[`flutter/flutter#73315`](https://github.com/flutter/flutter/issues/73315),"Ink widget decoration visible or/and renders outside the ListView boundary up to the cacheExtent.",2024-01-24,2024-02-06,18,14,1,0
-[`flutter/flutter#73208`](https://github.com/flutter/flutter/issues/73208),"Draggable feedback widget gets an offset when InteractiveViewer is scaled",2024-01-24,2024-02-06,17,13,1,0
-[`flutter/flutter#117937`](https://github.com/flutter/flutter/issues/117937),"External Texture Support for Vulkan",2024-01-24,2024-02-06,15,3,1,0
-[`flutter/flutter#14203`](https://github.com/flutter/flutter/issues/14203),"Document that WillPopScope prevents swipe to go back on MaterialPageRoute",2024-01-24,2024-02-06,188,112,1,0
-[`flutter/flutter#69429`](https://github.com/flutter/flutter/issues/69429),"Make tests compile and run faster",2024-01-24,2024-02-06,92,22,1,0
-[`flutter/flutter#51928`](https://github.com/flutter/flutter/issues/51928),"[camera] Support for multiple cameras at once",2024-01-24,2024-02-06,80,9,1,0
-[`flutter/flutter#105672`](https://github.com/flutter/flutter/issues/105672),"[Proposal] Access l18n Translations with Dynamic Keys",2024-01-24,2024-02-06,74,16,1,0
-[`flutter/flutter#69157`](https://github.com/flutter/flutter/issues/69157),"Build Flutter macOS artifacts with ARM architecture slice",2024-01-24,2024-02-06,67,10,1,0
-[`flutter/flutter#60069`](https://github.com/flutter/flutter/issues/60069),"[web] support offline PWA",2024-01-24,2024-02-06,58,35,1,7
-[`flutter/flutter#97050`](https://github.com/flutter/flutter/issues/97050),"Supporting of in app purchases on Windows Store",2024-01-24,2024-02-06,44,6,1,1
-[`flutter/flutter#135050`](https://github.com/flutter/flutter/issues/135050),"Add `context.dependOnListenable(Listenable listenable)`",2024-01-24,2024-02-06,43,8,1,0
-[`flutter/flutter#78247`](https://github.com/flutter/flutter/issues/78247),"Low Resolution in Camera Image Stream, ResolutionPreset Constructor Parameter is ignored",2024-01-24,2024-02-06,42,12,1,0
-[`flutter/flutter#22856`](https://github.com/flutter/flutter/issues/22856),"On Android when there are multiple flavors and no --flavor flag is specified then use a default one",2024-01-24,2024-02-06,42,21,1,0
-[`flutter/flutter#64073`](https://github.com/flutter/flutter/issues/64073),"[google_maps_flutter_web] Add ""My Location"" Widget.",2024-01-24,2024-02-06,41,13,1,0
-[`flutter/flutter#8230`](https://github.com/flutter/flutter/issues/8230),"Platform specific assets",2024-01-24,2024-02-06,37,8,1,0
-[`flutter/flutter#81739`](https://github.com/flutter/flutter/issues/81739),"[flutter_markdown] Support `maxLines` and `overflow`",2024-01-24,2024-02-06,32,5,1,0
-[`flutter/flutter#17130`](https://github.com/flutter/flutter/issues/17130),"A cold-start ""flutter test"" takes multiple seconds",2024-01-24,2024-02-06,32,34,1,0
-[`flutter/flutter#114012`](https://github.com/flutter/flutter/issues/114012),"Camera CameraCaptureSession.close() crash",2024-01-24,2024-02-06,31,50,1,1
-[`flutter/flutter#98178`](https://github.com/flutter/flutter/issues/98178),"[ListTile] Support custom height constraints of leading/trailing",2024-01-24,2024-02-06,28,7,1,0
-[`flutter/flutter#54272`](https://github.com/flutter/flutter/issues/54272),"Add support for RefreshIndicator to be used with SliverAppBar",2024-01-24,2024-02-06,29,14,1,0
-[`flutter/flutter#44937`](https://github.com/flutter/flutter/issues/44937),"Allow using dart:indexed_db in flutter apps",2024-01-24,2024-02-06,28,13,1,1
-[`flutter/flutter#110658`](https://github.com/flutter/flutter/issues/110658),"coreLibraryDesugaringEnabled  option in android/app/build.gradle causes immediate flutter crash (java.lang.NoSuchMethod) on Android 12L/13 ",2024-01-24,2024-02-06,26,15,1,0
-[`flutter/flutter#60750`](https://github.com/flutter/flutter/issues/60750),"[ios] Initializing google map with 'n' markers takes O(n) time to add and blocks the UI during this period",2024-01-24,2024-02-06,25,18,1,0
-[`flutter/flutter#129933`](https://github.com/flutter/flutter/issues/129933),"[Flutter-web] Control+MouseWheel should zoom the browser window",2024-01-24,2024-02-06,23,9,1,0
-[`flutter/flutter#99052`](https://github.com/flutter/flutter/issues/99052),"There should be no default page transitions for desktop and web platforms.",2024-01-24,2024-02-06,20,13,1,0
-[`flutter/flutter#110781`](https://github.com/flutter/flutter/issues/110781),"[go_router_builder] Custom type conversion for parameters",2024-01-24,2024-02-06,14,2,1,0
-[`flutter/flutter#21230`](https://github.com/flutter/flutter/issues/21230),"Add new features to Dismissible widget",2024-01-24,2024-02-06,14,5,1,0
-[`flutter/flutter#14050`](https://github.com/flutter/flutter/issues/14050),"Let flutter be installable via homebrew",2024-01-24,2024-02-06,1001,83,1,0
-[`flutter/flutter#26863`](https://github.com/flutter/flutter/issues/26863),"[google_maps_flutter] Support marker clustering",2024-01-24,2024-02-06,331,56,1,0
-[`flutter/flutter#28894`](https://github.com/flutter/flutter/issues/28894),"Emoji size is off on iOS",2024-01-24,2024-02-06,131,183,1,0
-[`flutter/flutter#63693`](https://github.com/flutter/flutter/issues/63693),"Add new Cupertino calendar date picker mode",2024-01-24,2024-02-06,115,33,1,0
-[`flutter/flutter#4719`](https://github.com/flutter/flutter/issues/4719),"flutter test --coverage and flutter test --watch",2024-01-24,2024-02-06,106,11,1,0
-[`flutter/flutter#32045`](https://github.com/flutter/flutter/issues/32045),"Flutter clipboard should support images",2024-01-24,2024-02-06,81,20,1,0
-[`flutter/flutter#49757`](https://github.com/flutter/flutter/issues/49757),"Desktop app frame rate isn't synced to display",2024-01-24,2024-02-06,76,20,1,0
-[`flutter/flutter#40504`](https://github.com/flutter/flutter/issues/40504),"Add support for external storage(Sd Card, USB Storage etc) in flutter.",2024-01-24,2024-02-06,75,27,1,1
-[`flutter/flutter#40682`](https://github.com/flutter/flutter/issues/40682),"Spellcheck on Flutter Web",2024-01-24,2024-02-06,66,18,1,0
-[`flutter/flutter#139292`](https://github.com/flutter/flutter/issues/139292),"New DOM renderer for Flutter web",2024-01-24,2024-02-06,59,27,1,0
-[`flutter/flutter#77104`](https://github.com/flutter/flutter/issues/77104),"Enable custom ""flutter create"" templates",2024-01-24,2024-02-06,59,26,1,1
-[`flutter/flutter#127855`](https://github.com/flutter/flutter/issues/127855),"Implement wide gamut color support in the Framework",2024-01-24,2024-02-06,57,6,1,0
-[`flutter/flutter#123078`](https://github.com/flutter/flutter/issues/123078),"[shared_preferences] Consider making async accessors, with optional caching layer",2024-01-24,2024-02-06,51,6,1,0
-[`flutter/flutter#34704`](https://github.com/flutter/flutter/issues/34704),"Flutter slider should have the feature to show value indicator all the time, not just while gesturing",2024-01-24,2024-02-06,50,26,1,0
-[`flutter/flutter#104509`](https://github.com/flutter/flutter/issues/104509),"Flutter web - Need documentation on how to conditionally display a ""Refresh. New Version is available."" prompt when updated code is deployed to production.",2024-01-24,2024-02-06,44,19,1,1
-[`flutter/flutter#101296`](https://github.com/flutter/flutter/issues/101296),"[integration_test] Enable sharding of integration test suites",2024-01-24,2024-02-06,44,11,1,0
-[`flutter/flutter#124334`](https://github.com/flutter/flutter/issues/124334),"WebGPU Backend for Flutter Web",2024-01-24,2024-02-06,40,5,1,0
-[`flutter/flutter#64157`](https://github.com/flutter/flutter/issues/64157),"NestedScrollView in DraggableScrollableSheet not working",2024-01-24,2024-02-06,34,21,1,0
-[`flutter/flutter#28012`](https://github.com/flutter/flutter/issues/28012),"Make FixedExtentScrollPhysics & FixedExtentScrollController usable with ordinary ListViews",2024-01-24,2024-02-06,28,9,1,0
-[`flutter/flutter#85785`](https://github.com/flutter/flutter/issues/85785),"[google_sign_in] PlatformException is thrown when cancelling signIn",2024-01-24,2024-02-06,24,42,1,0
-[`flutter/flutter#88765`](https://github.com/flutter/flutter/issues/88765),"integration_test missing FlutterDriver.waitFor support",2024-01-24,2024-02-06,18,6,1,0
-[`flutter/flutter#89558`](https://github.com/flutter/flutter/issues/89558),"[Android]The Hybrid composition Platform view will show on the top of page while resume the app from background.",2024-01-24,2024-02-06,17,24,1,3
-[`flutter/flutter#129632`](https://github.com/flutter/flutter/issues/129632),"Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7)",2024-01-24,2024-02-06,16,15,1,0
-[`flutter/flutter#64552`](https://github.com/flutter/flutter/issues/64552),"Show suffix/prefix text in TextField even when it is not in focus and empty.",2024-01-24,2024-02-06,16,11,1,0
-[`flutter/flutter#20220`](https://github.com/flutter/flutter/issues/20220),"Text/TextSpan superscript on top (like HTML ruby tag) for phonetic pronunciations",2024-01-24,2024-02-06,14,2,1,0
-[`flutter/flutter#96514`](https://github.com/flutter/flutter/issues/96514),"[Proposal] Conditional bundling of assets",2024-01-24,2024-02-06,13,9,1,0
-[`flutter/flutter#114620`](https://github.com/flutter/flutter/issues/114620),"Web autofill throw exception when using html InputElement",2024-02-01,2024-02-06,14,17,1,3
-[`flutter/flutter#58498`](https://github.com/flutter/flutter/issues/58498),"[web] Textfield 'autofocus: true' doesn't show up the keyboard",2024-01-24,2024-02-06,81,40,1,0
-[`flutter/flutter#32804`](https://github.com/flutter/flutter/issues/32804),"BackdropFilter performance issue",2024-01-24,2024-02-06,73,47,1,1
-[`flutter/flutter#59430`](https://github.com/flutter/flutter/issues/59430),"Support XDG Base Directory Specfication",2024-01-24,2024-02-06,71,6,1,0
-[`flutter/flutter#99606`](https://github.com/flutter/flutter/issues/99606),"Ability to change the keyboard language programmatically",2024-01-24,2024-02-06,68,24,1,0
-[`flutter/flutter#86636`](https://github.com/flutter/flutter/issues/86636),"Support weight/boldness configuration of an Icon",2024-01-24,2024-02-06,45,9,1,0
-[`flutter/flutter#67034`](https://github.com/flutter/flutter/issues/67034),"Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop",2024-01-24,2024-02-06,36,21,1,0
-[`flutter/flutter#98481`](https://github.com/flutter/flutter/issues/98481),"[IOS] App Crashes with error EXC_BAD_ACCESS KERN_INVALID_ADDRESS",2024-01-24,2024-02-06,34,62,1,0
-[`flutter/flutter#65777`](https://github.com/flutter/flutter/issues/65777),"Integrate Navigator 2.0 and state restoration for the web",2024-01-24,2024-02-06,31,24,1,0
-[`flutter/flutter#138624`](https://github.com/flutter/flutter/issues/138624),"PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set to false",2024-01-24,2024-02-06,30,30,1,12
-[`flutter/flutter#46233`](https://github.com/flutter/flutter/issues/46233),"Rendering order inside Grid/ListView",2024-01-24,2024-02-06,29,8,1,0
-[`flutter/flutter#121929`](https://github.com/flutter/flutter/issues/121929),"[animation] using animations package with go_router package instead of Navigator.push() method",2024-01-24,2024-02-06,28,13,1,0
-[`flutter/flutter#53308`](https://github.com/flutter/flutter/issues/53308),"Text on desktop Windows 10 looks rough(no antialiasing)",2024-01-24,2024-02-06,27,30,1,0
-[`flutter/flutter#88515`](https://github.com/flutter/flutter/issues/88515),"Add dismissLimits to Dismissible to limit the drag extent",2024-01-24,2024-02-06,20,4,1,0
-[`flutter/flutter#81804`](https://github.com/flutter/flutter/issues/81804),"PlatformException VideoError, Video Player had error",2024-01-24,2024-02-06,17,64,1,1
-[`flutter/flutter#116872`](https://github.com/flutter/flutter/issues/116872),"[go_router] Query Parameters are not preserved on `pop`",2024-01-24,2024-02-06,16,13,1,0
-[`flutter/flutter#139289`](https://github.com/flutter/flutter/issues/139289),"Allow to provide compile-time variables for native platforms from a file",2024-01-24,2024-02-06,34,5,1,1
-[`flutter/flutter#36461`](https://github.com/flutter/flutter/issues/36461),"Different Appbar with same bottomNavigatioBar without nesting Scaffolds",2024-01-24,2024-02-06,33,17,1,0
-[`flutter/flutter#64768`](https://github.com/flutter/flutter/issues/64768),"Add a Split widget",2024-01-24,2024-02-06,32,13,1,0
-[`flutter/flutter#93238`](https://github.com/flutter/flutter/issues/93238),"Gradle Kotlin DSL support.",2024-01-24,2024-02-06,27,13,1,0
-[`flutter/flutter#134723`](https://github.com/flutter/flutter/issues/134723),"Password bar in the keyboard is flashing when using `TextField` with `AutofillHints.password` on iOS 17",2024-01-24,2024-02-06,20,22,1,1
-[`flutter/flutter#53781`](https://github.com/flutter/flutter/issues/53781),"Add option to avoid pod install during ""flutter build ios""",2024-01-24,2024-02-06,19,13,1,0
-[`flutter/flutter#28195`](https://github.com/flutter/flutter/issues/28195),"How to use local aar inside flutter plugin?",2024-01-24,2024-02-06,19,40,1,1
-[`flutter/flutter#98773`](https://github.com/flutter/flutter/issues/98773),"[Android] Document fix for warning ""native debug symbols are missing in appbundle"" when uploading app to playconsole",2024-01-24,2024-02-06,17,12,1,3
-[`flutter/flutter#22429`](https://github.com/flutter/flutter/issues/22429),"Offline mode needs to be extended to all flutter commands",2024-01-24,2024-02-06,17,6,1,0
-[`flutter/flutter#99100`](https://github.com/flutter/flutter/issues/99100),"[go_router] Platform-adaptive support",2024-01-26,2024-02-06,14,10,1,0
-[`flutter/flutter#104552`](https://github.com/flutter/flutter/issues/104552),"`SelectionArea` does not select the text when using double and triple tap",2024-01-24,2024-02-06,32,28,0,2
-[`flutter/flutter#118481`](https://github.com/flutter/flutter/issues/118481),"[web] Multi-view Embedding Support",2024-01-24,2024-02-06,29,6,0,2
+[`flutter/flutter#10647`](https://github.com/flutter/flutter/issues/10647),"Using dart:ui from non-main-thread Isolates crashes",2024-01-24,2024-02-12,53,40,2,2
+[`flutter/flutter#51530`](https://github.com/flutter/flutter/issues/51530),"[web]: Support for backend proxy",2024-01-24,2024-02-12,37,17,2,0
+[`flutter/flutter#116651`](https://github.com/flutter/flutter/issues/116651),"[go_router] What does 'refreshListenable' do? How does it work? (missing documentation)",2024-01-24,2024-02-12,29,80,2,0
+[`flutter/flutter#109813`](https://github.com/flutter/flutter/issues/109813),"Flutter app flagged for missing accessibility content labels by Google Play Store",2024-01-24,2024-02-12,16,8,2,1
+[`flutter/flutter#110431`](https://github.com/flutter/flutter/issues/110431),"Flutter adds additional one frame touch latency compared to native",2024-01-24,2024-02-12,275,23,2,0
+[`flutter/flutter#19941`](https://github.com/flutter/flutter/issues/19941),"Return index of the first visible item in ListView",2024-01-24,2024-02-12,198,27,2,0
+[`flutter/flutter#112181`](https://github.com/flutter/flutter/issues/112181),"[go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute",2024-01-24,2024-02-12,21,1,2,0
+[`flutter/flutter#39707`](https://github.com/flutter/flutter/issues/39707),"Import multiple Flutter modules in a native app",2024-01-24,2024-02-12,186,41,2,0
+[`flutter/flutter#58498`](https://github.com/flutter/flutter/issues/58498),"[web] Textfield 'autofocus: true' doesn't show up the keyboard",2024-01-24,2024-02-12,82,40,2,0
+[`flutter/flutter#86295`](https://github.com/flutter/flutter/issues/86295),"[integration_test] Allow driving native UI interactions from Dart",2024-01-24,2024-02-12,79,24,2,0
+[`flutter/flutter#50890`](https://github.com/flutter/flutter/issues/50890),"How to remove 'I/flutter (13135):' in vscode debug console",2024-01-24,2024-02-12,36,13,2,0
+[`flutter/flutter#91318`](https://github.com/flutter/flutter/issues/91318),"[flutter_tools] Refactor Flutter SDK to support installation in read-only directory",2024-01-24,2024-02-12,25,24,2,0
+[`flutter/flutter#48950`](https://github.com/flutter/flutter/issues/48950),"How to pass parameters to flutter web app",2024-01-24,2024-02-12,25,7,2,0
+[`flutter/flutter#26863`](https://github.com/flutter/flutter/issues/26863),"[google_maps_flutter] Support marker clustering",2024-01-24,2024-02-12,331,56,1,0
+[`flutter/flutter#51752`](https://github.com/flutter/flutter/issues/51752),"Reusing state logic is either too verbose or too difficult",2024-01-24,2024-02-12,273,518,1,0
+[`flutter/flutter#40740`](https://github.com/flutter/flutter/issues/40740),"NestedScrollView's use of PrimaryScrollController breaks when there are multiple inner ScrollPositions",2024-01-24,2024-02-12,101,65,1,0
+[`flutter/flutter#18636`](https://github.com/flutter/flutter/issues/18636),"ShadowBox inset attribute? Inner shadow",2024-01-24,2024-02-12,90,46,1,0
+[`flutter/flutter#58145`](https://github.com/flutter/flutter/issues/58145),"3D Flutter Api Support",2024-01-24,2024-02-12,79,13,1,0
+[`flutter/flutter#84957`](https://github.com/flutter/flutter/issues/84957),"[camera] Taking pictures is too slow on some devices",2024-01-24,2024-02-12,69,50,1,0
+[`flutter/flutter#41710`](https://github.com/flutter/flutter/issues/41710),"[camera] Add Linux support",2024-01-24,2024-02-12,62,16,1,0
+[`flutter/flutter#75588`](https://github.com/flutter/flutter/issues/75588),"Decoration for unselected tabs in TabBar",2024-01-24,2024-02-12,56,19,1,0
+[`flutter/flutter#106612`](https://github.com/flutter/flutter/issues/106612),"Support `flutter build ipa` with manual signing and provisioning profiles",2024-01-24,2024-02-12,44,27,1,0
+[`flutter/flutter#97542`](https://github.com/flutter/flutter/issues/97542),"[camera] Support image streams on Windows platform",2024-01-24,2024-02-12,42,15,1,4
+[`flutter/flutter#122698`](https://github.com/flutter/flutter/issues/122698),"`flutter attach` doesn't work on physical iOS device in larger apps",2024-01-24,2024-02-12,37,17,1,0
+[`flutter/flutter#65006`](https://github.com/flutter/flutter/issues/65006),"[InteractiveViewer] ListView in InteractiveViewer doesn't zoom sometimes",2024-01-24,2024-02-12,34,22,1,0
+[`flutter/flutter#99819`](https://github.com/flutter/flutter/issues/99819),"[flutter_markdown] Selecting text works only paragraph by paragraph in markdown widget when text is not indented",2024-01-24,2024-02-12,17,19,1,1
+[`flutter/flutter#31918`](https://github.com/flutter/flutter/issues/31918),"Make flutter analyze configurable so it doesn't fail on info messages",2024-01-24,2024-02-12,13,26,1,0
+[`flutter/flutter#89525`](https://github.com/flutter/flutter/issues/89525),"[camera] Proposal - Add support for optical image stabilization (OIS)",2024-01-27,2024-02-12,13,6,1,1
+[`flutter/flutter#26801`](https://github.com/flutter/flutter/issues/26801),"Apple CarPlay / Android Auto support?",2024-01-24,2024-02-12,475,50,1,0
+[`flutter/flutter#21594`](https://github.com/flutter/flutter/issues/21594),"Table > TableRow > TableCell colspan",2024-01-24,2024-02-12,243,41,1,1
+[`flutter/flutter#119328`](https://github.com/flutter/flutter/issues/119328),"Introduce side sheets",2024-01-24,2024-02-12,72,4,1,1
+[`flutter/flutter#48381`](https://github.com/flutter/flutter/issues/48381),"Use a system default font on flutter",2024-01-24,2024-02-12,59,27,1,0
+[`flutter/flutter#133465`](https://github.com/flutter/flutter/issues/133465),"Long-term solution to replacing `ios-deploy`",2024-01-24,2024-02-12,52,16,1,0
+[`flutter/flutter#94804`](https://github.com/flutter/flutter/issues/94804),"Use gtk4 for linux desktop",2024-01-24,2024-02-12,48,23,1,1
+[`flutter/flutter#62118`](https://github.com/flutter/flutter/issues/62118),"Video_Player issues - out of memory exception when choosing large file from phone to play",2024-01-24,2024-02-12,35,42,1,0
+[`flutter/flutter#113282`](https://github.com/flutter/flutter/issues/113282),"[go_router] Add default pageBuilder to GoRouter",2024-01-24,2024-02-12,34,6,1,0
+[`flutter/flutter#112267`](https://github.com/flutter/flutter/issues/112267),"[go_router] Add support for the TabView for more beautiful animation",2024-01-24,2024-02-12,31,7,1,0
+[`flutter/flutter#99050`](https://github.com/flutter/flutter/issues/99050),"[Windows] On screen keyboard pops up abnormally on touch screen tablets",2024-01-24,2024-02-12,25,35,1,0
+[`flutter/flutter#43582`](https://github.com/flutter/flutter/issues/43582),"keep state inside SearchDelegate ",2024-01-24,2024-02-12,21,15,1,0
+[`flutter/flutter#114324`](https://github.com/flutter/flutter/issues/114324),"Extra page shown when swiping back in Safari on iOS ",2024-01-24,2024-02-12,19,24,1,0
+[`flutter/flutter#50455`](https://github.com/flutter/flutter/issues/50455),"Failed to xcodebuild against multiple iOS devices: Build service could not start build operation: unknown error while handling message: Could not acquire lock at path `Path(str: "".../DerivedData/.../...-Workspace.lock"")`",2024-01-24,2024-02-12,19,32,1,0
+[`flutter/flutter#80578`](https://github.com/flutter/flutter/issues/80578),"[google_maps_flutter_web] Markers anchor and rotation have no effect",2024-01-24,2024-02-12,16,19,1,0
+[`flutter/flutter#51267`](https://github.com/flutter/flutter/issues/51267),"[google_maps_flutter] Please clarify why API KEY in source code is OK",2024-01-24,2024-02-12,16,16,1,0
+[`flutter/flutter#97701`](https://github.com/flutter/flutter/issues/97701),"Support maven publish for `flutter build aar`",2024-01-24,2024-02-12,15,8,1,0
+[`flutter/flutter#87734`](https://github.com/flutter/flutter/issues/87734),"[web] Incomplete sourcemaps",2024-01-24,2024-02-12,15,14,1,0
+[`flutter/flutter#58192`](https://github.com/flutter/flutter/issues/58192),"Add mouse cursor support to the remaining widgets",2024-01-24,2024-02-12,15,21,1,0
+[`flutter/flutter#84966`](https://github.com/flutter/flutter/issues/84966),"`flutter test` stack traces are truncated when `pumpAndSettle` timeouts",2024-01-24,2024-02-12,14,8,1,0
+[`flutter/flutter#72029`](https://github.com/flutter/flutter/issues/72029),"Selection toolbar/handler should disappear when it is opened and user clicks outside of it",2024-01-24,2024-02-12,14,15,1,0
+[`flutter/flutter#24213`](https://github.com/flutter/flutter/issues/24213),"[google_maps_flutter] Support Widgets as markers",2024-01-24,2024-02-12,411,52,1,0
+[`flutter/flutter#14288`](https://github.com/flutter/flutter/issues/14288),"Antialiasing behaviour when same-colour ",2024-01-24,2024-02-12,139,92,1,0
+[`flutter/flutter#104889`](https://github.com/flutter/flutter/issues/104889),"[webview_flutter][android] webview crashes when embedded in a scrollview",2024-01-24,2024-02-12,75,50,1,1
+[`flutter/flutter#71400`](https://github.com/flutter/flutter/issues/71400),"Customizable project structure (platforms)",2024-01-24,2024-02-12,403,21,1,0
+[`flutter/flutter#24923`](https://github.com/flutter/flutter/issues/24923),"[video_player] Support DRM content",2024-01-24,2024-02-12,193,31,1,0
+[`flutter/flutter#37673`](https://github.com/flutter/flutter/issues/37673),"[video_player] Add Windows support",2024-01-24,2024-02-12,177,66,1,0
+[`flutter/flutter#26152`](https://github.com/flutter/flutter/issues/26152),"Tizen platform support",2024-01-24,2024-02-12,111,27,1,0
+[`flutter/flutter#116526`](https://github.com/flutter/flutter/issues/116526),"Support Material 3 motion - Transitions",2024-01-24,2024-02-12,78,11,1,0
+[`flutter/flutter#102560`](https://github.com/flutter/flutter/issues/102560),"Support Material Symbols ",2024-01-24,2024-02-12,74,19,1,0
+[`flutter/flutter#13892`](https://github.com/flutter/flutter/issues/13892),"Consistent .gitignore for Dart and Flutter projects",2024-01-24,2024-02-12,74,36,1,0
+[`flutter/flutter#81650`](https://github.com/flutter/flutter/issues/81650),"Allow excluding specific plugins from the host platform build on specific platforms",2024-01-24,2024-02-12,73,41,1,0
+[`flutter/flutter#25652`](https://github.com/flutter/flutter/issues/25652),"Scrollbar resizing and jumping",2024-01-24,2024-02-12,61,50,1,0
+[`flutter/flutter#41731`](https://github.com/flutter/flutter/issues/41731),"[google_maps_flutter] Performance drop when loading markers from bytes",2024-01-24,2024-02-12,55,40,1,0
+[`flutter/flutter#62401`](https://github.com/flutter/flutter/issues/62401),"showDatePicker has date format issues when DatePickerEntryMode.input is selected",2024-01-24,2024-02-12,44,22,1,0
+[`flutter/flutter#115751`](https://github.com/flutter/flutter/issues/115751),"Building all integration test targets into a single application binary",2024-01-24,2024-02-12,34,12,1,0
+[`flutter/flutter#90063`](https://github.com/flutter/flutter/issues/90063),"TextField with lots of text can hang app",2024-01-24,2024-02-12,30,39,1,1
+[`flutter/flutter#61246`](https://github.com/flutter/flutter/issues/61246),"[flutter_tools] IDE plugin validators should be deprecated",2024-01-24,2024-02-12,28,6,1,0
+[`flutter/flutter#56239`](https://github.com/flutter/flutter/issues/56239),"Specifying cacheWidth / cacheHeight can degrade the image quality",2024-01-24,2024-02-12,26,16,1,0
+[`flutter/flutter#127209`](https://github.com/flutter/flutter/issues/127209),"Add docs for go_router StatefulShellRoute",2024-01-24,2024-02-12,21,0,1,0
+[`flutter/flutter#110928`](https://github.com/flutter/flutter/issues/110928),"Documentation request: deep linking and Android launchMode",2024-01-24,2024-02-12,20,1,1,0
+[`flutter/flutter#97305`](https://github.com/flutter/flutter/issues/97305),"[web] support scaling page content using two-finger pinch gesture",2024-01-24,2024-02-12,15,22,1,0
+[`flutter/flutter#139338`](https://github.com/flutter/flutter/issues/139338),"Add neutral Material themes",2024-01-24,2024-02-12,176,8,1,0
+[`flutter/flutter#21980`](https://github.com/flutter/flutter/issues/21980),"Dependency Injection for Flutter",2024-01-24,2024-02-12,123,19,1,0
+[`flutter/flutter#63323`](https://github.com/flutter/flutter/issues/63323),"Code generation experience needs improvements",2024-01-24,2024-02-12,114,16,1,0
+[`flutter/flutter#35042`](https://github.com/flutter/flutter/issues/35042),"Official support for Raspberry PI 4",2024-01-24,2024-02-12,111,10,1,0
+[`flutter/flutter#102408`](https://github.com/flutter/flutter/issues/102408),"[go_router] Replace redirect with onEnter and onExit",2024-01-24,2024-02-12,65,49,1,1
+[`flutter/flutter#51890`](https://github.com/flutter/flutter/issues/51890),"add screenshot capability to e2e integration tests",2024-01-24,2024-02-12,65,31,1,1
+[`flutter/flutter#38684`](https://github.com/flutter/flutter/issues/38684),"Allow nested hero widgets",2024-01-24,2024-02-12,61,19,1,0
+[`flutter/flutter#32115`](https://github.com/flutter/flutter/issues/32115),"Allow to set the logical pixel size programmatically ",2024-01-24,2024-02-12,49,44,1,0
+[`flutter/flutter#60695`](https://github.com/flutter/flutter/issues/60695),"[google_maps_flutter] Add callback for click on google poi's on the map",2024-01-24,2024-02-12,47,13,1,0
+[`flutter/flutter#66618`](https://github.com/flutter/flutter/issues/66618),"WebGPU in Flutter",2024-01-24,2024-02-12,43,1,1,0
+[`flutter/flutter#99105`](https://github.com/flutter/flutter/issues/99105),"[go_router] Support deferred libraries",2024-01-24,2024-02-12,39,13,1,1
+[`flutter/flutter#119207`](https://github.com/flutter/flutter/issues/119207),"Unable receive Platform Channel calls in background isolates",2024-01-24,2024-02-12,37,15,1,0
+[`flutter/flutter#58854`](https://github.com/flutter/flutter/issues/58854),"[video_player] Can't  Change HSL Video Quilty",2024-01-24,2024-02-12,35,17,1,0
+[`flutter/flutter#41708`](https://github.com/flutter/flutter/issues/41708),"[camera] Add macOS support",2024-01-24,2024-02-12,36,16,1,0
+[`flutter/flutter#36461`](https://github.com/flutter/flutter/issues/36461),"Different Appbar with same bottomNavigatioBar without nesting Scaffolds",2024-01-24,2024-02-12,33,18,1,1
+[`flutter/flutter#64768`](https://github.com/flutter/flutter/issues/64768),"Add a Split widget",2024-01-24,2024-02-12,32,13,1,0
+[`flutter/flutter#93238`](https://github.com/flutter/flutter/issues/93238),"Gradle Kotlin DSL support.",2024-01-24,2024-02-12,27,13,1,0
+[`flutter/flutter#129523`](https://github.com/flutter/flutter/issues/129523),"Navigator can't be used inside scrollable content.",2024-01-24,2024-02-12,20,6,1,0
+[`flutter/flutter#53781`](https://github.com/flutter/flutter/issues/53781),"Add option to avoid pod install during ""flutter build ios""",2024-01-24,2024-02-12,19,13,1,0
+[`flutter/flutter#71208`](https://github.com/flutter/flutter/issues/71208),"FlutterActivity should extend AppCompatActivity instead of Activity",2024-01-24,2024-02-12,19,5,1,0
+[`flutter/flutter#28195`](https://github.com/flutter/flutter/issues/28195),"How to use local aar inside flutter plugin?",2024-01-24,2024-02-12,19,40,1,1
+[`flutter/flutter#114088`](https://github.com/flutter/flutter/issues/114088),"Support for M3 Docked `DatePicker`",2024-01-24,2024-02-12,18,5,1,0
+[`flutter/flutter#98773`](https://github.com/flutter/flutter/issues/98773),"[Android] Document fix for warning ""native debug symbols are missing in appbundle"" when uploading app to playconsole",2024-01-24,2024-02-12,17,12,1,3
+[`flutter/flutter#22429`](https://github.com/flutter/flutter/issues/22429),"Offline mode needs to be extended to all flutter commands",2024-01-24,2024-02-12,17,6,1,0
+[`flutter/flutter#51953`](https://github.com/flutter/flutter/issues/51953),"Support for @2x, @3x, etc naming convention for images",2024-01-24,2024-02-12,14,5,1,0
+[`flutter/flutter#9688`](https://github.com/flutter/flutter/issues/9688),"Input validator async",2024-01-24,2024-02-12,65,23,1,0
+[`flutter/flutter#40135`](https://github.com/flutter/flutter/issues/40135),"Don't rely on global `pod` installation, use bundled version",2024-01-24,2024-02-12,50,10,1,0
+[`flutter/flutter#37510`](https://github.com/flutter/flutter/issues/37510),"Provide a disableSwipe to PageView",2024-01-24,2024-02-12,45,22,1,0
+[`flutter/flutter#76248`](https://github.com/flutter/flutter/issues/76248),"[web] Emojis take a few seconds to render on canvaskit",2024-01-24,2024-02-12,39,14,1,1
+[`flutter/flutter#66537`](https://github.com/flutter/flutter/issues/66537),"Middle Mouse Button Scrolling",2024-01-24,2024-02-12,39,9,1,0
+[`flutter/flutter#76478`](https://github.com/flutter/flutter/issues/76478),"[web]: No back/forward gesture support on iOS and MacOS browsers",2024-01-24,2024-02-12,36,14,1,1
+[`flutter/flutter#64685`](https://github.com/flutter/flutter/issues/64685),"[image_picker][android] PickedFile should store the original file name. ",2024-01-24,2024-02-12,35,17,1,0
+[`flutter/flutter#117382`](https://github.com/flutter/flutter/issues/117382),"Canvas instrumentation (recording)",2024-01-24,2024-02-12,28,6,1,0
+[`flutter/flutter#37987`](https://github.com/flutter/flutter/issues/37987),"Enable hot restart on profile mode",2024-01-24,2024-02-12,27,14,1,0
+[`flutter/flutter#103386`](https://github.com/flutter/flutter/issues/103386),"☂️ [macOS] Support building engine on Apple Silicon without Rosetta",2024-01-24,2024-02-12,24,8,1,2
+[`flutter/flutter#65517`](https://github.com/flutter/flutter/issues/65517),"Scale flutter on linux Xorg based on Xft.dpi",2024-01-24,2024-02-12,21,9,1,0
+[`flutter/flutter#62966`](https://github.com/flutter/flutter/issues/62966),"Use dart_test.yaml in flutter test",2024-01-24,2024-02-12,20,6,1,0
+[`flutter/flutter#90373`](https://github.com/flutter/flutter/issues/90373),"[Image_picker]: Image gallery opens twice if we choose select photos permission.",2024-01-24,2024-02-12,19,42,1,1
+[`flutter/flutter#69676`](https://github.com/flutter/flutter/issues/69676),"Persistent bottom sheet does not respect SafeArea",2024-01-24,2024-02-12,19,8,1,0
+[`flutter/flutter#73315`](https://github.com/flutter/flutter/issues/73315),"Ink widget decoration visible or/and renders outside the ListView boundary up to the cacheExtent.",2024-01-24,2024-02-12,18,14,1,0
+[`flutter/flutter#73208`](https://github.com/flutter/flutter/issues/73208),"Draggable feedback widget gets an offset when InteractiveViewer is scaled",2024-01-24,2024-02-12,17,13,1,0
+[`flutter/flutter#117937`](https://github.com/flutter/flutter/issues/117937),"External Texture Support for Vulkan",2024-01-24,2024-02-12,15,3,1,0
+[`flutter/flutter#13212`](https://github.com/flutter/flutter/issues/13212),"Enable the Flutter tool to change app id after project creation",2024-01-24,2024-02-12,15,3,1,0
+[`flutter/flutter#103682`](https://github.com/flutter/flutter/issues/103682),"[google_sign_in] Support Windows",2024-02-09,2024-02-12,13,8,1,0
+[`flutter/flutter#28567`](https://github.com/flutter/flutter/issues/28567),"Support text capitalization in TextStyle ",2024-01-24,2024-02-12,127,25,1,0
+[`flutter/flutter#30736`](https://github.com/flutter/flutter/issues/30736),"Support window size/placement on desktop",2024-01-24,2024-02-12,83,18,1,0
+[`flutter/flutter#32804`](https://github.com/flutter/flutter/issues/32804),"BackdropFilter performance issue",2024-01-24,2024-02-12,73,47,1,1
+[`flutter/flutter#59430`](https://github.com/flutter/flutter/issues/59430),"Support XDG Base Directory Specfication",2024-01-24,2024-02-12,71,6,1,0
+[`flutter/flutter#99606`](https://github.com/flutter/flutter/issues/99606),"Ability to change the keyboard language programmatically",2024-01-24,2024-02-12,68,24,1,0
+[`flutter/flutter#86636`](https://github.com/flutter/flutter/issues/86636),"Support weight/boldness configuration of an Icon",2024-01-24,2024-02-12,45,9,1,0
+[`flutter/flutter#119536`](https://github.com/flutter/flutter/issues/119536),"[Engine][3.7] Emojis are not properly rendered",2024-01-24,2024-02-12,41,47,1,0
+[`flutter/flutter#14488`](https://github.com/flutter/flutter/issues/14488),"Get dimensions of widget after layout without render ",2024-01-24,2024-02-12,38,42,1,0
+[`flutter/flutter#67034`](https://github.com/flutter/flutter/issues/67034),"Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop",2024-01-24,2024-02-12,36,21,1,0
+[`flutter/flutter#98481`](https://github.com/flutter/flutter/issues/98481),"[IOS] App Crashes with error EXC_BAD_ACCESS KERN_INVALID_ADDRESS",2024-01-24,2024-02-12,34,62,1,0
+[`flutter/flutter#65777`](https://github.com/flutter/flutter/issues/65777),"Integrate Navigator 2.0 and state restoration for the web",2024-01-24,2024-02-12,31,24,1,0
+[`flutter/flutter#46233`](https://github.com/flutter/flutter/issues/46233),"Rendering order inside Grid/ListView",2024-01-24,2024-02-12,29,8,1,0
+[`flutter/flutter#122258`](https://github.com/flutter/flutter/issues/122258),"[go_router_builder] Define routes in separate files",2024-01-24,2024-02-12,28,7,1,1
+[`flutter/flutter#28894`](https://github.com/flutter/flutter/issues/28894),"Emoji size is off on iOS",2024-01-24,2024-02-12,131,183,1,0
+[`flutter/flutter#41724`](https://github.com/flutter/flutter/issues/41724),"Implement PlatformView support on Linux",2024-01-24,2024-02-12,116,23,1,0
+[`flutter/flutter#23603`](https://github.com/flutter/flutter/issues/23603),"Flutter should be able to interact with host clipboard for rich content",2024-01-24,2024-02-12,108,9,1,1
+[`flutter/flutter#4719`](https://github.com/flutter/flutter/issues/4719),"flutter test --coverage and flutter test --watch",2024-01-24,2024-02-12,106,11,1,0
+[`flutter/flutter#49757`](https://github.com/flutter/flutter/issues/49757),"Desktop app frame rate isn't synced to display",2024-01-24,2024-02-12,76,20,1,0
+[`flutter/flutter#40504`](https://github.com/flutter/flutter/issues/40504),"Add support for external storage(Sd Card, USB Storage etc) in flutter.",2024-01-24,2024-02-12,75,27,1,1
+[`flutter/flutter#40682`](https://github.com/flutter/flutter/issues/40682),"Spellcheck on Flutter Web",2024-01-24,2024-02-12,66,18,1,0
+[`flutter/flutter#77104`](https://github.com/flutter/flutter/issues/77104),"Enable custom ""flutter create"" templates",2024-01-24,2024-02-12,59,26,1,1
+[`flutter/flutter#127855`](https://github.com/flutter/flutter/issues/127855),"Implement wide gamut color support in the Framework",2024-01-24,2024-02-12,57,6,1,0
+[`flutter/flutter#102140`](https://github.com/flutter/flutter/issues/102140),"Dart/Flutter never release memory of ""Dart/Flutter Native"" leading to OOM crash",2024-01-24,2024-02-12,50,56,1,2
+[`flutter/flutter#34704`](https://github.com/flutter/flutter/issues/34704),"Flutter slider should have the feature to show value indicator all the time, not just while gesturing",2024-01-24,2024-02-12,50,26,1,0
+[`flutter/flutter#70010`](https://github.com/flutter/flutter/issues/70010),"Suggestion: Ability to check if asset exists without loading",2024-01-24,2024-02-12,48,7,1,0
+[`flutter/flutter#101296`](https://github.com/flutter/flutter/issues/101296),"[integration_test] Enable sharding of integration test suites",2024-01-24,2024-02-12,44,11,1,0
+[`flutter/flutter#64157`](https://github.com/flutter/flutter/issues/64157),"NestedScrollView in DraggableScrollableSheet not working",2024-01-24,2024-02-12,34,21,1,0
+[`flutter/flutter#28012`](https://github.com/flutter/flutter/issues/28012),"Make FixedExtentScrollPhysics & FixedExtentScrollController usable with ordinary ListViews",2024-01-24,2024-02-12,28,9,1,0
+[`flutter/flutter#111739`](https://github.com/flutter/flutter/issues/111739),"Framework tests fail only on M1 machines",2024-01-24,2024-02-12,26,21,1,0
+[`flutter/flutter#85785`](https://github.com/flutter/flutter/issues/85785),"[google_sign_in] PlatformException is thrown when cancelling signIn",2024-01-24,2024-02-12,24,42,1,0
+[`flutter/flutter#104547`](https://github.com/flutter/flutter/issues/104547),"[Selection] Reimplement SelectableText with SelectionArea",2024-01-24,2024-02-12,20,7,1,0
+[`flutter/flutter#88765`](https://github.com/flutter/flutter/issues/88765),"integration_test missing FlutterDriver.waitFor support",2024-01-24,2024-02-12,18,6,1,0
+[`flutter/flutter#89558`](https://github.com/flutter/flutter/issues/89558),"[Android]The Hybrid composition Platform view will show on the top of page while resume the app from background.",2024-01-24,2024-02-12,17,25,1,4
+[`flutter/flutter#129632`](https://github.com/flutter/flutter/issues/129632),"Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7)",2024-01-24,2024-02-12,16,16,1,1
+[`flutter/flutter#64552`](https://github.com/flutter/flutter/issues/64552),"Show suffix/prefix text in TextField even when it is not in focus and empty.",2024-01-24,2024-02-12,16,11,1,0
+[`flutter/flutter#20220`](https://github.com/flutter/flutter/issues/20220),"Text/TextSpan superscript on top (like HTML ruby tag) for phonetic pronunciations",2024-01-24,2024-02-12,14,2,1,0
+[`flutter/flutter#96514`](https://github.com/flutter/flutter/issues/96514),"[Proposal] Conditional bundling of assets",2024-01-24,2024-02-12,13,9,1,0
+[`flutter/flutter#122146`](https://github.com/flutter/flutter/issues/122146),"ExpansionTile should have a sliver equivalent",2024-02-09,2024-02-12,13,1,1,0
+[`flutter/flutter#14203`](https://github.com/flutter/flutter/issues/14203),"Document that WillPopScope prevents swipe to go back on MaterialPageRoute",2024-01-24,2024-02-12,188,112,1,0
+[`flutter/flutter#2057`](https://github.com/flutter/flutter/issues/2057),"Support making Android Wear apps",2024-01-24,2024-02-12,94,20,1,0
+[`flutter/flutter#69429`](https://github.com/flutter/flutter/issues/69429),"Make tests compile and run faster",2024-01-24,2024-02-12,92,22,1,0
+[`flutter/flutter#69157`](https://github.com/flutter/flutter/issues/69157),"Build Flutter macOS artifacts with ARM architecture slice",2024-01-24,2024-02-12,67,10,1,0
+[`flutter/flutter#105395`](https://github.com/flutter/flutter/issues/105395),"Android build fails with certain plugins if project is in a different drive (from sdk)",2024-01-24,2024-02-12,46,26,1,0
+[`flutter/flutter#135050`](https://github.com/flutter/flutter/issues/135050),"Add `context.dependOnListenable(Listenable listenable)`",2024-01-24,2024-02-12,43,8,1,0
+[`flutter/flutter#78247`](https://github.com/flutter/flutter/issues/78247),"Low Resolution in Camera Image Stream, ResolutionPreset Constructor Parameter is ignored",2024-01-24,2024-02-12,42,12,1,0
+[`flutter/flutter#64073`](https://github.com/flutter/flutter/issues/64073),"[google_maps_flutter_web] Add ""My Location"" Widget.",2024-01-24,2024-02-12,41,13,1,0
+[`flutter/flutter#81739`](https://github.com/flutter/flutter/issues/81739),"[flutter_markdown] Support `maxLines` and `overflow`",2024-01-24,2024-02-12,32,5,1,0
+[`flutter/flutter#17130`](https://github.com/flutter/flutter/issues/17130),"A cold-start ""flutter test"" takes multiple seconds",2024-01-24,2024-02-12,32,34,1,0
+[`flutter/flutter#54272`](https://github.com/flutter/flutter/issues/54272),"Add support for RefreshIndicator to be used with SliverAppBar",2024-01-24,2024-02-12,29,14,1,0
+[`flutter/flutter#44937`](https://github.com/flutter/flutter/issues/44937),"Allow using dart:indexed_db in flutter apps",2024-01-24,2024-02-12,28,13,1,1
+[`flutter/flutter#41156`](https://github.com/flutter/flutter/issues/41156),"[video_player] black (first?) frame on iOS",2024-01-24,2024-02-12,28,35,1,0
+[`flutter/flutter#26748`](https://github.com/flutter/flutter/issues/26748),"How to add custom overflow string in `Text` or `TextSpan`?",2024-01-24,2024-02-12,27,18,1,0
+[`flutter/flutter#60750`](https://github.com/flutter/flutter/issues/60750),"[ios] Initializing google map with 'n' markers takes O(n) time to add and blocks the UI during this period",2024-01-24,2024-02-12,25,18,1,0
+[`flutter/flutter#129933`](https://github.com/flutter/flutter/issues/129933),"[Flutter-web] Control+MouseWheel should zoom the browser window",2024-01-24,2024-02-12,23,9,1,0
+[`flutter/flutter#99052`](https://github.com/flutter/flutter/issues/99052),"There should be no default page transitions for desktop and web platforms.",2024-01-24,2024-02-12,20,13,1,0
+[`flutter/flutter#118063`](https://github.com/flutter/flutter/issues/118063),"(Material3) Cannot Theme `FilledButton` and `FilledButton.tonal` Variants Separately",2024-01-24,2024-02-12,18,3,1,0
+[`flutter/flutter#131625`](https://github.com/flutter/flutter/issues/131625),"[go_router] support popUntil",2024-01-24,2024-02-12,17,8,1,0
+[`flutter/flutter#27896`](https://github.com/flutter/flutter/issues/27896),"[webview] Allow overriding responses to webview requests with local resources",2024-01-24,2024-02-12,16,10,1,0
+[`flutter/flutter#110781`](https://github.com/flutter/flutter/issues/110781),"[go_router_builder] Custom type conversion for parameters",2024-01-24,2024-02-12,14,2,1,0
+[`flutter/flutter#21230`](https://github.com/flutter/flutter/issues/21230),"Add new features to Dismissible widget",2024-01-24,2024-02-12,14,5,1,0
+[`flutter/flutter#121929`](https://github.com/flutter/flutter/issues/121929),"[animation] using animations package with go_router package instead of Navigator.push() method",2024-01-24,2024-02-12,28,13,1,0
+[`flutter/flutter#53308`](https://github.com/flutter/flutter/issues/53308),"Text on desktop Windows 10 looks rough(no antialiasing)",2024-01-24,2024-02-12,27,30,1,0
+[`flutter/flutter#32954`](https://github.com/flutter/flutter/issues/32954),"Vertical `Dismissible` does not dismiss `SingleChildScrollView` (nor` ListView`)",2024-01-24,2024-02-12,26,15,1,0
+[`flutter/flutter#88515`](https://github.com/flutter/flutter/issues/88515),"Add dismissLimits to Dismissible to limit the drag extent",2024-01-24,2024-02-12,20,4,1,0
+[`flutter/flutter#81804`](https://github.com/flutter/flutter/issues/81804),"PlatformException VideoError, Video Player had error",2024-01-24,2024-02-12,17,64,1,1
+[`flutter/flutter#42846`](https://github.com/flutter/flutter/issues/42846),"Stylus doesn't trigger PointerDownEvent",2024-01-24,2024-02-12,17,28,1,1
+[`flutter/flutter#116872`](https://github.com/flutter/flutter/issues/116872),"[go_router] Query Parameters are not preserved on `pop`",2024-01-24,2024-02-12,16,14,1,1
+[`flutter/flutter#67282`](https://github.com/flutter/flutter/issues/67282),"TextField TextInputType ""name"" overrides TextCapitalization ""words""",2024-01-24,2024-02-12,13,8,1,0
+[`flutter/flutter#99100`](https://github.com/flutter/flutter/issues/99100),"[go_router] Platform-adaptive support",2024-01-26,2024-02-12,14,10,1,0
+[`flutter/flutter#88354`](https://github.com/flutter/flutter/issues/88354),"iOS Keyboard flickers when switching the TextFields which have obscureText set to true",2024-02-01,2024-02-12,13,18,1,0
+[`flutter/flutter#78746`](https://github.com/flutter/flutter/issues/78746),"Autocomplete widget goes out of screen from right side",2024-01-24,2024-02-12,42,38,0,1
+[`flutter/flutter#69529`](https://github.com/flutter/flutter/issues/69529),"[web] Scroll is not recognized by the browser",2024-01-24,2024-02-12,141,93,0,6
+[`flutter/flutter#118498`](https://github.com/flutter/flutter/issues/118498),"[google_maps_flutter] Google maps transition from one page to another is buggy.",2024-01-24,2024-02-12,56,45,0,1
+[`flutter/flutter#16810`](https://github.com/flutter/flutter/issues/16810),"Seeing a green rectangle around the border of the gallery app when I run it",2024-01-24,2024-02-12,26,40,0,3
+[`flutter/flutter#124330`](https://github.com/flutter/flutter/issues/124330),"Investigate making Material AppBar flexible / adaptive",2024-01-24,2024-02-12,21,4,0,1
+[`flutter/flutter#68215`](https://github.com/flutter/flutter/issues/68215),"From ""flutter run"" the app shows ""In iOS 14+, debug mode Flutter apps can only be launched from Flutter tooling..."" warning",2024-01-24,2024-02-12,21,62,0,2
+[`flutter/flutter#79605`](https://github.com/flutter/flutter/issues/79605),"Memory leak with Stateless Widget",2024-01-24,2024-02-12,19,57,0,4
+[`flutter/flutter#36925`](https://github.com/flutter/flutter/issues/36925),"[webview_flutter] Add an option to bypass SSL checks",2024-01-24,2024-02-12,19,18,0,1
+[`flutter/flutter#78543`](https://github.com/flutter/flutter/issues/78543),"Severe performance issues when drawing transformed widgets that contain beziers.",2024-01-24,2024-02-12,18,40,0,1
+[`flutter/flutter#113757`](https://github.com/flutter/flutter/issues/113757),"[go_router] ShellRoute with CupertinoTabScaffold crashes with ""multiple widgets used the same GlobalKey""",2024-01-24,2024-02-12,17,22,0,1
+[`flutter/flutter#26000`](https://github.com/flutter/flutter/issues/26000),"iOS Google Maps: Strange appear animation",2024-01-24,2024-02-12,17,20,0,1
+[`flutter/flutter#104552`](https://github.com/flutter/flutter/issues/104552),"`SelectionArea` does not select the text when using double and triple tap",2024-01-24,2024-02-12,32,28,0,2
+[`flutter/flutter#118481`](https://github.com/flutter/flutter/issues/118481),"[web] Multi-view Embedding Support",2024-01-24,2024-02-12,29,6,0,2
 [`flutter/flutter#51478`](https://github.com/flutter/flutter/issues/51478),"Flutter OnScreen Keyboard opens on physical key press",2024-01-24,2024-01-28,16,19,0,1
-[`flutter/flutter#69529`](https://github.com/flutter/flutter/issues/69529),"[web] Scroll is not recognized by the browser",2024-01-24,2024-02-06,141,91,0,4
-[`flutter/flutter#23603`](https://github.com/flutter/flutter/issues/23603),"Flutter should be able to interact with host clipboard for rich content",2024-01-24,2024-02-06,107,9,0,1
-[`flutter/flutter#118498`](https://github.com/flutter/flutter/issues/118498),"[google_maps_flutter] Google maps transition from one page to another is buggy.",2024-01-24,2024-02-06,56,45,0,1
-[`flutter/flutter#16810`](https://github.com/flutter/flutter/issues/16810),"Seeing a green rectangle around the border of the gallery app when I run it",2024-01-24,2024-02-06,26,40,0,3
-[`flutter/flutter#79605`](https://github.com/flutter/flutter/issues/79605),"Memory leak with Stateless Widget",2024-01-24,2024-02-06,19,55,0,2
-[`flutter/flutter#36925`](https://github.com/flutter/flutter/issues/36925),"[webview_flutter] Add an option to bypass SSL checks",2024-01-24,2024-02-06,19,18,0,1
-[`flutter/flutter#113757`](https://github.com/flutter/flutter/issues/113757),"[go_router] ShellRoute with CupertinoTabScaffold crashes with ""multiple widgets used the same GlobalKey""",2024-01-24,2024-02-06,17,22,0,1
-[`flutter/flutter#26000`](https://github.com/flutter/flutter/issues/26000),"iOS Google Maps: Strange appear animation",2024-01-24,2024-02-06,17,20,0,1
-[`flutter/flutter#51890`](https://github.com/flutter/flutter/issues/51890),"add screenshot capability to e2e integration tests",2024-01-24,2024-02-06,64,31,0,1
-[`flutter/flutter#124205`](https://github.com/flutter/flutter/issues/124205),"Keyboard issue on mobile Web platform",2024-01-24,2024-02-06,29,36,0,1
-[`flutter/flutter#129757`](https://github.com/flutter/flutter/issues/129757),"☂️ Native assets support",2024-01-24,2024-02-06,22,3,0,3
-[`flutter/flutter#57090`](https://github.com/flutter/flutter/issues/57090),"[webview_flutter] Support disabling overscroll",2024-01-24,2024-02-06,16,6,0,1
-[`flutter/flutter#36283`](https://github.com/flutter/flutter/issues/36283),"Can't swipe to dismiss scrollable Bottom Sheet",2024-01-24,2024-02-06,62,34,0,3
-[`flutter/flutter#44572`](https://github.com/flutter/flutter/issues/44572),"Path.combine not implemented in the HTML backend",2024-01-24,2024-02-06,37,29,0,1
-[`flutter/flutter#49531`](https://github.com/flutter/flutter/issues/49531),"Camera live filter for photo and video",2024-01-24,2024-02-06,35,23,0,1
-[`flutter/flutter#52522`](https://github.com/flutter/flutter/issues/52522),"[in_app_purchase] Support InApp purchase local verification",2024-01-24,2024-02-06,34,11,0,1
-[`flutter/flutter#26527`](https://github.com/flutter/flutter/issues/26527),"Listview with shrinkwrap on the cross axis - impossible?",2024-01-24,2024-02-06,28,14,0,1
-[`flutter/flutter#99819`](https://github.com/flutter/flutter/issues/99819),"[flutter_markdown] Selecting text works only paragraph by paragraph in markdown widget when text is not indented",2024-01-24,2024-02-06,16,19,0,1
-[`flutter/flutter#18968`](https://github.com/flutter/flutter/issues/18968),"[camera] Access realtime image frames for pre-processing and effect overlays",2024-01-24,2024-02-06,80,24,0,1
-[`flutter/flutter#48464`](https://github.com/flutter/flutter/issues/48464),"When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible.",2024-01-24,2024-02-06,30,25,0,1
-[`flutter/flutter#59552`](https://github.com/flutter/flutter/issues/59552),"Flutter flashes black screen on Android when resuming",2024-01-24,2024-02-06,19,32,0,4
-[`flutter/flutter#78746`](https://github.com/flutter/flutter/issues/78746),"Autocomplete widget goes out of screen from right side",2024-01-24,2024-02-06,42,38,0,1
-[`flutter/flutter#79172`](https://github.com/flutter/flutter/issues/79172),"[web] complex characters are rendered incorrectly",2024-01-24,2024-02-06,23,20,0,1
-[`flutter/flutter#59332`](https://github.com/flutter/flutter/issues/59332),"Flutter Web: ListView lags a lot on mobile browsers, inconsistent performance on different devices on different browsers",2024-01-24,2024-02-06,22,34,0,1
-[`flutter/flutter#24233`](https://github.com/flutter/flutter/issues/24233),"Dismissible widgets disable Tabview drag detection",2024-01-24,2024-02-06,16,13,0,1
-[`flutter/flutter#53017`](https://github.com/flutter/flutter/issues/53017),"[video_player] Allow creating a video player controller from bytes stream (e.g., Uint8List)",2024-01-24,2024-02-06,14,15,0,9
+[`flutter/flutter#36283`](https://github.com/flutter/flutter/issues/36283),"Can't swipe to dismiss scrollable Bottom Sheet",2024-01-24,2024-02-12,62,34,0,3
+[`flutter/flutter#44572`](https://github.com/flutter/flutter/issues/44572),"Path.combine not implemented in the HTML backend",2024-01-24,2024-02-12,37,30,0,2
+[`flutter/flutter#49531`](https://github.com/flutter/flutter/issues/49531),"Camera live filter for photo and video",2024-01-24,2024-02-12,35,24,0,2
+[`flutter/flutter#52522`](https://github.com/flutter/flutter/issues/52522),"[in_app_purchase] Support InApp purchase local verification",2024-01-24,2024-02-12,34,11,0,1
+[`flutter/flutter#26527`](https://github.com/flutter/flutter/issues/26527),"Listview with shrinkwrap on the cross axis - impossible?",2024-01-24,2024-02-12,28,14,0,1
+[`flutter/flutter#131690`](https://github.com/flutter/flutter/issues/131690),"Issue: Cannot theme progress indicators, many properties missing",2024-01-24,2024-02-12,15,3,0,1
+[`flutter/flutter#18968`](https://github.com/flutter/flutter/issues/18968),"[camera] Access realtime image frames for pre-processing and effect overlays",2024-01-24,2024-02-12,80,24,0,1
+[`flutter/flutter#10437`](https://github.com/flutter/flutter/issues/10437),"Do plugins need to know about hot reload and hot restart?",2024-01-24,2024-02-12,61,25,0,1
+[`flutter/flutter#48464`](https://github.com/flutter/flutter/issues/48464),"When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible.",2024-01-24,2024-02-12,30,25,0,1
+[`flutter/flutter#89167`](https://github.com/flutter/flutter/issues/89167),"Making NavigationRail scrollable",2024-01-24,2024-02-12,19,5,0,1
+[`flutter/flutter#78216`](https://github.com/flutter/flutter/issues/78216),"Disable scroll actions for embedded Flutter web app",2024-01-24,2024-02-12,19,29,0,1
+[`flutter/flutter#59552`](https://github.com/flutter/flutter/issues/59552),"Flutter flashes black screen on Android when resuming",2024-01-24,2024-02-12,19,32,0,4
+[`flutter/flutter#76053`](https://github.com/flutter/flutter/issues/76053),"Ability to use TimePicker outside a dialog",2024-01-24,2024-02-12,23,13,0,1
+[`flutter/flutter#79172`](https://github.com/flutter/flutter/issues/79172),"[web] complex characters are rendered incorrectly",2024-01-24,2024-02-12,23,20,0,1
+[`flutter/flutter#59332`](https://github.com/flutter/flutter/issues/59332),"Flutter Web: ListView lags a lot on mobile browsers, inconsistent performance on different devices on different browsers",2024-01-24,2024-02-12,22,34,0,1
+[`flutter/flutter#27293`](https://github.com/flutter/flutter/issues/27293),"Wrapped Text has unexpected intrinsic size",2024-01-24,2024-02-12,22,23,0,1
+[`flutter/flutter#24233`](https://github.com/flutter/flutter/issues/24233),"Dismissible widgets disable Tabview drag detection",2024-01-24,2024-02-12,16,13,0,1
+[`flutter/flutter#53017`](https://github.com/flutter/flutter/issues/53017),"[video_player] Allow creating a video player controller from bytes stream (e.g., Uint8List)",2024-01-24,2024-02-12,14,15,0,9
 [`flutter/flutter#129182`](https://github.com/flutter/flutter/issues/129182),"[Flutter Web] Widgets not resizing (disappear) with browser zoom in / out",2024-01-24,2024-01-29,13,53,0,1
-[`flutter/flutter#103386`](https://github.com/flutter/flutter/issues/103386),"☂️ [macOS] Support building engine on Apple Silicon without Rosetta",2024-01-24,2024-02-06,23,8,0,2
-[`flutter/flutter#76053`](https://github.com/flutter/flutter/issues/76053),"Ability to use TimePicker outside a dialog",2024-01-24,2024-02-06,23,13,0,1
-[`flutter/flutter#56383`](https://github.com/flutter/flutter/issues/56383),"[Test]: Golden Test Fails on CI(Same Platform)",2024-01-24,2024-02-06,16,27,0,1
-[`flutter/flutter#118384`](https://github.com/flutter/flutter/issues/118384),"A memory leak occurs when using SurfaceView together with AndroidView",2024-01-24,2024-02-06,15,9,0,1
-[`flutter/flutter#78422`](https://github.com/flutter/flutter/issues/78422),"[web] Standardized way to preload emoji font using CanvasKit",2024-01-24,2024-02-06,14,15,0,1
-[`flutter/flutter#48226`](https://github.com/flutter/flutter/issues/48226),"AnimatedList with Dividers",2024-01-24,2024-02-06,38,10,0,2
-[`flutter/flutter#34864`](https://github.com/flutter/flutter/issues/34864),"Slight flicker on the screen when loading from app overview on Android",2024-01-24,2024-02-06,31,41,0,1
-[`flutter/flutter#122258`](https://github.com/flutter/flutter/issues/122258),"[go_router_builder] Define routes in separate files",2024-01-24,2024-02-06,27,7,0,1
-[`flutter/flutter#14720`](https://github.com/flutter/flutter/issues/14720),"Flutter can receive touches even when hidden behind another native ViewController",2024-01-24,2024-02-06,25,39,0,2
-[`flutter/flutter#116383`](https://github.com/flutter/flutter/issues/116383),"[in_app_purchase] Use StoreKit 2 APIs",2024-01-24,2024-02-06,20,11,0,2
-[`flutter/flutter#99460`](https://github.com/flutter/flutter/issues/99460),"The following _CastError was thrown during a service extension callback for ""ext.flutter.inspector.getRootWidgetSummaryTree""",2024-01-24,2024-02-06,17,20,0,2
-[`flutter/flutter#60160`](https://github.com/flutter/flutter/issues/60160),"Image.memory retains the Uint8List",2024-01-24,2024-02-06,15,10,0,1
+[`flutter/flutter#129757`](https://github.com/flutter/flutter/issues/129757),"☂️ Native assets support",2024-01-24,2024-02-12,22,3,0,3
+[`flutter/flutter#57090`](https://github.com/flutter/flutter/issues/57090),"[webview_flutter] Support disabling overscroll",2024-01-24,2024-02-12,16,6,0,1
+[`flutter/flutter#56383`](https://github.com/flutter/flutter/issues/56383),"[Test]: Golden Test Fails on CI(Same Platform)",2024-01-24,2024-02-12,16,27,0,1
+[`flutter/flutter#118384`](https://github.com/flutter/flutter/issues/118384),"A memory leak occurs when using SurfaceView together with AndroidView",2024-01-24,2024-02-12,15,9,0,1
+[`flutter/flutter#78422`](https://github.com/flutter/flutter/issues/78422),"[web] Standardized way to preload emoji font using CanvasKit",2024-01-24,2024-02-12,14,15,0,1
+[`flutter/flutter#48226`](https://github.com/flutter/flutter/issues/48226),"AnimatedList with Dividers",2024-01-24,2024-02-12,38,10,0,2
+[`flutter/flutter#34864`](https://github.com/flutter/flutter/issues/34864),"Slight flicker on the screen when loading from app overview on Android",2024-01-24,2024-02-12,31,41,0,1
+[`flutter/flutter#14720`](https://github.com/flutter/flutter/issues/14720),"Flutter can receive touches even when hidden behind another native ViewController",2024-01-24,2024-02-12,25,39,0,2
+[`flutter/flutter#116383`](https://github.com/flutter/flutter/issues/116383),"[in_app_purchase] Use StoreKit 2 APIs",2024-01-24,2024-02-12,20,11,0,2
+[`flutter/flutter#99460`](https://github.com/flutter/flutter/issues/99460),"The following _CastError was thrown during a service extension callback for ""ext.flutter.inspector.getRootWidgetSummaryTree""",2024-01-24,2024-02-12,17,20,0,2
+[`flutter/flutter#43721`](https://github.com/flutter/flutter/issues/43721),"[google_maps_flutter] Padding not working on android",2024-01-24,2024-02-12,16,21,0,1
+[`flutter/flutter#60160`](https://github.com/flutter/flutter/issues/60160),"Image.memory retains the Uint8List",2024-01-24,2024-02-12,15,10,0,1
+[`flutter/flutter#95472`](https://github.com/flutter/flutter/issues/95472),"[flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get",2024-01-30,2024-02-12,12,22,0,1
