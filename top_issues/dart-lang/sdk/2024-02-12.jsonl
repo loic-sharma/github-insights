@@ -849,6 +849,7 @@
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":37395,"title":"FutureOr as type bound causes incorrect static errors (lib_2/async/future_or_type_test fails)","state":"OPEN","comments":2,"participants":4,"reactions":1,"createdAt":"2019-06-28T04:04:44.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":37372,"title":"Feature: firstOrElse variant in List","state":"OPEN","comments":3,"participants":2,"reactions":1,"createdAt":"2019-06-26T14:16:15.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":37346,"title":"Allow to use 'Show Call Hierarchy' on the class, if there is no constructor","state":"OPEN","comments":0,"participants":1,"reactions":1,"createdAt":"2019-06-24T15:24:37.000Z"}
+{"date":"2024-02-12","repository":"dart-lang/sdk","id":37304,"title":"Add `by` function to extract values for sorting","state":"OPEN","comments":3,"participants":3,"reactions":1,"createdAt":"2019-06-18T18:35:44.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":36101,"title":"improve parser recovery when missing } in interpolation","state":"OPEN","comments":0,"participants":2,"reactions":1,"createdAt":"2019-03-04T19:16:52.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":36100,"title":"Reduce runtime stack usage","state":"OPEN","comments":8,"participants":4,"reactions":1,"createdAt":"2019-03-04T18:06:04.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":36074,"title":"HttpResponse's done not called","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2019-02-28T21:42:53.000Z"}
@@ -967,7 +968,6 @@
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":24411,"title":"Dart2Js version of CustomEvent._detail should handle custom Js \"classes\"","state":"OPEN","comments":9,"participants":5,"reactions":1,"createdAt":"2015-09-22T22:27:55.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":24338,"title":"Add quick fix to add import with prefix","state":"OPEN","comments":1,"participants":4,"reactions":1,"createdAt":"2015-09-12T16:30:50.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":24054,"title":"Reduce boilerplate to hide setters","state":"OPEN","comments":2,"participants":4,"reactions":1,"createdAt":"2015-08-12T11:20:53.000Z"}
-{"date":"2024-02-12","repository":"dart-lang/sdk","id":24015,"title":"No completion after 'part of'","state":"OPEN","comments":0,"participants":6,"reactions":1,"createdAt":"2015-08-07T13:07:41.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":23643,"title":"Analyzer: Hint for correct use of ArgumentError","state":"OPEN","comments":6,"participants":4,"reactions":1,"createdAt":"2015-06-15T19:56:34.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":23567,"title":"Inconsistent parent/child relationships for PrefixElement","state":"OPEN","comments":1,"participants":4,"reactions":1,"createdAt":"2015-06-01T20:41:52.000Z"}
 {"date":"2024-02-12","repository":"dart-lang/sdk","id":23427,"title":"Analyzer does not resolve doc comment reference with type arguments","state":"OPEN","comments":3,"participants":5,"reactions":1,"createdAt":"2015-05-11T16:46:12.000Z"}
