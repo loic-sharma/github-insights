@@ -2,27 +2,56 @@
 
 Find trending GitHub issues.
 
-## Trending issues report
+## Issue delta reports
+
+Find how many new reactions and comments each issue received each day:
+
+```sql
+.mode csv
+.output issue_deltas_daily.csv
+
+WITH
+  issues AS (
+    SELECT
+      "date",
+      repository || '#' || id  AS issue_id,
+      title,
+      reactions,
+      comments,
+      'https://github.com/' || repository || '/issues/' || id AS issue_url,
+    FROM 'top_issues/flutter/flutter/*.jsonl'
+  )
+SELECT
+  "date",
+  issue_id,
+  title,
+  reactions - LAG(reactions) OVER (PARTITION BY issue_id ORDER BY date) AS new_reactions,
+  comments - LAG(comments) OVER (PARTITION BY issue_id ORDER BY date) AS new_comments,
+  issue_url,
+FROM issues
+ORDER BY "date" DESC, new_reactions DESC;
+```
 
 Find the Flutter issues with the most reactions in the last 6 weeks:
 
 ```sql
 .mode csv
-.output top_issues.csv
+.output issue_deltas_total.csv
 
 SELECT
-  '[`' || repository || '#' || id || '`](https://github.com/' || repository || '/issues/' || id || ')' AS id,
+  repository || '#' || id  AS issue_id,
   any_value(title) AS title,
   min(date) AS start,
   max(date) AS end,
   max(reactions) AS total_reactions,
   max(comments) AS total_comments,
   max(reactions) - min(reactions) AS new_reactions,
-  max(comments) - min(comments) AS new_comments
+  max(comments) - min(comments) AS new_comments,
+  'https://github.com/' || repository || '/issues/' || id AS issue_url,
 FROM 'top_issues/flutter/flutter/*.jsonl'
 WHERE
   date_diff('day', "date", today()) <= 42
-GROUP BY repository, id
+GROUP BY repository, issue_id, id
 HAVING new_reactions > 0 OR new_comments > 0
 ORDER BY new_reactions DESC;
 ```
