@@ -24,9 +24,9 @@ WITH
 SELECT
   "date",
   issue_id,
-  title,
   reactions - LAG(reactions) OVER (PARTITION BY issue_id ORDER BY date) AS new_reactions,
   comments - LAG(comments) OVER (PARTITION BY issue_id ORDER BY date) AS new_comments,
+  title,
   issue_url,
 FROM issues
 ORDER BY "date" DESC, new_reactions DESC
