@@ -20,16 +20,22 @@ WITH
       comments,
       'https://github.com/' || repository || '/issues/' || id AS issue_url,
     FROM 'top_issues/flutter/flutter/*.jsonl'
+  ),
+  issue_deltas_daily AS (
+    SELECT
+      "date",
+      issue_id,
+      reactions - LAG(reactions) OVER (PARTITION BY issue_id ORDER BY date) AS new_reactions,
+      comments - LAG(comments) OVER (PARTITION BY issue_id ORDER BY date) AS new_comments,
+      title,
+      issue_url,
+    FROM issues
+    ORDER BY "date" DESC, new_reactions DESC
   )
 SELECT
-  "date",
-  issue_id,
-  reactions - LAG(reactions) OVER (PARTITION BY issue_id ORDER BY date) AS new_reactions,
-  comments - LAG(comments) OVER (PARTITION BY issue_id ORDER BY date) AS new_comments,
-  title,
-  issue_url,
-FROM issues
-ORDER BY "date" DESC, new_reactions DESC
+  *
+FROM issue_deltas_daily
+WHERE new_reactions != 0 OR new_comments != 0
 ;
 ```
 
