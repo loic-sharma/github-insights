@@ -29,7 +29,50 @@ SELECT
   comments - LAG(comments) OVER (PARTITION BY issue_id ORDER BY date) AS new_comments,
   issue_url,
 FROM issues
-ORDER BY "date" DESC, new_reactions DESC;
+ORDER BY "date" DESC, new_reactions DESC
+;
+```
+
+Find how many new reactions and comments each issue received each week:
+
+```sql
+.mode csv
+.output issue_deltas_weekly.csv
+
+WITH
+  issues AS (
+    SELECT
+      "date",
+      repository || '#' || id  AS issue_id,
+      title,
+      reactions,
+      comments,
+      'https://github.com/' || repository || '/issues/' || id AS issue_url,
+    FROM 'top_issues/flutter/flutter/*.jsonl'
+  ),
+  issue_deltas_daily AS (
+    SELECT
+      "date",
+      issue_id,
+      reactions - LAG(reactions) OVER (PARTITION BY issue_id ORDER BY date) AS new_reactions,
+      comments - LAG(comments) OVER (PARTITION BY issue_id ORDER BY date) AS new_comments,
+      title,
+      issue_url,
+    FROM issues
+    ORDER BY "date" DESC, new_reactions DESC
+  )
+SELECT
+  date_trunc('yearweek', "date") AS "date",
+  issue_id,
+  SUM(new_reactions) AS new_reactions,
+  SUM(new_comments) AS new_comments,
+  title,
+  issue_url
+FROM issue_deltas_daily
+WHERE new_reactions != 0 OR new_comments != 0
+GROUP BY date_trunc('yearweek', "date"), issue_id, title, issue_url
+ORDER BY "date" DESC, new_reactions DESC
+;
 ```
 
 Find the Flutter issues with the most reactions in the last 6 weeks:
@@ -53,7 +96,8 @@ WHERE
   date_diff('day', "date", today()) <= 42
 GROUP BY repository, issue_id, id
 HAVING new_reactions > 0 OR new_comments > 0
-ORDER BY new_reactions DESC;
+ORDER BY new_reactions DESC
+;
 ```
 
 Example results:
