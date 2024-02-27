@@ -7,8 +7,8 @@ Find trending GitHub issues.
 Find how many new reactions and comments each issue received each day:
 
 ```sql
-.mode csv
-.output issue_deltas_daily.csv
+.mode json
+.output issue_deltas_daily.json
 
 WITH
   issues AS (
@@ -35,7 +35,7 @@ WITH
 SELECT
   *
 FROM issue_deltas_daily
-WHERE new_reactions != 0 OR new_comments != 0
+WHERE new_reactions != 0
 ;
 ```
 
@@ -148,3 +148,86 @@ comments | int | Number of GitHub issue comments at this date
 participants | int | Number of GitHub users participating in the issue conversation at this date
 reactions | int | Number of reactions on the GitHub issue at this date
 createdAt | timestamp | When the GitHub issue was created
+
+### Dashboard
+
+```sql
+.mode json
+.output issue_deltas_daily.js
+
+WITH
+  issues AS (
+    SELECT
+      "date",
+      repository || '#' || id  AS issue_id,
+      title,
+      reactions,
+      comments,
+      'https://github.com/' || repository || '/issues/' || id AS issue_url,
+    FROM 'top_issues/flutter/flutter/*.jsonl'
+  ),
+  issue_deltas_daily AS (
+    SELECT
+      "date",
+      issue_id,
+      reactions - LAG(reactions) OVER (PARTITION BY issue_id ORDER BY date) AS new_reactions,
+      comments - LAG(comments) OVER (PARTITION BY issue_id ORDER BY date) AS new_comments,
+      title,
+      issue_url,
+    FROM issues
+    ORDER BY "date" DESC, new_reactions DESC
+  )
+SELECT
+  *
+FROM issue_deltas_daily
+WHERE new_reactions != 0;
+
+.output issue_deltas_weekly.js
+
+WITH
+  issues AS (
+    SELECT
+      "date",
+      repository || '#' || id  AS issue_id,
+      title,
+      reactions,
+      comments,
+      'https://github.com/' || repository || '/issues/' || id AS issue_url,
+    FROM 'top_issues/flutter/flutter/*.jsonl'
+  ),
+  issue_deltas_daily AS (
+    SELECT
+      "date",
+      issue_id,
+      reactions - LAG(reactions) OVER (PARTITION BY issue_id ORDER BY date) AS new_reactions,
+      comments - LAG(comments) OVER (PARTITION BY issue_id ORDER BY date) AS new_comments,
+      title,
+      issue_url,
+    FROM issues
+    ORDER BY "date" DESC, new_reactions DESC
+  )
+SELECT
+  date_trunc('yearweek', "date") AS "date",
+  issue_id,
+  SUM(new_reactions) AS new_reactions,
+  SUM(new_comments) AS new_comments,
+  title,
+  issue_url
+FROM issue_deltas_daily
+WHERE new_reactions != 0
+GROUP BY date_trunc('yearweek', "date"), issue_id, title, issue_url
+ORDER BY "date" DESC, new_reactions DESC
+;
+```
+
+Edit `issue_deltas_daily`, prepend content with:
+
+```js
+var issue_deltas_daily = 
+```
+
+Edit `issue_deltas_weekly`, prepend content with:
+
+```js
+var issue_deltas_weekly = 
+```
