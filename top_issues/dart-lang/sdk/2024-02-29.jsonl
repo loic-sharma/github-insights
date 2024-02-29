@@ -223,7 +223,6 @@
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":33823,"title":"I would like a `--strict-await` static analysis option (2.1+)","state":"OPEN","comments":2,"participants":5,"reactions":8,"createdAt":"2018-07-11T18:05:20.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":32959,"title":"Improve API docs for List.of, List.from","state":"OPEN","comments":3,"participants":4,"reactions":8,"createdAt":"2018-04-24T15:45:59.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":31487,"title":"SIMD types in dart:typed_data should have const constructors","state":"OPEN","comments":3,"participants":4,"reactions":8,"createdAt":"2017-11-29T20:25:33.000Z"}
-{"date":"2024-02-29","repository":"dart-lang/sdk","id":52121,"title":"[breaking change] Remove dart:cli waitFor experiment","state":"OPEN","comments":44,"participants":17,"reactions":7,"createdAt":"2023-04-21T08:10:20.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":51985,"title":"No quick fix for `non_exhaustive_switch` and `non_exhaustive_switch_expression`","state":"OPEN","comments":3,"participants":4,"reactions":7,"createdAt":"2023-04-07T19:31:18.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":51596,"title":"Speed up JSON parsing with simdjson?","state":"OPEN","comments":1,"participants":4,"reactions":7,"createdAt":"2023-03-02T00:17:26.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":51261,"title":"Allow Ffi calls to be marked as potentially blocking / exiting the isolate.","state":"OPEN","comments":5,"participants":4,"reactions":7,"createdAt":"2023-02-06T11:05:38.000Z"}
@@ -849,6 +848,7 @@
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":37714,"title":"Should @optionalTypeArgs be allowed on constructors, functions, methods, and typedefs?","state":"OPEN","comments":8,"participants":4,"reactions":1,"createdAt":"2019-08-01T19:37:45.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":37477,"title":"CFE Null Safety stable","state":"OPEN","comments":1,"participants":4,"reactions":1,"createdAt":"2019-07-09T20:49:57.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":37470,"title":"[vm/ffi] Support SSE & NEON packed data","state":"OPEN","comments":2,"participants":1,"reactions":1,"createdAt":"2019-07-09T10:36:20.000Z"}
+{"date":"2024-02-29","repository":"dart-lang/sdk","id":37372,"title":"Feature: firstOrElse variant in List","state":"OPEN","comments":3,"participants":2,"reactions":1,"createdAt":"2019-06-26T14:16:15.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":37346,"title":"Allow to use 'Show Call Hierarchy' on the class, if there is no constructor","state":"OPEN","comments":0,"participants":1,"reactions":1,"createdAt":"2019-06-24T15:24:37.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":36101,"title":"improve parser recovery when missing } in interpolation","state":"OPEN","comments":0,"participants":2,"reactions":1,"createdAt":"2019-03-04T19:16:52.000Z"}
 {"date":"2024-02-29","repository":"dart-lang/sdk","id":36100,"title":"Reduce runtime stack usage","state":"OPEN","comments":8,"participants":4,"reactions":1,"createdAt":"2019-03-04T18:06:04.000Z"}
