@@ -27,7 +27,7 @@
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":21758,"title":"Provide function to get the current system timezone name","state":"OPEN","comments":24,"participants":14,"reactions":48,"createdAt":"2014-12-01T08:29:21.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":43329,"title":"Add Timer.pause(), Timer.resume() and Timer.restart()","state":"OPEN","comments":16,"participants":5,"reactions":46,"createdAt":"2020-09-04T03:55:22.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":31969,"title":"Enable tree shaking of platform-specific code in AOT mode.","state":"OPEN","comments":9,"participants":4,"reactions":46,"createdAt":"2018-01-23T17:26:55.000Z"}
-{"date":"2024-03-03","repository":"dart-lang/sdk","id":54934,"title":"Support for hot reload in DDC","state":"OPEN","comments":0,"participants":1,"reactions":44,"createdAt":"2024-02-15T22:08:16.000Z"}
+{"date":"2024-03-03","repository":"dart-lang/sdk","id":54934,"title":"Support for hot reload in DDC","state":"OPEN","comments":0,"participants":1,"reactions":45,"createdAt":"2024-02-15T22:08:16.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":43490,"title":"Disposable","state":"OPEN","comments":16,"participants":8,"reactions":44,"createdAt":"2020-09-19T10:45:48.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":10530,"title":"Dynamic module loading","state":"OPEN","comments":124,"participants":34,"reactions":44,"createdAt":"2013-05-08T13:38:05.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":47718,"title":"dart compile exe support static linking of C code","state":"OPEN","comments":11,"participants":6,"reactions":43,"createdAt":"2021-11-17T09:14:45.000Z"}
@@ -123,7 +123,7 @@
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":33841,"title":"Its is scary to use `<Iterable>.firstWhere(orElse: ...)`","state":"OPEN","comments":10,"participants":7,"reactions":14,"createdAt":"2018-07-12T21:44:03.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":49418,"title":"[vm/ffi] Explore using `FfiNative` for static linking","state":"OPEN","comments":8,"participants":5,"reactions":13,"createdAt":"2022-07-07T15:01:21.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":48401,"title":"Split unused_element into two diagnostics?","state":"OPEN","comments":10,"participants":5,"reactions":13,"createdAt":"2022-02-15T12:56:05.000Z"}
-{"date":"2024-03-03","repository":"dart-lang/sdk","id":48210,"title":"improve socket read throughput","state":"OPEN","comments":13,"participants":9,"reactions":13,"createdAt":"2022-01-25T10:28:48.000Z"}
+{"date":"2024-03-03","repository":"dart-lang/sdk","id":48210,"title":"improve socket read throughput","state":"OPEN","comments":14,"participants":9,"reactions":13,"createdAt":"2022-01-25T10:28:48.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":47958,"title":"Add a fix for the sort_pub_dependencies lint","state":"OPEN","comments":1,"participants":5,"reactions":13,"createdAt":"2021-12-16T23:34:26.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":46760,"title":"Provide an ability for analyzer plugins to contribute to `dart fix` fixes set","state":"OPEN","comments":11,"participants":5,"reactions":13,"createdAt":"2021-07-29T19:40:32.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":44804,"title":"Add blocking isolate communication.","state":"OPEN","comments":31,"participants":12,"reactions":13,"createdAt":"2021-01-29T16:04:29.000Z"}
@@ -358,11 +358,11 @@
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":33777,"title":"int class has isNegative but not isPositive","state":"OPEN","comments":3,"participants":2,"reactions":5,"createdAt":"2018-07-07T23:58:38.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":33165,"title":"Documentation should explain new typedef syntax better","state":"OPEN","comments":20,"participants":8,"reactions":5,"createdAt":"2018-05-18T19:22:17.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":32876,"title":"WebSocket.readyState always returns WebSocket.OPEN","state":"OPEN","comments":0,"participants":2,"reactions":5,"createdAt":"2018-04-13T12:46:26.000Z"}
+{"date":"2024-03-03","repository":"dart-lang/sdk","id":32876,"title":"WebSocket.readyState always returns WebSocket.OPEN","state":"OPEN","comments":0,"participants":2,"reactions":5,"createdAt":"2018-04-13T12:46:26.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":32191,"title":"File.openRead().listen seems to close too early on fifo pipes","state":"OPEN","comments":2,"participants":4,"reactions":5,"createdAt":"2018-02-15T23:15:08.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":31701,"title":"\"Extract Final\" / \"Extract Constant\"","state":"OPEN","comments":6,"participants":5,"reactions":5,"createdAt":"2017-12-20T16:23:00.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":31515,"title":"JS: Add a new \"undefined\" type (or proxy it as \"void\")?","state":"OPEN","comments":3,"participants":6,"reactions":5,"createdAt":"2017-12-01T20:18:39.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":31112,"title":"Provide pinvoke/golang-like interop with C","state":"OPEN","comments":0,"participants":3,"reactions":5,"createdAt":"2017-10-16T11:57:35.000Z"}
-{"date":"2024-03-03","repository":"dart-lang/sdk","id":30864,"title":"Add String.stripMargin","state":"OPEN","comments":1,"participants":2,"reactions":5,"createdAt":"2017-09-22T11:55:16.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":30280,"title":"Change type of `futures` parameter of `Future.wait` to `Iterable<FutureOr<T>>`","state":"OPEN","comments":10,"participants":6,"reactions":5,"createdAt":"2017-07-27T15:02:45.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":29625,"title":"add a FileSystemEntity.name getter","state":"OPEN","comments":2,"participants":4,"reactions":5,"createdAt":"2017-05-16T05:12:13.000Z"}
 {"date":"2024-03-03","repository":"dart-lang/sdk","id":27979,"title":"Uri.base is broken on Node.js","state":"OPEN","comments":8,"participants":5,"reactions":5,"createdAt":"2016-12-02T22:09:06.000Z"}
