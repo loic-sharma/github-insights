@@ -185,7 +185,7 @@
 {"date":"2024-03-06","repository":"flutter/flutter","id":118498,"title":"[google_maps_flutter] Google maps transition from one page to another is buggy.","state":"OPEN","comments":50,"participants":35,"reactions":59,"createdAt":"2023-01-14T08:01:57.000Z"}
 {"date":"2024-03-06","repository":"flutter/flutter","id":37159,"title":"Roku support","state":"OPEN","comments":11,"participants":16,"reactions":59,"createdAt":"2019-07-29T09:32:13.000Z"}
 {"date":"2024-03-06","repository":"flutter/flutter","id":139039,"title":"Samsung phones running Android 14 stops drawing platform views on resume","state":"OPEN","comments":51,"participants":7,"reactions":58,"createdAt":"2023-11-27T05:04:40.000Z"}
-{"date":"2024-03-06","repository":"flutter/flutter","id":87789,"title":"SliverWrap","state":"OPEN","comments":14,"participants":13,"reactions":58,"createdAt":"2021-08-06T09:14:07.000Z"}
+{"date":"2024-03-06","repository":"flutter/flutter","id":87789,"title":"SliverWrap","state":"OPEN","comments":15,"participants":13,"reactions":58,"createdAt":"2021-08-06T09:14:07.000Z"}
 {"date":"2024-03-06","repository":"flutter/flutter","id":33799,"title":"[iOS 13] navigation transition styles can now mix","state":"OPEN","comments":4,"participants":5,"reactions":58,"createdAt":"2019-06-03T21:34:58.000Z"}
 {"date":"2024-03-06","repository":"flutter/flutter","id":127855,"title":"Implement wide gamut color support in the Framework","state":"OPEN","comments":6,"participants":5,"reactions":57,"createdAt":"2023-05-30T16:15:32.000Z"}
 {"date":"2024-03-06","repository":"flutter/flutter","id":123095,"title":"App crash on Android device with type FlutterJNI.nativeUpdateRefreshRate","state":"OPEN","comments":34,"participants":24,"reactions":57,"createdAt":"2023-03-21T08:43:37.000Z"}
