@@ -356,6 +356,7 @@
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":33893,"title":"The BigInt class does not have a const constructor","state":"OPEN","comments":12,"participants":8,"reactions":5,"createdAt":"2018-07-17T19:54:56.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":33777,"title":"int class has isNegative but not isPositive","state":"OPEN","comments":3,"participants":2,"reactions":5,"createdAt":"2018-07-07T23:58:38.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":33165,"title":"Documentation should explain new typedef syntax better","state":"OPEN","comments":20,"participants":8,"reactions":5,"createdAt":"2018-05-18T19:22:17.000Z"}
+{"date":"2024-03-08","repository":"dart-lang/sdk","id":32876,"title":"WebSocket.readyState always returns WebSocket.OPEN","state":"OPEN","comments":0,"participants":2,"reactions":5,"createdAt":"2018-04-13T12:46:26.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":32191,"title":"File.openRead().listen seems to close too early on fifo pipes","state":"OPEN","comments":2,"participants":4,"reactions":5,"createdAt":"2018-02-15T23:15:08.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":31701,"title":"\"Extract Final\" / \"Extract Constant\"","state":"OPEN","comments":6,"participants":5,"reactions":5,"createdAt":"2017-12-20T16:23:00.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":31515,"title":"JS: Add a new \"undefined\" type (or proxy it as \"void\")?","state":"OPEN","comments":3,"participants":6,"reactions":5,"createdAt":"2017-12-01T20:18:39.000Z"}
@@ -364,7 +365,6 @@
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":30280,"title":"Change type of `futures` parameter of `Future.wait` to `Iterable<FutureOr<T>>`","state":"OPEN","comments":10,"participants":6,"reactions":5,"createdAt":"2017-07-27T15:02:45.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":29625,"title":"add a FileSystemEntity.name getter","state":"OPEN","comments":2,"participants":4,"reactions":5,"createdAt":"2017-05-16T05:12:13.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":27979,"title":"Uri.base is broken on Node.js","state":"OPEN","comments":8,"participants":5,"reactions":5,"createdAt":"2016-12-02T22:09:06.000Z"}
-{"date":"2024-03-08","repository":"dart-lang/sdk","id":27817,"title":"analysis options \"include\" directive","state":"OPEN","comments":3,"participants":5,"reactions":5,"createdAt":"2016-11-14T20:37:50.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":27817,"title":"analysis options \"include\" directive","state":"OPEN","comments":3,"participants":5,"reactions":5,"createdAt":"2016-11-14T20:37:50.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":23797,"title":"Let `await` hang the isolate + observatory support.","state":"OPEN","comments":21,"participants":15,"reactions":5,"createdAt":"2015-07-07T08:08:18.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":22960,"title":"Consider restoring window.focus","state":"OPEN","comments":4,"participants":6,"reactions":5,"createdAt":"2015-03-23T19:47:01.000Z"}
@@ -846,6 +846,7 @@
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":41281,"title":"Request: `unused_field` for public properties of private classed","state":"OPEN","comments":6,"participants":3,"reactions":1,"createdAt":"2020-04-01T03:59:50.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":40489,"title":"Enhance pubspec validation by checking valid environments","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2020-02-06T18:45:19.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":39864,"title":"Analyzer: @protected annotation inheritance","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2019-12-19T08:58:20.000Z"}
+{"date":"2024-03-08","repository":"dart-lang/sdk","id":38317,"title":"Crash when compiling package:flutter_localizations/src/cupertino_localizations.dart, at character offset null","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2019-09-11T10:56:11.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":37863,"title":"Inference of type arguments to generic method calls.","state":"OPEN","comments":7,"participants":8,"reactions":1,"createdAt":"2019-08-14T16:03:47.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":37714,"title":"Should @optionalTypeArgs be allowed on constructors, functions, methods, and typedefs?","state":"OPEN","comments":8,"participants":4,"reactions":1,"createdAt":"2019-08-01T19:37:45.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":37477,"title":"CFE Null Safety stable","state":"OPEN","comments":1,"participants":4,"reactions":1,"createdAt":"2019-07-09T20:49:57.000Z"}
@@ -888,7 +889,6 @@
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":32285,"title":"Analyzer does not promote in closures (WAI), but no warning/hint","state":"OPEN","comments":17,"participants":7,"reactions":1,"createdAt":"2018-02-22T21:39:52.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":32234,"title":"Add quick fix for \"Import package:x show y\"","state":"OPEN","comments":1,"participants":5,"reactions":1,"createdAt":"2018-02-19T17:02:53.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":32178,"title":"Confusing error message on type argument mismatch","state":"OPEN","comments":1,"participants":3,"reactions":1,"createdAt":"2018-02-15T13:07:35.000Z"}
-{"date":"2024-03-08","repository":"dart-lang/sdk","id":32174,"title":"Content Assist: show operators after typing dot","state":"OPEN","comments":0,"participants":4,"reactions":1,"createdAt":"2018-02-15T10:43:33.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":31998,"title":"Analyzer is sensitive to the order files are found","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2018-01-29T22:16:13.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":31997,"title":"DateTime error when creating date 1999-03-14 02:00:00","state":"OPEN","comments":4,"participants":4,"reactions":1,"createdAt":"2018-01-29T20:31:04.000Z"}
 {"date":"2024-03-08","repository":"dart-lang/sdk","id":31890,"title":"Analysis server doesn't update errors/warning for the pubspec.yaml file until the file is saved","state":"OPEN","comments":4,"participants":4,"reactions":1,"createdAt":"2018-01-14T08:41:00.000Z"}
