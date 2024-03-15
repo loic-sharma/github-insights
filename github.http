@@ -38,3 +38,17 @@ query ($after: String) {
     }
   }
 }
+
+### List reactions for a GitHub issue
+
+GET https://api.github.com/repos/flutter/flutter/issues/14330/reactions?per_page=100&page=1
+Accept: application/vnd.github+json
+Authorization: Bearer ghp_12324
+X-GitHub-Api-Version: 2022-11-28
+
+### List timeline events for a GitHub issue
+
+GET https://api.github.com/repos/flutter/flutter/issues/14330/timeline?per_page=100&page=1
+Accept: application/vnd.github+json
+Authorization: Bearer ghp_12324
+X-GitHub-Api-Version: 2022-11-28
