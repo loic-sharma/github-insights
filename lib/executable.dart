@@ -1,123 +1,167 @@
 import 'dart:io';
-import 'dart:convert';
 
-import 'package:args/args.dart' as args;
-import 'package:intl/intl.dart' as intl;
+import 'package:args/command_runner.dart';
+import 'package:github_insights/logic.dart';
 import 'package:github_insights/github.dart' as github;
+import 'package:github_insights/output.dart' as output;
+import 'package:intl/intl.dart' as intl;
 import 'package:path/path.dart' as path;
 
+final String? token = Platform.environment['GITHUB_TOKEN'];
+
 void main(List<String> arguments) async {
-  String? token = Platform.environment['GITHUB_TOKEN'];
+  final description = '''
+Collect GitHub data.
 
-  var parser = args.ArgParser();
+Common commands:
 
-  parser.addOption(
-    'repository',
-    help: 'The repository whose top issues should be loaded..',
-    defaultsTo: 'flutter/flutter',
-  );
-  parser.addOption(
-    'top',
-    help: 'The count of top issues to load.',
-    defaultsTo: '1000',
-  );
-  parser.addOption(
-    'output',
-    abbr: 'o',
-    help: 'The output directory to write the data to.',
-    defaultsTo: 'data/flutter/flutter',
-  );
+  github_insights top_issues --repository flutter/flutter --top 1000
+    Collect the top 1000 issues from the flutter/flutter repository.
 
-  final results = parser.parse(arguments);
-  final repository = results['repository'];
-  final limit = int.parse(results['top']);
-  final outputPath = path.canonicalize(results['output']);
+  github_insights reactions --repository flutter/flutter --issue 123
+    Collect the reactions for issue flutter/flutter#123.
+''';
+  final runner = CommandRunner('github_insights', description);
 
-  validateRepository(repository);
+  runner.addCommand(TopIssuesCommand());
+  runner.addCommand(BackfillCommand());
 
-  final stopwatch = Stopwatch()..start();
-
-  print('Loading top issues...');
-  final issues = await loadTopIssues(token, repository, limit);
-  print('Loaded ${issues.length} issues');
-  print('');
-
-  final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.timestamp());
-  final outputFile = await createOutputFile(outputPath, today);
-
-  await writeIssues(outputFile.openWrite(), today, repository, issues);
-  print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
+  await runner.run(arguments);
 }
 
-void validateRepository(String repository) {
-  final regex = RegExp(r'^[a-zA-Z0-9_\-]+\/[a-zA-Z0-9_\-]+$');
-  if (!regex.hasMatch(repository)) {
-    throw 'Invalid repository $repository. Expected format is owner/repo.';
+class TopIssuesCommand extends Command {
+  @override
+  final String name = 'top_issues';
+
+  @override
+  final String description = 'Collect the top issues from a repository.';
+
+  TopIssuesCommand() {
+    argParser.addOption(
+      'repository',
+      help: 'The repository whose top issues should be loaded.',
+      defaultsTo: 'flutter/flutter',
+    );
+    argParser.addOption(
+      'top',
+      help: 'The count of top issues to load.',
+      defaultsTo: '1000',
+    );
+    argParser.addOption(
+      'output',
+      abbr: 'o',
+      help: 'The output directory to write the data to.',
+      defaultsTo: 'data/flutter/flutter',
+    );
+  }
+
+  @override
+  Future<void> run() async {
+    final args = argResults!;
+    final repository = args['repository'] as String;
+    final limit = int.parse(args['top'] as String);
+    final outputPath = path.canonicalize(args['output'] as String);
+
+    validateRepository(repository);
+
+    final stopwatch = Stopwatch()..start();
+
+    print('Loading top issues...');
+    final issues = await loadTopIssues(token, repository, limit);
+    print('Loaded ${issues.length} issues');
+    print('');
+
+    final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.timestamp());
+    final outputFile = await output.createOutputFile(outputPath, today);
+
+    await output.writeSnapshots(outputFile.openWrite(), issues);
+    print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
   }
 }
 
-Future<List<github.Issue>> loadTopIssues(
-  String? token,
-  String repository,
-  int limit,
-) async {
-  var issues = <github.Issue>[];
+class BackfillCommand extends Command {
+  @override
+  final String name = 'backfill';
 
-  String? after;
-  bool hasNextPage = false;
-  do {
-    final result = await github.loadTopIssues(token, repository, after);
-    issues.addAll(result.issues);
-    after = result.endCursor;
-    hasNextPage = result.hasNextPage;
-  } while (issues.length < limit && hasNextPage);
+  @override
+  final String description = "Collect an issue's historical data.";
 
-  // Sort descending by reactions then by issue number.
-  issues.sort((a, b) => compareIssues(b, a));
-
-  return issues.take(limit).toList();
-}
-
-Future<File> createOutputFile(String outputPath, String date) async {
-  final outputDir = Directory(outputPath);
-  await outputDir.create(recursive: true);
-
-  final filePath = path.join(outputPath, '$date.jsonl');
-
-  return File(filePath);
-}
-
-Future<void> writeIssues(
-  IOSink writer,
-  String date,
-  String repository,
-  List<github.Issue> issues,
-) async {
-  for (final issue in issues) {
-    final issueJson = json.encode({
-      'date': date,
-      'repository': repository,
-      'id': issue.number,
-      'title': issue.title,
-      'state': issue.state,
-      'comments': issue.comments,
-      'participants': issue.participants,
-      'reactions': issue.reactions,
-      'createdAt': issue.createdAt.toIso8601String(),
-    });
-
-    writer.writeln(issueJson);
+  BackfillCommand() {
+    argParser.addOption(
+      'repository',
+      help: 'The repository name. Example: flutter/flutter',
+      mandatory: true,
+    );
+    argParser.addOption(
+      'issue',
+      help: 'The issue number.',
+      mandatory: true,
+    );
+    argParser.addOption(
+      'until',
+      help: 'The UTC end date for the backfill, exclusive. YYYY-MM-DD format.',
+      defaultsTo: '3000-01-01',
+    );
+    argParser.addOption(
+      'output',
+      abbr: 'o',
+      help: 'The output file to write the data to.',
+      defaultsTo: path.join('data', 'flutter', 'flutter', 'backfill'),
+    );
   }
 
-  await writer.flush();
-  await writer.close();
-}
+  @override
+  Future<void> run() async {
+    DateTime parseUtc(String date) {
+      final parsed = DateTime.parse(date);
+      return DateTime.utc(parsed.year, parsed.month, parsed.day);
+    }
 
-int compareIssues(github.Issue a, github.Issue b) {
-  final reactionsComparison = a.reactions.compareTo(b.reactions);
-  if (reactionsComparison != 0) {
-    return reactionsComparison;
+    final args = argResults!;
+    final repositoryAndOwner = args['repository'] as String;
+    final issueId = int.parse(args['issue'] as String);
+    final cutoff = parseUtc(args['until'] as String);
+    final outputPath = path.canonicalize(args['output'] as String);
+
+    validateRepository(repositoryAndOwner);
+    final parts = repositoryAndOwner.split('/');
+    final owner = parts[1];
+    final repository = parts[0];
+
+    final stopwatch = Stopwatch()..start();
+
+    print('Loading issue...');
+    final issueResult = await github.loadIssue(token, owner, repository, issueId);
+    final issue = issueResult.issue;
+    print('');
+
+    print('Loading timeline...');
+    final timeline = await loadTimeline(token, owner, repository, issueId);
+    print('Loaded ${timeline.length} timeline events');
+    print('');
+
+    print('Loading reactions...');
+    final reactions = await loadReactions(token, owner, repository, issueId);
+    print('Loaded ${reactions.length} reactions');
+    print('');
+
+    print('Creating snapshots...');
+    final snapshots = createSnapshots(
+      repositoryAndOwner,
+      issue,
+      timeline,
+      reactions,
+      cutoff,
+    );
+    print('Created ${snapshots.length} snapshots');
+    print('');
+
+    final outputDir = path.dirname(outputPath);
+    final outputName = path.basename(outputPath);
+    final outputFile = await output.createOutputFile(outputDir, outputName);
+
+    await output.writeSnapshots(outputFile.openWrite(), snapshots);
+
+    print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
   }
-
-  return a.number.compareTo(b.number);
 }
