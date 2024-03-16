@@ -1,4 +1,4 @@
-### Top issues
+### Issue backfill data
 
 Contains a GitHub issue's daily snapshots.
 
