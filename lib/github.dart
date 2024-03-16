@@ -363,9 +363,9 @@ class TimelineEvent {
 
     final event = json['event'];
     final createdAt = parseNullableDate(json['created_at'] as String?);
-    final actorJson = json['actor'] as Map<String, dynamic>;
-    final actorLogin = actorJson['login'] as String;
-    final actorType = actorJson['type'] as String;
+    final actorJson = json['actor'] as Map<String, dynamic>?;
+    final actorLogin = actorJson?['login'] as String? ?? 'null';
+    final actorType = actorJson?['type'] as String? ?? 'null';
 
     return TimelineEvent(
       event: event,

@@ -149,6 +149,14 @@ participants | int | Number of GitHub users participating in the issue conversat
 reactions | int | Number of reactions on the GitHub issue at this date
 createdAt | timestamp | When the GitHub issue was created
 
+## Backfill
+
+You can backfill an issue's data:
+
+```
+dart --enable-asserts .\bin\github_insights.dart backfill --repository flutter/flutter --issue 123 --until 2024-01-24 --output backfill\flutter\flutter\123.jsonl
+```
+
 ### Dashboard
 
 ```sql

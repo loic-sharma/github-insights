@@ -72,7 +72,7 @@ class TopIssuesCommand extends Command {
     print('');
 
     final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.timestamp());
-    final outputFile = await output.createOutputFile(outputPath, today);
+    final outputFile = await output.createOutputFile(outputPath, '$today.jsonl');
 
     await output.writeSnapshots(outputFile.openWrite(), issues);
     print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');

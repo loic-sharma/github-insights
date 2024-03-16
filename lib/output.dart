@@ -57,7 +57,7 @@ Future<File> createOutputFile(String outputPath, String name) async {
   final outputDir = Directory(outputPath);
   await outputDir.create(recursive: true);
 
-  final filePath = path.join(outputPath, '$name.jsonl');
+  final filePath = path.join(outputPath, name);
 
   return File(filePath);
 }
