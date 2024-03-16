@@ -3,12 +3,70 @@
   <head>
     <meta charset="utf-8" />
     <title>Flutter issue deltas</title>
-    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
-  </head>
-  <body>
-    <div id="main" style="width: 1200px; height: 800px"></div>
+
+    <!-- Data -->
     <script type="text/javascript" src="issue_deltas_daily.js"></script>
     <script type="text/javascript" src="issue_deltas_weekly.js"></script>
+
+    <!-- echarts -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+
+    <!-- observable -->
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
+  </head>
+  <body>
+    <div id="observable"></div>
+
+    <div id="echarts" style="width: 1200px; height: 800px"></div>
+
+    <script type="module">
+
+const data = issue_deltas_weekly
+  .filter((d) => d.new_reactions > 2)
+  .map((d) => ({
+    date: new Date(d.date),
+    title: d.title,
+    new_reactions: parseInt(d.new_reactions),
+    issue_id: d.issue_id
+  }));
+
+const plot = Plot.plot({
+  marks: [
+    Plot.barY(data, {
+      x: "date",
+      y: "new_reactions",
+      fill: "issue_id",
+      // fillOpacity: 0.8,
+      channels: {name: "title"},
+      title: (d) => `${d.issue_id}\n\n${d.title}\n\nNew reactions: ${d.new_reactions}`,
+      color: "issue_id",
+      stroke: "black",
+      strokeWidth: 0.1,
+      text: 'test',
+      tip: true,
+    }),
+  ],
+  x: {
+    label: "Date",
+    interval: "week"
+  },
+  y: {
+    label: "New reactions",
+  },
+  color: {
+    scheme: "spectral",
+  },
+  width: 1600,
+  height: 800,
+  grid: true,
+  title: "Flutter issue deltas",
+});
+
+const div = document.querySelector("#observable");
+div.append(plot);
+
+</script>
 
     <script type="text/javascript">
 window.onload = function() {
@@ -153,7 +211,7 @@ window.onload = function() {
     series: series,
   };
 
-  const chartDom = document.getElementById('main');
+  const chartDom = document.getElementById('echarts');
   const chart = echarts.init(chartDom);
 
   chart.setOption(option);
