@@ -1,8 +1,19 @@
-### Issue backfill data
+# Issue backfill data
 
 Contains a GitHub issue's daily snapshots.
 
 Path: `backfill/<organization>/<repository name>/<issue number>.jsonl`
+
+### Creating backfill data
+
+To backfill https://github.com/flutter/flutter/issues/123's data until
+January 24, 2024:
+
+```
+dart --enable-asserts .\bin\github_insights.dart backfill --repository flutter/flutter --issue 123 --until 2024-01-24 --output backfill\flutter\flutter\123.jsonl
+```
+
+### Table
 
 Column name | Data type | Description
 -- | -- | --
