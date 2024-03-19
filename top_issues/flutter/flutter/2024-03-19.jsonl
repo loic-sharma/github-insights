@@ -38,7 +38,7 @@
 {"date":"2024-03-19","repository":"flutter/flutter","id":34345,"title":"flutter_driver can't interact with native elements","state":"OPEN","comments":68,"participants":49,"reactions":189,"createdAt":"2019-06-12T19:35:59.000Z"}
 {"date":"2024-03-19","repository":"flutter/flutter","id":14203,"title":"Document that WillPopScope prevents swipe to go back on MaterialPageRoute","state":"OPEN","comments":112,"participants":71,"reactions":188,"createdAt":"2018-01-22T00:23:09.000Z"}
 {"date":"2024-03-19","repository":"flutter/flutter","id":39707,"title":"Import multiple Flutter modules in a native app","state":"OPEN","comments":41,"participants":26,"reactions":187,"createdAt":"2019-09-02T21:59:22.000Z"}
-{"date":"2024-03-19","repository":"flutter/flutter","id":55324,"title":"Support Firefox as a browser in flutter run","state":"OPEN","comments":20,"participants":19,"reactions":181,"createdAt":"2020-04-21T20:02:37.000Z"}
+{"date":"2024-03-19","repository":"flutter/flutter","id":55324,"title":"Support Firefox as a browser in flutter run","state":"OPEN","comments":20,"participants":19,"reactions":184,"createdAt":"2020-04-21T20:02:37.000Z"}
 {"date":"2024-03-19","repository":"flutter/flutter","id":12675,"title":"RichTextEditor","state":"OPEN","comments":67,"participants":33,"reactions":181,"createdAt":"2017-10-23T13:32:27.000Z"}
 {"date":"2024-03-19","repository":"flutter/flutter","id":36681,"title":"Firebase Test Lab Robo Test support","state":"OPEN","comments":10,"participants":14,"reactions":180,"createdAt":"2019-07-22T13:59:18.000Z"}
 {"date":"2024-03-19","repository":"flutter/flutter","id":37673,"title":"[video_player] Add Windows support","state":"OPEN","comments":66,"participants":29,"reactions":177,"createdAt":"2019-08-06T07:43:57.000Z"}
