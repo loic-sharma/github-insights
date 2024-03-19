@@ -15,3 +15,4 @@ comments | int | Number of GitHub issue comments at this date
 participants | int | Number of GitHub users participating in the issue conversation at this date
 reactions | int | Number of reactions on the GitHub issue at this date
 createdAt | timestamp | When the GitHub issue was created
+labels | undefined or array of strings | The GitHub issue's labels at this date, lowercased.<br>Undefined if this snapshot was captured before labels were supported.

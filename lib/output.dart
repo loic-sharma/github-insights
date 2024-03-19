@@ -17,6 +17,7 @@ class IssueSnapshot {
     this.participants,
     this.reactions,
     this.createdAt,
+    this.labels,
   ) : assert(date.isUtc),
       assert(validRepository(repository)),
       assert(state == 'OPEN' || state == 'CLOSED'),
@@ -51,6 +52,11 @@ class IssueSnapshot {
 
   /// When the GitHub issue was created.
   final DateTime createdAt;
+
+  /// The GitHub issue's labels at this date, lowercased.
+  ///
+  /// Null if this snapshot was captured before labels were supported.
+  final List<String>? labels;
 }
 
 Future<File> createOutputFile(String outputPath, String name) async {
@@ -78,6 +84,8 @@ Future<void> writeSnapshots(
       'participants': snapshot.participants,
       'reactions': snapshot.reactions,
       'createdAt': snapshot.createdAt.toIso8601String(),
+      if (snapshot.labels != null)
+        'labels': snapshot.labels?.map((l) => l.toLowerCase()).toList(),
     });
 
     writer.writeln(snapshotJson);
