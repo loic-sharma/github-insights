@@ -16,7 +16,7 @@
 {"date":"2024-03-19","repository":"dart-lang/sdk","id":28985,"title":"Code that uses DateTime.now is untestable","state":"OPEN","comments":17,"participants":11,"reactions":59,"createdAt":"2017-03-08T00:47:08.000Z"}
 {"date":"2024-03-19","repository":"dart-lang/sdk","id":35981,"title":"SSL Public key Pinning support for SecurityContext","state":"OPEN","comments":26,"participants":16,"reactions":58,"createdAt":"2019-02-19T10:49:13.000Z"}
 {"date":"2024-03-19","repository":"dart-lang/sdk","id":33920,"title":"Customers want guidance and docs for tree-shaking","state":"OPEN","comments":37,"participants":19,"reactions":58,"createdAt":"2018-07-20T00:44:50.000Z"}
-{"date":"2024-03-19","repository":"dart-lang/sdk","id":54934,"title":"Support for hot reload in DDC","state":"OPEN","comments":0,"participants":1,"reactions":56,"createdAt":"2024-02-15T22:08:16.000Z"}
+{"date":"2024-03-19","repository":"dart-lang/sdk","id":54934,"title":"Support for hot reload in DDC","state":"OPEN","comments":0,"participants":1,"reactions":57,"createdAt":"2024-02-15T22:08:16.000Z"}
 {"date":"2024-03-19","repository":"dart-lang/sdk","id":38581,"title":"Official bazel build support","state":"OPEN","comments":4,"participants":3,"reactions":56,"createdAt":"2019-09-26T08:27:01.000Z"}
 {"date":"2024-03-19","repository":"dart-lang/sdk","id":44616,"title":"Unexpected Behavior with Nested Async Generators","state":"OPEN","comments":24,"participants":9,"reactions":55,"createdAt":"2021-01-08T07:43:22.000Z"}
 {"date":"2024-03-19","repository":"dart-lang/sdk","id":42910,"title":"\"warning - The include file cannot be found\" when using pedantic with a nested module","state":"OPEN","comments":30,"participants":24,"reactions":55,"createdAt":"2020-04-16T15:31:07.000Z"}
