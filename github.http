@@ -23,6 +23,13 @@ query ($after: String) {
             totalCount
           }
           createdAt
+          labels(first: 20) {
+            edges {
+              node {
+                name
+              }
+            }
+          }
           number
           participants {
             totalCount
