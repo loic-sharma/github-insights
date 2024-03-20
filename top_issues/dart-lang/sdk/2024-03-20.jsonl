@@ -280,6 +280,7 @@
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":43616,"title":"Feature request: Add //ignore_all to ignore all warnings ","state":"OPEN","comments":3,"participants":4,"reactions":6,"createdAt":"2020-09-30T05:09:48.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":43372,"title":"Add a hint to find unnecessary uses of late","state":"OPEN","comments":10,"participants":9,"reactions":6,"createdAt":"2020-07-30T14:15:37.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":42652,"title":"Provide Range function/class","state":"OPEN","comments":8,"participants":5,"reactions":6,"createdAt":"2020-07-09T19:52:04.000Z"}
+{"date":"2024-03-20","repository":"dart-lang/sdk","id":41048,"title":"Dart should support more compression schemes","state":"OPEN","comments":4,"participants":6,"reactions":6,"createdAt":"2020-03-16T09:16:03.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":40522,"title":"Annotation for method inlining","state":"OPEN","comments":6,"participants":4,"reactions":6,"createdAt":"2020-02-07T14:18:06.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":39707,"title":"Create temporary file","state":"OPEN","comments":16,"participants":9,"reactions":6,"createdAt":"2019-12-07T17:23:35.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":37876,"title":"Stream.asyncMap documentation is unclear","state":"OPEN","comments":0,"participants":1,"reactions":6,"createdAt":"2019-08-15T15:36:02.000Z"}
@@ -344,7 +345,6 @@
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":41998,"title":"[Analyzer] @visibleForTesting should be transitive.","state":"OPEN","comments":8,"participants":7,"reactions":5,"createdAt":"2020-05-20T18:17:41.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":41587,"title":"Add a hint away from `throw AssertionError`","state":"OPEN","comments":2,"participants":4,"reactions":5,"createdAt":"2020-04-20T22:06:28.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":41133,"title":"improve the analysis server's support for config specific imports","state":"OPEN","comments":7,"participants":5,"reactions":5,"createdAt":"2020-03-20T23:21:30.000Z"}
-{"date":"2024-03-20","repository":"dart-lang/sdk","id":41048,"title":"Dart should support more compression schemes","state":"OPEN","comments":4,"participants":6,"reactions":5,"createdAt":"2020-03-16T09:16:03.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":39911,"title":"There is no way to navigate to operator functions","state":"OPEN","comments":0,"participants":5,"reactions":5,"createdAt":"2019-12-23T22:54:42.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":37237,"title":"TransferableTypedData class has no useful documentation","state":"OPEN","comments":3,"participants":5,"reactions":5,"createdAt":"2019-06-12T17:11:49.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":36828,"title":"Add SDKMAN! as an installation alternative","state":"OPEN","comments":0,"participants":2,"reactions":5,"createdAt":"2019-05-02T16:12:52.000Z"}
@@ -594,6 +594,7 @@
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":54237,"title":"dart:io feature request: InternetAddress subnet mask/network prefix length/broadcast address","state":"OPEN","comments":0,"participants":3,"reactions":2,"createdAt":"2023-12-05T10:32:55.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":54149,"title":"Native types could use helpful consts like maxValue, minPositive, maxFinite, etc.","state":"OPEN","comments":6,"participants":4,"reactions":2,"createdAt":"2023-11-24T07:21:31.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":54001,"title":"Wrong implementation of HTTP redirects 307 and 308 for request methods other than GET or HEAD","state":"OPEN","comments":2,"participants":3,"reactions":2,"createdAt":"2023-11-09T14:07:42.000Z"}
+{"date":"2024-03-20","repository":"dart-lang/sdk","id":53906,"title":"Add Brotli support","state":"OPEN","comments":4,"participants":4,"reactions":2,"createdAt":"2023-10-30T20:13:40.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":53772,"title":"Child process continues to run after app is closed on linux","state":"OPEN","comments":0,"participants":3,"reactions":2,"createdAt":"2023-10-17T08:02:56.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":53758,"title":"Would like a way to specify a type supports toJson and fromJson","state":"OPEN","comments":2,"participants":2,"reactions":2,"createdAt":"2023-10-15T04:21:18.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":53756,"title":"Add ListExtensions.firstOrNull, lastOrNull, singleOrNull.","state":"OPEN","comments":3,"participants":2,"reactions":2,"createdAt":"2023-10-14T00:26:17.000Z"}
@@ -861,7 +862,6 @@
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":35963,"title":"dart2js crash: type error when disabling type inference","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2019-02-16T00:07:57.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":35811,"title":"Remove link to indexed_db tutorial.","state":"OPEN","comments":1,"participants":3,"reactions":1,"createdAt":"2019-01-30T18:36:25.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":34244,"title":"DDC: runtime error in makeGenericType","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2018-08-23T16:11:24.000Z"}
-{"date":"2024-03-20","repository":"dart-lang/sdk","id":34237,"title":"front end: poor diagnositics for missing \"import 'dart:async'\"","state":"OPEN","comments":1,"participants":4,"reactions":1,"createdAt":"2018-08-23T01:14:16.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":34003,"title":"implement entry point specialization in dart2js","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2018-07-27T17:13:29.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":33932,"title":"promote locals without an upcast first","state":"OPEN","comments":12,"participants":6,"reactions":1,"createdAt":"2018-07-20T18:06:55.000Z"}
 {"date":"2024-03-20","repository":"dart-lang/sdk","id":33692,"title":"Confusing analyzer error message when naming variable the name of a type","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2018-06-28T22:29:31.000Z"}
