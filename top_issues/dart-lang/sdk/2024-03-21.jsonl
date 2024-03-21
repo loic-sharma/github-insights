@@ -398,6 +398,7 @@
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":48555,"title":"option to automatically apply quick fixes","state":"OPEN","comments":3,"participants":4,"reactions":4,"createdAt":"2022-03-14T12:08:14.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":48554,"title":"json schema for `analysis_options.yaml`","state":"OPEN","comments":3,"participants":4,"reactions":4,"createdAt":"2022-03-14T12:16:33.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":48213,"title":"Make `dart format` format current package.","state":"OPEN","comments":0,"participants":1,"reactions":4,"createdAt":"2022-01-25T14:07:57.000Z"}
+{"date":"2024-03-21","repository":"dart-lang/sdk","id":48186,"title":"JS interop makes non-breaking JS changes break Dart code","state":"OPEN","comments":0,"participants":2,"reactions":4,"createdAt":"2022-01-20T22:08:24.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":47898,"title":"Feature request: compile time assertions","state":"OPEN","comments":0,"participants":1,"reactions":4,"createdAt":"2021-12-11T00:52:00.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":47372,"title":"Optimizing `dart run` with incremental compilation","state":"OPEN","comments":10,"participants":7,"reactions":4,"createdAt":"2021-10-04T21:49:16.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":47357,"title":"[native_stack_traces] regex is too strict","state":"OPEN","comments":0,"participants":2,"reactions":4,"createdAt":"2021-10-02T09:26:18.000Z"}
@@ -495,7 +496,6 @@
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":48624,"title":"Web release/profile mode dart class is compiled to empty JavaScript function.","state":"OPEN","comments":0,"participants":3,"reactions":3,"createdAt":"2022-03-21T08:36:24.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":48556,"title":"Cross platform common paths","state":"OPEN","comments":0,"participants":4,"reactions":3,"createdAt":"2022-03-14T15:05:09.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":48206,"title":"Poor behavior around parameters that are both deprecated and required","state":"OPEN","comments":17,"participants":5,"reactions":3,"createdAt":"2022-01-24T21:31:18.000Z"}
-{"date":"2024-03-21","repository":"dart-lang/sdk","id":48186,"title":"JS interop makes non-breaking JS changes break Dart code","state":"OPEN","comments":0,"participants":2,"reactions":3,"createdAt":"2022-01-20T22:08:24.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":47742,"title":"`dart create -t web-simple ...` creates app that 500s","state":"OPEN","comments":5,"participants":5,"reactions":3,"createdAt":"2021-11-20T23:20:09.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":47629,"title":"TLS/SSL Hostname verifier for Dart HttpClient","state":"OPEN","comments":1,"participants":3,"reactions":3,"createdAt":"2021-11-04T15:49:39.000Z"}
 {"date":"2024-03-21","repository":"dart-lang/sdk","id":47470,"title":"Poor warnings when adding a Flutter plugin to a Dart app","state":"OPEN","comments":11,"participants":5,"reactions":3,"createdAt":"2021-10-15T12:38:17.000Z"}
