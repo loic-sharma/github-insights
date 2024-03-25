@@ -260,7 +260,7 @@
 {"date":"2024-03-25","repository":"dart-lang/sdk","id":24168,"title":"dart2js: improve deobfuscation of minified stack traces","state":"OPEN","comments":6,"participants":6,"reactions":7,"createdAt":"2015-08-21T18:06:22.000Z"}
 {"date":"2024-03-25","repository":"dart-lang/sdk","id":22755,"title":"Add DNS Client to dart:io","state":"OPEN","comments":14,"participants":9,"reactions":7,"createdAt":"2015-03-10T14:29:39.000Z"}
 {"date":"2024-03-25","repository":"dart-lang/sdk","id":5627,"title":"Provide a Date manipulation library","state":"OPEN","comments":6,"participants":6,"reactions":7,"createdAt":"2012-10-03T15:41:46.000Z"}
-{"date":"2024-03-25","repository":"dart-lang/sdk","id":55289,"title":"Adding package http makes dart run really slow","state":"OPEN","comments":16,"participants":4,"reactions":6,"createdAt":"2024-03-23T18:10:05.000Z"}
+{"date":"2024-03-25","repository":"dart-lang/sdk","id":55289,"title":"Adding package http makes dart run really slow","state":"OPEN","comments":18,"participants":4,"reactions":6,"createdAt":"2024-03-23T18:10:05.000Z"}
 {"date":"2024-03-25","repository":"dart-lang/sdk","id":54509,"title":"Desupport Windows 7 & 8","state":"OPEN","comments":4,"participants":5,"reactions":6,"createdAt":"2024-01-03T18:02:38.000Z"}
 {"date":"2024-03-25","repository":"dart-lang/sdk","id":53245,"title":"Add FFI APIs for atomic loads/stores with memory orderings","state":"OPEN","comments":1,"participants":3,"reactions":6,"createdAt":"2023-08-17T07:20:51.000Z"}
 {"date":"2024-03-25","repository":"dart-lang/sdk","id":52404,"title":"Switch expression syntax should be recognized inside switch statements","state":"OPEN","comments":1,"participants":2,"reactions":6,"createdAt":"2023-05-15T18:12:24.000Z"}
