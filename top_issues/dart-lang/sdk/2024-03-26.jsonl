@@ -809,6 +809,7 @@
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":25377,"title":"UTF8 encoding is slow","state":"OPEN","comments":7,"participants":7,"reactions":2,"createdAt":"2016-01-07T22:17:39.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":25226,"title":"Optimize common patterns of async","state":"OPEN","comments":2,"participants":7,"reactions":2,"createdAt":"2015-12-10T22:18:00.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":24562,"title":"Inline method should validate shadowing names in inline places","state":"OPEN","comments":2,"participants":5,"reactions":2,"createdAt":"2015-10-12T19:25:19.000Z"}
+{"date":"2024-03-26","repository":"dart-lang/sdk","id":24015,"title":"No completion after 'part of'","state":"OPEN","comments":1,"participants":8,"reactions":2,"createdAt":"2015-08-07T13:07:41.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":23698,"title":"document.domain has no setter","state":"OPEN","comments":1,"participants":6,"reactions":2,"createdAt":"2015-06-23T07:59:27.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":23037,"title":"Foo is not a type errors should indicate that Foo is unknown, not just 'not a type'","state":"OPEN","comments":2,"participants":4,"reactions":2,"createdAt":"2015-03-30T18:24:37.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":22416,"title":"Support modifying Platform.environment entries","state":"OPEN","comments":2,"participants":5,"reactions":2,"createdAt":"2015-02-13T14:43:13.000Z"}
@@ -829,7 +830,6 @@
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":1053,"title":"Add BitSet (bit vector) to Dart library","state":"OPEN","comments":6,"participants":6,"reactions":2,"createdAt":"2012-01-05T08:53:26.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":52400,"title":"Deprecate `.from` constructors, defer to `.of` + `.cast`.","state":"OPEN","comments":1,"participants":1,"reactions":1,"createdAt":"2023-05-15T12:00:52.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":47764,"title":"A catch block in an `async*` method does not catch exceptions from `await for` in DDC","state":"OPEN","comments":4,"participants":5,"reactions":1,"createdAt":"2021-11-24T21:00:13.000Z"}
-{"date":"2024-03-26","repository":"dart-lang/sdk","id":39443,"title":"protobuf aware tree-shaker should handle getTagNumber","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2019-11-19T10:56:20.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":39277,"title":"Provide a quickfix to add / remove method return type which LSP clients could use","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2019-11-07T11:55:05.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":38795,"title":"Complete statement doesn't complete the statement","state":"OPEN","comments":6,"participants":5,"reactions":1,"createdAt":"2019-10-09T17:24:23.000Z"}
 {"date":"2024-03-26","repository":"dart-lang/sdk","id":38729,"title":"dart code suggestions aren't working after v2.1.1 update","state":"OPEN","comments":10,"participants":5,"reactions":1,"createdAt":"2019-10-05T19:43:52.000Z"}
