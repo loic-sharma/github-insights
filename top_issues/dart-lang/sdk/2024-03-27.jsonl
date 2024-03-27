@@ -443,6 +443,7 @@
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":24088,"title":"Need a way of passing `undefined` to JS via dart:js","state":"OPEN","comments":6,"participants":9,"reactions":4,"createdAt":"2015-08-14T16:33:25.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":11744,"title":"Encoding class does not support UTF- encodings","state":"OPEN","comments":6,"participants":7,"reactions":4,"createdAt":"2013-07-08T23:23:15.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":8005,"title":"UUID's missing from dart","state":"OPEN","comments":8,"participants":6,"reactions":4,"createdAt":"2013-01-21T12:41:27.000Z"}
+{"date":"2024-03-27","repository":"dart-lang/sdk","id":55281,"title":"Dart Analyzer very slow/stuck","state":"OPEN","comments":3,"participants":4,"reactions":3,"createdAt":"2024-03-22T20:52:51.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":55261,"title":"Add \"replace tear-off with function literal\" refactor","state":"OPEN","comments":9,"participants":4,"reactions":3,"createdAt":"2024-03-21T14:29:22.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":55117,"title":"Introduce `dart doctor`","state":"OPEN","comments":0,"participants":2,"reactions":3,"createdAt":"2024-03-06T10:01:45.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":54980,"title":"Area for Improvement: Provide recommendations for official Dart benchmarking solutions in documentation","state":"OPEN","comments":0,"participants":1,"reactions":3,"createdAt":"2024-02-22T00:04:03.000Z"}
@@ -829,7 +830,6 @@
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":1053,"title":"Add BitSet (bit vector) to Dart library","state":"OPEN","comments":6,"participants":6,"reactions":2,"createdAt":"2012-01-05T08:53:26.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":52400,"title":"Deprecate `.from` constructors, defer to `.of` + `.cast`.","state":"OPEN","comments":1,"participants":1,"reactions":1,"createdAt":"2023-05-15T12:00:52.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":47764,"title":"A catch block in an `async*` method does not catch exceptions from `await for` in DDC","state":"OPEN","comments":4,"participants":5,"reactions":1,"createdAt":"2021-11-24T21:00:13.000Z"}
-{"date":"2024-03-27","repository":"dart-lang/sdk","id":39443,"title":"protobuf aware tree-shaker should handle getTagNumber","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2019-11-19T10:56:20.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":39277,"title":"Provide a quickfix to add / remove method return type which LSP clients could use","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2019-11-07T11:55:05.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":38795,"title":"Complete statement doesn't complete the statement","state":"OPEN","comments":6,"participants":5,"reactions":1,"createdAt":"2019-10-09T17:24:23.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":38729,"title":"dart code suggestions aren't working after v2.1.1 update","state":"OPEN","comments":10,"participants":5,"reactions":1,"createdAt":"2019-10-05T19:43:52.000Z"}
