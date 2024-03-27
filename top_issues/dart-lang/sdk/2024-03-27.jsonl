@@ -29,8 +29,8 @@
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":10530,"title":"Dynamic module loading","state":"OPEN","comments":124,"participants":34,"reactions":44,"createdAt":"2013-05-08T13:38:05.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":47718,"title":"dart compile exe support static linking of C code","state":"OPEN","comments":11,"participants":6,"reactions":43,"createdAt":"2021-11-17T09:14:45.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":44626,"title":"Support relative imports for extensions on quick-fixes + auto-imports","state":"OPEN","comments":5,"participants":8,"reactions":42,"createdAt":"2021-01-09T16:17:02.000Z"}
+{"date":"2024-03-27","repository":"dart-lang/sdk","id":43943,"title":"[Analyzer] Analyzer extremely slow","state":"OPEN","comments":9,"participants":12,"reactions":42,"createdAt":"2020-10-27T22:30:01.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":53779,"title":"Code optimization issues in generic binary search benchmark","state":"OPEN","comments":1,"participants":2,"reactions":41,"createdAt":"2023-10-17T13:12:05.000Z"}
-{"date":"2024-03-27","repository":"dart-lang/sdk","id":43943,"title":"[Analyzer] Analyzer extremely slow","state":"OPEN","comments":9,"participants":12,"reactions":41,"createdAt":"2020-10-27T22:30:01.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":983,"title":"Add a Python-like slice operator for lists and strings","state":"OPEN","comments":16,"participants":12,"reactions":40,"createdAt":"2011-12-27T02:39:56.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":31876,"title":"JSON.decode is not very handy in strong mode","state":"OPEN","comments":11,"participants":6,"reactions":38,"createdAt":"2018-01-12T12:08:08.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":49426,"title":"[Feature request] Date class, without time","state":"OPEN","comments":3,"participants":3,"reactions":37,"createdAt":"2022-07-08T13:13:29.000Z"}
@@ -259,7 +259,7 @@
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":24168,"title":"dart2js: improve deobfuscation of minified stack traces","state":"OPEN","comments":6,"participants":6,"reactions":7,"createdAt":"2015-08-21T18:06:22.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":22755,"title":"Add DNS Client to dart:io","state":"OPEN","comments":14,"participants":9,"reactions":7,"createdAt":"2015-03-10T14:29:39.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":5627,"title":"Provide a Date manipulation library","state":"OPEN","comments":6,"participants":6,"reactions":7,"createdAt":"2012-10-03T15:41:46.000Z"}
-{"date":"2024-03-27","repository":"dart-lang/sdk","id":55289,"title":"Adding package http makes dart run really slow","state":"OPEN","comments":18,"participants":4,"reactions":6,"createdAt":"2024-03-23T18:10:05.000Z"}
+{"date":"2024-03-27","repository":"dart-lang/sdk","id":55289,"title":"Adding package http makes dart run really slow","state":"OPEN","comments":20,"participants":4,"reactions":6,"createdAt":"2024-03-23T18:10:05.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":54509,"title":"Desupport Windows 7 & 8","state":"OPEN","comments":4,"participants":5,"reactions":6,"createdAt":"2024-01-03T18:02:38.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":53245,"title":"Add FFI APIs for atomic loads/stores with memory orderings","state":"OPEN","comments":1,"participants":3,"reactions":6,"createdAt":"2023-08-17T07:20:51.000Z"}
 {"date":"2024-03-27","repository":"dart-lang/sdk","id":52404,"title":"Switch expression syntax should be recognized inside switch statements","state":"OPEN","comments":1,"participants":2,"reactions":6,"createdAt":"2023-05-15T18:12:24.000Z"}
