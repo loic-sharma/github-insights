@@ -399,7 +399,7 @@
 {"date":"2024-04-01","repository":"dart-lang/sdk","id":49048,"title":"package:js refuses to interloop Future function","state":"OPEN","comments":5,"participants":7,"reactions":4,"createdAt":"2022-05-18T08:46:25.000Z"}
 {"date":"2024-04-01","repository":"dart-lang/sdk","id":48555,"title":"option to automatically apply quick fixes","state":"OPEN","comments":3,"participants":4,"reactions":4,"createdAt":"2022-03-14T12:08:14.000Z"}
 {"date":"2024-04-01","repository":"dart-lang/sdk","id":48213,"title":"Make `dart format` format current package.","state":"OPEN","comments":0,"participants":1,"reactions":4,"createdAt":"2022-01-25T14:07:57.000Z"}
-{"date":"2024-04-01","repository":"dart-lang/sdk","id":48186,"title":"JS interop makes non-breaking JS changes break Dart code","state":"OPEN","comments":0,"participants":2,"reactions":4,"createdAt":"2022-01-20T22:08:24.000Z"}
+{"date":"2024-04-01","repository":"dart-lang/sdk","id":48186,"title":"JS interop makes non-breaking JS changes break Dart code","state":"OPEN","comments":2,"participants":4,"reactions":4,"createdAt":"2022-01-20T22:08:24.000Z"}
 {"date":"2024-04-01","repository":"dart-lang/sdk","id":47898,"title":"Feature request: compile time assertions","state":"OPEN","comments":0,"participants":1,"reactions":4,"createdAt":"2021-12-11T00:52:00.000Z"}
 {"date":"2024-04-01","repository":"dart-lang/sdk","id":47372,"title":"Optimizing `dart run` with incremental compilation","state":"OPEN","comments":10,"participants":7,"reactions":4,"createdAt":"2021-10-04T21:49:16.000Z"}
 {"date":"2024-04-01","repository":"dart-lang/sdk","id":47357,"title":"[native_stack_traces] regex is too strict","state":"OPEN","comments":0,"participants":2,"reactions":4,"createdAt":"2021-10-02T09:26:18.000Z"}
