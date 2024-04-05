@@ -3,7 +3,7 @@
 {"date":"2024-04-05","repository":"flutter/flutter","id":14050,"title":"Let flutter be installable via homebrew","state":"OPEN","comments":83,"participants":53,"reactions":1003,"createdAt":"2018-01-11T19:00:27.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":46789,"title":"Improve the indexability (SEO) of Flutter apps on the web ","state":"OPEN","comments":190,"participants":81,"reactions":747,"createdAt":"2019-12-11T17:11:17.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":41722,"title":"Implement PlatformView support on macOS","state":"OPEN","comments":60,"participants":32,"reactions":610,"createdAt":"2019-10-01T17:57:26.000Z"}
-{"date":"2024-04-05","repository":"flutter/flutter","id":47600,"title":"Server-side rendering for Flutter web","state":"OPEN","comments":59,"participants":42,"reactions":599,"createdAt":"2019-12-22T02:00:49.000Z"}
+{"date":"2024-04-05","repository":"flutter/flutter","id":47600,"title":"Server-side rendering for Flutter web","state":"OPEN","comments":59,"participants":42,"reactions":598,"createdAt":"2019-12-22T02:00:49.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":30701,"title":"Support multiple windows for desktop shells","state":"OPEN","comments":112,"participants":72,"reactions":572,"createdAt":"2019-04-08T16:33:22.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":26801,"title":"Apple CarPlay / Android Auto support?","state":"OPEN","comments":51,"participants":41,"reactions":481,"createdAt":"2019-01-19T09:29:46.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":94340,"title":"[Feature Request] Support for Jetbrains Fleet\n","state":"OPEN","comments":19,"participants":5,"reactions":426,"createdAt":"2021-11-29T13:02:17.000Z"}
@@ -141,7 +141,7 @@
 {"date":"2024-04-05","repository":"flutter/flutter","id":30112,"title":"Return data with popUntil ","state":"OPEN","comments":22,"participants":20,"reactions":74,"createdAt":"2019-03-28T14:43:22.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":102003,"title":"Rewrite the NestedScrollView","state":"OPEN","comments":6,"participants":8,"reactions":73,"createdAt":"2022-04-15T20:21:45.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":90218,"title":"Remote Flutter Widgets (rfw) package feedback thread","state":"OPEN","comments":61,"participants":19,"reactions":73,"createdAt":"2021-09-16T19:53:50.000Z"}
-{"date":"2024-04-05","repository":"flutter/flutter","id":84957,"title":"[camera] Taking pictures is too slow on some devices","state":"OPEN","comments":51,"participants":38,"reactions":73,"createdAt":"2021-06-21T06:02:31.000Z"}
+{"date":"2024-04-05","repository":"flutter/flutter","id":84957,"title":"[camera] Taking pictures is too slow on some devices","state":"OPEN","comments":52,"participants":39,"reactions":73,"createdAt":"2021-06-21T06:02:31.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":34657,"title":"[google_maps_flutter] Add support for custom marker size","state":"OPEN","comments":18,"participants":20,"reactions":73,"createdAt":"2019-06-18T17:49:31.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":32804,"title":"BackdropFilter performance issue","state":"OPEN","comments":49,"participants":25,"reactions":73,"createdAt":"2019-05-16T09:41:13.000Z"}
 {"date":"2024-04-05","repository":"flutter/flutter","id":133465,"title":"Long-term solution to replacing `ios-deploy`","state":"OPEN","comments":19,"participants":3,"reactions":72,"createdAt":"2023-08-28T16:24:20.000Z"}
