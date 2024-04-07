@@ -26,8 +26,8 @@
 {"date":"2024-04-07","repository":"dart-lang/sdk","id":43329,"title":"Add Timer.pause(), Timer.resume() and Timer.restart()","state":"OPEN","comments":16,"participants":5,"reactions":47,"createdAt":"2020-09-04T03:55:22.000Z"}
 {"date":"2024-04-07","repository":"dart-lang/sdk","id":31969,"title":"Enable tree shaking of platform-specific code in AOT mode.","state":"OPEN","comments":9,"participants":4,"reactions":47,"createdAt":"2018-01-23T17:26:55.000Z"}
 {"date":"2024-04-07","repository":"dart-lang/sdk","id":10530,"title":"Dynamic module loading","state":"OPEN","comments":124,"participants":34,"reactions":45,"createdAt":"2013-05-08T13:38:05.000Z"}
+{"date":"2024-04-07","repository":"dart-lang/sdk","id":47718,"title":"dart compile exe support static linking of C code","state":"OPEN","comments":11,"participants":6,"reactions":44,"createdAt":"2021-11-17T09:14:45.000Z"}
 {"date":"2024-04-07","repository":"dart-lang/sdk","id":43490,"title":"Disposable","state":"OPEN","comments":16,"participants":8,"reactions":44,"createdAt":"2020-09-19T10:45:48.000Z"}
-{"date":"2024-04-07","repository":"dart-lang/sdk","id":47718,"title":"dart compile exe support static linking of C code","state":"OPEN","comments":11,"participants":6,"reactions":43,"createdAt":"2021-11-17T09:14:45.000Z"}
 {"date":"2024-04-07","repository":"dart-lang/sdk","id":44626,"title":"Support relative imports for extensions on quick-fixes + auto-imports","state":"OPEN","comments":5,"participants":8,"reactions":42,"createdAt":"2021-01-09T16:17:02.000Z"}
 {"date":"2024-04-07","repository":"dart-lang/sdk","id":43943,"title":"[Analyzer] Analyzer extremely slow","state":"OPEN","comments":13,"participants":15,"reactions":42,"createdAt":"2020-10-27T22:30:01.000Z"}
 {"date":"2024-04-07","repository":"dart-lang/sdk","id":53779,"title":"Code optimization issues in generic binary search benchmark","state":"OPEN","comments":1,"participants":2,"reactions":41,"createdAt":"2023-10-17T13:12:05.000Z"}
