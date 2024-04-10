@@ -57,7 +57,7 @@
 {"date":"2024-04-10","repository":"flutter/flutter","id":69529,"title":"[web] Scroll is not recognized by the browser","state":"OPEN","comments":103,"participants":59,"reactions":144,"createdAt":"2020-11-01T14:49:03.000Z"}
 {"date":"2024-04-10","repository":"flutter/flutter","id":14288,"title":"Antialiasing behaviour when same-colour ","state":"OPEN","comments":96,"participants":67,"reactions":144,"createdAt":"2018-01-26T12:05:31.000Z"}
 {"date":"2024-04-10","repository":"flutter/flutter","id":138614,"title":"Preserve WillPopScope as an alternate for PopScope","state":"OPEN","comments":40,"participants":4,"reactions":142,"createdAt":"2023-11-17T13:16:48.000Z"}
-{"date":"2024-04-10","repository":"flutter/flutter","id":25841,"title":"Add a way to detect keyboard language","state":"OPEN","comments":34,"participants":33,"reactions":140,"createdAt":"2018-12-28T14:08:03.000Z"}
+{"date":"2024-04-10","repository":"flutter/flutter","id":25841,"title":"Add a way to detect keyboard language","state":"OPEN","comments":34,"participants":33,"reactions":141,"createdAt":"2018-12-28T14:08:03.000Z"}
 {"date":"2024-04-10","repository":"flutter/flutter","id":31191,"title":"PageView should preload pages","state":"OPEN","comments":44,"participants":29,"reactions":139,"createdAt":"2019-04-17T09:31:30.000Z"}
 {"date":"2024-04-10","repository":"flutter/flutter","id":9984,"title":"Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically","state":"OPEN","comments":96,"participants":67,"reactions":138,"createdAt":"2017-05-11T01:28:15.000Z"}
 {"date":"2024-04-10","repository":"flutter/flutter","id":42560,"title":"Support for sheet presentation style","state":"OPEN","comments":45,"participants":30,"reactions":136,"createdAt":"2019-10-12T01:20:07.000Z"}
