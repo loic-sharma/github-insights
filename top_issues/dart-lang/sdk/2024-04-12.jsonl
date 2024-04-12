@@ -623,6 +623,7 @@
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":53082,"title":"Dart2js throw/catch bug","state":"OPEN","comments":8,"participants":4,"reactions":2,"createdAt":"2023-07-31T22:10:13.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":53027,"title":"`buildId` support for Flutter Web","state":"OPEN","comments":5,"participants":3,"reactions":2,"createdAt":"2023-07-24T12:56:30.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":53014,"title":"[dart2js] Dart 3 producing larger output","state":"OPEN","comments":1,"participants":3,"reactions":2,"createdAt":"2023-07-22T11:56:02.000Z"}
+{"date":"2024-04-12","repository":"dart-lang/sdk","id":52974,"title":"Mark top-level getters in package:web as \"pure\" for optimization","state":"OPEN","comments":0,"participants":1,"reactions":2,"createdAt":"2023-07-18T22:31:32.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":52840,"title":"Analyzer: I'd like to be able to \"ignore\" for a reason","state":"OPEN","comments":3,"participants":5,"reactions":2,"createdAt":"2023-07-04T00:59:40.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":52753,"title":"Link to static interop documentation when Wasm compilation fails","state":"OPEN","comments":1,"participants":2,"reactions":2,"createdAt":"2023-06-21T19:43:53.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":52721,"title":"Cannot access named group in onMatch callback param of String.splitMapJoin method.","state":"OPEN","comments":1,"participants":2,"reactions":2,"createdAt":"2023-06-16T13:36:01.000Z"}
@@ -843,7 +844,6 @@
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":38684,"title":"Either make a generic @JS method a static error, or handle them consistently between DDC and dart2js","state":"OPEN","comments":1,"participants":2,"reactions":1,"createdAt":"2019-10-01T21:23:26.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":38646,"title":"[vm/ffi] Change Pointer to use sound variance?","state":"OPEN","comments":5,"participants":2,"reactions":1,"createdAt":"2019-09-30T08:17:49.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":38629,"title":"Investigate analyzer integration test timeouts","state":"OPEN","comments":3,"participants":4,"reactions":1,"createdAt":"2019-09-27T22:00:20.000Z"}
-{"date":"2024-04-12","repository":"dart-lang/sdk","id":38049,"title":"Analyzer fuzz crash: calling improperly defined operator","state":"OPEN","comments":0,"participants":2,"reactions":1,"createdAt":"2019-08-28T00:10:43.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":38012,"title":"Particularly bad error messages for a missing parenthesis","state":"OPEN","comments":4,"participants":5,"reactions":1,"createdAt":"2019-08-26T21:42:49.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":37477,"title":"CFE Null Safety stable","state":"OPEN","comments":1,"participants":4,"reactions":1,"createdAt":"2019-07-09T20:49:57.000Z"}
 {"date":"2024-04-12","repository":"dart-lang/sdk","id":37470,"title":"[vm/ffi] Support SSE & NEON packed data","state":"OPEN","comments":2,"participants":1,"reactions":1,"createdAt":"2019-07-09T10:36:20.000Z"}
