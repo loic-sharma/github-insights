@@ -647,7 +647,7 @@
 {"date":"2024-04-22","repository":"flutter/flutter","id":69676,"title":"Persistent bottom sheet does not respect SafeArea","state":"OPEN","comments":8,"participants":11,"reactions":20,"createdAt":"2020-11-03T14:26:13.000Z"}
 {"date":"2024-04-22","repository":"flutter/flutter","id":68017,"title":"DropdownButton very slow on first opening","state":"OPEN","comments":19,"participants":15,"reactions":20,"createdAt":"2020-10-13T11:50:56.000Z"}
 {"date":"2024-04-22","repository":"flutter/flutter","id":66862,"title":"flutter devices reporting physical device is busy","state":"OPEN","comments":62,"participants":33,"reactions":20,"createdAt":"2020-09-28T23:01:11.000Z"}
-{"date":"2024-04-22","repository":"flutter/flutter","id":61175,"title":"On Samsung phones the decimal key is disabled for TextField","state":"OPEN","comments":33,"participants":22,"reactions":20,"createdAt":"2020-07-09T19:24:56.000Z"}
+{"date":"2024-04-22","repository":"flutter/flutter","id":61175,"title":"On Samsung phones the decimal key is disabled for TextField","state":"OPEN","comments":34,"participants":22,"reactions":20,"createdAt":"2020-07-09T19:24:56.000Z"}
 {"date":"2024-04-22","repository":"flutter/flutter","id":60034,"title":"Add package for SF Symbols 2","state":"OPEN","comments":8,"participants":9,"reactions":20,"createdAt":"2020-06-22T23:50:49.000Z"}
 {"date":"2024-04-22","repository":"flutter/flutter","id":59552,"title":"Flutter flashes black screen on Android when resuming","state":"OPEN","comments":36,"participants":27,"reactions":20,"createdAt":"2020-06-16T12:29:33.000Z"}
 {"date":"2024-04-22","repository":"flutter/flutter","id":55720,"title":"Locale parser","state":"OPEN","comments":1,"participants":6,"reactions":20,"createdAt":"2020-04-27T07:47:16.000Z"}
