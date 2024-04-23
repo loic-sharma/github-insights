@@ -28,7 +28,7 @@
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":31969,"title":"Enable tree shaking of platform-specific code in AOT mode.","state":"OPEN","comments":9,"participants":4,"reactions":47,"createdAt":"2018-01-23T17:26:55.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":10530,"title":"Dynamic module loading","state":"OPEN","comments":124,"participants":34,"reactions":46,"createdAt":"2013-05-08T13:38:05.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":47718,"title":"dart compile exe support static linking of C code","state":"OPEN","comments":11,"participants":6,"reactions":44,"createdAt":"2021-11-17T09:14:45.000Z"}
-{"date":"2024-04-23","repository":"dart-lang/sdk","id":43490,"title":"Disposable","state":"OPEN","comments":16,"participants":8,"reactions":44,"createdAt":"2020-09-19T10:45:48.000Z"}
+{"date":"2024-04-23","repository":"dart-lang/sdk","id":43490,"title":"Disposable","state":"OPEN","comments":17,"participants":9,"reactions":44,"createdAt":"2020-09-19T10:45:48.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":44626,"title":"Support relative imports for extensions on quick-fixes + auto-imports","state":"OPEN","comments":5,"participants":8,"reactions":42,"createdAt":"2021-01-09T16:17:02.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":43943,"title":"[Analyzer] Analyzer extremely slow","state":"OPEN","comments":13,"participants":15,"reactions":42,"createdAt":"2020-10-27T22:30:01.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":53779,"title":"Code optimization issues in generic binary search benchmark","state":"OPEN","comments":1,"participants":2,"reactions":41,"createdAt":"2023-10-17T13:12:05.000Z"}
@@ -465,7 +465,7 @@
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":54025,"title":"[dart:js_interop] Add a way to internalize `undefined` values and pass it back to JS","state":"OPEN","comments":5,"participants":4,"reactions":3,"createdAt":"2023-11-13T11:27:36.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":53973,"title":"stdin.readLineSync() sometimes not working in Windows Terminal","state":"OPEN","comments":4,"participants":6,"reactions":3,"createdAt":"2023-11-07T07:17:38.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":53860,"title":"Wording of `unnecessary_null_comparison`","state":"OPEN","comments":4,"participants":6,"reactions":3,"createdAt":"2023-10-25T17:33:23.000Z"}
-{"date":"2024-04-23","repository":"dart-lang/sdk","id":53745,"title":"@protected annotation on methods isn't inherited","state":"OPEN","comments":24,"participants":8,"reactions":3,"createdAt":"2023-10-12T21:24:26.000Z"}
+{"date":"2024-04-23","repository":"dart-lang/sdk","id":53745,"title":"@protected annotation on methods isn't inherited","state":"OPEN","comments":25,"participants":8,"reactions":3,"createdAt":"2023-10-12T21:24:26.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":53658,"title":"Poor documentation for DynamicLibrary.open()","state":"OPEN","comments":3,"participants":5,"reactions":3,"createdAt":"2023-09-29T11:13:00.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":53576,"title":"Use AOT mode in the Dart SDK binaries","state":"OPEN","comments":6,"participants":4,"reactions":3,"createdAt":"2023-09-20T15:28:11.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":53486,"title":"Exhaustiveness checking says a non-subtype is unhandled.","state":"OPEN","comments":3,"participants":4,"reactions":3,"createdAt":"2023-09-11T10:52:39.000Z"}
@@ -735,7 +735,6 @@
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":42269,"title":"Get rid of getStaticType() and readType()","state":"OPEN","comments":1,"participants":2,"reactions":2,"createdAt":"2020-06-10T18:44:34.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":42268,"title":"Stop using AuxiliaryElements","state":"OPEN","comments":0,"participants":2,"reactions":2,"createdAt":"2020-06-10T18:40:38.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":42266,"title":"Analyzer is unhelpful when trying to complete `@override`","state":"OPEN","comments":4,"participants":6,"reactions":2,"createdAt":"2020-06-10T17:46:26.000Z"}
-{"date":"2024-04-23","repository":"dart-lang/sdk","id":42161,"title":"Add transparent pagination support for getVMTimeline","state":"OPEN","comments":1,"participants":3,"reactions":2,"createdAt":"2020-06-02T18:32:26.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":42160,"title":"Need better infrastructure for detecting unintentional breaking changes to analyzer","state":"OPEN","comments":4,"participants":3,"reactions":2,"createdAt":"2020-06-02T17:18:35.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":42050,"title":"Investigate outlining support in Dart VM's AOT compiler","state":"OPEN","comments":1,"participants":2,"reactions":2,"createdAt":"2020-05-26T08:34:34.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":42013,"title":"Analyzer should warn when passing functions to JS without allowInterop","state":"OPEN","comments":3,"participants":4,"reactions":2,"createdAt":"2020-05-21T16:35:30.000Z"}
@@ -857,6 +856,7 @@
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":38099,"title":"Code for DDC and Dart2JS behaves differently, Dart2Js is merging and destroying code by its own will","state":"OPEN","comments":11,"participants":4,"reactions":1,"createdAt":"2019-08-29T02:19:29.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":38049,"title":"Analyzer fuzz crash: calling improperly defined operator","state":"OPEN","comments":0,"participants":2,"reactions":1,"createdAt":"2019-08-28T00:10:43.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":38012,"title":"Particularly bad error messages for a missing parenthesis","state":"OPEN","comments":4,"participants":5,"reactions":1,"createdAt":"2019-08-26T21:42:49.000Z"}
+{"date":"2024-04-23","repository":"dart-lang/sdk","id":37863,"title":"Inference of type arguments to generic method calls.","state":"OPEN","comments":7,"participants":8,"reactions":1,"createdAt":"2019-08-14T16:03:47.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":37477,"title":"CFE Null Safety stable","state":"OPEN","comments":1,"participants":4,"reactions":1,"createdAt":"2019-07-09T20:49:57.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":37470,"title":"[vm/ffi] Support SSE & NEON packed data","state":"OPEN","comments":2,"participants":1,"reactions":1,"createdAt":"2019-07-09T10:36:20.000Z"}
 {"date":"2024-04-23","repository":"dart-lang/sdk","id":36929,"title":"Inconsistent Invocation passed into noSuchMethod calls when in abstract method overrides.","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2019-05-10T21:42:03.000Z"}
