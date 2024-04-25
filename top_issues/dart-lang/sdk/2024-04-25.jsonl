@@ -536,6 +536,7 @@
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":41093,"title":"Postfix completion: '.for' works incorrectly for qualified reference","state":"OPEN","comments":0,"participants":3,"reactions":3,"createdAt":"2020-03-18T12:52:50.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":40790,"title":"Confusing promotion behavior with nullability","state":"OPEN","comments":6,"participants":5,"reactions":3,"createdAt":"2020-02-26T20:53:31.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":40347,"title":"Completion should suggest enum values first","state":"OPEN","comments":5,"participants":4,"reactions":3,"createdAt":"2020-01-28T15:42:45.000Z"}
+{"date":"2024-04-25","repository":"dart-lang/sdk","id":40019,"title":"Confusing \"List isn't a type\" caused by stray void","state":"OPEN","comments":5,"participants":7,"reactions":3,"createdAt":"2020-01-08T06:03:01.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":39964,"title":"[vm/ffi] add alignmentOf<T> (besides just having sizeOf<T>)","state":"OPEN","comments":2,"participants":2,"reactions":3,"createdAt":"2020-01-02T10:52:45.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":39126,"title":"A Unified Frontend Server for Flutter","state":"OPEN","comments":3,"participants":3,"reactions":3,"createdAt":"2019-10-25T22:12:18.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":38759,"title":"consider dropping most of symbol information (uris and names) when using dwarf stacks","state":"OPEN","comments":6,"participants":4,"reactions":3,"createdAt":"2019-10-08T10:25:13.000Z"}
@@ -751,7 +752,6 @@
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":40324,"title":"rename html_dart2js.dart","state":"OPEN","comments":0,"participants":1,"reactions":2,"createdAt":"2020-01-24T22:58:09.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":40127,"title":"Add device type utils","state":"OPEN","comments":0,"participants":2,"reactions":2,"createdAt":"2020-01-14T12:05:27.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":40097,"title":"Support per-library exception pause mode","state":"OPEN","comments":5,"participants":4,"reactions":2,"createdAt":"2020-01-13T17:47:19.000Z"}
-{"date":"2024-04-25","repository":"dart-lang/sdk","id":40019,"title":"Confusing \"List isn't a type\" caused by stray void","state":"OPEN","comments":4,"participants":6,"reactions":2,"createdAt":"2020-01-08T06:03:01.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":39825,"title":"Drop the concept of \"error zones\".","state":"OPEN","comments":3,"participants":3,"reactions":2,"createdAt":"2019-12-17T07:23:11.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":39548,"title":"HttpClient doesn' t transfer any data if `chunkedTransferEncoding = false` and `contentLength`isn't set","state":"OPEN","comments":2,"participants":4,"reactions":2,"createdAt":"2019-11-27T14:03:23.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":39531,"title":"Unable to use JS interop on CustomEvent in dart2js","state":"OPEN","comments":1,"participants":4,"reactions":2,"createdAt":"2019-11-26T22:39:19.000Z"}
