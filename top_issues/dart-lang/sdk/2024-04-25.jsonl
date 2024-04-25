@@ -1,4 +1,4 @@
-{"date":"2024-04-25","repository":"dart-lang/sdk","id":32894,"title":"Compile Dart to Wasm","state":"OPEN","comments":123,"participants":49,"reactions":646,"createdAt":"2018-04-15T21:30:12.000Z"}
+{"date":"2024-04-25","repository":"dart-lang/sdk","id":32894,"title":"Compile Dart to Wasm","state":"OPEN","comments":123,"participants":49,"reactions":647,"createdAt":"2018-04-15T21:30:12.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":28617,"title":"Allow AOT executables to be cross-compiled","state":"OPEN","comments":47,"participants":27,"reactions":497,"createdAt":"2017-02-02T23:14:35.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":30310,"title":"[feature request] Extract class to a new file","state":"OPEN","comments":50,"participants":26,"reactions":316,"createdAt":"2017-08-01T19:36:35.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":42947,"title":"Null safety feedback: How to use firstWhere?","state":"OPEN","comments":57,"participants":20,"reactions":183,"createdAt":"2020-06-10T21:09:13.000Z"}
@@ -54,11 +54,11 @@
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":49674,"title":"Interop: Java/Kotlin","state":"OPEN","comments":4,"participants":6,"reactions":28,"createdAt":"2022-08-16T06:57:29.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":49673,"title":"Interop: Objective C & Swift","state":"OPEN","comments":4,"participants":5,"reactions":28,"createdAt":"2022-08-16T06:57:11.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":41376,"title":"Dart sockets don't respect iOS's VPN","state":"OPEN","comments":29,"participants":15,"reactions":28,"createdAt":"2020-04-07T20:03:10.000Z"}
+{"date":"2024-04-25","repository":"dart-lang/sdk","id":43763,"title":"int doesn't extend Comparable<int>","state":"OPEN","comments":10,"participants":7,"reactions":27,"createdAt":"2020-10-12T06:39:50.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":34050,"title":"Add Stream.whereType like Iterable.whereType","state":"OPEN","comments":6,"participants":5,"reactions":27,"createdAt":"2018-08-01T10:48:35.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":26544,"title":"Add support for Passive Event Listeners","state":"OPEN","comments":15,"participants":13,"reactions":27,"createdAt":"2016-05-26T11:03:51.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":8575,"title":"Round for doubles should take the number of decimals as argument...","state":"OPEN","comments":20,"participants":12,"reactions":27,"createdAt":"2013-02-16T04:03:51.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":54003,"title":"Data assets feature","state":"OPEN","comments":6,"participants":5,"reactions":26,"createdAt":"2023-11-09T18:08:46.000Z"}
-{"date":"2024-04-25","repository":"dart-lang/sdk","id":43763,"title":"int doesn't extend Comparable<int>","state":"OPEN","comments":10,"participants":7,"reactions":26,"createdAt":"2020-10-12T06:39:50.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":43352,"title":"Add support for Certificate Transparency","state":"OPEN","comments":2,"participants":5,"reactions":26,"createdAt":"2020-09-08T07:17:02.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":42855,"title":"Add possibility to truly cancel/dispose Fututre","state":"OPEN","comments":21,"participants":5,"reactions":26,"createdAt":"2020-07-27T10:49:06.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":22306,"title":"List swap method","state":"OPEN","comments":11,"participants":12,"reactions":26,"createdAt":"2015-02-06T16:36:13.000Z"}
@@ -466,7 +466,7 @@
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":54025,"title":"[dart:js_interop] Add a way to internalize `undefined` values and pass it back to JS","state":"OPEN","comments":5,"participants":4,"reactions":3,"createdAt":"2023-11-13T11:27:36.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":53973,"title":"stdin.readLineSync() sometimes not working in Windows Terminal","state":"OPEN","comments":4,"participants":6,"reactions":3,"createdAt":"2023-11-07T07:17:38.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":53860,"title":"Wording of `unnecessary_null_comparison`","state":"OPEN","comments":4,"participants":6,"reactions":3,"createdAt":"2023-10-25T17:33:23.000Z"}
-{"date":"2024-04-25","repository":"dart-lang/sdk","id":53745,"title":"@protected annotation on methods isn't inherited","state":"OPEN","comments":27,"participants":8,"reactions":3,"createdAt":"2023-10-12T21:24:26.000Z"}
+{"date":"2024-04-25","repository":"dart-lang/sdk","id":53745,"title":"@protected annotation on methods isn't inherited","state":"OPEN","comments":28,"participants":8,"reactions":3,"createdAt":"2023-10-12T21:24:26.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":53696,"title":"Using `dart run` conflicts with `flutter pub get`","state":"OPEN","comments":19,"participants":12,"reactions":3,"createdAt":"2023-10-05T11:09:52.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":53658,"title":"Poor documentation for DynamicLibrary.open()","state":"OPEN","comments":3,"participants":5,"reactions":3,"createdAt":"2023-09-29T11:13:00.000Z"}
 {"date":"2024-04-25","repository":"dart-lang/sdk","id":53576,"title":"Use AOT mode in the Dart SDK binaries","state":"OPEN","comments":6,"participants":4,"reactions":3,"createdAt":"2023-09-20T15:28:11.000Z"}
