@@ -284,6 +284,7 @@
 {"date":"2024-04-25","repository":"flutter/flutter","id":124334,"title":"WebGPU Backend for Flutter Web","state":"OPEN","comments":5,"participants":6,"reactions":42,"createdAt":"2023-04-06T17:40:34.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":119536,"title":"[Engine][3.7] Emojis are not properly rendered","state":"OPEN","comments":47,"participants":29,"reactions":42,"createdAt":"2023-01-30T18:02:42.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":119207,"title":"Unable receive Platform Channel calls in background isolates","state":"OPEN","comments":17,"participants":14,"reactions":42,"createdAt":"2023-01-26T00:59:29.000Z"}
+{"date":"2024-04-25","repository":"flutter/flutter","id":114012,"title":"Camera CameraCaptureSession.close() crash","state":"OPEN","comments":59,"participants":39,"reactions":42,"createdAt":"2022-10-25T12:50:37.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":108177,"title":"[go_router] Add support for relative routes","state":"OPEN","comments":4,"participants":7,"reactions":42,"createdAt":"2022-07-22T18:15:10.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":78746,"title":"Autocomplete widget goes out of screen from right side","state":"OPEN","comments":38,"participants":24,"reactions":42,"createdAt":"2021-03-21T21:34:08.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":66537,"title":"Middle Mouse Button Scrolling","state":"OPEN","comments":10,"participants":12,"reactions":42,"createdAt":"2020-09-24T08:07:24.000Z"}
@@ -292,7 +293,6 @@
 {"date":"2024-04-25","repository":"flutter/flutter","id":42969,"title":"\"iproxy cannot be opened because the developer cannot be verified\"","state":"OPEN","comments":63,"participants":36,"reactions":42,"createdAt":"2019-10-17T22:26:21.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":16049,"title":"Friction adding swift plugin to objective-c project","state":"OPEN","comments":67,"participants":41,"reactions":42,"createdAt":"2018-03-29T00:39:12.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":12990,"title":"ColorFilter doesn't handle transparency of images","state":"OPEN","comments":32,"participants":24,"reactions":42,"createdAt":"2017-11-13T08:35:14.000Z"}
-{"date":"2024-04-25","repository":"flutter/flutter","id":114012,"title":"Camera CameraCaptureSession.close() crash","state":"OPEN","comments":59,"participants":39,"reactions":41,"createdAt":"2022-10-25T12:50:37.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":99105,"title":"[go_router] Support deferred libraries","state":"OPEN","comments":13,"participants":16,"reactions":41,"createdAt":"2022-02-24T23:50:18.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":85026,"title":"StackOverflowError when building too many widgets","state":"OPEN","comments":11,"participants":9,"reactions":41,"createdAt":"2021-06-22T08:53:07.000Z"}
 {"date":"2024-04-25","repository":"flutter/flutter","id":74727,"title":"Proposal Refactor Scroll To Top iOS (non-breaking)","state":"OPEN","comments":9,"participants":9,"reactions":41,"createdAt":"2021-01-26T13:19:07.000Z"}
