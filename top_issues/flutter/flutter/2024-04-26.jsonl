@@ -655,7 +655,7 @@
 {"date":"2024-04-26","repository":"flutter/flutter","id":65254,"title":"Export widget as Video","state":"OPEN","comments":8,"participants":8,"reactions":20,"createdAt":"2020-09-04T16:59:31.000Z"}
 {"date":"2024-04-26","repository":"flutter/flutter","id":61175,"title":"On Samsung phones the decimal key is disabled for TextField","state":"OPEN","comments":34,"participants":22,"reactions":20,"createdAt":"2020-07-09T19:24:56.000Z"}
 {"date":"2024-04-26","repository":"flutter/flutter","id":60034,"title":"Add package for SF Symbols 2","state":"OPEN","comments":8,"participants":9,"reactions":20,"createdAt":"2020-06-22T23:50:49.000Z"}
-{"date":"2024-04-26","repository":"flutter/flutter","id":59552,"title":"Flutter flashes black screen on Android when resuming","state":"OPEN","comments":36,"participants":27,"reactions":20,"createdAt":"2020-06-16T12:29:33.000Z"}
+{"date":"2024-04-26","repository":"flutter/flutter","id":59552,"title":"Flutter flashes black screen on Android when resuming","state":"OPEN","comments":37,"participants":28,"reactions":20,"createdAt":"2020-06-16T12:29:33.000Z"}
 {"date":"2024-04-26","repository":"flutter/flutter","id":55720,"title":"Locale parser","state":"OPEN","comments":1,"participants":6,"reactions":20,"createdAt":"2020-04-27T07:47:16.000Z"}
 {"date":"2024-04-26","repository":"flutter/flutter","id":53985,"title":"Ability to use ParagraphBuilder & Paragraph in other isolates","state":"OPEN","comments":2,"participants":6,"reactions":20,"createdAt":"2020-04-04T10:07:40.000Z"}
 {"date":"2024-04-26","repository":"flutter/flutter","id":50808,"title":"Feature request: Add a flag to `flutter run` & `flutter logs` to filter output","state":"OPEN","comments":27,"participants":21,"reactions":20,"createdAt":"2020-02-14T17:12:05.000Z"}
