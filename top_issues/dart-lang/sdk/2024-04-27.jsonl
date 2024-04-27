@@ -377,6 +377,7 @@
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":19926,"title":"Add all dart binaries to bin dir in Debian package","state":"OPEN","comments":19,"participants":10,"reactions":5,"createdAt":"2014-07-09T17:30:46.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":17667,"title":"Zone, isolates and Worker are poorly documented","state":"OPEN","comments":6,"participants":6,"reactions":5,"createdAt":"2014-03-20T22:00:10.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":433,"title":"Default sorting algorithm should be a stable sort","state":"OPEN","comments":17,"participants":6,"reactions":5,"createdAt":"2011-11-12T01:24:38.000Z"}
+{"date":"2024-04-27","repository":"dart-lang/sdk","id":55436,"title":"[Breaking Change] Make type inference of `e1 ?? e2` consistent.","state":"OPEN","comments":7,"participants":6,"reactions":4,"createdAt":"2024-04-11T08:07:22.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":55364,"title":"[dart2wasm] Multi isolate support","state":"OPEN","comments":0,"participants":2,"reactions":4,"createdAt":"2024-04-03T12:50:12.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":55117,"title":"Introduce `dart doctor`","state":"OPEN","comments":0,"participants":2,"reactions":4,"createdAt":"2024-03-06T10:01:45.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":54852,"title":"Deprecate `Point`, `Rectangle`, and `MutableRectangle` in `dart:math`","state":"OPEN","comments":0,"participants":1,"reactions":4,"createdAt":"2024-02-07T22:40:39.000Z"}
@@ -449,7 +450,7 @@
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":24088,"title":"Need a way of passing `undefined` to JS via dart:js","state":"OPEN","comments":6,"participants":9,"reactions":4,"createdAt":"2015-08-14T16:33:25.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":11744,"title":"Encoding class does not support UTF- encodings","state":"OPEN","comments":6,"participants":7,"reactions":4,"createdAt":"2013-07-08T23:23:15.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":8005,"title":"UUID's missing from dart","state":"OPEN","comments":8,"participants":6,"reactions":4,"createdAt":"2013-01-21T12:41:27.000Z"}
-{"date":"2024-04-27","repository":"dart-lang/sdk","id":55436,"title":"[Breaking Change] Make type inference of `e1 ?? e2` consistent.","state":"OPEN","comments":7,"participants":6,"reactions":3,"createdAt":"2024-04-11T08:07:22.000Z"}
+{"date":"2024-04-27","repository":"dart-lang/sdk","id":55479,"title":"`double.remainder()` performance issues?","state":"OPEN","comments":3,"participants":4,"reactions":3,"createdAt":"2024-04-16T13:26:13.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":55429,"title":"`dart:js_interop`'s `importModule` should support `TrustedTypes` API","state":"OPEN","comments":5,"participants":3,"reactions":3,"createdAt":"2024-04-10T21:24:24.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":55268,"title":"Breakpoint system needs a serious overhaul","state":"OPEN","comments":30,"participants":8,"reactions":3,"createdAt":"2024-03-22T07:03:31.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":55261,"title":"Add \"replace tear-off with function literal\" refactor","state":"OPEN","comments":12,"participants":6,"reactions":3,"createdAt":"2024-03-21T14:29:22.000Z"}
@@ -858,7 +859,6 @@
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":37863,"title":"Inference of type arguments to generic method calls.","state":"OPEN","comments":7,"participants":8,"reactions":1,"createdAt":"2019-08-14T16:03:47.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":37477,"title":"CFE Null Safety stable","state":"OPEN","comments":1,"participants":4,"reactions":1,"createdAt":"2019-07-09T20:49:57.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":37470,"title":"[vm/ffi] Support SSE & NEON packed data","state":"OPEN","comments":2,"participants":1,"reactions":1,"createdAt":"2019-07-09T10:36:20.000Z"}
-{"date":"2024-04-27","repository":"dart-lang/sdk","id":37346,"title":"Allow to use 'Show Call Hierarchy' on the class, if there is no constructor","state":"OPEN","comments":0,"participants":1,"reactions":1,"createdAt":"2019-06-24T15:24:37.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":36929,"title":"Inconsistent Invocation passed into noSuchMethod calls when in abstract method overrides.","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2019-05-10T21:42:03.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":36814,"title":"dart2js modular FE and analysis support","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2019-05-01T19:45:05.000Z"}
 {"date":"2024-04-27","repository":"dart-lang/sdk","id":36734,"title":"Bad error for duplicate class definitions when not using \"new\"","state":"OPEN","comments":0,"participants":2,"reactions":1,"createdAt":"2019-04-24T18:54:34.000Z"}
