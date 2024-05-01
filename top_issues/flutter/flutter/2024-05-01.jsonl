@@ -65,7 +65,7 @@
 {"date":"2024-05-01","repository":"flutter/flutter","id":66711,"title":"[pigeon] Support typesafe EventChannels","state":"OPEN","comments":9,"participants":12,"reactions":135,"createdAt":"2020-09-26T03:47:40.000Z"}
 {"date":"2024-05-01","repository":"flutter/flutter","id":40376,"title":"Support Google AdSense in Flutter Web applications","state":"OPEN","comments":74,"participants":58,"reactions":134,"createdAt":"2019-09-12T19:46:20.000Z"}
 {"date":"2024-05-01","repository":"flutter/flutter","id":32120,"title":"Add option to smoothly animate stepped mouse scroll deltas","state":"OPEN","comments":59,"participants":33,"reactions":134,"createdAt":"2019-05-05T15:12:20.000Z"}
-{"date":"2024-05-01","repository":"flutter/flutter","id":28894,"title":"Emoji size is off on iOS","state":"OPEN","comments":184,"participants":37,"reactions":133,"createdAt":"2019-03-05T17:04:52.000Z"}
+{"date":"2024-05-01","repository":"flutter/flutter","id":28894,"title":"Emoji size is off on iOS","state":"OPEN","comments":184,"participants":37,"reactions":134,"createdAt":"2019-03-05T17:04:52.000Z"}
 {"date":"2024-05-01","repository":"flutter/flutter","id":26767,"title":"Video playback within a ListView","state":"OPEN","comments":18,"participants":19,"reactions":130,"createdAt":"2019-01-18T18:37:55.000Z"}
 {"date":"2024-05-01","repository":"flutter/flutter","id":14230,"title":"Provide an easy way to select the version of Flutter to use","state":"OPEN","comments":50,"participants":29,"reactions":129,"createdAt":"2018-01-23T16:03:21.000Z"}
 {"date":"2024-05-01","repository":"flutter/flutter","id":28567,"title":"Support text capitalization in TextStyle ","state":"OPEN","comments":25,"participants":29,"reactions":127,"createdAt":"2019-02-27T09:05:56.000Z"}
