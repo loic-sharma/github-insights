@@ -272,6 +272,7 @@
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":53245,"title":"Add FFI APIs for atomic loads/stores with memory orderings","state":"OPEN","comments":1,"participants":3,"reactions":6,"createdAt":"2023-08-17T07:20:51.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":52404,"title":"Switch expression syntax should be recognized inside switch statements","state":"OPEN","comments":1,"participants":2,"reactions":6,"createdAt":"2023-05-15T18:12:24.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":51634,"title":"PR: octal and binary integer literals","state":"OPEN","comments":2,"participants":2,"reactions":6,"createdAt":"2023-03-05T16:55:06.000Z"}
+{"date":"2024-05-03","repository":"dart-lang/sdk","id":50204,"title":"Future.wait should support Flutter's SynchronousFuture","state":"OPEN","comments":11,"participants":4,"reactions":6,"createdAt":"2022-10-14T13:56:35.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":50085,"title":"Show descriptive hover/tooltips for keywords in IDEs","state":"OPEN","comments":14,"participants":7,"reactions":6,"createdAt":"2022-09-29T09:28:27.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":49818,"title":"`dart fix` should remove `const`s when they err just as it adds them when needed","state":"OPEN","comments":8,"participants":6,"reactions":6,"createdAt":"2022-08-25T18:31:59.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":48554,"title":"json schema for `analysis_options.yaml`","state":"OPEN","comments":3,"participants":4,"reactions":6,"createdAt":"2022-03-14T12:16:33.000Z"}
@@ -323,7 +324,6 @@
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":50844,"title":"Clean up `Match` API interface.","state":"OPEN","comments":3,"participants":2,"reactions":5,"createdAt":"2022-12-25T18:55:07.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":50599,"title":"Analyzer should warn when patterns are used but not required","state":"OPEN","comments":5,"participants":4,"reactions":5,"createdAt":"2022-12-01T15:36:57.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":50576,"title":"Fix the behavior of `Socket.address` ","state":"OPEN","comments":7,"participants":6,"reactions":5,"createdAt":"2022-11-29T17:18:50.000Z"}
-{"date":"2024-05-03","repository":"dart-lang/sdk","id":50204,"title":"Future.wait should support Flutter's SynchronousFuture","state":"OPEN","comments":10,"participants":3,"reactions":5,"createdAt":"2022-10-14T13:56:35.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":49638,"title":"Support code navigation in analysis options files","state":"OPEN","comments":0,"participants":2,"reactions":5,"createdAt":"2022-08-10T22:01:07.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":49579,"title":"Add a dart2js option to fail early for dart:io imports","state":"OPEN","comments":2,"participants":3,"reactions":5,"createdAt":"2022-08-02T00:00:15.000Z"}
 {"date":"2024-05-03","repository":"dart-lang/sdk","id":48975,"title":"[Feature] `Uint8List.empty()` or `const Uint8List(0)`","state":"OPEN","comments":3,"participants":2,"reactions":5,"createdAt":"2022-05-07T04:21:46.000Z"}
