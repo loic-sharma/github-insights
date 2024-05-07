@@ -387,7 +387,7 @@
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":54829,"title":"New annotation request: `@IntentToAddClassModifier.kFinal` (and others)","state":"OPEN","comments":23,"participants":8,"reactions":4,"createdAt":"2024-02-05T19:32:41.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":54543,"title":"[analyzer] Spurious `unused_element`","state":"OPEN","comments":2,"participants":3,"reactions":4,"createdAt":"2024-01-08T15:02:41.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":54012,"title":"When is a good time to test Release Candidates?","state":"OPEN","comments":10,"participants":8,"reactions":4,"createdAt":"2023-11-10T12:51:52.000Z"}
-{"date":"2024-05-07","repository":"dart-lang/sdk","id":53876,"title":"Support multi-option contexts","state":"OPEN","comments":18,"participants":5,"reactions":4,"createdAt":"2023-10-26T19:46:15.000Z"}
+{"date":"2024-05-07","repository":"dart-lang/sdk","id":53876,"title":"Support multi-option contexts","state":"OPEN","comments":19,"participants":5,"reactions":4,"createdAt":"2023-10-26T19:46:15.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":53460,"title":"Incorrect help information provided on 'dart help doc'","state":"OPEN","comments":1,"participants":4,"reactions":4,"createdAt":"2023-09-07T18:03:51.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":53420,"title":"Add `// ignore: type=warning` similar to `// ignore: type=lint`","state":"OPEN","comments":4,"participants":4,"reactions":4,"createdAt":"2023-09-04T11:48:21.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":52953,"title":"Investigate CodeQL (code scanning) support","state":"OPEN","comments":4,"participants":4,"reactions":4,"createdAt":"2023-07-17T11:14:14.000Z"}
@@ -471,7 +471,7 @@
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":53910,"title":"dart2wasm fails with typed FFI classes due to tree-shaking","state":"OPEN","comments":3,"participants":4,"reactions":3,"createdAt":"2023-10-31T08:40:31.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":53860,"title":"Wording of `unnecessary_null_comparison`","state":"OPEN","comments":4,"participants":6,"reactions":3,"createdAt":"2023-10-25T17:33:23.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":53745,"title":"@protected annotation on methods isn't inherited","state":"OPEN","comments":28,"participants":8,"reactions":3,"createdAt":"2023-10-12T21:24:26.000Z"}
-{"date":"2024-05-07","repository":"dart-lang/sdk","id":53696,"title":"Using `dart run` conflicts with `flutter pub get`","state":"OPEN","comments":20,"participants":13,"reactions":3,"createdAt":"2023-10-05T11:09:52.000Z"}
+{"date":"2024-05-07","repository":"dart-lang/sdk","id":53696,"title":"Using `dart run` conflicts with `flutter pub get`","state":"OPEN","comments":21,"participants":14,"reactions":3,"createdAt":"2023-10-05T11:09:52.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":53670,"title":"Operand can't be null - wrong analyzer warnings?","state":"OPEN","comments":1,"participants":3,"reactions":3,"createdAt":"2023-10-02T13:30:38.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":53658,"title":"Poor documentation for DynamicLibrary.open()","state":"OPEN","comments":3,"participants":5,"reactions":3,"createdAt":"2023-09-29T11:13:00.000Z"}
 {"date":"2024-05-07","repository":"dart-lang/sdk","id":53576,"title":"Use AOT mode in the Dart SDK binaries","state":"OPEN","comments":6,"participants":4,"reactions":3,"createdAt":"2023-09-20T15:28:11.000Z"}
