@@ -179,7 +179,7 @@
 {"date":"2024-05-08","repository":"dart-lang/sdk","id":27825,"title":"Support for long paths on Windows","state":"OPEN","comments":8,"participants":7,"reactions":10,"createdAt":"2016-11-15T16:51:04.000Z"}
 {"date":"2024-05-08","repository":"dart-lang/sdk","id":26953,"title":"Build and upload ARM Dart SDK debian packages on official builders","state":"OPEN","comments":37,"participants":19,"reactions":10,"createdAt":"2016-07-25T01:26:57.000Z"}
 {"date":"2024-05-08","repository":"dart-lang/sdk","id":3174,"title":"Server-side unicode support (normalization, removing accents)","state":"OPEN","comments":7,"participants":10,"reactions":10,"createdAt":"2012-05-22T18:20:47.000Z"}
-{"date":"2024-05-08","repository":"dart-lang/sdk","id":55281,"title":"Dart Analyzer very slow/stuck","state":"OPEN","comments":10,"participants":6,"reactions":9,"createdAt":"2024-03-22T20:52:51.000Z"}
+{"date":"2024-05-08","repository":"dart-lang/sdk","id":55281,"title":"Dart Analyzer very slow/stuck","state":"OPEN","comments":11,"participants":6,"reactions":9,"createdAt":"2024-03-22T20:52:51.000Z"}
 {"date":"2024-05-08","repository":"dart-lang/sdk","id":53902,"title":"DWARF stack traces and deferred units","state":"OPEN","comments":5,"participants":4,"reactions":9,"createdAt":"2023-10-30T09:58:46.000Z"}
 {"date":"2024-05-08","repository":"dart-lang/sdk","id":53431,"title":"Print all errors from ParallelWaitError","state":"OPEN","comments":8,"participants":4,"reactions":9,"createdAt":"2023-09-05T08:04:37.000Z"}
 {"date":"2024-05-08","repository":"dart-lang/sdk","id":52577,"title":"Lightweight communication of typed data between long-lived isolates","state":"OPEN","comments":7,"participants":4,"reactions":9,"createdAt":"2023-05-31T00:16:42.000Z"}
