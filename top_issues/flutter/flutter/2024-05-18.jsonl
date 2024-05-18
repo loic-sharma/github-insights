@@ -227,7 +227,7 @@
 {"date":"2024-05-18","repository":"flutter/flutter","id":33860,"title":"[macOS] Project Catalyst support","state":"OPEN","comments":38,"participants":16,"reactions":52,"createdAt":"2019-06-04T18:03:35.000Z"}
 {"date":"2024-05-18","repository":"flutter/flutter","id":22998,"title":"[DISCUSSION] Use bundler to configure dependencies for iOS project","state":"OPEN","comments":6,"participants":9,"reactions":52,"createdAt":"2018-10-12T08:49:53.000Z"}
 {"date":"2024-05-18","repository":"flutter/flutter","id":97050,"title":"Supporting of in app purchases on Windows Store","state":"OPEN","comments":6,"participants":10,"reactions":51,"createdAt":"2022-01-22T08:51:24.000Z"}
-{"date":"2024-05-18","repository":"flutter/flutter","id":94804,"title":"Use gtk4 for linux desktop","state":"OPEN","comments":26,"participants":14,"reactions":51,"createdAt":"2021-12-07T14:01:29.000Z"}
+{"date":"2024-05-18","repository":"flutter/flutter","id":94804,"title":"Use gtk4 for linux desktop","state":"OPEN","comments":27,"participants":15,"reactions":51,"createdAt":"2021-12-07T14:01:29.000Z"}
 {"date":"2024-05-18","repository":"flutter/flutter","id":74255,"title":"☂️ Proposal: desktop context menu fidelity","state":"OPEN","comments":21,"participants":7,"reactions":51,"createdAt":"2021-01-19T19:40:29.000Z"}
 {"date":"2024-05-18","repository":"flutter/flutter","id":73786,"title":"[proposal] Allow Horizontal ListView with Vertical ListView Children Without Fixed Height","state":"OPEN","comments":14,"participants":17,"reactions":51,"createdAt":"2021-01-12T13:44:28.000Z"}
 {"date":"2024-05-18","repository":"flutter/flutter","id":70836,"title":"[proposal] Z-index in Stack widget","state":"OPEN","comments":19,"participants":13,"reactions":51,"createdAt":"2020-11-19T13:43:16.000Z"}
