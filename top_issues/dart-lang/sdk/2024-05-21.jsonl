@@ -1,8 +1,7 @@
-{"date":"2024-05-21","repository":"dart-lang/sdk","id":32894,"title":"Compile Dart to Wasm","state":"OPEN","comments":123,"participants":49,"reactions":647,"createdAt":"2018-04-15T21:30:12.000Z"}
+{"date":"2024-05-21","repository":"dart-lang/sdk","id":32894,"title":"Compile Dart to Wasm","state":"OPEN","comments":125,"participants":49,"reactions":647,"createdAt":"2018-04-15T21:30:12.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":28617,"title":"Allow AOT executables to be cross-compiled","state":"OPEN","comments":47,"participants":27,"reactions":499,"createdAt":"2017-02-02T23:14:35.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":30310,"title":"[feature request] Extract class to a new file","state":"OPEN","comments":50,"participants":26,"reactions":317,"createdAt":"2017-08-01T19:36:35.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":42947,"title":"Null safety feedback: How to use firstWhere?","state":"OPEN","comments":57,"participants":20,"reactions":183,"createdAt":"2020-06-10T21:09:13.000Z"}
-{"date":"2024-05-21","repository":"dart-lang/sdk","id":37355,"title":"Provide interop between Dart and WASM","state":"OPEN","comments":28,"participants":20,"reactions":179,"createdAt":"2019-06-25T05:01:34.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":50565,"title":"☂️ [vm/ffi] Native assets feature","state":"OPEN","comments":41,"participants":13,"reactions":130,"createdAt":"2022-11-28T10:20:30.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":54934,"title":"Support for hot reload in DDC","state":"OPEN","comments":0,"participants":1,"reactions":109,"createdAt":"2024-02-15T22:08:16.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":39965,"title":"Dart need a dart REPL now","state":"OPEN","comments":42,"participants":20,"reactions":106,"createdAt":"2019-12-27T10:14:21.000Z"}
@@ -29,7 +28,7 @@
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":10530,"title":"Dynamic module loading","state":"OPEN","comments":124,"participants":34,"reactions":46,"createdAt":"2013-05-08T13:38:05.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":47718,"title":"dart compile exe support static linking of C code","state":"OPEN","comments":11,"participants":6,"reactions":45,"createdAt":"2021-11-17T09:14:45.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":43490,"title":"Disposable","state":"OPEN","comments":17,"participants":9,"reactions":45,"createdAt":"2020-09-19T10:45:48.000Z"}
-{"date":"2024-05-21","repository":"dart-lang/sdk","id":46690,"title":"[ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM","state":"OPEN","comments":14,"participants":9,"reactions":44,"createdAt":"2021-07-22T09:17:05.000Z"}
+{"date":"2024-05-21","repository":"dart-lang/sdk","id":46690,"title":"[ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM","state":"OPEN","comments":16,"participants":9,"reactions":44,"createdAt":"2021-07-22T09:17:05.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":44626,"title":"Support relative imports for extensions on quick-fixes + auto-imports","state":"OPEN","comments":5,"participants":8,"reactions":42,"createdAt":"2021-01-09T16:17:02.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":43943,"title":"[Analyzer] Analyzer extremely slow","state":"OPEN","comments":13,"participants":15,"reactions":42,"createdAt":"2020-10-27T22:30:01.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":53779,"title":"Code optimization issues in generic binary search benchmark","state":"OPEN","comments":1,"participants":2,"reactions":41,"createdAt":"2023-10-17T13:12:05.000Z"}
@@ -880,6 +879,7 @@
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":35701,"title":"Rename \"Pass\" and \"Fail\" outcomes","state":"OPEN","comments":1,"participants":2,"reactions":1,"createdAt":"2019-01-18T18:28:16.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":35669,"title":"HTML is missing \"document.createTextNode\"","state":"OPEN","comments":6,"participants":4,"reactions":1,"createdAt":"2019-01-15T21:50:54.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":35636,"title":"Server should not propose converting to an async body with that would be invalid","state":"OPEN","comments":2,"participants":4,"reactions":1,"createdAt":"2019-01-11T17:13:55.000Z"}
+{"date":"2024-05-21","repository":"dart-lang/sdk","id":35613,"title":"Type spec lost on a class field when the imported type is overridden by another import","state":"OPEN","comments":3,"participants":3,"reactions":1,"createdAt":"2019-01-09T14:41:41.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":35591,"title":"Analyzer: Setter/method conflict not detected","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2019-01-08T10:38:43.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":35524,"title":"There's no good way to promote an argument","state":"OPEN","comments":8,"participants":5,"reactions":1,"createdAt":"2018-12-30T20:40:37.000Z"}
 {"date":"2024-05-21","repository":"dart-lang/sdk","id":35499,"title":"Proposal: add \"use\" to anonymous blocks","state":"OPEN","comments":7,"participants":6,"reactions":1,"createdAt":"2018-12-26T15:01:12.000Z"}
