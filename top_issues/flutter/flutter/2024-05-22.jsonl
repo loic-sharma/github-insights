@@ -271,7 +271,7 @@
 {"date":"2024-05-22","repository":"flutter/flutter","id":39091,"title":"[video_player] add Linux support","state":"OPEN","comments":14,"participants":15,"reactions":45,"createdAt":"2019-08-23T01:42:41.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":35083,"title":"Pure Flutter support for Native Ads Advanced","state":"OPEN","comments":6,"participants":9,"reactions":45,"createdAt":"2019-06-25T21:09:16.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":29181,"title":"Google Maps initialCameraPosition with bounding","state":"OPEN","comments":21,"participants":21,"reactions":45,"createdAt":"2019-03-11T21:37:47.000Z"}
-{"date":"2024-05-22","repository":"flutter/flutter","id":119207,"title":"Unable receive Platform Channel calls in background isolates","state":"OPEN","comments":18,"participants":15,"reactions":44,"createdAt":"2023-01-26T00:59:29.000Z"}
+{"date":"2024-05-22","repository":"flutter/flutter","id":119207,"title":"Unable receive Platform Channel calls in background isolates","state":"OPEN","comments":19,"participants":15,"reactions":44,"createdAt":"2023-01-26T00:59:29.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":66618,"title":"WebGPU in Flutter","state":"OPEN","comments":1,"participants":5,"reactions":44,"createdAt":"2020-09-25T02:52:21.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":40856,"title":"Staggered GridView in Flutter","state":"OPEN","comments":15,"participants":14,"reactions":44,"createdAt":"2019-09-19T14:59:20.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":32036,"title":"Access to flavors on pubspec.yaml to gain more granular control over my artifacts","state":"OPEN","comments":7,"participants":9,"reactions":44,"createdAt":"2019-05-03T16:32:00.000Z"}
@@ -841,7 +841,7 @@
 {"date":"2024-05-22","repository":"flutter/flutter","id":106992,"title":"Allow cross-compiling for Linux from Windows","state":"OPEN","comments":8,"participants":8,"reactions":15,"createdAt":"2022-07-02T06:32:54.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":103682,"title":"[google_sign_in] Support Windows","state":"OPEN","comments":9,"participants":7,"reactions":15,"createdAt":"2022-05-13T07:10:26.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":97701,"title":"Support maven publish for `flutter build aar`","state":"OPEN","comments":8,"participants":8,"reactions":15,"createdAt":"2022-02-03T08:47:54.000Z"}
-{"date":"2024-05-22","repository":"flutter/flutter","id":96514,"title":"[Proposal] Conditional bundling of assets","state":"OPEN","comments":11,"participants":7,"reactions":15,"createdAt":"2022-01-12T08:12:10.000Z"}
+{"date":"2024-05-22","repository":"flutter/flutter","id":96514,"title":"[Proposal] Conditional bundling of assets","state":"OPEN","comments":12,"participants":7,"reactions":15,"createdAt":"2022-01-12T08:12:10.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":95568,"title":"Crashed: com.apple.main-thread EXC_BAD_ACCESS KERN_INVALID_ADDRESS","state":"OPEN","comments":37,"participants":15,"reactions":15,"createdAt":"2021-12-20T14:56:02.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":89525,"title":"[camera] Proposal - Add support for optical image stabilization (OIS)","state":"OPEN","comments":6,"participants":10,"reactions":15,"createdAt":"2021-09-06T04:17:02.000Z"}
 {"date":"2024-05-22","repository":"flutter/flutter","id":87734,"title":"[web] Incomplete sourcemaps","state":"OPEN","comments":14,"participants":10,"reactions":15,"createdAt":"2021-08-05T14:15:54.000Z"}
