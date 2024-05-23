@@ -3,7 +3,7 @@
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":30310,"title":"[feature request] Extract class to a new file","state":"OPEN","comments":50,"participants":26,"reactions":317,"createdAt":"2017-08-01T19:36:35.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":42947,"title":"Null safety feedback: How to use firstWhere?","state":"OPEN","comments":57,"participants":20,"reactions":183,"createdAt":"2020-06-10T21:09:13.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":37355,"title":"Provide interop between Dart and WASM","state":"OPEN","comments":34,"participants":21,"reactions":179,"createdAt":"2019-06-25T05:01:34.000Z"}
-{"date":"2024-05-23","repository":"dart-lang/sdk","id":50565,"title":"☂️ [vm/ffi] Native assets feature","state":"OPEN","comments":41,"participants":13,"reactions":130,"createdAt":"2022-11-28T10:20:30.000Z"}
+{"date":"2024-05-23","repository":"dart-lang/sdk","id":50565,"title":"☂️ [vm/ffi] Native assets feature","state":"OPEN","comments":41,"participants":13,"reactions":131,"createdAt":"2022-11-28T10:20:30.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":54934,"title":"Support for hot reload in DDC","state":"OPEN","comments":0,"participants":1,"reactions":111,"createdAt":"2024-02-15T22:08:16.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":39965,"title":"Dart need a dart REPL now","state":"OPEN","comments":42,"participants":20,"reactions":106,"createdAt":"2019-12-27T10:14:21.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":49025,"title":"unused_element reports on unused parameters whose presence is idiomatic","state":"OPEN","comments":31,"participants":13,"reactions":96,"createdAt":"2022-05-12T22:34:55.000Z"}
@@ -58,7 +58,7 @@
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":26544,"title":"Add support for Passive Event Listeners","state":"OPEN","comments":15,"participants":13,"reactions":27,"createdAt":"2016-05-26T11:03:51.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":8575,"title":"Round for doubles should take the number of decimals as argument...","state":"OPEN","comments":20,"participants":12,"reactions":27,"createdAt":"2013-02-16T04:03:51.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":54003,"title":"Data assets feature","state":"OPEN","comments":6,"participants":5,"reactions":26,"createdAt":"2023-11-09T18:08:46.000Z"}
-{"date":"2024-05-23","repository":"dart-lang/sdk","id":52947,"title":"Dart LSP slow startup/first response on large codebase","state":"OPEN","comments":74,"participants":11,"reactions":26,"createdAt":"2023-07-16T06:52:14.000Z"}
+{"date":"2024-05-23","repository":"dart-lang/sdk","id":52947,"title":"Dart LSP slow startup/first response on large codebase","state":"OPEN","comments":75,"participants":11,"reactions":26,"createdAt":"2023-07-16T06:52:14.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":43352,"title":"Add support for Certificate Transparency","state":"OPEN","comments":2,"participants":5,"reactions":26,"createdAt":"2020-09-08T07:17:02.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":42855,"title":"Add possibility to truly cancel/dispose Fututre","state":"OPEN","comments":21,"participants":5,"reactions":26,"createdAt":"2020-07-27T10:49:06.000Z"}
 {"date":"2024-05-23","repository":"dart-lang/sdk","id":22306,"title":"List swap method","state":"OPEN","comments":11,"participants":12,"reactions":26,"createdAt":"2015-02-06T16:36:13.000Z"}
