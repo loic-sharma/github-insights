@@ -1,4 +1,4 @@
-{"date":"2024-05-28","repository":"flutter/flutter","id":14330,"title":"Code Push / Hot Update / out of band updates","state":"OPEN","comments":284,"participants":163,"reactions":1967,"createdAt":"2018-01-29T20:40:17.000Z"}
+{"date":"2024-05-28","repository":"flutter/flutter","id":14330,"title":"Code Push / Hot Update / out of band updates","state":"OPEN","comments":284,"participants":163,"reactions":1968,"createdAt":"2018-01-29T20:40:17.000Z"}
 {"date":"2024-05-28","repository":"flutter/flutter","id":53041,"title":"Enable \"hot reload\" (not just \"hot restart\") for Flutter Web","state":"OPEN","comments":151,"participants":73,"reactions":1054,"createdAt":"2020-03-22T09:27:31.000Z"}
 {"date":"2024-05-28","repository":"flutter/flutter","id":14050,"title":"Let flutter be installable via homebrew","state":"OPEN","comments":83,"participants":53,"reactions":1003,"createdAt":"2018-01-11T19:00:27.000Z"}
 {"date":"2024-05-28","repository":"flutter/flutter","id":46789,"title":"Improve the indexability (SEO) of Flutter apps on the web ","state":"OPEN","comments":193,"participants":83,"reactions":770,"createdAt":"2019-12-11T17:11:17.000Z"}
@@ -52,7 +52,7 @@
 {"date":"2024-05-28","repository":"flutter/flutter","id":45336,"title":"Add TextOverflow  \"ellipsisStart\" , \"ellipsisMiddle\"  and \"ellipsisEnd\" ","state":"OPEN","comments":35,"participants":31,"reactions":154,"createdAt":"2019-11-21T10:53:25.000Z"}
 {"date":"2024-05-28","repository":"flutter/flutter","id":61229,"title":"AVIF codec support","state":"OPEN","comments":22,"participants":17,"reactions":153,"createdAt":"2020-07-10T12:54:45.000Z"}
 {"date":"2024-05-28","repository":"flutter/flutter","id":56665,"title":"[video_player] Better exception message on iOS devices if the video fails to play","state":"OPEN","comments":65,"participants":61,"reactions":153,"createdAt":"2020-05-08T11:13:29.000Z"}
-{"date":"2024-05-28","repository":"flutter/flutter","id":69529,"title":"[web] Scroll is not recognized by the browser","state":"OPEN","comments":104,"participants":59,"reactions":150,"createdAt":"2020-11-01T14:49:03.000Z"}
+{"date":"2024-05-28","repository":"flutter/flutter","id":69529,"title":"[web] Scroll is not recognized by the browser","state":"OPEN","comments":104,"participants":59,"reactions":151,"createdAt":"2020-11-01T14:49:03.000Z"}
 {"date":"2024-05-28","repository":"flutter/flutter","id":33037,"title":"Support build/debug iOS on a remote Mac","state":"OPEN","comments":38,"participants":29,"reactions":150,"createdAt":"2019-05-20T11:26:53.000Z"}
 {"date":"2024-05-28","repository":"flutter/flutter","id":14288,"title":"Antialiasing behaviour when same-colour ","state":"OPEN","comments":97,"participants":68,"reactions":148,"createdAt":"2018-01-26T12:05:31.000Z"}
 {"date":"2024-05-28","repository":"flutter/flutter","id":46589,"title":" main.dart.js is too large","state":"OPEN","comments":101,"participants":54,"reactions":147,"createdAt":"2019-12-09T10:39:07.000Z"}
