@@ -58,7 +58,7 @@
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":34050,"title":"Add Stream.whereType like Iterable.whereType","state":"OPEN","comments":6,"participants":5,"reactions":27,"createdAt":"2018-08-01T10:48:35.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":26544,"title":"Add support for Passive Event Listeners","state":"OPEN","comments":15,"participants":13,"reactions":27,"createdAt":"2016-05-26T11:03:51.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":8575,"title":"Round for doubles should take the number of decimals as argument...","state":"OPEN","comments":20,"participants":12,"reactions":27,"createdAt":"2013-02-16T04:03:51.000Z"}
-{"date":"2024-05-31","repository":"dart-lang/sdk","id":54003,"title":"Data assets feature","state":"OPEN","comments":12,"participants":5,"reactions":26,"createdAt":"2023-11-09T18:08:46.000Z"}
+{"date":"2024-05-31","repository":"dart-lang/sdk","id":54003,"title":"Data assets feature","state":"OPEN","comments":15,"participants":5,"reactions":26,"createdAt":"2023-11-09T18:08:46.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":43352,"title":"Add support for Certificate Transparency","state":"OPEN","comments":3,"participants":6,"reactions":26,"createdAt":"2020-09-08T07:17:02.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":42855,"title":"Add possibility to truly cancel/dispose Fututre","state":"OPEN","comments":21,"participants":5,"reactions":26,"createdAt":"2020-07-27T10:49:06.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":22306,"title":"List swap method","state":"OPEN","comments":11,"participants":12,"reactions":26,"createdAt":"2015-02-06T16:36:13.000Z"}
@@ -706,6 +706,7 @@
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":47418,"title":"Bulk fix for `diagnostic_describe_all_properties` needs to coalesce properties in the same class","state":"OPEN","comments":2,"participants":5,"reactions":2,"createdAt":"2021-10-08T22:18:41.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":47386,"title":"[analyzer] generated java deprecation","state":"OPEN","comments":0,"participants":2,"reactions":2,"createdAt":"2021-10-06T07:34:55.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":47356,"title":"Cannot find documentation: How to use dart_api_dl.h correctly (espeically in Flutter Android and Flutter iOS)?","state":"OPEN","comments":12,"participants":7,"reactions":2,"createdAt":"2021-10-02T05:50:30.000Z"}
+{"date":"2024-05-31","repository":"dart-lang/sdk","id":47232,"title":"Apply dart fixes to require_trailing_commas","state":"OPEN","comments":4,"participants":7,"reactions":2,"createdAt":"2021-09-16T15:05:45.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":46915,"title":"[Request] Add an \"add all\" quick fix to missing_required_argument","state":"OPEN","comments":9,"participants":5,"reactions":2,"createdAt":"2021-08-15T23:21:14.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":46879,"title":"make sure that int.clamp and double.clamp are optimised in AOT","state":"OPEN","comments":2,"participants":2,"reactions":2,"createdAt":"2021-08-11T09:59:08.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":46651,"title":"dart:http www-authenticate multiple challenges syntax","state":"OPEN","comments":0,"participants":2,"reactions":2,"createdAt":"2021-07-19T13:45:49.000Z"}
@@ -929,7 +930,6 @@
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":31391,"title":"Consider making strong mode read check less eager","state":"OPEN","comments":11,"participants":6,"reactions":1,"createdAt":"2017-11-16T21:34:32.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":31355,"title":"dartanalzyer cli silently ignores unparseable analysis_options.yaml","state":"OPEN","comments":0,"participants":2,"reactions":1,"createdAt":"2017-11-10T17:44:36.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":31334,"title":"Intellij Dart Analyzer should Filter with Intellij Scopes","state":"OPEN","comments":0,"participants":3,"reactions":1,"createdAt":"2017-11-09T15:37:34.000Z"}
-{"date":"2024-05-31","repository":"dart-lang/sdk","id":31293,"title":"Analyzer promotes non-variable expression.","state":"OPEN","comments":2,"participants":5,"reactions":1,"createdAt":"2017-11-07T13:13:12.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":31238,"title":"Update imports on Paste issues","state":"OPEN","comments":3,"participants":4,"reactions":1,"createdAt":"2017-10-27T21:04:07.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":31168,"title":"Subclassing JS's error class doesn't work in dart2js","state":"OPEN","comments":1,"participants":3,"reactions":1,"createdAt":"2017-10-20T00:55:57.000Z"}
 {"date":"2024-05-31","repository":"dart-lang/sdk","id":31099,"title":"IntersectionObserver should have default constructor with callback","state":"OPEN","comments":3,"participants":6,"reactions":1,"createdAt":"2017-10-13T19:36:22.000Z"}
