@@ -106,30 +106,55 @@ ORDER BY new_reactions DESC
 ;
 ```
 
-Example results:
+Find the desktop issues with the most reactions in the last 6 weeks:
 
-| id             | title                                                                                               | delta_reactions |
-| -------------- | --------------------------------------------------------------------------------------------------- | --------------- |
-| flutter#94340  | [Feature Request] Support for Jetbrains Fleet\n                                                     |               5 |
-| flutter#126005 | ?? Add Swift Package Manager compatibility                                                          |               5 |
-| flutter#41722  | Implement PlatformView support on macOS                                                             |               4 |
-| flutter#128313 | Add support for visionOS                                                                            |               3 |
-| flutter#115912 | Support tone-based surface and surface container `ColorScheme` roles                                |               3 |
-| flutter#58997  | InteractiveViewer `constrained: false` custom default scale                                         |               2 |
-| flutter#52207  | ListView: Poor performance with many variable-extent items + jumpTo (scroll bar, trackpad, mouse .  |               2 |
-| flutter#132735 | [Impeller] Blur performance issue.                                                                  |               2 |
-| flutter#37777  | Support 32-bit Windows as a target                                                                  |               2 |
-| flutter#64491  | Colorized console output does not work in iOS builds but works for Android builds                   |               2 |
-| flutter#138614 | Preserve WillPopScope as an alternate for PopScope                                                  |               2 |
-| flutter#14330  | Code Push / Hot Update / out of band updates                                                        |               1 |
-| flutter#18443  | Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)     |               1 |
-| flutter#19941  | Return index of the first visible item in ListView                                                  |               1 |
-| flutter#32120  | Add option to smoothly animate stepped mouse scroll deltas                                          |               1 |
-| flutter#65504  | Ctrl+F support, finding text on a page (even when scrolled off screen)                              |               1 |
-| flutter#101479 | Move the material and cupertino packages outside of Flutter                                         |               1 |
-| flutter#9688   | Input validator async                                                                               |               1 |
-| flutter#76248  | [web] Emojis take a few seconds to render on canvaskit                                              |               1 |
-| flutter#69676  | Persistent bottom sheet does not respect SafeArea                                                   |               1 |
+```sql
+WITH
+  top_issues AS (
+    SELECT
+      *,
+      repository || '#' || id  AS issue_id,
+    FROM read_json(
+      'top_issues/**/*.jsonl',
+      format = 'newline_delimited',
+      columns = {
+        date: 'TIMESTAMP',
+        repository: 'VARCHAR',
+        id: 'BIGINT',
+        title: 'VARCHAR',
+        state: 'VARCHAR',
+        comments: 'BIGINT',
+        participants: 'BIGINT',
+        reactions: 'BIGINT',
+        createdAt: 'TIMESTAMP',
+        labels: 'VARCHAR[]'
+      }
+    )
+  ),
+  latest_issues AS (
+    SELECT * FROM top_issues WHERE date IN (
+      SELECT date FROM top_issues ORDER BY date DESC LIMIT 1
+    )
+  ),
+  desktop_issues AS (
+    SELECT issue_id FROM latest_issues WHERE list_contains(labels, 'team-desktop')
+  )
+SELECT
+  top_issues.issue_id,
+  any_value(title) AS title,
+  min(date) AS start,
+  max(date) AS end,
+  max(reactions) AS total_reactions,
+  max(comments) AS total_comments,
+  max(reactions) - min(reactions) AS new_reactions,
+  max(comments) - min(comments) AS new_comments,
+  'https://github.com/' || repository || '/issues/' || id AS issue_url,
+FROM top_issues
+JOIN desktop_issues ON top_issues.issue_id = desktop_issues.issue_id
+WHERE date_diff('day', "date", today()) <= 42
+GROUP BY top_issues.issue_id, repository, id
+ORDER BY new_reactions DESC;
+```
 
 ### Dashboard
 
