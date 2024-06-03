@@ -390,6 +390,7 @@
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":54315,"title":"Finalizer documentation needs improving","state":"OPEN","comments":0,"participants":2,"reactions":4,"createdAt":"2023-12-10T11:39:25.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":54012,"title":"When is a good time to test Release Candidates?","state":"OPEN","comments":10,"participants":8,"reactions":4,"createdAt":"2023-11-10T12:51:52.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":53876,"title":"Support multi-option contexts","state":"OPEN","comments":19,"participants":5,"reactions":4,"createdAt":"2023-10-26T19:46:15.000Z"}
+{"date":"2024-06-03","repository":"dart-lang/sdk","id":53486,"title":"Exhaustiveness checking says a non-subtype is unhandled.","state":"OPEN","comments":3,"participants":4,"reactions":4,"createdAt":"2023-09-11T10:52:39.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":53460,"title":"Incorrect help information provided on 'dart help doc'","state":"OPEN","comments":1,"participants":4,"reactions":4,"createdAt":"2023-09-07T18:03:51.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":53420,"title":"Add `// ignore: type=warning` similar to `// ignore: type=lint`","state":"OPEN","comments":4,"participants":4,"reactions":4,"createdAt":"2023-09-04T11:48:21.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":52953,"title":"Investigate CodeQL (code scanning) support","state":"OPEN","comments":4,"participants":4,"reactions":4,"createdAt":"2023-07-17T11:14:14.000Z"}
@@ -484,7 +485,6 @@
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":53670,"title":"Operand can't be null - wrong analyzer warnings?","state":"OPEN","comments":1,"participants":3,"reactions":3,"createdAt":"2023-10-02T13:30:38.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":53658,"title":"Poor documentation for DynamicLibrary.open()","state":"OPEN","comments":3,"participants":5,"reactions":3,"createdAt":"2023-09-29T11:13:00.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":53576,"title":"Use AOT mode in the Dart SDK binaries","state":"OPEN","comments":6,"participants":4,"reactions":3,"createdAt":"2023-09-20T15:28:11.000Z"}
-{"date":"2024-06-03","repository":"dart-lang/sdk","id":53486,"title":"Exhaustiveness checking says a non-subtype is unhandled.","state":"OPEN","comments":3,"participants":4,"reactions":3,"createdAt":"2023-09-11T10:52:39.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":53027,"title":"`buildId` support for Flutter Web","state":"OPEN","comments":5,"participants":3,"reactions":3,"createdAt":"2023-07-24T12:56:30.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":52747,"title":"Dart commands and Flutter commands are inconsistent","state":"OPEN","comments":5,"participants":4,"reactions":3,"createdAt":"2023-06-21T08:05:23.000Z"}
 {"date":"2024-06-03","repository":"dart-lang/sdk","id":52722,"title":"Monomorphization?","state":"OPEN","comments":8,"participants":3,"reactions":3,"createdAt":"2023-06-16T18:05:28.000Z"}
