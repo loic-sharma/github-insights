@@ -1,5 +1,5 @@
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":28617,"title":"Allow AOT executables to be cross-compiled","state":"OPEN","comments":47,"participants":27,"reactions":501,"createdAt":"2017-02-02T23:14:35.000Z"}
-{"date":"2024-06-06","repository":"dart-lang/sdk","id":30310,"title":"[feature request] Extract class to a new file","state":"OPEN","comments":53,"participants":27,"reactions":319,"createdAt":"2017-08-01T19:36:35.000Z"}
+{"date":"2024-06-06","repository":"dart-lang/sdk","id":30310,"title":"[feature request] Extract class to a new file","state":"OPEN","comments":55,"participants":27,"reactions":319,"createdAt":"2017-08-01T19:36:35.000Z"}
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":42947,"title":"Null safety feedback: How to use firstWhere?","state":"OPEN","comments":57,"participants":20,"reactions":183,"createdAt":"2020-06-10T21:09:13.000Z"}
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":37355,"title":"Provide interop between Dart and WASM","state":"OPEN","comments":36,"participants":23,"reactions":179,"createdAt":"2019-06-25T05:01:34.000Z"}
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":50565,"title":"☂️ [vm/ffi] Native assets feature","state":"OPEN","comments":41,"participants":13,"reactions":137,"createdAt":"2022-11-28T10:20:30.000Z"}
@@ -358,7 +358,7 @@
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":37237,"title":"TransferableTypedData class has no useful documentation","state":"OPEN","comments":3,"participants":5,"reactions":5,"createdAt":"2019-06-12T17:11:49.000Z"}
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":36828,"title":"Add SDKMAN! as an installation alternative","state":"OPEN","comments":0,"participants":2,"reactions":5,"createdAt":"2019-05-02T16:12:52.000Z"}
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":36199,"title":"[feature-request] Support Extraction to superclass","state":"OPEN","comments":4,"participants":6,"reactions":5,"createdAt":"2019-03-13T20:22:17.000Z"}
-{"date":"2024-06-06","repository":"dart-lang/sdk","id":36087,"title":"Dart File.writeAsString() method does not write to file if await is not done immediately","state":"OPEN","comments":14,"participants":7,"reactions":5,"createdAt":"2019-03-03T06:32:51.000Z"}
+{"date":"2024-06-06","repository":"dart-lang/sdk","id":36087,"title":"Dart File.writeAsString() method does not write to file if await is not done immediately","state":"OPEN","comments":15,"participants":8,"reactions":5,"createdAt":"2019-03-03T06:32:51.000Z"}
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":35718,"title":"ifdefs or equivalent","state":"OPEN","comments":7,"participants":4,"reactions":5,"createdAt":"2019-01-20T22:16:44.000Z"}
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":35639,"title":"New Dart Analysis Protocol for IntelliJ's \"Override Methods of a Superclass\" action","state":"OPEN","comments":6,"participants":7,"reactions":5,"createdAt":"2019-01-11T21:44:29.000Z"}
 {"date":"2024-06-06","repository":"dart-lang/sdk","id":34255,"title":"Provide a way to supply stdin to Process.runSync","state":"OPEN","comments":1,"participants":4,"reactions":5,"createdAt":"2018-08-24T22:15:33.000Z"}
