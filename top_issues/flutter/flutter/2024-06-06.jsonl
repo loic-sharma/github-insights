@@ -58,7 +58,7 @@
 {"date":"2024-06-06","repository":"flutter/flutter","id":9984,"title":"Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically","state":"OPEN","comments":99,"participants":68,"reactions":144,"createdAt":"2017-05-11T01:28:15.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":31191,"title":"PageView should preload pages","state":"OPEN","comments":45,"participants":30,"reactions":143,"createdAt":"2019-04-17T09:31:30.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":25841,"title":"Add a way to detect keyboard language","state":"OPEN","comments":34,"participants":33,"reactions":143,"createdAt":"2018-12-28T14:08:03.000Z"}
-{"date":"2024-06-06","repository":"flutter/flutter","id":66711,"title":"[pigeon] Support typesafe EventChannels","state":"OPEN","comments":9,"participants":12,"reactions":139,"createdAt":"2020-09-26T03:47:40.000Z"}
+{"date":"2024-06-06","repository":"flutter/flutter","id":66711,"title":"[pigeon] Support typesafe EventChannels","state":"OPEN","comments":9,"participants":12,"reactions":140,"createdAt":"2020-09-26T03:47:40.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":31134,"title":"Feature Request: Add minLines to Text (Not TextField)","state":"OPEN","comments":11,"participants":14,"reactions":137,"createdAt":"2019-04-16T16:29:16.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":42560,"title":"Support for sheet presentation style","state":"OPEN","comments":46,"participants":30,"reactions":136,"createdAt":"2019-10-12T01:20:07.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":32120,"title":"Add option to smoothly animate stepped mouse scroll deltas","state":"OPEN","comments":59,"participants":33,"reactions":135,"createdAt":"2019-05-05T15:12:20.000Z"}
@@ -255,6 +255,7 @@
 {"date":"2024-06-06","repository":"flutter/flutter","id":27801,"title":"Support wildcard/globs in `flutter: assets:` YAML","state":"OPEN","comments":6,"participants":9,"reactions":47,"createdAt":"2019-02-11T22:58:47.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":101296,"title":"[integration_test] Enable sharding of integration test suites","state":"OPEN","comments":13,"participants":11,"reactions":46,"createdAt":"2022-04-04T14:37:14.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":97542,"title":"[camera] Support image streams on Windows platform","state":"OPEN","comments":18,"participants":16,"reactions":46,"createdAt":"2022-01-31T20:21:28.000Z"}
+{"date":"2024-06-06","repository":"flutter/flutter","id":66618,"title":"WebGPU in Flutter","state":"OPEN","comments":1,"participants":5,"reactions":46,"createdAt":"2020-09-25T02:52:21.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":64073,"title":"[google_maps_flutter_web] Add \"My Location\" Widget.","state":"OPEN","comments":13,"participants":14,"reactions":46,"createdAt":"2020-08-18T18:59:12.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":57698,"title":"InteractiveViewer should support rotation","state":"OPEN","comments":16,"participants":14,"reactions":46,"createdAt":"2020-05-20T22:04:24.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":47441,"title":"Cupertino back gesture are disabled when using PageRouteBuilder","state":"OPEN","comments":7,"participants":11,"reactions":46,"createdAt":"2019-12-19T10:00:28.000Z"}
@@ -262,7 +263,6 @@
 {"date":"2024-06-06","repository":"flutter/flutter","id":124334,"title":"WebGPU Backend for Flutter Web","state":"OPEN","comments":5,"participants":6,"reactions":45,"createdAt":"2023-04-06T17:40:34.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":78247,"title":"Low Resolution in Camera Image Stream, ResolutionPreset Constructor Parameter is ignored","state":"OPEN","comments":12,"participants":12,"reactions":45,"createdAt":"2021-03-15T21:07:50.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":71098,"title":"App Clip uncompressed size is larger than 10MB","state":"OPEN","comments":42,"participants":27,"reactions":45,"createdAt":"2020-11-23T19:30:01.000Z"}
-{"date":"2024-06-06","repository":"flutter/flutter","id":66618,"title":"WebGPU in Flutter","state":"OPEN","comments":1,"participants":5,"reactions":45,"createdAt":"2020-09-25T02:52:21.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":66537,"title":"Middle Mouse Button Scrolling","state":"OPEN","comments":12,"participants":13,"reactions":45,"createdAt":"2020-09-24T08:07:24.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":62401,"title":"showDatePicker has date format issues when DatePickerEntryMode.input is selected","state":"OPEN","comments":22,"participants":17,"reactions":45,"createdAt":"2020-07-28T11:32:13.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":52258,"title":"Consider adding Performance overlay to platform-web","state":"OPEN","comments":8,"participants":12,"reactions":45,"createdAt":"2020-03-09T20:09:14.000Z"}
@@ -560,6 +560,7 @@
 {"date":"2024-06-06","repository":"flutter/flutter","id":65517,"title":"Scale flutter on linux Xorg based on Xft.dpi","state":"OPEN","comments":9,"participants":11,"reactions":23,"createdAt":"2020-09-10T04:14:12.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":59990,"title":"Navigator.popUntil shows intermediate pages during animation","state":"OPEN","comments":10,"participants":12,"reactions":23,"createdAt":"2020-06-22T15:48:29.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":52878,"title":"[google_maps_flutter] Add support for Widgets as a content within InfoWindow. ","state":"OPEN","comments":4,"participants":8,"reactions":23,"createdAt":"2020-03-19T11:53:43.000Z"}
+{"date":"2024-06-06","repository":"flutter/flutter","id":49878,"title":"Circular widget with wrap text inside","state":"OPEN","comments":0,"participants":3,"reactions":23,"createdAt":"2020-01-31T11:22:09.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":42609,"title":"Add Tap Handlers to `TableRow`","state":"OPEN","comments":6,"participants":6,"reactions":23,"createdAt":"2019-10-13T11:26:02.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":36925,"title":"[webview_flutter] Add an option to bypass SSL checks","state":"OPEN","comments":20,"participants":19,"reactions":23,"createdAt":"2019-07-25T07:38:06.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":27950,"title":"video_player Image Thumbnail","state":"OPEN","comments":17,"participants":12,"reactions":23,"createdAt":"2019-02-14T19:18:54.000Z"}
@@ -581,7 +582,6 @@
 {"date":"2024-06-06","repository":"flutter/flutter","id":67624,"title":"[iOS] Crash in debug when opening from the home screen","state":"OPEN","comments":21,"participants":15,"reactions":22,"createdAt":"2020-10-08T10:09:08.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":63696,"title":"Add new Cupertino time picker mode ","state":"OPEN","comments":4,"participants":8,"reactions":22,"createdAt":"2020-08-13T19:39:28.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":58880,"title":"Overflow issues with CupertinoContextMenu, Columns and ListViews","state":"OPEN","comments":11,"participants":13,"reactions":22,"createdAt":"2020-06-06T20:32:20.000Z"}
-{"date":"2024-06-06","repository":"flutter/flutter","id":49878,"title":"Circular widget with wrap text inside","state":"OPEN","comments":0,"participants":3,"reactions":22,"createdAt":"2020-01-31T11:22:09.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":49537,"title":"An infinite loop using PageView","state":"OPEN","comments":16,"participants":15,"reactions":22,"createdAt":"2020-01-27T12:03:33.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":48400,"title":"driver.tap based on x,y co-ordinates","state":"OPEN","comments":1,"participants":6,"reactions":22,"createdAt":"2020-01-08T10:47:56.000Z"}
 {"date":"2024-06-06","repository":"flutter/flutter","id":44120,"title":"[Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad","state":"OPEN","comments":5,"participants":9,"reactions":22,"createdAt":"2019-11-04T18:43:44.000Z"}
