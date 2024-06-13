@@ -606,7 +606,7 @@
 {"date":"2024-06-13","repository":"dart-lang/sdk","id":11178,"title":"please expose UnmodifiableListBase<E> / UnmodifiableListMixin<E> in dart:collection public API","state":"OPEN","comments":5,"participants":5,"reactions":3,"createdAt":"2013-06-10T10:43:02.000Z"}
 {"date":"2024-06-13","repository":"dart-lang/sdk","id":10003,"title":"Add .clearTime() method to DateTime","state":"OPEN","comments":7,"participants":6,"reactions":3,"createdAt":"2013-04-18T13:19:09.000Z"}
 {"date":"2024-06-13","repository":"dart-lang/sdk","id":8388,"title":"zsh/bash autocompletion for key dart binaries","state":"OPEN","comments":2,"participants":4,"reactions":3,"createdAt":"2013-02-07T02:37:01.000Z"}
-{"date":"2024-06-13","repository":"dart-lang/sdk","id":55945,"title":"`dart fix` output case inconsistency","state":"OPEN","comments":1,"participants":2,"reactions":2,"createdAt":"2024-06-05T18:41:03.000Z"}
+{"date":"2024-06-13","repository":"dart-lang/sdk","id":55945,"title":"`dart fix` output case inconsistency","state":"OPEN","comments":1,"participants":3,"reactions":2,"createdAt":"2024-06-05T18:41:03.000Z"}
 {"date":"2024-06-13","repository":"dart-lang/sdk","id":55941,"title":"avoid_init_to_null fix of late initialize causes runtime errors","state":"OPEN","comments":1,"participants":3,"reactions":2,"createdAt":"2024-06-05T16:31:04.000Z"}
 {"date":"2024-06-13","repository":"dart-lang/sdk","id":55913,"title":"Improve String handling in Dart for native platforms","state":"OPEN","comments":1,"participants":5,"reactions":2,"createdAt":"2024-06-03T17:09:59.000Z"}
 {"date":"2024-06-13","repository":"dart-lang/sdk","id":55896,"title":"Path and FileSystemEntity in Dart","state":"OPEN","comments":7,"participants":4,"reactions":2,"createdAt":"2024-06-01T00:38:44.000Z"}
