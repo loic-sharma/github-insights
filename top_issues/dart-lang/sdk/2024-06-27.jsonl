@@ -225,6 +225,7 @@
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":34778,"title":"FR: Adding methods to classes without subclassing","state":"OPEN","comments":3,"participants":4,"reactions":8,"createdAt":"2018-10-12T18:12:48.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":32959,"title":"Improve API docs for List.of, List.from","state":"OPEN","comments":3,"participants":4,"reactions":8,"createdAt":"2018-04-24T15:45:59.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":32558,"title":"void is inconsistent about whether non-void values can be assigned to it","state":"OPEN","comments":21,"participants":6,"reactions":8,"createdAt":"2018-03-16T17:23:56.000Z"}
+{"date":"2024-06-27","repository":"dart-lang/sdk","id":55760,"title":"pkg:json - Support for enums","state":"OPEN","comments":2,"participants":4,"reactions":7,"createdAt":"2024-05-17T13:37:20.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":54509,"title":"Desupport Windows 7 & 8","state":"OPEN","comments":9,"participants":7,"reactions":7,"createdAt":"2024-01-03T18:02:38.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":51719,"title":"Provide access to the return value of the last executed function when stepping out/over","state":"OPEN","comments":2,"participants":4,"reactions":7,"createdAt":"2023-03-13T14:51:12.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":51596,"title":"Speed up JSON parsing with simdjson?","state":"OPEN","comments":1,"participants":4,"reactions":7,"createdAt":"2023-03-02T00:17:26.000Z"}
@@ -314,7 +315,6 @@
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":22470,"title":"Add support for killing a process group","state":"OPEN","comments":7,"participants":7,"reactions":6,"createdAt":"2015-02-18T07:42:47.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":18593,"title":"Specify which objects can be transmitted through sendports.","state":"OPEN","comments":6,"participants":4,"reactions":6,"createdAt":"2014-05-01T21:49:52.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":7616,"title":"Allow extra parentheses in cascade invocation to limit its reach.","state":"OPEN","comments":3,"participants":4,"reactions":6,"createdAt":"2012-12-27T14:30:04.000Z"}
-{"date":"2024-06-27","repository":"dart-lang/sdk","id":55760,"title":"pkg:json - Support for enums","state":"OPEN","comments":2,"participants":4,"reactions":5,"createdAt":"2024-05-17T13:37:20.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55602,"title":"Infer generics when doing pattern matching","state":"OPEN","comments":8,"participants":7,"reactions":5,"createdAt":"2023-10-02T15:27:21.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55117,"title":"Introduce `dart doctor`","state":"OPEN","comments":0,"participants":2,"reactions":5,"createdAt":"2024-03-06T10:01:45.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":53986,"title":"Contributing to the SDK's sdk/lib folder is difficult because of large numbers of analysis errors","state":"OPEN","comments":5,"participants":6,"reactions":5,"createdAt":"2023-11-08T12:24:03.000Z"}
@@ -383,6 +383,7 @@
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55978,"title":"Issues with Socket and SecureSocket error handling and documentation","state":"OPEN","comments":2,"participants":3,"reactions":4,"createdAt":"2024-06-11T08:06:51.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55913,"title":"Improve String handling in Dart for native platforms","state":"OPEN","comments":1,"participants":5,"reactions":4,"createdAt":"2024-06-03T17:09:59.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55882,"title":"Analyzer and compiler should call out when a getter doesn't exist but a setter does","state":"OPEN","comments":0,"participants":4,"reactions":4,"createdAt":"2024-05-30T22:54:17.000Z"}
+{"date":"2024-06-27","repository":"dart-lang/sdk","id":55761,"title":"pkg:json - Support for dynamic values","state":"OPEN","comments":0,"participants":2,"reactions":4,"createdAt":"2024-05-17T13:43:29.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55651,"title":"Code completion suggestions are irrelevant / context unaware","state":"OPEN","comments":2,"participants":3,"reactions":4,"createdAt":"2024-05-06T20:14:32.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":54852,"title":"Deprecate `Point`, `Rectangle`, and `MutableRectangle` in `dart:math`","state":"OPEN","comments":0,"participants":1,"reactions":4,"createdAt":"2024-02-07T22:40:39.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":54829,"title":"New annotation request: `@IntentToAddClassModifier.kFinal` (and others)","state":"OPEN","comments":23,"participants":8,"reactions":4,"createdAt":"2024-02-05T19:32:41.000Z"}
@@ -616,7 +617,6 @@
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55941,"title":"avoid_init_to_null fix of late initialize causes runtime errors","state":"OPEN","comments":1,"participants":3,"reactions":2,"createdAt":"2024-06-05T16:31:04.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55896,"title":"Path and FileSystemEntity in Dart","state":"OPEN","comments":7,"participants":4,"reactions":2,"createdAt":"2024-06-01T00:38:44.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55836,"title":"[breaking change] Add `Random.fillBytes` method.","state":"OPEN","comments":6,"participants":7,"reactions":2,"createdAt":"2024-05-24T16:16:31.000Z"}
-{"date":"2024-06-27","repository":"dart-lang/sdk","id":55761,"title":"pkg:json - Support for dynamic values","state":"OPEN","comments":0,"participants":2,"reactions":2,"createdAt":"2024-05-17T13:43:29.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55744,"title":"Make it easier to run dart compiled to wasm in node.js","state":"OPEN","comments":7,"participants":5,"reactions":2,"createdAt":"2024-05-16T14:01:00.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55458,"title":"[dartdoc] Generics don't resolve in the analyzer.","state":"OPEN","comments":1,"participants":3,"reactions":2,"createdAt":"2024-04-12T18:04:06.000Z"}
 {"date":"2024-06-27","repository":"dart-lang/sdk","id":55414,"title":"Add a warning similar to `UNUSED_IMPORT` for doc imports that are unused.","state":"OPEN","comments":2,"participants":5,"reactions":2,"createdAt":"2024-04-09T18:25:59.000Z"}
