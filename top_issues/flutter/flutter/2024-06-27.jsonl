@@ -1,4 +1,4 @@
-{"date":"2024-06-27","repository":"flutter/flutter","id":14330,"title":"Code Push / Hot Update / out of band updates","state":"OPEN","comments":284,"participants":163,"reactions":1981,"createdAt":"2018-01-29T20:40:17.000Z"}
+{"date":"2024-06-27","repository":"flutter/flutter","id":14330,"title":"Code Push / Hot Update / out of band updates","state":"OPEN","comments":284,"participants":163,"reactions":1982,"createdAt":"2018-01-29T20:40:17.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":53041,"title":"Enable \"hot reload\" (not just \"hot restart\") for Flutter Web","state":"OPEN","comments":151,"participants":73,"reactions":1080,"createdAt":"2020-03-22T09:27:31.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":14050,"title":"Let flutter be installable via homebrew","state":"OPEN","comments":83,"participants":53,"reactions":1004,"createdAt":"2018-01-11T19:00:27.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":46789,"title":"Improve the indexability (SEO) of Flutter apps on the web ","state":"OPEN","comments":194,"participants":84,"reactions":776,"createdAt":"2019-12-11T17:11:17.000Z"}
@@ -7,7 +7,7 @@
 {"date":"2024-06-27","repository":"flutter/flutter","id":30701,"title":"Support multiple windows for desktop shells","state":"OPEN","comments":132,"participants":79,"reactions":613,"createdAt":"2019-04-08T16:33:22.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":26801,"title":"Apple CarPlay / Android Auto support?","state":"OPEN","comments":52,"participants":42,"reactions":496,"createdAt":"2019-01-19T09:29:46.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":94340,"title":"[Feature Request] Support for Jetbrains Fleet\n","state":"OPEN","comments":19,"participants":5,"reactions":435,"createdAt":"2021-11-29T13:02:17.000Z"}
-{"date":"2024-06-27","repository":"flutter/flutter","id":24213,"title":"[google_maps_flutter] Support Widgets as markers","state":"OPEN","comments":52,"participants":40,"reactions":428,"createdAt":"2018-11-10T16:08:29.000Z"}
+{"date":"2024-06-27","repository":"flutter/flutter","id":24213,"title":"[google_maps_flutter] Support Widgets as markers","state":"OPEN","comments":52,"participants":40,"reactions":429,"createdAt":"2018-11-10T16:08:29.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":71400,"title":"Customizable project structure (platforms)","state":"OPEN","comments":21,"participants":19,"reactions":408,"createdAt":"2020-11-30T11:45:57.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":31713,"title":"Implement PlatformView support on Windows","state":"OPEN","comments":34,"participants":24,"reactions":383,"createdAt":"2019-04-27T01:02:04.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":41725,"title":"[webview_flutter] Add macOS support","state":"OPEN","comments":54,"participants":30,"reactions":373,"createdAt":"2019-10-01T17:59:17.000Z"}
@@ -259,6 +259,7 @@
 {"date":"2024-06-27","repository":"flutter/flutter","id":66618,"title":"WebGPU in Flutter","state":"OPEN","comments":1,"participants":5,"reactions":46,"createdAt":"2020-09-25T02:52:21.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":57698,"title":"InteractiveViewer should support rotation","state":"OPEN","comments":16,"participants":14,"reactions":46,"createdAt":"2020-05-20T22:04:24.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":47441,"title":"Cupertino back gesture are disabled when using PageRouteBuilder","state":"OPEN","comments":7,"participants":11,"reactions":46,"createdAt":"2019-12-19T10:00:28.000Z"}
+{"date":"2024-06-27","repository":"flutter/flutter","id":43595,"title":"[webview_flutter] Add option to allow mixed-mode content (http in https page)","state":"OPEN","comments":8,"participants":15,"reactions":46,"createdAt":"2019-10-27T14:39:27.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":37510,"title":"Provide a disableSwipe to PageView","state":"OPEN","comments":22,"participants":16,"reactions":46,"createdAt":"2019-08-02T20:20:38.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":29181,"title":"Google Maps initialCameraPosition with bounding","state":"OPEN","comments":21,"participants":21,"reactions":46,"createdAt":"2019-03-11T21:37:47.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":8230,"title":"Platform specific assets","state":"OPEN","comments":8,"participants":10,"reactions":46,"createdAt":"2017-02-17T00:58:27.000Z"}
@@ -266,7 +267,6 @@
 {"date":"2024-06-27","repository":"flutter/flutter","id":65331,"title":"the wrap widget add a property “maxline” to limit the lines of the widget","state":"OPEN","comments":6,"participants":8,"reactions":45,"createdAt":"2020-09-07T08:38:34.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":62401,"title":"showDatePicker has date format issues when DatePickerEntryMode.input is selected","state":"OPEN","comments":22,"participants":17,"reactions":45,"createdAt":"2020-07-28T11:32:13.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":52258,"title":"Consider adding Performance overlay to platform-web","state":"OPEN","comments":8,"participants":12,"reactions":45,"createdAt":"2020-03-09T20:09:14.000Z"}
-{"date":"2024-06-27","repository":"flutter/flutter","id":43595,"title":"[webview_flutter] Add option to allow mixed-mode content (http in https page)","state":"OPEN","comments":8,"participants":15,"reactions":45,"createdAt":"2019-10-27T14:39:27.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":39091,"title":"[video_player] add Linux support","state":"OPEN","comments":15,"participants":17,"reactions":45,"createdAt":"2019-08-23T01:42:41.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":35083,"title":"Pure Flutter support for Native Ads Advanced","state":"OPEN","comments":6,"participants":9,"reactions":45,"createdAt":"2019-06-25T21:09:16.000Z"}
 {"date":"2024-06-27","repository":"flutter/flutter","id":32036,"title":"Access to flavors on pubspec.yaml to gain more granular control over my artifacts","state":"OPEN","comments":7,"participants":9,"reactions":45,"createdAt":"2019-05-03T16:32:00.000Z"}
