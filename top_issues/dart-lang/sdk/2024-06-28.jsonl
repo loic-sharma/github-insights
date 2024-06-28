@@ -2,7 +2,7 @@
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":30310,"title":"[feature request] Extract class to a new file","state":"OPEN","comments":57,"participants":27,"reactions":319,"createdAt":"2017-08-01T19:36:35.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":42947,"title":"Null safety feedback: How to use firstWhere?","state":"OPEN","comments":57,"participants":20,"reactions":183,"createdAt":"2020-06-10T21:09:13.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":37355,"title":"Provide interop between Dart and WASM","state":"OPEN","comments":45,"participants":25,"reactions":181,"createdAt":"2019-06-25T05:01:34.000Z"}
-{"date":"2024-06-28","repository":"dart-lang/sdk","id":50565,"title":"☂️ [vm/ffi] Native assets feature","state":"OPEN","comments":41,"participants":13,"reactions":139,"createdAt":"2022-11-28T10:20:30.000Z"}
+{"date":"2024-06-28","repository":"dart-lang/sdk","id":50565,"title":"☂️ [vm/ffi] Native assets feature","state":"OPEN","comments":41,"participants":13,"reactions":140,"createdAt":"2022-11-28T10:20:30.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":54934,"title":"Support for hot reload in DDC","state":"OPEN","comments":0,"participants":1,"reactions":120,"createdAt":"2024-02-15T22:08:16.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":39965,"title":"Dart need a dart REPL now","state":"OPEN","comments":42,"participants":20,"reactions":107,"createdAt":"2019-12-27T10:14:21.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":49025,"title":"unused_element reports on unused parameters whose presence is idiomatic","state":"OPEN","comments":31,"participants":13,"reactions":96,"createdAt":"2022-05-12T22:34:55.000Z"}
@@ -67,7 +67,7 @@
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":38407,"title":"`dart analyze` does not know when analyzer plugin results are complete","state":"OPEN","comments":24,"participants":8,"reactions":22,"createdAt":"2019-09-16T08:20:58.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":33764,"title":"Dart should allow arbitrary network I/O","state":"OPEN","comments":13,"participants":11,"reactions":22,"createdAt":"2018-07-05T23:44:49.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":32803,"title":"Support conversion between BigInt and binary representation","state":"OPEN","comments":24,"participants":10,"reactions":22,"createdAt":"2018-04-06T10:01:59.000Z"}
-{"date":"2024-06-28","repository":"dart-lang/sdk","id":27613,"title":"(Dart.next) RegExp should support a `const` constructor","state":"OPEN","comments":18,"participants":11,"reactions":22,"createdAt":"2016-10-18T23:51:05.000Z"}
+{"date":"2024-06-28","repository":"dart-lang/sdk","id":27613,"title":"(Dart.next) RegExp should support a `const` constructor","state":"OPEN","comments":19,"participants":12,"reactions":22,"createdAt":"2016-10-18T23:51:05.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":49470,"title":"Provide a way to encode Strings to an existing buffer","state":"OPEN","comments":12,"participants":8,"reactions":21,"createdAt":"2022-07-18T14:08:56.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":46196,"title":"Support creating files and sockets from file descriptors","state":"OPEN","comments":10,"participants":7,"reactions":21,"createdAt":"2021-05-31T21:53:02.000Z"}
 {"date":"2024-06-28","repository":"dart-lang/sdk","id":44875,"title":"It's very troublesome to import extension method.","state":"OPEN","comments":2,"participants":4,"reactions":21,"createdAt":"2021-02-06T05:47:39.000Z"}
