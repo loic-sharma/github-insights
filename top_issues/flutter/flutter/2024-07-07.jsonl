@@ -277,7 +277,7 @@
 {"date":"2024-07-07","repository":"flutter/flutter","id":135050,"title":"Add `context.dependOnListenable(Listenable listenable)`","state":"OPEN","comments":11,"participants":8,"reactions":44,"createdAt":"2023-09-19T19:02:20.000Z"}
 {"date":"2024-07-07","repository":"flutter/flutter","id":119536,"title":"[Engine][3.7] Emojis are not properly rendered","state":"OPEN","comments":63,"participants":33,"reactions":44,"createdAt":"2023-01-30T18:02:42.000Z"}
 {"date":"2024-07-07","repository":"flutter/flutter","id":114012,"title":"Camera CameraCaptureSession.close() crash","state":"OPEN","comments":62,"participants":42,"reactions":44,"createdAt":"2022-10-25T12:50:37.000Z"}
-{"date":"2024-07-07","repository":"flutter/flutter","id":99105,"title":"[go_router] Support deferred libraries","state":"OPEN","comments":15,"participants":18,"reactions":44,"createdAt":"2022-02-24T23:50:18.000Z"}
+{"date":"2024-07-07","repository":"flutter/flutter","id":99105,"title":"[go_router] Support deferred libraries","state":"OPEN","comments":16,"participants":19,"reactions":44,"createdAt":"2022-02-24T23:50:18.000Z"}
 {"date":"2024-07-07","repository":"flutter/flutter","id":71098,"title":"App Clip uncompressed size is larger than 10MB","state":"OPEN","comments":42,"participants":27,"reactions":44,"createdAt":"2020-11-23T19:30:01.000Z"}
 {"date":"2024-07-07","repository":"flutter/flutter","id":50890,"title":"How to remove 'I/flutter (13135):' in vscode debug console","state":"OPEN","comments":15,"participants":17,"reactions":44,"createdAt":"2020-02-16T14:43:40.000Z"}
 {"date":"2024-07-07","repository":"flutter/flutter","id":40856,"title":"Staggered GridView in Flutter","state":"OPEN","comments":15,"participants":14,"reactions":44,"createdAt":"2019-09-19T14:59:20.000Z"}
