@@ -1,4 +1,4 @@
-{"date":"2024-07-09","repository":"dart-lang/sdk","id":28617,"title":"Allow AOT executables to be cross-compiled","state":"OPEN","comments":47,"participants":27,"reactions":502,"createdAt":"2017-02-02T23:14:35.000Z"}
+{"date":"2024-07-09","repository":"dart-lang/sdk","id":28617,"title":"Allow AOT executables to be cross-compiled","state":"OPEN","comments":47,"participants":27,"reactions":503,"createdAt":"2017-02-02T23:14:35.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":30310,"title":"[feature request] Extract class to a new file","state":"OPEN","comments":57,"participants":27,"reactions":319,"createdAt":"2017-08-01T19:36:35.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":42947,"title":"Null safety feedback: How to use firstWhere?","state":"OPEN","comments":57,"participants":20,"reactions":184,"createdAt":"2020-06-10T21:09:13.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":37355,"title":"Provide interop between Dart and WASM","state":"OPEN","comments":45,"participants":25,"reactions":182,"createdAt":"2019-06-25T05:01:34.000Z"}
@@ -26,9 +26,9 @@
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":43329,"title":"Add Timer.pause(), Timer.resume() and Timer.restart()","state":"OPEN","comments":16,"participants":5,"reactions":50,"createdAt":"2020-09-04T03:55:22.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":46690,"title":"[ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM","state":"OPEN","comments":17,"participants":9,"reactions":48,"createdAt":"2021-07-22T09:17:05.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":31969,"title":"Enable tree shaking of platform-specific code in AOT mode.","state":"OPEN","comments":9,"participants":4,"reactions":48,"createdAt":"2018-01-23T17:26:55.000Z"}
+{"date":"2024-07-09","repository":"dart-lang/sdk","id":47718,"title":"dart compile exe support static linking of C code","state":"OPEN","comments":11,"participants":6,"reactions":47,"createdAt":"2021-11-17T09:14:45.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":43490,"title":"Disposable","state":"OPEN","comments":18,"participants":10,"reactions":47,"createdAt":"2020-09-19T10:45:48.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":53884,"title":"[dart2wasm] Support non-JS wasm runtimes","state":"OPEN","comments":12,"participants":12,"reactions":46,"createdAt":"2023-10-27T16:48:20.000Z"}
-{"date":"2024-07-09","repository":"dart-lang/sdk","id":47718,"title":"dart compile exe support static linking of C code","state":"OPEN","comments":11,"participants":6,"reactions":46,"createdAt":"2021-11-17T09:14:45.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":10530,"title":"Dynamic module loading","state":"OPEN","comments":124,"participants":34,"reactions":46,"createdAt":"2013-05-08T13:38:05.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":43943,"title":"[Analyzer] Analyzer extremely slow","state":"OPEN","comments":13,"participants":15,"reactions":43,"createdAt":"2020-10-27T22:30:01.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":53779,"title":"Code optimization issues in generic binary search benchmark","state":"OPEN","comments":1,"participants":2,"reactions":41,"createdAt":"2023-10-17T13:12:05.000Z"}
@@ -140,6 +140,7 @@
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":45307,"title":"Add --no-pub flag","state":"OPEN","comments":4,"participants":4,"reactions":12,"createdAt":"2021-03-14T00:03:59.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":45092,"title":"dart2js: target modern browsers and use modern JS","state":"OPEN","comments":6,"participants":3,"reactions":12,"createdAt":"2021-02-23T19:12:16.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":43378,"title":"Datagram Transport Layer Security (DTLS) implementation","state":"OPEN","comments":4,"participants":5,"reactions":12,"createdAt":"2020-09-10T09:22:20.000Z"}
+{"date":"2024-07-09","repository":"dart-lang/sdk","id":42816,"title":"[ffi] Add support for abi-specific structs","state":"OPEN","comments":2,"participants":4,"reactions":12,"createdAt":"2020-07-23T15:19:24.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":42250,"title":"Binding to multicast socket fails in iOS >= 11.0","state":"OPEN","comments":27,"participants":13,"reactions":12,"createdAt":"2020-06-09T23:07:02.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":40303,"title":"Directory.list() should allow skipping hidden files","state":"OPEN","comments":11,"participants":9,"reactions":12,"createdAt":"2020-01-24T01:03:34.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":37247,"title":"Type inference from parameter type","state":"OPEN","comments":2,"participants":3,"reactions":12,"createdAt":"2019-06-13T06:41:08.000Z"}
@@ -151,7 +152,6 @@
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":9468,"title":"Constructor inheritance","state":"OPEN","comments":12,"participants":9,"reactions":12,"createdAt":"2013-03-27T20:41:30.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":6524,"title":"Add nextIntRange to Random","state":"OPEN","comments":8,"participants":8,"reactions":12,"createdAt":"2012-11-05T00:36:22.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":55832,"title":"☂️ [vm/ffi] Multi language debugging","state":"OPEN","comments":1,"participants":2,"reactions":11,"createdAt":"2024-05-24T08:48:03.000Z"}
-{"date":"2024-07-09","repository":"dart-lang/sdk","id":42816,"title":"[ffi] Add support for abi-specific structs","state":"OPEN","comments":2,"participants":4,"reactions":11,"createdAt":"2020-07-23T15:19:24.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":42710,"title":"Exception when attempting to compute the file changes for the file move: Server error: The `edit.getRefactoring` request was cancelled.\"","state":"OPEN","comments":44,"participants":28,"reactions":11,"createdAt":"2020-07-15T20:18:45.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":42530,"title":"\"dart pub global activate\" causes to \"pub: command not found\"","state":"OPEN","comments":20,"participants":10,"reactions":11,"createdAt":"2020-06-30T13:47:27.000Z"}
 {"date":"2024-07-09","repository":"dart-lang/sdk","id":42177,"title":"Dart-defines should generate a warning when not const","state":"OPEN","comments":8,"participants":6,"reactions":11,"createdAt":"2020-06-03T19:09:06.000Z"}
