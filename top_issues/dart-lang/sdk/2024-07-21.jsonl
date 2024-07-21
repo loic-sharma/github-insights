@@ -274,7 +274,7 @@
 {"date":"2024-07-21","repository":"dart-lang/sdk","id":24168,"title":"dart2js: improve deobfuscation of minified stack traces","state":"OPEN","comments":6,"participants":6,"reactions":7,"createdAt":"2015-08-21T18:06:22.000Z"}
 {"date":"2024-07-21","repository":"dart-lang/sdk","id":22755,"title":"Add DNS Client to dart:io","state":"OPEN","comments":14,"participants":9,"reactions":7,"createdAt":"2015-03-10T14:29:39.000Z"}
 {"date":"2024-07-21","repository":"dart-lang/sdk","id":5627,"title":"Provide a Date manipulation library","state":"OPEN","comments":6,"participants":6,"reactions":7,"createdAt":"2012-10-03T15:41:46.000Z"}
-{"date":"2024-07-21","repository":"dart-lang/sdk","id":56017,"title":"\"Static\" \"version\" in dart","state":"OPEN","comments":2,"participants":3,"reactions":6,"createdAt":"2024-06-15T07:47:40.000Z"}
+{"date":"2024-07-21","repository":"dart-lang/sdk","id":56017,"title":"\"Static\" \"version\" in dart","state":"OPEN","comments":3,"participants":4,"reactions":6,"createdAt":"2024-06-15T07:47:40.000Z"}
 {"date":"2024-07-21","repository":"dart-lang/sdk","id":55932,"title":"Ctrl + Click on @override should take you to the method being overriden","state":"OPEN","comments":8,"participants":6,"reactions":6,"createdAt":"2024-06-04T19:04:03.000Z"}
 {"date":"2024-07-21","repository":"dart-lang/sdk","id":55364,"title":"[dart2wasm] Multi isolate support","state":"OPEN","comments":3,"participants":3,"reactions":6,"createdAt":"2024-04-03T12:50:12.000Z"}
 {"date":"2024-07-21","repository":"dart-lang/sdk","id":55356,"title":"Implement Isloate.spawnSync","state":"OPEN","comments":13,"participants":5,"reactions":6,"createdAt":"2024-04-02T23:17:21.000Z"}
