@@ -119,7 +119,7 @@
 {"date":"2024-07-31","repository":"flutter/flutter","id":102560,"title":"Support Material Symbols ","state":"OPEN","comments":28,"participants":3,"reactions":89,"createdAt":"2022-04-26T08:05:06.000Z"}
 {"date":"2024-07-31","repository":"flutter/flutter","id":32045,"title":"Flutter clipboard should support images","state":"OPEN","comments":22,"participants":24,"reactions":89,"createdAt":"2019-05-03T18:58:35.000Z"}
 {"date":"2024-07-31","repository":"flutter/flutter","id":86295,"title":"[integration_test] Allow driving native UI interactions from Dart","state":"OPEN","comments":24,"participants":21,"reactions":88,"createdAt":"2021-07-12T13:35:34.000Z"}
-{"date":"2024-07-31","repository":"flutter/flutter","id":55378,"title":"add spacing parameter to Column and Row","state":"OPEN","comments":88,"participants":22,"reactions":87,"createdAt":"2020-04-22T15:30:56.000Z"}
+{"date":"2024-07-31","repository":"flutter/flutter","id":55378,"title":"add spacing parameter to Column and Row","state":"OPEN","comments":88,"participants":22,"reactions":88,"createdAt":"2020-04-22T15:30:56.000Z"}
 {"date":"2024-07-31","repository":"flutter/flutter","id":51928,"title":"[camera] Support for multiple cameras at once","state":"OPEN","comments":10,"participants":13,"reactions":87,"createdAt":"2020-03-04T11:54:10.000Z"}
 {"date":"2024-07-31","repository":"flutter/flutter","id":50763,"title":"Allow Hero to define it's Overlay level","state":"OPEN","comments":10,"participants":11,"reactions":87,"createdAt":"2020-02-13T22:26:10.000Z"}
 {"date":"2024-07-31","repository":"flutter/flutter","id":139292,"title":"New DOM renderer for Flutter web","state":"OPEN","comments":27,"participants":11,"reactions":85,"createdAt":"2023-11-30T10:42:48.000Z"}
