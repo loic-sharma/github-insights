@@ -185,6 +185,7 @@
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":30242,"title":"JSON over HTTP","state":"OPEN","comments":3,"participants":5,"reactions":10,"createdAt":"2017-07-24T00:12:14.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":27825,"title":"Support for long paths on Windows","state":"OPEN","comments":8,"participants":7,"reactions":10,"createdAt":"2016-11-15T16:51:04.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":3174,"title":"Server-side unicode support (normalization, removing accents)","state":"OPEN","comments":7,"participants":10,"reactions":10,"createdAt":"2012-05-22T18:20:47.000Z"}
+{"date":"2024-07-31","repository":"dart-lang/sdk","id":56358,"title":"@depreacte dart:html and other \"legacy\" DOM libraries","state":"OPEN","comments":1,"participants":2,"reactions":9,"createdAt":"2024-07-31T20:42:23.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":55760,"title":"pkg:json - Support for enums","state":"OPEN","comments":2,"participants":4,"reactions":9,"createdAt":"2024-05-17T13:37:20.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":53902,"title":"DWARF stack traces and deferred units","state":"OPEN","comments":5,"participants":4,"reactions":9,"createdAt":"2023-10-30T09:58:46.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":53662,"title":"SIMD is broken (Int32x4 and Float32x4)","state":"OPEN","comments":6,"participants":4,"reactions":9,"createdAt":"2023-09-30T07:42:10.000Z"}
@@ -279,7 +280,6 @@
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":24168,"title":"dart2js: improve deobfuscation of minified stack traces","state":"OPEN","comments":6,"participants":6,"reactions":7,"createdAt":"2015-08-21T18:06:22.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":22755,"title":"Add DNS Client to dart:io","state":"OPEN","comments":14,"participants":9,"reactions":7,"createdAt":"2015-03-10T14:29:39.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":5627,"title":"Provide a Date manipulation library","state":"OPEN","comments":6,"participants":6,"reactions":7,"createdAt":"2012-10-03T15:41:46.000Z"}
-{"date":"2024-07-31","repository":"dart-lang/sdk","id":56358,"title":"@depreacte dart:html and other \"legacy\" DOM libraries","state":"OPEN","comments":0,"participants":1,"reactions":6,"createdAt":"2024-07-31T20:42:23.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":55932,"title":"Ctrl + Click on @override should take you to the method being overriden","state":"OPEN","comments":8,"participants":6,"reactions":6,"createdAt":"2024-06-04T19:04:03.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":55356,"title":"Implement Isloate.spawnSync","state":"OPEN","comments":13,"participants":5,"reactions":6,"createdAt":"2024-04-02T23:17:21.000Z"}
 {"date":"2024-07-31","repository":"dart-lang/sdk","id":54785,"title":"Manage the `dart.` namespace of the compilation environment.","state":"OPEN","comments":1,"participants":2,"reactions":6,"createdAt":"2024-01-31T17:23:55.000Z"}
