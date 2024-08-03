@@ -189,6 +189,7 @@
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":55760,"title":"pkg:json - Support for enums","state":"OPEN","comments":2,"participants":4,"reactions":9,"createdAt":"2024-05-17T13:37:20.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":53902,"title":"DWARF stack traces and deferred units","state":"OPEN","comments":5,"participants":4,"reactions":9,"createdAt":"2023-10-30T09:58:46.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":53662,"title":"SIMD is broken (Int32x4 and Float32x4)","state":"OPEN","comments":6,"participants":4,"reactions":9,"createdAt":"2023-09-30T07:42:10.000Z"}
+{"date":"2024-08-03","repository":"dart-lang/sdk","id":52684,"title":"Implement Extension Type Feature","state":"OPEN","comments":3,"participants":4,"reactions":9,"createdAt":"2023-06-12T18:25:01.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":52577,"title":"Lightweight communication of typed data between long-lived isolates","state":"OPEN","comments":7,"participants":4,"reactions":9,"createdAt":"2023-05-31T00:16:42.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":51253,"title":"Suggestion: mustCallSuperFirst and mustCallSuperLast annotations in meta","state":"OPEN","comments":2,"participants":5,"reactions":9,"createdAt":"2023-02-05T07:22:54.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":48876,"title":"Kill the analysis server if it uses more memory than allowed by analysis_options.yaml","state":"OPEN","comments":1,"participants":4,"reactions":9,"createdAt":"2022-04-22T23:20:32.000Z"}
@@ -894,7 +895,6 @@
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":36027,"title":"Allow adding method arguments to superclass without breaking subclass","state":"OPEN","comments":9,"participants":5,"reactions":1,"createdAt":"2019-02-26T01:12:46.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":35963,"title":"dart2js crash: type error when disabling type inference","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2019-02-16T00:07:57.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":35253,"title":"HTML camera bindings need to be updated for firefox","state":"OPEN","comments":16,"participants":9,"reactions":1,"createdAt":"2018-11-25T20:04:58.000Z"}
-{"date":"2024-08-03","repository":"dart-lang/sdk","id":35186,"title":"Hint if a function does not match an expected signature (typedef)","state":"OPEN","comments":5,"participants":4,"reactions":1,"createdAt":"2018-11-15T21:17:01.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":35168,"title":"Lints not showing in pubspec files.","state":"OPEN","comments":5,"participants":5,"reactions":1,"createdAt":"2018-11-14T14:06:07.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":35017,"title":"dart2js: Improve 'x is int' tests when x is declared as int","state":"OPEN","comments":0,"participants":2,"reactions":1,"createdAt":"2018-11-01T14:42:31.000Z"}
 {"date":"2024-08-03","repository":"dart-lang/sdk","id":35014,"title":"No error in VM for invalid override","state":"OPEN","comments":2,"participants":3,"reactions":1,"createdAt":"2018-11-01T06:46:58.000Z"}
