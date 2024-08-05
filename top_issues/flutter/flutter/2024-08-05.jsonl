@@ -103,7 +103,6 @@
 {"date":"2024-08-05","repository":"flutter/flutter","id":127409,"title":"add restartApp() method","state":"OPEN","comments":20,"participants":12,"reactions":96,"createdAt":"2023-05-23T17:15:36.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":105672,"title":"[Proposal] Access l18n Translations with Dynamic Keys","state":"OPEN","comments":17,"participants":6,"reactions":96,"createdAt":"2022-06-09T05:59:24.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":2057,"title":"Support making Android Wear apps","state":"OPEN","comments":20,"participants":20,"reactions":96,"createdAt":"2016-02-20T17:01:11.000Z"}
-{"date":"2024-08-05","repository":"flutter/flutter","id":55378,"title":"add spacing parameter to Column and Row","state":"OPEN","comments":90,"participants":23,"reactions":95,"createdAt":"2020-04-22T15:30:56.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":18636,"title":"ShadowBox inset attribute? Inner shadow","state":"OPEN","comments":52,"participants":37,"reactions":95,"createdAt":"2018-06-20T15:39:12.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":115704,"title":"Add support to define widget preview and see it in the IDE when developing","state":"OPEN","comments":24,"participants":17,"reactions":94,"createdAt":"2022-11-19T21:46:43.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":99606,"title":"Ability to change the keyboard language programmatically","state":"OPEN","comments":26,"participants":15,"reactions":94,"createdAt":"2022-03-05T17:55:20.000Z"}
@@ -612,6 +611,7 @@
 {"date":"2024-08-05","repository":"flutter/flutter","id":67915,"title":"KeyboardListener is buggy after focusing a TextField","state":"OPEN","comments":30,"participants":21,"reactions":21,"createdAt":"2020-10-12T12:21:58.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":66751,"title":"Transparent Backgrounds for Linux","state":"OPEN","comments":5,"participants":8,"reactions":21,"createdAt":"2020-09-27T00:44:37.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":65254,"title":"Export widget as Video","state":"OPEN","comments":8,"participants":8,"reactions":21,"createdAt":"2020-09-04T16:59:31.000Z"}
+{"date":"2024-08-05","repository":"flutter/flutter","id":64552,"title":"Show suffix/prefix text in TextField even when it is not in focus and empty.","state":"OPEN","comments":19,"participants":18,"reactions":21,"createdAt":"2020-08-25T12:50:52.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":62966,"title":"Use dart_test.yaml in flutter test","state":"OPEN","comments":6,"participants":9,"reactions":21,"createdAt":"2020-08-05T11:07:48.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":55967,"title":"Service worker caching should be smarter","state":"OPEN","comments":3,"participants":6,"reactions":21,"createdAt":"2020-04-29T16:13:33.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":55720,"title":"Locale parser","state":"OPEN","comments":1,"participants":6,"reactions":21,"createdAt":"2020-04-27T07:47:16.000Z"}
@@ -657,7 +657,6 @@
 {"date":"2024-08-05","repository":"flutter/flutter","id":69949,"title":"[doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart ","state":"OPEN","comments":27,"participants":17,"reactions":20,"createdAt":"2020-11-06T11:13:13.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":69676,"title":"Persistent bottom sheet does not respect SafeArea","state":"OPEN","comments":8,"participants":11,"reactions":20,"createdAt":"2020-11-03T14:26:13.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":66862,"title":"flutter devices reporting physical device is busy","state":"OPEN","comments":62,"participants":33,"reactions":20,"createdAt":"2020-09-28T23:01:11.000Z"}
-{"date":"2024-08-05","repository":"flutter/flutter","id":64552,"title":"Show suffix/prefix text in TextField even when it is not in focus and empty.","state":"OPEN","comments":19,"participants":18,"reactions":20,"createdAt":"2020-08-25T12:50:52.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":60034,"title":"Add package for SF Symbols 2","state":"OPEN","comments":8,"participants":9,"reactions":20,"createdAt":"2020-06-22T23:50:49.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":53985,"title":"Ability to use ParagraphBuilder & Paragraph in other isolates","state":"OPEN","comments":2,"participants":6,"reactions":20,"createdAt":"2020-04-04T10:07:40.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":53781,"title":"Add option to avoid pod install during \"flutter build ios\"","state":"OPEN","comments":13,"participants":6,"reactions":20,"createdAt":"2020-04-01T20:44:08.000Z"}
@@ -979,6 +978,7 @@
 {"date":"2024-08-05","repository":"flutter/flutter","id":14790,"title":"FadeInImage support for crossfading between images","state":"OPEN","comments":10,"participants":11,"reactions":13,"createdAt":"2018-02-20T23:57:58.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":6491,"title":"Would be nice if `flutter run` only downloaded the necessary artifacts","state":"OPEN","comments":14,"participants":9,"reactions":13,"createdAt":"2016-10-24T12:37:41.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":4963,"title":"Support peek/pop on iOS","state":"OPEN","comments":9,"participants":11,"reactions":13,"createdAt":"2016-07-18T23:30:59.000Z"}
+{"date":"2024-08-05","repository":"flutter/flutter","id":93707,"title":"[Proposal] Add DatePicker and DateRangePicker Theme","state":"OPEN","comments":11,"participants":8,"reactions":12,"createdAt":"2021-11-16T10:11:01.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":89464,"title":"flutter_markdown: Please add example how to use in showDialog","state":"OPEN","comments":0,"participants":4,"reactions":12,"createdAt":"2021-09-04T05:16:55.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":87896,"title":"[image_picker] Permission error for camera picker on OnePlus 3 with Android 9 (API 28)","state":"OPEN","comments":23,"participants":21,"reactions":12,"createdAt":"2021-08-08T08:53:47.000Z"}
 {"date":"2024-08-05","repository":"flutter/flutter","id":81769,"title":"[flutter_markdown] Add Dark Theme Support!","state":"OPEN","comments":1,"participants":5,"reactions":12,"createdAt":"2020-01-01T12:22:56.000Z"}
