@@ -62,7 +62,7 @@
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":42991,"title":"@Deprecated should warn if you're overriding a deprecated method","state":"OPEN","comments":11,"participants":10,"reactions":25,"createdAt":"2020-08-08T07:56:52.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":15078,"title":"Add the ability to read and modify file/directory permissions to dart:io","state":"OPEN","comments":16,"participants":10,"reactions":25,"createdAt":"2013-11-14T23:04:01.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":33014,"title":"DateTime.difference providing years and months","state":"OPEN","comments":3,"participants":5,"reactions":24,"createdAt":"2018-05-01T18:10:59.000Z"}
-{"date":"2024-08-06","repository":"dart-lang/sdk","id":56358,"title":"@depreacte dart:html and other \"legacy\" DOM libraries","state":"OPEN","comments":1,"participants":2,"reactions":23,"createdAt":"2024-07-31T20:42:23.000Z"}
+{"date":"2024-08-06","repository":"dart-lang/sdk","id":56358,"title":"@depreacte dart:html and other \"legacy\" DOM libraries","state":"OPEN","comments":2,"participants":3,"reactions":23,"createdAt":"2024-07-31T20:42:23.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":46196,"title":"Support creating files and sockets from file descriptors","state":"OPEN","comments":11,"participants":9,"reactions":23,"createdAt":"2021-05-31T21:53:02.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":33764,"title":"Dart should allow arbitrary network I/O","state":"OPEN","comments":13,"participants":11,"reactions":23,"createdAt":"2018-07-05T23:44:49.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":43977,"title":"Install dart-sdk for windows through winget","state":"OPEN","comments":7,"participants":7,"reactions":22,"createdAt":"2020-10-29T12:24:08.000Z"}
@@ -81,6 +81,7 @@
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":33979,"title":"require.js added to global namespace, when serving via dartdevc","state":"OPEN","comments":30,"participants":14,"reactions":20,"createdAt":"2018-07-25T17:52:09.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":27755,"title":"Sealing or watching List objects, or copy-on-write List objects","state":"OPEN","comments":179,"participants":19,"reactions":20,"createdAt":"2016-11-03T23:41:57.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":55281,"title":"Dart Analyzer very slow/stuck","state":"OPEN","comments":14,"participants":6,"reactions":19,"createdAt":"2024-03-22T20:52:51.000Z"}
+{"date":"2024-08-06","repository":"dart-lang/sdk","id":53875,"title":"Implement Workspace Feature [meta]","state":"OPEN","comments":9,"participants":10,"reactions":19,"createdAt":"2023-10-26T18:16:47.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":49900,"title":"Add list interspersion as built in function","state":"OPEN","comments":3,"participants":3,"reactions":19,"createdAt":"2022-09-02T22:30:23.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":48875,"title":"analysis_server has memory leaks","state":"OPEN","comments":8,"participants":8,"reactions":19,"createdAt":"2022-04-22T23:17:19.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":39787,"title":"[vm/ffi] Investigate copy-free Strings","state":"OPEN","comments":10,"participants":4,"reactions":19,"createdAt":"2019-12-13T15:45:11.000Z"}
@@ -88,7 +89,6 @@
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":34795,"title":"Support folding arbitrary source code regions in editors","state":"OPEN","comments":11,"participants":7,"reactions":19,"createdAt":"2018-10-15T16:48:08.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":27315,"title":"reconcile Future/Promise","state":"OPEN","comments":11,"participants":9,"reactions":19,"createdAt":"2016-09-13T23:43:53.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":27100,"title":"If multiple mixins define a method with one name, there's no way to call them individually","state":"OPEN","comments":8,"participants":6,"reactions":19,"createdAt":"2016-08-17T20:01:56.000Z"}
-{"date":"2024-08-06","repository":"dart-lang/sdk","id":53875,"title":"Implement Workspace Feature [meta]","state":"OPEN","comments":9,"participants":10,"reactions":18,"createdAt":"2023-10-26T18:16:47.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":50290,"title":"intent to implement: dart:crypto","state":"OPEN","comments":11,"participants":6,"reactions":18,"createdAt":"2022-10-24T18:38:52.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":42383,"title":"Extension methods are not auto-suggested consistently","state":"OPEN","comments":3,"participants":4,"reactions":18,"createdAt":"2020-06-17T18:49:52.000Z"}
 {"date":"2024-08-06","repository":"dart-lang/sdk","id":33998,"title":"syntactic sugar for single-arg closures `foo.map(@.name)` -> `foo.map((e) => e.name)`","state":"OPEN","comments":7,"participants":5,"reactions":18,"createdAt":"2018-07-27T03:50:41.000Z"}
