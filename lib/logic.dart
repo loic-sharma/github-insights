@@ -36,6 +36,7 @@ Future<List<output.IssueSnapshot>> loadTopIssues(
       issue.participants,
       issue.reactions,
       issue.createdAt,
+      issue.labels,
     ))
     .toList();
 }
@@ -117,6 +118,12 @@ List<output.IssueSnapshot> createSnapshots(
   var snapshotParticipants = <String>{};
   var snapshotReactions = 0;
 
+  // TODO: Add label data to backfilled information. The timeline API gives us
+  // the label's data at that point in time. This information might be stale
+  // if a label was renamed or deleted. Backfill data will need to load label
+  // IDs and then use that to load label names.
+  List<String>? labels;
+
   while (snapshotDate.isBefore(today)) {
     // Add timeline events to the snapshot state.
     while (timelineIndex < timeline.length) {
@@ -158,6 +165,7 @@ List<output.IssueSnapshot> createSnapshots(
       snapshotParticipants.length,
       snapshotReactions,
       issue.createdAt,
+      labels,
     ));
 
     snapshotDate = snapshotDate.add(const Duration(days: 1));

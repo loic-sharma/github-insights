@@ -162,6 +162,13 @@ query (\$after: String) {
             totalCount
           }
           createdAt
+          labels(first: 20) {
+            edges {
+              node {
+                name
+              }
+            }
+          }
           number
           participants {
             totalCount
@@ -216,6 +223,7 @@ class Issue {
   Issue({
     required this.comments,
     required this.createdAt,
+    required this.labels,
     required this.number,
     required this.participants,
     required this.publishedAt,
@@ -226,6 +234,7 @@ class Issue {
 
   final int comments;
   final DateTime createdAt;
+  final List<String> labels;
   final int number;
   final int participants;
   final DateTime publishedAt;
@@ -234,9 +243,16 @@ class Issue {
   final String title;
 
   factory Issue.fromJson(Map<String, dynamic> json) {
+    final labels = <String>[];
+    final labelsJson = json['labels']?['edges'] as List<dynamic>? ?? const <dynamic>[];
+    for (final labelJson in labelsJson) {
+      labels.add(labelJson['node']['name']);
+    }
+
     return Issue(
       comments: json['comments']?['totalCount'] as int? ?? 0,
       createdAt: DateTime.parse(json['createdAt'] as String),
+      labels: labels,
       number: json['number'] as int,
       participants: json['participants']?['totalCount'] as int? ?? 0,
       publishedAt: DateTime.parse(json['publishedAt'] as String),
