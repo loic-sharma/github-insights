@@ -2,6 +2,31 @@
 
 Find trending GitHub issues.
 
+## How to analyze this data yourself
+
+1. Install [DuckDB](https://duckdb.org/).
+
+1. Download the data.
+
+   ```sh
+   git clone https://github.com/loic-sharma/github-insights.git
+   ```
+
+1. Launch DuckDB.
+
+   ```sh
+   cd github-insights
+   ```
+
+   ```sh
+   duckdb
+   ```
+
+1. Run an [example SQL query](#issue-delta-reports)!
+
+> [!TIP]
+> Use `git pull` once a day to get the latest data!
+
 ## Issue delta reports
 
 Find how many new reactions and comments each issue received each day:
