@@ -94,3 +94,62 @@ Future<void> writeSnapshots(
   await writer.flush();
   await writer.close();
 }
+
+class TrendingIssue {
+  const TrendingIssue({
+    required this.id,
+    required this.name,
+    required this.url,
+    required this.totalReactions,
+    required this.recentReactions,
+    required this.buckets,
+    required this.values,
+  });
+
+  final int id;
+  final String name;
+  final Uri url;
+  final int totalReactions;
+  final int recentReactions;
+
+  final List<String> buckets;
+  final List<int> values;
+}
+
+void writeTrendingIssues(
+  IOSink writer,
+  String owner,
+  String repository,
+  List<TrendingIssue> issues,
+) {
+  for (final issue in issues) {
+    writer.write('* ${issue.name}<br />');
+    writer.writeln();
+
+    writer.write('  ');
+    writer.write('<sub>');
+    writer.write('[$owner/$repository#${issue.id}](${issue.url}) ');
+    writer.write('&mdash; ');
+    writer.write('${issue.totalReactions} total reactions, ${issue.recentReactions} recent reactions');
+    writer.write('</sub>');
+    writer.write('<br />');
+    writer.writeln();
+
+    writer.writeln('  <sub>');
+    writer.writeln('  <details>');
+    writer.writeln('  <summary>Graph...</summary>');
+    writer.writeln();
+
+    writer.writeln('  ```mermaid');
+    writer.writeln('  xychart-beta');
+    writer.writeln('    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]');
+    writer.writeln('    y-axis "Reactions"');
+    writer.writeln('    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]');
+    writer.writeln('  ```');
+    writer.writeln();
+
+    writer.writeln('  </details>');
+    writer.writeln('  </sub>');
+    writer.writeln();
+  }
+}

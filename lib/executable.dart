@@ -25,6 +25,7 @@ Common commands:
 
   runner.addCommand(TopIssuesCommand());
   runner.addCommand(BackfillCommand());
+  runner.addCommand(DashboardCommand());
 
   await runner.run(arguments);
 }
@@ -72,7 +73,8 @@ class TopIssuesCommand extends Command {
     print('');
 
     final today = intl.DateFormat('yyyy-MM-dd').format(DateTime.timestamp());
-    final outputFile = await output.createOutputFile(outputPath, '$today.jsonl');
+    final outputFile =
+        await output.createOutputFile(outputPath, '$today.jsonl');
 
     await output.writeSnapshots(outputFile.openWrite(), issues);
     print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
@@ -131,7 +133,8 @@ class BackfillCommand extends Command {
     final stopwatch = Stopwatch()..start();
 
     print('Loading issue...');
-    final issueResult = await github.loadIssue(token, owner, repository, issueId);
+    final issueResult =
+        await github.loadIssue(token, owner, repository, issueId);
     final issue = issueResult.issue;
     print('');
 
@@ -161,6 +164,59 @@ class BackfillCommand extends Command {
     final outputFile = await output.createOutputFile(outputDir, outputName);
 
     await output.writeSnapshots(outputFile.openWrite(), snapshots);
+
+    print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
+  }
+}
+
+class DashboardCommand extends Command {
+  @override
+  final String name = 'dashboard';
+
+  @override
+  final String description = "Create a dashboard from issue data.";
+
+  DashboardCommand() {
+    argParser.addOption(
+      'output',
+      abbr: 'o',
+      help: 'The output file to write the data to.',
+      defaultsTo: path.join('dashboard.md'),
+    );
+  }
+
+  @override
+  Future<void> run() async {
+    final args = argResults!;
+    final outputPath = path.canonicalize(args['output'] as String);
+
+    final stopwatch = Stopwatch()..start();
+
+    final outputDir = path.dirname(outputPath);
+    final outputName = path.basename(outputPath);
+    final outputFile = await output.createOutputFile(outputDir, outputName);
+
+    final writer = outputFile.openWrite();
+
+    output.writeTrendingIssues(
+      writer,
+      'flutter',
+      'flutter',
+      <output.TrendingIssue>[
+        output.TrendingIssue(
+          id: 151065,
+          name: 'Proposal: Framework needs to be aware of physical pixels',
+          url: Uri.parse('https://github.com/flutter/flutter/pull/150355'),
+          totalReactions: 123,
+          recentReactions: 5,
+          buckets: <String>['Jan 5', 'Jan 10'],
+          values: <int>[5, 10],
+        ),
+      ],
+    );
+
+    await writer.flush();
+    await writer.close();
 
     print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
   }
