@@ -190,7 +190,10 @@ void writeIssueDeltas(
   List<IssueDelta> issues,
 ) {
   for (final issue in issues) {
-    writer.write('* ${issue.name}<br />');
+    final repositoryId = issue.repository.replaceFirst('/', '-');
+
+    writer.writeln('<a name="$repositoryId-${issue.id}-graph"></a>');
+    writer.write('### ${issue.name}');
     writer.writeln();
 
     writer.write('  ');

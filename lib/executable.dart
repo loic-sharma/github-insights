@@ -399,7 +399,7 @@ class DashboardCommand extends Command {
     writer.writeln('## Graphs');
     writer.writeln();
 
-    output.writeIssueDeltaGraphs(writer, graphs);
+    output.writeIssueDeltas(writer, graphs);
 
     await writer.flush();
     await writer.close();
