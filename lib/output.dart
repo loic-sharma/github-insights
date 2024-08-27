@@ -221,3 +221,20 @@ void writeIssueDeltas(
     writer.writeln();
   }
 }
+
+void writeIssueDeltasTable(
+  IOSink writer,
+  List<IssueDelta> issues,
+) {
+  writer.writeln('Issue | Total reactions | Recent reactions');
+  writer.writeln('-- | -- | --');
+
+  for (final issue in issues) {
+    writer.write('${issue.name} ');
+    writer.write('[${issue.repository}#${issue.id}](${issue.url}) ');
+    writer.write('| ${issue.totalReactions} | ${issue.recentReactions}');
+    writer.writeln();
+  }
+
+  writer.writeln();
+}

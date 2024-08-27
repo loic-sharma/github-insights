@@ -181,7 +181,7 @@ class DashboardCommand extends Command {
       'output',
       abbr: 'o',
       help: 'The output file to write the data to.',
-      defaultsTo: path.join('dashboard.md'),
+      defaultsTo: path.join('table.md'),
     );
   }
 
@@ -224,8 +224,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('Issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.take(15).toList(),
     );
@@ -240,8 +241,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-framework issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-framework')).take(15).toList(),
     );
@@ -250,8 +252,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-design issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-design')).take(15).toList(),
     );
@@ -261,7 +264,7 @@ class DashboardCommand extends Command {
 
     writer.writeln('f: cupertino issues that received the most reactions $window.');
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('f: cupertino')).take(15).toList(),
     );
@@ -270,8 +273,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-go_router issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-go_router')).take(15).toList(),
     );
@@ -280,8 +284,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-tool issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-tool')).take(15).toList(),
     );
@@ -291,7 +296,7 @@ class DashboardCommand extends Command {
 
     writer.writeln('team-engine issues that received the most reactions $window.');
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-engine')).take(15).toList(),
     );
@@ -303,8 +308,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-ios issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-ios')).take(15).toList(),
     );
@@ -313,8 +319,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-android issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-android')).take(15).toList(),
     );
@@ -323,8 +330,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-web issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-web')).take(15).toList(),
     );
@@ -333,8 +341,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-desktop issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-desktop')).take(15).toList(),
     );
@@ -343,8 +352,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('team-ecosystem issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where(hasLabel('team-ecosystem')).take(15).toList(),
     );
@@ -353,8 +363,9 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     writer.writeln('dart-lang/sdk issues that received the most reactions $window.');
+    writer.writeln();
 
-    output.writeIssueDeltas(
+    output.writeIssueDeltasTable(
       writer,
       deltas.where((delta) => delta.repository == 'dart-lang/sdk').take(15).toList(),
     );
