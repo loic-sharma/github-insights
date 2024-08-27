@@ -181,7 +181,7 @@ class DashboardCommand extends Command {
       'output',
       abbr: 'o',
       help: 'The output file to write the data to.',
-      defaultsTo: path.join('table.md'),
+      defaultsTo: path.join('dashboard.md'),
     );
   }
 
