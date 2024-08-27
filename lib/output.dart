@@ -6,7 +6,7 @@ import 'package:path/path.dart' as path;
 
 import 'package:github_insights/logic.dart';
 
-final _dayFormat = intl.DateFormat('yyyy-MM-dd');
+final dayFormat = intl.DateFormat('yyyy-MM-dd');
 
 class IssueSnapshot {
   IssueSnapshot({
@@ -80,7 +80,7 @@ class IssueSnapshot {
 
   String toJson() {
     return json.encode({
-      'date': _dayFormat.format(date),
+      'date': dayFormat.format(date),
       'repository': repository,
       'id': id,
       'title': title,
@@ -139,7 +139,7 @@ Future<void> writeSnapshots(
 ) async {
   for (final snapshot in snapshots) {
     final snapshotJson = json.encode({
-      'date': _dayFormat.format(snapshot.date),
+      'date': dayFormat.format(snapshot.date),
       'repository': snapshot.repository,
       'id': snapshot.id,
       'title': snapshot.title,

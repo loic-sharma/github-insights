@@ -108,8 +108,6 @@ List<output.IssueSnapshot> createSnapshots(
   var timelineIndex = 0;
   var reactionIndex = 0;
 
-  final kinds = <String, Set<String>>{};
-
   assert(issue.createdAt.isUtc);
   var snapshotDate = DateTime.utc(
     issue.createdAt.year,

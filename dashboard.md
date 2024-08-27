@@ -2,6 +2,7 @@
 
 ## Trending issues
 
+Issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Proposal: Framework needs to be aware of physical pixels<br />
   <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 152 total reactions, 137 recent reactions</sub><br />
   <sub>
@@ -248,7 +249,7 @@
 
 #### Framework
 
-team-framework issues that received the most reactions from TODO to TODO
+team-framework issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Proposal: Framework needs to be aware of physical pixels<br />
   <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 152 total reactions, 137 recent reactions</sub><br />
   <sub>
@@ -491,7 +492,7 @@ team-framework issues that received the most reactions from TODO to TODO
 
 #### Design
 
-team-design issues that received the most reactions from TODO to TODO
+team-design issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Table > TableRow > TableCell colspan<br />
   <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 274 total reactions, 19 recent reactions</sub><br />
   <sub>
@@ -734,7 +735,7 @@ team-design issues that received the most reactions from TODO to TODO
 
 #### Cupertino
 
-f: cupertino issues that received the most reactions from TODO to TODO
+f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Cupertino back gesture are disabled when using PageRouteBuilder<br />
   <sub>[flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) &mdash; 51 total reactions, 5 recent reactions</sub><br />
   <sub>
@@ -977,7 +978,7 @@ f: cupertino issues that received the most reactions from TODO to TODO
 
 #### go_router
 
-team-go_router issues that received the most reactions from TODO to TODO
+team-go_router issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * PopScope seems to be incompatible with GoRouter<br />
   <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 98 total reactions, 24 recent reactions</sub><br />
   <sub>
@@ -1220,7 +1221,7 @@ team-go_router issues that received the most reactions from TODO to TODO
 
 ### Tool
 
-team-tool issues that received the most reactions from TODO to TODO
+team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Allow to provide compile-time variables for native platforms from a file<br />
   <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 133 total reactions, 48 recent reactions</sub><br />
   <sub>
@@ -1463,7 +1464,7 @@ team-tool issues that received the most reactions from TODO to TODO
 
 ### Engine
 
-team-engine issues that received the most reactions from TODO to TODO
+team-engine issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Add support for visionOS<br />
   <sub>[flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) &mdash; 331 total reactions, 44 recent reactions</sub><br />
   <sub>
@@ -1708,7 +1709,7 @@ team-engine issues that received the most reactions from TODO to TODO
 
 #### iOS
 
-team-ios issues that received the most reactions from TODO to TODO
+team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * ☂️ Add Swift Package Manager compatibility<br />
   <sub>[flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) &mdash; 141 total reactions, 28 recent reactions</sub><br />
   <sub>
@@ -1951,7 +1952,7 @@ team-ios issues that received the most reactions from TODO to TODO
 
 #### Android
 
-team-android issues that received the most reactions from TODO to TODO
+team-android issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Flutter app flagged for missing accessibility content labels by Google Play Store<br />
   <sub>[flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) &mdash; 61 total reactions, 41 recent reactions</sub><br />
   <sub>
@@ -2194,7 +2195,7 @@ team-android issues that received the most reactions from TODO to TODO
 
 #### Web
 
-team-web issues that received the most reactions from TODO to TODO
+team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Enable "hot reload" (not just "hot restart") for Flutter Web<br />
   <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1121 total reactions, 67 recent reactions</sub><br />
   <sub>
@@ -2437,10 +2438,10 @@ team-web issues that received the most reactions from TODO to TODO
 
 #### Desktop
 
-team-desktop issues that received the most reactions from TODO to TODO
+team-desktop issues that received the most reactions from 2024-05-27 to 2024-08-28.
 ### Ecosystem
 
-team-ecosystem issues that received the most reactions from TODO to TODO
+team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * [pigeon] Support typesafe EventChannels<br />
   <sub>[flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) &mdash; 171 total reactions, 32 recent reactions</sub><br />
   <sub>
@@ -2683,7 +2684,7 @@ team-ecosystem issues that received the most reactions from TODO to TODO
 
 ### Dart SDK
 
-dart-lang/sdk issues that received the most reactions from TODO to TODO
+dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08-28.
 * Move `Listenable`, `ValueListenable`, `ChangeNotifier` and `ValueNotifier` to the Dart sdk and add listening methods<br />
   <sub>[dart-lang/sdk#55816](https://github.com/dart-lang/sdk/issues/55816) &mdash; 38 total reactions, 36 recent reactions</sub><br />
   <sub>

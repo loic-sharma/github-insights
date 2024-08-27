@@ -213,11 +213,17 @@ class DashboardCommand extends Command {
 
     final writer = outputFile.openWrite();
 
+    final window =
+      'from ${output.dayFormat.format(start)} '
+      'to ${output.dayFormat.format(end)}';
+
     writer.writeln('# GitHub Insights');
     writer.writeln();
 
     writer.writeln('## Trending issues');
     writer.writeln();
+
+    writer.writeln('Issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -233,7 +239,7 @@ class DashboardCommand extends Command {
     writer.writeln('#### Framework');
     writer.writeln();
 
-    writer.writeln('team-framework issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-framework issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -243,7 +249,7 @@ class DashboardCommand extends Command {
     writer.writeln('#### Design');
     writer.writeln();
 
-    writer.writeln('team-design issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-design issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -253,7 +259,7 @@ class DashboardCommand extends Command {
     writer.writeln('#### Cupertino');
     writer.writeln();
 
-    writer.writeln('f: cupertino issues that received the most reactions from TODO to TODO');
+    writer.writeln('f: cupertino issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -263,7 +269,7 @@ class DashboardCommand extends Command {
     writer.writeln('#### go_router');
     writer.writeln();
 
-    writer.writeln('team-go_router issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-go_router issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -273,7 +279,7 @@ class DashboardCommand extends Command {
     writer.writeln('### Tool');
     writer.writeln();
 
-    writer.writeln('team-tool issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-tool issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -283,7 +289,7 @@ class DashboardCommand extends Command {
     writer.writeln('### Engine');
     writer.writeln();
 
-    writer.writeln('team-engine issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-engine issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -296,7 +302,7 @@ class DashboardCommand extends Command {
     writer.writeln('#### iOS');
     writer.writeln();
 
-    writer.writeln('team-ios issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-ios issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -306,7 +312,7 @@ class DashboardCommand extends Command {
     writer.writeln('#### Android');
     writer.writeln();
 
-    writer.writeln('team-android issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-android issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -316,7 +322,7 @@ class DashboardCommand extends Command {
     writer.writeln('#### Web');
     writer.writeln();
 
-    writer.writeln('team-web issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-web issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -326,7 +332,7 @@ class DashboardCommand extends Command {
     writer.writeln('#### Desktop');
     writer.writeln();
 
-    writer.writeln('team-desktop issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-desktop issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -336,7 +342,7 @@ class DashboardCommand extends Command {
     writer.writeln('### Ecosystem');
     writer.writeln();
 
-    writer.writeln('team-ecosystem issues that received the most reactions from TODO to TODO');
+    writer.writeln('team-ecosystem issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
@@ -346,7 +352,7 @@ class DashboardCommand extends Command {
     writer.writeln('### Dart SDK');
     writer.writeln();
 
-    writer.writeln('dart-lang/sdk issues that received the most reactions from TODO to TODO');
+    writer.writeln('dart-lang/sdk issues that received the most reactions $window.');
 
     output.writeIssueDeltas(
       writer,
