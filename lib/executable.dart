@@ -213,11 +213,28 @@ class DashboardCommand extends Command {
 
     final writer = outputFile.openWrite();
 
+    writer.writeln('# Trending issues');
+    writer.writeln();
+
     output.writeIssueDeltas(
       writer,
-      'flutter',
-      'flutter',
-      deltas,
+      deltas.take(15).toList(),
+    );
+
+    writer.writeln('# Trending issues by team');
+    writer.writeln();
+
+    writer.writeln('## Framework');
+    writer.writeln();
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-framework')).take(15).toList(),
+    );
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.take(15).toList(),
     );
 
     await writer.flush();
@@ -226,3 +243,6 @@ class DashboardCommand extends Command {
     print('Wrote ${outputFile.path} in ${stopwatch.elapsedMilliseconds}ms');
   }
 }
+
+bool Function(output.IssueDelta) hasLabel(String label)
+  => (output.IssueDelta delta ) => delta.labels.any((l) => l == label);

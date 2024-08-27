@@ -254,8 +254,9 @@ class _IssueDeltaBuilder {
 
     return output.IssueDelta(
       id: _latest!.id,
+      repository: _latest!.repository,
       name: _latest!.title,
-      url: Uri.parse('tood'),
+      url: Uri.parse('https://github.com/${_latest!.repository}/issues/${_latest!.id}'),
       labels: _latest!.labels ?? const <String>[],
       totalReactions: _latest!.reactions,
       recentReactions: _latest!.reactions - _earliest!.reactions,

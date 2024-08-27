@@ -162,6 +162,7 @@ Future<void> writeSnapshots(
 class IssueDelta {
   const IssueDelta({
     required this.id,
+    required this.repository,
     required this.name,
     required this.url,
     required this.labels,
@@ -172,6 +173,7 @@ class IssueDelta {
   }) : assert(buckets.length == values.length);
 
   final int id;
+  final String repository;
   final String name;
   final Uri url;
   final List<String> labels;
@@ -185,8 +187,6 @@ class IssueDelta {
 
 void writeIssueDeltas(
   IOSink writer,
-  String owner,
-  String repository,
   List<IssueDelta> issues,
 ) {
   for (final issue in issues) {
@@ -195,7 +195,7 @@ void writeIssueDeltas(
 
     writer.write('  ');
     writer.write('<sub>');
-    writer.write('[$owner/$repository#${issue.id}](${issue.url}) ');
+    writer.write('[${issue.repository}#${issue.id}](${issue.url}) ');
     writer.write('&mdash; ');
     writer.write('${issue.totalReactions} total reactions, ');
     writer.write('${issue.recentReactions} recent reactions');
