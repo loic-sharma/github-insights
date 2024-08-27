@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-05-27 to 2024-08-28.
+Issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang
 
 #### Framework
 
-team-framework issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-framework issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Going back to the previous route, images should not be redrawn [flutter/flutter#
 
 #### Design
 
-team-design issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-design issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Missing default context menu buttons on each platform [flutter/flutter#107578](h
 
 #### Cupertino
 
-f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-28.
+f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 51 | 5
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### go_router
 
-team-go_router issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-go_router issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-tool issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Let flutter be installable via homebrew [flutter/flutter#14050](https://github.c
 
 ### Engine
 
-team-engine issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-engine issues that received the most reactions from 2024-05-27 to 2024-08-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 331 | 44
@@ -160,7 +160,7 @@ Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](
 
 #### iOS
 
-team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-ios issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Colorized console output does not work in iOS builds but works for Android build
 
 #### Android
 
-team-android issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-android issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 #### Web
 
-team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-web issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,14 +226,14 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-team-desktop issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-desktop issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Ecosystem
 
-team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -255,7 +255,7 @@ Google sign-in without firebase [flutter/flutter#36673](https://github.com/flutt
 
 ### Dart SDK
 
-dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08-28.
+dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --

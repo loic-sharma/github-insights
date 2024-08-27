@@ -215,7 +215,7 @@ class DashboardCommand extends Command {
 
     final window =
       'from ${output.dayFormat.format(start)} '
-      'to ${output.dayFormat.format(end)}';
+      'to ${output.dayFormat.format(DateTime.timestamp())}';
 
     writer.writeln('# GitHub Insights');
     writer.writeln();

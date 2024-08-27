@@ -287,8 +287,8 @@ class _IssueDeltaBucketBuilder {
 
 List<output.IssueDelta> calculateIssueDeltas(
   List<output.IssueSnapshot> snapshots,
-  DateTime start,
-  DateTime end,
+  DateTime start, // inclusive
+  DateTime end, // exclusive
 ) {
   snapshots = snapshots
     .where((snapshot) => snapshot.date.isAfter(start))
