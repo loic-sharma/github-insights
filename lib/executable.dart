@@ -333,7 +333,6 @@ class DashboardCommand extends Command {
 
     output.writeIssueDeltasTable(writer, teamEngine);
 
-
     writer.writeln('### Platforms');
     writer.writeln();
 
@@ -362,7 +361,6 @@ class DashboardCommand extends Command {
 
     output.writeIssueDeltasTable(writer, teamWeb);
 
-
     writer.writeln('#### Desktop');
     writer.writeln();
 
@@ -378,7 +376,6 @@ class DashboardCommand extends Command {
     writer.writeln();
 
     output.writeIssueDeltasTable(writer, teamEcosystem);
-
 
     writer.writeln('### Dart SDK');
     writer.writeln();
