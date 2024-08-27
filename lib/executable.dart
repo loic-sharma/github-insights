@@ -178,6 +178,12 @@ class DashboardCommand extends Command {
 
   DashboardCommand() {
     argParser.addOption(
+      'input',
+      help: 'The input directory containing top issues data',
+      defaultsTo: 'data',
+    );
+
+    argParser.addOption(
       'output',
       abbr: 'o',
       help: 'The output file to write the data to.',
@@ -188,7 +194,7 @@ class DashboardCommand extends Command {
   @override
   Future<void> run() async {
     final args = argResults!;
-    final dataPath = 'top_issues'; // TODO
+    final dataPath = path.canonicalize(args['input'] as String);
     final outputPath = path.canonicalize(args['output'] as String);
 
     final stopwatch = Stopwatch()..start();

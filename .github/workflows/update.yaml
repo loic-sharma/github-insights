@@ -34,7 +34,7 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
 
       - name: Generate Dashboard
-        run: dart run ./bin/github_insights.dart dashboard
+        run: dart run ./bin/github_insights.dart dashboard --input top_issues
 
       - name: Commit and push if data has changed
         id: commit-if-changed
