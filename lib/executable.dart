@@ -266,6 +266,7 @@ class DashboardCommand extends Command {
 
     final allIds = all.map((delta) => '${delta.repository}#${delta.id}').toSet();
     final graphs = deltas
+      .where((delta) => delta.recentReactions >= 5)
       .where((delta) => allIds.contains('${delta.repository}#${delta.id}'))
       .toList();
 

@@ -233,9 +233,11 @@ void writeIssueDeltaGraphs(
   for (final issue in issues) {
     final repositoryId = issue.repository.replaceFirst('/', '-');
 
-    writer.writeln('<a name="$repositoryId-${issue.id}-graph">');
-    writer.writeln('<details>');
-    writer.writeln('<summary>${issue.name} (${issue.repository}#${issue.id})...</summary>');
+    writer.writeln('<a name="$repositoryId-${issue.id}-graph"></a>');
+    writer.writeln('### ${issue.name}');
+    writer.writeln();
+
+    writer.writeln('[${issue.repository}#${issue.id}](${issue.url})');
     writer.writeln();
 
     writer.writeln('```mermaid');
@@ -269,7 +271,11 @@ void writeIssueDeltasTable(
     writer.write('${issue.name} ');
     writer.write('[${issue.repository}#${issue.id}](${issue.url}) ');
     writer.write('| ${issue.totalReactions} | ');
-    writer.write('[${issue.recentReactions}](#$repositoryId-${issue.id}-graph)');
+    if (issue.recentReactions >= 5) {
+      writer.write('[${issue.recentReactions}](#$repositoryId-${issue.id}-graph)');
+    } else {
+      writer.write(issue.recentReactions);
+    }
     writer.writeln();
   }
 
