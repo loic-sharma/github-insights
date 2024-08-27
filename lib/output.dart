@@ -210,7 +210,7 @@ void writeIssueDeltas(
 
     writer.writeln('  ```mermaid');
     writer.writeln('  xychart-beta');
-    writer.writeln('    x-axis [${issue.buckets.join(', ')}]');
+    writer.writeln('    x-axis "Week" [${issue.buckets.join(', ')}]');
     writer.writeln('    y-axis "Reactions"');
     writer.writeln('    bar [${issue.values.join(', ')}]');
     writer.writeln('  ```');

@@ -213,7 +213,10 @@ class DashboardCommand extends Command {
 
     final writer = outputFile.openWrite();
 
-    writer.writeln('# Trending issues');
+    writer.writeln('# GitHub Insights');
+    writer.writeln();
+
+    writer.writeln('## Trending issues');
     writer.writeln();
 
     output.writeIssueDeltas(
@@ -221,20 +224,133 @@ class DashboardCommand extends Command {
       deltas.take(15).toList(),
     );
 
-    writer.writeln('# Trending issues by team');
+    writer.writeln('## Trending issues by team');
     writer.writeln();
 
-    writer.writeln('## Framework');
+    writer.writeln('### Framework');
     writer.writeln();
+
+    writer.writeln('#### Framework');
+    writer.writeln();
+
+    writer.writeln('team-framework issues that received the most reactions from TODO to TODO');
 
     output.writeIssueDeltas(
       writer,
       deltas.where(hasLabel('team-framework')).take(15).toList(),
     );
 
+    writer.writeln('#### Design');
+    writer.writeln();
+
+    writer.writeln('team-design issues that received the most reactions from TODO to TODO');
+
     output.writeIssueDeltas(
       writer,
-      deltas.take(15).toList(),
+      deltas.where(hasLabel('team-design')).take(15).toList(),
+    );
+
+    writer.writeln('#### Cupertino');
+    writer.writeln();
+
+    writer.writeln('f: cupertino issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('f: cupertino')).take(15).toList(),
+    );
+
+    writer.writeln('#### go_router');
+    writer.writeln();
+
+    writer.writeln('team-go_router issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-go_router')).take(15).toList(),
+    );
+
+    writer.writeln('### Tool');
+    writer.writeln();
+
+    writer.writeln('team-tool issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-tool')).take(15).toList(),
+    );
+
+    writer.writeln('### Engine');
+    writer.writeln();
+
+    writer.writeln('team-engine issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-engine')).take(15).toList(),
+    );
+
+    writer.writeln('### Platforms');
+    writer.writeln();
+
+    writer.writeln('#### iOS');
+    writer.writeln();
+
+    writer.writeln('team-ios issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-ios')).take(15).toList(),
+    );
+
+    writer.writeln('#### Android');
+    writer.writeln();
+
+    writer.writeln('team-android issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-android')).take(15).toList(),
+    );
+
+    writer.writeln('#### Web');
+    writer.writeln();
+
+    writer.writeln('team-web issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-web')).take(15).toList(),
+    );
+
+    writer.writeln('#### Desktop');
+    writer.writeln();
+
+    writer.writeln('team-desktop issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-desktop')).take(15).toList(),
+    );
+
+    writer.writeln('### Ecosystem');
+    writer.writeln();
+
+    writer.writeln('team-ecosystem issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where(hasLabel('team-ecosystem')).take(15).toList(),
+    );
+
+    writer.writeln('### Dart SDK');
+    writer.writeln();
+
+    writer.writeln('dart-lang/sdk issues that received the most reactions from TODO to TODO');
+
+    output.writeIssueDeltas(
+      writer,
+      deltas.where((delta) => delta.repository == 'dart-lang/sdk').take(15).toList(),
     );
 
     await writer.flush();
