@@ -28,7 +28,7 @@ Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang
 
 #### Framework
 
-team-framework issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-framework` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Going back to the previous route, images should not be redrawn [flutter/flutter#
 
 #### Design
 
-team-design issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-design` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Different Appbar with same bottomNavigatioBar without nesting Scaffolds [flutter
 
 #### Cupertino
 
-f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`f: cupertino` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 92 | [5](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/fl
 
 #### go_router
 
-team-go_router issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-go_router` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-team-tool issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-tool` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Flutter test coverage will not report untested files [flutter/flutter#27997](htt
 
 ### Engine
 
-team-engine issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-engine` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [45](#flutter-flutter-128313-graph)
@@ -160,7 +160,7 @@ Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](
 
 #### iOS
 
-team-ios issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-ios` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-team-android issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-android` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Re-implement stretch overscroll behavior as a custom shader [flutter/flutter#829
 
 #### Web
 
-team-web issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-web` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-team-desktop issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-desktop` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`team-ecosystem` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`dart-lang/sdk` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ pkg:json - Support for enums [dart-lang/sdk#55760](https://github.com/dart-lang/
 
 ### Dart language
 
-dart-lang/language issues that received the most reactions from 2024-05-27 to 2024-08-27.
+`dart-lang/language` issues that received the most reactions from 2024-05-27 to 2024-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
