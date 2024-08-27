@@ -219,7 +219,7 @@ class DashboardCommand extends Command {
 
     final writer = outputFile.openWrite();
 
-    output.writeDashboard(writer, deltas, start);
+    output.writeDashboard(writer, deltas, start, end);
 
     await writer.flush();
     await writer.close();
