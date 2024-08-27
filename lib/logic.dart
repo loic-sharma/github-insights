@@ -1,6 +1,8 @@
+import 'dart:collection';
+
 import 'package:github_insights/github.dart' as github;
 import 'package:github_insights/output.dart' as output;
-import 'package:intl/date_symbols.dart';
+import 'package:intl/intl.dart' as intl;
 
 
 Future<List<output.IssueSnapshot>> loadTopIssues(
@@ -208,4 +210,119 @@ int compareIssuesByReactionsThenNumber(github.Issue a, github.Issue b) {
   }
 
   return a.number.compareTo(b.number);
+}
+
+intl.DateFormat _deltaBucketFormatter = intl.DateFormat('MMM d');
+
+class _IssueDeltaBuilder {
+  output.IssueSnapshot? _earliest;
+  output.IssueSnapshot? _latest;
+
+  // SplayTreeMap to iterate by key order.
+  final Map<DateTime, _IssueDeltaBucketBuilder> _buckets
+   = SplayTreeMap<DateTime, _IssueDeltaBucketBuilder>();
+
+  void add(output.IssueSnapshot snapshot) {
+    if (_earliest == null || snapshot.date.isBefore(_earliest!.date)) {
+      _earliest = snapshot;
+    }
+
+    if (_latest == null || snapshot.date.isAfter(_latest!.date)) {
+      _latest = snapshot;
+    }
+
+    final bucketKey = startOfWeekUtc(snapshot.date);
+    if (!_buckets.containsKey(bucketKey)) {
+      _buckets[bucketKey] = _IssueDeltaBucketBuilder();
+    }
+
+    _buckets[bucketKey]!.add(snapshot);
+  }
+
+  output.IssueDelta build(DateTime start, DateTime end) {
+    final buckets = <String>[];
+    final values = <int>[];
+
+    final week = Duration(days: 7);
+    for (var bucket = startOfWeekUtc(start); bucket.isBefore(end); bucket = bucket.add(week)) {
+      final bucketName = _deltaBucketFormatter.format(bucket);
+      final value = _buckets[bucket]?.build() ?? 0;
+
+      buckets.add(bucketName);
+      values.add(value);
+    }
+
+    return output.IssueDelta(
+      id: _latest!.id,
+      name: _latest!.title,
+      url: Uri.parse('tood'),
+      labels: _latest!.labels ?? const <String>[],
+      totalReactions: _latest!.reactions,
+      recentReactions: _latest!.reactions - _earliest!.reactions,
+      buckets: buckets, values: values,
+    );
+  }
+}
+
+class _IssueDeltaBucketBuilder {
+  DateTime _start = DateTime.utc(9999);
+  DateTime _end = DateTime.utc(0);
+
+  int _reactionsStart = -1;
+  int _reactionsEnd = -1;
+
+  void add(output.IssueSnapshot snapshot) {
+    if (snapshot.date.isBefore(_start)) {
+      _start = snapshot.date;
+      _reactionsStart = snapshot.reactions;
+    }
+
+    if (snapshot.date.isAfter(_end)) {
+      _end = snapshot.date;
+      _reactionsEnd = snapshot.reactions;
+    }
+  }
+
+  int build() => _reactionsEnd - _reactionsStart;
+}
+
+List<output.IssueDelta> calculateIssueDeltas(
+  List<output.IssueSnapshot> snapshots,
+  DateTime start,
+  DateTime end,
+) {
+  snapshots = snapshots
+    .where((snapshot) => snapshot.date.isAfter(start))
+    .where((snapshot) => snapshot.date.isBefore(end))
+    .toList();
+
+  final deltaBuilders = <String, _IssueDeltaBuilder>{};
+
+  for (final snapshot in snapshots) {
+    final issueKey = '${snapshot.repository}#${snapshot.id}';
+
+    if (!deltaBuilders.containsKey(issueKey)) {
+      deltaBuilders[issueKey] = _IssueDeltaBuilder();
+    }
+
+    deltaBuilders[issueKey]!.add(snapshot);
+  }
+
+  return deltaBuilders.values.map((b) => b.build(start, end)).toList();
+}
+
+DateTime startOfWeekUtc(DateTime date) {
+  assert(date.isUtc);
+
+  final start = date.subtract(Duration(days: date.weekday - 1));
+
+  return DateTime.utc(start.year, start.month, start.day);
+}
+
+DateTime endOfWeekUtc(DateTime date) {
+  assert(date.isUtc);
+
+  final end = date.add(Duration(days: 7 - date.weekday));
+
+  return DateTime.utc(end.year, end.month, end.day);
 }

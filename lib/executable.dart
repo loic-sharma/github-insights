@@ -199,14 +199,12 @@ class DashboardCommand extends Command {
 
     final endDate = DateTime.timestamp().add(Duration(days: 1));
     final end = DateTime.utc(endDate.year, endDate.month, endDate.day);
-    final start = end.add(Duration(days: -90));
+    final start = startOfWeekUtc(end.add(Duration(days: -90)));
 
-    final recentSnapshots = snapshots
-      .where((snapshot) => snapshot.date.isAfter(start))
-      .where((snapshot) => snapshot.date.isBefore(end))
-      .toList();
+    final deltas = calculateIssueDeltas(snapshots, start, end);
 
-
+    // Sort by recent reactions descending.
+    deltas.sort((a, b) => b.recentReactions.compareTo(a.recentReactions));
 
     print('Writing dashboard file...');
     final outputDir = path.dirname(outputPath);
@@ -219,18 +217,7 @@ class DashboardCommand extends Command {
       writer,
       'flutter',
       'flutter',
-      <output.IssueDelta>[
-        output.IssueDelta(
-          id: 151065,
-          name: 'Proposal: Framework needs to be aware of physical pixels',
-          url: Uri.parse('https://github.com/flutter/flutter/pull/150355'),
-          labels: <String>[],
-          totalReactions: 123,
-          recentReactions: 5,
-          buckets: <String>['Jan 5', 'Jan 10'],
-          values: <int>[5, 10],
-        ),
-      ],
+      deltas,
     );
 
     await writer.flush();
