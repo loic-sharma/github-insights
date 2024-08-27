@@ -345,7 +345,17 @@ class DashboardCommand extends Command {
 
     output.writeIssueDeltasTable(
       writer,
-      deltas.where(hasLabel('team-desktop')).take(15).toList(),
+      deltas
+        .where((delta) => delta
+          .labels
+          .any((label) =>
+            label == 'team-windows' ||
+            label == 'team-macos' ||
+            label == 'team-linux'
+          )
+        )
+        .take(15)
+        .toList(),
     );
 
     writer.writeln('### Ecosystem');
