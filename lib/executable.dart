@@ -217,6 +217,58 @@ class DashboardCommand extends Command {
       'from ${output.dayFormat.format(start)} '
       'to ${output.dayFormat.format(DateTime.timestamp())}';
 
+    final mostReactions = deltas.take(15).toList();
+    final cupertino = deltas.where(hasLabel('f: cupertino')).take(15).toList();
+    final dartSdk = deltas.where((delta) => delta.repository == 'dart-lang/sdk').take(15).toList();
+    final dartLanguage = deltas.where((delta) => delta.repository == 'dart-lang/language').take(15).toList();
+
+    final teamAndroid = deltas.where(hasLabel('team-android')).take(15).toList();
+    final teamDesign = deltas.where(hasLabel('team-design')).take(15).toList();
+    final teamEcosystem = deltas.where(hasLabel('team-web')).take(15).toList();
+    final teamEngine = deltas.where(hasLabel('team-engine')).take(15).toList();
+    final teamFramework = deltas.where(hasLabel('team-framework')).take(15).toList();
+    final teamGoRouter = deltas.where(hasLabel('team-go_router')).take(15).toList();
+    final teamiOS = deltas.where(hasLabel('team-ios')).take(15).toList();
+    final teamTool = deltas.where(hasLabel('team-tool')).take(15).toList();
+    final teamWeb = deltas.where(hasLabel('team-web')).take(15).toList();
+
+    final teamDesktop =
+      deltas
+        .where((delta) =>
+          delta
+            .labels
+            .any((label) =>
+              label == 'team-windows' ||
+              label == 'team-macos' ||
+              label == 'team-linux'
+            )
+        )
+      .take(15)
+      .toList();
+
+       
+    final all = [
+      ...mostReactions,
+      ...cupertino,
+      ...dartSdk,
+      ...dartLanguage,
+      ...teamAndroid,
+      ...teamDesign,
+      ...teamEcosystem,
+      ...teamEngine,
+      ...teamFramework,
+      ...teamGoRouter,
+      ...teamiOS,
+      ...teamTool,
+      ...teamWeb,
+      ...teamDesktop,
+    ];
+
+    final allIds = all.map((delta) => '${delta.repository}#${delta.id}').toSet();
+    final graphs = deltas
+      .where((delta) => allIds.contains('${delta.repository}#${delta.id}'))
+      .toList();
+
     writer.writeln('# GitHub Insights');
     writer.writeln();
 
@@ -226,10 +278,7 @@ class DashboardCommand extends Command {
     writer.writeln('Issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, mostReactions);
 
     writer.writeln('## Trending issues by team');
     writer.writeln();
@@ -243,10 +292,7 @@ class DashboardCommand extends Command {
     writer.writeln('team-framework issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-framework')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamFramework);
 
     writer.writeln('#### Design');
     writer.writeln();
@@ -254,20 +300,14 @@ class DashboardCommand extends Command {
     writer.writeln('team-design issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-design')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamDesign);
 
     writer.writeln('#### Cupertino');
     writer.writeln();
 
     writer.writeln('f: cupertino issues that received the most reactions $window.');
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('f: cupertino')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, cupertino);
 
     writer.writeln('#### go_router');
     writer.writeln();
@@ -275,10 +315,7 @@ class DashboardCommand extends Command {
     writer.writeln('team-go_router issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-go_router')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamGoRouter);
 
     writer.writeln('### Tool');
     writer.writeln();
@@ -286,20 +323,15 @@ class DashboardCommand extends Command {
     writer.writeln('team-tool issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-tool')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamTool);
 
     writer.writeln('### Engine');
     writer.writeln();
 
     writer.writeln('team-engine issues that received the most reactions $window.');
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-engine')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamEngine);
+
 
     writer.writeln('### Platforms');
     writer.writeln();
@@ -310,10 +342,7 @@ class DashboardCommand extends Command {
     writer.writeln('team-ios issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-ios')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamiOS);
 
     writer.writeln('#### Android');
     writer.writeln();
@@ -321,10 +350,8 @@ class DashboardCommand extends Command {
     writer.writeln('team-android issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-android')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamAndroid);
+
 
     writer.writeln('#### Web');
     writer.writeln();
@@ -332,10 +359,8 @@ class DashboardCommand extends Command {
     writer.writeln('team-web issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-web')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamWeb);
+
 
     writer.writeln('#### Desktop');
     writer.writeln();
@@ -343,20 +368,7 @@ class DashboardCommand extends Command {
     writer.writeln('team-desktop issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas
-        .where((delta) => delta
-          .labels
-          .any((label) =>
-            label == 'team-windows' ||
-            label == 'team-macos' ||
-            label == 'team-linux'
-          )
-        )
-        .take(15)
-        .toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamDesktop);
 
     writer.writeln('### Ecosystem');
     writer.writeln();
@@ -364,10 +376,8 @@ class DashboardCommand extends Command {
     writer.writeln('team-ecosystem issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where(hasLabel('team-ecosystem')).take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, teamEcosystem);
+
 
     writer.writeln('### Dart SDK');
     writer.writeln();
@@ -375,10 +385,7 @@ class DashboardCommand extends Command {
     writer.writeln('dart-lang/sdk issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where((delta) => delta.repository == 'dart-lang/sdk').take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, dartSdk);
 
     writer.writeln('### Dart language');
     writer.writeln();
@@ -386,15 +393,12 @@ class DashboardCommand extends Command {
     writer.writeln('dart-lang/language issues that received the most reactions $window.');
     writer.writeln();
 
-    output.writeIssueDeltasTable(
-      writer,
-      deltas.where((delta) => delta.repository == 'dart-lang/language').take(15).toList(),
-    );
+    output.writeIssueDeltasTable(writer, dartLanguage);
 
     writer.writeln('## Graphs');
     writer.writeln();
 
-    output.writeIssueDeltaGraphs(writer, deltas);
+    output.writeIssueDeltaGraphs(writer, graphs);
 
     await writer.flush();
     await writer.close();

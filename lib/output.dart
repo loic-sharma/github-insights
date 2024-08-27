@@ -233,9 +233,9 @@ void writeIssueDeltaGraphs(
   for (final issue in issues) {
     final repositoryId = issue.repository.replaceFirst('/', '-');
 
-    writer.writeln('<a name="${repositoryId}-${issue.id}-graph">');
+    writer.writeln('<a name="$repositoryId-${issue.id}-graph">');
     writer.writeln('<details>');
-    writer.writeln('<summary>${issue.name}...</summary>');
+    writer.writeln('<summary>${issue.name} (${issue.repository}#${issue.id})...</summary>');
     writer.writeln();
 
     writer.writeln('```mermaid');
