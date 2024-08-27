@@ -190,11 +190,12 @@ const _minimumRecentReactionsForGraph = 5;
 void writeDashboard(
   IOSink writer,
   List<IssueDelta> deltas,
-  DateTime start,
+  DateTime start, // inclusive
+  DateTime end, // exclusive
 ) {
   final window =
     'from ${dayFormat.format(start)} '
-    'to ${dayFormat.format(DateTime.timestamp())}';
+    'to ${dayFormat.format(end.add(Duration(days: -1)))}';
 
   bool Function(IssueDelta) hasLabel(String label) =>
     (IssueDelta delta) => delta.labels.any((l) => l == label);
@@ -272,7 +273,7 @@ void writeDashboard(
   writer.writeln('#### Framework');
   writer.writeln();
 
-  writer.writeln('team-framework issues that received the most reactions $window.');
+  writer.writeln('`team-framework` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamFramework);
@@ -280,7 +281,7 @@ void writeDashboard(
   writer.writeln('#### Design');
   writer.writeln();
 
-  writer.writeln('team-design issues that received the most reactions $window.');
+  writer.writeln('`team-design` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamDesign);
@@ -288,14 +289,14 @@ void writeDashboard(
   writer.writeln('#### Cupertino');
   writer.writeln();
 
-  writer.writeln('f: cupertino issues that received the most reactions $window.');
+  writer.writeln('`f: cupertino` issues that received the most reactions $window.');
 
   _writeIssueDeltasTable(writer, cupertino);
 
   writer.writeln('#### go_router');
   writer.writeln();
 
-  writer.writeln('team-go_router issues that received the most reactions $window.');
+  writer.writeln('`team-go_router` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamGoRouter);
@@ -303,7 +304,7 @@ void writeDashboard(
   writer.writeln('### Tool');
   writer.writeln();
 
-  writer.writeln('team-tool issues that received the most reactions $window.');
+  writer.writeln('`team-tool` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamTool);
@@ -311,7 +312,7 @@ void writeDashboard(
   writer.writeln('### Engine');
   writer.writeln();
 
-  writer.writeln('team-engine issues that received the most reactions $window.');
+  writer.writeln('`team-engine` issues that received the most reactions $window.');
 
   _writeIssueDeltasTable(writer, teamEngine);
 
@@ -321,7 +322,7 @@ void writeDashboard(
   writer.writeln('#### iOS');
   writer.writeln();
 
-  writer.writeln('team-ios issues that received the most reactions $window.');
+  writer.writeln('`team-ios` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamiOS);
@@ -329,7 +330,7 @@ void writeDashboard(
   writer.writeln('#### Android');
   writer.writeln();
 
-  writer.writeln('team-android issues that received the most reactions $window.');
+  writer.writeln('`team-android` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamAndroid);
@@ -337,7 +338,7 @@ void writeDashboard(
   writer.writeln('#### Web');
   writer.writeln();
 
-  writer.writeln('team-web issues that received the most reactions $window.');
+  writer.writeln('`team-web` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamWeb);
@@ -345,7 +346,7 @@ void writeDashboard(
   writer.writeln('#### Desktop');
   writer.writeln();
 
-  writer.writeln('team-desktop issues that received the most reactions $window.');
+  writer.writeln('`team-desktop` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamDesktop);
@@ -353,7 +354,7 @@ void writeDashboard(
   writer.writeln('### Ecosystem');
   writer.writeln();
 
-  writer.writeln('team-ecosystem issues that received the most reactions $window.');
+  writer.writeln('`team-ecosystem` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamEcosystem);
@@ -361,7 +362,7 @@ void writeDashboard(
   writer.writeln('### Dart SDK');
   writer.writeln();
 
-  writer.writeln('dart-lang/sdk issues that received the most reactions $window.');
+  writer.writeln('`dart-lang/sdk` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, dartSdk);
@@ -369,7 +370,7 @@ void writeDashboard(
   writer.writeln('### Dart language');
   writer.writeln();
 
-  writer.writeln('dart-lang/language issues that received the most reactions $window.');
+  writer.writeln('`dart-lang/language` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, dartLanguage);
