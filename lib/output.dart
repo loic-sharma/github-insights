@@ -211,7 +211,11 @@ void writeIssueDeltas(
     writer.writeln('  ```mermaid');
     writer.writeln('  xychart-beta');
     writer.writeln('    x-axis "Week" [${issue.buckets.join(', ')}]');
-    writer.writeln('    y-axis "Reactions"');
+    if (issue.values.any((v) => v > 20)) {
+      writer.writeln('    y-axis "Reactions"');
+    } else {
+      writer.writeln('    y-axis "Reactions" 0 --> 20');
+    }
     writer.writeln('    bar [${issue.values.join(', ')}]');
     writer.writeln('  ```');
     writer.writeln();

@@ -2,7 +2,8 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-05-27 to 2024-08-28.
+Issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * Proposal: Framework needs to be aware of physical pixels<br />
   <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 152 total reactions, 137 recent reactions</sub><br />
   <sub>
@@ -44,7 +45,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 3, 13, 2, 5, 9, 1, 1, 3, 12, 2, 5, 2, 0]
   ```
 
@@ -76,7 +77,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 3, 1, 10, 4, 0, 4, 1, 3, 3, 5, 1, 2, 0]
   ```
 
@@ -108,7 +109,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 4, 2, 7, 4, 5, 0, 7, 6, 0]
   ```
 
@@ -124,7 +125,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 5, 1, 1, 3, 0, 0, 2, 2, 1, 2, 2, 6, 0]
   ```
 
@@ -140,7 +141,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 2, 2, 5, 4, 1, 1, 4, 1, 0, 1, 1, 2, 0]
   ```
 
@@ -172,7 +173,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 15, 4, 0]
   ```
 
@@ -188,7 +189,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 3, 9, 0, 2, 1, 1, 1, 0, 4, 1, 5, 2, 0]
   ```
 
@@ -204,7 +205,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 7, 0, 2, 2, 1, 0, 1, 6, 6, 0]
   ```
 
@@ -220,7 +221,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 5, 1, 0, 1, 0, 1, 0, 0, 2, 0, 0]
   ```
 
@@ -236,7 +237,7 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 3, 10, 0, 2, 0, 0, 0, 1, 1, 3, 0, 0, 0]
   ```
 
@@ -249,7 +250,8 @@ Issues that received the most reactions from 2024-05-27 to 2024-08-28.
 
 #### Framework
 
-team-framework issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-framework issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * Proposal: Framework needs to be aware of physical pixels<br />
   <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 152 total reactions, 137 recent reactions</sub><br />
   <sub>
@@ -275,7 +277,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 2, 2, 5, 4, 1, 1, 4, 1, 0, 1, 1, 2, 0]
   ```
 
@@ -291,7 +293,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 3, 9, 0, 2, 1, 1, 1, 0, 4, 1, 5, 2, 0]
   ```
 
@@ -307,7 +309,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [3, 2, 1, 0, 1, 3, 3, 2, 0, 1, 1, 2, 1, 0]
   ```
 
@@ -323,7 +325,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 0, 4, 5, 1, 1, 2, 0, 3, 0, 0, 0]
   ```
 
@@ -339,7 +341,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 2, 0, 1, 2, 2, 0, 3, 0, 1, 1, 0, 1, 0]
   ```
 
@@ -355,7 +357,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 2, 1, 0, 5, 0, 1, 0, 0, 3, 1, 0, 0, 0]
   ```
 
@@ -371,7 +373,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 1, 0, 2, 2, 2, 0, 0, 1, 0, 1, 0]
   ```
 
@@ -387,7 +389,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0]
   ```
 
@@ -403,7 +405,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 2, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0]
   ```
 
@@ -419,7 +421,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 9, 0, 0, 1, 0]
   ```
 
@@ -435,7 +437,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 2, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0]
   ```
 
@@ -451,7 +453,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 0, 0, 1, 0, 3, 0, 0, 1, 0]
   ```
 
@@ -467,7 +469,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 2, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
@@ -483,7 +485,7 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 2, 0, 0]
   ```
 
@@ -492,7 +494,8 @@ team-framework issues that received the most reactions from 2024-05-27 to 2024-0
 
 #### Design
 
-team-design issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-design issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * Table > TableRow > TableCell colspan<br />
   <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 274 total reactions, 19 recent reactions</sub><br />
   <sub>
@@ -502,7 +505,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 4, 1, 1, 0, 0, 3, 5, 2, 0, 0, 2, 0]
   ```
 
@@ -518,7 +521,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0, 0]
   ```
 
@@ -534,7 +537,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 1, 1, 0, 0, 0, 0, 0, 1, 2, 1, 1, 0, 0]
   ```
 
@@ -550,7 +553,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -566,7 +569,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 1, 1, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -582,7 +585,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0]
   ```
 
@@ -598,7 +601,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 2, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0]
   ```
 
@@ -614,7 +617,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 2, 0, 0, 1, 0, 1, 0, 1, 0, 0]
   ```
 
@@ -630,7 +633,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0]
   ```
 
@@ -646,7 +649,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -662,7 +665,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0]
   ```
 
@@ -678,7 +681,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
@@ -694,7 +697,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -710,7 +713,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 1, 0, 0]
   ```
 
@@ -726,7 +729,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
@@ -735,7 +738,7 @@ team-design issues that received the most reactions from 2024-05-27 to 2024-08-2
 
 #### Cupertino
 
-f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-28.
+f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-27.
 * Cupertino back gesture are disabled when using PageRouteBuilder<br />
   <sub>[flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) &mdash; 51 total reactions, 5 recent reactions</sub><br />
   <sub>
@@ -745,7 +748,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -761,7 +764,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0]
   ```
 
@@ -777,7 +780,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
@@ -793,7 +796,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -809,7 +812,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
   ```
 
@@ -825,7 +828,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -841,7 +844,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0]
   ```
 
@@ -857,7 +860,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0]
   ```
 
@@ -873,7 +876,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
@@ -889,7 +892,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -905,7 +908,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -921,7 +924,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -937,7 +940,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -953,7 +956,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -969,7 +972,7 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -978,7 +981,8 @@ f: cupertino issues that received the most reactions from 2024-05-27 to 2024-08-
 
 #### go_router
 
-team-go_router issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-go_router issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * PopScope seems to be incompatible with GoRouter<br />
   <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 98 total reactions, 24 recent reactions</sub><br />
   <sub>
@@ -988,7 +992,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 4, 1, 2, 1, 1, 0, 1, 1, 1, 1, 0, 5, 0]
   ```
 
@@ -1004,7 +1008,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 3, 0, 2, 0]
   ```
 
@@ -1020,7 +1024,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 1, 0, 1, 1, 2, 0, 1, 1, 0, 0, 0]
   ```
 
@@ -1036,7 +1040,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 2, 0, 0, 0, 1, 0, 0, 3, 1, 0, 0]
   ```
 
@@ -1052,7 +1056,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
@@ -1068,7 +1072,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 0, 2, 2, 0, 0, 0, 1, 1, 0, 0]
   ```
 
@@ -1084,7 +1088,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 2, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -1100,7 +1104,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 2, 1, 0, 1, 1, 1, 0, 0, 0, 0]
   ```
 
@@ -1116,7 +1120,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 2, 0, 1, 0, 0, 1, 0, 0, 1, 0]
   ```
 
@@ -1132,7 +1136,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 0]
   ```
 
@@ -1148,7 +1152,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
   ```
 
@@ -1164,7 +1168,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -1180,7 +1184,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -1196,7 +1200,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -1212,7 +1216,7 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
   ```
 
@@ -1221,7 +1225,8 @@ team-go_router issues that received the most reactions from 2024-05-27 to 2024-0
 
 ### Tool
 
-team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-tool issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * Allow to provide compile-time variables for native platforms from a file<br />
   <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 133 total reactions, 48 recent reactions</sub><br />
   <sub>
@@ -1231,7 +1236,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 3, 1, 10, 4, 0, 4, 1, 3, 3, 5, 1, 2, 0]
   ```
 
@@ -1247,7 +1252,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [4, 0, 0, 4, 1, 0, 4, 1, 1, 0, 0, 0, 1, 0]
   ```
 
@@ -1263,7 +1268,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [5, 0, 1, 1, 2, 0, 0, 0, 2, 0, 1, 0, 1, 0]
   ```
 
@@ -1279,7 +1284,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 1, 0, 1, 1, 2, 1, 1, 0, 0, 1, 1, 1, 0]
   ```
 
@@ -1295,7 +1300,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -1311,7 +1316,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 1, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 0]
   ```
 
@@ -1327,7 +1332,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -1343,7 +1348,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0]
   ```
 
@@ -1359,7 +1364,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0]
   ```
 
@@ -1375,7 +1380,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -1391,7 +1396,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0]
   ```
 
@@ -1407,7 +1412,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
   ```
 
@@ -1423,7 +1428,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -1439,7 +1444,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -1455,7 +1460,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
@@ -1464,7 +1469,7 @@ team-tool issues that received the most reactions from 2024-05-27 to 2024-08-28.
 
 ### Engine
 
-team-engine issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-engine issues that received the most reactions from 2024-05-27 to 2024-08-27.
 * Add support for visionOS<br />
   <sub>[flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) &mdash; 331 total reactions, 44 recent reactions</sub><br />
   <sub>
@@ -1490,7 +1495,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [5, 3, 3, 2, 1, 1, 0, 0, 0, 2, 0, 1, 1, 0]
   ```
 
@@ -1506,7 +1511,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 7, 0, 0, 1, 1, 0, 6, 0, 0, 1, 0, 0]
   ```
 
@@ -1522,7 +1527,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 3, 2, 1, 0, 0, 0, 0, 1, 3, 0, 0, 0]
   ```
 
@@ -1538,7 +1543,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [4, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
   ```
 
@@ -1554,7 +1559,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -1570,7 +1575,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 3, 0, 0, 0, 0, 2, 0, 3, 1, 0]
   ```
 
@@ -1586,7 +1591,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 1, 2, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0]
   ```
 
@@ -1602,7 +1607,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 2, 0, 2, 0]
   ```
 
@@ -1618,7 +1623,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 1, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0]
   ```
 
@@ -1634,7 +1639,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 2, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
   ```
 
@@ -1650,7 +1655,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -1666,7 +1671,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0]
   ```
 
@@ -1682,7 +1687,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 0, 0, 0, 0]
   ```
 
@@ -1698,7 +1703,7 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -1709,7 +1714,8 @@ team-engine issues that received the most reactions from 2024-05-27 to 2024-08-2
 
 #### iOS
 
-team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-ios issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * ☂️ Add Swift Package Manager compatibility<br />
   <sub>[flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) &mdash; 141 total reactions, 28 recent reactions</sub><br />
   <sub>
@@ -1719,7 +1725,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 3, 10, 0, 2, 0, 0, 0, 1, 1, 3, 0, 0, 0]
   ```
 
@@ -1735,7 +1741,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 1, 0, 2, 6, 2, 3, 1, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -1751,7 +1757,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [5, 0, 2, 0, 0, 0, 1, 0, 2, 1, 1, 0, 0, 0]
   ```
 
@@ -1767,7 +1773,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 3, 0, 1, 0, 0, 1, 0, 1, 2, 0, 1, 0]
   ```
 
@@ -1783,7 +1789,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -1799,7 +1805,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 2, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -1815,7 +1821,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
@@ -1831,7 +1837,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 2, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
@@ -1847,7 +1853,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
@@ -1863,7 +1869,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
@@ -1879,7 +1885,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
   ```
 
@@ -1895,7 +1901,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0]
   ```
 
@@ -1911,7 +1917,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
@@ -1927,7 +1933,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -1943,7 +1949,7 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
@@ -1952,7 +1958,8 @@ team-ios issues that received the most reactions from 2024-05-27 to 2024-08-28.
 
 #### Android
 
-team-android issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-android issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * Flutter app flagged for missing accessibility content labels by Google Play Store<br />
   <sub>[flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) &mdash; 61 total reactions, 41 recent reactions</sub><br />
   <sub>
@@ -1962,7 +1969,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 4, 2, 7, 4, 5, 0, 7, 6, 0]
   ```
 
@@ -1978,7 +1985,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 5, 0, 5, 1, 0, 0, 1, 0, 1, 0, 0, 2, 0]
   ```
 
@@ -1994,7 +2001,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [3, 3, 0, 1, 0, -3, 0, 2, 0, 0, 0, 0, 2, 0]
   ```
 
@@ -2010,7 +2017,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 4, 0]
   ```
 
@@ -2026,7 +2033,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 0, 1, 2, 0, 0, 1, 2, 0, 0, 0, 0]
   ```
 
@@ -2042,7 +2049,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0]
   ```
 
@@ -2058,7 +2065,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0]
   ```
 
@@ -2074,7 +2081,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0]
   ```
 
@@ -2090,7 +2097,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0]
   ```
 
@@ -2106,7 +2113,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 1, 0, 0, 2, 1, 0, 0, 0, 0]
   ```
 
@@ -2122,7 +2129,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -2138,7 +2145,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -2154,7 +2161,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0]
   ```
 
@@ -2170,7 +2177,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -2186,7 +2193,7 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
   ```
 
@@ -2195,7 +2202,8 @@ team-android issues that received the most reactions from 2024-05-27 to 2024-08-
 
 #### Web
 
-team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-web issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * Enable "hot reload" (not just "hot restart") for Flutter Web<br />
   <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1121 total reactions, 67 recent reactions</sub><br />
   <sub>
@@ -2205,7 +2213,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 3, 13, 2, 5, 9, 1, 1, 3, 12, 2, 5, 2, 0]
   ```
 
@@ -2221,7 +2229,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 5, 1, 1, 3, 0, 0, 2, 2, 1, 2, 2, 6, 0]
   ```
 
@@ -2237,7 +2245,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [3, 0, 1, 1, 1, 0, 3, 1, 1, 2, 3, 3, 1, 0]
   ```
 
@@ -2253,7 +2261,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 0, 0]
   ```
 
@@ -2269,7 +2277,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 5, 0, 0, 0, 0, 0, 5, 0, 1, 0, 0, 0, 0]
   ```
 
@@ -2285,7 +2293,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [3, 2, 0, 0, 0, 0, 0, 4, 0, 1, 0, 1, 1, 0]
   ```
 
@@ -2301,7 +2309,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 1, 6, 0]
   ```
 
@@ -2317,7 +2325,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 6, 0, 0, 1, 0, 0, 0, 2, 3, 0, 0, 1, 0]
   ```
 
@@ -2333,7 +2341,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 1, 0, 1, 2, 0, 0, 2, 2, 1, 1, 0]
   ```
 
@@ -2349,7 +2357,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 1, 0, 2, 1, 0, 2, 1, 0, 1, 0, 0, 1, 0]
   ```
 
@@ -2365,7 +2373,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [2, 5, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -2381,7 +2389,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 2, 0]
   ```
 
@@ -2397,7 +2405,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 2, 0, 0, 1, 0, 1, 0, 1, 2, 0, 0, 1, 0]
   ```
 
@@ -2413,7 +2421,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 2, 0, 1, 1, 2, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -2429,7 +2437,7 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0]
   ```
 
@@ -2438,10 +2446,252 @@ team-web issues that received the most reactions from 2024-05-27 to 2024-08-28.
 
 #### Desktop
 
-team-desktop issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-desktop issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
+* Implement PlatformView support on Windows<br />
+  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 398 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 2, 1, 0, 1, 0, 2, 1, 1, 1, 5, 3, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [webview_flutter] Add macOS support<br />
+  <sub>[flutter/flutter#41725](https://github.com/flutter/flutter/issues/41725) &mdash; 385 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 2, 1, 1, 5, 0, 2, 1, 0, 0, 1, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [Windows] ☂️  Add support for Arm64 as a target<br />
+  <sub>[flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) &mdash; 48 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 3, 2, 0, 1, 0, 2, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [webview_flutter] Add Windows support<br />
+  <sub>[flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) &mdash; 305 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 2, 2, 0, 1, 1, 1, 0, 0, 0, 2, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Implement PlatformView support on macOS<br />
+  <sub>[flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) &mdash; 650 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [-1, 1, 1, 0, 0, 0, 0, 1, 3, 0, 0, 2, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Avoid requiring Visual Studio for Windows development<br />
+  <sub>[flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) &mdash; 75 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Make Windows plugin APIs thread-safe<br />
+  <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 28 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Implement PlatformView support on Linux<br />
+  <sub>[flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) &mdash; 125 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [Desktop] - Splash screen or background color customization<br />
+  <sub>[flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) &mdash; 171 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 2, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [google_sign_in] Support Windows<br />
+  <sub>[flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) &mdash; 19 total reactions, 4 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Use gtk4 for linux desktop<br />
+  <sub>[flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) &mdash; 55 total reactions, 4 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [video_player] Add Windows support<br />
+  <sub>[flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) &mdash; 190 total reactions, 4 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [webview_flutter] Add Linux support<br />
+  <sub>[flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) &mdash; 103 total reactions, 4 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 0, -2, 0, 0, 1, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Support stylus input on Windows 10 devices<br />
+  <sub>[flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) &mdash; 38 total reactions, 3 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [feature-request] Support pen pressure and pointer kinds on Linux<br />
+  <sub>[flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) &mdash; 39 total reactions, 3 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 ### Ecosystem
 
-team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-08-28.
+team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * [pigeon] Support typesafe EventChannels<br />
   <sub>[flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) &mdash; 171 total reactions, 32 recent reactions</sub><br />
   <sub>
@@ -2451,7 +2701,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 5, 1, 0, 1, 0, 1, 0, 0, 2, 0, 0]
   ```
 
@@ -2467,7 +2717,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 2, 2, 0, 0, 0, 1, 1, 0, 3, 0]
   ```
 
@@ -2483,7 +2733,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 1, 0, 0, 2, 0, 0, 0, 1, 1, 1, 0]
   ```
 
@@ -2499,7 +2749,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0]
   ```
 
@@ -2515,7 +2765,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
@@ -2531,7 +2781,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 1, 0, 4, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -2547,7 +2797,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -2563,7 +2813,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0]
   ```
 
@@ -2579,7 +2829,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -2595,7 +2845,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
@@ -2611,7 +2861,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -2627,7 +2877,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0]
   ```
 
@@ -2643,7 +2893,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -2659,7 +2909,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -2675,7 +2925,7 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0]
   ```
 
@@ -2684,7 +2934,8 @@ team-ecosystem issues that received the most reactions from 2024-05-27 to 2024-0
 
 ### Dart SDK
 
-dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08-28.
+dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
 * Move `Listenable`, `ValueListenable`, `ChangeNotifier` and `ValueNotifier` to the Dart sdk and add listening methods<br />
   <sub>[dart-lang/sdk#55816](https://github.com/dart-lang/sdk/issues/55816) &mdash; 38 total reactions, 36 recent reactions</sub><br />
   <sub>
@@ -2710,7 +2961,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 7, 0, 2, 2, 1, 0, 1, 6, 6, 0]
   ```
 
@@ -2726,7 +2977,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 3, 1, 0]
   ```
 
@@ -2742,7 +2993,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 7, 0, 0, 0]
   ```
 
@@ -2758,7 +3009,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 5, 1, 0, 4, 0, 0, 0, 1, 0, 1, 0, 0]
   ```
 
@@ -2774,7 +3025,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 0, 2, 1, 2, 0, 0, 0, 2, 0, 1, 2, 0, 0]
   ```
 
@@ -2790,7 +3041,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [5, 3, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
@@ -2806,7 +3057,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 1, 1, 2, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
@@ -2822,7 +3073,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 1, 0, 0, 4, 0, 0, 0, 0]
   ```
 
@@ -2838,7 +3089,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 4, 0, 0, 2, 0, 1, 0, 0]
   ```
 
@@ -2854,7 +3105,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 2, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -2870,7 +3121,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [1, 2, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0]
   ```
 
@@ -2886,7 +3137,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 2, 0, 0, 1, 2, 0, 0, 0, 0, 0]
   ```
 
@@ -2902,7 +3153,7 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0]
   ```
 
@@ -2918,8 +3169,252 @@ dart-lang/sdk issues that received the most reactions from 2024-05-27 to 2024-08
   ```mermaid
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions"
+    y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+### Dart language
+
+dart-lang/language issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
+* Reusable Pattern Matching<br />
+  <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 8 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* [Feature] Add support for an Undefined data type<br />
+  <sub>[dart-lang/language#877](https://github.com/dart-lang/language/issues/877) &mdash; 36 total reactions, 1 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Feature: Statically checked declaration-site variance<br />
+  <sub>[dart-lang/language#524](https://github.com/dart-lang/language/issues/524) &mdash; 208 total reactions, 1 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Allow for shorter dot syntax to access enum values<br />
+  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 954 total reactions, 1 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Static extension methods<br />
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1060 total reactions, 1 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Optional Semicolons<br />
+  <sub>[dart-lang/language#69](https://github.com/dart-lang/language/issues/69) &mdash; 1237 total reactions, 1 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Add data classes<br />
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2078 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Static Metaprogramming<br />
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1628 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Sum/union types and type matching<br />
+  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 501 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Abstract static methods<br />
+  <sub>[dart-lang/language#356](https://github.com/dart-lang/language/issues/356) &mdash; 377 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Support method/function overloads<br />
+  <sub>[dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) &mdash; 324 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Constant function literals<br />
+  <sub>[dart-lang/language#1048](https://github.com/dart-lang/language/issues/1048) &mdash; 285 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Terminating Tokens<br />
+  <sub>[dart-lang/language#72](https://github.com/dart-lang/language/issues/72) &mdash; 263 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* Import shorthand syntax<br />
+  <sub>[dart-lang/language#649](https://github.com/dart-lang/language/issues/649) &mdash; 233 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+* It is necessary to implement threads<br />
+  <sub>[dart-lang/language#333](https://github.com/dart-lang/language/issues/333) &mdash; 225 total reactions, 0 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
