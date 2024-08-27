@@ -185,7 +185,226 @@ class IssueDelta {
   final List<int> values;
 }
 
-void writeIssueDeltas(
+const _minimumRecentReactionsForGraph = 5;
+
+void writeDashboard(
+  IOSink writer,
+  List<IssueDelta> deltas,
+  DateTime start,
+) {
+  final window =
+    'from ${dayFormat.format(start)} '
+    'to ${dayFormat.format(DateTime.timestamp())}';
+
+  bool Function(IssueDelta) hasLabel(String label) =>
+    (IssueDelta delta) => delta.labels.any((l) => l == label);
+
+  final mostReactions = deltas.take(15).toList();
+  final cupertino = deltas.where(hasLabel('f: cupertino')).take(15).toList();
+  final dartSdk = deltas.where((delta) => delta.repository == 'dart-lang/sdk').take(15).toList();
+  final dartLanguage = deltas.where((delta) => delta.repository == 'dart-lang/language').take(15).toList();
+
+  final teamAndroid = deltas.where(hasLabel('team-android')).take(15).toList();
+  final teamDesign = deltas.where(hasLabel('team-design')).take(15).toList();
+  final teamEcosystem = deltas.where(hasLabel('team-web')).take(15).toList();
+  final teamEngine = deltas.where(hasLabel('team-engine')).take(15).toList();
+  final teamFramework = deltas.where(hasLabel('team-framework')).take(15).toList();
+  final teamGoRouter = deltas.where(hasLabel('team-go_router')).take(15).toList();
+  final teamiOS = deltas.where(hasLabel('team-ios')).take(15).toList();
+  final teamTool = deltas.where(hasLabel('team-tool')).take(15).toList();
+  final teamWeb = deltas.where(hasLabel('team-web')).take(15).toList();
+
+  final teamDesktop =
+    deltas
+      .where((delta) =>
+        delta
+          .labels
+          .any((label) =>
+            label == 'team-windows' ||
+            label == 'team-macos' ||
+            label == 'team-linux'
+          )
+      )
+    .take(15)
+    .toList();
+
+      
+  final all = [
+    ...mostReactions,
+    ...cupertino,
+    ...dartSdk,
+    ...dartLanguage,
+    ...teamAndroid,
+    ...teamDesign,
+    ...teamEcosystem,
+    ...teamEngine,
+    ...teamFramework,
+    ...teamGoRouter,
+    ...teamiOS,
+    ...teamTool,
+    ...teamWeb,
+    ...teamDesktop,
+  ];
+
+  final allIds = all.map((delta) => '${delta.repository}#${delta.id}').toSet();
+  final graphs = deltas
+    .where((delta) => delta.recentReactions >= _minimumRecentReactionsForGraph)
+    .where((delta) => allIds.contains('${delta.repository}#${delta.id}'))
+    .toList();
+
+  writer.writeln('# GitHub Insights');
+  writer.writeln();
+
+  writer.writeln('## Trending issues');
+  writer.writeln();
+
+  writer.writeln('Issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, mostReactions);
+
+  writer.writeln('## Trending issues by team');
+  writer.writeln();
+
+  writer.writeln('### Framework');
+  writer.writeln();
+
+  writer.writeln('#### Framework');
+  writer.writeln();
+
+  writer.writeln('team-framework issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamFramework);
+
+  writer.writeln('#### Design');
+  writer.writeln();
+
+  writer.writeln('team-design issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamDesign);
+
+  writer.writeln('#### Cupertino');
+  writer.writeln();
+
+  writer.writeln('f: cupertino issues that received the most reactions $window.');
+
+  _writeIssueDeltasTable(writer, cupertino);
+
+  writer.writeln('#### go_router');
+  writer.writeln();
+
+  writer.writeln('team-go_router issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamGoRouter);
+
+  writer.writeln('### Tool');
+  writer.writeln();
+
+  writer.writeln('team-tool issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamTool);
+
+  writer.writeln('### Engine');
+  writer.writeln();
+
+  writer.writeln('team-engine issues that received the most reactions $window.');
+
+  _writeIssueDeltasTable(writer, teamEngine);
+
+  writer.writeln('### Platforms');
+  writer.writeln();
+
+  writer.writeln('#### iOS');
+  writer.writeln();
+
+  writer.writeln('team-ios issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamiOS);
+
+  writer.writeln('#### Android');
+  writer.writeln();
+
+  writer.writeln('team-android issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamAndroid);
+
+  writer.writeln('#### Web');
+  writer.writeln();
+
+  writer.writeln('team-web issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamWeb);
+
+  writer.writeln('#### Desktop');
+  writer.writeln();
+
+  writer.writeln('team-desktop issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamDesktop);
+
+  writer.writeln('### Ecosystem');
+  writer.writeln();
+
+  writer.writeln('team-ecosystem issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamEcosystem);
+
+  writer.writeln('### Dart SDK');
+  writer.writeln();
+
+  writer.writeln('dart-lang/sdk issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, dartSdk);
+
+  writer.writeln('### Dart language');
+  writer.writeln();
+
+  writer.writeln('dart-lang/language issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, dartLanguage);
+
+  writer.writeln('## Graphs');
+  writer.writeln();
+
+  _writeIssueDeltasList(writer, graphs);
+}
+
+void _writeIssueDeltasTable(
+  IOSink writer,
+  List<IssueDelta> issues,
+) {
+  writer.writeln('Issue | Total reactions | Recent reactions');
+  writer.writeln('-- | -- | --');
+
+  for (final issue in issues) {
+    final repositoryId = issue.repository.replaceFirst('/', '-');
+  
+    writer.write('${issue.name} ');
+    writer.write('[${issue.repository}#${issue.id}](${issue.url}) ');
+    writer.write('| ${issue.totalReactions} | ');
+    if (issue.recentReactions >= _minimumRecentReactionsForGraph) {
+      writer.write('[${issue.recentReactions}](#$repositoryId-${issue.id}-graph)');
+    } else {
+      writer.write(issue.recentReactions);
+    }
+    writer.writeln();
+  }
+
+  writer.writeln();
+}
+
+void _writeIssueDeltasList(
   IOSink writer,
   List<IssueDelta> issues,
 ) {
@@ -227,63 +446,4 @@ void writeIssueDeltas(
     writer.writeln('  </sub>');
     writer.writeln();
   }
-}
-
-void writeIssueDeltaGraphs(
-  IOSink writer,
-  List<IssueDelta> issues,
-) {
-  for (final issue in issues) {
-    final repositoryId = issue.repository.replaceFirst('/', '-');
-
-    writer.writeln('<a name="$repositoryId-${issue.id}-graph"></a>');
-    writer.writeln('### ${issue.name}');
-    writer.writeln();
-
-    writer.writeln('[${issue.repository}#${issue.id}](${issue.url})');
-    writer.writeln();
-
-    writer.writeln('  <details>');
-    writer.writeln('  <summary>Graph...</summary>');
-    writer.writeln();
-
-    writer.writeln('```mermaid');
-    writer.writeln('xychart-beta');
-    writer.writeln('  x-axis "Week" [${issue.buckets.join(', ')}]');
-    if (issue.values.any((v) => v > 20)) {
-      writer.writeln('  y-axis "Reactions"');
-    } else {
-      writer.writeln('  y-axis "Reactions" 0 --> 20');
-    }
-    writer.writeln('  bar [${issue.values.join(', ')}]');
-    writer.writeln('```');
-    writer.writeln();
-
-    writer.writeln('</details>');
-    writer.writeln();
-  }
-}
-
-void writeIssueDeltasTable(
-  IOSink writer,
-  List<IssueDelta> issues,
-) {
-  writer.writeln('Issue | Total reactions | Recent reactions');
-  writer.writeln('-- | -- | --');
-
-  for (final issue in issues) {
-    final repositoryId = issue.repository.replaceFirst('/', '-');
-  
-    writer.write('${issue.name} ');
-    writer.write('[${issue.repository}#${issue.id}](${issue.url}) ');
-    writer.write('| ${issue.totalReactions} | ');
-    if (issue.recentReactions >= 5) {
-      writer.write('[${issue.recentReactions}](#$repositoryId-${issue.id}-graph)');
-    } else {
-      writer.write(issue.recentReactions);
-    }
-    writer.writeln();
-  }
-
-  writer.writeln();
 }
