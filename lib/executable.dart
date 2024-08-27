@@ -188,25 +188,43 @@ class DashboardCommand extends Command {
   @override
   Future<void> run() async {
     final args = argResults!;
+    final dataPath = 'top_issues'; // TODO
     final outputPath = path.canonicalize(args['output'] as String);
 
     final stopwatch = Stopwatch()..start();
 
+    print('Reading issue snapshots...');
+    final snapshots = await output.readSnapshotsDirectory(Directory(dataPath));
+    print('Read ${snapshots.length} snapshots');
+
+    final endDate = DateTime.timestamp().add(Duration(days: 1));
+    final end = DateTime.utc(endDate.year, endDate.month, endDate.day);
+    final start = end.add(Duration(days: -90));
+
+    final recentSnapshots = snapshots
+      .where((snapshot) => snapshot.date.isAfter(start))
+      .where((snapshot) => snapshot.date.isBefore(end))
+      .toList();
+
+
+
+    print('Writing dashboard file...');
     final outputDir = path.dirname(outputPath);
     final outputName = path.basename(outputPath);
     final outputFile = await output.createOutputFile(outputDir, outputName);
 
     final writer = outputFile.openWrite();
 
-    output.writeTrendingIssues(
+    output.writeIssueDeltas(
       writer,
       'flutter',
       'flutter',
-      <output.TrendingIssue>[
-        output.TrendingIssue(
+      <output.IssueDelta>[
+        output.IssueDelta(
           id: 151065,
           name: 'Proposal: Framework needs to be aware of physical pixels',
           url: Uri.parse('https://github.com/flutter/flutter/pull/150355'),
+          labels: <String>[],
           totalReactions: 123,
           recentReactions: 5,
           buckets: <String>['Jan 5', 'Jan 10'],

@@ -6,19 +6,21 @@ import 'package:path/path.dart' as path;
 
 import 'package:github_insights/logic.dart';
 
+final _dayFormat = intl.DateFormat('yyyy-MM-dd');
+
 class IssueSnapshot {
-  IssueSnapshot(
-    this.date,
-    this.repository,
-    this.id,
-    this.title,
-    this.state,
-    this.comments,
-    this.participants,
-    this.reactions,
-    this.createdAt,
-    this.labels,
-  ) : assert(date.isUtc),
+  IssueSnapshot({
+    required this.date,
+    required this.repository,
+    required this.id,
+    required this.title,
+    required this.state,
+    required this.comments,
+    required this.participants,
+    required this.reactions,
+    required this.createdAt,
+    required this.labels,
+  }) : assert(date.isUtc),
       assert(validRepository(repository)),
       assert(state == 'OPEN' || state == 'CLOSED'),
       assert(comments >= 0),
@@ -57,6 +59,40 @@ class IssueSnapshot {
   ///
   /// Null if this snapshot was captured before labels were supported.
   final List<String>? labels;
+
+  factory IssueSnapshot.fromJson(Map<String, dynamic> json) {
+    final date = DateTime.parse(json['date'] as String);
+    final labelsJson = json['labels'] as List<dynamic>? ?? const <dynamic>[];
+
+    return IssueSnapshot(
+      date: DateTime.utc(date.year, date.month, date.day),
+      repository: json['repository'] as String,
+      id: json['id'] as int,
+      title: json['title'] as String,
+      state: json['state'] as String,
+      comments: json['comments'] as int,
+      participants: json['participants'] as int,
+      reactions: json['reactions'] as int,
+      createdAt: DateTime.parse(json['createdAt'] as String),
+      labels: labelsJson.map((label) => label as String).toList(),
+    );
+  }
+
+  String toJson() {
+    return json.encode({
+      'date': _dayFormat.format(date),
+      'repository': repository,
+      'id': id,
+      'title': title,
+      'state': state,
+      'comments': comments,
+      'participants': participants,
+      'reactions': reactions,
+      'createdAt': createdAt.toIso8601String(),
+      if (labels != null)
+        'labels': labels?.map((l) => l.toLowerCase()).toList(),
+    });
+  }
 }
 
 Future<File> createOutputFile(String outputPath, String name) async {
@@ -68,14 +104,42 @@ Future<File> createOutputFile(String outputPath, String name) async {
   return File(filePath);
 }
 
+Future<List<IssueSnapshot>> readSnapshotsDirectory(Directory directory) async {
+  final result = <IssueSnapshot>[];
+
+  final entities = directory.listSync(recursive: true);
+  for (final entity in entities) {
+    if (entity is File && entity.path.endsWith('.jsonl')) {
+      final snapshots = await readSnapshotsFile(entity);
+
+      result.addAll(snapshots);
+    }
+  }
+
+  return result;
+}
+
+Future<List<IssueSnapshot>> readSnapshotsFile(File file) async {
+  final result = <IssueSnapshot>[];
+
+  final lines = await file.readAsLines();
+  for (final line in lines) {
+    final snapshotJson = json.decode(line) as Map<String, dynamic>;
+    final snapshot = IssueSnapshot.fromJson(snapshotJson);
+
+    result.add(snapshot);
+  }
+
+  return result;
+}
+
 Future<void> writeSnapshots(
   IOSink writer,
   List<IssueSnapshot> snapshots,
 ) async {
-  final dayFormat = intl.DateFormat('yyyy-MM-dd');
   for (final snapshot in snapshots) {
     final snapshotJson = json.encode({
-      'date': dayFormat.format(snapshot.date),
+      'date': _dayFormat.format(snapshot.date),
       'repository': snapshot.repository,
       'id': snapshot.id,
       'title': snapshot.title,
@@ -95,20 +159,23 @@ Future<void> writeSnapshots(
   await writer.close();
 }
 
-class TrendingIssue {
-  const TrendingIssue({
+class IssueDelta {
+  const IssueDelta({
     required this.id,
     required this.name,
     required this.url,
+    required this.labels,
     required this.totalReactions,
     required this.recentReactions,
     required this.buckets,
     required this.values,
-  });
+  }) : assert(buckets.length == values.length);
 
   final int id;
   final String name;
   final Uri url;
+  final List<String> labels;
+
   final int totalReactions;
   final int recentReactions;
 
@@ -116,11 +183,11 @@ class TrendingIssue {
   final List<int> values;
 }
 
-void writeTrendingIssues(
+void writeIssueDeltas(
   IOSink writer,
   String owner,
   String repository,
-  List<TrendingIssue> issues,
+  List<IssueDelta> issues,
 ) {
   for (final issue in issues) {
     writer.write('* ${issue.name}<br />');
@@ -130,7 +197,8 @@ void writeTrendingIssues(
     writer.write('<sub>');
     writer.write('[$owner/$repository#${issue.id}](${issue.url}) ');
     writer.write('&mdash; ');
-    writer.write('${issue.totalReactions} total reactions, ${issue.recentReactions} recent reactions');
+    writer.write('${issue.totalReactions} total reactions, ');
+    writer.write('${issue.recentReactions} recent reactions');
     writer.write('</sub>');
     writer.write('<br />');
     writer.writeln();
@@ -142,9 +210,9 @@ void writeTrendingIssues(
 
     writer.writeln('  ```mermaid');
     writer.writeln('  xychart-beta');
-    writer.writeln('    x-axis [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec]');
+    writer.writeln('    x-axis [${issue.buckets.join(', ')}]');
     writer.writeln('    y-axis "Reactions"');
-    writer.writeln('    bar [5000, 6000, 7500, 8200, 9500, 10500, 11000, 10200, 9200, 8500, 7000, 6000]');
+    writer.writeln('    bar [${issue.values.join(', ')}]');
     writer.writeln('  ```');
     writer.writeln();
 

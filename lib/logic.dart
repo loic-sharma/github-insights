@@ -1,5 +1,6 @@
 import 'package:github_insights/github.dart' as github;
 import 'package:github_insights/output.dart' as output;
+import 'package:intl/date_symbols.dart';
 
 
 Future<List<output.IssueSnapshot>> loadTopIssues(
@@ -27,16 +28,16 @@ Future<List<output.IssueSnapshot>> loadTopIssues(
   return issues
     .take(limit)
     .map((issue) => output.IssueSnapshot(
-      today,
-      repository,
-      issue.number,
-      issue.title,
-      issue.state,
-      issue.comments,
-      issue.participants,
-      issue.reactions,
-      issue.createdAt,
-      issue.labels,
+      date: today,
+      repository: repository,
+      id: issue.number,
+      title: issue.title,
+      state: issue.state,
+      comments: issue.comments,
+      participants: issue.participants,
+      reactions: issue.reactions,
+      createdAt: issue.createdAt,
+      labels: issue.labels,
     ))
     .toList();
 }
@@ -156,16 +157,16 @@ List<output.IssueSnapshot> createSnapshots(
     }
 
     snapshots.add(output.IssueSnapshot(
-      snapshotDate,
-      repository,
-      issue.number,
-      issue.title,
-      snapshotState,
-      snapshotComments,
-      snapshotParticipants.length,
-      snapshotReactions,
-      issue.createdAt,
-      labels,
+      date: snapshotDate,
+      repository: repository,
+      id: issue.number,
+      title: issue.title,
+      state: snapshotState,
+      comments: snapshotComments,
+      participants: snapshotParticipants.length,
+      reactions: snapshotReactions,
+      createdAt: issue.createdAt,
+      labels: labels,
     ));
 
     snapshotDate = snapshotDate.add(const Duration(days: 1));
