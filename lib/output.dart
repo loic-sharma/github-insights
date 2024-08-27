@@ -264,9 +264,12 @@ void writeIssueDeltasTable(
   writer.writeln('-- | -- | --');
 
   for (final issue in issues) {
+    final repositoryId = issue.repository.replaceFirst('/', '-');
+  
     writer.write('${issue.name} ');
     writer.write('[${issue.repository}#${issue.id}](${issue.url}) ');
-    writer.write('| ${issue.totalReactions} | ${issue.recentReactions}');
+    writer.write('| ${issue.totalReactions} | ');
+    writer.write('[${issue.recentReactions}](#$repositoryId-${issue.id}-graph)');
     writer.writeln();
   }
 
