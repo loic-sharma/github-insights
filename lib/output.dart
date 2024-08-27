@@ -226,6 +226,36 @@ void writeIssueDeltas(
   }
 }
 
+void writeIssueDeltaGraphs(
+  IOSink writer,
+  List<IssueDelta> issues,
+) {
+  for (final issue in issues) {
+    final repositoryId = issue.repository.replaceFirst('/', '-');
+
+    writer.writeln('<a name="${repositoryId}-${issue.id}-graph">');
+    writer.writeln('<details>');
+    writer.writeln('<summary>${issue.name}...</summary>');
+    writer.writeln();
+
+    writer.writeln('```mermaid');
+    writer.writeln('xychart-beta');
+    writer.writeln('  x-axis "Week" [${issue.buckets.join(', ')}]');
+    if (issue.values.any((v) => v > 20)) {
+      writer.writeln('  y-axis "Reactions"');
+    } else {
+      writer.writeln('  y-axis "Reactions" 0 --> 20');
+    }
+    writer.writeln('  bar [${issue.values.join(', ')}]');
+    writer.writeln('```');
+    writer.writeln();
+
+    writer.writeln('</details>');
+    writer.writeln('</a>');
+    writer.writeln();
+  }
+}
+
 void writeIssueDeltasTable(
   IOSink writer,
   List<IssueDelta> issues,
