@@ -380,6 +380,17 @@ class DashboardCommand extends Command {
       deltas.where((delta) => delta.repository == 'dart-lang/sdk').take(15).toList(),
     );
 
+    writer.writeln('### Dart language');
+    writer.writeln();
+
+    writer.writeln('dart-lang/language issues that received the most reactions $window.');
+    writer.writeln();
+
+    output.writeIssueDeltasTable(
+      writer,
+      deltas.where((delta) => delta.repository == 'dart-lang/language').take(15).toList(),
+    );
+
     await writer.flush();
     await writer.close();
 

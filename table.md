@@ -290,3 +290,25 @@ pkg:json - Support for enums [dart-lang/sdk#55760](https://github.com/dart-lang/
 Provide interop between Dart and WASM [dart-lang/sdk#37355](https://github.com/dart-lang/sdk/issues/37355) | 185 | 6
 [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 52 | 6
 
+### Dart language
+
+dart-lang/language issues that received the most reactions from 2024-05-27 to 2024-08-27.
+
+Issue | Total reactions | Recent reactions
+-- | -- | --
+Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 8 | 5
+[Feature] Add support for an Undefined data type [dart-lang/language#877](https://github.com/dart-lang/language/issues/877) | 36 | 1
+Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 208 | 1
+Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 954 | 1
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1060 | 1
+Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1237 | 1
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2078 | 0
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1628 | 0
+Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 501 | 0
+Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 377 | 0
+Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 324 | 0
+Constant function literals [dart-lang/language#1048](https://github.com/dart-lang/language/issues/1048) | 285 | 0
+Terminating Tokens [dart-lang/language#72](https://github.com/dart-lang/language/issues/72) | 263 | 0
+Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 233 | 0
+It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 225 | 0
+
