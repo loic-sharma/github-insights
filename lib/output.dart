@@ -240,6 +240,10 @@ void writeIssueDeltaGraphs(
     writer.writeln('[${issue.repository}#${issue.id}](${issue.url})');
     writer.writeln();
 
+    writer.writeln('  <details>');
+    writer.writeln('  <summary>Graph...</summary>');
+    writer.writeln();
+
     writer.writeln('```mermaid');
     writer.writeln('xychart-beta');
     writer.writeln('  x-axis "Week" [${issue.buckets.join(', ')}]');
@@ -253,7 +257,6 @@ void writeIssueDeltaGraphs(
     writer.writeln();
 
     writer.writeln('</details>');
-    writer.writeln('</a>');
     writer.writeln();
   }
 }

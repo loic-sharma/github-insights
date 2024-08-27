@@ -319,6 +319,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065)
 
+  <details>
+  <summary>Graph...</summary>
+
 ```mermaid
 xychart-beta
   x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
@@ -327,12 +330,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-55378-graph"></a>
 ### add spacing parameter to Column and Row
 
 [flutter/flutter#55378](https://github.com/flutter/flutter/issues/55378)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -342,12 +347,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-53041-graph"></a>
 ### Enable "hot reload" (not just "hot restart") for Flutter Web
 
 [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -357,12 +364,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-115704-graph"></a>
 ### Add support to define widget preview and see it in the IDE when developing
 
 [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -372,12 +381,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-139289-graph"></a>
 ### Allow to provide compile-time variables for native platforms from a file
 
 [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -387,12 +398,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-128313-graph"></a>
 ### Add support for visionOS
 
 [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -402,12 +415,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-109813-graph"></a>
 ### Flutter app flagged for missing accessibility content labels by Google Play Store
 
 [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -417,12 +432,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-145954-graph"></a>
 ### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
 
 [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -432,12 +449,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-138614-graph"></a>
 ### Preserve WillPopScope as an alternate for PopScope
 
 [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -447,12 +466,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-55816-graph"></a>
 ### Move `Listenable`, `ValueListenable`, `ChangeNotifier` and `ValueNotifier` to the Dart sdk and add listening methods
 
 [dart-lang/sdk#55816](https://github.com/dart-lang/sdk/issues/55816)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -462,12 +483,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-152953-graph"></a>
 ### Urgent Flutter 3.24.1 Cherry picks for web
 
 [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -477,12 +500,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
 
 [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -492,12 +517,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-54934-graph"></a>
 ### Support for hot reload in DDC
 
 [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -507,12 +534,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-66711-graph"></a>
 ### [pigeon] Support typesafe EventChannels
 
 [flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -522,12 +551,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-126005-graph"></a>
 ### ☂️ Add Swift Package Manager compatibility
 
 [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -537,12 +568,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
 
 [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -552,12 +585,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-138737-graph"></a>
 ### PopScope seems to be incompatible with GoRouter
 
 [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -567,12 +602,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-53875-graph"></a>
 ### Implement Workspace Feature [meta]
 
 [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -582,12 +619,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-46789-graph"></a>
 ### Improve the indexability (SEO) of Flutter apps on the web 
 
 [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -597,12 +636,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-14330-graph"></a>
 ### Code Push / Hot Update / out of band updates
 
 [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -612,12 +653,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-56358-graph"></a>
 ### @depreacte dart:html and other "legacy" DOM libraries
 
 [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -627,12 +670,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-65504-graph"></a>
 ### Ctrl+F support, finding text on a page (even when scrolled off screen)
 
 [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -642,12 +687,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-31713-graph"></a>
 ### Implement PlatformView support on Windows
 
 [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -657,12 +704,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-21594-graph"></a>
 ### Table > TableRow > TableCell colspan
 
 [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -672,12 +721,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-65065-graph"></a>
 ### Bundling assets only on a specific platform (and remove assets on another platform)
 
 [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -687,12 +738,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-26801-graph"></a>
 ### Apple CarPlay / Android Auto support?
 
 [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -702,12 +755,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-99606-graph"></a>
 ### Ability to change the keyboard language programmatically
 
 [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -717,12 +772,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-152995-graph"></a>
 ### [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0
 
 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -732,12 +789,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-91241-graph"></a>
 ### Video Player HDR Problem
 
 [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -747,12 +806,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-47600-graph"></a>
 ### Server-side rendering for Flutter web
 
 [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -762,12 +823,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-60240-graph"></a>
 ### Make it easier to upload Android native debug symbols for release builds
 
 [flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -777,12 +840,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-110431-graph"></a>
 ### Flutter adds additional one frame touch latency compared to native
 
 [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -792,12 +857,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-41725-graph"></a>
 ### [webview_flutter] Add macOS support
 
 [flutter/flutter#41725](https://github.com/flutter/flutter/issues/41725)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -807,12 +874,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-69529-graph"></a>
 ### [web] Scroll is not recognized by the browser
 
 [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -822,12 +891,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-149031-graph"></a>
 ### [WEB] Web Cache invalidation based on pubspec.yaml version
 
 [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -837,12 +908,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-124334-graph"></a>
 ### WebGPU Backend for Flutter Web
 
 [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -852,12 +925,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-124205-graph"></a>
 ### Keyboard issue on mobile Web platform
 
 [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -867,12 +942,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-140586-graph"></a>
 ### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
 
 [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -882,12 +959,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-54200-graph"></a>
 ### allow Hero widgets to have transitions within the same screen
 
 [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -897,12 +976,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-55991-graph"></a>
 ### ☂️ Explore shared memory multithreading
 
 [dart-lang/sdk#55991](https://github.com/dart-lang/sdk/issues/55991)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -912,12 +993,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-129757-graph"></a>
 ### ☂️ Native assets support
 
 [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -927,12 +1010,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-90856-graph"></a>
 ### ReorderableListView Weird Behaviour on reordering the second last child
 
 [flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -942,12 +1027,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-140869-graph"></a>
 ### [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens
 
 [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -957,12 +1044,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-96283-graph"></a>
 ### [Web]: Proposal to be able to build flutter web app with debug profile support
 
 [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -972,12 +1061,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-18443-graph"></a>
 ### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
 
 [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -987,12 +1078,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-107157-graph"></a>
 ### [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language
 
 [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1002,12 +1095,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-139292-graph"></a>
 ### New DOM renderer for Flutter web
 
 [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1017,12 +1112,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-109842-graph"></a>
 ### Add suport for Android 13 per-app language preferences 
 
 [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1032,12 +1129,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-127409-graph"></a>
 ### add restartApp() method
 
 [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1047,12 +1146,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
 
 [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1062,12 +1163,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
 
 [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1077,12 +1180,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-62597-graph"></a>
 ### [Windows] ☂️  Add support for Arm64 as a target
 
 [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1092,12 +1197,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-102003-graph"></a>
 ### Rewrite the NestedScrollView
 
 [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1107,12 +1214,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-141371-graph"></a>
 ### Web: include different files depending on the flavor
 
 [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1122,12 +1231,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-127855-graph"></a>
 ### Implement wide gamut color support in the Framework
 
 [flutter/flutter#127855](https://github.com/flutter/flutter/issues/127855)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1137,12 +1248,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-59284-graph"></a>
 ### Text widget incorrectly wraps Korean text
 
 [flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1152,12 +1265,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-37597-graph"></a>
 ### [webview_flutter] Add Windows support
 
 [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1167,12 +1282,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-116383-graph"></a>
 ### [in_app_purchase] Use StoreKit 2 APIs
 
 [flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1182,12 +1299,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-121929-graph"></a>
 ### [animation] using animations package with go_router package instead of Navigator.push() method
 
 [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1197,12 +1316,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-55762-graph"></a>
 ### Macros: Declaring a constructor on a generic class with an `implements` breaks generation
 
 [dart-lang/sdk#55762](https://github.com/dart-lang/sdk/issues/55762)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1212,12 +1333,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-104509-graph"></a>
 ### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
 
 [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1227,12 +1350,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-37159-graph"></a>
 ### Roku support
 
 [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1242,12 +1367,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-50565-graph"></a>
 ### ☂️ [vm/ffi] Native assets feature
 
 [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1257,12 +1384,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-10437-graph"></a>
 ### Do plugins need to know about hot reload and hot restart?
 
 [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1272,12 +1401,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-42855-graph"></a>
 ### Add possibility to truly cancel/dispose Fututre
 
 [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1287,12 +1418,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-55324-graph"></a>
 ### Support Firefox as a browser in flutter run
 
 [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1302,12 +1435,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-45296-graph"></a>
 ### [path_provider] Add support for web
 
 [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1317,12 +1452,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-120353-graph"></a>
 ### [go_router] ShellRoutes break iOS swipe back navigation
 
 [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1332,12 +1469,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-45336-graph"></a>
 ### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
 
 [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1347,12 +1486,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-18345-graph"></a>
 ### SliverAppBar flexibleSpace with height depending on children
 
 [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1362,12 +1503,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-14288-graph"></a>
 ### Antialiasing behaviour when same-colour 
 
 [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1377,12 +1520,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-122258-graph"></a>
 ### [go_router_builder] Define routes in separate files
 
 [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1392,12 +1537,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-108683-graph"></a>
 ### Add Dropdown support to `FilterChip`
 
 [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1407,12 +1554,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-146860-graph"></a>
 ### TextHeightBehaviour should allow more tightly-wrapped text
 
 [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1422,12 +1571,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-133746-graph"></a>
 ### [go_router] Unwanted black screen when using async redirect.
 
 [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1437,12 +1588,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-41722-graph"></a>
 ### Implement PlatformView support on macOS
 
 [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1452,12 +1605,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-83596-graph"></a>
 ### Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........
 
 [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1467,12 +1622,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-104908-graph"></a>
 ### Android TalkBack Item label warning for the whole screen
 
 [flutter/flutter#104908](https://github.com/flutter/flutter/issues/104908)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1482,12 +1639,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-64106-graph"></a>
 ### Tree shake unused assets
 
 [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1497,12 +1656,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-8230-graph"></a>
 ### Platform specific assets
 
 [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1512,12 +1673,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-86295-graph"></a>
 ### [integration_test] Allow driving native UI interactions from Dart
 
 [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1527,12 +1690,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-98178-graph"></a>
 ### [ListTile] Support custom height constraints of leading/trailing
 
 [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1542,12 +1707,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-27293-graph"></a>
 ### Wrapped Text has unexpected intrinsic size
 
 [flutter/flutter#27293](https://github.com/flutter/flutter/issues/27293)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1557,12 +1724,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-124382-graph"></a>
 ### Going back to the previous route, images should not be redrawn
 
 [flutter/flutter#124382](https://github.com/flutter/flutter/issues/124382)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1572,12 +1741,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-56217-graph"></a>
 ### :memo: Data Assets Tracker
 
 [dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1587,12 +1758,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-112196-graph"></a>
 ### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
 
 [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1602,12 +1775,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-42358-graph"></a>
 ### Missing inspections for unused class, unused public methods and properties
 
 [dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1617,12 +1792,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-46979-graph"></a>
 ### Support different dependencies when using flavors
 
 [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1632,12 +1809,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-55760-graph"></a>
 ### pkg:json - Support for enums
 
 [dart-lang/sdk#55760](https://github.com/dart-lang/sdk/issues/55760)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1647,12 +1826,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-56017-graph"></a>
 ### "Static" "version" in dart
 
 [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1662,12 +1843,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-77638-graph"></a>
 ### Avoid requiring Visual Studio for Windows development
 
 [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1677,12 +1860,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-19830-graph"></a>
 ### Can't resolve symbol io.flutter.plugin dependency
 
 [flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1692,12 +1877,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-91247-graph"></a>
 ### Flutter Camera plugin camera lens change
 
 [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1707,12 +1894,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-134346-graph"></a>
 ### Make Windows plugin APIs thread-safe
 
 [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1722,12 +1911,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-108177-graph"></a>
 ### [go_router] Add support for relative routes
 
 [flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1737,12 +1928,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-114131-graph"></a>
 ### [go_router] choose in redirect method if `push` or `go`
 
 [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1752,12 +1945,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-102408-graph"></a>
 ### [go_router] Replace redirect with onEnter and onExit
 
 [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1767,12 +1962,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-37355-graph"></a>
 ### Provide interop between Dart and WASM
 
 [dart-lang/sdk#37355](https://github.com/dart-lang/sdk/issues/37355)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1782,12 +1979,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-102560-graph"></a>
 ### Support Material Symbols 
 
 [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1797,12 +1996,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-sdk-46690-graph"></a>
 ### [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM
 
 [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1812,12 +2013,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-129638-graph"></a>
 ### Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc.
 
 [flutter/flutter#129638](https://github.com/flutter/flutter/issues/129638)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1827,12 +2030,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-117061-graph"></a>
 ### Back gesture on Android 12+ kills app rather than backgrounding it
 
 [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1842,12 +2047,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-129640-graph"></a>
 ### Support eye tracking when running on visionOS or iOS
 
 [flutter/flutter#129640](https://github.com/flutter/flutter/issues/129640)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1857,12 +2064,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-127852-graph"></a>
 ### [Impeller] Implement Wide Gamut colors for Vulkan
 
 [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1872,12 +2081,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-57609-graph"></a>
 ### Let iOS keyboard dismissal synchronize with scroll
 
 [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1887,12 +2098,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-115926-graph"></a>
 ### Blur filter isn't clipped when using border radius
 
 [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1902,12 +2115,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-29021-graph"></a>
 ### Expo like tool for flutter
 
 [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1917,12 +2132,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-64685-graph"></a>
 ### [image_picker][android] PickedFile should store the original file name. 
 
 [flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1932,12 +2149,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-90612-graph"></a>
 ### [flutter_tools] Add support for running custom scripts
 
 [flutter/flutter#90612](https://github.com/flutter/flutter/issues/90612)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1947,12 +2166,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-41724-graph"></a>
 ### Implement PlatformView support on Linux
 
 [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1962,12 +2183,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-69949-graph"></a>
 ### [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart 
 
 [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1977,12 +2200,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-141340-graph"></a>
 ### Update both `ProgressIndicator` for Material 3 redesign
 
 [flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -1992,12 +2217,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-26134-graph"></a>
 ### Support home and lock screen widgets
 
 [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2007,12 +2234,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-61081-graph"></a>
 ### Allow text wrapping behavior to be controlled
 
 [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2022,12 +2251,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-48381-graph"></a>
 ### Use a system default font on flutter
 
 [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2037,12 +2268,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-131690-graph"></a>
 ### Issue: Cannot theme progress indicators, many properties missing
 
 [flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2052,12 +2285,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-47441-graph"></a>
 ### Cupertino back gesture are disabled when using PageRouteBuilder
 
 [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2067,12 +2302,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-28901-graph"></a>
 ### Flutter support for Apple Watch
 
 [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2082,12 +2319,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-30541-graph"></a>
 ### Space between text and underline
 
 [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2097,12 +2336,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-69157-graph"></a>
 ### Build Flutter macOS artifacts with ARM architecture slice
 
 [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2112,12 +2353,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-105395-graph"></a>
 ### Android build fails with certain plugins if project is in a different drive (from sdk)
 
 [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2127,12 +2370,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-119536-graph"></a>
 ### [Engine][3.7] Emojis are not properly rendered
 
 [flutter/flutter#119536](https://github.com/flutter/flutter/issues/119536)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2142,12 +2387,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-62960-graph"></a>
 ### [proposal] Provide a way to close a specific dialog
 
 [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2157,12 +2404,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-95472-graph"></a>
 ### [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get
 
 [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2172,12 +2421,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-139427-graph"></a>
 ### Use the default NDK version from AGP
 
 [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2187,12 +2438,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="dart-lang-language-4057-graph"></a>
 ### Reusable Pattern Matching
 
 [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2202,12 +2455,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-129632-graph"></a>
 ### Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7)
 
 [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2217,12 +2472,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-41980-graph"></a>
 ### [Desktop] - Splash screen or background color customization
 
 [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2232,12 +2489,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-14230-graph"></a>
 ### Provide an easy way to select the version of Flutter to use
 
 [flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2247,12 +2506,14 @@ xychart-beta
 ```
 
 </details>
-</a>
 
 <a name="flutter-flutter-42560-graph"></a>
 ### Support for sheet presentation style
 
 [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560)
+
+  <details>
+  <summary>Graph...</summary>
 
 ```mermaid
 xychart-beta
@@ -2262,5 +2523,4 @@ xychart-beta
 ```
 
 </details>
-</a>
 
