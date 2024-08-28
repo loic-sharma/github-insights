@@ -59,16 +59,16 @@ ReorderableListView Weird Behaviour on reordering the second last child [flutter
 Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 42 | [9](#flutter-flutter-108683-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 248 | [9](#flutter-flutter-18345-graph)
 [ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 38 | [8](#flutter-flutter-98178-graph)
+Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 73 | [6](#flutter-flutter-48381-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 91 | [6](#flutter-flutter-102560-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 113 | [5](#flutter-flutter-101479-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 69 | [5](#flutter-flutter-36283-graph)
+[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 92 | [5](#flutter-flutter-62960-graph)
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 51 | [5](#flutter-flutter-47441-graph)
-Issue: Cannot theme progress indicators, many properties missing [flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) | 20 | [5](#flutter-flutter-131690-graph)
-Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 72 | [5](#flutter-flutter-48381-graph)
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 141 | [5](#flutter-flutter-42560-graph)
 Update both `ProgressIndicator` for Material 3 redesign [flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340) | 18 | [5](#flutter-flutter-141340-graph)
-[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 92 | [5](#flutter-flutter-62960-graph)
-Add a static function to Material UI widgets exposing internal default values [flutter/flutter#130135](https://github.com/flutter/flutter/issues/130135) | 64 | 4
+Issue: Cannot theme progress indicators, many properties missing [flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) | 20 | [5](#flutter-flutter-131690-graph)
+Missing default context menu buttons on each platform [flutter/flutter#107578](https://github.com/flutter/flutter/issues/107578) | 19 | 4
 
 #### Cupertino
 
@@ -76,9 +76,9 @@ Add a static function to Material UI widgets exposing internal default values [f
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 113 | [5](#flutter-flutter-101479-graph)
+[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 92 | [5](#flutter-flutter-62960-graph)
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 51 | [5](#flutter-flutter-47441-graph)
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 141 | [5](#flutter-flutter-42560-graph)
-[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 92 | [5](#flutter-flutter-62960-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 32 | 4
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 53 | 3
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 51 | 3
@@ -109,9 +109,9 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] Add support for relative routes [flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) | 48 | [6](#flutter-flutter-108177-graph)
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 37 | [6](#flutter-flutter-114131-graph)
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 29 | [5](#flutter-flutter-112181-graph)
-[go_router] `ShellRoute` should have a `redirect` method similar to `GoRoute` [flutter/flutter#114559](https://github.com/flutter/flutter/issues/114559) | 24 | 4
+[go_router] ShellRoute with CupertinoTabScaffold crashes with "multiple widgets used the same GlobalKey" [flutter/flutter#113757](https://github.com/flutter/flutter/issues/113757) | 25 | 4
+[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 22 | 4
 [go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 21 | 4
-[go_router] Support deferred libraries [flutter/flutter#99105](https://github.com/flutter/flutter/issues/99105) | 45 | 4
 
 ### Tool
 
@@ -127,10 +127,10 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 51 | [8](#flutter-flutter-8230-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 133 | [7](#flutter-flutter-46979-graph)
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 275 | [6](#flutter-flutter-29021-graph)
-Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 72 | [5](#flutter-flutter-69157-graph)
-Provide an easy way to select the version of Flutter to use [flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230) | 134 | [5](#flutter-flutter-14230-graph)
-[flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 24 | [5](#flutter-flutter-95472-graph)
 [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart  [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 20 | [5](#flutter-flutter-69949-graph)
+[flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 24 | [5](#flutter-flutter-95472-graph)
+Provide an easy way to select the version of Flutter to use [flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230) | 134 | [5](#flutter-flutter-14230-graph)
+Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 72 | [5](#flutter-flutter-69157-graph)
 [flutter_tools] Add support for running custom scripts [flutter/flutter#90612](https://github.com/flutter/flutter/issues/90612) | 42 | [5](#flutter-flutter-90612-graph)
 Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.com/flutter/flutter/issues/59430) | 76 | 4
 Let flutter be installable via homebrew [flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) | 1006 | 3
@@ -150,11 +150,11 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 157 | [9](#flutter-flutter-14288-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 24 | [9](#flutter-flutter-146860-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 30 | [6](#flutter-flutter-127852-graph)
-Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 118 | [5](#flutter-flutter-30541-graph)
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 38 | [5](#flutter-flutter-61081-graph)
-[Engine][3.7] Emojis are not properly rendered [flutter/flutter#119536](https://github.com/flutter/flutter/issues/119536) | 49 | [5](#flutter-flutter-119536-graph)
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 317 | [5](#flutter-flutter-26134-graph)
-Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 30 | 4
+Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 118 | [5](#flutter-flutter-30541-graph)
+[Engine][3.7] Emojis are not properly rendered [flutter/flutter#119536](https://github.com/flutter/flutter/issues/119536) | 49 | [5](#flutter-flutter-119536-graph)
+Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 38 | [5](#flutter-flutter-61081-graph)
+Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 185 | 4
 
 ### Platforms
 
@@ -172,8 +172,8 @@ Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc. 
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 93 | [6](#flutter-flutter-57609-graph)
 Support eye tracking when running on visionOS or iOS [flutter/flutter#129640](https://github.com/flutter/flutter/issues/129640) | 61 | [6](#flutter-flutter-129640-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 38 | [6](#flutter-flutter-115926-graph)
-Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 22 | [5](#flutter-flutter-129632-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 262 | [5](#flutter-flutter-28901-graph)
+Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 22 | [5](#flutter-flutter-129632-graph)
 Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) | 214 | 4
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 56 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 137 | 3
@@ -237,14 +237,14 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 651 | [9](#flutter-flutter-41722-graph)
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 75 | [7](#flutter-flutter-77638-graph)
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 28 | [7](#flutter-flutter-134346-graph)
-[Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 171 | [5](#flutter-flutter-41980-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 125 | [5](#flutter-flutter-41724-graph)
-[webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 103 | 4
-[google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 19 | 4
-[video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 190 | 4
+[Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 171 | [5](#flutter-flutter-41980-graph)
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 55 | 4
+[video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 190 | 4
+[google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 19 | 4
+[webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 103 | 4
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 39 | 3
-[Proposal] Icon support Linux desktop application [flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) | 43 | 3
+Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 38 | 3
 
 ### Ecosystem
 
@@ -297,9 +297,10 @@ Missing inspections for unused class, unused public methods and properties [dart
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 9 | [6](#dart-lang-language-4057-graph)
-Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 505 | 4
+Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 506 | [5](#dart-lang-language-83-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1062 | 3
 Platform (iOS, Android, etc.) should be a useable condition for conditional imports [dart-lang/language#2133](https://github.com/dart-lang/language/issues/2133) | 10 | 2
+Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 29 | 2
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1629 | 1
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1237 | 1
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 954 | 1
@@ -309,7 +310,6 @@ Allow both optional positional and optional named arguments in the same function
 Partial Classes and Methods feature request [dart-lang/language#252](https://github.com/dart-lang/language/issues/252) | 81 | 1
 Ability to provide constructor that forwards all arguments [dart-lang/language#493](https://github.com/dart-lang/language/issues/493) | 44 | 1
 [Feature] Add support for an Undefined data type [dart-lang/language#877](https://github.com/dart-lang/language/issues/877) | 36 | 1
-Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 28 | 1
 Setter/getter typing: Support "start as null, never go back" [dart-lang/language#2809](https://github.com/dart-lang/language/issues/2809) | 16 | 1
 
 ## Graphs
@@ -1878,23 +1878,6 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-46979-graph"></a>
-### Support different dependencies when using flavors
-  <sub>[flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) &mdash; 133 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-134346-graph"></a>
 ### Make Windows plugin APIs thread-safe
   <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 28 total reactions, 7 recent reactions</sub><br />
@@ -1929,9 +1912,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-102408-graph"></a>
-### [go_router] Replace redirect with onEnter and onExit
-  <sub>[flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) &mdash; 81 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-46979-graph"></a>
+### Support different dependencies when using flavors
+  <sub>[flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) &mdash; 133 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1940,7 +1923,24 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+    bar [0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-53884-graph"></a>
+### [dart2wasm] Support non-JS wasm runtimes
+  <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 50 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1963,9 +1963,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-53884-graph"></a>
-### [dart2wasm] Support non-JS wasm runtimes
-  <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 50 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-102408-graph"></a>
+### [go_router] Replace redirect with onEnter and onExit
+  <sub>[flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) &mdash; 81 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1974,7 +1974,24 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-48381-graph"></a>
+### Use a system default font on flutter
+  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 73 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 2, 0, 0, 1, 0, 1, 0, 1, 0, 1]
   ```
 
   </details>
@@ -2031,9 +2048,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4057-graph"></a>
-### Reusable Pattern Matching
-  <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 9 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 91 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2042,58 +2059,7 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-108177-graph"></a>
-### [go_router] Add support for relative routes
-  <sub>[flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) &mdash; 48 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 2, 0, 1, 0, 0, 1, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-29021-graph"></a>
-### Expo like tool for flutter
-  <sub>[flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) &mdash; 275 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-64685-graph"></a>
-### [image_picker][android] PickedFile should store the original file name. 
-  <sub>[flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685) &mdash; 42 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2116,9 +2082,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 38 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-29021-graph"></a>
+### Expo like tool for flutter
+  <sub>[flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) &mdash; 275 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2127,15 +2093,15 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+    bar [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 91 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-108177-graph"></a>
+### [go_router] Add support for relative routes
+  <sub>[flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) &mdash; 48 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2144,7 +2110,24 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0]
+    bar [0, 0, 1, 0, 2, 0, 1, 0, 0, 1, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4057-graph"></a>
+### Reusable Pattern Matching
+  <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 9 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2167,9 +2150,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-105395-graph"></a>
-### Android build fails with certain plugins if project is in a different drive (from sdk)
-  <sub>[flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) &mdash; 57 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-64685-graph"></a>
+### [image_picker][android] PickedFile should store the original file name. 
+  <sub>[flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685) &mdash; 42 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2178,15 +2161,15 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 1, 0, 0, 2, 1, 0, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-30541-graph"></a>
-### Space between text and underline
-  <sub>[flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) &mdash; 118 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 38 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2195,15 +2178,15 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0]
+    bar [0, 0, 1, 2, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-41980-graph"></a>
-### [Desktop] - Splash screen or background color customization
-  <sub>[flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) &mdash; 171 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-69949-graph"></a>
+### [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart 
+  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 20 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2212,7 +2195,7 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2235,9 +2218,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-36283-graph"></a>
-### Can't swipe to dismiss scrollable Bottom Sheet
-  <sub>[flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) &mdash; 69 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-26134-graph"></a>
+### Support home and lock screen widgets
+  <sub>[flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) &mdash; 317 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2246,41 +2229,7 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-47441-graph"></a>
-### Cupertino back gesture are disabled when using PageRouteBuilder
-  <sub>[flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) &mdash; 51 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61081-graph"></a>
-### Allow text wrapping behavior to be controlled
-  <sub>[flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) &mdash; 38 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+    bar [1, 0, 2, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2303,9 +2252,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-131690-graph"></a>
-### Issue: Cannot theme progress indicators, many properties missing
-  <sub>[flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-30541-graph"></a>
+### Space between text and underline
+  <sub>[flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) &mdash; 118 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2314,15 +2263,15 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-69157-graph"></a>
-### Build Flutter macOS artifacts with ARM architecture slice
-  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 72 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-105395-graph"></a>
+### Android build fails with certain plugins if project is in a different drive (from sdk)
+  <sub>[flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) &mdash; 57 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2331,7 +2280,126 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0]
+    bar [0, 0, 0, 1, 0, 1, 0, 0, 2, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-36283-graph"></a>
+### Can't swipe to dismiss scrollable Bottom Sheet
+  <sub>[flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) &mdash; 69 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-62960-graph"></a>
+### [proposal] Provide a way to close a specific dialog
+  <sub>[flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) &mdash; 92 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-28901-graph"></a>
+### Flutter support for Apple Watch
+  <sub>[flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) &mdash; 262 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-47441-graph"></a>
+### Cupertino back gesture are disabled when using PageRouteBuilder
+  <sub>[flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) &mdash; 51 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-41724-graph"></a>
+### Implement PlatformView support on Linux
+  <sub>[flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) &mdash; 125 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-41980-graph"></a>
+### [Desktop] - Splash screen or background color customization
+  <sub>[flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) &mdash; 171 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 2, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-83-graph"></a>
+### Sum/union types and type matching
+  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 506 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
@@ -2371,9 +2439,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-48381-graph"></a>
-### Use a system default font on flutter
-  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 72 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-95472-graph"></a>
+### [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get
+  <sub>[flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) &mdash; 24 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2382,7 +2450,7 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 0, 1, 0, 1, 0, 1, 0, 0]
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -2405,6 +2473,23 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-139427-graph"></a>
+### Use the default NDK version from AGP
+  <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-14230-graph"></a>
 ### Provide an easy way to select the version of Flutter to use
   <sub>[flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230) &mdash; 134 total reactions, 5 recent reactions</sub><br />
@@ -2417,23 +2502,6 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-41724-graph"></a>
-### Implement PlatformView support on Linux
-  <sub>[flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) &mdash; 125 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2456,6 +2524,23 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-69157-graph"></a>
+### Build Flutter macOS artifacts with ARM architecture slice
+  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 72 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-129632-graph"></a>
 ### Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7)
   <sub>[flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) &mdash; 22 total reactions, 5 recent reactions</sub><br />
@@ -2473,9 +2558,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-26134-graph"></a>
-### Support home and lock screen widgets
-  <sub>[flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) &mdash; 317 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-131690-graph"></a>
+### Issue: Cannot theme progress indicators, many properties missing
+  <sub>[flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) &mdash; 20 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2484,58 +2569,7 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-139427-graph"></a>
-### Use the default NDK version from AGP
-  <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-95472-graph"></a>
-### [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get
-  <sub>[flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) &mdash; 24 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-69949-graph"></a>
-### [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart 
-  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2558,9 +2592,9 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-62960-graph"></a>
-### [proposal] Provide a way to close a specific dialog
-  <sub>[flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) &mdash; 92 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-61081-graph"></a>
+### Allow text wrapping behavior to be controlled
+  <sub>[flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) &mdash; 38 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2569,24 +2603,7 @@ Setter/getter typing: Support "start as null, never go back" [dart-lang/language
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-28901-graph"></a>
-### Flutter support for Apple Watch
-  <sub>[flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) &mdash; 262 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 1, 1, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
