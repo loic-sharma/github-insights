@@ -12,8 +12,8 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 96 | [54](#flutter-flutter-115704-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 135 | [50](#flutter-flutter-139289-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [45](#flutter-flutter-128313-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 299 | [42](#flutter-flutter-145954-graph)
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [41](#flutter-flutter-109813-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 298 | [41](#flutter-flutter-145954-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 197 | [37](#flutter-flutter-138614-graph)
 Move `Listenable`, `ValueListenable`, `ChangeNotifier` and `ValueNotifier` to the Dart sdk and add listening methods [dart-lang/sdk#55816](https://github.com/dart-lang/sdk/issues/55816) | 38 | [36](#dart-lang-sdk-55816-graph)
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [34](#flutter-flutter-152953-graph)
@@ -80,8 +80,8 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 113 | [5](#flutter-flutter-101479-graph)
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 141 | [5](#flutter-flutter-42560-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 32 | 4
-Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 53 | 3
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 51 | 3
+Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 53 | 3
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 53 | 3
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 123 | 3
 Add new Cupertino time picker mode  [flutter/flutter#63696](https://github.com/flutter/flutter/issues/63696) | 24 | 2
@@ -89,7 +89,7 @@ CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](ht
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 19 | 1
 Automatic Icons Updater for Flutter [flutter/flutter#83741](https://github.com/flutter/flutter/issues/83741) | 17 | 1
 Add mouse cursor support to the remaining widgets [flutter/flutter#58192](https://github.com/flutter/flutter/issues/58192) | 17 | 1
-CupertinoPicker and CupertinoDatePicker don't play the ticker sound [flutter/flutter#37329](https://github.com/flutter/flutter/issues/37329) | 26 | 1
+Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/flutter/flutter/issues/55809) | 56 | 1
 
 #### go_router
 
@@ -109,9 +109,9 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] Add support for relative routes [flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) | 48 | [6](#flutter-flutter-108177-graph)
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 81 | [6](#flutter-flutter-102408-graph)
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 29 | [5](#flutter-flutter-112181-graph)
+[go_router] Add default pageBuilder to GoRouter [flutter/flutter#113282](https://github.com/flutter/flutter/issues/113282) | 40 | 4
 [go_router] Support deferred libraries [flutter/flutter#99105](https://github.com/flutter/flutter/issues/99105) | 45 | 4
 [go_router] Add support for the TabView for more beautiful animation [flutter/flutter#112267](https://github.com/flutter/flutter/issues/112267) | 42 | 4
-[go_router] Add default pageBuilder to GoRouter [flutter/flutter#113282](https://github.com/flutter/flutter/issues/113282) | 40 | 4
 
 ### Tool
 
@@ -154,7 +154,7 @@ Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 38 | [5](#flutter-flutter-61081-graph)
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 118 | [5](#flutter-flutter-30541-graph)
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 317 | [5](#flutter-flutter-26134-graph)
-☂️ [macOS] Support building engine on Apple Silicon without Rosetta [flutter/flutter#103386](https://github.com/flutter/flutter/issues/103386) | 32 | 4
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 48 | 4
 
 ### Platforms
 
@@ -175,10 +175,10 @@ Blur filter isn't clipped when using border radius [flutter/flutter#115926](http
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 22 | [5](#flutter-flutter-129632-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 262 | [5](#flutter-flutter-28901-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 56 | 4
-TextField with TextInputType.number and AutofillHints.creditCardNumber shows the wrong keyboard [flutter/flutter#104604](https://github.com/flutter/flutter/issues/104604) | 17 | 4
 Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) | 214 | 4
+TextField with TextInputType.number and AutofillHints.creditCardNumber shows the wrong keyboard [flutter/flutter#104604](https://github.com/flutter/flutter/issues/104604) | 17 | 4
+Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 137 | 3
 [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed  [flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) | 43 | 3
-In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 35 | 3
 
 #### Android
 
@@ -209,7 +209,7 @@ Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/fl
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1122 | [68](#flutter-flutter-53041-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 298 | [41](#flutter-flutter-145954-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 299 | [42](#flutter-flutter-145954-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 793 | [23](#flutter-flutter-46789-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [18](#flutter-flutter-152995-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [17](#flutter-flutter-47600-graph)
@@ -237,14 +237,14 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 651 | [9](#flutter-flutter-41722-graph)
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 28 | [7](#flutter-flutter-134346-graph)
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 75 | [7](#flutter-flutter-77638-graph)
+[google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 20 | [5](#flutter-flutter-103682-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 171 | [5](#flutter-flutter-41980-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 125 | [5](#flutter-flutter-41724-graph)
-[google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 20 | [5](#flutter-flutter-103682-graph)
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 55 | 4
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 103 | 4
 [Proposal] Icon support Linux desktop application [flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) | 44 | 4
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 190 | 4
-[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 39 | 3
+Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 48 | 3
 
 ### Ecosystem
 
@@ -253,7 +253,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1122 | [68](#flutter-flutter-53041-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 298 | [41](#flutter-flutter-145954-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 299 | [42](#flutter-flutter-145954-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 793 | [23](#flutter-flutter-46789-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [18](#flutter-flutter-152995-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [17](#flutter-flutter-47600-graph)
@@ -299,8 +299,8 @@ Issue | Total reactions | Recent reactions
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 11 | [8](#dart-lang-language-4057-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 507 | [6](#dart-lang-language-83-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1062 | 3
-Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 29 | 2
 Platform (iOS, Android, etc.) should be a useable condition for conditional imports [dart-lang/language#2133](https://github.com/dart-lang/language/issues/2133) | 10 | 2
+Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 29 | 2
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1629 | 1
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1237 | 1
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 954 | 1
@@ -416,6 +416,23 @@ Allow inferring the name on object patterns  [dart-lang/language#2563](https://g
   </details>
   </sub>
 
+<a name="flutter-flutter-145954-graph"></a>
+### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
+  <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 299 total reactions, 42 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 5, 1, 1, 3, 0, 0, 2, 2, 1, 2, 2, 6, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-109813-graph"></a>
 ### Flutter app flagged for missing accessibility content labels by Google Play Store
   <sub>[flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) &mdash; 61 total reactions, 41 recent reactions</sub><br />
@@ -428,23 +445,6 @@ Allow inferring the name on object patterns  [dart-lang/language#2563](https://g
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 4, 2, 7, 4, 5, 0, 7, 6, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145954-graph"></a>
-### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
-  <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 298 total reactions, 41 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 5, 1, 1, 3, 0, 0, 2, 2, 1, 2, 2, 6, 1]
   ```
 
   </details>
@@ -2218,6 +2218,23 @@ Allow inferring the name on object patterns  [dart-lang/language#2563](https://g
   </details>
   </sub>
 
+<a name="flutter-flutter-103682-graph"></a>
+### [google_sign_in] Support Windows
+  <sub>[flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-141340-graph"></a>
 ### Update both `ProgressIndicator` for Material 3 redesign
   <sub>[flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340) &mdash; 18 total reactions, 5 recent reactions</sub><br />
@@ -2541,23 +2558,6 @@ Allow inferring the name on object patterns  [dart-lang/language#2563](https://g
   </details>
   </sub>
 
-<a name="flutter-flutter-114012-graph"></a>
-### Camera CameraCaptureSession.close() crash
-  <sub>[flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) &mdash; 48 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-42560-graph"></a>
 ### Support for sheet presentation style
   <sub>[flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) &mdash; 141 total reactions, 5 recent reactions</sub><br />
@@ -2575,9 +2575,9 @@ Allow inferring the name on object patterns  [dart-lang/language#2563](https://g
   </details>
   </sub>
 
-<a name="flutter-flutter-112181-graph"></a>
-### [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute
-  <sub>[flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) &mdash; 29 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-114012-graph"></a>
+### Camera CameraCaptureSession.close() crash
+  <sub>[flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) &mdash; 48 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2586,7 +2586,7 @@ Allow inferring the name on object patterns  [dart-lang/language#2563](https://g
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1]
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1]
   ```
 
   </details>
@@ -2609,9 +2609,9 @@ Allow inferring the name on object patterns  [dart-lang/language#2563](https://g
   </details>
   </sub>
 
-<a name="flutter-flutter-103682-graph"></a>
-### [google_sign_in] Support Windows
-  <sub>[flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-112181-graph"></a>
+### [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute
+  <sub>[flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) &mdash; 29 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2620,7 +2620,7 @@ Allow inferring the name on object patterns  [dart-lang/language#2563](https://g
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1]
+    bar [1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1]
   ```
 
   </details>
