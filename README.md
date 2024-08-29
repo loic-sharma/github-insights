@@ -301,7 +301,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1062 | 3
 Platform (iOS, Android, etc.) should be a useable condition for conditional imports [dart-lang/language#2133](https://github.com/dart-lang/language/issues/2133) | 10 | 2
 Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 29 | 2
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1629 | 1
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1630 | 2
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1237 | 1
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 954 | 1
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 234 | 1
