@@ -296,7 +296,7 @@ Provide interop between Dart and WASM [dart-lang/sdk#37355](https://github.com/d
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 11 | [8](#dart-lang-language-4057-graph)
+Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 12 | [9](#dart-lang-language-4057-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 507 | [6](#dart-lang-language-83-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1062 | 3
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1630 | 2
@@ -1623,6 +1623,23 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
   </details>
   </sub>
 
+<a name="dart-lang-language-4057-graph"></a>
+### Reusable Pattern Matching
+  <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 12 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-86295-graph"></a>
 ### [integration_test] Allow driving native UI interactions from Dart
   <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 91 total reactions, 8 recent reactions</sub><br />
@@ -1754,23 +1771,6 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4057-graph"></a>
-### Reusable Pattern Matching
-  <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 11 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
   ```
 
   </details>
