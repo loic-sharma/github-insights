@@ -45,8 +45,8 @@ Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter
 Text widget incorrectly wraps Korean text [flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) | 35 | [11](#flutter-flutter-59284-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 163 | [9](#flutter-flutter-45336-graph)
 [Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 100 | [8](#flutter-flutter-105672-graph)
+Wrapped Text has unexpected intrinsic size [flutter/flutter#27293](https://github.com/flutter/flutter/issues/27293) | 31 | [8](#flutter-flutter-27293-graph)
 Going back to the previous route, images should not be redrawn [flutter/flutter#124382](https://github.com/flutter/flutter/issues/124382) | 27 | [8](#flutter-flutter-124382-graph)
-[integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 91 | [8](#flutter-flutter-86295-graph)
 
 #### Design
 
@@ -54,10 +54,10 @@ Going back to the previous route, images should not be redrawn [flutter/flutter#
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 274 | [19](#flutter-flutter-21594-graph)
+Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 279 | [24](#flutter-flutter-21594-graph)
 ReorderableListView Weird Behaviour on reordering the second last child [flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) | 27 | [13](#flutter-flutter-90856-graph)
-SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 248 | [9](#flutter-flutter-18345-graph)
 Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 42 | [9](#flutter-flutter-108683-graph)
+SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 248 | [9](#flutter-flutter-18345-graph)
 [ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 38 | [8](#flutter-flutter-98178-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 73 | [6](#flutter-flutter-48381-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 91 | [6](#flutter-flutter-102560-graph)
@@ -68,7 +68,7 @@ Support for sheet presentation style [flutter/flutter#42560](https://github.com/
 Issue: Cannot theme progress indicators, many properties missing [flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) | 20 | [5](#flutter-flutter-131690-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 92 | [5](#flutter-flutter-62960-graph)
 Update both `ProgressIndicator` for Material 3 redesign [flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340) | 18 | [5](#flutter-flutter-141340-graph)
-Different Appbar with same bottomNavigatioBar without nesting Scaffolds [flutter/flutter#36461](https://github.com/flutter/flutter/issues/36461) | 38 | 4
+Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 33 | [5](#flutter-flutter-76706-graph)
 
 #### Cupertino
 
@@ -123,8 +123,8 @@ Allow to provide compile-time variables for native platforms from a file [flutte
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 136 | [19](#flutter-flutter-65065-graph)
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 54 | [15](#flutter-flutter-129757-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 93 | [12](#flutter-flutter-107157-graph)
-Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 61 | [8](#flutter-flutter-64106-graph)
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 51 | [8](#flutter-flutter-8230-graph)
+Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 61 | [8](#flutter-flutter-64106-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 133 | [7](#flutter-flutter-46979-graph)
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 275 | [6](#flutter-flutter-29021-graph)
 [flutter_tools] Add support for running custom scripts [flutter/flutter#90612](https://github.com/flutter/flutter/issues/90612) | 42 | [5](#flutter-flutter-90612-graph)
@@ -144,10 +144,10 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 1990 | [22](#flutter-flutter-14330-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 507 | [18](#flutter-flutter-26801-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 293 | [12](#flutter-flutter-18443-graph)
+TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 26 | [11](#flutter-flutter-146860-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 164 | [11](#flutter-flutter-61229-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 83 | [10](#flutter-flutter-10437-graph)
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 75 | [10](#flutter-flutter-37159-graph)
-TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 24 | [9](#flutter-flutter-146860-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 157 | [9](#flutter-flutter-14288-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 30 | [6](#flutter-flutter-127852-graph)
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 118 | [5](#flutter-flutter-30541-graph)
@@ -190,7 +190,7 @@ Flutter app flagged for missing accessibility content labels by Google Play Stor
 Make it easier to upload Android native debug symbols for release builds [flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) | 245 | [16](#flutter-flutter-60240-graph)
 Add suport for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 76 | [12](#flutter-flutter-109842-graph)
 Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830) | 115 | [9](#flutter-flutter-19830-graph)
-Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 366 | [8](#flutter-flutter-83596-graph)
+Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 367 | [9](#flutter-flutter-83596-graph)
 Android TalkBack Item label warning for the whole screen [flutter/flutter#104908](https://github.com/flutter/flutter/issues/104908) | 65 | [8](#flutter-flutter-104908-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 30 | [7](#flutter-flutter-91247-graph)
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 21 | [6](#flutter-flutter-117061-graph)
@@ -284,10 +284,10 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Macros: Declaring a constructor on a generic class with an `implements` breaks generation [dart-lang/sdk#55762](https://github.com/dart-lang/sdk/issues/55762) | 15 | [10](#dart-lang-sdk-55762-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 36 | [10](#dart-lang-sdk-42855-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 508 | [8](#dart-lang-sdk-28617-graph)
-Missing inspections for unused class, unused public methods and properties [dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358) | 41 | [7](#dart-lang-sdk-42358-graph)
 :memo: Data Assets Tracker [dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) | 13 | [7](#dart-lang-sdk-56217-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 9 | [7](#dart-lang-sdk-56017-graph)
 pkg:json - Support for enums [dart-lang/sdk#55760](https://github.com/dart-lang/sdk/issues/55760) | 9 | [7](#dart-lang-sdk-55760-graph)
+Missing inspections for unused class, unused public methods and properties [dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358) | 41 | [7](#dart-lang-sdk-42358-graph)
 Provide interop between Dart and WASM [dart-lang/sdk#37355](https://github.com/dart-lang/sdk/issues/37355) | 185 | [6](#dart-lang-sdk-37355-graph)
 
 ### Dart language
@@ -603,6 +603,23 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
+<a name="flutter-flutter-21594-graph"></a>
+### Table > TableRow > TableCell colspan
+  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 279 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 4, 1, 1, 0, 0, 3, 5, 2, 0, 0, 2, 5]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
   <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 61 total reactions, 24 recent reactions</sub><br />
@@ -700,23 +717,6 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 0, 4, 5, 1, 1, 2, 0, 3, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-21594-graph"></a>
-### Table > TableRow > TableCell colspan
-  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 274 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 4, 1, 1, 0, 0, 3, 5, 2, 0, 0, 2, 0]
   ```
 
   </details>
@@ -1232,40 +1232,6 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="dart-lang-sdk-55281-graph"></a>
-### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 22 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 1, 2, 0, 0, 0, 2, 0, 1, 2, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-141371-graph"></a>
-### Web: include different files depending on the flavor
-  <sub>[flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) &mdash; 26 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-59284-graph"></a>
 ### Text widget incorrectly wraps Korean text
   <sub>[flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) &mdash; 35 total reactions, 11 recent reactions</sub><br />
@@ -1283,9 +1249,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-121929-graph"></a>
-### [animation] using animations package with go_router package instead of Navigator.push() method
-  <sub>[flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) &mdash; 49 total reactions, 11 recent reactions</sub><br />
+<a name="dart-lang-sdk-55281-graph"></a>
+### Dart Analyzer very slow/stuck
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 22 total reactions, 11 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1294,41 +1260,7 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 0, 0, 0, 1, 0, 0, 3, 1, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 164 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [4, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-62597-graph"></a>
-### [Windows] ☂️  Add support for Arm64 as a target
-  <sub>[flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) &mdash; 48 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 3, 2, 0, 1, 0, 2, 0, 0, 1, 0]
+    bar [1, 0, 2, 1, 2, 0, 0, 0, 2, 0, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1351,9 +1283,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-45296-graph"></a>
-### [path_provider] Add support for web
-  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 253 total reactions, 10 recent reactions</sub><br />
+<a name="flutter-flutter-141371-graph"></a>
+### Web: include different files depending on the flavor
+  <sub>[flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) &mdash; 26 total reactions, 11 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1362,7 +1294,75 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 26 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 2, 0, 2, 2]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-121929-graph"></a>
+### [animation] using animations package with go_router package instead of Navigator.push() method
+  <sub>[flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) &mdash; 49 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 2, 0, 0, 0, 1, 0, 0, 3, 1, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-62597-graph"></a>
+### [Windows] ☂️  Add support for Arm64 as a target
+  <sub>[flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) &mdash; 48 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 3, 2, 0, 1, 0, 2, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 164 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [4, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1419,6 +1419,23 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
+<a name="flutter-flutter-45296-graph"></a>
+### [path_provider] Add support for web
+  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 253 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-42855-graph"></a>
 ### Add possibility to truly cancel/dispose Fututre
   <sub>[dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) &mdash; 36 total reactions, 10 recent reactions</sub><br />
@@ -1470,9 +1487,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-18345-graph"></a>
-### SliverAppBar flexibleSpace with height depending on children
-  <sub>[flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) &mdash; 248 total reactions, 9 recent reactions</sub><br />
+<a name="flutter-flutter-14288-graph"></a>
+### Antialiasing behaviour when same-colour 
+  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 157 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1481,24 +1498,7 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 0, 0, 0, 0, 0, 1, 2, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 24 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 2, 0, 2, 0]
+    bar [1, 1, 2, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1521,9 +1521,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-14288-graph"></a>
-### Antialiasing behaviour when same-colour 
-  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 157 total reactions, 9 recent reactions</sub><br />
+<a name="flutter-flutter-83596-graph"></a>
+### Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........
+  <sub>[flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) &mdash; 367 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1532,7 +1532,7 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 4, 1]
   ```
 
   </details>
@@ -1555,9 +1555,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-41722-graph"></a>
-### Implement PlatformView support on macOS
-  <sub>[flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) &mdash; 651 total reactions, 9 recent reactions</sub><br />
+<a name="flutter-flutter-108683-graph"></a>
+### Add Dropdown support to `FilterChip`
+  <sub>[flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) &mdash; 42 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1566,7 +1566,24 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [-1, 1, 1, 0, 0, 0, 0, 1, 3, 0, 0, 2, 0, 1]
+    bar [1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-18345-graph"></a>
+### SliverAppBar flexibleSpace with height depending on children
+  <sub>[flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) &mdash; 248 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 1, 1, 0, 0, 0, 0, 0, 1, 2, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1589,9 +1606,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-108683-graph"></a>
-### Add Dropdown support to `FilterChip`
-  <sub>[flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) &mdash; 42 total reactions, 9 recent reactions</sub><br />
+<a name="flutter-flutter-41722-graph"></a>
+### Implement PlatformView support on macOS
+  <sub>[flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) &mdash; 651 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1600,15 +1617,15 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [-1, 1, 1, 0, 0, 0, 0, 1, 3, 0, 0, 2, 0, 1]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-83596-graph"></a>
-### Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........
-  <sub>[flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) &mdash; 366 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-28617-graph"></a>
+### Allow AOT executables to be cross-compiled
+  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 508 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1617,24 +1634,7 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-64106-graph"></a>
-### Tree shake unused assets
-  <sub>[flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) &mdash; 61 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 3]
   ```
 
   </details>
@@ -1674,9 +1674,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-124382-graph"></a>
-### Going back to the previous route, images should not be redrawn
-  <sub>[flutter/flutter#124382](https://github.com/flutter/flutter/issues/124382) &mdash; 27 total reactions, 8 recent reactions</sub><br />
+<a name="flutter-flutter-8230-graph"></a>
+### Platform specific assets
+  <sub>[flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) &mdash; 51 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1685,7 +1685,7 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 2, 0, 0]
+    bar [2, 1, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1708,9 +1708,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-8230-graph"></a>
-### Platform specific assets
-  <sub>[flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) &mdash; 51 total reactions, 8 recent reactions</sub><br />
+<a name="flutter-flutter-27293-graph"></a>
+### Wrapped Text has unexpected intrinsic size
+  <sub>[flutter/flutter#27293](https://github.com/flutter/flutter/issues/27293) &mdash; 31 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1719,15 +1719,15 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 0]
+    bar [0, 2, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-86295-graph"></a>
-### [integration_test] Allow driving native UI interactions from Dart
-  <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 91 total reactions, 8 recent reactions</sub><br />
+<a name="flutter-flutter-124382-graph"></a>
+### Going back to the previous route, images should not be redrawn
+  <sub>[flutter/flutter#124382](https://github.com/flutter/flutter/issues/124382) &mdash; 27 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1736,7 +1736,24 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 1, 0, 3, 0, 0, 1, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 1, 2, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-64106-graph"></a>
+### Tree shake unused assets
+  <sub>[flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) &mdash; 61 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1759,9 +1776,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="dart-lang-sdk-28617-graph"></a>
-### Allow AOT executables to be cross-compiled
-  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 508 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56217-graph"></a>
+### :memo: Data Assets Tracker
+  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1770,24 +1787,7 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-42358-graph"></a>
-### Missing inspections for unused class, unused public methods and properties
-  <sub>[dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358) &mdash; 41 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 4, 0, 0, 2, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1810,9 +1810,9 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56217-graph"></a>
-### :memo: Data Assets Tracker
-  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-77638-graph"></a>
+### Avoid requiring Visual Studio for Windows development
+  <sub>[flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) &mdash; 75 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1821,7 +1821,7 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 4, 0, 0, 2, 0, 1, 0, 0]
+    bar [1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1844,40 +1844,6 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
-<a name="flutter-flutter-91247-graph"></a>
-### Flutter Camera plugin camera lens change
-  <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 30 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-77638-graph"></a>
-### Avoid requiring Visual Studio for Windows development
-  <sub>[flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) &mdash; 75 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4057-graph"></a>
 ### Reusable Pattern Matching
   <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 10 total reactions, 7 recent reactions</sub><br />
@@ -1890,6 +1856,40 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-55760-graph"></a>
+### pkg:json - Support for enums
+  <sub>[dart-lang/sdk#55760](https://github.com/dart-lang/sdk/issues/55760) &mdash; 9 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-91247-graph"></a>
+### Flutter Camera plugin camera lens change
+  <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 30 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1912,6 +1912,23 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
   </details>
   </sub>
 
+<a name="dart-lang-sdk-42358-graph"></a>
+### Missing inspections for unused class, unused public methods and properties
+  <sub>[dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358) &mdash; 41 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 2, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-46979-graph"></a>
 ### Support different dependencies when using flavors
   <sub>[flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) &mdash; 133 total reactions, 7 recent reactions</sub><br />
@@ -1924,23 +1941,6 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-55760-graph"></a>
-### pkg:json - Support for enums
-  <sub>[dart-lang/sdk#55760](https://github.com/dart-lang/sdk/issues/55760) &mdash; 9 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2587,6 +2587,23 @@ Ability to provide constructor that forwards all arguments [dart-lang/language#4
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-76706-graph"></a>
+### Need a ReorderableListView.seperated constructor
+  <sub>[flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) &mdash; 33 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 2]
   ```
 
   </details>
