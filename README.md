@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-05-27 to 2024-08-29.
+Issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-framework` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Wrapped Text has unexpected intrinsic size [flutter/flutter#27293](https://githu
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-design` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`f: cupertino` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 51 | [5](#flutter-flutter-47441-graph)
@@ -93,7 +93,7 @@ Add mouse cursor support to the remaining widgets [flutter/flutter#58192](https:
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-go_router` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-tool` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Flutter test coverage will not report untested files [flutter/flutter#27997](htt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-engine` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [45](#flutter-flutter-128313-graph)
@@ -160,7 +160,7 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-ios` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-android` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Re-implement stretch overscroll behavior as a custom shader [flutter/flutter#829
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-web` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-desktop` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`team-ecosystem` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`dart-lang/sdk` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Missing inspections for unused class, unused public methods and properties [dart
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-05-27 to 2024-08-29.
+`dart-lang/language` issues that received the most reactions from 2024-05-27 to 2024-08-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
