@@ -80,8 +80,8 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 92 | [5](#flutter-flutter-62960-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 113 | [5](#flutter-flutter-101479-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 32 | 4
-Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 53 | 3
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 51 | 3
+Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 53 | 3
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 53 | 3
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 123 | 3
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 18 | 2
@@ -141,7 +141,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [45](#flutter-flutter-128313-graph)
-Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 1990 | [22](#flutter-flutter-14330-graph)
+Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 1992 | [24](#flutter-flutter-14330-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 507 | [18](#flutter-flutter-26801-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 293 | [12](#flutter-flutter-18443-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 165 | [12](#flutter-flutter-61229-graph)
@@ -244,7 +244,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 103 | 4
 [Proposal] Icon support Linux desktop application [flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) | 44 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 55 | 4
-Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 38 | 3
+Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 22 | 3
 
 ### Ecosystem
 
@@ -637,6 +637,23 @@ More concise syntax for defining sealed families [dart-lang/language#3021](https
   </details>
   </sub>
 
+<a name="flutter-flutter-14330-graph"></a>
+### Code Push / Hot Update / out of band updates
+  <sub>[flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) &mdash; 1992 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [5, 3, 3, 2, 1, 1, 0, 0, 0, 2, 0, 1, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-46789-graph"></a>
 ### Improve the indexability (SEO) of Flutter apps on the web 
   <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 793 total reactions, 23 recent reactions</sub><br />
@@ -649,23 +666,6 @@ More concise syntax for defining sealed families [dart-lang/language#3021](https
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [3, 0, 1, 1, 1, 0, 3, 1, 1, 2, 3, 3, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14330-graph"></a>
-### Code Push / Hot Update / out of band updates
-  <sub>[flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) &mdash; 1990 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [5, 3, 3, 2, 1, 1, 0, 0, 0, 2, 0, 1, 1, 0]
   ```
 
   </details>
