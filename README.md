@@ -193,8 +193,8 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 367 | [9](#flutter-flutter-83596-graph)
 Android TalkBack Item label warning for the whole screen [flutter/flutter#104908](https://github.com/flutter/flutter/issues/104908) | 65 | [8](#flutter-flutter-104908-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 30 | [7](#flutter-flutter-91247-graph)
-Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 21 | [6](#flutter-flutter-117061-graph)
 [image_picker][android] PickedFile should store the original file name.  [flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685) | 42 | [6](#flutter-flutter-64685-graph)
+Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 21 | [6](#flutter-flutter-117061-graph)
 [shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 52 | [5](#flutter-flutter-14337-graph)
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 48 | [5](#flutter-flutter-114012-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 21 | [5](#flutter-flutter-139427-graph)
@@ -285,9 +285,9 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 Macros: Declaring a constructor on a generic class with an `implements` breaks generation [dart-lang/sdk#55762](https://github.com/dart-lang/sdk/issues/55762) | 15 | [10](#dart-lang-sdk-55762-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 508 | [8](#dart-lang-sdk-28617-graph)
 Missing inspections for unused class, unused public methods and properties [dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358) | 41 | [7](#dart-lang-sdk-42358-graph)
-:memo: Data Assets Tracker [dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) | 13 | [7](#dart-lang-sdk-56217-graph)
 pkg:json - Support for enums [dart-lang/sdk#55760](https://github.com/dart-lang/sdk/issues/55760) | 9 | [7](#dart-lang-sdk-55760-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 9 | [7](#dart-lang-sdk-56017-graph)
+:memo: Data Assets Tracker [dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) | 13 | [7](#dart-lang-sdk-56217-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 50 | [6](#dart-lang-sdk-53884-graph)
 
 ### Dart language
@@ -297,20 +297,20 @@ pkg:json - Support for enums [dart-lang/sdk#55760](https://github.com/dart-lang/
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 12 | [9](#dart-lang-language-4057-graph)
+Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 240 | [7](#dart-lang-language-649-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 507 | [6](#dart-lang-language-83-graph)
-Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 239 | [6](#dart-lang-language-649-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 957 | 4
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1063 | 4
 Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 31 | 4
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1630 | 2
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 200 | 2
+Partial Classes and Methods feature request [dart-lang/language#252](https://github.com/dart-lang/language/issues/252) | 82 | 2
 Platform (iOS, Android, etc.) should be a useable condition for conditional imports [dart-lang/language#2133](https://github.com/dart-lang/language/issues/2133) | 10 | 2
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1630 | 2
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1237 | 1
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 208 | 1
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 204 | 1
 Feature Request: Variable Number of Arguments [dart-lang/language#1014](https://github.com/dart-lang/language/issues/1014) | 199 | 1
 Users want to define union or union-like APIs [dart-lang/language#145](https://github.com/dart-lang/language/issues/145) | 129 | 1
-Enhanced Default Constructors [dart-lang/language#698](https://github.com/dart-lang/language/issues/698) | 83 | 1
 
 ## Graphs
 
@@ -1810,9 +1810,9 @@ Enhanced Default Constructors [dart-lang/language#698](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56217-graph"></a>
-### :memo: Data Assets Tracker
-  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 7 recent reactions</sub><br />
+<a name="dart-lang-language-649-graph"></a>
+### Import shorthand syntax
+  <sub>[dart-lang/language#649](https://github.com/dart-lang/language/issues/649) &mdash; 240 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1821,7 +1821,7 @@ Enhanced Default Constructors [dart-lang/language#698](https://github.com/dart-l
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 4, 0, 0, 2, 0, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
   ```
 
   </details>
@@ -1963,6 +1963,23 @@ Enhanced Default Constructors [dart-lang/language#698](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56217-graph"></a>
+### :memo: Data Assets Tracker
+  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 4, 0, 0, 2, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-129638-graph"></a>
 ### Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc.
   <sub>[flutter/flutter#129638](https://github.com/flutter/flutter/issues/129638) &mdash; 67 total reactions, 6 recent reactions</sub><br />
@@ -1975,23 +1992,6 @@ Enhanced Default Constructors [dart-lang/language#698](https://github.com/dart-l
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-117061-graph"></a>
-### Back gesture on Android 12+ kills app rather than backgrounding it
-  <sub>[flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) &mdash; 21 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2201,9 +2201,9 @@ Enhanced Default Constructors [dart-lang/language#698](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-language-649-graph"></a>
-### Import shorthand syntax
-  <sub>[dart-lang/language#649](https://github.com/dart-lang/language/issues/649) &mdash; 239 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-117061-graph"></a>
+### Back gesture on Android 12+ kills app rather than backgrounding it
+  <sub>[flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) &mdash; 21 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2212,7 +2212,7 @@ Enhanced Default Constructors [dart-lang/language#698](https://github.com/dart-l
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]
+    bar [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
