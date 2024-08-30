@@ -14,7 +14,7 @@ Allow to provide compile-time variables for native platforms from a file [flutte
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [45](#flutter-flutter-128313-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 300 | [43](#flutter-flutter-145954-graph)
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [41](#flutter-flutter-109813-graph)
-Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 197 | [37](#flutter-flutter-138614-graph)
+Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 198 | [38](#flutter-flutter-138614-graph)
 Move `Listenable`, `ValueListenable`, `ChangeNotifier` and `ValueNotifier` to the Dart sdk and add listening methods [dart-lang/sdk#55816](https://github.com/dart-lang/sdk/issues/55816) | 38 | [36](#dart-lang-sdk-55816-graph)
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [34](#flutter-flutter-152953-graph)
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 146 | [33](#dart-lang-sdk-54934-graph)
@@ -33,7 +33,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 152 | [137](#flutter-flutter-151065-graph)
-Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 197 | [37](#flutter-flutter-138614-graph)
+Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 198 | [38](#flutter-flutter-138614-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 631 | [32](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 61 | [24](#flutter-flutter-142845-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 145 | [20](#flutter-flutter-65504-graph)
@@ -452,7 +452,7 @@ More concise syntax for defining sealed families [dart-lang/language#3021](https
 
 <a name="flutter-flutter-138614-graph"></a>
 ### Preserve WillPopScope as an alternate for PopScope
-  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 197 total reactions, 37 recent reactions</sub><br />
+  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 198 total reactions, 38 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -461,7 +461,7 @@ More concise syntax for defining sealed families [dart-lang/language#3021](https
   xychart-beta
     x-axis "Week" [May 27, Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [2, 2, 2, 5, 4, 1, 1, 4, 1, 0, 1, 1, 2, 0]
+    bar [2, 2, 2, 5, 4, 1, 1, 4, 1, 0, 1, 1, 2, 1]
   ```
 
   </details>
