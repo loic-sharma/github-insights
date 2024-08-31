@@ -43,10 +43,10 @@ allow Hero widgets to have transitions within the same screen [flutter/flutter#5
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 86 | [11](#flutter-flutter-102003-graph)
 Text widget incorrectly wraps Korean text [flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) | 35 | [11](#flutter-flutter-59284-graph)
 Implement wide gamut color support in the Framework [flutter/flutter#127855](https://github.com/flutter/flutter/issues/127855) | 68 | [11](#flutter-flutter-127855-graph)
-Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 24 | [10](#flutter-flutter-106277-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 163 | [9](#flutter-flutter-45336-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 91 | [8](#flutter-flutter-86295-graph)
 [Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 100 | [8](#flutter-flutter-105672-graph)
+Wrapped Text has unexpected intrinsic size [flutter/flutter#27293](https://github.com/flutter/flutter/issues/27293) | 31 | [7](#flutter-flutter-27293-graph)
 
 #### Design
 
@@ -146,6 +146,7 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 293 | [12](#flutter-flutter-18443-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 83 | [10](#flutter-flutter-10437-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 26 | [10](#flutter-flutter-146860-graph)
+Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 24 | [10](#flutter-flutter-106277-graph)
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 75 | [9](#flutter-flutter-37159-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 165 | [8](#flutter-flutter-61229-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 157 | [7](#flutter-flutter-14288-graph)
@@ -154,7 +155,6 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 [Engine][3.7] Emojis are not properly rendered [flutter/flutter#119536](https://github.com/flutter/flutter/issues/119536) | 49 | [5](#flutter-flutter-119536-graph)
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 118 | [5](#flutter-flutter-30541-graph)
 Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 30 | 4
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 48 | 4
 
 ### Platforms
 
@@ -1805,6 +1805,23 @@ Enhanced Default Constructors [dart-lang/language#698](https://github.com/dart-l
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-27293-graph"></a>
+### Wrapped Text has unexpected intrinsic size
+  <sub>[flutter/flutter#27293](https://github.com/flutter/flutter/issues/27293) &mdash; 31 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
