@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-06-03 to 2024-08-31.
+Issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-framework` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Wrapped Text has unexpected intrinsic size [flutter/flutter#27293](https://githu
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-design` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Different Appbar with same bottomNavigatioBar without nesting Scaffolds [flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`f: cupertino` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 143 | [7](#flutter-flutter-42560-graph)
@@ -93,7 +93,7 @@ Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/fl
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-go_router` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-tool` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.c
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-engine` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [43](#flutter-flutter-128313-graph)
@@ -160,7 +160,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-ios` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-android` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Re-implement stretch overscroll behavior as a custom shader [flutter/flutter#829
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-web` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,13 +220,13 @@ Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.co
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 26 | [11](#flutter-flutter-141371-graph)
 [Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 131 | [11](#flutter-flutter-96283-graph)
 New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292) | 85 | [10](#flutter-flutter-139292-graph)
-[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 323 | [9](#flutter-flutter-33577-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 45 | [9](#flutter-flutter-129933-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 64 | [9](#flutter-flutter-104509-graph)
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 253 | [9](#flutter-flutter-45296-graph)
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-desktop` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`team-ecosystem` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,13 +264,13 @@ Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.co
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 26 | [11](#flutter-flutter-141371-graph)
 [Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 131 | [11](#flutter-flutter-96283-graph)
 New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292) | 85 | [10](#flutter-flutter-139292-graph)
-[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 323 | [9](#flutter-flutter-33577-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 45 | [9](#flutter-flutter-129933-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 64 | [9](#flutter-flutter-104509-graph)
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 253 | [9](#flutter-flutter-45296-graph)
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`dart-lang/sdk` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,12 +292,12 @@ pkg:json - Support for enums [dart-lang/sdk#55760](https://github.com/dart-lang/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-06-03 to 2024-08-31.
+`dart-lang/language` issues that received the most reactions from 2024-06-03 to 2024-09-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 13 | [10](#dart-lang-language-4057-graph)
-Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 241 | [8](#dart-lang-language-649-graph)
+Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 242 | [9](#dart-lang-language-649-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 507 | [6](#dart-lang-language-83-graph)
 Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 33 | [6](#dart-lang-language-108-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1064 | [5](#dart-lang-language-723-graph)
@@ -1334,23 +1334,6 @@ Users want to define union or union-like APIs [dart-lang/language#145](https://g
   </details>
   </sub>
 
-<a name="flutter-flutter-60240-graph"></a>
-### Make it easier to upload Android native debug symbols for release builds
-  <sub>[flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) &mdash; 245 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 5, 1, 0, 0, 1, 0, 1, 0, 0, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-106277-graph"></a>
 ### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
   <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 24 total reactions, 10 recent reactions</sub><br />
@@ -1368,9 +1351,9 @@ Users want to define union or union-like APIs [dart-lang/language#145](https://g
   </details>
   </sub>
 
-<a name="flutter-flutter-33577-graph"></a>
-### [web] Support compute on separate thread in Flutter Web
-  <sub>[flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) &mdash; 323 total reactions, 9 recent reactions</sub><br />
+<a name="flutter-flutter-60240-graph"></a>
+### Make it easier to upload Android native debug symbols for release builds
+  <sub>[flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) &mdash; 245 total reactions, 10 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1379,7 +1362,7 @@ Users want to define union or union-like APIs [dart-lang/language#145](https://g
   xychart-beta
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 3, 2]
+    bar [0, 0, 5, 1, 0, 0, 1, 0, 1, 0, 0, 2, 0]
   ```
 
   </details>
@@ -1504,6 +1487,40 @@ Users want to define union or union-like APIs [dart-lang/language#145](https://g
   </details>
   </sub>
 
+<a name="flutter-flutter-45296-graph"></a>
+### [path_provider] Add support for web
+  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 253 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-649-graph"></a>
+### Import shorthand syntax
+  <sub>[dart-lang/language#649](https://github.com/dart-lang/language/issues/649) &mdash; 242 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-45336-graph"></a>
 ### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
   <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 163 total reactions, 9 recent reactions</sub><br />
@@ -1533,23 +1550,6 @@ Users want to define union or union-like APIs [dart-lang/language#145](https://g
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-649-graph"></a>
-### Import shorthand syntax
-  <sub>[dart-lang/language#649](https://github.com/dart-lang/language/issues/649) &mdash; 241 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8]
   ```
 
   </details>
