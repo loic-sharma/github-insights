@@ -200,7 +200,7 @@ class DashboardCommand extends Command {
     final stopwatch = Stopwatch()..start();
 
     print('Reading issue snapshots...');
-    final snapshots = await output.readSnapshotsDirectory(Directory(dataPath));
+    var snapshots = await output.readSnapshotsDirectory(Directory(dataPath));
     print('Read ${snapshots.length} snapshots');
 
     final endDate = DateTime.timestamp().add(Duration(days: 1));

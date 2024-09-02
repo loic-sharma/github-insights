@@ -37,6 +37,8 @@ void main() {
       );
 
       expect(deltas.length, equals(1));
+      expect(deltas[0].totalReactions, equals(5));
+      expect(deltas[0].recentReactions, equals(3));
       expect(
         deltas[0].buckets,
         equals(['Jan 1']),
@@ -77,6 +79,8 @@ void main() {
       );
 
       expect(deltas.length, equals(1));
+      expect(deltas[0].totalReactions, equals(10));
+      expect(deltas[0].recentReactions, equals(10));
       expect(
         deltas[0].buckets,
         equals(['Jan 1']),

@@ -250,6 +250,10 @@ class _IssueDeltaBuilder {
       values.add(value);
     }
 
+    var recentReactions = (_isDateTimeBetween(_latest!.createdAt, start, end))
+      ? _latest!.reactions
+      : _latest!.reactions - _earliest!.reactions;
+
     return output.IssueDelta(
       id: _latest!.id,
       repository: _latest!.repository,
@@ -257,7 +261,7 @@ class _IssueDeltaBuilder {
       url: Uri.parse('https://github.com/${_latest!.repository}/issues/${_latest!.id}'),
       labels: _latest!.labels ?? const <String>[],
       totalReactions: _latest!.reactions,
-      recentReactions: _latest!.reactions - _earliest!.reactions,
+      recentReactions: recentReactions,
       buckets: buckets, values: values,
     );
   }
@@ -267,7 +271,7 @@ class _IssueDeltaBucketBuilder {
   DateTime _start = DateTime.utc(9999);
   DateTime _end = DateTime.utc(0);
 
-  DateTime? _createdAt = null;
+  DateTime? _createdAt;
   int _reactionsStart = -1;
   int _reactionsEnd = -1;
 
@@ -304,8 +308,6 @@ List<output.IssueDelta> calculateIssueDeltas(
   snapshots = snapshots
     .where((snapshot) => _isDateTimeBetween(snapshot.date, start, end))
     .toList();
-
-  DateTime? earliest;
 
   final deltaBuilders = <String, _IssueDeltaBuilder>{};
 
