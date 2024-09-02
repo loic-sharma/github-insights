@@ -244,7 +244,7 @@ class _IssueDeltaBuilder {
     final week = Duration(days: 7);
     for (var bucket = startOfWeekUtc(start); bucket.isBefore(end); bucket = bucket.add(week)) {
       final bucketName = _deltaBucketFormatter.format(bucket);
-      final value = _buckets[bucket]?.build() ?? 0;
+      final value = _buckets[bucket]?.build(start, end) ?? 0;
 
       buckets.add(bucketName);
       values.add(value);
@@ -267,10 +267,13 @@ class _IssueDeltaBucketBuilder {
   DateTime _start = DateTime.utc(9999);
   DateTime _end = DateTime.utc(0);
 
+  DateTime? _createdAt = null;
   int _reactionsStart = -1;
   int _reactionsEnd = -1;
 
   void add(output.IssueSnapshot snapshot) {
+    _createdAt = snapshot.createdAt;
+
     if (snapshot.date.isBefore(_start)) {
       _start = snapshot.date;
       _reactionsStart = snapshot.reactions;
@@ -282,7 +285,15 @@ class _IssueDeltaBucketBuilder {
     }
   }
 
-  int build() => _reactionsEnd - _reactionsStart;
+  int build(DateTime start, DateTime end) {
+    assert(_createdAt != null && _reactionsStart != -1 && _reactionsEnd != -1);
+
+    if (_isDateTimeBetween(_createdAt!, start, end)) {
+      return _reactionsEnd;
+    }
+
+    return _reactionsEnd - _reactionsStart;
+  }
 }
 
 List<output.IssueDelta> calculateIssueDeltas(
@@ -291,9 +302,10 @@ List<output.IssueDelta> calculateIssueDeltas(
   DateTime end, // exclusive
 ) {
   snapshots = snapshots
-    .where((snapshot) => snapshot.date.isAfter(start))
-    .where((snapshot) => snapshot.date.isBefore(end))
+    .where((snapshot) => _isDateTimeBetween(snapshot.date, start, end))
     .toList();
+
+  DateTime? earliest;
 
   final deltaBuilders = <String, _IssueDeltaBuilder>{};
 
@@ -308,6 +320,20 @@ List<output.IssueDelta> calculateIssueDeltas(
   }
 
   return deltaBuilders.values.map((b) => b.build(start, end)).toList();
+}
+
+bool _isDateTimeBetween(
+  DateTime date,
+  DateTime startInclusive,
+  DateTime endExclusive,
+) {
+  assert(startInclusive.isBefore(endExclusive));
+
+  if (date.isBefore(startInclusive)) return false;
+  if (date.isAfter(endExclusive)) return false;
+  if (date == endExclusive) return false;
+
+  return true;
 }
 
 DateTime startOfWeekUtc(DateTime date) {
