@@ -390,8 +390,11 @@ void _writeIssueDeltasTable(
 
   for (final issue in issues) {
     final repositoryId = issue.repository.replaceFirst('/', '-');
-  
-    writer.write('${issue.name} ');
+
+    // Escape the pipe character in the issue name.
+    final name = issue.name.replaceAll('|', '\\|');
+
+    writer.write('$name ');
     writer.write('[${issue.repository}#${issue.id}](${issue.url}) ');
     writer.write('| ${issue.totalReactions} | ');
     if (issue.recentReactions >= _minimumRecentReactionsForGraph) {
