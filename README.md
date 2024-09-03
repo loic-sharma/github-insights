@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-06-03 to 2024-09-02.
+Issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-framework` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Wrapped Text has unexpected intrinsic size [flutter/flutter#27293](https://githu
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-design` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`f: cupertino` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 143 | [7](#flutter-flutter-42560-graph)
@@ -93,7 +93,7 @@ Automatic Icons Updater for Flutter [flutter/flutter#83741](https://github.com/f
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-go_router` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-tool` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.c
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-engine` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [43](#flutter-flutter-128313-graph)
@@ -160,7 +160,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-ios` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-android` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/fl
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-web` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-desktop` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`team-ecosystem` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`dart-lang/sdk` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Missing inspections for unused class, unused public methods and properties [dart
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-06-03 to 2024-09-02.
+`dart-lang/language` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
