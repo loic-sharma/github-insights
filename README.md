@@ -104,8 +104,8 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 45 | [9](#flutter-flutter-122258-graph)
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 26 | [8](#flutter-flutter-133746-graph)
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 106 | [7](#flutter-flutter-112196-graph)
-[go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 48 | [6](#flutter-flutter-120353-graph)
 [go_router] Add support for relative routes [flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) | 48 | [6](#flutter-flutter-108177-graph)
+[go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 48 | [6](#flutter-flutter-120353-graph)
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 37 | [6](#flutter-flutter-114131-graph)
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 81 | [5](#flutter-flutter-102408-graph)
 [go_router] Support deferred libraries [flutter/flutter#99105](https://github.com/flutter/flutter/issues/99105) | 46 | [5](#flutter-flutter-99105-graph)
@@ -200,7 +200,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 30 | [5](#flutter-flutter-91247-graph)
 Re-implement stretch overscroll behavior as a custom shader [flutter/flutter#82906](https://github.com/flutter/flutter/issues/82906) | 107 | 4
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 48 | 4
-Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/flutter/flutter/issues/86248) | 44 | 4
+Video_Player issues - out of memory exception when choosing large file from phone to play [flutter/flutter#62118](https://github.com/flutter/flutter/issues/62118) | 44 | 4
 
 #### Web
 
@@ -285,9 +285,9 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 9 | [9](#dart-lang-sdk-56017-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 508 | [8](#dart-lang-sdk-28617-graph)
-Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
-Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 [native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
+Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
+Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) | 55 | [7](#dart-lang-sdk-43329-graph)
 
 ### Dart language
@@ -300,8 +300,8 @@ Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang
 Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
 Partial Record destructuring [dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) | 11 | [11](#dart-lang-language-3964-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 243 | [10](#dart-lang-language-649-graph)
-Allow pattern `case` conditions in `while` statements. [dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) | 9 | [9](#dart-lang-language-3927-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
+Allow pattern `case` conditions in `while` statements. [dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) | 9 | [9](#dart-lang-language-3927-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 8 | [8](#dart-lang-language-4030-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 508 | [7](#dart-lang-language-83-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1065 | [6](#dart-lang-language-723-graph)
@@ -1164,23 +1164,6 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-language-4057-graph"></a>
-### Reusable Pattern Matching
-  <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-150116-graph"></a>
 ### [Web | CanvasKit | Chrome] Image with color representation of "Uncalibrated" does not appear
   <sub>[flutter/flutter#150116](https://github.com/flutter/flutter/issues/150116) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1193,6 +1176,23 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4057-graph"></a>
+### Reusable Pattern Matching
+  <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13, 13]
   ```
 
   </details>
@@ -1691,9 +1691,9 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-language-3927-graph"></a>
-### Allow pattern `case` conditions in `while` statements.
-  <sub>[dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+<a name="dart-lang-language-3995-graph"></a>
+### More strict handling of exceptions
+  <sub>[dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) &mdash; 9 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1708,9 +1708,9 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-language-3995-graph"></a>
-### More strict handling of exceptions
-  <sub>[dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+<a name="dart-lang-language-3927-graph"></a>
+### Allow pattern `case` conditions in `while` statements.
+  <sub>[dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) &mdash; 9 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1895,6 +1895,40 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4030-graph"></a>
 ### Better error handling - add try expression or if exception operator
   <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -1924,40 +1958,6 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8]
   ```
 
   </details>
@@ -2354,23 +2354,6 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
   </details>
   </sub>
 
-<a name="flutter-flutter-120353-graph"></a>
-### [go_router] ShellRoutes break iOS swipe back navigation
-  <sub>[flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) &mdash; 48 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-108177-graph"></a>
 ### [go_router] Add support for relative routes
   <sub>[flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) &mdash; 48 total reactions, 6 recent reactions</sub><br />
@@ -2383,6 +2366,23 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 2, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-120353-graph"></a>
+### [go_router] ShellRoutes break iOS swipe back navigation
+  <sub>[flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) &mdash; 48 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2779,6 +2779,23 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
   </details>
   </sub>
 
+<a name="flutter-flutter-69949-graph"></a>
+### [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart 
+  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-103682-graph"></a>
 ### [google_sign_in] Support Windows
   <sub>[flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -2808,23 +2825,6 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-69949-graph"></a>
-### [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart 
-  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
