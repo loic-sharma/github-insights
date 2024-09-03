@@ -12,8 +12,8 @@ add spacing parameter to Column and Row [flutter/flutter#55378](https://github.c
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 96 | [54](#flutter-flutter-115704-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 137 | [50](#flutter-flutter-139289-graph)
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [48](#flutter-flutter-152953-graph)
+Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 44 | [44](#flutter-flutter-154491-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [43](#flutter-flutter-128313-graph)
-Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 43 | [43](#flutter-flutter-154491-graph)
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [41](#flutter-flutter-109813-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 301 | [36](#flutter-flutter-145954-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
@@ -140,8 +140,8 @@ Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.c
 `team-engine` issues that received the most reactions from 2024-06-03 to 2024-09-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
+Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 44 | [44](#flutter-flutter-154491-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 332 | [43](#flutter-flutter-128313-graph)
-Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 43 | [43](#flutter-flutter-154491-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 1994 | [21](#flutter-flutter-14330-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 507 | [18](#flutter-flutter-26801-graph)
 Consider merging platform and UI thread [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 16 | [16](#flutter-flutter-150525-graph)
@@ -416,6 +416,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   </details>
   </sub>
 
+<a name="flutter-flutter-154491-graph"></a>
+### Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd
+  <sub>[flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) &mdash; 44 total reactions, 44 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 44]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-128313-graph"></a>
 ### Add support for visionOS
   <sub>[flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) &mdash; 332 total reactions, 43 recent reactions</sub><br />
@@ -428,23 +445,6 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions"
     bar [1, 23, 5, 2, 0, 0, 1, 0, 0, 1, 0, 6, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-154491-graph"></a>
-### Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd
-  <sub>[flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) &mdash; 43 total reactions, 43 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 43]
   ```
 
   </details>
