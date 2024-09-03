@@ -240,8 +240,8 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 172 | [6](#flutter-flutter-41980-graph)
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 105 | [6](#flutter-flutter-41726-graph)
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 75 | [6](#flutter-flutter-77638-graph)
+[Proposal] Icon support Linux desktop application [flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) | 46 | [6](#flutter-flutter-53229-graph)
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 28 | [6](#flutter-flutter-134346-graph)
-[Proposal] Icon support Linux desktop application [flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) | 45 | [5](#flutter-flutter-53229-graph)
 [google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 20 | [5](#flutter-flutter-103682-graph)
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 190 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 55 | 4
@@ -2388,6 +2388,23 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
   </details>
   </sub>
 
+<a name="flutter-flutter-53229-graph"></a>
+### [Proposal] Icon support Linux desktop application
+  <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-114131-graph"></a>
 ### [go_router] choose in redirect method if `push` or `go`
   <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 37 total reactions, 6 recent reactions</sub><br />
@@ -2638,23 +2655,6 @@ Allow `with` as function name [dart-lang/language#4020](https://github.com/dart-
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-53229-graph"></a>
-### [Proposal] Icon support Linux desktop application
-  <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 45 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
