@@ -199,8 +199,8 @@ Android build fails with certain plugins if project is in a different drive (fro
 [shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 52 | [5](#flutter-flutter-14337-graph)
 [image_picker][android] PickedFile should store the original file name.  [flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685) | 42 | [5](#flutter-flutter-64685-graph)
 Re-implement stretch overscroll behavior as a custom shader [flutter/flutter#82906](https://github.com/flutter/flutter/issues/82906) | 107 | 4
+"Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 52 | 4
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 48 | 4
-Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/flutter/flutter/issues/86248) | 44 | 4
 
 #### Web
 
