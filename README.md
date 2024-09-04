@@ -17,7 +17,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [41](#flutter-flutter-109813-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 301 | [36](#flutter-flutter-145954-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
-Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 198 | [34](#flutter-flutter-138614-graph)
+Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 199 | [35](#flutter-flutter-138614-graph)
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 147 | [34](#dart-lang-sdk-54934-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 633 | [33](#flutter-flutter-30701-graph)
 [pigeon] Support typesafe EventChannels [flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) | 172 | [33](#flutter-flutter-66711-graph)
@@ -33,7 +33,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 156 | [156](#flutter-flutter-151065-graph)
-Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 198 | [34](#flutter-flutter-138614-graph)
+Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 199 | [35](#flutter-flutter-138614-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 633 | [33](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 67 | [27](#flutter-flutter-142845-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 147 | [21](#flutter-flutter-65504-graph)
@@ -503,7 +503,7 @@ Allow refutable patterns in assignment patterns. [dart-lang/language#4040](https
 
 <a name="flutter-flutter-138614-graph"></a>
 ### Preserve WillPopScope as an alternate for PopScope
-  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 198 total reactions, 34 recent reactions</sub><br />
+  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 199 total reactions, 35 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -512,7 +512,7 @@ Allow refutable patterns in assignment patterns. [dart-lang/language#4040](https
   xychart-beta
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
-    bar [2, 2, 5, 4, 1, 1, 4, 1, 0, 1, 1, 2, 1, 0]
+    bar [2, 2, 5, 4, 1, 1, 4, 1, 0, 1, 1, 2, 1, 1]
   ```
 
   </details>
