@@ -62,12 +62,12 @@ Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 74 | [7](#flutter-flutter-48381-graph)
 [ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 38 | [7](#flutter-flutter-98178-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 114 | [6](#flutter-flutter-101479-graph)
+Update both `ProgressIndicator` for Material 3 redesign [flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340) | 19 | [6](#flutter-flutter-141340-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 92 | [5](#flutter-flutter-62960-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 69 | [5](#flutter-flutter-36283-graph)
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 51 | [5](#flutter-flutter-47441-graph)
 Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 33 | [5](#flutter-flutter-76706-graph)
 Issue: Cannot theme progress indicators, many properties missing [flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) | 20 | [5](#flutter-flutter-131690-graph)
-Update both `ProgressIndicator` for Material 3 redesign [flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340) | 18 | [5](#flutter-flutter-141340-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 91 | 4
 
 #### Cupertino
@@ -2524,6 +2524,23 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="flutter-flutter-141340-graph"></a>
+### Update both `ProgressIndicator` for Material 3 redesign
+  <sub>[flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340) &mdash; 19 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 2, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-14230-graph"></a>
 ### Provide an easy way to select the version of Flutter to use
   <sub>[flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230) &mdash; 134 total reactions, 5 recent reactions</sub><br />
@@ -2796,23 +2813,6 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-131690-graph"></a>
-### Issue: Cannot theme progress indicators, many properties missing
-  <sub>[flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-69949-graph"></a>
 ### [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart 
   <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -2847,9 +2847,9 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-141340-graph"></a>
-### Update both `ProgressIndicator` for Material 3 redesign
-  <sub>[flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-131690-graph"></a>
+### Issue: Cannot theme progress indicators, many properties missing
+  <sub>[flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) &mdash; 20 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2858,7 +2858,7 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0, 0]
   ```
 
   </details>
