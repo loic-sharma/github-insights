@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-06-03 to 2024-09-04.
+Issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-framework` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Wrapped Text has unexpected intrinsic size [flutter/flutter#27293](https://githu
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-design` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`f: cupertino` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 144 | [8](#flutter-flutter-42560-graph)
@@ -93,7 +93,7 @@ Automatic Icons Updater for Flutter [flutter/flutter#83741](https://github.com/f
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-go_router` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-tool` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.c
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-engine` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 45 | [45](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-ios` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flut
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-android` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-web` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flut
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-desktop` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`team-ecosystem` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flut
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`dart-lang/sdk` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](http
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-06-03 to 2024-09-04.
+`dart-lang/language` issues that received the most reactions from 2024-06-03 to 2024-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
