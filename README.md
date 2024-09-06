@@ -44,8 +44,8 @@ Implement wide gamut color support in the Framework [flutter/flutter#127855](htt
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 165 | [11](#flutter-flutter-45336-graph)
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 86 | [11](#flutter-flutter-102003-graph)
 Text widget incorrectly wraps Korean text [flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) | 35 | [11](#flutter-flutter-59284-graph)
+[Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 101 | [9](#flutter-flutter-105672-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 92 | [9](#flutter-flutter-86295-graph)
-[Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 100 | [8](#flutter-flutter-105672-graph)
 Wrapped Text has unexpected intrinsic size [flutter/flutter#27293](https://github.com/flutter/flutter/issues/27293) | 31 | [8](#flutter-flutter-27293-graph)
 
 #### Design
@@ -300,8 +300,8 @@ Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang
 Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
 Partial Record destructuring [dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) | 11 | [11](#dart-lang-language-3964-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 243 | [10](#dart-lang-language-649-graph)
-More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 Allow pattern `case` conditions in `while` statements. [dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) | 9 | [9](#dart-lang-language-3927-graph)
+More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 8 | [8](#dart-lang-language-4030-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 960 | [7](#dart-lang-language-357-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 508 | [7](#dart-lang-language-83-graph)
@@ -1691,6 +1691,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
+<a name="flutter-flutter-105672-graph"></a>
+### [Proposal] Access l18n Translations with Dynamic Keys
+  <sub>[flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) &mdash; 101 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 0, 0, 1, -1, 0, 0, 1, 0, 2, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-86295-graph"></a>
 ### [integration_test] Allow driving native UI interactions from Dart
   <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 92 total reactions, 9 recent reactions</sub><br />
@@ -1742,9 +1759,9 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="dart-lang-language-3995-graph"></a>
-### More strict handling of exceptions
-  <sub>[dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+<a name="dart-lang-language-3927-graph"></a>
+### Allow pattern `case` conditions in `while` statements.
+  <sub>[dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) &mdash; 9 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1759,9 +1776,9 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="dart-lang-language-3927-graph"></a>
-### Allow pattern `case` conditions in `while` statements.
-  <sub>[dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+<a name="dart-lang-language-3995-graph"></a>
+### More strict handling of exceptions
+  <sub>[dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) &mdash; 9 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1839,23 +1856,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-105672-graph"></a>
-### [Proposal] Access l18n Translations with Dynamic Keys
-  <sub>[flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) &mdash; 100 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 1, -1, 0, 0, 1, 0, 2, 0]
   ```
 
   </details>
