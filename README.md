@@ -220,8 +220,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [15](#flutter-flutter-124205-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [14](#flutter-flutter-47600-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 28 | [13](#flutter-flutter-141371-graph)
-Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
 [Web \| CanvasKit \| Chrome] Image with color representation of "Uncalibrated" does not appear [flutter/flutter#150116](https://github.com/flutter/flutter/issues/150116) | 13 | [13](#flutter-flutter-150116-graph)
+Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
 Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 
 #### Desktop
@@ -264,8 +264,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [15](#flutter-flutter-124205-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [14](#flutter-flutter-47600-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 28 | [13](#flutter-flutter-141371-graph)
-Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
 [Web \| CanvasKit \| Chrome] Image with color representation of "Uncalibrated" does not appear [flutter/flutter#150116](https://github.com/flutter/flutter/issues/150116) | 13 | [13](#flutter-flutter-150116-graph)
+Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
 Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 
 ### Dart SDK
@@ -286,8 +286,8 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 508 | [8](#dart-lang-sdk-28617-graph)
 Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) | 55 | [7](#dart-lang-sdk-43329-graph)
 
 ### Dart language
@@ -300,8 +300,8 @@ Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang
 Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
 Partial Record destructuring [dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) | 11 | [11](#dart-lang-language-3964-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 243 | [10](#dart-lang-language-649-graph)
-More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 Allow pattern `case` conditions in `while` statements. [dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) | 9 | [9](#dart-lang-language-3927-graph)
+More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 961 | [8](#dart-lang-language-357-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 8 | [8](#dart-lang-language-4030-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 508 | [7](#dart-lang-language-83-graph)
@@ -1181,23 +1181,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="flutter-flutter-153184-graph"></a>
-### Web: Move decodeImageFromPixels off heap / drastically reduce memory usage
-  <sub>[flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-150116-graph"></a>
 ### [Web | CanvasKit | Chrome] Image with color representation of "Uncalibrated" does not appear
   <sub>[flutter/flutter#150116](https://github.com/flutter/flutter/issues/150116) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1215,9 +1198,9 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56217-graph"></a>
-### :memo: Data Assets Tracker
-  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+<a name="flutter-flutter-153184-graph"></a>
+### Web: Move decodeImageFromPixels off heap / drastically reduce memory usage
+  <sub>[flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) &mdash; 13 total reactions, 13 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1226,7 +1209,7 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   xychart-beta
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 10, 10, 10, 12, 12, 13, 13, 13, 13]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
   ```
 
   </details>
@@ -1244,6 +1227,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56217-graph"></a>
+### :memo: Data Assets Tracker
+  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 10, 10, 10, 12, 12, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1538,23 +1538,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="dart-lang-language-3964-graph"></a>
-### Partial Record destructuring
-  <sub>[dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 11, 11]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56017-graph"></a>
 ### "Static" "version" in dart
   <sub>[dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -1567,6 +1550,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 4, 4, 5, 6, 8, 8, 9, 9, 9, 9, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-3964-graph"></a>
+### Partial Record destructuring
+  <sub>[dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 11, 11]
   ```
 
   </details>
@@ -1759,9 +1759,9 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="dart-lang-language-3995-graph"></a>
-### More strict handling of exceptions
-  <sub>[dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+<a name="dart-lang-language-3927-graph"></a>
+### Allow pattern `case` conditions in `while` statements.
+  <sub>[dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) &mdash; 9 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1776,9 +1776,9 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="dart-lang-language-3927-graph"></a>
-### Allow pattern `case` conditions in `while` statements.
-  <sub>[dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+<a name="dart-lang-language-3995-graph"></a>
+### More strict handling of exceptions
+  <sub>[dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) &mdash; 9 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1980,23 +1980,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="dart-lang-language-4030-graph"></a>
-### Better error handling - add try expression or if exception operator
-  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56220-graph"></a>
 ### Evaluate using pub workspace feature, dropping custom package config generator
   <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -2014,9 +1997,9 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-language-4030-graph"></a>
+### Better error handling - add try expression or if exception operator
+  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2043,6 +2026,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8]
   ```
 
   </details>
@@ -2847,23 +2847,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="flutter-flutter-103682-graph"></a>
-### [google_sign_in] Support Windows
-  <sub>[flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-69949-graph"></a>
 ### [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart 
   <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -2876,6 +2859,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-103682-graph"></a>
+### [google_sign_in] Support Windows
+  <sub>[flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
