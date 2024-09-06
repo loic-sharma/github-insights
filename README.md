@@ -18,8 +18,8 @@ Flutter app flagged for missing accessibility content labels by Google Play Stor
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 301 | [36](#flutter-flutter-145954-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 199 | [35](#flutter-flutter-138614-graph)
+[pigeon] Support typesafe EventChannels [flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) | 174 | [35](#flutter-flutter-66711-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 634 | [34](#flutter-flutter-30701-graph)
-[pigeon] Support typesafe EventChannels [flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) | 173 | [34](#flutter-flutter-66711-graph)
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 147 | [34](#dart-lang-sdk-54934-graph)
 
 ## Trending issues by team
@@ -167,7 +167,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 141 | [26](#flutter-flutter-126005-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 317 | [22](#flutter-flutter-110431-graph)
 Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 43 | [17](#flutter-flutter-91241-graph)
-[in_app_purchase] Use StoreKit 2 APIs [flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) | 35 | [13](#flutter-flutter-116383-graph)
+[in_app_purchase] Use StoreKit 2 APIs [flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) | 36 | [14](#flutter-flutter-116383-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 39 | [7](#flutter-flutter-115926-graph)
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 93 | [6](#flutter-flutter-57609-graph)
 Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc. [flutter/flutter#129638](https://github.com/flutter/flutter/issues/129638) | 67 | [6](#flutter-flutter-129638-graph)
@@ -518,6 +518,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
+<a name="flutter-flutter-66711-graph"></a>
+### [pigeon] Support typesafe EventChannels
+  <sub>[flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) &mdash; 174 total reactions, 35 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 5, 1, 0, 1, 0, 1, 0, 0, 2, 0, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 634 total reactions, 34 recent reactions</sub><br />
@@ -530,23 +547,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [3, 9, 0, 2, 1, 1, 1, 0, 4, 1, 5, 2, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-66711-graph"></a>
-### [pigeon] Support typesafe EventChannels
-  <sub>[flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) &mdash; 173 total reactions, 34 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 5, 1, 0, 1, 0, 1, 0, 0, 2, 0, 0, 2]
   ```
 
   </details>
@@ -1096,6 +1096,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
+<a name="flutter-flutter-116383-graph"></a>
+### [in_app_purchase] Use StoreKit 2 APIs
+  <sub>[flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) &mdash; 36 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 3, 0, 1, 0, 0, 1, 0, 1, 2, 0, 1, 1, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-90856-graph"></a>
 ### ReorderableListView Weird Behaviour on reordering the second last child
   <sub>[flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) &mdash; 28 total reactions, 14 recent reactions</sub><br />
@@ -1142,23 +1159,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 1, 0, 2, 2, 2, 0, 0, 1, 0, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-116383-graph"></a>
-### [in_app_purchase] Use StoreKit 2 APIs
-  <sub>[flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) &mdash; 35 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 3, 0, 1, 0, 0, 1, 0, 1, 2, 0, 1, 1, 2]
   ```
 
   </details>
@@ -2830,6 +2830,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
+<a name="flutter-flutter-131690-graph"></a>
+### Issue: Cannot theme progress indicators, many properties missing
+  <sub>[flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-69949-graph"></a>
 ### [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart 
   <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -2859,23 +2876,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-131690-graph"></a>
-### Issue: Cannot theme progress indicators, many properties missing
-  <sub>[flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 3, Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0, 0]
   ```
 
   </details>
