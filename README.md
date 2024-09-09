@@ -2694,23 +2694,6 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
   </details>
   </sub>
 
-<a name="flutter-flutter-64685-graph"></a>
-### [image_picker][android] PickedFile should store the original file name. 
-  <sub>[flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685) &mdash; 42 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-90612-graph"></a>
 ### [flutter_tools] Add support for running custom scripts
   <sub>[flutter/flutter#90612](https://github.com/flutter/flutter/issues/90612) &mdash; 42 total reactions, 5 recent reactions</sub><br />
@@ -2723,6 +2706,23 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
     x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-64685-graph"></a>
+### [image_picker][android] PickedFile should store the original file name. 
+  <sub>[flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685) &mdash; 42 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
