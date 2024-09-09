@@ -17,7 +17,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [41](#flutter-flutter-109813-graph)
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 149 | [36](#dart-lang-sdk-54934-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
-[pigeon] Support typesafe EventChannels [flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) | 174 | [34](#flutter-flutter-66711-graph)
+[pigeon] Support typesafe EventChannels [flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) | 175 | [35](#flutter-flutter-66711-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 199 | [32](#flutter-flutter-138614-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 634 | [31](#flutter-flutter-30701-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 301 | [30](#flutter-flutter-145954-graph)
@@ -503,7 +503,7 @@ Unusable inference in list pattern with `dynamic` value. [dart-lang/language#395
 
 <a name="flutter-flutter-66711-graph"></a>
 ### [pigeon] Support typesafe EventChannels
-  <sub>[flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) &mdash; 174 total reactions, 34 recent reactions</sub><br />
+  <sub>[flutter/flutter#66711](https://github.com/flutter/flutter/issues/66711) &mdash; 175 total reactions, 35 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
