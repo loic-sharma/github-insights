@@ -285,9 +285,9 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 11 | [11](#dart-lang-sdk-56017-graph)
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 508 | [8](#dart-lang-sdk-28617-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
-Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
+Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 Provide interop between Dart and WASM [dart-lang/sdk#37355](https://github.com/dart-lang/sdk/issues/37355) | 185 | [6](#dart-lang-sdk-37355-graph)
 
 ### Dart language
@@ -2048,9 +2048,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2059,7 +2059,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
   ```
 
   </details>
@@ -2082,9 +2082,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2093,7 +2093,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8]
   ```
 
   </details>
@@ -2694,23 +2694,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-47441-graph"></a>
-### Cupertino back gesture are disabled when using PageRouteBuilder
-  <sub>[flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) &mdash; 51 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-8230-graph"></a>
 ### Platform specific assets
   <sub>[flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) &mdash; 51 total reactions, 5 recent reactions</sub><br />
@@ -2728,9 +2711,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-53229-graph"></a>
-### [Proposal] Icon support Linux desktop application
-  <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-47441-graph"></a>
+### Cupertino back gesture are disabled when using PageRouteBuilder
+  <sub>[flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) &mdash; 51 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2739,7 +2722,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0]
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2757,6 +2740,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-53229-graph"></a>
+### [Proposal] Icon support Linux desktop application
+  <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0]
   ```
 
   </details>
