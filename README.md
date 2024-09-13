@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-06-10 to 2024-09-12.
+Issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-framework` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-design` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https:/
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`f: cupertino` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 144 | [8](#flutter-flutter-42560-graph)
@@ -93,7 +93,7 @@ CupertinoPicker and CupertinoDatePicker don't play the ticker sound [flutter/flu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-go_router` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-tool` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-engine` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-ios` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ In iOS version 17.2, when moving the input focus in a WebView, an unknown area a
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-android` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-web` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-desktop` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`team-ecosystem` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`dart-lang/sdk` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Provide interop between Dart and WASM [dart-lang/sdk#37355](https://github.com/d
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-06-10 to 2024-09-12.
+`dart-lang/language` issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
