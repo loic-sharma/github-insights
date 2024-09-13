@@ -6,11 +6,11 @@ Issues that received the most reactions from 2024-06-10 to 2024-09-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 156 | [156](#flutter-flutter-151065-graph)
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 157 | [157](#flutter-flutter-151065-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1134 | [76](#flutter-flutter-53041-graph)
 add spacing parameter to Column and Row [flutter/flutter#55378](https://github.com/flutter/flutter/issues/55378) | 95 | [70](#flutter-flutter-55378-graph)
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 100 | [58](#flutter-flutter-115704-graph)
-Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 141 | [51](#flutter-flutter-139289-graph)
+Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 142 | [52](#flutter-flutter-139289-graph)
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [48](#flutter-flutter-152953-graph)
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 334 | [44](#flutter-flutter-128313-graph)
@@ -32,7 +32,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 156 | [156](#flutter-flutter-151065-graph)
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 157 | [157](#flutter-flutter-151065-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 200 | [33](#flutter-flutter-138614-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 634 | [31](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 67 | [25](#flutter-flutter-142845-graph)
@@ -119,7 +119,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 141 | [51](#flutter-flutter-139289-graph)
+Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 142 | [52](#flutter-flutter-139289-graph)
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 137 | [16](#flutter-flutter-65065-graph)
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 56 | [12](#flutter-flutter-129757-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 94 | [10](#flutter-flutter-107157-graph)
@@ -193,6 +193,7 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 Android TalkBack Item label warning for the whole screen [flutter/flutter#104908](https://github.com/flutter/flutter/issues/104908) | 65 | [8](#flutter-flutter-104908-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 28 | [6](#flutter-flutter-104268-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 22 | [6](#flutter-flutter-139427-graph)
+[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 19 | [6](#flutter-flutter-145961-graph)
 Re-implement stretch overscroll behavior as a custom shader [flutter/flutter#82906](https://github.com/flutter/flutter/issues/82906) | 108 | [5](#flutter-flutter-82906-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 57 | [5](#flutter-flutter-105395-graph)
 [shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 53 | [5](#flutter-flutter-14337-graph)
@@ -200,7 +201,6 @@ Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/fl
 [image_picker][android] PickedFile should store the original file name.  [flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685) | 42 | [5](#flutter-flutter-64685-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 31 | [5](#flutter-flutter-91247-graph)
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 21 | [5](#flutter-flutter-117061-graph)
-[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 18 | [5](#flutter-flutter-145961-graph)
 
 #### Web
 
@@ -316,7 +316,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
 <a name="flutter-flutter-151065-graph"></a>
 ### Proposal: Framework needs to be aware of physical pixels
-  <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 156 total reactions, 156 recent reactions</sub><br />
+  <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 157 total reactions, 157 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions"
-    bar [0, 0, 15, 29, 29, 30, 145, 145, 151, 151, 152, 152, 156, 156]
+    bar [0, 0, 15, 29, 29, 30, 145, 145, 151, 151, 152, 152, 156, 157]
   ```
 
   </details>
@@ -384,7 +384,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
 <a name="flutter-flutter-139289-graph"></a>
 ### Allow to provide compile-time variables for native platforms from a file
-  <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 141 total reactions, 51 recent reactions</sub><br />
+  <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 142 total reactions, 52 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -393,7 +393,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
-    bar [1, 10, 4, 0, 4, 1, 3, 3, 5, 1, 2, 4, 0, 4]
+    bar [1, 10, 4, 0, 4, 1, 3, 3, 5, 1, 2, 4, 0, 5]
   ```
 
   </details>
@@ -2541,6 +2541,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-145961-graph"></a>
+### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
+  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 19 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-141340-graph"></a>
 ### Update both `ProgressIndicator` for Material 3 redesign
   <sub>[flutter/flutter#141340](https://github.com/flutter/flutter/issues/141340) &mdash; 19 total reactions, 6 recent reactions</sub><br />
@@ -2927,23 +2944,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145961-graph"></a>
-### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
-  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 10, Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1]
   ```
 
   </details>
