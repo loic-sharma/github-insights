@@ -55,7 +55,7 @@ Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutte
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 279 | [19](#flutter-flutter-21594-graph)
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 104 | [17](#flutter-flutter-102560-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 105 | [18](#flutter-flutter-102560-graph)
 ReorderableListView Weird Behaviour on reordering the second last child [flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) | 28 | [13](#flutter-flutter-90856-graph)
 Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 42 | [8](#flutter-flutter-108683-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 74 | [7](#flutter-flutter-48381-graph)
@@ -790,6 +790,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 105 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 4, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-152160-graph"></a>
 ### icons paint incorrectly on macOS
   <sub>[flutter/flutter#152160](https://github.com/flutter/flutter/issues/152160) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -819,23 +836,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [4, 1, 0, 4, 1, 1, 0, 0, 0, 1, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 104 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 4, 1]
   ```
 
   </details>
