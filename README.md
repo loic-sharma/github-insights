@@ -98,8 +98,8 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 104 | [24](#flutter-flutter-138737-graph)
+[go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 114 | [15](#flutter-flutter-112196-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 33 | [15](#flutter-flutter-140586-graph)
-[go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 113 | [14](#flutter-flutter-112196-graph)
 [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869) | 48 | [12](#flutter-flutter-140869-graph)
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 49 | [9](#flutter-flutter-121929-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 45 | [8](#flutter-flutter-122258-graph)
@@ -212,7 +212,7 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 304 | [31](#flutter-flutter-145954-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 29 | [29](#flutter-flutter-150743-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 35 | [21](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 36 | [22](#flutter-flutter-149031-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 794 | [20](#flutter-flutter-46789-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 72 | [17](#flutter-flutter-104509-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 172 | [16](#flutter-flutter-69529-graph)
@@ -256,7 +256,7 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 304 | [31](#flutter-flutter-145954-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 29 | [29](#flutter-flutter-150743-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 35 | [21](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 36 | [22](#flutter-flutter-149031-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 794 | [20](#flutter-flutter-46789-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 72 | [17](#flutter-flutter-104509-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 172 | [16](#flutter-flutter-69529-graph)
@@ -308,7 +308,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 9 | [9](#dart-lang-language-4030-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2086 | [8](#dart-lang-language-314-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1635 | [7](#dart-lang-language-1482-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1636 | [8](#dart-lang-language-1482-graph)
 Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 33 | [6](#dart-lang-language-108-graph)
 Let a wildcard as an actual type argument indicate a request for inference [dart-lang/language#3963](https://github.com/dart-lang/language/issues/3963) | 6 | [6](#dart-lang-language-3963-graph)
 
@@ -654,6 +654,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 36 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 6, 1, 6, 2, 2, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-110431-graph"></a>
 ### Flutter adds additional one frame touch latency compared to native
   <sub>[flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) &mdash; 318 total reactions, 21 recent reactions</sub><br />
@@ -666,23 +683,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 2, 1, 1, 0, 0, 0, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 35 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 6, 1, 6, 2, 2, 1]
   ```
 
   </details>
@@ -926,6 +926,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-112196-graph"></a>
+### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
+  <sub>[flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) &mdash; 114 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 8]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-99606-graph"></a>
 ### Ability to change the keyboard language programmatically
   <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 98 total reactions, 15 recent reactions</sub><br />
@@ -972,23 +989,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-112196-graph"></a>
-### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
-  <sub>[flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) &mdash; 113 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 7]
   ```
 
   </details>
@@ -1861,6 +1861,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="dart-lang-language-1482-graph"></a>
+### Static Metaprogramming
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1636 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 5]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-41722-graph"></a>
 ### Implement PlatformView support on macOS
   <sub>[flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) &mdash; 652 total reactions, 8 recent reactions</sub><br />
@@ -2043,23 +2060,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1482-graph"></a>
-### Static Metaprogramming
-  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1635 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 4]
   ```
 
   </details>
