@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-06-17 to 2024-09-14.
+Issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](http
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-framework` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-design` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ NestedScrollView / Material3: _StretchController throws  the error: Build schedu
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`f: cupertino` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 15 | [15](#flutter-flutter-150824-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-go_router` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-tool` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-engine` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-ios` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ In iOS version 17.2, when moving the input focus in a WebView, an unknown area a
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-android` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Re-implement stretch overscroll behavior as a custom shader [flutter/flutter#829
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-web` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-desktop` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`team-ecosystem` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`dart-lang/sdk` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](http
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-06-17 to 2024-09-14.
+`dart-lang/language` issues that received the most reactions from 2024-06-17 to 2024-09-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
