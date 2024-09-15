@@ -98,8 +98,8 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 104 | [24](#flutter-flutter-138737-graph)
+[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 34 | [16](#flutter-flutter-140586-graph)
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 114 | [15](#flutter-flutter-112196-graph)
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 33 | [15](#flutter-flutter-140586-graph)
 [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869) | 48 | [12](#flutter-flutter-140869-graph)
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 49 | [9](#flutter-flutter-121929-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 45 | [8](#flutter-flutter-122258-graph)
@@ -297,13 +297,13 @@ Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](http
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 20 | [20](#dart-lang-language-4084-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1074 | [15](#dart-lang-language-723-graph)
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 14 | [14](#dart-lang-language-4057-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 514 | [13](#dart-lang-language-83-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 245 | [12](#dart-lang-language-649-graph)
 Partial Record destructuring [dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) | 12 | [12](#dart-lang-language-3964-graph)
 Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1069 | [10](#dart-lang-language-723-graph)
-Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 963 | [10](#dart-lang-language-357-graph)
+Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 964 | [11](#dart-lang-language-357-graph)
 Allow pattern `case` conditions in `while` statements. [dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) | 10 | [10](#dart-lang-language-3927-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 9 | [9](#dart-lang-language-4030-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
@@ -909,6 +909,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-140586-graph"></a>
+### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
+  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 34 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 1, 0, 0, 0, 3, 0, 2, 1, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-150525-graph"></a>
 ### Consider merging platform and UI thread
   <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -921,6 +938,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 16, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1074 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 7]
   ```
 
   </details>
@@ -955,23 +989,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [1, 2, 2, 0, 3, 0, 1, 1, 0, 1, -1, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-140586-graph"></a>
-### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
-  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 33 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 0, 0, 0, 3, 0, 2, 1, 1, 1]
   ```
 
   </details>
@@ -1351,6 +1368,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="dart-lang-language-357-graph"></a>
+### Allow for shorter dot syntax to access enum values
+  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 964 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 3, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-26801-graph"></a>
 ### Apple CarPlay / Android Auto support?
   <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 507 total reactions, 11 recent reactions</sub><br />
@@ -1465,40 +1499,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
     y-axis "Reactions" 0 --> 20
     bar [1, 2, 0, 0, 0, 2, 0, 1, 2, 0, 0, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1069 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-357-graph"></a>
-### Allow for shorter dot syntax to access enum values
-  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 963 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 3, 1]
   ```
 
   </details>
