@@ -6,7 +6,7 @@ Issues that received the most reactions from 2024-06-17 to 2024-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 157 | [157](#flutter-flutter-151065-graph)
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 158 | [158](#flutter-flutter-151065-graph)
 add spacing parameter to Column and Row [flutter/flutter#55378](https://github.com/flutter/flutter/issues/55378) | 95 | [70](#flutter-flutter-55378-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1134 | [62](#flutter-flutter-53041-graph)
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 100 | [57](#flutter-flutter-115704-graph)
@@ -32,7 +32,7 @@ Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](http
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 157 | [157](#flutter-flutter-151065-graph)
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 158 | [158](#flutter-flutter-151065-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 201 | [29](#flutter-flutter-138614-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 68 | [25](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 634 | [22](#flutter-flutter-30701-graph)
@@ -220,7 +220,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [13](#flutter-flutter-124205-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
 Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
-[Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 132 | [11](#flutter-flutter-96283-graph)
+[Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 133 | [12](#flutter-flutter-96283-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 61 | [11](#flutter-flutter-124334-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [9](#flutter-flutter-47600-graph)
 
@@ -264,7 +264,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [13](#flutter-flutter-124205-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
 Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
-[Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 132 | [11](#flutter-flutter-96283-graph)
+[Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 133 | [12](#flutter-flutter-96283-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 61 | [11](#flutter-flutter-124334-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [9](#flutter-flutter-47600-graph)
 
@@ -316,7 +316,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
 <a name="flutter-flutter-151065-graph"></a>
 ### Proposal: Framework needs to be aware of physical pixels
-  <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 157 total reactions, 157 recent reactions</sub><br />
+  <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 158 total reactions, 158 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions"
-    bar [0, 15, 29, 29, 30, 145, 145, 151, 151, 152, 152, 156, 157, 157]
+    bar [0, 15, 29, 29, 30, 145, 145, 151, 151, 152, 152, 156, 157, 158]
   ```
 
   </details>
@@ -1283,6 +1283,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-96283-graph"></a>
+### [Web]: Proposal to be able to build flutter web app with debug profile support
+  <sub>[flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) &mdash; 133 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 1, 0, 2, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-10437-graph"></a>
 ### Do plugins need to know about hot reload and hot restart?
   <sub>[flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) &mdash; 85 total reactions, 12 recent reactions</sub><br />
@@ -1414,23 +1431,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 1, 0, 6, 0, 0, 1, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-96283-graph"></a>
-### [Web]: Proposal to be able to build flutter web app with debug profile support
-  <sub>[flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) &mdash; 132 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 2, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
