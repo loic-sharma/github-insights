@@ -43,10 +43,10 @@ Implement wide gamut color support in the Framework [flutter/flutter#127855](htt
 Text widget incorrectly wraps Korean text [flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) | 36 | [12](#flutter-flutter-59284-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 99 | [11](#flutter-flutter-127409-graph)
 [Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 104 | [10](#flutter-flutter-105672-graph)
+Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 166 | [9](#flutter-flutter-45336-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 93 | [9](#flutter-flutter-86295-graph)
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 86 | [9](#flutter-flutter-102003-graph)
 SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) | 52 | [9](#flutter-flutter-97544-graph)
-Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 165 | [8](#flutter-flutter-45336-graph)
 
 #### Design
 
@@ -143,7 +143,7 @@ Issue | Total reactions | Recent reactions
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 334 | [20](#flutter-flutter-128313-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 1996 | [17](#flutter-flutter-14330-graph)
-Consider merging platform and UI thread [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 16 | [16](#flutter-flutter-150525-graph)
+Consider merging platform and UI thread [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 17 | [17](#flutter-flutter-150525-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 170 | [13](#flutter-flutter-61229-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 296 | [12](#flutter-flutter-18443-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 85 | [12](#flutter-flutter-10437-graph)
@@ -285,9 +285,9 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 11 | [9](#dart-lang-sdk-56017-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 508 | [8](#dart-lang-sdk-28617-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
-Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
+Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) | 56 | [7](#dart-lang-sdk-43329-graph)
 
 ### Dart language
@@ -892,6 +892,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-150525-graph"></a>
+### Consider merging platform and UI thread
+  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 16, 16, 16, 17]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
   <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1075 total reactions, 16 recent reactions</sub><br />
@@ -938,23 +955,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
     bar [2, 6, 2, 3, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-150525-graph"></a>
-### Consider merging platform and UI thread
-  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 16, 16, 16, 16]
   ```
 
   </details>
@@ -1708,6 +1708,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-45336-graph"></a>
+### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
+  <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 166 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 1, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-19830-graph"></a>
 ### Can't resolve symbol io.flutter.plugin dependency
   <sub>[flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830) &mdash; 116 total reactions, 9 recent reactions</sub><br />
@@ -1963,23 +1980,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-45336-graph"></a>
-### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
-  <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 165 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-69157-graph"></a>
 ### Build Flutter macOS artifacts with ARM architecture slice
   <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 75 total reactions, 8 recent reactions</sub><br />
@@ -2031,9 +2031,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2042,7 +2042,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2065,9 +2065,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2076,7 +2076,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8]
   ```
 
   </details>
