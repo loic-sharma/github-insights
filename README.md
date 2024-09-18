@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-06-17 to 2024-09-17.
+Issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](http
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-framework` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-design` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Issue: Cannot theme progress indicators, many properties missing [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`f: cupertino` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 15 | [15](#flutter-flutter-150824-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-go_router` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-tool` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-engine` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-ios` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ In iOS version 17.2, when moving the input focus in a WebView, an unknown area a
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-android` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Re-implement stretch overscroll behavior as a custom shader [flutter/flutter#829
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-web` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,14 +219,14 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 29 | [14](#flutter-flutter-141371-graph)
 [Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 134 | [13](#flutter-flutter-96283-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [13](#flutter-flutter-124205-graph)
-Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
+Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 61 | [11](#flutter-flutter-124334-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [9](#flutter-flutter-47600-graph)
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-desktop` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`team-ecosystem` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,14 +263,14 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 29 | [14](#flutter-flutter-141371-graph)
 [Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 134 | [13](#flutter-flutter-96283-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [13](#flutter-flutter-124205-graph)
-Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
+Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 61 | [11](#flutter-flutter-124334-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [9](#flutter-flutter-47600-graph)
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`dart-lang/sdk` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,14 +285,14 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 11 | [9](#dart-lang-sdk-56017-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 508 | [8](#dart-lang-sdk-28617-graph)
-Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
+Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) | 56 | [7](#dart-lang-sdk-43329-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-06-17 to 2024-09-17.
+`dart-lang/language` issues that received the most reactions from 2024-06-17 to 2024-09-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1198,6 +1198,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-153184-graph"></a>
+### Web: Move decodeImageFromPixels off heap / drastically reduce memory usage
+  <sub>[flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56217-graph"></a>
 ### :memo: Data Assets Tracker
   <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1227,23 +1244,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-153184-graph"></a>
-### Web: Move decodeImageFromPixels off heap / drastically reduce memory usage
-  <sub>[flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1623,23 +1623,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-language-3927-graph"></a>
-### Allow pattern `case` conditions in `while` statements.
-  <sub>[dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1652,6 +1635,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-3927-graph"></a>
+### Allow pattern `case` conditions in `while` statements.
+  <sub>[dart-lang/language#3927](https://github.com/dart-lang/language/issues/3927) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 10, 10]
   ```
 
   </details>
@@ -2014,9 +2014,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56220-graph"></a>
-### Evaluate using pub workspace feature, dropping custom package config generator
-  <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2025,7 +2025,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2048,9 +2048,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56220-graph"></a>
+### Evaluate using pub workspace feature, dropping custom package config generator
+  <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2059,7 +2059,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2745,23 +2745,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-53229-graph"></a>
-### [Proposal] Icon support Linux desktop application
-  <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-99105-graph"></a>
 ### [go_router] Support deferred libraries
   <sub>[flutter/flutter#99105](https://github.com/flutter/flutter/issues/99105) &mdash; 46 total reactions, 5 recent reactions</sub><br />
@@ -2774,6 +2757,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-53229-graph"></a>
+### [Proposal] Icon support Linux desktop application
+  <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 17, Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0]
   ```
 
   </details>
