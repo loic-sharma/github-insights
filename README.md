@@ -20,7 +20,7 @@ Flutter app flagged for missing accessibility content labels by Google Play Stor
 @depreacte dart:html and other "legacy" DOM libraries [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) | 30 | [30](#dart-lang-sdk-56358-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 412 | [29](#flutter-flutter-31713-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 29 | [29](#flutter-flutter-150743-graph)
-Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 640 | [27](#flutter-flutter-30701-graph)
+GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 28 | [28](#flutter-flutter-155429-graph)
 
 ## Trending issues by team
 
@@ -187,7 +187,7 @@ Blur filter isn't clipped when using border radius [flutter/flutter#115926](http
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [41](#flutter-flutter-109813-graph)
-GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 27 | [27](#flutter-flutter-155429-graph)
+GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 28 | [28](#flutter-flutter-155429-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 368 | [10](#flutter-flutter-83596-graph)
 Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830) | 116 | [9](#flutter-flutter-19830-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 20 | [7](#flutter-flutter-145961-graph)
@@ -285,9 +285,9 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 509 | [9](#dart-lang-sdk-28617-graph)
 ☂️ Explore shared memory multithreading [dart-lang/sdk#55991](https://github.com/dart-lang/sdk/issues/55991) | 19 | [9](#dart-lang-sdk-55991-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 11 | [9](#dart-lang-sdk-56017-graph)
+Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 [native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
-Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 Null safety feedback: How to use firstWhere? [dart-lang/sdk#42947](https://github.com/dart-lang/sdk/issues/42947) | 189 | [6](#dart-lang-sdk-42947-graph)
 
 ### Dart language
@@ -301,9 +301,9 @@ Expressions that are "as constant as possible" [dart-lang/language#4084](https:/
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 969 | [16](#dart-lang-language-357-graph)
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 16 | [16](#dart-lang-language-4057-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 515 | [14](#dart-lang-language-83-graph)
-Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 245 | [12](#dart-lang-language-649-graph)
-Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
+Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 247 | [14](#dart-lang-language-649-graph)
 Partial Record destructuring [dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) | 12 | [12](#dart-lang-language-3964-graph)
+Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1638 | [10](#dart-lang-language-1482-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 10 | [10](#dart-lang-language-4030-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
@@ -552,6 +552,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   </details>
   </sub>
 
+<a name="flutter-flutter-155429-graph"></a>
+### GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices
+  <sub>[flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) &mdash; 28 total reactions, 28 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 28]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 640 total reactions, 27 recent reactions</sub><br />
@@ -581,23 +598,6 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [1, 3, 3, 2, 0, 1, 1, 2, 1, 1, 5, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-155429-graph"></a>
-### GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices
-  <sub>[flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) &mdash; 27 total reactions, 27 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 27]
   ```
 
   </details>
@@ -926,23 +926,6 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   </details>
   </sub>
 
-<a name="flutter-flutter-150824-graph"></a>
-### Flutter's text rendering has different letter spacing from iOS native
-  <sub>[flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4057-graph"></a>
 ### Reusable Pattern Matching
   <sub>[dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -955,6 +938,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 13, 13, 14, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-150824-graph"></a>
+### Flutter's text rendering has different letter spacing from iOS native
+  <sub>[flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16]
   ```
 
   </details>
@@ -1023,6 +1023,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [2, 0, 0, 1, 0, 0, 1, 0, 6, 1, 1, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-649-graph"></a>
+### Import shorthand syntax
+  <sub>[dart-lang/language#649](https://github.com/dart-lang/language/issues/649) &mdash; 247 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1249,23 +1266,6 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   </details>
   </sub>
 
-<a name="dart-lang-language-649-graph"></a>
-### Import shorthand syntax
-  <sub>[dart-lang/language#649](https://github.com/dart-lang/language/issues/649) &mdash; 245 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-126005-graph"></a>
 ### ☂️ Add Swift Package Manager compatibility
   <sub>[flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) &mdash; 142 total reactions, 12 recent reactions</sub><br />
@@ -1385,23 +1385,6 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   </details>
   </sub>
 
-<a name="dart-lang-language-3972-graph"></a>
-### Support for Rust like #[cfg()] attributes
-  <sub>[dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) &mdash; 12 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-3964-graph"></a>
 ### Partial Record destructuring
   <sub>[dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) &mdash; 12 total reactions, 12 recent reactions</sub><br />
@@ -1414,6 +1397,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 12, 12, 12]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-3972-graph"></a>
+### Support for Rust like #[cfg()] attributes
+  <sub>[dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) &mdash; 12 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12]
   ```
 
   </details>
@@ -1963,6 +1963,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56404-graph"></a>
 ### [native/js/wasm] Platform independent File I/O
   <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -1992,23 +2009,6 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8]
   ```
 
   </details>
