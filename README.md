@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-06-24 to 2024-09-23.
+Issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-framework` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-design` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Issue: Cannot theme progress indicators, many properties missing [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`f: cupertino` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 16 | [16](#flutter-flutter-150824-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-go_router` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-tool` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Provide an easy way to select the version of Flutter to use [flutter/flutter#142
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-engine` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-ios` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Blur filter isn't clipped when using border radius [flutter/flutter#115926](http
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-android` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-web` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-desktop` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`team-ecosystem` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`dart-lang/sdk` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Null safety feedback: How to use firstWhere? [dart-lang/sdk#42947](https://githu
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-06-24 to 2024-09-23.
+`dart-lang/language` issues that received the most reactions from 2024-06-24 to 2024-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
