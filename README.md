@@ -131,9 +131,9 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 275 | [5](#flutter-flutter-29021-graph)
 Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.com/flutter/flutter/issues/59430) | 78 | [5](#flutter-flutter-59430-graph)
 [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 25 | [5](#flutter-flutter-95472-graph)
+Let flutter be installable via homebrew [flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) | 1008 | 4
 Provide an easy way to select the version of Flutter to use [flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230) | 134 | 4
 [flutter_tools] Add support for running custom scripts [flutter/flutter#90612](https://github.com/flutter/flutter/issues/90612) | 42 | 4
-[doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart  [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 20 | 4
 
 ### Engine
 
@@ -296,7 +296,7 @@ Null safety feedback: How to use firstWhere? [dart-lang/sdk#42947](https://githu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1085 | [26](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1086 | [27](#dart-lang-language-723-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 21 | [21](#dart-lang-language-4084-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 970 | [17](#dart-lang-language-357-graph)
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 16 | [16](#dart-lang-language-4057-graph)
@@ -569,6 +569,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1086 total reactions, 27 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 7, 6, 4]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 640 total reactions, 27 recent reactions</sub><br />
@@ -598,23 +615,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [1, 3, 3, 2, 0, 1, 1, 2, 1, 1, 5, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1085 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 7, 6, 3]
   ```
 
   </details>
@@ -2643,23 +2643,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-64491-graph"></a>
-### Colorized console output does not work in iOS builds but works for Android builds
-  <sub>[flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) &mdash; 58 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-105395-graph"></a>
 ### Android build fails with certain plugins if project is in a different drive (from sdk)
   <sub>[flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) &mdash; 58 total reactions, 5 recent reactions</sub><br />
@@ -2672,6 +2655,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-64491-graph"></a>
+### Colorized console output does not work in iOS builds but works for Android builds
+  <sub>[flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) &mdash; 58 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
