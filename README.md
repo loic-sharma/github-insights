@@ -9,7 +9,7 @@ Issue | Total reactions | Recent reactions
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 159 | [159](#flutter-flutter-151065-graph)
 add spacing parameter to Column and Row [flutter/flutter#55378](https://github.com/flutter/flutter/issues/55378) | 95 | [70](#flutter-flutter-55378-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1143 | [68](#flutter-flutter-53041-graph)
-Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 102 | [58](#flutter-flutter-115704-graph)
+Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 105 | [61](#flutter-flutter-115704-graph)
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [48](#flutter-flutter-152953-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 148 | [46](#flutter-flutter-139289-graph)
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -367,7 +367,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
 <a name="flutter-flutter-115704-graph"></a>
 ### Add support to define widget preview and see it in the IDE when developing
-  <sub>[flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) &mdash; 102 total reactions, 58 recent reactions</sub><br />
+  <sub>[flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) &mdash; 105 total reactions, 61 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -376,7 +376,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions"
-    bar [0, 39, 7, 1, 0, 0, 0, 2, 0, 0, 3, 1, 1, 0]
+    bar [0, 39, 7, 1, 0, 0, 0, 2, 0, 0, 3, 1, 1, 3]
   ```
 
   </details>
