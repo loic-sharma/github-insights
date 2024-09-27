@@ -220,8 +220,8 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 63 | [13](#flutter-flutter-124334-graph)
 Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
+[Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 135 | [11](#flutter-flutter-96283-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [11](#flutter-flutter-124205-graph)
-[Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 134 | [10](#flutter-flutter-96283-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [9](#flutter-flutter-47600-graph)
 
 #### Desktop
@@ -264,8 +264,8 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 63 | [13](#flutter-flutter-124334-graph)
 Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
+[Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 135 | [11](#flutter-flutter-96283-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [11](#flutter-flutter-124205-graph)
-[Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 134 | [10](#flutter-flutter-96283-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 633 | [9](#flutter-flutter-47600-graph)
 
 ### Dart SDK
@@ -1504,6 +1504,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-96283-graph"></a>
+### [Web]: Proposal to be able to build flutter web app with debug profile support
+  <sub>[flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) &mdash; 135 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 2, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-124205-graph"></a>
 ### Keyboard issue on mobile Web platform
   <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 63 total reactions, 11 recent reactions</sub><br />
@@ -1618,23 +1635,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 2, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-96283-graph"></a>
-### [Web]: Proposal to be able to build flutter web app with debug profile support
-  <sub>[flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) &mdash; 134 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
