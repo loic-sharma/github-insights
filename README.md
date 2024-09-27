@@ -127,8 +127,8 @@ Support different dependencies when using flavors [flutter/flutter#46979](https:
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 75 | [8](#flutter-flutter-69157-graph)
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 61 | [7](#flutter-flutter-64106-graph)
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 53 | [7](#flutter-flutter-8230-graph)
+Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 276 | [6](#flutter-flutter-29021-graph)
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 413 | [5](#flutter-flutter-71400-graph)
-Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 275 | [5](#flutter-flutter-29021-graph)
 Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.com/flutter/flutter/issues/59430) | 78 | [5](#flutter-flutter-59430-graph)
 [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 25 | [5](#flutter-flutter-95472-graph)
 Let flutter be installable via homebrew [flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) | 1008 | 4
@@ -1997,23 +1997,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-69157-graph"></a>
-### Build Flutter macOS artifacts with ARM architecture slice
-  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 75 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 3, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-48381-graph"></a>
 ### Use a system default font on flutter
   <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 75 total reactions, 8 recent reactions</sub><br />
@@ -2026,6 +2009,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [2, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-69157-graph"></a>
+### Build Flutter macOS artifacts with ARM architecture slice
+  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 75 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 3, 0, 0, 0]
   ```
 
   </details>
@@ -2303,6 +2303,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-29021-graph"></a>
+### Expo like tool for flutter
+  <sub>[flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) &mdash; 276 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-18345-graph"></a>
 ### SliverAppBar flexibleSpace with height depending on children
   <sub>[flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) &mdash; 249 total reactions, 6 recent reactions</sub><br />
@@ -2519,23 +2536,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-29021-graph"></a>
-### Expo like tool for flutter
-  <sub>[flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) &mdash; 275 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
