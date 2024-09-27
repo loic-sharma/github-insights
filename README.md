@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-06-24 to 2024-09-26.
+Issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-framework` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-design` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`f: cupertino` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 17 | [17](#flutter-flutter-150824-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-go_router` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-tool` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Provide an easy way to select the version of Flutter to use [flutter/flutter#142
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-engine` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-ios` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](ht
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-android` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-web` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -212,7 +212,7 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 305 | [31](#flutter-flutter-145954-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 29 | [29](#flutter-flutter-150743-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 40 | [26](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 41 | [27](#flutter-flutter-149031-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [23](#flutter-flutter-104509-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 795 | [20](#flutter-flutter-46789-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 174 | [18](#flutter-flutter-69529-graph)
@@ -226,7 +226,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-desktop` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`team-ecosystem` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -256,7 +256,7 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 305 | [31](#flutter-flutter-145954-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 29 | [29](#flutter-flutter-150743-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 40 | [26](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 41 | [27](#flutter-flutter-149031-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [23](#flutter-flutter-104509-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 795 | [20](#flutter-flutter-46789-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 174 | [18](#flutter-flutter-69529-graph)
@@ -270,7 +270,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`dart-lang/sdk` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](http
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-06-24 to 2024-09-26.
+`dart-lang/language` issues that received the most reactions from 2024-06-24 to 2024-09-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -620,6 +620,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 41 total reactions, 27 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 6, 1, 6, 2, 2, 3, 1, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-53875-graph"></a>
 ### ☂️ Implement Workspace Feature
   <sub>[dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) &mdash; 44 total reactions, 26 recent reactions</sub><br />
@@ -632,23 +649,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 20, 3, 1, 0, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 40 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 24, Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 6, 1, 6, 2, 2, 3, 1, 2]
   ```
 
   </details>
