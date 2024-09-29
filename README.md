@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-07-01 to 2024-09-28.
+Issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-framework` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-design` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`f: cupertino` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 117 | [7](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Support search box inside large title nav bar [flutter/flutter#18103](https://gi
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-go_router` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-tool` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-engine` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-ios` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,15 +182,15 @@ Support eye tracking when running on visionOS or iOS [flutter/flutter#129640](ht
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-android` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [40](#flutter-flutter-109813-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
+[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 23 | [10](#flutter-flutter-145961-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 368 | [9](#flutter-flutter-83596-graph)
 Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830) | 116 | [9](#flutter-flutter-19830-graph)
-[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 22 | [9](#flutter-flutter-145961-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 29 | [7](#flutter-flutter-104268-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 32 | [6](#flutter-flutter-91247-graph)
 Make it easier to upload Android native debug symbols for release builds [flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) | 246 | [5](#flutter-flutter-60240-graph)
@@ -204,7 +204,7 @@ Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/fl
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-web` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-desktop` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`team-ecosystem` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`dart-lang/sdk` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,14 +285,14 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 ☂️ Explore shared memory multithreading [dart-lang/sdk#55991](https://github.com/dart-lang/sdk/issues/55991) | 19 | [9](#dart-lang-sdk-55991-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 37 | [8](#dart-lang-sdk-42855-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) | 57 | [7](#dart-lang-sdk-43329-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-07-01 to 2024-09-28.
+`dart-lang/language` issues that received the most reactions from 2024-07-01 to 2024-09-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1504,6 +1504,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-145961-graph"></a>
+### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
+  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 23 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1759,23 +1776,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-145961-graph"></a>
-### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
-  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 22 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-55991-graph"></a>
 ### ☂️ Explore shared memory multithreading
   <sub>[dart-lang/sdk#55991](https://github.com/dart-lang/sdk/issues/55991) &mdash; 19 total reactions, 9 recent reactions</sub><br />
@@ -1929,23 +1929,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56220-graph"></a>
 ### Evaluate using pub workspace feature, dropping custom package config generator
   <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -1975,6 +1958,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8]
   ```
 
   </details>
