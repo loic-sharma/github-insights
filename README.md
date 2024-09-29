@@ -142,7 +142,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 1997 | [15](#flutter-flutter-14330-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 170 | [13](#flutter-flutter-61229-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 171 | [14](#flutter-flutter-61229-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 509 | [12](#flutter-flutter-26801-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 334 | [12](#flutter-flutter-128313-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 27 | [12](#flutter-flutter-106277-graph)
@@ -977,6 +977,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 171 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 0, 0, 0, 1, 1, 2, 2, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-65065-graph"></a>
 ### Bundling assets only on a specific platform (and remove assets on another platform)
   <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 140 total reactions, 14 recent reactions</sub><br />
@@ -1108,23 +1125,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 1, 0, 0, 0, 2, 0, 2, 1, 1, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 170 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 1, 1, 2, 2, 0, 0]
   ```
 
   </details>
