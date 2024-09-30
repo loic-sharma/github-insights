@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-07-01 to 2024-09-29.
+Issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-framework` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-design` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`f: cupertino` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 117 | [7](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Support search box inside large title nav bar [flutter/flutter#18103](https://gi
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-go_router` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-tool` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-engine` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-ios` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Support eye tracking when running on visionOS or iOS [flutter/flutter#129640](ht
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-android` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-web` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-desktop` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`team-ecosystem` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`dart-lang/sdk` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](http
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-07-01 to 2024-09-29.
+`dart-lang/language` issues that received the most reactions from 2024-07-01 to 2024-09-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -323,9 +323,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [4, 0, 0, 115, 0, 6, 0, 1, 0, 3, 1, 0, 1]
+    bar [4, 0, 0, 115, 0, 6, 0, 1, 0, 3, 1, 0, 1, 0]
   ```
 
   </details>
@@ -340,9 +340,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [0, 0, 0, 30, 29, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 30, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -357,9 +357,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [9, 1, 1, 3, 12, 2, 5, 2, 1, 7, 4, 5, 5]
+    bar [9, 1, 1, 3, 12, 2, 5, 2, 1, 7, 4, 5, 5, 0]
   ```
 
   </details>
@@ -374,9 +374,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [39, 7, 1, 0, 0, 0, 2, 0, 0, 3, 1, 1, 3]
+    bar [39, 7, 1, 0, 0, 0, 2, 0, 0, 3, 1, 1, 3, 0]
   ```
 
   </details>
@@ -391,9 +391,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 19, 36, 48, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 19, 36, 48, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -408,9 +408,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0]
   ```
 
   </details>
@@ -425,9 +425,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 4, 1, 3, 3, 5, 1, 2, 4, 0, 5, 2, 3]
+    bar [0, 4, 1, 3, 3, 5, 1, 2, 4, 0, 5, 2, 3, 0]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [4, 2, 7, 4, 5, 0, 7, 6, 0, 0, 0, 0, 0]
+    bar [4, 2, 7, 4, 5, 0, 7, 6, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -459,9 +459,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 39]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 39, 39]
   ```
 
   </details>
@@ -476,9 +476,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 24, 36, 36, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 24, 36, 36, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -493,9 +493,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 2, 1, 0, 1, 6, 6, 2, 2, 0, 1, 0]
+    bar [0, 2, 2, 1, 0, 1, 6, 6, 2, 2, 0, 1, 0, 0]
   ```
 
   </details>
@@ -510,9 +510,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 1, 1, 1, 5, 3, 1, 0, 3, 9, 1]
+    bar [1, 0, 2, 1, 1, 1, 5, 3, 1, 0, 3, 9, 1, 0]
   ```
 
   </details>
@@ -527,9 +527,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [3, 3, 2, 0, 1, 1, 2, 1, 1, 5, 1, 1, 4]
+    bar [3, 3, 2, 0, 1, 1, 2, 1, 1, 5, 1, 1, 4, 0]
   ```
 
   </details>
@@ -544,9 +544,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 23, 30, 30, 30, 30, 30, 30, 30, 30]
+    bar [0, 0, 0, 0, 23, 30, 30, 30, 30, 30, 30, 30, 30, 30]
   ```
 
   </details>
@@ -561,9 +561,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 7, 6, 5]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 7, 6, 5, 0]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 2, 1, 2, 2, 6, 3, 1, 2, 0, 0]
+    bar [0, 0, 2, 2, 1, 2, 2, 6, 3, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -595,9 +595,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 6, 1, 6, 2, 2, 3, 1, 4]
+    bar [0, 0, 0, 0, 0, 6, 1, 6, 2, 2, 3, 1, 4, 0]
   ```
 
   </details>
@@ -612,9 +612,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 20, 3, 1, 0, 1, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 20, 3, 1, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -629,9 +629,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 4, 1, 5, 2, 0, 3, 0, 5, 0]
+    bar [1, 1, 1, 0, 4, 1, 5, 2, 0, 3, 0, 5, 0, 0]
   ```
 
   </details>
@@ -646,9 +646,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 1, 1, 0, 5, 2, 0, 3, 2, 1]
+    bar [1, 0, 1, 1, 1, 1, 0, 5, 2, 0, 3, 2, 1, 0]
   ```
 
   </details>
@@ -663,9 +663,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 1, 1, 0, 0, 0, 4, 0, 1, 0]
+    bar [0, 1, 0, 2, 1, 1, 0, 0, 0, 4, 0, 1, 0, 0]
   ```
 
   </details>
@@ -680,9 +680,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 2, 0, 0, 1, 1, 4, 3, 3, 1]
+    bar [0, 1, 0, 1, 2, 0, 0, 1, 1, 4, 3, 3, 1, 0]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 22]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 22, 22]
   ```
 
   </details>
@@ -714,9 +714,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 1, 0, 0, 1, 0, 0, 3, 3, 7, 1, 1]
+    bar [2, 0, 1, 0, 0, 1, 0, 0, 3, 3, 7, 1, 1, 0]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [5, 1, 1, 2, 0, 3, 0, 0, 0, 5, 1, 2, 1]
+    bar [5, 1, 1, 2, 0, 3, 0, 0, 0, 5, 1, 2, 1, 0]
   ```
 
   </details>
@@ -748,9 +748,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 4, 1, 0, 1, 1, 2, 1, 1, 1, 2, 1]
+    bar [1, 1, 4, 1, 0, 1, 1, 2, 1, 1, 1, 2, 1, 0]
   ```
 
   </details>
@@ -765,9 +765,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 1, 0, 0, 0, 4, 2, 1, 1]
+    bar [0, 0, 1, 0, 1, 1, 0, 0, 0, 4, 2, 1, 1, 0]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 18, 18, 18, 18, 18, 18, 18, 18, 19, 19]
+    bar [0, 0, 0, 18, 18, 18, 18, 18, 18, 18, 18, 19, 19, 19]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 4, 3, 2, 5, 2]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 4, 3, 2, 5, 2, 0]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 1, 1, 2, 3, 3, 1, 0, 1, 0, 1, 0]
+    bar [0, 3, 1, 1, 2, 3, 3, 1, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -833,9 +833,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 5, 2, 0, 0, 2, 5, 0, 0, 0, 1]
+    bar [0, 0, 3, 5, 2, 0, 0, 2, 5, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -850,9 +850,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 4, 0, 1, 0, 1, 1, 1, 1, 2, 2, 0]
+    bar [0, 0, 4, 0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 0]
   ```
 
   </details>
@@ -867,9 +867,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17]
   ```
 
   </details>
@@ -884,9 +884,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 8, 0, 2, 0, 1, 1, 1, 1]
+    bar [0, 0, 0, 0, 0, 8, 0, 2, 0, 1, 1, 1, 1, 0]
   ```
 
   </details>
@@ -901,9 +901,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 3, 13, 13, 14, 16, 16]
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 13, 13, 14, 16, 16, 16]
   ```
 
   </details>
@@ -918,9 +918,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 2, 0, 1, 1, 2, 1, 1, 1, 0]
+    bar [1, 0, 0, 0, 2, 0, 1, 1, 2, 1, 1, 1, 0, 0]
   ```
 
   </details>
@@ -935,9 +935,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0]
   ```
 
   </details>
@@ -952,9 +952,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 1, 0, 1]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -969,9 +969,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 0, 1, 1, 0, 0, 1, 0, 1, 0, 2]
+    bar [1, 1, 2, 0, 1, 1, 0, 0, 1, 0, 1, 0, 2, 0]
   ```
 
   </details>
@@ -986,9 +986,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 1, 1, 2, 2, 0, 1]
+    bar [1, 0, 1, 0, 0, 0, 0, 1, 1, 2, 2, 0, 1, 0]
   ```
 
   </details>
@@ -1003,9 +1003,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 4, 1, 1, 0, 0, 0, 1, 0, 0, 2, 1, 1]
+    bar [0, 4, 1, 1, 0, 0, 0, 1, 0, 0, 2, 1, 1, 0]
   ```
 
   </details>
@@ -1020,9 +1020,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 8, 1, 0]
+    bar [1, 0, 1, 1, 1, 0, 0, 0, 0, 0, 8, 1, 0, 0]
   ```
 
   </details>
@@ -1037,9 +1037,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 3, 0, 1, 1, 0, 1, -1, 1, 1, 1, 0]
+    bar [2, 0, 3, 0, 1, 1, 0, 1, -1, 1, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1054,9 +1054,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 3, 0, 2, 1, 1, 2, 0, 0]
+    bar [1, 1, 0, 0, 0, 3, 0, 2, 1, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1071,9 +1071,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0]
+    bar [0, 0, 0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1088,9 +1088,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 5, 2, 3]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 5, 2, 3, 0]
   ```
 
   </details>
@@ -1105,9 +1105,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 0, 2, 0, 1, 0, 1, 5, 0]
+    bar [0, 0, 1, 3, 0, 0, 2, 0, 1, 0, 1, 5, 0, 0]
   ```
 
   </details>
@@ -1122,9 +1122,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 0, 2, 0, 2, 1, 1, 1, 1]
+    bar [1, 1, 1, 0, 0, 0, 2, 0, 2, 1, 1, 1, 1, 0]
   ```
 
   </details>
@@ -1139,9 +1139,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1]
+    bar [0, 0, 1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1156,9 +1156,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 12, 12, 13]
+    bar [0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 12, 12, 13, 13]
   ```
 
   </details>
@@ -1173,9 +1173,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 10, 10, 10, 12, 12, 13, 13, 13, 13, 13, 13, 13]
+    bar [0, 10, 10, 10, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1190,9 +1190,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1207,9 +1207,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1224,9 +1224,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 6, 0, 0, 1, 0, 0, 0, 0, 1, 1]
+    bar [1, 1, 0, 6, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1241,9 +1241,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 1, 0, 6, 1, 1, 1, 0, 0]
+    bar [0, 0, 1, 0, 0, 1, 0, 6, 1, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1258,9 +1258,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 3, 1]
+    bar [2, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 3, 1, 0]
   ```
 
   </details>
@@ -1275,9 +1275,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 3, 0, 0, 1, 3, 0, 1, 2, 0]
+    bar [0, 0, 0, 2, 3, 0, 0, 1, 3, 0, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1292,9 +1292,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 9, 0, 0, 1, 0, 0, 1, 0, 0]
+    bar [1, 0, 0, 0, 9, 0, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1309,9 +1309,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12]
+    bar [0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12]
   ```
 
   </details>
@@ -1326,9 +1326,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 1, 2, 0, 1, 0, 4, 0]
+    bar [0, 0, 0, 0, 1, 0, 1, 2, 0, 1, 0, 4, 0, 0]
   ```
 
   </details>
@@ -1343,9 +1343,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 2, 2, 0, 0, 1, 0, 1, 1, 0, 0, 2, 0]
+    bar [2, 2, 2, 0, 0, 1, 0, 1, 1, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1360,9 +1360,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 2, 2, 1, 1, 0, 1, 0, 0, 0]
+    bar [1, 2, 0, 0, 2, 2, 1, 1, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1377,9 +1377,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 2, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 3]
+    bar [2, 2, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 3, 0]
   ```
 
   </details>
@@ -1394,9 +1394,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 2, 0, 2, 2, 1, 0, 2, 0]
+    bar [0, 1, 0, 0, 1, 2, 0, 2, 2, 1, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1411,9 +1411,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 1, 2, 0, 0, 2, 0, 2, 1]
+    bar [0, 0, 0, 2, 0, 1, 2, 0, 0, 2, 0, 2, 1, 0]
   ```
 
   </details>
@@ -1428,9 +1428,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 11]
   ```
 
   </details>
@@ -1445,9 +1445,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 3, 0, 2]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 3, 0, 2, 0]
   ```
 
   </details>
@@ -1462,9 +1462,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 0, 0, 0, 3, 0, 0, 1, 2]
+    bar [0, 1, 0, 1, 0, 0, 0, 0, 3, 0, 0, 1, 2, 0]
   ```
 
   </details>
@@ -1479,9 +1479,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1]
+    bar [0, 2, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1496,9 +1496,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 6, 0, 0, 0, 0, 2, 1, 1, 0]
+    bar [0, 0, 0, 0, 6, 0, 0, 0, 0, 2, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1513,9 +1513,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 2, 0, 1, 1, 3, 0, 1, 0]
+    bar [0, 0, 1, 0, 1, 2, 0, 1, 1, 3, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1530,9 +1530,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 3]
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 3, 0]
   ```
 
   </details>
@@ -1547,9 +1547,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1564,9 +1564,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10]
   ```
 
   </details>
@@ -1581,9 +1581,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 5, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 5, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1598,9 +1598,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 4, 1, 0, 0, 1, 0]
+    bar [0, 1, 0, 0, 0, 0, 0, 4, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1615,9 +1615,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 2, 0, 0]
+    bar [0, 0, 0, 0, 1, 3, 0, 0, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1632,9 +1632,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 3, 1, 0, 0, 1, 1, 0, 1, 0]
+    bar [0, 1, 0, 0, 3, 1, 0, 0, 1, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1649,9 +1649,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 3, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 0, 0, 1, 1, 3, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1666,9 +1666,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 4]
+    bar [0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -1683,9 +1683,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 2, 0, 0, 3, 0, 0, 0, 0]
+    bar [0, 0, 0, 1, 0, 2, 0, 0, 3, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1700,9 +1700,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, -1, 0, 0, 1, 0, 2, 1, 2, 1, 0]
+    bar [0, 0, 1, -1, 0, 0, 1, 0, 2, 1, 2, 1, 0, 0]
   ```
 
   </details>
@@ -1717,9 +1717,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 3, 1, 1, 0, 1, 0, 1]
+    bar [0, 0, 0, 0, 2, 0, 3, 1, 1, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1734,9 +1734,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 0, 0, 1, 0, 2, 0, 0, 1, 0]
+    bar [0, 0, 2, 0, 0, 0, 1, 0, 2, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1751,9 +1751,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 1, 0, 1, 1, 1, 2, 0, 0]
+    bar [0, 0, 0, 2, 0, 1, 0, 1, 1, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1768,9 +1768,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0]
+    bar [0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0]
   ```
 
   </details>
@@ -1785,9 +1785,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 3, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1]
+    bar [2, 3, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1802,9 +1802,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [4, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0]
+    bar [4, 0, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1819,9 +1819,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9]
+    bar [0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9, 9]
   ```
 
   </details>
@@ -1836,9 +1836,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 0]
   ```
 
   </details>
@@ -1853,9 +1853,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 0, 0, 0, 0, 2, 1, 0, 1]
+    bar [0, 1, 0, 1, 0, 0, 0, 0, 0, 2, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1870,9 +1870,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 1, 1]
+    bar [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 3, 1, 1, 0]
   ```
 
   </details>
@@ -1887,9 +1887,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 3]
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0]
   ```
 
   </details>
@@ -1904,9 +1904,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 3, 1, 0, 1, 0, 0, 0, 1]
+    bar [0, 0, 1, 0, 0, 3, 1, 0, 1, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1921,9 +1921,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1938,9 +1938,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 4, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 1, 0, 0, 4, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1955,9 +1955,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -1972,9 +1972,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -1989,9 +1989,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2006,9 +2006,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
+    bar [0, 2, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2023,9 +2023,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 3, 2, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 3, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2040,9 +2040,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 0]
   ```
 
   </details>
@@ -2057,9 +2057,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 1]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 1, 0]
   ```
 
   </details>
@@ -2074,9 +2074,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 2]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 2, 0]
   ```
 
   </details>
@@ -2091,9 +2091,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1]
+    bar [1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2108,9 +2108,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 3, 0, 0, 1, 0, 2, 0, 0, 0]
+    bar [0, 0, 1, 0, 3, 0, 0, 1, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2125,9 +2125,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 0, 0, 1, 0, 0, 3, 0, 0, 0]
+    bar [0, 0, 1, 2, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2142,9 +2142,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1]
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2159,9 +2159,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 3, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2176,9 +2176,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 1]
+    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 1, 0]
   ```
 
   </details>
@@ -2193,9 +2193,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0]
+    bar [2, 0, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2210,9 +2210,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 1]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2227,9 +2227,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0]
+    bar [0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2244,9 +2244,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 1, 0, 1]
+    bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 2, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2261,9 +2261,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 2, 3, 3, 5, 5, 7]
+    bar [0, 0, 0, 0, 0, 0, 0, 2, 3, 3, 5, 5, 7, 7]
   ```
 
   </details>
@@ -2278,9 +2278,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1]
+    bar [1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2295,9 +2295,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 2, 1, 1, 0, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 1, 2, 1, 1, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2312,9 +2312,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2329,9 +2329,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2346,9 +2346,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0]
+    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2363,9 +2363,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1]
+    bar [0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2380,9 +2380,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0]
+    bar [0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2397,9 +2397,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 2, 0, 0, 1, 1, 0, 0]
+    bar [1, 0, 1, 0, 0, 0, 2, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2414,9 +2414,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0]
   ```
 
   </details>
@@ -2431,9 +2431,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1]
+    bar [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2448,9 +2448,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 5, 5, 6, 6, 6, 6]
+    bar [0, 0, 0, 0, 0, 0, 0, 5, 5, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2465,9 +2465,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0]
+    bar [1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2482,9 +2482,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 0, 2, 0, 0, 0, 0, 1]
+    bar [0, 0, 1, 0, 1, 0, 0, 2, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2499,9 +2499,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0]
+    bar [0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2516,9 +2516,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 2, 0]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 2, 0, 0]
   ```
 
   </details>
@@ -2533,9 +2533,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2550,9 +2550,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [2, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2567,9 +2567,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [1, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2584,9 +2584,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2601,9 +2601,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2618,9 +2618,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2635,9 +2635,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0]
+    bar [2, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2652,9 +2652,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 1]
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2669,9 +2669,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2686,9 +2686,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2703,9 +2703,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2]
+    bar [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -2720,9 +2720,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2737,9 +2737,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23]
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 0, 1, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
