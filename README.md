@@ -17,10 +17,10 @@ Flutter app flagged for missing accessibility content labels by Google Play Stor
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 154 | [34](#dart-lang-sdk-54934-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 46 | [32](#flutter-flutter-149031-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 414 | [31](#flutter-flutter-31713-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 75 | [31](#flutter-flutter-142845-graph)
 @depreacte dart:html and other "legacy" DOM libraries [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) | 30 | [30](#dart-lang-sdk-56358-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1088 | [29](#dart-lang-language-723-graph)
 
 ## Trending issues by team
 
@@ -210,7 +210,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1144 | [62](#flutter-flutter-53041-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 43 | [29](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 46 | [32](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 305 | [28](#flutter-flutter-145954-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [22](#flutter-flutter-104509-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 795 | [18](#flutter-flutter-46789-graph)
@@ -254,7 +254,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1144 | [62](#flutter-flutter-53041-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 43 | [29](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 46 | [32](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 305 | [28](#flutter-flutter-145954-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [22](#flutter-flutter-104509-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 795 | [18](#flutter-flutter-46789-graph)
@@ -286,8 +286,8 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 ☂️ Explore shared memory multithreading [dart-lang/sdk#55991](https://github.com/dart-lang/sdk/issues/55991) | 19 | [9](#dart-lang-sdk-55991-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 37 | [8](#dart-lang-sdk-42855-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
-Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 [native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
+Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) | 57 | [7](#dart-lang-sdk-43329-graph)
 
 ### Dart language
@@ -501,6 +501,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 46 total reactions, 32 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 6, 1, 6, 2, 2, 3, 1, 4, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-31713-graph"></a>
 ### Implement PlatformView support on Windows
   <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 414 total reactions, 31 recent reactions</sub><br />
@@ -564,23 +581,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 7, 6, 5, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 43 total reactions, 29 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 6, 1, 6, 2, 2, 3, 1, 4, 0]
   ```
 
   </details>
@@ -1164,23 +1164,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56217-graph"></a>
-### :memo: Data Assets Tracker
-  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 10, 10, 10, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-154471-graph"></a>
 ### Custom font special characters not rendered correctly on Web with CanvasKit
   <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1193,6 +1176,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56217-graph"></a>
+### :memo: Data Assets Tracker
+  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 10, 10, 10, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1538,23 +1538,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56542-graph"></a>
-### [Dart VM] Cannot set pause_isolates_on_exit at runtime
-  <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4030-graph"></a>
 ### Better error handling - add try expression or if exception operator
   <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1567,6 +1550,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56542-graph"></a>
+### [Dart VM] Cannot set pause_isolates_on_exit at runtime
+  <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1980,23 +1980,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56220-graph"></a>
-### Evaluate using pub workspace feature, dropping custom package config generator
-  <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56404-graph"></a>
 ### [native/js/wasm] Platform independent File I/O
   <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -2009,6 +1992,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56220-graph"></a>
+### Evaluate using pub workspace feature, dropping custom package config generator
+  <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2643,23 +2643,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-86248-graph"></a>
-### Edge-To-Edge by default on android
-  <sub>[flutter/flutter#86248](https://github.com/flutter/flutter/issues/86248) &mdash; 46 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-53229-graph"></a>
 ### [Proposal] Icon support Linux desktop application
   <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
@@ -2672,6 +2655,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-86248-graph"></a>
+### Edge-To-Edge by default on android
+  <sub>[flutter/flutter#86248](https://github.com/flutter/flutter/issues/86248) &mdash; 46 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 1, 0]
   ```
 
   </details>
