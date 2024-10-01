@@ -42,7 +42,7 @@ Text widget incorrectly wraps Korean text [flutter/flutter#59284](https://github
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 169 | [11](#flutter-flutter-45336-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 101 | [11](#flutter-flutter-127409-graph)
 Implement wide gamut color support in the Framework [flutter/flutter#127855](https://github.com/flutter/flutter/issues/127855) | 72 | [10](#flutter-flutter-127855-graph)
-allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 228 | [9](#flutter-flutter-54200-graph)
+Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 228 | [9](#flutter-flutter-54200-graph)
 [Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 104 | [9](#flutter-flutter-105672-graph)
 SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) | 52 | [9](#flutter-flutter-97544-graph)
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 102 | [8](#flutter-flutter-18636-graph)
@@ -1641,7 +1641,7 @@ Allow both optional positional and optional named arguments in the same function
   </sub>
 
 <a name="flutter-flutter-54200-graph"></a>
-### allow Hero widgets to have transitions within the same screen
+### Allow Hero widgets to have transitions within the same screen
   <sub>[flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) &mdash; 228 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
