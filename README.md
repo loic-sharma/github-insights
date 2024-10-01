@@ -243,8 +243,8 @@ Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 127 | 4
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 106 | 4
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 76 | 4
+Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 56 | 4
 [google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 21 | 4
-[camera] Add Linux support [flutter/flutter#41710](https://github.com/flutter/flutter/issues/41710) | 65 | 3
 
 ### Ecosystem
 
@@ -277,7 +277,7 @@ Issue | Total reactions | Recent reactions
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 154 | [34](#dart-lang-sdk-54934-graph)
 @depreacte dart:html and other "legacy" DOM libraries [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) | 30 | [30](#dart-lang-sdk-56358-graph)
 ☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 44 | [26](#dart-lang-sdk-53875-graph)
-☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 161 | [21](#dart-lang-sdk-50565-graph)
+☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 164 | [24](#dart-lang-sdk-50565-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 46 | [14](#dart-lang-sdk-53402-graph)
 :memo: Data Assets Tracker [dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) | 13 | [13](#dart-lang-sdk-56217-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 28 | [11](#dart-lang-sdk-55281-graph)
@@ -637,6 +637,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="dart-lang-sdk-50565-graph"></a>
+### ☂️ [vm/ffi] Native assets feature
+  <sub>[dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) &mdash; 164 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 1, 0, 0, 1, 0, 0, 3, 3, 7, 1, 1, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-138737-graph"></a>
 ### PopScope seems to be incompatible with GoRouter
   <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 108 total reactions, 24 recent reactions</sub><br />
@@ -700,23 +717,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 22, 22]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-50565-graph"></a>
-### ☂️ [vm/ffi] Native assets feature
-  <sub>[dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) &mdash; 161 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 1, 0, 0, 1, 0, 0, 3, 3, 7, 1, 1, 0]
   ```
 
   </details>
