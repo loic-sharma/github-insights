@@ -307,10 +307,10 @@ Partial Record destructuring [dart-lang/language#3964](https://github.com/dart-l
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2090 | [12](#dart-lang-language-314-graph)
 Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 10 | [10](#dart-lang-language-4030-graph)
+Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 179 | [9](#dart-lang-language-336-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 34 | [7](#dart-lang-language-108-graph)
 Allow use switch expression to init a const variable [dart-lang/language#4021](https://github.com/dart-lang/language/issues/4021) | 7 | [7](#dart-lang-language-4021-graph)
-Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 209 | [6](#dart-lang-language-1076-graph)
 
 ## Graphs
 
@@ -1181,6 +1181,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="dart-lang-language-3964-graph"></a>
+### Partial Record destructuring
+  <sub>[dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 12, 12, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-154471-graph"></a>
 ### Custom font special characters not rendered correctly on Web with CanvasKit
   <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1210,23 +1227,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-3964-graph"></a>
-### Partial Record destructuring
-  <sub>[dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 12, 12, 13, 13]
   ```
 
   </details>
@@ -1572,23 +1572,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="dart-lang-language-4030-graph"></a>
-### Better error handling - add try expression or if exception operator
-  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1601,6 +1584,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4030-graph"></a>
+### Better error handling - add try expression or if exception operator
+  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10]
   ```
 
   </details>
@@ -1669,6 +1669,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-336-graph"></a>
+### Static nested classes
+  <sub>[dart-lang/language#336](https://github.com/dart-lang/language/issues/336) &mdash; 179 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 4]
   ```
 
   </details>
@@ -2303,23 +2320,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="dart-lang-language-1076-graph"></a>
-### Allow both optional positional and optional named arguments in the same function signature.
-  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 209 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-42560-graph"></a>
 ### Support for sheet presentation style
   <sub>[flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) &mdash; 144 total reactions, 6 recent reactions</sub><br />
@@ -2541,23 +2541,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="flutter-flutter-104908-graph"></a>
-### Android TalkBack Item label warning for the whole screen
-  <sub>[flutter/flutter#104908](https://github.com/flutter/flutter/issues/104908) &mdash; 65 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-130135-graph"></a>
 ### Add a static function to Material UI widgets exposing internal default values
   <sub>[flutter/flutter#130135](https://github.com/flutter/flutter/issues/130135) &mdash; 65 total reactions, 5 recent reactions</sub><br />
@@ -2570,6 +2553,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-104908-graph"></a>
+### Android TalkBack Item label warning for the whole screen
+  <sub>[flutter/flutter#104908](https://github.com/flutter/flutter/issues/104908) &mdash; 65 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
