@@ -278,7 +278,7 @@ Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang
 @depreacte dart:html and other "legacy" DOM libraries [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) | 30 | [30](#dart-lang-sdk-56358-graph)
 ☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 44 | [26](#dart-lang-sdk-53875-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 164 | [24](#dart-lang-sdk-50565-graph)
-☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 46 | [14](#dart-lang-sdk-53402-graph)
+☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 47 | [15](#dart-lang-sdk-53402-graph)
 :memo: Data Assets Tracker [dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) | 13 | [13](#dart-lang-sdk-56217-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 28 | [11](#dart-lang-sdk-55281-graph)
 ☂️ Digit separators [dart-lang/sdk#56188](https://github.com/dart-lang/sdk/issues/56188) | 11 | [11](#dart-lang-sdk-56188-graph)
@@ -304,8 +304,8 @@ Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 248 | [15](#dart-lang-language-649-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1642 | [14](#dart-lang-language-1482-graph)
 Partial Record destructuring [dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) | 13 | [13](#dart-lang-language-3964-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2090 | [12](#dart-lang-language-314-graph)
 Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2089 | [11](#dart-lang-language-314-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 10 | [10](#dart-lang-language-4030-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 34 | [7](#dart-lang-language-108-graph)
@@ -994,6 +994,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="dart-lang-sdk-53402-graph"></a>
+### ☂️ New analyzer plugin system
+  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 47 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-1482-graph"></a>
 ### Static Metaprogramming
   <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1642 total reactions, 14 recent reactions</sub><br />
@@ -1057,23 +1074,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [2, 0, 3, 0, 1, 1, 0, 1, -1, 1, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-53402-graph"></a>
-### ☂️ New analyzer plugin system
-  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 46 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
   ```
 
   </details>
@@ -1215,6 +1215,23 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56217-graph"></a>
+### :memo: Data Assets Tracker
+  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 10, 10, 10, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-153184-graph"></a>
 ### Web: Move decodeImageFromPixels off heap / drastically reduce memory usage
   <sub>[flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1232,9 +1249,9 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56217-graph"></a>
-### :memo: Data Assets Tracker
-  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+<a name="dart-lang-language-314-graph"></a>
+### Add data classes
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2090 total reactions, 12 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1243,7 +1260,7 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
   xychart-beta
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 10, 10, 10, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 3, 0, 2, 1]
   ```
 
   </details>
@@ -1329,23 +1346,6 @@ Let a wildcard as an actual type argument indicate a request for inference [dart
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-314-graph"></a>
-### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2089 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 3, 0, 2, 0]
   ```
 
   </details>
