@@ -35,8 +35,8 @@ Issue | Total reactions | Recent reactions
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 159 | [134](#flutter-flutter-151065-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 75 | [31](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 642 | [27](#flutter-flutter-30701-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 156 | [23](#flutter-flutter-65504-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 206 | [22](#flutter-flutter-138614-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 155 | [22](#flutter-flutter-65504-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 100 | [14](#flutter-flutter-99606-graph)
 Text widget incorrectly wraps Korean text [flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) | 36 | [12](#flutter-flutter-59284-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 169 | [11](#flutter-flutter-45336-graph)
@@ -671,6 +671,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 156 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [5, 1, 1, 2, 0, 3, 0, 0, 0, 5, 1, 2, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4084-graph"></a>
 ### Expressions that are "as constant as possible"
   <sub>[dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -734,23 +751,6 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 4, 1, 0, 1, 1, 2, 1, 1, 1, 2, 1, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 155 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [5, 1, 1, 2, 0, 3, 0, 0, 0, 5, 1, 2, 1, 1]
   ```
 
   </details>
