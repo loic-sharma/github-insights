@@ -41,10 +41,10 @@ Ability to change the keyboard language programmatically [flutter/flutter#99606]
 Text widget incorrectly wraps Korean text [flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) | 36 | [12](#flutter-flutter-59284-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 169 | [11](#flutter-flutter-45336-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 101 | [11](#flutter-flutter-127409-graph)
+SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) | 54 | [11](#flutter-flutter-97544-graph)
 Implement wide gamut color support in the Framework [flutter/flutter#127855](https://github.com/flutter/flutter/issues/127855) | 72 | [10](#flutter-flutter-127855-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 228 | [9](#flutter-flutter-54200-graph)
 [Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 104 | [9](#flutter-flutter-105672-graph)
-SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) | 52 | [9](#flutter-flutter-97544-graph)
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 102 | [8](#flutter-flutter-18636-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 94 | [8](#flutter-flutter-86295-graph)
 
@@ -130,8 +130,8 @@ Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/fl
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 413 | [5](#flutter-flutter-71400-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 137 | [5](#flutter-flutter-46979-graph)
 Provide an easy way to select the version of Flutter to use [flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230) | 135 | [5](#flutter-flutter-14230-graph)
+Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 62 | [5](#flutter-flutter-64106-graph)
 [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 25 | [5](#flutter-flutter-95472-graph)
-Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 61 | 4
 [flutter_tools] Add support for running custom scripts [flutter/flutter#90612](https://github.com/flutter/flutter/issues/90612) | 42 | 4
 [doc] Explain how hot-restart works and  why deactivate (dispose) not called on hot restart  [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 20 | 4
 
@@ -286,9 +286,9 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 ☂️ Explore shared memory multithreading [dart-lang/sdk#55991](https://github.com/dart-lang/sdk/issues/55991) | 19 | [9](#dart-lang-sdk-55991-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 37 | [8](#dart-lang-sdk-42855-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
-Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
+Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 
 ### Dart language
 
@@ -1181,40 +1181,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-language-3964-graph"></a>
-### Partial Record destructuring
-  <sub>[dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 12, 12, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56217-graph"></a>
-### :memo: Data Assets Tracker
-  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 10, 10, 10, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-154471-graph"></a>
 ### Custom font special characters not rendered correctly on Web with CanvasKit
   <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1232,6 +1198,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="dart-lang-language-3964-graph"></a>
+### Partial Record destructuring
+  <sub>[dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 12, 12, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-153184-graph"></a>
 ### Web: Move decodeImageFromPixels off heap / drastically reduce memory usage
   <sub>[flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1244,6 +1227,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56217-graph"></a>
+### :memo: Data Assets Tracker
+  <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 10, 10, 10, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1397,6 +1397,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [1, 2, 0, 0, 2, 2, 1, 1, 0, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-97544-graph"></a>
+### SliverWrap widget
+  <sub>[flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) &mdash; 54 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 2]
   ```
 
   </details>
@@ -1810,23 +1827,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-97544-graph"></a>
-### SliverWrap widget
-  <sub>[flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) &mdash; 52 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91241-graph"></a>
 ### Video Player HDR Problem
   <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 44 total reactions, 9 recent reactions</sub><br />
@@ -2048,9 +2048,9 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2059,7 +2059,7 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   xychart-beta
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2082,9 +2082,9 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2093,7 +2093,7 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   xychart-beta
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2558,6 +2558,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-104908-graph"></a>
+### Android TalkBack Item label warning for the whole screen
+  <sub>[flutter/flutter#104908](https://github.com/flutter/flutter/issues/104908) &mdash; 65 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-130135-graph"></a>
 ### Add a static function to Material UI widgets exposing internal default values
   <sub>[flutter/flutter#130135](https://github.com/flutter/flutter/issues/130135) &mdash; 65 total reactions, 5 recent reactions</sub><br />
@@ -2575,9 +2592,9 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-104908-graph"></a>
-### Android TalkBack Item label warning for the whole screen
-  <sub>[flutter/flutter#104908](https://github.com/flutter/flutter/issues/104908) &mdash; 65 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-64106-graph"></a>
+### Tree shake unused assets
+  <sub>[flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) &mdash; 62 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2586,7 +2603,7 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   xychart-beta
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
   ```
 
   </details>
