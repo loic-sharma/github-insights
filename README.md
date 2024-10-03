@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-07-01 to 2024-10-02.
+Issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-framework` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-design` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Issue: Cannot theme progress indicators, many properties missing [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`f: cupertino` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 96 | [8](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ Support search box inside large title nav bar [flutter/flutter#18103](https://gi
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-go_router` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-tool` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-engine` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-ios` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc. 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-android` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-web` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-desktop` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`team-ecosystem` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`dart-lang/sdk` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Evaluate using pub workspace feature, dropping custom package config generator [
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-07-01 to 2024-10-02.
+`dart-lang/language` issues that received the most reactions from 2024-07-01 to 2024-10-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
