@@ -299,8 +299,8 @@ Issue | Total reactions | Recent reactions
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1088 | [29](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 979 | [26](#dart-lang-language-357-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
+Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 518 | [17](#dart-lang-language-83-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1644 | [16](#dart-lang-language-1482-graph)
-Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 517 | [16](#dart-lang-language-83-graph)
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 16 | [16](#dart-lang-language-4057-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 248 | [15](#dart-lang-language-649-graph)
 Partial Record destructuring [dart-lang/language#3964](https://github.com/dart-lang/language/issues/3964) | 13 | [13](#dart-lang-language-3964-graph)
@@ -875,6 +875,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="dart-lang-language-83-graph"></a>
+### Sum/union types and type matching
+  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 518 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-155817-graph"></a>
 ### [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format
   <sub>[flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -904,23 +921,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 5, 2, 3, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-83-graph"></a>
-### Sum/union types and type matching
-  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 517 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 1, Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 0]
   ```
 
   </details>
