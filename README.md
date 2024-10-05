@@ -198,9 +198,9 @@ Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/fl
 [image_picker][android] PickedFile should store the original file name.  [flutter/flutter#64685](https://github.com/flutter/flutter/issues/64685) | 42 | [5](#flutter-flutter-64685-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 32 | [5](#flutter-flutter-91247-graph)
 [shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 53 | 4
+"Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 53 | 4
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 48 | 4
 [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 36 | 4
-[camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 80 | 3
 
 #### Web
 
@@ -216,12 +216,12 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 797 | [20](#flutter-flutter-46789-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 174 | [18](#flutter-flutter-69529-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 31 | [16](#flutter-flutter-141371-graph)
-Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
+Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 63 | [12](#flutter-flutter-124334-graph)
+Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 64 | [11](#flutter-flutter-124205-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 634 | [10](#flutter-flutter-47600-graph)
 [Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 135 | [10](#flutter-flutter-96283-graph)
-Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [10](#flutter-flutter-124205-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 201 | [8](#flutter-flutter-55324-graph)
 
 #### Desktop
@@ -260,12 +260,12 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 797 | [20](#flutter-flutter-46789-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 174 | [18](#flutter-flutter-69529-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 31 | [16](#flutter-flutter-141371-graph)
-Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 13 | [13](#flutter-flutter-153184-graph)
+Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 63 | [12](#flutter-flutter-124334-graph)
+Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 64 | [11](#flutter-flutter-124205-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 634 | [10](#flutter-flutter-47600-graph)
 [Web]: Proposal to be able to build flutter web app with debug profile support [flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) | 135 | [10](#flutter-flutter-96283-graph)
-Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 63 | [10](#flutter-flutter-124205-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 201 | [8](#flutter-flutter-55324-graph)
 
 ### Dart SDK
@@ -297,7 +297,7 @@ Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-la
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1088 | [29](#dart-lang-language-723-graph)
-Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 979 | [26](#dart-lang-language-357-graph)
+Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 980 | [27](#dart-lang-language-357-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 518 | [17](#dart-lang-language-83-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1644 | [16](#dart-lang-language-1482-graph)
@@ -305,12 +305,12 @@ Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 248 | [15](#dart-lang-language-649-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2090 | [12](#dart-lang-language-314-graph)
 Support for Rust like #[cfg()] attributes [dart-lang/language#3972](https://github.com/dart-lang/language/issues/3972) | 12 | [12](#dart-lang-language-3972-graph)
+Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 180 | [10](#dart-lang-language-336-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 10 | [10](#dart-lang-language-4030-graph)
-Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 179 | [9](#dart-lang-language-336-graph)
+Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 16 | [9](#dart-lang-language-3616-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 210 | [7](#dart-lang-language-1076-graph)
 Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-lang/language/issues/108) | 34 | [7](#dart-lang-language-108-graph)
-Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 14 | [7](#dart-lang-language-3616-graph)
 
 ## Graphs
 
@@ -605,7 +605,7 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
 
 <a name="dart-lang-language-357-graph"></a>
 ### Allow for shorter dot syntax to access enum values
-  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 979 total reactions, 26 recent reactions</sub><br />
+  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 980 total reactions, 27 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -614,7 +614,7 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
   xychart-beta
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 4, 3, 2, 5, 2, 6]
+    bar [0, 0, 0, 0, 0, 0, 0, 4, 3, 2, 5, 2, 7]
   ```
 
   </details>
@@ -1062,23 +1062,6 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-106277-graph"></a>
-### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
-  <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 29 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-90856-graph"></a>
 ### ReorderableListView Weird Behaviour on reordering the second last child
   <sub>[flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) &mdash; 29 total reactions, 14 recent reactions</sub><br />
@@ -1091,6 +1074,23 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-106277-graph"></a>
+### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
+  <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 29 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 1]
   ```
 
   </details>
@@ -1147,23 +1147,6 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-154471-graph"></a>
-### Custom font special characters not rendered correctly on Web with CanvasKit
-  <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-153184-graph"></a>
 ### Web: Move decodeImageFromPixels off heap / drastically reduce memory usage
   <sub>[flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1176,6 +1159,23 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-154471-graph"></a>
+### Custom font special characters not rendered correctly on Web with CanvasKit
+  <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1317,6 +1317,23 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-124205-graph"></a>
+### Keyboard issue on mobile Web platform
+  <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 64 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 0, 2, 2, 1, 1, 0, 1, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-97544-graph"></a>
 ### SliverWrap widget
   <sub>[flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) &mdash; 54 total reactions, 11 recent reactions</sub><br />
@@ -1436,6 +1453,23 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="dart-lang-language-336-graph"></a>
+### Static nested classes
+  <sub>[dart-lang/language#336](https://github.com/dart-lang/language/issues/336) &mdash; 180 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-96283-graph"></a>
 ### [Web]: Proposal to be able to build flutter web app with debug profile support
   <sub>[flutter/flutter#96283](https://github.com/flutter/flutter/issues/96283) &mdash; 135 total reactions, 10 recent reactions</sub><br />
@@ -1487,23 +1521,6 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-124205-graph"></a>
-### Keyboard issue on mobile Web platform
-  <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 63 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 2, 2, 1, 1, 0, 1, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-145961-graph"></a>
 ### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
   <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 23 total reactions, 10 recent reactions</sub><br />
@@ -1521,23 +1538,6 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-language-4030-graph"></a>
-### Better error handling - add try expression or if exception operator
-  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1550,6 +1550,23 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4030-graph"></a>
+### Better error handling - add try expression or if exception operator
+  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10]
   ```
 
   </details>
@@ -1601,23 +1618,6 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 3, 1, 0, 0, 1, 1, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-336-graph"></a>
-### Static nested classes
-  <sub>[dart-lang/language#336](https://github.com/dart-lang/language/issues/336) &mdash; 179 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 4]
   ```
 
   </details>
@@ -1737,6 +1737,23 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 4, 0, 0, 0, 0, 1, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-3616-graph"></a>
+### Dot syntax for static access
+  <sub>[dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) &mdash; 16 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9]
   ```
 
   </details>
@@ -2264,23 +2281,6 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-3616-graph"></a>
-### Dot syntax for static access
-  <sub>[dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) &mdash; 14 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
   ```
 
   </details>
