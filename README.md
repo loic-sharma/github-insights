@@ -14,7 +14,7 @@ Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [f
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [36](#flutter-flutter-109813-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
-Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 148 | [34](#flutter-flutter-139289-graph)
+Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 149 | [35](#flutter-flutter-139289-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 47 | [33](#flutter-flutter-149031-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1090 | [31](#dart-lang-language-723-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 415 | [31](#flutter-flutter-31713-graph)
@@ -119,7 +119,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 148 | [34](#flutter-flutter-139289-graph)
+Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 149 | [35](#flutter-flutter-139289-graph)
 [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format [flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) | 17 | [17](#flutter-flutter-155817-graph)
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 140 | [14](#flutter-flutter-65065-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 98 | [10](#flutter-flutter-107157-graph)
@@ -452,7 +452,7 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
 
 <a name="flutter-flutter-139289-graph"></a>
 ### Allow to provide compile-time variables for native platforms from a file
-  <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 148 total reactions, 34 recent reactions</sub><br />
+  <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 149 total reactions, 35 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
