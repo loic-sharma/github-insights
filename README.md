@@ -57,10 +57,10 @@ Issue | Total reactions | Recent reactions
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 281 | [19](#flutter-flutter-21594-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 107 | [19](#flutter-flutter-102560-graph)
 ReorderableListView Weird Behaviour on reordering the second last child [flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) | 29 | [14](#flutter-flutter-90856-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 118 | [8](#flutter-flutter-101479-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 97 | [8](#flutter-flutter-62960-graph)
 Allow nested hero widgets [flutter/flutter#38684](https://github.com/flutter/flutter/issues/38684) | 71 | [8](#flutter-flutter-38684-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 250 | [7](#flutter-flutter-18345-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 117 | [7](#flutter-flutter-101479-graph)
 Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 43 | [7](#flutter-flutter-108683-graph)
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 144 | [6](#flutter-flutter-42560-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 75 | [6](#flutter-flutter-48381-graph)
@@ -75,8 +75,8 @@ Issue: Cannot theme progress indicators, many properties missing [flutter/flutte
 `f: cupertino` issues that received the most reactions from 2024-07-08 to 2024-10-07.
 Issue | Total reactions | Recent reactions
 -- | -- | --
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 118 | [8](#flutter-flutter-101479-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 97 | [8](#flutter-flutter-62960-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 117 | [7](#flutter-flutter-101479-graph)
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 144 | [6](#flutter-flutter-42560-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 34 | [5](#flutter-flutter-53059-graph)
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 125 | 4
@@ -111,7 +111,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 41 | 4
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 32 | 4
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 31 | 4
-[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
+[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
 
 ### Tool
 
@@ -170,13 +170,13 @@ Flutter adds additional one frame touch latency compared to native [flutter/flut
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 94 | [7](#flutter-flutter-57609-graph)
 Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 44 | [7](#flutter-flutter-91241-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 265 | [6](#flutter-flutter-28901-graph)
+TextField with TextInputType.number and AutofillHints.creditCardNumber shows the wrong keyboard [flutter/flutter#104604](https://github.com/flutter/flutter/issues/104604) | 19 | [6](#flutter-flutter-104604-graph)
 Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 60 | [5](#flutter-flutter-64491-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 58 | [5](#flutter-flutter-106612-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 138 | 4
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 125 | 4
 Support eye tracking when running on visionOS or iOS [flutter/flutter#129640](https://github.com/flutter/flutter/issues/129640) | 62 | 4
 In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 37 | 4
-TextField with TextInputType.number and AutofillHints.creditCardNumber shows the wrong keyboard [flutter/flutter#104604](https://github.com/flutter/flutter/issues/104604) | 17 | 4
 Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://github.com/flutter/flutter/issues/133465) | 80 | 3
 Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc. [flutter/flutter#129638](https://github.com/flutter/flutter/issues/129638) | 68 | 3
 
@@ -198,8 +198,8 @@ Make it easier to upload Android native debug symbols for release builds [flutte
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 59 | [5](#flutter-flutter-105395-graph)
 Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/flutter/flutter/issues/86248) | 46 | [5](#flutter-flutter-86248-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 32 | [5](#flutter-flutter-91247-graph)
-[shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 53 | 4
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 53 | 4
+[shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 53 | 4
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 48 | 4
 
 #### Web
@@ -286,9 +286,9 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 38 | [9](#dart-lang-sdk-42855-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 9 | [9](#dart-lang-sdk-56841-graph)
+Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 [native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
-Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 
 ### Dart language
 
@@ -1215,23 +1215,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-154471-graph"></a>
-### Custom font special characters not rendered correctly on Web with CanvasKit
-  <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-156111-graph"></a>
 ### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
   <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1244,6 +1227,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-154471-graph"></a>
+### Custom font special characters not rendered correctly on Web with CanvasKit
+  <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1878,6 +1878,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-101479-graph"></a>
+### Move the material and cupertino packages outside of Flutter
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 118 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 2, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-18636-graph"></a>
 ### ShadowBox inset attribute? Inner shadow
   <sub>[flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) &mdash; 102 total reactions, 8 recent reactions</sub><br />
@@ -2014,6 +2031,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56220-graph"></a>
 ### Evaluate using pub workspace feature, dropping custom package config generator
   <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -2043,23 +2077,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2145,23 +2162,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 2, 0, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-101479-graph"></a>
-### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 117 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -2485,6 +2485,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-104604-graph"></a>
+### TextField with TextInputType.number and AutofillHints.creditCardNumber shows the wrong keyboard
+  <sub>[flutter/flutter#104604](https://github.com/flutter/flutter/issues/104604) &mdash; 19 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
