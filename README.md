@@ -151,8 +151,8 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 86 | [9](#flutter-flutter-10437-graph)
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 121 | [8](#flutter-flutter-30541-graph)
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 78 | [8](#flutter-flutter-37159-graph)
+Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 191 | [7](#flutter-flutter-11754-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 150 | [7](#flutter-flutter-25841-graph)
-Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 190 | [6](#flutter-flutter-11754-graph)
 How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 50 | [6](#flutter-flutter-50890-graph)
 Import multiple Flutter modules in a native app [flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) | 189 | [5](#flutter-flutter-39707-graph)
 
@@ -2082,6 +2082,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-11754-graph"></a>
+### Allow release mode builds to run on simulators
+  <sub>[flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) &mdash; 191 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-25841-graph"></a>
 ### Add a way to detect keyboard language
   <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 150 total reactions, 7 recent reactions</sub><br />
@@ -2298,23 +2315,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-11754-graph"></a>
-### Allow release mode builds to run on simulators
-  <sub>[flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) &mdash; 190 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 0, 0]
   ```
 
   </details>
