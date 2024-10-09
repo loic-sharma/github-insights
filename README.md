@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 159 | [130](#flutter-flutter-151065-graph)
 add spacing parameter to Column and Row [flutter/flutter#55378](https://github.com/flutter/flutter/issues/55378) | 95 | [70](#flutter-flutter-55378-graph)
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1146 | [53](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1147 | [54](#flutter-flutter-53041-graph)
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [48](#flutter-flutter-152953-graph)
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
@@ -111,7 +111,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 41 | 4
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 32 | 4
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 31 | 4
-[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
+[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
 
 ### Tool
 
@@ -208,7 +208,7 @@ Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1146 | [53](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1147 | [54](#flutter-flutter-53041-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 47 | [33](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 308 | [31](#flutter-flutter-145954-graph)
@@ -252,7 +252,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1146 | [53](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1147 | [54](#flutter-flutter-53041-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 47 | [33](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 308 | [31](#flutter-flutter-145954-graph)
@@ -281,14 +281,14 @@ Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 48 | [16](#dart-lang-sdk-53402-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 31 | [14](#dart-lang-sdk-55281-graph)
 :memo: Data Assets Tracker [dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) | 13 | [13](#dart-lang-sdk-56217-graph)
-☂️ Digit separators [dart-lang/sdk#56188](https://github.com/dart-lang/sdk/issues/56188) | 11 | [11](#dart-lang-sdk-56188-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 11 | [11](#dart-lang-sdk-56863-graph)
+☂️ Digit separators [dart-lang/sdk#56188](https://github.com/dart-lang/sdk/issues/56188) | 11 | [11](#dart-lang-sdk-56188-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 512 | [10](#dart-lang-sdk-28617-graph)
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 38 | [9](#dart-lang-sdk-42855-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 9 | [9](#dart-lang-sdk-56841-graph)
+Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
 
 ### Dart language
 
@@ -350,7 +350,7 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
 
 <a name="flutter-flutter-53041-graph"></a>
 ### Enable "hot reload" (not just "hot restart") for Flutter Web
-  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1146 total reactions, 53 recent reactions</sub><br />
+  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1147 total reactions, 54 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -359,7 +359,7 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   xychart-beta
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 3, 12, 2, 5, 2, 1, 7, 4, 5, 5, 1, 1]
+    bar [1, 1, 3, 12, 2, 5, 2, 1, 7, 4, 5, 5, 1, 2]
   ```
 
   </details>
@@ -1487,23 +1487,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56188-graph"></a>
-### ☂️ Digit separators
-  <sub>[dart-lang/sdk#56188](https://github.com/dart-lang/sdk/issues/56188) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56863-graph"></a>
 ### [Meta] Support project-wide dart format page width configuration
   <sub>[dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -1516,6 +1499,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56188-graph"></a>
+### ☂️ Digit separators
+  <sub>[dart-lang/sdk#56188](https://github.com/dart-lang/sdk/issues/56188) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0]
   ```
 
   </details>
@@ -1640,23 +1640,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-language-4030-graph"></a>
-### Better error handling - add try expression or if exception operator
-  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1669,6 +1652,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4030-graph"></a>
+### Better error handling - add try expression or if exception operator
+  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1844,23 +1844,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-3995-graph"></a>
 ### More strict handling of exceptions
   <sub>[dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -1873,6 +1856,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9]
   ```
 
   </details>
@@ -2048,6 +2048,23 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56220-graph"></a>
+### Evaluate using pub workspace feature, dropping custom package config generator
+  <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56573-graph"></a>
 ### Dart should have process for keeping VM RegExp up-to-date with Irregexp
   <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -2060,23 +2077,6 @@ Implicit Constructor proposal [dart-lang/language#108](https://github.com/dart-l
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
