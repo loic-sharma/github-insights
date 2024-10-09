@@ -111,7 +111,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 41 | 4
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 32 | 4
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 31 | 4
-[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
+[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
 
 ### Tool
 
@@ -235,7 +235,7 @@ icons paint incorrectly on macOS [flutter/flutter#152160](https://github.com/flu
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 183 | [14](#flutter-flutter-41980-graph)
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 657 | [13](#flutter-flutter-41722-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 311 | [12](#flutter-flutter-37597-graph)
-Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 34 | [9](#flutter-flutter-134346-graph)
+Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 35 | [10](#flutter-flutter-134346-graph)
 [webview_flutter] Add macOS support [flutter/flutter#41725](https://github.com/flutter/flutter/issues/41725) | 385 | [7](#flutter-flutter-41725-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 128 | [5](#flutter-flutter-41724-graph)
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 77 | [5](#flutter-flutter-77638-graph)
@@ -299,7 +299,7 @@ Issue | Total reactions | Recent reactions
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1090 | [31](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 983 | [30](#dart-lang-language-357-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
-Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 27 | [20](#dart-lang-language-3616-graph)
+Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 28 | [21](#dart-lang-language-3616-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 518 | [17](#dart-lang-language-83-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 250 | [17](#dart-lang-language-649-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1644 | [16](#dart-lang-language-1482-graph)
@@ -756,6 +756,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-language-3616-graph"></a>
+### Dot syntax for static access
+  <sub>[dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) &mdash; 28 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-69529-graph"></a>
 ### [web] Scroll is not recognized by the browser
   <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 176 total reactions, 20 recent reactions</sub><br />
@@ -768,23 +785,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 4, 0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-3616-graph"></a>
-### Dot syntax for static access
-  <sub>[dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) &mdash; 27 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 1]
   ```
 
   </details>
@@ -1130,23 +1130,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-90856-graph"></a>
-### ReorderableListView Weird Behaviour on reordering the second last child
-  <sub>[flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) &mdash; 29 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-106277-graph"></a>
 ### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
   <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 29 total reactions, 14 recent reactions</sub><br />
@@ -1159,6 +1142,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-90856-graph"></a>
+### ReorderableListView Weird Behaviour on reordering the second last child
+  <sub>[flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) &mdash; 29 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1640,6 +1640,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-134346-graph"></a>
+### Make Windows plugin APIs thread-safe
+  <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 35 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1822,23 +1839,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-134346-graph"></a>
-### Make Windows plugin APIs thread-safe
-  <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 34 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1]
   ```
 
   </details>
