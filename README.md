@@ -111,7 +111,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 41 | 4
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 32 | 4
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 31 | 4
-[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
+[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
 
 ### Tool
 
@@ -167,7 +167,7 @@ Issue | Total reactions | Recent reactions
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 319 | [22](#flutter-flutter-110431-graph)
 [in_app_purchase] Use StoreKit 2 APIs [flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) | 38 | [11](#flutter-flutter-116383-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 142 | [9](#flutter-flutter-126005-graph)
-Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 63 | [8](#flutter-flutter-64491-graph)
+Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 64 | [9](#flutter-flutter-64491-graph)
 Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 45 | [8](#flutter-flutter-91241-graph)
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 94 | [7](#flutter-flutter-57609-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 265 | [6](#flutter-flutter-28901-graph)
@@ -288,7 +288,7 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 9 | [9](#dart-lang-sdk-56841-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 13 | [8](#dart-lang-sdk-56017-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
+Evaluate using pub workspace feature, dropping custom package config generator [dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) | 8 | [8](#dart-lang-sdk-56220-graph)
 
 ### Dart language
 
@@ -1079,23 +1079,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-90856-graph"></a>
-### ReorderableListView Weird Behaviour on reordering the second last child
-  <sub>[flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) &mdash; 30 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-106277-graph"></a>
 ### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
   <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 30 total reactions, 15 recent reactions</sub><br />
@@ -1108,6 +1091,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-90856-graph"></a>
+### ReorderableListView Weird Behaviour on reordering the second last child
+  <sub>[flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) &mdash; 30 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]
   ```
 
   </details>
@@ -1266,6 +1266,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-154471-graph"></a>
+### Custom font special characters not rendered correctly on Web with CanvasKit
+  <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56217-graph"></a>
 ### :memo: Data Assets Tracker
   <sub>[dart-lang/sdk#56217](https://github.com/dart-lang/sdk/issues/56217) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1295,23 +1312,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-154471-graph"></a>
-### Custom font special characters not rendered correctly on Web with CanvasKit
-  <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1691,23 +1691,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-language-4030-graph"></a>
-### Better error handling - add try expression or if exception operator
-  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1720,6 +1703,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4030-graph"></a>
+### Better error handling - add try expression or if exception operator
+  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1878,6 +1878,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-64491-graph"></a>
+### Colorized console output does not work in iOS builds but works for Android builds
+  <sub>[flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) &mdash; 64 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 4]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-129757-graph"></a>
 ### ☂️ Native assets support
   <sub>[flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) &mdash; 58 total reactions, 9 recent reactions</sub><br />
@@ -1912,23 +1929,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-3995-graph"></a>
 ### More strict handling of exceptions
   <sub>[dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -1941,6 +1941,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9]
   ```
 
   </details>
@@ -2065,23 +2082,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-64491-graph"></a>
-### Colorized console output does not work in iOS builds but works for Android builds
-  <sub>[flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) &mdash; 63 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 3]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91241-graph"></a>
 ### Video Player HDR Problem
   <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 45 total reactions, 8 recent reactions</sub><br />
@@ -2116,9 +2116,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-sdk-56220-graph"></a>
+### Evaluate using pub workspace feature, dropping custom package config generator
+  <sub>[dart-lang/sdk#56220](https://github.com/dart-lang/sdk/issues/56220) &mdash; 8 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2127,7 +2127,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8]
+    bar [0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2507,23 +2507,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-104268-graph"></a>
-### Filtering `updateAcquireFence: Did not find frame.` out from flutter run output
-  <sub>[flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) &mdash; 29 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 0, 2, 1, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-133746-graph"></a>
 ### [go_router] Unwanted black screen when using async redirect.
   <sub>[flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) &mdash; 29 total reactions, 6 recent reactions</sub><br />
@@ -2536,6 +2519,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-104268-graph"></a>
+### Filtering `updateAcquireFence: Did not find frame.` out from flutter run output
+  <sub>[flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) &mdash; 29 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 2, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2864,23 +2864,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-116889-graph"></a>
-### [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt
-  <sub>[flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-123113-graph"></a>
 ### [Material 3] Implement Standard Navigation Drawer
   <sub>[flutter/flutter#123113](https://github.com/flutter/flutter/issues/123113) &mdash; 18 total reactions, 5 recent reactions</sub><br />
@@ -2893,6 +2876,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-116889-graph"></a>
+### [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt
+  <sub>[flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 8, Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4]
   ```
 
   </details>
