@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-07-15 to 2024-10-12.
+Issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Allow to provide compile-time variables for native platforms from a file [flutte
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-framework` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-design` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Flutter slider should have the feature to show value indicator all the time, not
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`f: cupertino` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 120 | [8](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-go_router` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-tool` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Let flutter be installable via homebrew [flutter/flutter#14050](https://github.c
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-engine` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-ios` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc. 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-android` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-web` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.co
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-desktop` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`team-ecosystem` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.co
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`dart-lang/sdk` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Analyzer does not navigate up in the directory tree looking for closest analysis
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-07-15 to 2024-10-12.
+`dart-lang/language` issues that received the most reactions from 2024-07-15 to 2024-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
