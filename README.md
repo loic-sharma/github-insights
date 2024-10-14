@@ -2762,23 +2762,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-116889-graph"></a>
-### [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt
-  <sub>[flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-123113-graph"></a>
 ### [Material 3] Implement Standard Navigation Drawer
   <sub>[flutter/flutter#123113](https://github.com/flutter/flutter/issues/123113) &mdash; 18 total reactions, 5 recent reactions</sub><br />
@@ -2791,6 +2774,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-116889-graph"></a>
+### [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt
+  <sub>[flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
