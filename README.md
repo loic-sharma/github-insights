@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 159 | [129](#flutter-flutter-151065-graph)
 add spacing parameter to Column and Row [flutter/flutter#55378](https://github.com/flutter/flutter/issues/55378) | 95 | [70](#flutter-flutter-55378-graph)
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1150 | [56](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1151 | [57](#flutter-flutter-53041-graph)
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [48](#flutter-flutter-152953-graph)
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
@@ -65,10 +65,10 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 43 | [7](#flutter-flutter-108683-graph)
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 144 | [6](#flutter-flutter-42560-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 75 | [6](#flutter-flutter-48381-graph)
+[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 40 | [5](#flutter-flutter-98178-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 35 | [5](#flutter-flutter-53059-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 27 | [5](#flutter-flutter-141941-graph)
 Issue: Cannot theme progress indicators, many properties missing [flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) | 21 | [5](#flutter-flutter-131690-graph)
-[Material 3] Implement Standard Navigation Drawer [flutter/flutter#123113](https://github.com/flutter/flutter/issues/123113) | 18 | [5](#flutter-flutter-123113-graph)
 
 #### Cupertino
 
@@ -108,9 +108,9 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 38 | [5](#flutter-flutter-114131-graph)
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 41 | 4
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 32 | 4
-[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
-[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
 [go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
+[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
+[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
 [go_router] Add support for relative routes [flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) | 49 | 3
 
 ### Tool
@@ -146,9 +146,9 @@ Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://git
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 30 | [15](#flutter-flutter-106277-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 335 | [13](#flutter-flutter-128313-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 509 | [10](#flutter-flutter-26801-graph)
+Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 297 | [10](#flutter-flutter-18443-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 87 | [10](#flutter-flutter-10437-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 29 | [10](#flutter-flutter-146860-graph)
-Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 296 | [9](#flutter-flutter-18443-graph)
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 122 | [8](#flutter-flutter-30541-graph)
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 78 | [8](#flutter-flutter-37159-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 191 | [7](#flutter-flutter-11754-graph)
@@ -208,7 +208,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1150 | [56](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1151 | [57](#flutter-flutter-53041-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 49 | [35](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 309 | [32](#flutter-flutter-145954-graph)
@@ -252,7 +252,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1150 | [56](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1151 | [57](#flutter-flutter-53041-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 49 | [35](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 309 | [32](#flutter-flutter-145954-graph)
@@ -350,7 +350,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-53041-graph"></a>
 ### Enable "hot reload" (not just "hot restart") for Flutter Web
-  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1150 total reactions, 56 recent reactions</sub><br />
+  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1151 total reactions, 57 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -892,23 +892,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-156111-graph"></a>
-### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
-  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-155817-graph"></a>
 ### [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format
   <sub>[flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -921,6 +904,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-156111-graph"></a>
+### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
+  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
   ```
 
   </details>
@@ -1130,23 +1130,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-106277-graph"></a>
-### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
-  <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 30 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-90856-graph"></a>
 ### ReorderableListView Weird Behaviour on reordering the second last child
   <sub>[flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) &mdash; 30 total reactions, 15 recent reactions</sub><br />
@@ -1159,6 +1142,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-106277-graph"></a>
+### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
+  <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 30 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 1, 1, 0]
   ```
 
   </details>
@@ -1436,6 +1436,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-18443-graph"></a>
+### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
+  <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 297 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-336-graph"></a>
 ### Static nested classes
   <sub>[dart-lang/language#336](https://github.com/dart-lang/language/issues/336) &mdash; 180 total reactions, 10 recent reactions</sub><br />
@@ -1652,23 +1669,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 0, 3, 0, 0, 1, 2, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-18443-graph"></a>
-### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
-  <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 296 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2677,6 +2677,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-98178-graph"></a>
+### [ListTile] Support custom height constraints of leading/trailing
+  <sub>[flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) &mdash; 40 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-114131-graph"></a>
 ### [go_router] choose in redirect method if `push` or `go`
   <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 38 total reactions, 5 recent reactions</sub><br />
@@ -2757,23 +2774,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-123113-graph"></a>
-### [Material 3] Implement Standard Navigation Drawer
-  <sub>[flutter/flutter#123113](https://github.com/flutter/flutter/issues/123113) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
