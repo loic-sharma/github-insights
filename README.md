@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-07-15 to 2024-10-13.
+Issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-framework` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-design` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Issue: Cannot theme progress indicators, many properties missing [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`f: cupertino` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 120 | [8](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-go_router` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 38 | [5](#flutter-flutter-114131-graph)
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 41 | 4
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 32 | 4
-[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
-[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
 [go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
-[go_router] Add support for relative routes [flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) | 49 | 3
+[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
+[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
+[go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 49 | 3
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-tool` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Let flutter be installable via homebrew [flutter/flutter#14050](https://github.c
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-engine` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-ios` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Support visionOS devices for iOS apps in `flutter devices`, `flutter run`, etc. 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-android` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-web` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.co
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-desktop` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`team-ecosystem` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.co
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`dart-lang/sdk` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,13 +286,13 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 39 | [9](#dart-lang-sdk-42855-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 9 | [9](#dart-lang-sdk-56841-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 13 | [8](#dart-lang-sdk-56017-graph)
-Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 [native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
+Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 Analyzer does not navigate up in the directory tree looking for closest analysis_options.yaml file [dart-lang/sdk#56552](https://github.com/dart-lang/sdk/issues/56552) | 7 | [7](#dart-lang-sdk-56552-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-07-15 to 2024-10-13.
+`dart-lang/language` issues that received the most reactions from 2024-07-15 to 2024-10-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -323,9 +323,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 115, 0, 6, 0, 1, 0, 3, 1, 0, 1, 0, 0]
+    bar [0, 115, 0, 6, 0, 1, 0, 3, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -340,9 +340,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 30, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 30, 29, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -357,9 +357,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 3, 12, 2, 5, 2, 1, 7, 4, 5, 5, 1, 5]
+    bar [1, 3, 12, 2, 5, 2, 1, 7, 4, 5, 5, 1, 5, 0]
   ```
 
   </details>
@@ -374,9 +374,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 0, 0, 19, 36, 48, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 19, 36, 48, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -391,9 +391,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -408,9 +408,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 39, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 39, 0, 0, 0]
   ```
 
   </details>
@@ -425,9 +425,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 0, 0, 24, 36, 36, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 24, 36, 36, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -442,9 +442,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 6, 1, 6, 2, 2, 3, 1, 4, 1, 2]
+    bar [0, 0, 0, 6, 1, 6, 2, 2, 3, 1, 4, 1, 2, 0]
   ```
 
   </details>
@@ -459,9 +459,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 4, 1, 5, 2, 0, 3, 0, 5, 0, 3, 6]
+    bar [1, 0, 4, 1, 5, 2, 0, 3, 0, 5, 0, 3, 6, 0]
   ```
 
   </details>
@@ -476,9 +476,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [7, 4, 5, 0, 7, 6, 0, 0, 0, 0, 0, 0, 0]
+    bar [7, 4, 5, 0, 7, 6, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -493,9 +493,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 5, 1, 7, 6, 5, 2, 1]
+    bar [0, 0, 0, 0, 0, 0, 5, 1, 7, 6, 5, 2, 1, 0]
   ```
 
   </details>
@@ -510,9 +510,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 4, 3, 2, 5, 2, 10, 2]
+    bar [0, 0, 0, 0, 0, 0, 4, 3, 2, 5, 2, 10, 2, 0]
   ```
 
   </details>
@@ -527,9 +527,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [2, 2, 1, 2, 2, 6, 3, 1, 2, 0, 0, 1, 1]
+    bar [2, 2, 1, 2, 2, 6, 3, 1, 2, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -544,9 +544,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 3, 3, 5, 1, 2, 4, 0, 5, 2, 3, 0, 1]
+    bar [1, 3, 3, 5, 1, 2, 4, 0, 5, 2, 3, 0, 1, 0]
   ```
 
   </details>
@@ -561,9 +561,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 1, 5, 3, 1, 0, 3, 9, 1, 0, 0]
+    bar [2, 1, 1, 1, 5, 3, 1, 0, 3, 9, 1, 0, 0, 0]
   ```
 
   </details>
@@ -578,9 +578,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 1, 1, 2, 1, 1, 5, 1, 1, 4, 4, 2]
+    bar [2, 0, 1, 1, 2, 1, 1, 5, 1, 1, 4, 4, 2, 0]
   ```
 
   </details>
@@ -595,9 +595,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 0, 23, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30]
+    bar [0, 0, 23, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30]
   ```
 
   </details>
@@ -612,9 +612,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 1, 6, 6, 2, 2, 0, 1, 0, 0, 1]
+    bar [2, 1, 0, 1, 6, 6, 2, 2, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -629,9 +629,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 20, 3, 1, 0, 1, 1, 0, 0, 1, 0]
+    bar [0, 0, 0, 20, 3, 1, 0, 1, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -646,9 +646,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 3, 3, 1, 0, 1, 0, 1, 0, 0, 6]
+    bar [1, 1, 2, 3, 3, 1, 0, 1, 0, 1, 0, 0, 6, 0]
   ```
 
   </details>
@@ -663,9 +663,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 1, 0, 5, 2, 0, 3, 2, 1, 0, 0]
+    bar [1, 1, 1, 1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 0]
   ```
 
   </details>
@@ -680,9 +680,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 4]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 4, 0]
   ```
 
   </details>
@@ -697,9 +697,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 22, 23, 23]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 22, 23, 23, 23]
   ```
 
   </details>
@@ -714,9 +714,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 3, 3, 7, 1, 1, 3, 0]
+    bar [1, 0, 0, 1, 0, 0, 3, 3, 7, 1, 1, 3, 0, 0]
   ```
 
   </details>
@@ -731,9 +731,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 1, 0, 0, 0, 4, 0, 1, 0, 0, 0]
+    bar [0, 2, 1, 1, 0, 0, 0, 4, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -748,9 +748,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [4, 0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 0, 2]
+    bar [4, 0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 0, 2, 0]
   ```
 
   </details>
@@ -765,9 +765,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [3, 5, 2, 0, 0, 2, 5, 0, 0, 0, 1, 1, 1]
+    bar [3, 5, 2, 0, 0, 2, 5, 0, 0, 0, 1, 1, 1, 0]
   ```
 
   </details>
@@ -782,9 +782,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [4, 1, 0, 1, 1, 2, 1, 1, 1, 2, 1, 2, 0]
+    bar [4, 1, 0, 1, 1, 2, 1, 1, 1, 2, 1, 2, 0, 0]
   ```
 
   </details>
@@ -799,9 +799,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 0, 0, 0, 4, 2, 1, 1, 0, 0]
+    bar [1, 0, 1, 1, 0, 0, 0, 4, 2, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -816,9 +816,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 0, 1, 1, 4, 3, 3, 1, 0, 0]
+    bar [0, 1, 2, 0, 0, 1, 1, 4, 3, 3, 1, 0, 0, 0]
   ```
 
   </details>
@@ -833,9 +833,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 18, 18, 18, 18, 18, 18, 18, 18, 19, 19, 19, 19]
+    bar [0, 18, 18, 18, 18, 18, 18, 18, 18, 19, 19, 19, 19, 19]
   ```
 
   </details>
@@ -850,9 +850,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 9, 0, 1, 0, 1, 0, 3]
+    bar [0, 0, 0, 0, 0, 0, 9, 0, 1, 0, 1, 0, 3, 0]
   ```
 
   </details>
@@ -867,9 +867,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 13]
+    bar [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 13, 0]
   ```
 
   </details>
@@ -884,9 +884,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 1, 1, 0, 0, 1, 0, 1, 0, 2, 2, 3]
+    bar [2, 0, 1, 1, 0, 0, 1, 0, 1, 0, 2, 2, 3, 0]
   ```
 
   </details>
@@ -901,9 +901,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
   ```
 
   </details>
@@ -918,9 +918,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 18]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 18, 18]
   ```
 
   </details>
@@ -935,9 +935,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 2, 0, 5, 2, 3, 2, 1]
+    bar [0, 0, 0, 0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0]
   ```
 
   </details>
@@ -952,9 +952,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 1, 0]
+    bar [0, 0, 0, 0, 0, 0, 7, 0, 7, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -969,9 +969,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 1, 2, 2, 0, 1, 1, 3]
+    bar [1, 0, 0, 0, 0, 1, 1, 2, 2, 0, 1, 1, 3, 0]
   ```
 
   </details>
@@ -986,9 +986,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 3, 0, 0, 0, 5, 1, 2, 1, 2, 0]
+    bar [1, 2, 0, 3, 0, 0, 0, 5, 1, 2, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1003,9 +1003,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 1, 2, 0, 0, 2, 0, 2, 1, 1, 4]
+    bar [0, 2, 0, 1, 2, 0, 0, 2, 0, 2, 1, 1, 4, 0]
   ```
 
   </details>
@@ -1020,9 +1020,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 3, 13, 13, 14, 16, 16, 16, 17]
+    bar [0, 0, 0, 0, 0, 3, 13, 13, 14, 16, 16, 16, 17, 17]
   ```
 
   </details>
@@ -1037,9 +1037,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 1, 1, 0, 1, -1, 1, 1, 1, 0, 0, 5]
+    bar [3, 0, 1, 1, 0, 1, -1, 1, 1, 1, 0, 0, 5, 0]
   ```
 
   </details>
@@ -1054,9 +1054,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0]
   ```
 
   </details>
@@ -1071,9 +1071,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 8, 0, 2, 0, 1, 1, 1, 1, 0, 0]
+    bar [0, 0, 0, 8, 0, 2, 0, 1, 1, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1088,9 +1088,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
   ```
 
   </details>
@@ -1105,9 +1105,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 1, 1, 2, 1, 1, 1, 0, 2, 0]
+    bar [0, 0, 2, 0, 1, 1, 2, 1, 1, 1, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1122,9 +1122,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 0, 0, 0, 8, 1, 0, 2, 0]
+    bar [1, 1, 1, 0, 0, 0, 0, 0, 8, 1, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1139,9 +1139,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 1, 1]
+    bar [1, 0, 0, 3, 1, 1, 3, 1, 1, 0, 1, 1, 1, 0]
   ```
 
   </details>
@@ -1156,9 +1156,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]
+    bar [0, 1, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1173,9 +1173,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [5, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4]
+    bar [5, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -1190,9 +1190,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 2, 1, 0, 1, 3, 1]
+    bar [0, 1, 0, 0, 0, 0, 0, 2, 1, 0, 1, 3, 1, 0]
   ```
 
   </details>
@@ -1207,9 +1207,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 3, 0, 2, 1, 1, 2, 0, 0, 1, 1]
+    bar [0, 0, 0, 3, 0, 2, 1, 1, 2, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1224,9 +1224,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13, 14]
+    bar [0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13, 14, 14]
   ```
 
   </details>
@@ -1241,9 +1241,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 3, 0, 0, 2, 0, 1, 0, 1, 5, 0, 0, 0]
+    bar [1, 3, 0, 0, 2, 0, 1, 0, 1, 5, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1258,9 +1258,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 6, 1, 1, 1, 0, 0, 1, 0]
+    bar [1, 0, 0, 1, 0, 6, 1, 1, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1275,9 +1275,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 3, 1, 2]
+    bar [0, 0, 0, 0, 1, 1, 0, 1, 2, 0, 3, 1, 2, 0]
   ```
 
   </details>
@@ -1292,9 +1292,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13]
+    bar [0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1309,9 +1309,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 3, 3, 0, 2, 1, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 3, 3, 0, 2, 1, 0, 0]
   ```
 
   </details>
@@ -1326,9 +1326,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 3, 0, 0, 1, 3, 0, 1, 2, 0, 0, 0]
+    bar [0, 2, 3, 0, 0, 1, 3, 0, 1, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1343,9 +1343,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 2, 0, 2, 1, 1, 1, 1, 0, 0]
+    bar [1, 0, 0, 0, 2, 0, 2, 1, 1, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1360,9 +1360,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 2, 0, 1, 0, 4, 0, 0, 0]
+    bar [0, 0, 1, 0, 1, 2, 0, 1, 0, 4, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1377,9 +1377,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 2, 0, 1, 1, 3, 0, 1, 0, 1, 0]
+    bar [1, 0, 1, 2, 0, 1, 1, 3, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1394,9 +1394,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 9, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+    bar [0, 0, 9, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1411,9 +1411,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 6, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0]
+    bar [0, 6, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1428,9 +1428,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 5, 0, 0]
   ```
 
   </details>
@@ -1445,9 +1445,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 1, 0, 0, 2, 1, 1, 0, 0]
+    bar [1, 1, 0, 0, 0, 1, 0, 0, 2, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1462,9 +1462,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, -1, 0, 0, 1, 0, 2, 1, 2, 1, 0, 0, 1]
+    bar [1, -1, 0, 0, 1, 0, 2, 1, 2, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1479,9 +1479,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 1, 1, 0, 1, 0, 3, 1, 0, 1]
+    bar [1, 0, 0, 1, 1, 1, 0, 1, 0, 3, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1496,9 +1496,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 3, 0, 0, 1, 0, 2, 0, 0, 0, 1, 2]
+    bar [1, 0, 3, 0, 0, 1, 0, 2, 0, 0, 0, 1, 2, 0]
   ```
 
   </details>
@@ -1513,9 +1513,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 3, 1, 1, 0, 1, 0, 1, 0, 1]
+    bar [0, 0, 2, 0, 3, 1, 1, 0, 1, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1530,9 +1530,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 6, 0, 0, 0, 0, 2, 1, 1, 0, 0, 0]
+    bar [0, 0, 6, 0, 0, 0, 0, 2, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1547,9 +1547,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 2, 1, 1, 0, 1, 0, 0, 0, 1, 1]
+    bar [0, 0, 2, 2, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1564,9 +1564,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 2, 0]
+    bar [1, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1581,9 +1581,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 0, 2, 2, 1, 0, 2, 0, 0, 0]
+    bar [0, 0, 1, 2, 0, 2, 2, 1, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1598,9 +1598,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1615,9 +1615,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10]
+    bar [0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1632,9 +1632,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 3, 0, 0, 1, 2, 1, 1]
+    bar [0, 1, 0, 0, 0, 0, 3, 0, 0, 1, 2, 1, 1, 0]
   ```
 
   </details>
@@ -1649,9 +1649,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0]
+    bar [0, 0, 1, 3, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1666,9 +1666,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 3, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+    bar [0, 1, 1, 3, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1683,9 +1683,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 1]
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 1, 0]
   ```
 
   </details>
@@ -1700,9 +1700,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 4]
+    bar [0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 4, 0]
   ```
 
   </details>
@@ -1717,9 +1717,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 1, 0, 1, 1, 1, 2, 0, 0, 0, 0]
+    bar [0, 2, 0, 1, 0, 1, 1, 1, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1734,9 +1734,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 3, 1, 0, 1, 0, 0, 0, 1, 0, 1]
+    bar [1, 0, 0, 3, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1751,9 +1751,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1]
+    bar [0, 0, 4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1768,9 +1768,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 2]
+    bar [0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 2, 0]
   ```
 
   </details>
@@ -1785,9 +1785,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9]
+    bar [0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9]
   ```
 
   </details>
@@ -1802,9 +1802,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 9]
   ```
 
   </details>
@@ -1819,9 +1819,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 4, 1, 0, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 4, 1, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1836,9 +1836,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0]
+    bar [0, 0, 3, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1853,9 +1853,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1870,9 +1870,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0]
+    bar [1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1887,9 +1887,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 4, -1, 1]
+    bar [1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 4, -1, 1, 0]
   ```
 
   </details>
@@ -1904,9 +1904,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 2, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1921,9 +1921,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 1, 0, 2, 0, 0, 1, 0, 0, 0]
+    bar [2, 0, 0, 0, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1938,9 +1938,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 3, 0, 0]
+    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 3, 0, 0, 0]
   ```
 
   </details>
@@ -1955,26 +1955,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8]
+    bar [1, 2, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -1989,9 +1972,26 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8]
+    bar [0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -2006,9 +2006,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 4]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -2023,9 +2023,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 3, 2, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 1, 0, 0, 3, 2, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2040,9 +2040,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0]
+    bar [0, 1, 2, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2057,9 +2057,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 2]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2, 2, 0]
   ```
 
   </details>
@@ -2074,9 +2074,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 3, 0, 0, 0]
   ```
 
   </details>
@@ -2091,9 +2091,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 1, 0, 0]
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2108,9 +2108,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 0, 0, 1, 2, 0, 0, 1, 0]
+    bar [0, 1, 0, 0, 1, 0, 0, 1, 2, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2125,9 +2125,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 1, 1, 2, 0, 2, 0]
+    bar [0, 0, 0, 1, 0, 0, 0, 1, 1, 2, 0, 2, 0, 0]
   ```
 
   </details>
@@ -2142,9 +2142,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0]
+    bar [0, 1, 0, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2159,9 +2159,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 1, 3, 1, 1, 0, 0]
+    bar [0, 0, 0, 1, 0, 0, 0, 1, 3, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2176,9 +2176,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0]
+    bar [1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2193,9 +2193,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2210,9 +2210,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0]
+    bar [0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2227,9 +2227,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0]
+    bar [1, 2, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2244,9 +2244,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2261,9 +2261,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 2]
+    bar [1, 0, 0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -2278,9 +2278,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 2, 1, 0, 1, 0, 1]
+    bar [0, 0, 1, 0, 0, 0, 0, 2, 1, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2295,9 +2295,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 2, 0]
+    bar [0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -2312,9 +2312,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 7, 7]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 6, 7, 7, 7]
   ```
 
   </details>
@@ -2329,9 +2329,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0]
+    bar [0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2346,9 +2346,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 2, 0, 0, 0, 0, 1, 0, 1]
+    bar [1, 0, 1, 0, 0, 2, 0, 0, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2363,9 +2363,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2380,9 +2380,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0]
+    bar [1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2397,9 +2397,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1]
+    bar [0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2414,9 +2414,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 1, 0, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2431,9 +2431,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 2]
+    bar [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0]
   ```
 
   </details>
@@ -2448,9 +2448,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2465,9 +2465,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2482,9 +2482,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2499,9 +2499,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2516,9 +2516,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 0]
+    bar [1, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2533,9 +2533,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2550,9 +2550,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2567,9 +2567,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -2584,9 +2584,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0]
   ```
 
   </details>
@@ -2601,9 +2601,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+    bar [0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2618,9 +2618,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 2, 0]
+    bar [1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -2635,9 +2635,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    bar [1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2652,9 +2652,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2669,9 +2669,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 1]
+    bar [0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2686,9 +2686,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2703,9 +2703,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1]
+    bar [1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2720,9 +2720,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 1]
+    bar [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0]
   ```
 
   </details>
@@ -2737,9 +2737,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 3]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 3, 0]
   ```
 
   </details>
@@ -2754,26 +2754,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-123113-graph"></a>
-### [Material 3] Implement Standard Navigation Drawer
-  <sub>[flutter/flutter#123113](https://github.com/flutter/flutter/issues/123113) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0]
+    bar [1, 0, 2, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2788,9 +2771,26 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7]
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4]
+    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-123113-graph"></a>
+### [Material 3] Implement Standard Navigation Drawer
+  <sub>[flutter/flutter#123113](https://github.com/flutter/flutter/issues/123113) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
