@@ -58,8 +58,8 @@ Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 107 | [19](#flutter-flutter-102560-graph)
 Add a static function to Material UI widgets exposing internal default values [flutter/flutter#130135](https://github.com/flutter/flutter/issues/130135) | 78 | [18](#flutter-flutter-130135-graph)
 ReorderableListView Weird Behaviour on reordering the second last child [flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) | 30 | [15](#flutter-flutter-90856-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 123 | [11](#flutter-flutter-101479-graph)
 Allow nested hero widgets [flutter/flutter#38684](https://github.com/flutter/flutter/issues/38684) | 72 | [9](#flutter-flutter-38684-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 120 | [8](#flutter-flutter-101479-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 250 | [7](#flutter-flutter-18345-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 97 | [7](#flutter-flutter-62960-graph)
 Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 43 | [7](#flutter-flutter-108683-graph)
@@ -75,7 +75,7 @@ Issue: Cannot theme progress indicators, many properties missing [flutter/flutte
 `f: cupertino` issues that received the most reactions from 2024-07-15 to 2024-10-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 120 | [8](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 123 | [11](#flutter-flutter-101479-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 97 | [7](#flutter-flutter-62960-graph)
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 144 | [6](#flutter-flutter-42560-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 35 | [5](#flutter-flutter-53059-graph)
@@ -286,8 +286,8 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 39 | [9](#dart-lang-sdk-42855-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 9 | [9](#dart-lang-sdk-56841-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 13 | [8](#dart-lang-sdk-56017-graph)
-Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 [native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 8 | [8](#dart-lang-sdk-56404-graph)
+Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 Analyzer does not navigate up in the directory tree looking for closest analysis_options.yaml file [dart-lang/sdk#56552](https://github.com/dart-lang/sdk/issues/56552) | 7 | [7](#dart-lang-sdk-56552-graph)
 
 ### Dart language
@@ -1385,6 +1385,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-101479-graph"></a>
+### Move the material and cupertino packages outside of Flutter
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 123 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 2, 0, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-116383-graph"></a>
 ### [in_app_purchase] Use StoreKit 2 APIs
   <sub>[flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) &mdash; 38 total reactions, 11 recent reactions</sub><br />
@@ -1895,23 +1912,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-101479-graph"></a>
-### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 120 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-37159-graph"></a>
 ### Roku support
   <sub>[flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) &mdash; 78 total reactions, 8 recent reactions</sub><br />
@@ -1963,23 +1963,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56573-graph"></a>
-### Dart should have process for keeping VM RegExp up-to-date with Irregexp
-  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56404-graph"></a>
 ### [native/js/wasm] Platform independent File I/O
   <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -1992,6 +1975,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56573-graph"></a>
+### Dart should have process for keeping VM RegExp up-to-date with Irregexp
+  <sub>[dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
