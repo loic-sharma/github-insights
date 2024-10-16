@@ -6,7 +6,7 @@ Issues that received the most reactions from 2024-07-15 to 2024-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 159 | [129](#flutter-flutter-151065-graph)
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 160 | [130](#flutter-flutter-151065-graph)
 add spacing parameter to Column and Row [flutter/flutter#55378](https://github.com/flutter/flutter/issues/55378) | 95 | [70](#flutter-flutter-55378-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1154 | [60](#flutter-flutter-53041-graph)
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [48](#flutter-flutter-152953-graph)
@@ -32,7 +32,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 159 | [129](#flutter-flutter-151065-graph)
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 160 | [130](#flutter-flutter-151065-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 651 | [34](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 81 | [30](#flutter-flutter-142845-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 206 | [19](#flutter-flutter-138614-graph)
@@ -316,7 +316,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-151065-graph"></a>
 ### Proposal: Framework needs to be aware of physical pixels
-  <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 159 total reactions, 129 recent reactions</sub><br />
+  <sub>[flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) &mdash; 160 total reactions, 130 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions"
-    bar [0, 115, 0, 6, 0, 1, 0, 3, 1, 0, 1, 0, 0, 0]
+    bar [0, 115, 0, 6, 0, 1, 0, 3, 1, 0, 1, 0, 0, 1]
   ```
 
   </details>
