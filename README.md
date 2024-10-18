@@ -275,7 +275,7 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 Issue | Total reactions | Recent reactions
 -- | -- | --
 @depreacte dart:html and other "legacy" DOM libraries [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) | 30 | [30](#dart-lang-sdk-56358-graph)
-Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 156 | [28](#dart-lang-sdk-54934-graph)
+Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 157 | [29](#dart-lang-sdk-54934-graph)
 ☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 46 | [28](#dart-lang-sdk-53875-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 164 | [22](#dart-lang-sdk-50565-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 36 | [19](#dart-lang-sdk-55281-graph)
@@ -622,7 +622,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 <a name="dart-lang-sdk-54934-graph"></a>
 ### Support for hot reload in DDC
-  <sub>[dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) &mdash; 156 total reactions, 28 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) &mdash; 157 total reactions, 29 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -631,7 +631,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 1, 6, 6, 2, 2, 0, 1, 0, 0, 1, 1]
+    bar [2, 1, 0, 1, 6, 6, 2, 2, 0, 1, 0, 0, 1, 2]
   ```
 
   </details>
