@@ -188,7 +188,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [33](#flutter-flutter-109813-graph)
-Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 22 | [22](#flutter-flutter-156111-graph)
+Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 23 | [23](#flutter-flutter-156111-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 27 | [14](#flutter-flutter-145961-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 368 | [8](#flutter-flutter-83596-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 35 | [8](#flutter-flutter-91247-graph)
@@ -722,6 +722,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-156111-graph"></a>
+### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
+  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 23 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 23]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-110431-graph"></a>
 ### Flutter adds additional one frame touch latency compared to native
   <sub>[flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) &mdash; 320 total reactions, 22 recent reactions</sub><br />
@@ -751,23 +768,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 1, 0, 0, 3, 3, 7, 1, 1, 3, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156111-graph"></a>
-### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
-  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 22 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 22]
   ```
 
   </details>
@@ -1793,23 +1793,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4030-graph"></a>
 ### Better error handling - add try expression or if exception operator
   <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1822,6 +1805,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 15, Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 10]
   ```
 
   </details>
