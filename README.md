@@ -307,10 +307,10 @@ Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2093 | [15](#dart-lang-language-314-graph)
 Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 180 | [10](#dart-lang-language-336-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 10 | [10](#dart-lang-language-4030-graph)
+Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 212 | [9](#dart-lang-language-1076-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 233 | [8](#dart-lang-language-333-graph)
-Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 211 | [8](#dart-lang-language-1076-graph)
-Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang/language/issues/4128) | 8 | [8](#dart-lang-language-4128-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 206 | [8](#dart-lang-language-2364-graph)
 
 ## Graphs
 
@@ -1708,23 +1708,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4030-graph"></a>
 ### Better error handling - add try expression or if exception operator
   <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1742,6 +1725,23 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1754,6 +1754,23 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-1076-graph"></a>
+### Allow both optional positional and optional named arguments in the same function signature.
+  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 212 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 1]
   ```
 
   </details>
@@ -1946,9 +1963,9 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-language-1076-graph"></a>
-### Allow both optional positional and optional named arguments in the same function signature.
-  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 211 total reactions, 8 recent reactions</sub><br />
+<a name="dart-lang-language-2364-graph"></a>
+### Primary constructor on classes
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 206 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1957,7 +1974,7 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   xychart-beta
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 0]
+    bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 3]
   ```
 
   </details>
@@ -2060,23 +2077,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4128-graph"></a>
-### Pattern matching operator
-  <sub>[dart-lang/language#4128](https://github.com/dart-lang/language/issues/4128) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 8]
   ```
 
   </details>
