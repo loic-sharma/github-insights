@@ -110,8 +110,8 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 32 | 4
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 29 | 4
 [go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 23 | 4
-[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
 [go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
+[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
 
 ### Tool
 
@@ -298,7 +298,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1091 | [32](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 985 | [32](#dart-lang-language-357-graph)
-Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 30 | [23](#dart-lang-language-3616-graph)
+Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 31 | [24](#dart-lang-language-3616-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 251 | [18](#dart-lang-language-649-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1645 | [17](#dart-lang-language-1482-graph)
@@ -656,7 +656,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 <a name="dart-lang-language-3616-graph"></a>
 ### Dot syntax for static access
-  <sub>[dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) &mdash; 30 total reactions, 23 recent reactions</sub><br />
+  <sub>[dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) &mdash; 31 total reactions, 24 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -666,6 +666,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 4, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-156111-graph"></a>
+### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
+  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 23 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 23, 23]
   ```
 
   </details>
@@ -700,23 +717,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 23]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156111-graph"></a>
-### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
-  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 23 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 23, 23]
   ```
 
   </details>
@@ -926,23 +926,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-155817-graph"></a>
-### [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format
-  <sub>[flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56863-graph"></a>
 ### [Meta] Support project-wide dart format page width configuration
   <sub>[dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -955,6 +938,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 17, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-155817-graph"></a>
+### [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format
+  <sub>[flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 18, 18, 18]
   ```
 
   </details>
