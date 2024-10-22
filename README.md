@@ -66,8 +66,8 @@ Support for sheet presentation style [flutter/flutter#42560](https://github.com/
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 97 | [6](#flutter-flutter-62960-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 76 | [6](#flutter-flutter-48381-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 28 | [6](#flutter-flutter-141941-graph)
-Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 35 | [5](#flutter-flutter-53059-graph)
 Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 35 | [5](#flutter-flutter-76706-graph)
+Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 35 | [5](#flutter-flutter-53059-graph)
 Flutter slider should have the feature to show value indicator all the time, not just while gesturing [flutter/flutter#34704](https://github.com/flutter/flutter/issues/34704) | 58 | 4
 
 #### Cupertino
@@ -110,8 +110,8 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 50 | 4
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 41 | 4
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 29 | 4
-[go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
 [go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 23 | 4
+[go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
 
 ### Tool
 
@@ -283,8 +283,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 49 | [17](#dart-lang-sdk-53402-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 515 | [11](#dart-lang-sdk-28617-graph)
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 10 | [10](#dart-lang-sdk-56841-graph)
 [native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 10 | [10](#dart-lang-sdk-56404-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 10 | [10](#dart-lang-sdk-56841-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 39 | [9](#dart-lang-sdk-42855-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 "Static" "version" in dart [dart-lang/sdk#56017](https://github.com/dart-lang/sdk/issues/56017) | 13 | [7](#dart-lang-sdk-56017-graph)
@@ -305,9 +305,9 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 518 | [17](#dart-lang-language-83-graph)
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 17 | [17](#dart-lang-language-4057-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2093 | [15](#dart-lang-language-314-graph)
+Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 213 | [10](#dart-lang-language-1076-graph)
 Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 180 | [10](#dart-lang-language-336-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 10 | [10](#dart-lang-language-4030-graph)
-Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 212 | [9](#dart-lang-language-1076-graph)
 More strict handling of exceptions [dart-lang/language#3995](https://github.com/dart-lang/language/issues/3995) | 9 | [9](#dart-lang-language-3995-graph)
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 233 | [8](#dart-lang-language-333-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 206 | [8](#dart-lang-language-2364-graph)
@@ -688,23 +688,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-156111-graph"></a>
-### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
-  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 23 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 23, 23]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4084-graph"></a>
 ### Expressions that are "as constant as possible"
   <sub>[dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -734,6 +717,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 23]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-156111-graph"></a>
+### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
+  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 23 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 23, 23]
   ```
 
   </details>
@@ -926,23 +926,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-155817-graph"></a>
-### [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format
-  <sub>[flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56863-graph"></a>
 ### [Meta] Support project-wide dart format page width configuration
   <sub>[dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -955,6 +938,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 17, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-155817-graph"></a>
+### [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format
+  <sub>[flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17, 18, 18, 18]
   ```
 
   </details>
@@ -1555,6 +1555,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="dart-lang-language-1076-graph"></a>
+### Allow both optional positional and optional named arguments in the same function signature.
+  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 213 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-336-graph"></a>
 ### Static nested classes
   <sub>[dart-lang/language#336](https://github.com/dart-lang/language/issues/336) &mdash; 180 total reactions, 10 recent reactions</sub><br />
@@ -1708,6 +1725,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="dart-lang-language-4030-graph"></a>
+### Better error handling - add try expression or if exception operator
+  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1720,23 +1754,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 10, 10]
   ```
 
   </details>
@@ -1759,9 +1776,9 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-language-4030-graph"></a>
-### Better error handling - add try expression or if exception operator
-  <sub>[dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 10 total reactions, 10 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1770,24 +1787,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   xychart-beta
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 7, 8, 9, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1076-graph"></a>
-### Allow both optional positional and optional named arguments in the same function signature.
-  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 212 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 1, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 10, 10]
   ```
 
   </details>
@@ -2694,23 +2694,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-53059-graph"></a>
-### Suggestion: decouple more widgets from Android/iOS design guidelines
-  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 35 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-76706-graph"></a>
 ### Need a ReorderableListView.seperated constructor
   <sub>[flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) &mdash; 35 total reactions, 5 recent reactions</sub><br />
@@ -2723,6 +2706,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-53059-graph"></a>
+### Suggestion: decouple more widgets from Android/iOS design guidelines
+  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 35 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0]
   ```
 
   </details>
