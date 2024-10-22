@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-07-22 to 2024-10-21.
+Issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-framework` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-design` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support weight/boldness configuration of an Icon [flutter/flutter#86636](https:/
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`f: cupertino` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 123 | [11](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/fl
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-go_router` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-tool` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-engine` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#5089
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-ios` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-android` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/fl
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-web` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-desktop` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`team-ecosystem` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`dart-lang/sdk` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -278,7 +278,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 46 | [28](#dart-lang-sdk-53875-graph)
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 157 | [27](#dart-lang-sdk-54934-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 164 | [21](#dart-lang-sdk-50565-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 36 | [19](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 37 | [20](#dart-lang-sdk-55281-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 18 | [18](#dart-lang-sdk-56863-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 49 | [17](#dart-lang-sdk-53402-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 514 | [10](#dart-lang-sdk-28617-graph)
@@ -292,7 +292,7 @@ Analyzer does not navigate up in the directory tree looking for closest analysis
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-07-22 to 2024-10-21.
+`dart-lang/language` issues that received the most reactions from 2024-07-22 to 2024-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -790,6 +790,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="dart-lang-sdk-55281-graph"></a>
+### Dart Analyzer very slow/stuck
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 37 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 1, 2, 0, 0, 2, 0, 2, 1, 1, 4, 2, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-130135-graph"></a>
 ### Add a static function to Material UI widgets exposing internal default values
   <sub>[flutter/flutter#130135](https://github.com/flutter/flutter/issues/130135) &mdash; 79 total reactions, 19 recent reactions</sub><br />
@@ -819,23 +836,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
     y-axis "Reactions" 0 --> 20
     bar [1, 2, 0, 0, 1, 1, 4, 3, 3, 1, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-55281-graph"></a>
-### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 36 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 22, Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 1, 2, 0, 0, 2, 0, 2, 1, 1, 4, 2, 0]
   ```
 
   </details>
