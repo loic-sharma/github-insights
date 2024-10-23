@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-07-22 to 2024-10-22.
+Issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-framework` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-design` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Flutter slider should have the feature to show value indicator all the time, not
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`f: cupertino` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 123 | [11](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/fl
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-go_router` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-tool` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-engine` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#5089
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-ios` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-android` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/fl
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-web` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-desktop` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`team-ecosystem` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`dart-lang/sdk` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Analyzer does not navigate up in the directory tree looking for closest analysis
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-07-22 to 2024-10-22.
+`dart-lang/language` issues that received the most reactions from 2024-07-22 to 2024-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
