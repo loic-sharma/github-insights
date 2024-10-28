@@ -34,7 +34,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 656 | [37](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 83 | [29](#flutter-flutter-142845-graph)
-Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 212 | [20](#flutter-flutter-138614-graph)
+Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 213 | [21](#flutter-flutter-138614-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 159 | [17](#flutter-flutter-65504-graph)
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 160 | [15](#flutter-flutter-151065-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 106 | [13](#flutter-flutter-99606-graph)
@@ -66,8 +66,8 @@ Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 145 | [7](#flutter-flutter-42560-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 29 | [7](#flutter-flutter-141941-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 76 | [6](#flutter-flutter-48381-graph)
-Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 35 | [5](#flutter-flutter-76706-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 35 | [5](#flutter-flutter-53059-graph)
+Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 35 | [5](#flutter-flutter-76706-graph)
 Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) | 85 | 4
 
 #### Cupertino
@@ -97,7 +97,7 @@ Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/fl
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 111 | [22](#flutter-flutter-138737-graph)
+PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 113 | [24](#flutter-flutter-138737-graph)
 [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869) | 60 | [17](#flutter-flutter-140869-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 40 | [16](#flutter-flutter-140586-graph)
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 119 | [14](#flutter-flutter-112196-graph)
@@ -165,8 +165,8 @@ Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/3
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 322 | [21](#flutter-flutter-110431-graph)
-Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 65 | [10](#flutter-flutter-64491-graph)
-[in_app_purchase] Use StoreKit 2 APIs [flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) | 38 | [10](#flutter-flutter-116383-graph)
+Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 66 | [11](#flutter-flutter-64491-graph)
+[in_app_purchase] Use StoreKit 2 APIs [flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) | 39 | [11](#flutter-flutter-116383-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 268 | [8](#flutter-flutter-28901-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 144 | [7](#flutter-flutter-126005-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 61 | [7](#flutter-flutter-106612-graph)
@@ -671,6 +671,23 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
+<a name="flutter-flutter-138737-graph"></a>
+### PopScope seems to be incompatible with GoRouter
+  <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 113 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 1, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-152588-graph"></a>
 ### Scroll "back" on web causes browser back action (unless perfectly horizontal)
   <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -700,23 +717,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 20, 21, 22, 23, 23, 23, 23, 23]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-138737-graph"></a>
-### PopScope seems to be incompatible with GoRouter
-  <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 111 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 1, 2, 0]
   ```
 
   </details>
@@ -756,6 +756,23 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
+<a name="flutter-flutter-138614-graph"></a>
+### Preserve WillPopScope as an alternate for PopScope
+  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 213 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 1, 2, 1, 1, 1, 2, 1, 2, 0, 0, 6, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-50565-graph"></a>
 ### ☂️ [vm/ffi] Native assets feature
   <sub>[dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) &mdash; 164 total reactions, 21 recent reactions</sub><br />
@@ -768,23 +785,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 3, 3, 7, 1, 1, 3, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-138614-graph"></a>
-### Preserve WillPopScope as an alternate for PopScope
-  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 212 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 2, 1, 1, 1, 2, 1, 2, 0, 0, 6, 0]
   ```
 
   </details>
@@ -1487,6 +1487,40 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
+<a name="flutter-flutter-64491-graph"></a>
+### Colorized console output does not work in iOS builds but works for Android builds
+  <sub>[flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) &mdash; 66 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 4, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-116383-graph"></a>
+### [in_app_purchase] Use StoreKit 2 APIs
+  <sub>[flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) &mdash; 39 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 0, 1, 1, 3, 0, 1, 0, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-59284-graph"></a>
 ### Text widget incorrectly wraps Korean text
   <sub>[flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) &mdash; 36 total reactions, 11 recent reactions</sub><br />
@@ -1589,23 +1623,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-64491-graph"></a>
-### Colorized console output does not work in iOS builds but works for Android builds
-  <sub>[flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) &mdash; 65 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 1, 0, 0, 0, 2, 4, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-124334-graph"></a>
 ### WebGPU Backend for Flutter Web
   <sub>[flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) &mdash; 63 total reactions, 10 recent reactions</sub><br />
@@ -1635,23 +1652,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 3, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-116383-graph"></a>
-### [in_app_purchase] Use StoreKit 2 APIs
-  <sub>[flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) &mdash; 38 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 1, 1, 3, 0, 1, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2660,23 +2660,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-76706-graph"></a>
-### Need a ReorderableListView.seperated constructor
-  <sub>[flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) &mdash; 35 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-53059-graph"></a>
 ### Suggestion: decouple more widgets from Android/iOS design guidelines
   <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 35 total reactions, 5 recent reactions</sub><br />
@@ -2689,6 +2672,23 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-76706-graph"></a>
+### Need a ReorderableListView.seperated constructor
+  <sub>[flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) &mdash; 35 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
