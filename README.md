@@ -214,10 +214,10 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 313 | [28](#flutter-flutter-145954-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 807 | [25](#flutter-flutter-46789-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 23 | [23](#flutter-flutter-152588-graph)
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [18](#flutter-flutter-69529-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [18](#flutter-flutter-104509-graph)
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 178 | [17](#flutter-flutter-69529-graph)
+Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 72 | [17](#flutter-flutter-124205-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 33 | [17](#flutter-flutter-141371-graph)
-Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 71 | [16](#flutter-flutter-124205-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 14 | [14](#flutter-flutter-153184-graph)
 Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 639 | [10](#flutter-flutter-47600-graph)
@@ -258,10 +258,10 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 313 | [28](#flutter-flutter-145954-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 807 | [25](#flutter-flutter-46789-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 23 | [23](#flutter-flutter-152588-graph)
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [18](#flutter-flutter-69529-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [18](#flutter-flutter-104509-graph)
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 178 | [17](#flutter-flutter-69529-graph)
+Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 72 | [17](#flutter-flutter-124205-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 33 | [17](#flutter-flutter-141371-graph)
-Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 71 | [16](#flutter-flutter-124205-graph)
 Web: Move decodeImageFromPixels off heap / drastically reduce memory usage [flutter/flutter#153184](https://github.com/flutter/flutter/issues/153184) | 14 | [14](#flutter-flutter-153184-graph)
 Custom font special characters not rendered correctly on Web with CanvasKit [flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) | 13 | [13](#flutter-flutter-154471-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 639 | [10](#flutter-flutter-47600-graph)
@@ -298,7 +298,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 989 | [36](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1094 | [35](#dart-lang-language-723-graph)
-Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 31 | [24](#dart-lang-language-3616-graph)
+Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 32 | [25](#dart-lang-language-3616-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 519 | [18](#dart-lang-language-83-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 251 | [18](#dart-lang-language-649-graph)
@@ -656,7 +656,7 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
 
 <a name="dart-lang-language-3616-graph"></a>
 ### Dot syntax for static access
-  <sub>[dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) &mdash; 31 total reactions, 24 recent reactions</sub><br />
+  <sub>[dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) &mdash; 32 total reactions, 25 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -875,6 +875,23 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
+<a name="flutter-flutter-69529-graph"></a>
+### [web] Scroll is not recognized by the browser
+  <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 179 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 1, 1, 1, 2, 2, 0, 0, 2, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-104509-graph"></a>
 ### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
   <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 78 total reactions, 18 recent reactions</sub><br />
@@ -960,23 +977,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-69529-graph"></a>
-### [web] Scroll is not recognized by the browser
-  <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 178 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 1, 1, 2, 2, 0, 0, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-65504-graph"></a>
 ### Ctrl+F support, finding text on a page (even when scrolled off screen)
   <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 159 total reactions, 17 recent reactions</sub><br />
@@ -989,6 +989,23 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 3, 0, 0, 0, 5, 1, 2, 1, 2, 0, 1, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-124205-graph"></a>
+### Keyboard issue on mobile Web platform
+  <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 72 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 2, 1, 1, 0, 1, 0, 0, 0, 1, 1, 4, 1, 0]
   ```
 
   </details>
@@ -1057,23 +1074,6 @@ Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 3, 13, 13, 14, 16, 16, 16, 17, 17, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-124205-graph"></a>
-### Keyboard issue on mobile Web platform
-  <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 71 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 2, 1, 1, 0, 1, 0, 0, 0, 1, 1, 4, 1, 0]
   ```
 
   </details>
