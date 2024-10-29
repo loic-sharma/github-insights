@@ -149,7 +149,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 299 | [11](#flutter-flutter-18443-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 29 | [10](#flutter-flutter-146860-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 163 | [9](#flutter-flutter-14288-graph)
-How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 52 | [8](#flutter-flutter-50890-graph)
+How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 53 | [9](#flutter-flutter-50890-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 191 | [7](#flutter-flutter-11754-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 150 | [7](#flutter-flutter-25841-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 511 | [6](#flutter-flutter-26801-graph)
@@ -282,9 +282,9 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 19 | [19](#dart-lang-sdk-56863-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 49 | [17](#dart-lang-sdk-53402-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 516 | [11](#dart-lang-sdk-28617-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 10 | [10](#dart-lang-sdk-56404-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 10 | [10](#dart-lang-sdk-56841-graph)
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 10 | [10](#dart-lang-sdk-56404-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 50 | [8](#dart-lang-sdk-49426-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 39 | [8](#dart-lang-sdk-42855-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
@@ -309,8 +309,8 @@ Better error handling - add try expression or if exception operator [dart-lang/l
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 214 | [11](#dart-lang-language-1076-graph)
 Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 181 | [11](#dart-lang-language-336-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 216 | [9](#dart-lang-language-524-graph)
-Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang/language/issues/4128) | 9 | [9](#dart-lang-language-4128-graph)
 Allow the type of an object pattern to be inferred when specified as `_` [dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) | 9 | [9](#dart-lang-language-4124-graph)
+Pattern matching operator [dart-lang/language#4128](https://github.com/dart-lang/language/issues/4128) | 9 | [9](#dart-lang-language-4128-graph)
 
 ## Graphs
 
@@ -1674,6 +1674,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1703,23 +1720,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10]
   ```
 
   </details>
@@ -1844,6 +1844,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-50890-graph"></a>
+### How to remove 'I/flutter (13135):' in vscode debug console
+  <sub>[flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) &mdash; 53 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 1, 1, 2, 1, 0, 0, 0, 2, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-134346-graph"></a>
 ### Make Windows plugin APIs thread-safe
   <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 35 total reactions, 9 recent reactions</sub><br />
@@ -1861,23 +1878,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="dart-lang-language-4128-graph"></a>
-### Pattern matching operator
-  <sub>[dart-lang/language#4128](https://github.com/dart-lang/language/issues/4128) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 8, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4124-graph"></a>
 ### Allow the type of an object pattern to be inferred when specified as `_`
   <sub>[dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -1890,6 +1890,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 7, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4128-graph"></a>
+### Pattern matching operator
+  <sub>[dart-lang/language#4128](https://github.com/dart-lang/language/issues/4128) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 8, 9, 9]
   ```
 
   </details>
@@ -2009,23 +2026,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 1, 3, 0, 0, 2, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-50890-graph"></a>
-### How to remove 'I/flutter (13135):' in vscode debug console
-  <sub>[flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) &mdash; 52 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 1, 1, 2, 1, 0, 0, 0, 2, 0]
   ```
 
   </details>
