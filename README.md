@@ -236,8 +236,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 657 | [9](#flutter-flutter-41722-graph)
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 35 | [9](#flutter-flutter-134346-graph)
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 107 | [7](#flutter-flutter-41726-graph)
+Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 60 | [7](#flutter-flutter-94804-graph)
 [camera] Add Linux support [flutter/flutter#41710](https://github.com/flutter/flutter/issues/41710) | 68 | [6](#flutter-flutter-41710-graph)
-Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 59 | [6](#flutter-flutter-94804-graph)
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 194 | [5](#flutter-flutter-37673-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 128 | [5](#flutter-flutter-41724-graph)
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 49 | [5](#flutter-flutter-62597-graph)
@@ -2218,6 +2218,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-94804-graph"></a>
+### Use gtk4 for linux desktop
+  <sub>[flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) &mdash; 60 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-104268-graph"></a>
 ### Filtering `updateAcquireFence: Did not find frame.` out from flutter run output
   <sub>[flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) &mdash; 30 total reactions, 7 recent reactions</sub><br />
@@ -2422,23 +2439,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-94804-graph"></a>
-### Use gtk4 for linux desktop
-  <sub>[flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) &mdash; 59 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-122258-graph"></a>
 ### [go_router_builder] Define routes in separate files
   <sub>[flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) &mdash; 49 total reactions, 6 recent reactions</sub><br />
@@ -2609,23 +2609,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-91241-graph"></a>
-### Video Player HDR Problem
-  <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 46 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-53229-graph"></a>
 ### [Proposal] Icon support Linux desktop application
   <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
@@ -2638,6 +2621,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-91241-graph"></a>
+### Video Player HDR Problem
+  <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 46 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0]
   ```
 
   </details>
