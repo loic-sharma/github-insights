@@ -88,8 +88,8 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 Add mouse cursor support to the remaining widgets [flutter/flutter#58192](https://github.com/flutter/flutter/issues/58192) | 18 | 2
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 16 | 2
 [iOS 13] navigation transition styles can now mix [flutter/flutter#33799](https://github.com/flutter/flutter/issues/33799) | 59 | 1
+Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/flutter/flutter/issues/55809) | 57 | 1
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 54 | 1
-Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 53 | 1
 
 #### go_router
 
@@ -100,7 +100,7 @@ Issue | Total reactions | Recent reactions
 PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 114 | [25](#flutter-flutter-138737-graph)
 [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869) | 60 | [17](#flutter-flutter-140869-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 40 | [16](#flutter-flutter-140586-graph)
-[go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 119 | [14](#flutter-flutter-112196-graph)
+[go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 120 | [15](#flutter-flutter-112196-graph)
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 53 | [10](#flutter-flutter-121929-graph)
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 85 | [6](#flutter-flutter-102408-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 49 | [6](#flutter-flutter-122258-graph)
@@ -1147,6 +1147,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-112196-graph"></a>
+### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
+  <sub>[flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) &mdash; 120 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 0, 8, 1, 0, 2, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-106277-graph"></a>
 ### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
   <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 31 total reactions, 15 recent reactions</sub><br />
@@ -1176,23 +1193,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 0, 2, 1, 1, 1, 1, 0, 0, 2, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-112196-graph"></a>
-### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
-  <sub>[flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) &mdash; 119 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 8, 1, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
