@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-07-29 to 2024-10-31.
+Issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -19,8 +19,8 @@ Allow for shorter dot syntax to access enum values [dart-lang/language#357](http
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 157 | [35](#flutter-flutter-139289-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 418 | [31](#flutter-flutter-31713-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 84 | [30](#flutter-flutter-142845-graph)
-@depreacte dart:html and other "legacy" DOM libraries [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) | 30 | [30](#dart-lang-sdk-56358-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 30 | [30](#flutter-flutter-156111-graph)
+@depreacte dart:html and other "legacy" DOM libraries [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) | 30 | [30](#dart-lang-sdk-56358-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Android build warnings about Java with latest Gradle: `source value 8 is obsolet
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-framework` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -37,7 +37,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 213 | [21](#flutter-flutter-138614-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 159 | [17](#flutter-flutter-65504-graph)
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 160 | [15](#flutter-flutter-151065-graph)
-Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 107 | [14](#flutter-flutter-99606-graph)
+Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 108 | [15](#flutter-flutter-99606-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 170 | [12](#flutter-flutter-45336-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 98 | [11](#flutter-flutter-86295-graph)
 Text widget incorrectly wraps Korean text [flutter/flutter#59284](https://github.com/flutter/flutter/issues/59284) | 36 | [11](#flutter-flutter-59284-graph)
@@ -50,7 +50,7 @@ SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/iss
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-design` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -62,22 +62,22 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 123 | [11](#flutter-flutter-101479-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 102 | [11](#flutter-flutter-62960-graph)
 Allow nested hero widgets [flutter/flutter#38684](https://github.com/flutter/flutter/issues/38684) | 74 | [10](#flutter-flutter-38684-graph)
+Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 146 | [8](#flutter-flutter-42560-graph)
 Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 44 | [8](#flutter-flutter-108683-graph)
-Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 145 | [7](#flutter-flutter-42560-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 29 | [7](#flutter-flutter-141941-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 76 | [6](#flutter-flutter-48381-graph)
-Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 35 | [5](#flutter-flutter-76706-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 35 | [5](#flutter-flutter-53059-graph)
+Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 35 | [5](#flutter-flutter-76706-graph)
 Issue: Cannot theme progress indicators, many properties missing [flutter/flutter#131690](https://github.com/flutter/flutter/issues/131690) | 22 | [5](#flutter-flutter-131690-graph)
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`f: cupertino` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 123 | [11](#flutter-flutter-101479-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 102 | [11](#flutter-flutter-62960-graph)
-Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 145 | [7](#flutter-flutter-42560-graph)
+Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 146 | [8](#flutter-flutter-42560-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 35 | [5](#flutter-flutter-53059-graph)
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 52 | 4
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 20 | 4
@@ -93,11 +93,11 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-go_router` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 114 | [25](#flutter-flutter-138737-graph)
+PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 115 | [26](#flutter-flutter-138737-graph)
 [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869) | 60 | [17](#flutter-flutter-140869-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 40 | [16](#flutter-flutter-140586-graph)
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 120 | [15](#flutter-flutter-112196-graph)
@@ -105,17 +105,17 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 85 | [6](#flutter-flutter-102408-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 49 | [6](#flutter-flutter-122258-graph)
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 38 | [5](#flutter-flutter-114131-graph)
+[go_router] Come up with a better way to get the current location without context [flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) | 25 | [5](#flutter-flutter-129833-graph)
 [go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 24 | [5](#flutter-flutter-110781-graph)
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 41 | 4
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 33 | 4
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 29 | 4
-[go_router] Come up with a better way to get the current location without context [flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) | 24 | 4
 [go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 50 | 3
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-tool` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Let flutter be installable via homebrew [flutter/flutter#14050](https://github.c
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-engine` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/3
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-ios` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-android` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-web` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-desktop` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`team-ecosystem` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`dart-lang/sdk` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -282,17 +282,17 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 19 | [19](#dart-lang-sdk-56863-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 49 | [17](#dart-lang-sdk-53402-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 516 | [11](#dart-lang-sdk-28617-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 10 | [10](#dart-lang-sdk-56404-graph)
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 10 | [10](#dart-lang-sdk-56404-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 10 | [10](#dart-lang-sdk-56841-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 50 | [8](#dart-lang-sdk-49426-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 39 | [8](#dart-lang-sdk-42855-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
-Analyzer does not navigate up in the directory tree looking for closest analysis_options.yaml file [dart-lang/sdk#56552](https://github.com/dart-lang/sdk/issues/56552) | 7 | [7](#dart-lang-sdk-56552-graph)
+Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) | 58 | [7](#dart-lang-sdk-43329-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-07-29 to 2024-10-31.
+`dart-lang/language` issues that received the most reactions from 2024-07-29 to 2024-11-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -535,23 +535,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56358-graph"></a>
-### @depreacte dart:html and other "legacy" DOM libraries
-  <sub>[dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) &mdash; 30 total reactions, 30 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions"
-    bar [23, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-156111-graph"></a>
 ### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
   <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 30 total reactions, 30 recent reactions</sub><br />
@@ -564,6 +547,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 23, 29, 30]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56358-graph"></a>
+### @depreacte dart:html and other "legacy" DOM libraries
+  <sub>[dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) &mdash; 30 total reactions, 30 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions"
+    bar [23, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30]
   ```
 
   </details>
@@ -620,6 +620,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-138737-graph"></a>
+### PopScope seems to be incompatible with GoRouter
+  <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 115 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 1, 2, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-46789-graph"></a>
 ### Improve the indexability (SEO) of Flutter apps on the web 
   <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 807 total reactions, 25 recent reactions</sub><br />
@@ -632,23 +649,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [2, 3, 3, 1, 0, 1, 0, 1, 0, 0, 6, 0, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-138737-graph"></a>
-### PopScope seems to be incompatible with GoRouter
-  <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 114 total reactions, 25 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 1, 2, 1]
   ```
 
   </details>
@@ -1181,6 +1181,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-99606-graph"></a>
+### Ability to change the keyboard language programmatically
+  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 108 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 1, -1, 1, 1, 1, 0, 0, 5, 0, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-106277-graph"></a>
 ### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
   <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 31 total reactions, 15 recent reactions</sub><br />
@@ -1193,23 +1210,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 3, 1, 1, 3, 1, 1, 0, 1, 1, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-99606-graph"></a>
-### Ability to change the keyboard language programmatically
-  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 107 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 1, -1, 1, 1, 1, 0, 0, 5, 0, 1, 1]
   ```
 
   </details>
@@ -1691,23 +1691,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1720,6 +1703,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10]
   ```
 
   </details>
@@ -1980,6 +1980,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-42560-graph"></a>
+### Support for sheet presentation style
+  <sub>[flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) &mdash; 146 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-65065-graph"></a>
 ### Bundling assets only on a specific platform (and remove assets on another platform)
   <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 140 total reactions, 8 recent reactions</sub><br />
@@ -2150,23 +2167,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-42560-graph"></a>
-### Support for sheet presentation style
-  <sub>[flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) &mdash; 145 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-126005-graph"></a>
 ### ☂️ Add Swift Package Manager compatibility
   <sub>[flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) &mdash; 144 total reactions, 7 recent reactions</sub><br />
@@ -2235,6 +2235,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="dart-lang-sdk-43329-graph"></a>
+### Add Timer.pause(), Timer.resume() and Timer.restart()
+  <sub>[dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) &mdash; 58 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-104268-graph"></a>
 ### Filtering `updateAcquireFence: Did not find frame.` out from flutter run output
   <sub>[flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) &mdash; 30 total reactions, 7 recent reactions</sub><br />
@@ -2281,23 +2298,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 4, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56552-graph"></a>
-### Analyzer does not navigate up in the directory tree looking for closest analysis_options.yaml file
-  <sub>[dart-lang/sdk#56552](https://github.com/dart-lang/sdk/issues/56552) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 2, 6, 7, 7, 7, 0, 0]
   ```
 
   </details>
@@ -2626,23 +2626,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-91241-graph"></a>
-### Video Player HDR Problem
-  <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 46 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-53229-graph"></a>
 ### [Proposal] Icon support Linux desktop application
   <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
@@ -2655,6 +2638,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-91241-graph"></a>
+### Video Player HDR Problem
+  <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 46 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2694,6 +2694,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-53059-graph"></a>
+### Suggestion: decouple more widgets from Android/iOS design guidelines
+  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 35 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-76706-graph"></a>
 ### Need a ReorderableListView.seperated constructor
   <sub>[flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) &mdash; 35 total reactions, 5 recent reactions</sub><br />
@@ -2711,9 +2728,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-53059-graph"></a>
-### Suggestion: decouple more widgets from Android/iOS design guidelines
-  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 35 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-129833-graph"></a>
+### [go_router] Come up with a better way to get the current location without context
+  <sub>[flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) &mdash; 25 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2722,7 +2739,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Jul 29, Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1]
   ```
 
   </details>
