@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-08-05 to 2024-11-03.
+Issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -16,7 +16,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 990 | [37](#dart-lang-language-357-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 92 | [37](#flutter-flutter-142845-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
-Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 657 | [34](#flutter-flutter-30701-graph)
+Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 658 | [35](#flutter-flutter-30701-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 159 | [34](#flutter-flutter-139289-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 418 | [30](#flutter-flutter-31713-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 30 | [30](#flutter-flutter-156111-graph)
@@ -28,12 +28,12 @@ Android build warnings about Java with latest Gradle: `source value 8 is obsolet
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-framework` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 92 | [37](#flutter-flutter-142845-graph)
-Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 657 | [34](#flutter-flutter-30701-graph)
+Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 658 | [35](#flutter-flutter-30701-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 214 | [22](#flutter-flutter-138614-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 160 | [18](#flutter-flutter-65504-graph)
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 160 | [15](#flutter-flutter-151065-graph)
@@ -50,13 +50,13 @@ ExpansionTile should have a sliver equivalent [flutter/flutter#122146](https://g
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-design` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a static function to Material UI widgets exposing internal default values [flutter/flutter#130135](https://github.com/flutter/flutter/issues/130135) | 79 | [19](#flutter-flutter-130135-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 108 | [18](#flutter-flutter-102560-graph)
-Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 283 | [11](#flutter-flutter-21594-graph)
+Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 284 | [12](#flutter-flutter-21594-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 123 | [11](#flutter-flutter-101479-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 102 | [11](#flutter-flutter-62960-graph)
 Allow nested hero widgets [flutter/flutter#38684](https://github.com/flutter/flutter/issues/38684) | 74 | [10](#flutter-flutter-38684-graph)
@@ -72,7 +72,7 @@ Autocomplete widget goes out of screen from right side [flutter/flutter#78746](h
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`f: cupertino` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 123 | [11](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-go_router` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-tool` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-engine` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -150,8 +150,8 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 164 | [9](#flutter-flutter-14288-graph)
 How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 53 | [9](#flutter-flutter-50890-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 29 | [9](#flutter-flutter-146860-graph)
+Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 151 | [8](#flutter-flutter-25841-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 191 | [7](#flutter-flutter-11754-graph)
-Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 150 | [7](#flutter-flutter-25841-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 511 | [6](#flutter-flutter-26801-graph)
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 78 | [6](#flutter-flutter-37159-graph)
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 122 | [5](#flutter-flutter-30541-graph)
@@ -160,7 +160,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-ios` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Plugins could avoid warnings by installing UIApplicationDelegate methods dynamic
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-android` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-web` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-desktop` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`team-ecosystem` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`dart-lang/sdk` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](http
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-08-05 to 2024-11-03.
+`dart-lang/language` issues that received the most reactions from 2024-08-05 to 2024-11-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -305,7 +305,7 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1646 | [18](#dart-lang-language-1482-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 519 | [18](#dart-lang-language-83-graph)
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 17 | [17](#dart-lang-language-4057-graph)
-Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 215 | [12](#dart-lang-language-1076-graph)
+Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 216 | [13](#dart-lang-language-1076-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 12 | [12](#dart-lang-language-4030-graph)
 Constant function literals [dart-lang/language#1048](https://github.com/dart-lang/language/issues/1048) | 296 | [11](#dart-lang-language-1048-graph)
 Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 181 | [11](#dart-lang-language-336-graph)
@@ -323,9 +323,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [2, 5, 2, 1, 7, 4, 5, 5, 1, 5, 3, 1, 4]
+    bar [2, 5, 2, 1, 7, 4, 5, 5, 1, 5, 3, 1, 4, 0]
   ```
 
   </details>
@@ -340,9 +340,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions"
-    bar [19, 36, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [19, 36, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -357,9 +357,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions"
-    bar [0, 14, 15, 19, 22, 23, 23, 23, 25, 27, 38, 43, 47]
+    bar [0, 14, 15, 19, 22, 23, 23, 23, 25, 27, 38, 43, 47, 47]
   ```
 
   </details>
@@ -374,9 +374,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -391,9 +391,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [6, 1, 6, 2, 2, 3, 1, 4, 1, 2, 2, 3, 1]
+    bar [6, 1, 6, 2, 2, 3, 1, 4, 1, 2, 2, 3, 1, 0]
   ```
 
   </details>
@@ -408,9 +408,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 24, 39, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 24, 39, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -425,9 +425,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 5, 1, 7, 6, 5, 2, 1, 0, 0, 7]
+    bar [0, 0, 0, 5, 1, 7, 6, 5, 2, 1, 0, 0, 7, 0]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 4, 3, 2, 5, 2, 10, 2, 0, 4, 1]
+    bar [0, 0, 0, 4, 3, 2, 5, 2, 10, 2, 0, 4, 1, 0]
   ```
 
   </details>
@@ -459,9 +459,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 1, 1, 5, 1, 1, 4, 4, 2, 0, 2, 9]
+    bar [1, 2, 1, 1, 5, 1, 1, 4, 4, 2, 0, 2, 9, 0]
   ```
 
   </details>
@@ -476,9 +476,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions"
-    bar [24, 36, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [24, 36, 36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -486,16 +486,16 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
-  <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 657 total reactions, 34 recent reactions</sub><br />
+  <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 658 total reactions, 35 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 5, 2, 0, 3, 0, 5, 0, 3, 6, 1, 3, 1]
+    bar [1, 5, 2, 0, 3, 0, 5, 0, 3, 6, 1, 3, 1, 0]
   ```
 
   </details>
@@ -510,9 +510,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [5, 1, 2, 4, 0, 5, 2, 3, 0, 1, 3, 0, 6]
+    bar [5, 1, 2, 4, 0, 5, 2, 3, 0, 1, 3, 0, 6, 0]
   ```
 
   </details>
@@ -527,9 +527,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 5, 3, 1, 0, 3, 9, 1, 0, 0, 2, 0, 0]
+    bar [1, 5, 3, 1, 0, 3, 9, 1, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -544,9 +544,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 23, 29, 30]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 23, 29, 30, 30]
   ```
 
   </details>
@@ -561,9 +561,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [20, 3, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0]
+    bar [20, 3, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [2, 2, 6, 3, 1, 2, 0, 0, 1, 1, 3, 1, 0]
+    bar [2, 2, 6, 3, 1, 2, 0, 0, 1, 1, 3, 1, 0, 0]
   ```
 
   </details>
@@ -595,9 +595,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 6, 6, 2, 2, 0, 1, 0, 0, 1, 2, 1, 0]
+    bar [1, 6, 6, 2, 2, 0, 1, 0, 0, 1, 2, 1, 0, 0]
   ```
 
   </details>
@@ -612,9 +612,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 1, 2, 2]
+    bar [1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 1, 2, 2, 0]
   ```
 
   </details>
@@ -629,9 +629,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 2, 0, 2, 1, 1, 4, 2, 5, 3]
+    bar [1, 2, 0, 0, 2, 0, 2, 1, 1, 4, 2, 5, 3, 0]
   ```
 
   </details>
@@ -646,9 +646,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 18, 4, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 18, 4, 0, 0, 0, 0]
   ```
 
   </details>
@@ -663,9 +663,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 20, 21, 22, 23, 23, 23, 23, 23]
+    bar [0, 0, 0, 0, 0, 20, 21, 22, 23, 23, 23, 23, 23, 23]
   ```
 
   </details>
@@ -680,9 +680,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [3, 3, 1, 0, 1, 0, 1, 0, 0, 6, 0, 4, 1]
+    bar [3, 3, 1, 0, 1, 0, 1, 0, 0, 6, 0, 4, 1, 0]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 1, 1, 1, 2, 1, 2, 0, 0, 6, 1]
+    bar [1, 1, 2, 1, 1, 1, 2, 1, 2, 0, 0, 6, 1, 0]
   ```
 
   </details>
@@ -714,9 +714,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 3, 3, 7, 1, 1, 3, 0, 0, 0, 1]
+    bar [1, 0, 0, 3, 3, 7, 1, 1, 3, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 9, 0, 1, 0, 1, 0, 3, 0, 0, 2]
+    bar [0, 0, 0, 9, 0, 1, 0, 1, 0, 3, 0, 0, 2, 0]
   ```
 
   </details>
@@ -748,9 +748,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 2, 2, 0, 1, 1, 3, 1, 2, 0]
+    bar [0, 0, 1, 1, 2, 2, 0, 1, 1, 3, 1, 2, 0, 0]
   ```
 
   </details>
@@ -765,9 +765,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 0, 0, 0, 0, 0, 0, 13, 1, 0, 0]
+    bar [0, 0, 3, 0, 0, 0, 0, 0, 0, 13, 1, 0, 0, 0]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 17, 18, 19]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 17, 18, 19, 19]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 3, 3, 0, 2, 1, 0, 3, 0, 3]
+    bar [0, 0, 0, 1, 3, 3, 0, 2, 1, 0, 3, 0, 3, 0]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1]
+    bar [0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -833,9 +833,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 7, 0, 7, 0, 0, 1, 0, 0, 1, 0]
+    bar [0, 0, 0, 7, 0, 7, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -850,9 +850,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 2, 0]
+    bar [1, 0, 0, 0, 4, 0, 1, 0, 0, 0, 1, 2, 0, 0]
   ```
 
   </details>
@@ -867,9 +867,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 5, 1, 2, 1, 2, 0, 1, 2, 1]
+    bar [3, 0, 0, 0, 5, 1, 2, 1, 2, 0, 1, 2, 1, 0]
   ```
 
   </details>
@@ -884,9 +884,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 4, 2, 1, 1, 0, 0, 0, 1, 0]
+    bar [1, 0, 0, 0, 4, 2, 1, 1, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -901,9 +901,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 17, 17, 18, 18, 18, 18]
+    bar [0, 0, 0, 0, 0, 0, 0, 17, 17, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -918,9 +918,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 1, 1, 2, 2, 0, 0, 2, 0, 0, 1]
+    bar [0, 1, 1, 1, 1, 2, 2, 0, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -935,9 +935,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -952,9 +952,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [8, 0, 2, 0, 1, 1, 1, 1, 0, 0, 2, 0, 0]
+    bar [8, 0, 2, 0, 1, 1, 1, 1, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -969,9 +969,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 13, 13, 14, 16, 16, 16, 17, 17, 17, 17]
+    bar [0, 0, 3, 13, 13, 14, 16, 16, 16, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -986,9 +986,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 4, 3, 3, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 1, 1, 4, 3, 3, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1003,9 +1003,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 0, 1, 0, 0, 0, 1, 1, 4, 1, 2]
+    bar [2, 1, 1, 0, 1, 0, 0, 0, 1, 1, 4, 1, 2, 0]
   ```
 
   </details>
@@ -1020,9 +1020,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 1, 0, 2, 2, 3, 1, 1, 0]
+    bar [1, 0, 0, 1, 0, 1, 0, 2, 2, 3, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1037,9 +1037,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 2, 1, 1, 2, 0, 0, 1, 1, 0, 3, 0]
+    bar [3, 0, 2, 1, 1, 2, 0, 0, 1, 1, 0, 3, 0, 0]
   ```
 
   </details>
@@ -1054,9 +1054,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 1, 3, 1, 1, 0, 1, 1, 1, 1, 0, 1]
+    bar [3, 1, 1, 3, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1071,9 +1071,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 1, 0, 1, 3, 1, 1, 1, 0]
+    bar [0, 0, 0, 0, 2, 1, 0, 1, 3, 1, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1088,9 +1088,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [6, 0, 1, 0, 3, 1, 0, 1, 0, 0, 1, 0, 0]
+    bar [6, 0, 1, 0, 3, 1, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1105,9 +1105,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 2, 1, 1, 1, 0, 2, 0, 0, 0, 2]
+    bar [0, 1, 1, 2, 1, 1, 1, 0, 2, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -1122,9 +1122,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 2, 1, 1, 1, 1, 0, 0, 2, 1, 1]
+    bar [0, 2, 0, 2, 1, 1, 1, 1, 0, 0, 2, 1, 1, 0]
   ```
 
   </details>
@@ -1139,9 +1139,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 8, 1, 0, 2, 0, 0, 0, 1]
+    bar [0, 0, 0, 0, 0, 8, 1, 0, 2, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1156,9 +1156,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, -1, 1, 1, 1, 0, 0, 5, 0, 1, 2]
+    bar [1, 0, 1, -1, 1, 1, 1, 0, 0, 5, 0, 1, 2, 0]
   ```
 
   </details>
@@ -1173,9 +1173,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 1, 2, 0, 3, 1, 2, 1, 0, 0]
+    bar [0, 1, 1, 0, 1, 2, 0, 3, 1, 2, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1190,9 +1190,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14]
+    bar [0, 0, 0, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1207,9 +1207,26 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 3, 0, 0, 1, 2, 1, 1, 1, 2, 2]
+    bar [0, 0, 0, 3, 0, 0, 1, 2, 1, 1, 1, 2, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-1076-graph"></a>
+### Allow both optional positional and optional named arguments in the same function signature.
+  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 216 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 1, 1, 2, 0]
   ```
 
   </details>
@@ -1224,9 +1241,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 1, 0, 3, 1, 0, 1, 0, 1, 3]
+    bar [1, 1, 1, 0, 1, 0, 3, 1, 0, 1, 0, 1, 3, 0]
   ```
 
   </details>
@@ -1241,9 +1258,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 7, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 7, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1258,26 +1275,26 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 13, 13, 13, 13, 13, 13, 13, 13, 13]
+    bar [0, 0, 0, 0, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13]
   ```
 
   </details>
   </sub>
 
-<a name="dart-lang-language-1076-graph"></a>
-### Allow both optional positional and optional named arguments in the same function signature.
-  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 215 total reactions, 12 recent reactions</sub><br />
+<a name="flutter-flutter-21594-graph"></a>
+### Table > TableRow > TableCell colspan
+  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 284 total reactions, 12 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 1, 1, 2]
+    bar [0, 0, 2, 5, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1292,9 +1309,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 7, 8, 9, 10, 10, 10, 10, 10, 10, 12]
+    bar [0, 0, 0, 7, 8, 9, 10, 10, 10, 10, 10, 10, 12, 12]
   ```
 
   </details>
@@ -1309,9 +1326,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 6, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0]
+    bar [1, 0, 6, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1326,26 +1343,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 4]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-21594-graph"></a>
-### Table > TableRow > TableCell colspan
-  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 283 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 5, 0, 0, 0, 1, 1, 1, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 4, 0]
   ```
 
   </details>
@@ -1360,9 +1360,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 0, 0, 5, 0, 0, 1, 0]
+    bar [0, 0, 0, 0, 2, 0, 0, 0, 5, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1377,9 +1377,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 1, 0, 4, 0, 0, 0, 0, 1, 0]
+    bar [0, 1, 2, 0, 1, 0, 4, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1394,9 +1394,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 0, 2, 0, 0, 3, 0, 0]
+    bar [0, 0, 0, 1, 1, 0, 0, 2, 0, 0, 3, 0, 0, 0]
   ```
 
   </details>
@@ -1411,9 +1411,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 5, 0]
+    bar [0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 5, 0, 0]
   ```
 
   </details>
@@ -1428,9 +1428,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 0, 0, 2, 4, 1, 0, 0]
+    bar [0, 0, 1, 0, 1, 0, 0, 0, 2, 4, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1445,9 +1445,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0]
+    bar [3, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1462,9 +1462,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 3, 0, 2]
+    bar [0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 3, 0, 2, 0]
   ```
 
   </details>
@@ -1479,9 +1479,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0]
+    bar [0, 3, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1496,9 +1496,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 3, 3, 0, 1, 2, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 3, 3, 0, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1513,9 +1513,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0]
+    bar [3, 1, 0, 1, 0, 0, 0, 1, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1530,9 +1530,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 1, 1, 3, 0, 1, 0, 1, 0, 0, 0, 0]
+    bar [2, 0, 1, 1, 3, 0, 1, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1547,9 +1547,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 1, 0, 1, 0, 1, 2, 0, 0, 1]
+    bar [0, 1, 1, 0, 1, 0, 1, 0, 1, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1564,9 +1564,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10]
+    bar [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1581,9 +1581,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 10, 10, 10]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1598,9 +1598,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1615,9 +1615,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 1, 1]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1632,9 +1632,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 1, 0, 1, 5, 0, 0, 0, 0, 0, 0]
+    bar [0, 2, 0, 1, 0, 1, 5, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1649,9 +1649,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1666,9 +1666,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 3, 1, 0]
+    bar [1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 3, 1, 0, 0]
   ```
 
   </details>
@@ -1683,9 +1683,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 0, 1]
+    bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 0, 1, 0]
   ```
 
   </details>
@@ -1700,9 +1700,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 1, 2, 0, 2, 0, 0, 1, 0]
+    bar [1, 0, 0, 0, 1, 1, 2, 0, 2, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1717,9 +1717,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 1, 2, 1, 0, 0, 1, 0, 0, 0]
+    bar [0, 1, 0, 2, 1, 2, 1, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1734,9 +1734,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 3, 1, 1, 0, 0, 1, 0, 1]
+    bar [1, 0, 0, 0, 1, 3, 1, 1, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1751,9 +1751,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 2, 0, 0, 0, 1, 2, 1, 1, 1]
+    bar [0, 0, 1, 0, 2, 0, 0, 0, 1, 2, 1, 1, 1, 0]
   ```
 
   </details>
@@ -1768,9 +1768,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 1, 2, 1, 0, 0, 0, 2, 1]
+    bar [0, 1, 0, 0, 1, 1, 2, 1, 0, 0, 0, 2, 1, 0]
   ```
 
   </details>
@@ -1785,9 +1785,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 3, 2, 0]
+    bar [0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 3, 2, 0, 0]
   ```
 
   </details>
@@ -1802,9 +1802,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 2, 2, 1, 0, 2, 0, 0, 0, 0, 0, 0]
+    bar [2, 0, 2, 2, 1, 0, 2, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1819,9 +1819,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 4, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 4, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1836,9 +1836,26 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 4, 0, 0, 0, 1, 2, 0]
+    bar [0, 0, 1, 0, 0, 0, 4, 0, 0, 0, 1, 2, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-25841-graph"></a>
+### Add a way to detect keyboard language
+  <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 151 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1853,9 +1870,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 2, 0, 0, 1, 0, 1, 0, 1]
+    bar [0, 1, 0, 0, 1, 2, 0, 0, 1, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1870,9 +1887,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 1, 2, 0, 0, 0, 0, 0, 1]
+    bar [0, 0, 1, 3, 0, 1, 2, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1887,9 +1904,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 1, 2, 0, 0, 0, 0, 1, 0, 0]
+    bar [1, 0, 1, 1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1904,9 +1921,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 1, 0, 0, 3, 1, 0, 0]
+    bar [0, 0, 0, 1, 0, 0, 1, 0, 0, 3, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1921,9 +1938,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 1, 1, 0, 0, 0, 2, 1, 1, 0]
+    bar [0, 2, 0, 0, 1, 1, 0, 0, 0, 2, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1938,9 +1955,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
+    bar [0, 0, 0, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -1955,9 +1972,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 3, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1972,9 +1989,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 2]
+    bar [1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -1989,26 +2006,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 0, 3, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-25841-graph"></a>
-### Add a way to detect keyboard language
-  <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 150 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2023,9 +2023,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 1, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2040,9 +2040,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1]
+    bar [0, 1, 1, 0, 0, 0, 0, 0, 2, 0, 1, 1, 1, 0]
   ```
 
   </details>
@@ -2057,9 +2057,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2074,9 +2074,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 3, 1, 1, 0]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 3, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2091,9 +2091,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 4, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0]
+    bar [0, 0, 4, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2108,9 +2108,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 2, 6, 7, 7, 7, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 2, 6, 7, 7, 7, 0, 0, 0]
   ```
 
   </details>
@@ -2125,9 +2125,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0]
+    bar [0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2142,9 +2142,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0]
+    bar [1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2159,9 +2159,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+    bar [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2176,9 +2176,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 1]
+    bar [0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2193,9 +2193,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    bar [3, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2210,9 +2210,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2227,9 +2227,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2244,9 +2244,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+    bar [0, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2261,9 +2261,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 3, 0]
+    bar [0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 3, 0, 0]
   ```
 
   </details>
@@ -2278,9 +2278,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 2, 0, 0]
+    bar [0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2295,9 +2295,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1]
+    bar [0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2312,9 +2312,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 3, 0, 0, 2, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 3, 0, 0, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2329,9 +2329,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]
+    bar [1, 1, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2346,9 +2346,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 1, 0, 1, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 2, 1, 0, 1, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2363,9 +2363,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1]
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0]
   ```
 
   </details>
@@ -2380,9 +2380,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2397,9 +2397,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0]
+    bar [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2414,9 +2414,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2431,9 +2431,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2448,9 +2448,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 4, -1, 1, 0, 0, 0]
+    bar [0, 0, 1, 0, 0, 0, 0, 4, -1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2465,9 +2465,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2482,9 +2482,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0]
+    bar [0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2499,9 +2499,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2516,9 +2516,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2533,9 +2533,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0]
+    bar [1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2550,9 +2550,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 3, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2567,9 +2567,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0]
+    bar [1, 0, 1, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2584,9 +2584,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1]
+    bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2601,9 +2601,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28]
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
