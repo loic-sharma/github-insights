@@ -10,15 +10,15 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 Urgent Flutter 3.24.1 Cherry picks for web [flutter/flutter#152953](https://github.com/flutter/flutter/issues/152953) | 48 | [48](#flutter-flutter-152953-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 47 | [47](#flutter-flutter-153092-graph)
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1100 | [41](#dart-lang-language-723-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 96 | [41](#flutter-flutter-142845-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 55 | [41](#flutter-flutter-149031-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1097 | [38](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 990 | [37](#dart-lang-language-357-graph)
+Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 36 | [36](#flutter-flutter-158050-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 658 | [35](#flutter-flutter-30701-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 159 | [34](#flutter-flutter-139289-graph)
-Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 32 | [32](#flutter-flutter-158050-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 418 | [30](#flutter-flutter-31713-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 30 | [30](#flutter-flutter-156111-graph)
 
@@ -281,8 +281,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 19 | [19](#dart-lang-sdk-56863-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 49 | [17](#dart-lang-sdk-53402-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 518 | [13](#dart-lang-sdk-28617-graph)
-[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 10 | [10](#dart-lang-sdk-56404-graph)
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
+[native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 10 | [10](#dart-lang-sdk-56404-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 10 | [10](#dart-lang-sdk-56841-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 50 | [8](#dart-lang-sdk-49426-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
@@ -296,7 +296,7 @@ Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](http
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1097 | [38](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1100 | [41](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 990 | [37](#dart-lang-language-357-graph)
 Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 32 | [25](#dart-lang-language-3616-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
@@ -308,9 +308,9 @@ Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 216 | [13](#dart-lang-language-1076-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 12 | [12](#dart-lang-language-4030-graph)
 Constant function literals [dart-lang/language#1048](https://github.com/dart-lang/language/issues/1048) | 296 | [11](#dart-lang-language-1048-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 209 | [11](#dart-lang-language-2364-graph)
 Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 181 | [11](#dart-lang-language-336-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1246 | [10](#dart-lang-language-69-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 208 | [10](#dart-lang-language-2364-graph)
 
 ## Graphs
 
@@ -382,6 +382,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1100 total reactions, 41 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 5, 1, 7, 6, 5, 2, 1, 0, 0, 7, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
   <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 96 total reactions, 41 recent reactions</sub><br />
@@ -433,23 +450,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1097 total reactions, 38 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 5, 1, 7, 6, 5, 2, 1, 0, 0, 7, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-357-graph"></a>
 ### Allow for shorter dot syntax to access enum values
   <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 990 total reactions, 37 recent reactions</sub><br />
@@ -462,6 +462,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 4, 3, 2, 5, 2, 10, 2, 0, 4, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-158050-graph"></a>
+### Stop pinning dependencies
+  <sub>[flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) &mdash; 36 total reactions, 36 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36]
   ```
 
   </details>
@@ -513,23 +530,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [5, 1, 2, 4, 0, 5, 2, 3, 0, 1, 3, 0, 6, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-158050-graph"></a>
-### Stop pinning dependencies
-  <sub>[flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) &mdash; 32 total reactions, 32 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32]
   ```
 
   </details>
@@ -1368,6 +1368,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="dart-lang-language-2364-graph"></a>
+### Primary constructor on classes
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 209 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 3, 0, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-336-graph"></a>
 ### Static nested classes
   <sub>[dart-lang/language#336](https://github.com/dart-lang/language/issues/336) &mdash; 181 total reactions, 11 recent reactions</sub><br />
@@ -1487,23 +1504,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-language-2364-graph"></a>
-### Primary constructor on classes
-  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 208 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 0, 0, 1, 1, 0, 3, 0, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-86295-graph"></a>
 ### [integration_test] Allow driving native UI interactions from Dart
   <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 100 total reactions, 10 recent reactions</sub><br />
@@ -1606,23 +1606,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56404-graph"></a>
-### [native/js/wasm] Platform independent File I/O
-  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56542-graph"></a>
 ### [Dart VM] Cannot set pause_isolates_on_exit at runtime
   <sub>[dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1635,6 +1618,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56404-graph"></a>
+### [native/js/wasm] Platform independent File I/O
+  <sub>[dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10, 10]
   ```
 
   </details>
@@ -2524,23 +2524,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-91241-graph"></a>
-### Video Player HDR Problem
-  <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 46 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-53229-graph"></a>
 ### [Proposal] Icon support Linux desktop application
   <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
@@ -2553,6 +2536,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-91241-graph"></a>
+### Video Player HDR Problem
+  <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 46 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
