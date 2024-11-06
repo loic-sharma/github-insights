@@ -14,7 +14,7 @@ Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [f
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1101 | [42](#dart-lang-language-723-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 97 | [42](#flutter-flutter-142845-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 55 | [41](#flutter-flutter-149031-graph)
-Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 992 | [39](#dart-lang-language-357-graph)
+Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 993 | [40](#dart-lang-language-357-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 659 | [36](#flutter-flutter-30701-graph)
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
@@ -46,7 +46,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 230 | [7](#flutter-flutter-54200-graph)
 SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) | 55 | [7](#flutter-flutter-97544-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 22 | [7](#flutter-flutter-81005-graph)
-`ListView` has one frame jank when releasing finger (PointerUpEvent), no matter how lightweight the content is [flutter/flutter#113494](https://github.com/flutter/flutter/issues/113494) | 24 | [6](#flutter-flutter-113494-graph)
+ExpansionTile should have a sliver equivalent [flutter/flutter#122146](https://github.com/flutter/flutter/issues/122146) | 24 | [6](#flutter-flutter-122146-graph)
 
 #### Design
 
@@ -111,7 +111,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 34 | 4
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 29 | 4
 [go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
-[go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 50 | 3
+[go_router] Add support for relative routes [flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) | 50 | 3
 
 ### Tool
 
@@ -276,14 +276,14 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 162 | [30](#dart-lang-sdk-54934-graph)
 ☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 48 | [30](#dart-lang-sdk-53875-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 46 | [27](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 48 | [29](#dart-lang-sdk-55281-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 165 | [22](#dart-lang-sdk-50565-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 19 | [19](#dart-lang-sdk-56863-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 49 | [17](#dart-lang-sdk-53402-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 518 | [13](#dart-lang-sdk-28617-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 11 | [11](#dart-lang-sdk-56841-graph)
 [Dart VM] Cannot set pause_isolates_on_exit at runtime [dart-lang/sdk#56542](https://github.com/dart-lang/sdk/issues/56542) | 10 | [10](#dart-lang-sdk-56542-graph)
 [native/js/wasm] Platform independent File I/O [dart-lang/sdk#56404](https://github.com/dart-lang/sdk/issues/56404) | 10 | [10](#dart-lang-sdk-56404-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 10 | [10](#dart-lang-sdk-56841-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 50 | [8](#dart-lang-sdk-49426-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 @depreacte dart:html and other "legacy" DOM libraries [dart-lang/sdk#56358](https://github.com/dart-lang/sdk/issues/56358) | 30 | [7](#dart-lang-sdk-56358-graph)
@@ -297,11 +297,11 @@ Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](http
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1101 | [42](#dart-lang-language-723-graph)
-Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 992 | [39](#dart-lang-language-357-graph)
+Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 993 | [40](#dart-lang-language-357-graph)
 Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 32 | [25](#dart-lang-language-3616-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1648 | [20](#dart-lang-language-1482-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 253 | [20](#dart-lang-language-649-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1647 | [19](#dart-lang-language-1482-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2096 | [18](#dart-lang-language-314-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 519 | [18](#dart-lang-language-83-graph)
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 17 | [17](#dart-lang-language-4057-graph)
@@ -452,7 +452,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 <a name="dart-lang-language-357-graph"></a>
 ### Allow for shorter dot syntax to access enum values
-  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 992 total reactions, 39 recent reactions</sub><br />
+  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 993 total reactions, 40 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -461,7 +461,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 4, 3, 2, 5, 2, 10, 2, 0, 4, 1, 2]
+    bar [0, 0, 0, 4, 3, 2, 5, 2, 10, 2, 0, 4, 1, 3]
   ```
 
   </details>
@@ -605,7 +605,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 46 total reactions, 27 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 48 total reactions, 29 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -614,7 +614,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 2, 0, 2, 1, 1, 4, 2, 5, 3, 1]
+    bar [1, 2, 0, 0, 2, 0, 2, 1, 1, 4, 2, 5, 3, 3]
   ```
 
   </details>
@@ -773,6 +773,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-language-1482-graph"></a>
+### Static Metaprogramming
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1648 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-649-graph"></a>
 ### Import shorthand syntax
   <sub>[dart-lang/language#649](https://github.com/dart-lang/language/issues/649) &mdash; 253 total reactions, 20 recent reactions</sub><br />
@@ -785,23 +802,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 9, 0, 1, 0, 1, 0, 3, 0, 0, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1482-graph"></a>
-### Static Metaprogramming
-  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1647 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1, 1]
   ```
 
   </details>
@@ -1487,6 +1487,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 10, 10, 10, 11]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-69-graph"></a>
 ### Optional Semicolons
   <sub>[dart-lang/language#69](https://github.com/dart-lang/language/issues/69) &mdash; 1246 total reactions, 10 recent reactions</sub><br />
@@ -1669,23 +1686,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 7, 8, 8, 8, 8, 8, 8, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 8, 9, 10, 10, 10, 10]
   ```
 
   </details>
@@ -2405,9 +2405,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-113494-graph"></a>
-### `ListView` has one frame jank when releasing finger (PointerUpEvent), no matter how lightweight the content is
-  <sub>[flutter/flutter#113494](https://github.com/flutter/flutter/issues/113494) &mdash; 24 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-122146-graph"></a>
+### ExpansionTile should have a sliver equivalent
+  <sub>[flutter/flutter#122146](https://github.com/flutter/flutter/issues/122146) &mdash; 24 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2416,7 +2416,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2473,23 +2473,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-69157-graph"></a>
-### Build Flutter macOS artifacts with ARM architecture slice
-  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 76 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-48381-graph"></a>
 ### Use a system default font on flutter
   <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 76 total reactions, 5 recent reactions</sub><br />
@@ -2502,6 +2485,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-69157-graph"></a>
+### Build Flutter macOS artifacts with ARM architecture slice
+  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 76 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2524,23 +2524,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-53229-graph"></a>
-### [Proposal] Icon support Linux desktop application
-  <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91241-graph"></a>
 ### Video Player HDR Problem
   <sub>[flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) &mdash; 46 total reactions, 5 recent reactions</sub><br />
@@ -2553,6 +2536,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 1, 0, 0, 1, 0, 2, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-53229-graph"></a>
+### [Proposal] Icon support Linux desktop application
+  <sub>[flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) &mdash; 46 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
