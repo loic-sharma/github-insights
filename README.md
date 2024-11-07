@@ -35,7 +35,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 97 | [42](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 659 | [36](#flutter-flutter-30701-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 214 | [22](#flutter-flutter-138614-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 163 | [21](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 164 | [22](#flutter-flutter-65504-graph)
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 160 | [15](#flutter-flutter-151065-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 108 | [14](#flutter-flutter-99606-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 171 | [12](#flutter-flutter-45336-graph)
@@ -46,7 +46,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 230 | [7](#flutter-flutter-54200-graph)
 SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) | 55 | [7](#flutter-flutter-97544-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 22 | [7](#flutter-flutter-81005-graph)
-`ListView` has one frame jank when releasing finger (PointerUpEvent), no matter how lightweight the content is [flutter/flutter#113494](https://github.com/flutter/flutter/issues/113494) | 24 | [6](#flutter-flutter-113494-graph)
+ExpansionTile should have a sliver equivalent [flutter/flutter#122146](https://github.com/flutter/flutter/issues/122146) | 24 | [6](#flutter-flutter-122146-graph)
 
 #### Design
 
@@ -97,7 +97,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 116 | [26](#flutter-flutter-138737-graph)
+PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 117 | [27](#flutter-flutter-138737-graph)
 [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869) | 60 | [16](#flutter-flutter-140869-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 40 | [16](#flutter-flutter-140586-graph)
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 120 | [14](#flutter-flutter-112196-graph)
@@ -125,8 +125,8 @@ Allow to provide compile-time variables for native platforms from a file [flutte
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 141 | [9](#flutter-flutter-46979-graph)
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 59 | [8](#flutter-flutter-129757-graph)
 [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 28 | [8](#flutter-flutter-95472-graph)
-Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 140 | [7](#flutter-flutter-65065-graph)
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 278 | [6](#flutter-flutter-29021-graph)
+Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 139 | [6](#flutter-flutter-65065-graph)
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 76 | [5](#flutter-flutter-69157-graph)
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 73 | [5](#flutter-flutter-77104-graph)
 [flutter_tools] Add support for running custom scripts [flutter/flutter#90612](https://github.com/flutter/flutter/issues/90612) | 43 | [5](#flutter-flutter-90612-graph)
@@ -148,9 +148,9 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 299 | [10](#flutter-flutter-18443-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 165 | [10](#flutter-flutter-14288-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 89 | [10](#flutter-flutter-10437-graph)
+Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 152 | [9](#flutter-flutter-25841-graph)
 How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 53 | [9](#flutter-flutter-50890-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 29 | [9](#flutter-flutter-146860-graph)
-Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 151 | [8](#flutter-flutter-25841-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 512 | [7](#flutter-flutter-26801-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 191 | [7](#flutter-flutter-11754-graph)
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 78 | [6](#flutter-flutter-37159-graph)
@@ -298,7 +298,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1101 | [42](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 995 | [42](#dart-lang-language-357-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1655 | [27](#dart-lang-language-1482-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1656 | [28](#dart-lang-language-1482-graph)
 Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 32 | [25](#dart-lang-language-3616-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 253 | [20](#dart-lang-language-649-graph)
@@ -622,7 +622,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 <a name="dart-lang-language-1482-graph"></a>
 ### Static Metaprogramming
-  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1655 total reactions, 27 recent reactions</sub><br />
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1656 total reactions, 28 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -631,7 +631,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1, 9]
+    bar [0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1, 10]
   ```
 
   </details>
@@ -656,7 +656,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 <a name="flutter-flutter-138737-graph"></a>
 ### PopScope seems to be incompatible with GoRouter
-  <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 116 total reactions, 26 recent reactions</sub><br />
+  <sub>[flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) &mdash; 117 total reactions, 27 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -665,7 +665,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 1, 2, 2, 1]
+    bar [1, 0, 5, 2, 0, 3, 2, 1, 0, 0, 1, 2, 2, 2]
   ```
 
   </details>
@@ -756,6 +756,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 164 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 0, 0, 0, 5, 1, 2, 1, 2, 0, 1, 2, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-156910-graph"></a>
 ### [web] The future of `flutter_service_worker.js`
   <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -785,23 +802,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 2, 1, 1, 1, 0, 2, 0, 0, 0, 2, 7]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 163 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 5, 1, 2, 1, 2, 0, 1, 2, 1, 0]
   ```
 
   </details>
@@ -1759,6 +1759,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-25841-graph"></a>
+### Add a way to detect keyboard language
+  <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 152 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-46979-graph"></a>
 ### Support different dependencies when using flavors
   <sub>[flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) &mdash; 141 total reactions, 9 recent reactions</sub><br />
@@ -1873,23 +1890,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 4, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-25841-graph"></a>
-### Add a way to detect keyboard language
-  <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 151 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2082,23 +2082,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-65065-graph"></a>
-### Bundling assets only on a specific platform (and remove assets on another platform)
-  <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 140 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-106612-graph"></a>
 ### Support `flutter build ipa` with manual signing and provisioning profiles
   <sub>[flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) &mdash; 62 total reactions, 7 recent reactions</sub><br />
@@ -2269,6 +2252,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-65065-graph"></a>
+### Bundling assets only on a specific platform (and remove assets on another platform)
+  <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 139 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 2, 1, 1, 0, 0, 0, 0, 0, -1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-19830-graph"></a>
 ### Can't resolve symbol io.flutter.plugin dependency
   <sub>[flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830) &mdash; 116 total reactions, 6 recent reactions</sub><br />
@@ -2405,9 +2405,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-113494-graph"></a>
-### `ListView` has one frame jank when releasing finger (PointerUpEvent), no matter how lightweight the content is
-  <sub>[flutter/flutter#113494](https://github.com/flutter/flutter/issues/113494) &mdash; 24 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-122146-graph"></a>
+### ExpansionTile should have a sliver equivalent
+  <sub>[flutter/flutter#122146](https://github.com/flutter/flutter/issues/122146) &mdash; 24 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2416,7 +2416,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2473,23 +2473,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-69157-graph"></a>
-### Build Flutter macOS artifacts with ARM architecture slice
-  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 76 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-48381-graph"></a>
 ### Use a system default font on flutter
   <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 76 total reactions, 5 recent reactions</sub><br />
@@ -2502,6 +2485,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-69157-graph"></a>
+### Build Flutter macOS artifacts with ARM architecture slice
+  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 76 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
