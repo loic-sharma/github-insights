@@ -46,7 +46,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 230 | [7](#flutter-flutter-54200-graph)
 SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) | 55 | [7](#flutter-flutter-97544-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 22 | [7](#flutter-flutter-81005-graph)
-ExpansionTile should have a sliver equivalent [flutter/flutter#122146](https://github.com/flutter/flutter/issues/122146) | 24 | [6](#flutter-flutter-122146-graph)
+`ListView` has one frame jank when releasing finger (PointerUpEvent), no matter how lightweight the content is [flutter/flutter#113494](https://github.com/flutter/flutter/issues/113494) | 24 | [6](#flutter-flutter-113494-graph)
 
 #### Design
 
@@ -213,7 +213,7 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 313 | [26](#flutter-flutter-145954-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 809 | [23](#flutter-flutter-46789-graph)
-[web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 21 | [21](#flutter-flutter-156910-graph)
+[web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 22 | [22](#flutter-flutter-156910-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 33 | [17](#flutter-flutter-141371-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [16](#flutter-flutter-69529-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [16](#flutter-flutter-104509-graph)
@@ -257,7 +257,7 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 [WEB] Refresh MIME Type Error on destination route when using `usePathUrlStrategy` on Flutter stable 3.24.0 [flutter/flutter#152995](https://github.com/flutter/flutter/issues/152995) | 36 | [36](#flutter-flutter-152995-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 313 | [26](#flutter-flutter-145954-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 809 | [23](#flutter-flutter-46789-graph)
-[web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 21 | [21](#flutter-flutter-156910-graph)
+[web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 22 | [22](#flutter-flutter-156910-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 33 | [17](#flutter-flutter-141371-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [16](#flutter-flutter-69529-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [16](#flutter-flutter-104509-graph)
@@ -298,14 +298,14 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1101 | [42](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 995 | [42](#dart-lang-language-357-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1655 | [27](#dart-lang-language-1482-graph)
 Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 32 | [25](#dart-lang-language-3616-graph)
 Expressions that are "as constant as possible" [dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) | 23 | [23](#dart-lang-language-4084-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1650 | [22](#dart-lang-language-1482-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 253 | [20](#dart-lang-language-649-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2096 | [18](#dart-lang-language-314-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 519 | [18](#dart-lang-language-83-graph)
 Reusable Pattern Matching [dart-lang/language#4057](https://github.com/dart-lang/language/issues/4057) | 17 | [17](#dart-lang-language-4057-graph)
-Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 217 | [14](#dart-lang-language-1076-graph)
+Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 219 | [16](#dart-lang-language-1076-graph)
 Constant function literals [dart-lang/language#1048](https://github.com/dart-lang/language/issues/1048) | 298 | [13](#dart-lang-language-1048-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 211 | [13](#dart-lang-language-2364-graph)
 Better error handling - add try expression or if exception operator [dart-lang/language#4030](https://github.com/dart-lang/language/issues/4030) | 12 | [12](#dart-lang-language-4030-graph)
@@ -620,6 +620,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-language-1482-graph"></a>
+### Static Metaprogramming
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1655 total reactions, 27 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1, 9]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-145954-graph"></a>
 ### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
   <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 313 total reactions, 26 recent reactions</sub><br />
@@ -705,23 +722,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-language-1482-graph"></a>
-### Static Metaprogramming
-  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1650 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1, 4]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-138614-graph"></a>
 ### Preserve WillPopScope as an alternate for PopScope
   <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 214 total reactions, 22 recent reactions</sub><br />
@@ -756,6 +756,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-156910-graph"></a>
+### [web] The future of `flutter_service_worker.js`
+  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-14330-graph"></a>
 ### Code Push / Hot Update / out of band updates
   <sub>[flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) &mdash; 2008 total reactions, 21 recent reactions</sub><br />
@@ -785,23 +802,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [3, 0, 0, 0, 5, 1, 2, 1, 2, 0, 1, 2, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156910-graph"></a>
-### [web] The future of `flutter_service_worker.js`
-  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 21 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21]
   ```
 
   </details>
@@ -1011,6 +1011,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-language-1076-graph"></a>
+### Allow both optional positional and optional named arguments in the same function signature.
+  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 219 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 1, 1, 2, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-69529-graph"></a>
 ### [web] Scroll is not recognized by the browser
   <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 179 total reactions, 16 recent reactions</sub><br />
@@ -1159,23 +1176,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 2, 0, 2, 1, 1, 1, 1, 0, 0, 2, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1076-graph"></a>
-### Allow both optional positional and optional named arguments in the same function signature.
-  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 217 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 1, 1, 2, 0, 1, 1, 2, 1]
   ```
 
   </details>
@@ -2405,9 +2405,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-122146-graph"></a>
-### ExpansionTile should have a sliver equivalent
-  <sub>[flutter/flutter#122146](https://github.com/flutter/flutter/issues/122146) &mdash; 24 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-113494-graph"></a>
+### `ListView` has one frame jank when releasing finger (PointerUpEvent), no matter how lightweight the content is
+  <sub>[flutter/flutter#113494](https://github.com/flutter/flutter/issues/113494) &mdash; 24 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2416,7 +2416,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Aug 5, Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]
+    bar [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
