@@ -18,8 +18,8 @@ Add support for custom cluster icon in Google Map Flutter [flutter/flutter#15309
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 659 | [35](#flutter-flutter-30701-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 35 | [35](#flutter-flutter-156111-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 53 | [33](#dart-lang-sdk-55281-graph)
+Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 419 | [30](#flutter-flutter-31713-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1657 | [29](#dart-lang-language-1482-graph)
-Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 418 | [29](#flutter-flutter-31713-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 318 | [29](#flutter-flutter-145954-graph)
 
 ## Trending issues by team
@@ -144,9 +144,9 @@ Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [f
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2008 | [21](#flutter-flutter-14330-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 180 | [18](#flutter-flutter-61229-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 32 | [13](#flutter-flutter-106277-graph)
+Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 90 | [11](#flutter-flutter-10437-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 335 | [10](#flutter-flutter-128313-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 194 | [10](#flutter-flutter-11754-graph)
-Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 89 | [10](#flutter-flutter-10437-graph)
 How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 53 | [9](#flutter-flutter-50890-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 165 | [8](#flutter-flutter-14288-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 152 | [8](#flutter-flutter-25841-graph)
@@ -230,7 +230,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 418 | [29](#flutter-flutter-31713-graph)
+Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 419 | [30](#flutter-flutter-31713-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 186 | [15](#flutter-flutter-41980-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 316 | [14](#flutter-flutter-37597-graph)
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 37 | [11](#flutter-flutter-134346-graph)
@@ -518,6 +518,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
+<a name="flutter-flutter-31713-graph"></a>
+### Implement PlatformView support on Windows
+  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 419 total reactions, 30 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [5, 3, 1, 0, 3, 9, 1, 0, 0, 2, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-1482-graph"></a>
 ### Static Metaprogramming
   <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1657 total reactions, 29 recent reactions</sub><br />
@@ -530,23 +547,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 0, 5, 2, 3, 2, 1, 0, 0, 1, 11]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-31713-graph"></a>
-### Implement PlatformView support on Windows
-  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 418 total reactions, 29 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [5, 3, 1, 0, 3, 9, 1, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1419,6 +1419,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
+<a name="flutter-flutter-10437-graph"></a>
+### Do plugins need to know about hot reload and hot restart?
+  <sub>[flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) &mdash; 90 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-64491-graph"></a>
 ### Colorized console output does not work in iOS builds but works for Android builds
   <sub>[flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) &mdash; 66 total reactions, 11 recent reactions</sub><br />
@@ -1499,23 +1516,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 2, 0, 0, 3, 0, 0, 0, 0, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-10437-graph"></a>
-### Do plugins need to know about hot reload and hot restart?
-  <sub>[flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) &mdash; 89 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 12, Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0]
   ```
 
   </details>
