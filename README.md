@@ -7,8 +7,8 @@ Issues that received the most reactions from 2024-08-19 to 2024-11-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 62 | [62](#flutter-flutter-158050-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1167 | [48](#flutter-flutter-53041-graph)
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1164 | [45](#flutter-flutter-53041-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1104 | [45](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 998 | [45](#dart-lang-language-357-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 103 | [43](#flutter-flutter-142845-graph)
@@ -166,7 +166,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 323 | [18](#flutter-flutter-110431-graph)
 Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 67 | [12](#flutter-flutter-64491-graph)
-Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 270 | [9](#flutter-flutter-28901-graph)
+Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 271 | [10](#flutter-flutter-28901-graph)
 [in_app_purchase] Use StoreKit 2 APIs [flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) | 39 | [8](#flutter-flutter-116383-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 62 | [6](#flutter-flutter-106612-graph)
 TextField with TextInputType.number and AutofillHints.creditCardNumber shows the wrong keyboard [flutter/flutter#104604](https://github.com/flutter/flutter/issues/104604) | 19 | [6](#flutter-flutter-104604-graph)
@@ -188,7 +188,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 36 | [36](#flutter-flutter-156111-graph)
-[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 28 | [13](#flutter-flutter-145961-graph)
+[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 29 | [14](#flutter-flutter-145961-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 369 | [7](#flutter-flutter-83596-graph)
 [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 41 | [7](#flutter-flutter-95403-graph)
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [6](#flutter-flutter-109813-graph)
@@ -199,8 +199,8 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 Make it easier to upload Android native debug symbols for release builds [flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) | 247 | 4
 Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/flutter/flutter/issues/86248) | 46 | 4
 Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830) | 116 | 3
-[shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 54 | 3
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 54 | 3
+[shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 54 | 3
 
 #### Web
 
@@ -208,11 +208,11 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1164 | [45](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1167 | [48](#flutter-flutter-53041-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 58 | [37](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 318 | [27](#flutter-flutter-145954-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 27 | [27](#flutter-flutter-156910-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 813 | [21](#flutter-flutter-46789-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 816 | [24](#flutter-flutter-46789-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [16](#flutter-flutter-104509-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [14](#flutter-flutter-69529-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 74 | [13](#flutter-flutter-124205-graph)
@@ -252,11 +252,11 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1164 | [45](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1167 | [48](#flutter-flutter-53041-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 58 | [37](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 318 | [27](#flutter-flutter-145954-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 27 | [27](#flutter-flutter-156910-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 813 | [21](#flutter-flutter-46789-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 816 | [24](#flutter-flutter-46789-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 78 | [16](#flutter-flutter-104509-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [14](#flutter-flutter-69529-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 74 | [13](#flutter-flutter-124205-graph)
@@ -331,6 +331,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-53041-graph"></a>
+### Enable "hot reload" (not just "hot restart") for Flutter Web
+  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1167 total reactions, 48 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 1, 7, 4, 5, 5, 1, 5, 3, 1, 4, 1, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-154491-graph"></a>
 ### Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd
   <sub>[flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) &mdash; 46 total reactions, 46 recent reactions</sub><br />
@@ -343,23 +360,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions"
     bar [0, 0, 46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-53041-graph"></a>
-### Enable "hot reload" (not just "hot restart") for Flutter Web
-  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1164 total reactions, 45 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 1, 7, 4, 5, 5, 1, 5, 3, 1, 4, 1, 1, 0]
   ```
 
   </details>
@@ -637,6 +637,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-46789-graph"></a>
+### Improve the indexability (SEO) of Flutter apps on the web 
+  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 816 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 1, 0, 0, 6, 0, 4, 1, 0, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-31713-graph"></a>
 ### Implement PlatformView support on Windows
   <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 419 total reactions, 24 recent reactions</sub><br />
@@ -751,23 +768,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [1, 2, 1, 1, 1, 0, 2, 0, 0, 0, 2, 7, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-46789-graph"></a>
-### Improve the indexability (SEO) of Flutter apps on the web 
-  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 813 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 0, 0, 6, 0, 4, 1, 0, 2, 0]
   ```
 
   </details>
@@ -1113,6 +1113,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-145961-graph"></a>
+### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
+  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 29 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 2, 0, 3, 1, 2, 1, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-153672-graph"></a>
 ### App Exits Instead of Navigating Back with StatefullShellRoute in go_router on Android (flutter >= 3.24)
   <sub>[flutter/flutter#153672](https://github.com/flutter/flutter/issues/153672) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1210,23 +1227,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [2, 1, 1, 2, 0, 0, 1, 1, 0, 3, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145961-graph"></a>
-### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
-  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 28 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 2, 0, 3, 1, 2, 1, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1453,6 +1453,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-28901-graph"></a>
+### Flutter support for Apple Watch
+  <sub>[flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) &mdash; 271 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 4, 0, 0, 0, 1, 2, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-11754-graph"></a>
 ### Allow release mode builds to run on simulators
   <sub>[flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) &mdash; 194 total reactions, 10 recent reactions</sub><br />
@@ -1550,23 +1567,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-28901-graph"></a>
-### Flutter support for Apple Watch
-  <sub>[flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) &mdash; 270 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 4, 0, 0, 0, 1, 2, 0, 0, 1, 0]
   ```
 
   </details>
