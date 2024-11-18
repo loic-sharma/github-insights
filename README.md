@@ -6,14 +6,14 @@ Issues that received the most reactions from 2024-08-19 to 2024-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 62 | [62](#flutter-flutter-158050-graph)
+Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 63 | [63](#flutter-flutter-158050-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1167 | [48](#flutter-flutter-53041-graph)
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1104 | [45](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 998 | [45](#dart-lang-language-357-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 104 | [44](#flutter-flutter-142845-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 58 | [37](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 59 | [38](#flutter-flutter-149031-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 50 | [36](#flutter-flutter-153092-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 36 | [36](#flutter-flutter-156111-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 56 | [34](#dart-lang-sdk-55281-graph)
@@ -121,7 +121,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 162 | [31](#flutter-flutter-139289-graph)
 [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format [flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) | 18 | [18](#flutter-flutter-155817-graph)
-[Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 104 | [12](#flutter-flutter-107157-graph)
+[Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 105 | [13](#flutter-flutter-107157-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 141 | [8](#flutter-flutter-46979-graph)
 [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 28 | [8](#flutter-flutter-95472-graph)
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 59 | [7](#flutter-flutter-129757-graph)
@@ -194,13 +194,13 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 Flutter app flagged for missing accessibility content labels by Google Play Store [flutter/flutter#109813](https://github.com/flutter/flutter/issues/109813) | 61 | [6](#flutter-flutter-109813-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 36 | [6](#flutter-flutter-91247-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 30 | [6](#flutter-flutter-104268-graph)
+Make it easier to upload Android native debug symbols for release builds [flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) | 248 | [5](#flutter-flutter-60240-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 26 | [5](#flutter-flutter-139427-graph)
 [FATAL:flutter/shell/platform/android/platform_view_android_jni_impl.cc(1233)] Check failed: fml::jni::CheckException(env).  [flutter/flutter#125090](https://github.com/flutter/flutter/issues/125090) | 20 | [5](#flutter-flutter-125090-graph)
-Make it easier to upload Android native debug symbols for release builds [flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) | 247 | 4
 Edge-To-Edge by default on android [flutter/flutter#86248](https://github.com/flutter/flutter/issues/86248) | 46 | 4
 Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830) | 116 | 3
-"Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 54 | 3
 [shared_preferences] Allow specifying the preferences store name on Android [flutter/flutter#14337](https://github.com/flutter/flutter/issues/14337) | 54 | 3
+"Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 54 | 3
 
 #### Web
 
@@ -209,7 +209,7 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1167 | [48](#flutter-flutter-53041-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 58 | [37](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 59 | [38](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 318 | [27](#flutter-flutter-145954-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 27 | [27](#flutter-flutter-156910-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 816 | [24](#flutter-flutter-46789-graph)
@@ -253,7 +253,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1167 | [48](#flutter-flutter-53041-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 58 | [37](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 59 | [38](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 318 | [27](#flutter-flutter-145954-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 27 | [27](#flutter-flutter-156910-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 816 | [24](#flutter-flutter-46789-graph)
@@ -316,7 +316,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-158050-graph"></a>
 ### Stop pinning dependencies
-  <sub>[flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) &mdash; 62 total reactions, 62 recent reactions</sub><br />
+  <sub>[flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) &mdash; 63 total reactions, 63 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 62, 62, 62]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 62, 62, 63]
   ```
 
   </details>
@@ -435,7 +435,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-149031-graph"></a>
 ### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 58 total reactions, 37 recent reactions</sub><br />
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 59 total reactions, 38 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1198,6 +1198,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-107157-graph"></a>
+### [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language
+  <sub>[flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) &mdash; 105 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 3, 1, 0, 1, 0, 1, 3, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-124205-graph"></a>
 ### Keyboard issue on mobile Web platform
   <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 74 total reactions, 13 recent reactions</sub><br />
@@ -1278,23 +1295,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [2, 5, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-107157-graph"></a>
-### [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language
-  <sub>[flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) &mdash; 104 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 3, 1, 0, 1, 0, 1, 3, 0, 0, 0]
   ```
 
   </details>
@@ -2332,6 +2332,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-60240-graph"></a>
+### Make it easier to upload Android native debug symbols for release builds
+  <sub>[flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) &mdash; 248 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
