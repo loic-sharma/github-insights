@@ -14,8 +14,8 @@ Allow for shorter dot syntax to access enum values [dart-lang/language#357](http
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 104 | [44](#flutter-flutter-142845-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 59 | [38](#flutter-flutter-149031-graph)
+Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 38 | [38](#flutter-flutter-156111-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 51 | [37](#flutter-flutter-153092-graph)
-Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 37 | [37](#flutter-flutter-156111-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 58 | [36](#dart-lang-sdk-55281-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1659 | [31](#dart-lang-language-1482-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 660 | [31](#flutter-flutter-30701-graph)
@@ -46,7 +46,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 104 | [8](#flutter-flutter-18636-graph)
 [Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 105 | [7](#flutter-flutter-105672-graph)
 SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/issues/97544) | 55 | [7](#flutter-flutter-97544-graph)
-Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 287 | [6](#flutter-flutter-51752-graph)
+[Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 39 | [7](#flutter-flutter-101227-graph)
 
 #### Design
 
@@ -104,12 +104,12 @@ App Exits Instead of Navigating Back with StatefullShellRoute in go_router on An
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 41 | [13](#flutter-flutter-140586-graph)
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 54 | [7](#flutter-flutter-121929-graph)
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 87 | [6](#flutter-flutter-102408-graph)
-[go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 41 | [5](#flutter-flutter-114131-graph)
+[go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 42 | [6](#flutter-flutter-114131-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 49 | 4
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 34 | 4
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 32 | 4
-[go_router] Come up with a better way to get the current location without context [flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) | 25 | 4
 [go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 25 | 4
+[go_router] Come up with a better way to get the current location without context [flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) | 25 | 4
 [go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 25 | 4
 [go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
 
@@ -187,7 +187,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 Issue | Total reactions | Recent reactions
 -- | -- | --
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
-Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 37 | [37](#flutter-flutter-156111-graph)
+Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 38 | [38](#flutter-flutter-156111-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 29 | [14](#flutter-flutter-145961-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 369 | [7](#flutter-flutter-83596-graph)
 [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 41 | [7](#flutter-flutter-95403-graph)
@@ -288,7 +288,7 @@ Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-la
 Analyzer does not navigate up in the directory tree looking for closest analysis_options.yaml file [dart-lang/sdk#56552](https://github.com/dart-lang/sdk/issues/56552) | 7 | [7](#dart-lang-sdk-56552-graph)
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 54 | [6](#dart-lang-sdk-47718-graph)
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 25 | [6](#dart-lang-sdk-49900-graph)
-`dart analyze` should not spawn analyzer_plugins [dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) | 6 | [6](#dart-lang-sdk-56667-graph)
+Crash when hot reloading app [dart-lang/sdk#56583](https://github.com/dart-lang/sdk/issues/56583) | 6 | [6](#dart-lang-sdk-56583-graph)
 
 ### Dart language
 
@@ -450,6 +450,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-156111-graph"></a>
+### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
+  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 38 total reactions, 38 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 18, 23, 29, 30, 35, 35, 38]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-153092-graph"></a>
 ### Add support for custom cluster icon in Google Map Flutter
   <sub>[flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) &mdash; 51 total reactions, 37 recent reactions</sub><br />
@@ -462,23 +479,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [1, 3, 3, 0, 0, 0, 0, 2, 10, 5, 4, 2, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156111-graph"></a>
-### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
-  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 37 total reactions, 37 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 18, 23, 29, 30, 35, 35, 37]
   ```
 
   </details>
@@ -2099,6 +2099,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-101227-graph"></a>
+### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
+  <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 39 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56552-graph"></a>
 ### Analyzer does not navigate up in the directory tree looking for closest analysis_options.yaml file
   <sub>[dart-lang/sdk#56552](https://github.com/dart-lang/sdk/issues/56552) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -2128,23 +2145,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-51752-graph"></a>
-### Reusing state logic is either too verbose or too difficult
-  <sub>[flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) &mdash; 287 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1]
   ```
 
   </details>
@@ -2286,6 +2286,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-114131-graph"></a>
+### [go_router] choose in redirect method if `push` or `go`
+  <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 42 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-91247-graph"></a>
 ### Flutter Camera plugin camera lens change
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 36 total reactions, 6 recent reactions</sub><br />
@@ -2388,9 +2405,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56667-graph"></a>
-### `dart analyze` should not spawn analyzer_plugins
-  <sub>[dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-56583-graph"></a>
+### Crash when hot reloading app
+  <sub>[dart-lang/sdk#56583](https://github.com/dart-lang/sdk/issues/56583) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2399,7 +2416,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6]
+    bar [0, 2, 2, 4, 4, 5, 6, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2473,23 +2490,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-114131-graph"></a>
-### [go_router] choose in redirect method if `push` or `go`
-  <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 41 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-105913-graph"></a>
 ### Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes
   <sub>[flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) &mdash; 37 total reactions, 5 recent reactions</sub><br />
@@ -2507,23 +2507,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-125090-graph"></a>
-### [FATAL:flutter/shell/platform/android/platform_view_android_jni_impl.cc(1233)] Check failed: fml::jni::CheckException(env). 
-  <sub>[flutter/flutter#125090](https://github.com/flutter/flutter/issues/125090) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 2, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-150824-graph"></a>
 ### Flutter's text rendering has different letter spacing from iOS native
   <sub>[flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -2536,6 +2519,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-125090-graph"></a>
+### [FATAL:flutter/shell/platform/android/platform_view_android_jni_impl.cc(1233)] Check failed: fml::jni::CheckException(env). 
+  <sub>[flutter/flutter#125090](https://github.com/flutter/flutter/issues/125090) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 19, Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 2, 1, 0]
   ```
 
   </details>
