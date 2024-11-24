@@ -35,7 +35,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 105 | [44](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [30](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 169 | [24](#flutter-flutter-65504-graph)
-Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 219 | [22](#flutter-flutter-138614-graph)
+Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 220 | [23](#flutter-flutter-138614-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 111 | [14](#flutter-flutter-99606-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 101 | [10](#flutter-flutter-86295-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 172 | [9](#flutter-flutter-45336-graph)
@@ -108,8 +108,8 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 34 | 4
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 32 | 4
 [go_router] Come up with a better way to get the current location without context [flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) | 25 | 4
-[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 25 | 4
 [go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 25 | 4
+[go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 25 | 4
 [go_router] Add StatefulShellBranches dynamically on app runtime [flutter/flutter#130386](https://github.com/flutter/flutter/issues/130386) | 23 | 4
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 51 | 3
 
@@ -124,6 +124,7 @@ Allow to provide compile-time variables for native platforms from a file [flutte
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 105 | [12](#flutter-flutter-107157-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 141 | [8](#flutter-flutter-46979-graph)
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 59 | [6](#flutter-flutter-129757-graph)
+Let Flutter be installable via winget [flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) | 39 | [5](#flutter-flutter-57674-graph)
 Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes [flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) | 37 | [5](#flutter-flutter-105913-graph)
 Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github.com/flutter/flutter/issues/75528) | 20 | [5](#flutter-flutter-75528-graph)
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 279 | 4
@@ -133,7 +134,6 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 65 | 4
 [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 28 | 4
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 139 | 3
-Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.com/flutter/flutter/issues/59430) | 79 | 3
 
 ### Engine
 
@@ -143,7 +143,7 @@ Issue | Total reactions | Recent reactions
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2010 | [20](#flutter-flutter-14330-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 180 | [16](#flutter-flutter-61229-graph)
-Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 33 | [12](#flutter-flutter-106277-graph)
+Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 34 | [13](#flutter-flutter-106277-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 168 | [11](#flutter-flutter-14288-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 194 | [9](#flutter-flutter-11754-graph)
 How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 53 | [8](#flutter-flutter-50890-graph)
@@ -281,13 +281,13 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 162 | [17](#dart-lang-sdk-54934-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 518 | [13](#dart-lang-sdk-28617-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 13 | [13](#dart-lang-sdk-56841-graph)
-[Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 51 | [9](#dart-lang-sdk-49426-graph)
 ☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 51 | [9](#dart-lang-sdk-53875-graph)
+[Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 51 | [9](#dart-lang-sdk-49426-graph)
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 8 | [8](#dart-lang-sdk-56573-graph)
 Add Timer.pause(), Timer.resume() and Timer.restart() [dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) | 59 | [6](#dart-lang-sdk-43329-graph)
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 54 | [6](#dart-lang-sdk-47718-graph)
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 25 | [6](#dart-lang-sdk-49900-graph)
-Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
+Crash when hot reloading app [dart-lang/sdk#56583](https://github.com/dart-lang/sdk/issues/56583) | 6 | [6](#dart-lang-sdk-56583-graph)
 `dart analyze` should not spawn analyzer_plugins [dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) | 6 | [6](#dart-lang-sdk-56667-graph)
 
 ### Dart language
@@ -671,6 +671,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-138614-graph"></a>
+### Preserve WillPopScope as an alternate for PopScope
+  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 220 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 1, 2, 1, 2, 0, 0, 6, 1, 3, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4084-graph"></a>
 ### Expressions that are "as constant as possible"
   <sub>[dart-lang/language#4084](https://github.com/dart-lang/language/issues/4084) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -700,23 +717,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [3, 1, 2, 0, 0, 1, 1, 3, 1, 0, 5, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-138614-graph"></a>
-### Preserve WillPopScope as an alternate for PopScope
-  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 219 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 2, 1, 2, 0, 0, 6, 1, 3, 1, 1]
   ```
 
   </details>
@@ -1164,6 +1164,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-106277-graph"></a>
+### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
+  <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 34 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-145961-graph"></a>
 ### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
   <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 29 total reactions, 13 recent reactions</sub><br />
@@ -1181,23 +1198,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 8, 9, 10, 10, 10, 11, 12, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-154471-graph"></a>
 ### Custom font special characters not rendered correctly on Web with CanvasKit
   <sub>[flutter/flutter#154471](https://github.com/flutter/flutter/issues/154471) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1210,6 +1210,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [0, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 8, 9, 10, 10, 10, 11, 12, 13]
   ```
 
   </details>
@@ -1295,23 +1312,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 3, 1, 0, 1, 0, 1, 3, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-106277-graph"></a>
-### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
-  <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 33 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1]
   ```
 
   </details>
@@ -1521,23 +1521,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-sdk-49426-graph"></a>
-### [Feature request] Date class, without time
-  <sub>[dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) &mdash; 51 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 3, 1, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-53875-graph"></a>
 ### ☂️ Implement Workspace Feature
   <sub>[dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) &mdash; 51 total reactions, 9 recent reactions</sub><br />
@@ -1550,6 +1533,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-49426-graph"></a>
+### [Feature request] Date class, without time
+  <sub>[dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) &mdash; 51 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 1, 0, 0, 3, 1, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2065,23 +2065,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-129757-graph"></a>
-### ☂️ Native assets support
-  <sub>[flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) &mdash; 59 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-43329-graph"></a>
 ### Add Timer.pause(), Timer.resume() and Timer.restart()
   <sub>[dart-lang/sdk#43329](https://github.com/dart-lang/sdk/issues/43329) &mdash; 59 total reactions, 6 recent reactions</sub><br />
@@ -2094,6 +2077,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-129757-graph"></a>
+### ☂️ Native assets support
+  <sub>[flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) &mdash; 59 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2201,9 +2201,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56905-graph"></a>
-### Add a `dart:js_interop` API that can determine if an `Object` is a JS value 
-  <sub>[dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-56583-graph"></a>
+### Crash when hot reloading app
+  <sub>[dart-lang/sdk#56583](https://github.com/dart-lang/sdk/issues/56583) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2212,7 +2212,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6]
+    bar [2, 2, 4, 4, 5, 6, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2422,6 +2422,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-57674-graph"></a>
+### Let Flutter be installable via winget
+  <sub>[flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) &mdash; 39 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-105913-graph"></a>
 ### Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes
   <sub>[flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) &mdash; 37 total reactions, 5 recent reactions</sub><br />
@@ -2473,6 +2490,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-150824-graph"></a>
+### Flutter's text rendering has different letter spacing from iOS native
+  <sub>[flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-125090-graph"></a>
 ### [FATAL:flutter/shell/platform/android/platform_view_android_jni_impl.cc(1233)] Check failed: fml::jni::CheckException(env). 
   <sub>[flutter/flutter#125090](https://github.com/flutter/flutter/issues/125090) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -2502,23 +2536,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-150824-graph"></a>
-### Flutter's text rendering has different letter spacing from iOS native
-  <sub>[flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1]
   ```
 
   </details>
