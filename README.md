@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-08-26 to 2024-11-28.
+Issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Allow to provide compile-time variables for native platforms from a file [flutte
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-framework` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/iss
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-design` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Need a ReorderableListView.seperated constructor [flutter/flutter#76706](https:/
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`f: cupertino` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 107 | [15](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-go_router` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-tool` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Bundling assets only on a specific platform (and remove assets on another platfo
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-engine` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-ios` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Plugins could avoid warnings by installing UIApplicationDelegate methods dynamic
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-android` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-web` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-desktop` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`team-ecosystem` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`dart-lang/sdk` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add list interspersion as built in function [dart-lang/sdk#49900](https://github
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-08-26 to 2024-11-28.
+`dart-lang/language` issues that received the most reactions from 2024-08-26 to 2024-11-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
