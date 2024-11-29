@@ -142,7 +142,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2010 | [20](#flutter-flutter-14330-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 180 | [16](#flutter-flutter-61229-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 181 | [17](#flutter-flutter-61229-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 35 | [14](#flutter-flutter-106277-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 169 | [12](#flutter-flutter-14288-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 194 | [9](#flutter-flutter-11754-graph)
@@ -242,8 +242,8 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 [google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 23 | 4
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 106 | 3
 Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 56 | 3
-[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
 Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
+[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
 [video_player] add Linux support [flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) | 48 | 3
 
 ### Ecosystem
@@ -943,6 +943,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 181 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 2, 0, 1, 1, 3, 1, 2, 0, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-54934-graph"></a>
 ### Support for hot reload in DDC
   <sub>[dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) &mdash; 162 total reactions, 17 recent reactions</sub><br />
@@ -1006,23 +1023,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 4, 3, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 180 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 2, 0, 1, 1, 3, 1, 2, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2048,23 +2048,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-101227-graph"></a>
-### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
-  <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 39 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-116383-graph"></a>
 ### [in_app_purchase] Use StoreKit 2 APIs
   <sub>[flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) &mdash; 39 total reactions, 7 recent reactions</sub><br />
@@ -2077,6 +2060,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions" 0 --> 20
     bar [1, 3, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-101227-graph"></a>
+### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
+  <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 39 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]
   ```
 
   </details>
@@ -2524,6 +2524,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-150824-graph"></a>
+### Flutter's text rendering has different letter spacing from iOS native
+  <sub>[flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-75528-graph"></a>
 ### Add hot restart hooks to support dart:ffi
   <sub>[flutter/flutter#75528](https://github.com/flutter/flutter/issues/75528) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -2553,23 +2570,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 2, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-150824-graph"></a>
-### Flutter's text rendering has different letter spacing from iOS native
-  <sub>[flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 26, Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
