@@ -13,8 +13,8 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 107 | [45](#flutter-flutter-142845-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1001 | [43](#dart-lang-language-357-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 65 | [42](#dart-lang-sdk-55281-graph)
+Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 41 | [41](#flutter-flutter-159342-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 41 | [41](#flutter-flutter-156111-graph)
-Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 40 | [40](#flutter-flutter-159342-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 52 | [33](#flutter-flutter-153092-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1660 | [30](#dart-lang-language-1482-graph)
@@ -34,12 +34,12 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 107 | [45](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [30](#flutter-flutter-30701-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 169 | [24](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 170 | [25](#flutter-flutter-65504-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 220 | [22](#flutter-flutter-138614-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 112 | [16](#flutter-flutter-99606-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 26 | [11](#flutter-flutter-81005-graph)
+Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 150 | [10](#flutter-flutter-32120-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 101 | [10](#flutter-flutter-86295-graph)
-Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 149 | [9](#flutter-flutter-32120-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 172 | [8](#flutter-flutter-45336-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 107 | [8](#flutter-flutter-127409-graph)
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 104 | [8](#flutter-flutter-18636-graph)
@@ -142,7 +142,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2011 | [18](#flutter-flutter-14330-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 181 | [15](#flutter-flutter-61229-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 182 | [16](#flutter-flutter-61229-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 169 | [12](#flutter-flutter-14288-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 35 | [11](#flutter-flutter-106277-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 302 | [9](#flutter-flutter-18443-graph)
@@ -280,10 +280,10 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 165 | [16](#dart-lang-sdk-50565-graph)
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 162 | [15](#dart-lang-sdk-54934-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 13 | [13](#dart-lang-sdk-56841-graph)
-Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 519 | [11](#dart-lang-sdk-28617-graph)
+Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 520 | [12](#dart-lang-sdk-28617-graph)
 ☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 51 | [9](#dart-lang-sdk-53875-graph)
+Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 81 | [8](#dart-lang-sdk-55522-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 51 | [8](#dart-lang-sdk-49426-graph)
-Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 79 | [6](#dart-lang-sdk-55522-graph)
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 54 | [6](#dart-lang-sdk-47718-graph)
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 25 | [6](#dart-lang-sdk-49900-graph)
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
@@ -433,6 +433,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-159342-graph"></a>
+### Flutter Widget Previews Architecture
+  <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 41 total reactions, 41 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 41]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-156111-graph"></a>
 ### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
   <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 41 total reactions, 41 recent reactions</sub><br />
@@ -445,23 +462,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 18, 23, 29, 30, 35, 35, 41, 41]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-159342-graph"></a>
-### Flutter Widget Previews Architecture
-  <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 40 total reactions, 40 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 40]
   ```
 
   </details>
@@ -603,6 +603,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 170 total reactions, 25 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions" 0 --> 20
+    bar [5, 1, 2, 1, 2, 0, 1, 2, 1, 5, 1, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-139289-graph"></a>
 ### Allow to provide compile-time variables for native platforms from a file
   <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 162 total reactions, 25 recent reactions</sub><br />
@@ -649,23 +666,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions" 0 --> 20
     bar [0, 3, 9, 1, 0, 0, 2, 0, 0, 1, 0, 2, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 169 total reactions, 24 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions" 0 --> 20
-    bar [5, 1, 2, 1, 2, 0, 1, 2, 1, 5, 1, 0, 0]
   ```
 
   </details>
@@ -892,6 +892,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 182 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 2, 0, 1, 1, 3, 1, 2, 0, 1, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-50565-graph"></a>
 ### ☂️ [vm/ffi] Native assets feature
   <sub>[dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) &mdash; 165 total reactions, 16 recent reactions</sub><br />
@@ -955,23 +972,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 1, 0, 3, 0, 2, 3, 0, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 181 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 2, 0, 1, 1, 3, 1, 2, 0, 1, 0, 0, 1]
   ```
 
   </details>
@@ -1164,6 +1164,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-sdk-28617-graph"></a>
+### Allow AOT executables to be cross-compiled
+  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 520 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 2, 1, 1, 1, 2, 2, 0, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-356-graph"></a>
 ### Abstract static methods
   <sub>[dart-lang/language#356](https://github.com/dart-lang/language/issues/356) &mdash; 389 total reactions, 12 recent reactions</sub><br />
@@ -1266,23 +1283,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-sdk-28617-graph"></a>
-### Allow AOT executables to be cross-compiled
-  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 519 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 1, 1, 1, 2, 2, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
   <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 124 total reactions, 11 recent reactions</sub><br />
@@ -1363,6 +1363,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions" 0 --> 20
     bar [1, 2, 2, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-32120-graph"></a>
+### Add option to smoothly animate stepped mouse scroll deltas
+  <sub>[flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) &mdash; 150 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 2]
   ```
 
   </details>
@@ -1521,23 +1538,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-32120-graph"></a>
-### Add option to smoothly animate stepped mouse scroll deltas
-  <sub>[flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) &mdash; 149 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-53875-graph"></a>
 ### ☂️ Implement Workspace Feature
   <sub>[dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) &mdash; 51 total reactions, 9 recent reactions</sub><br />
@@ -1686,6 +1686,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-55522-graph"></a>
+### Improve VM's JSON decoder 
+  <sub>[dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) &mdash; 81 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 4]
   ```
 
   </details>
@@ -2026,23 +2043,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-55522-graph"></a>
-### Improve VM's JSON decoder 
-  <sub>[dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) &mdash; 79 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 2]
   ```
 
   </details>
