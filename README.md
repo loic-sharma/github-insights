@@ -2,15 +2,15 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-09-02 to 2024-12-02.
+Issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 64 | [64](#flutter-flutter-158050-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 112 | [50](#flutter-flutter-142845-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1171 | [49](#flutter-flutter-53041-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1111 | [46](#dart-lang-language-723-graph)
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1110 | [45](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1001 | [43](#dart-lang-language-357-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 66 | [43](#dart-lang-sdk-55281-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 43 | [43](#flutter-flutter-159342-graph)
@@ -28,7 +28,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-framework` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Reusing state logic is either too verbose or too difficult [flutter/flutter#5175
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-design` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Surrounding color leaks into widgets when BackdropFilter with ImageFilter.blur i
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`f: cupertino` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 108 | [16](#flutter-flutter-62960-graph)
@@ -87,13 +87,13 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 Add mouse cursor support to the remaining widgets [flutter/flutter#58192](https://github.com/flutter/flutter/issues/58192) | 19 | 2
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 16 | 2
 [iOS 13] navigation transition styles can now mix [flutter/flutter#33799](https://github.com/flutter/flutter/issues/33799) | 59 | 1
-Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 52 | 1
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 52 | 1
+Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 52 | 1
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 43 | 1
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-go_router` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-tool` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-engine` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Consider merging platform and UI thread [flutter/flutter#150525](https://github.
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-ios` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-android` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-web` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flut
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-desktop` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`team-ecosystem` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flut
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`dart-lang/sdk` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,17 +286,17 @@ Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sd
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 51 | [8](#dart-lang-sdk-49426-graph)
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 54 | [6](#dart-lang-sdk-47718-graph)
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 25 | [6](#dart-lang-sdk-49900-graph)
+Analyzer response to LSP requests extremely slow w/ high latency reported [dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) | 8 | [6](#dart-lang-sdk-56307-graph)
 `dart analyze` should not spawn analyzer_plugins [dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) | 6 | [6](#dart-lang-sdk-56667-graph)
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
-Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://github.com/dart-lang/sdk/issues/40198) | 73 | [5](#dart-lang-sdk-40198-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-09-02 to 2024-12-02.
+`dart-lang/language` issues that received the most reactions from 2024-09-02 to 2024-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1110 | [45](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1111 | [46](#dart-lang-language-723-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1001 | [43](#dart-lang-language-357-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1660 | [30](#dart-lang-language-1482-graph)
 Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 32 | [25](#dart-lang-language-3616-graph)
@@ -308,9 +308,9 @@ Constant function literals [dart-lang/language#1048](https://github.com/dart-lan
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 215 | [15](#dart-lang-language-2364-graph)
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 87 | [14](#dart-lang-language-3001-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1250 | [13](#dart-lang-language-69-graph)
+Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 184 | [13](#dart-lang-language-336-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 389 | [12](#dart-lang-language-356-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 255 | [12](#dart-lang-language-649-graph)
-It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 237 | [12](#dart-lang-language-333-graph)
 
 ## Graphs
 
@@ -365,6 +365,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1111 total reactions, 46 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 7, 6, 5, 2, 1, 0, 0, 7, 2, 2, 3, 3, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-154491-graph"></a>
 ### Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd
   <sub>[flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) &mdash; 46 total reactions, 46 recent reactions</sub><br />
@@ -377,23 +394,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions"
     bar [46, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1110 total reactions, 45 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 7, 6, 5, 2, 1, 0, 0, 7, 2, 2, 3, 3, 0]
   ```
 
   </details>
@@ -1113,6 +1113,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-language-336-graph"></a>
+### Static nested classes
+  <sub>[dart-lang/language#336](https://github.com/dart-lang/language/issues/336) &mdash; 184 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 0, 0, 5, 0, 0, 1, 0, 0, 0, 0, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-64491-graph"></a>
 ### Colorized console output does not work in iOS builds but works for Android builds
   <sub>[flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) &mdash; 69 total reactions, 13 recent reactions</sub><br />
@@ -1227,23 +1244,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 0, 3, 0, 0, 2, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-333-graph"></a>
-### It is necessary to implement threads
-  <sub>[dart-lang/language#333](https://github.com/dart-lang/language/issues/333) &mdash; 237 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 2, 2, 1, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2201,6 +2201,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56307-graph"></a>
+### Analyzer response to LSP requests extremely slow w/ high latency reported
+  <sub>[dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) &mdash; 8 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 2, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56667-graph"></a>
 ### `dart analyze` should not spawn analyzer_plugins
   <sub>[dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2315,23 +2332,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-40198-graph"></a>
-### Support async expression evaluation in debuggers
-  <sub>[dart-lang/sdk#40198](https://github.com/dart-lang/sdk/issues/40198) &mdash; 73 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
