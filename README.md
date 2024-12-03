@@ -19,8 +19,8 @@ GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERRO
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 52 | [33](#flutter-flutter-153092-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1660 | [30](#dart-lang-language-1482-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [30](#flutter-flutter-30701-graph)
+☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 61 | [29](#dart-lang-sdk-53402-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 60 | [28](#flutter-flutter-149031-graph)
 
 ## Trending issues by team
 
@@ -68,7 +68,7 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 77 | 4
 Flutter slider should have the feature to show value indicator all the time, not just while gesturing [flutter/flutter#34704](https://github.com/flutter/flutter/issues/34704) | 59 | 4
 Support for M3 Docked `DatePicker` [flutter/flutter#114088](https://github.com/flutter/flutter/issues/114088) | 28 | 4
-Surrounding color leaks into widgets when BackdropFilter with ImageFilter.blur is applied [flutter/flutter#99691](https://github.com/flutter/flutter/issues/99691) | 18 | 4
+ Save password prompt dismiss is pushing UI up and down [flutter/flutter#112281](https://github.com/flutter/flutter/issues/112281) | 22 | 4
 
 #### Cupertino
 
@@ -101,8 +101,8 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 123 | [17](#flutter-flutter-112196-graph)
 [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869) | 60 | [13](#flutter-flutter-140869-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 41 | [10](#flutter-flutter-140586-graph)
+[go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 46 | [9](#flutter-flutter-114131-graph)
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 89 | [8](#flutter-flutter-102408-graph)
-[go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 44 | [7](#flutter-flutter-114131-graph)
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 55 | [6](#flutter-flutter-121929-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 50 | [5](#flutter-flutter-122258-graph)
 [go_router] Come up with a better way to get the current location without context [flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) | 25 | 4
@@ -275,7 +275,7 @@ Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flut
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 66 | [43](#dart-lang-sdk-55281-graph)
-☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 60 | [28](#dart-lang-sdk-53402-graph)
+☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 61 | [29](#dart-lang-sdk-53402-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 20 | [20](#dart-lang-sdk-56863-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 165 | [16](#dart-lang-sdk-50565-graph)
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 162 | [15](#dart-lang-sdk-54934-graph)
@@ -287,8 +287,8 @@ Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sd
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 26 | [7](#dart-lang-sdk-49900-graph)
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 54 | [6](#dart-lang-sdk-47718-graph)
 Analyzer response to LSP requests extremely slow w/ high latency reported [dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) | 8 | [6](#dart-lang-sdk-56307-graph)
-`dart analyze` should not spawn analyzer_plugins [dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) | 6 | [6](#dart-lang-sdk-56667-graph)
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
+`dart analyze` should not spawn analyzer_plugins [dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) | 6 | [6](#dart-lang-sdk-56667-graph)
 
 ### Dart language
 
@@ -535,6 +535,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-sdk-53402-graph"></a>
+### ☂️ New analyzer plugin system
+  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 61 total reactions, 29 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 3, 0, 1, 0, 0, 1, 6, 3, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-156910-graph"></a>
 ### [web] The future of `flutter_service_worker.js`
   <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 29 total reactions, 29 recent reactions</sub><br />
@@ -564,23 +581,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions" 0 --> 20
     bar [2, 3, 1, 4, 1, 2, 2, 3, 1, 1, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-53402-graph"></a>
-### ☂️ New analyzer plugin system
-  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 60 total reactions, 28 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 0, 1, 0, 0, 1, 6, 3, 0, 1]
   ```
 
   </details>
@@ -1589,6 +1589,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-114131-graph"></a>
+### [go_router] choose in redirect method if `push` or `go`
+  <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 46 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 3, 2, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-47600-graph"></a>
 ### Server-side rendering for Flutter web
   <sub>[flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) &mdash; 641 total reactions, 8 recent reactions</sub><br />
@@ -1929,23 +1946,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-114131-graph"></a>
-### [go_router] choose in redirect method if `push` or `go`
-  <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 44 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 3, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-116383-graph"></a>
 ### [in_app_purchase] Use StoreKit 2 APIs
   <sub>[flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) &mdash; 40 total reactions, 7 recent reactions</sub><br />
@@ -2218,23 +2218,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56667-graph"></a>
-### `dart analyze` should not spawn analyzer_plugins
-  <sub>[dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56905-graph"></a>
 ### Add a `dart:js_interop` API that can determine if an `Object` is a JS value 
   <sub>[dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2247,6 +2230,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56667-graph"></a>
+### `dart analyze` should not spawn analyzer_plugins
+  <sub>[dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6]
   ```
 
   </details>
