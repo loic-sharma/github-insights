@@ -189,7 +189,7 @@ Issue | Total reactions | Recent reactions
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 42 | [42](#flutter-flutter-156111-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 32 | [16](#flutter-flutter-145961-graph)
-[Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 43 | [9](#flutter-flutter-95403-graph)
+[Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 44 | [10](#flutter-flutter-95403-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 30 | [8](#flutter-flutter-139427-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 37 | [7](#flutter-flutter-91247-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 30 | [6](#flutter-flutter-104268-graph)
@@ -281,7 +281,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 162 | [15](#dart-lang-sdk-54934-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 13 | [13](#dart-lang-sdk-56841-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 520 | [12](#dart-lang-sdk-28617-graph)
-☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 51 | [9](#dart-lang-sdk-53875-graph)
+☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 53 | [11](#dart-lang-sdk-53875-graph)
 Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 81 | [8](#dart-lang-sdk-55522-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 51 | [8](#dart-lang-sdk-49426-graph)
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 26 | [7](#dart-lang-sdk-49900-graph)
@@ -1351,6 +1351,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
+<a name="dart-lang-sdk-53875-graph"></a>
+### ☂️ Implement Workspace Feature
+  <sub>[dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) &mdash; 53 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-134346-graph"></a>
 ### Make Windows plugin APIs thread-safe
   <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 39 total reactions, 11 recent reactions</sub><br />
@@ -1465,6 +1482,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 3, 3, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-95403-graph"></a>
+### [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar
+  <sub>[flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) &mdash; 44 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 2]
   ```
 
   </details>
@@ -1623,23 +1657,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-53875-graph"></a>
-### ☂️ Implement Workspace Feature
-  <sub>[dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) &mdash; 51 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-114131-graph"></a>
 ### [go_router] choose in redirect method if `push` or `go`
   <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 46 total reactions, 9 recent reactions</sub><br />
@@ -1652,23 +1669,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 3, 2, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-95403-graph"></a>
-### [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar
-  <sub>[flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) &mdash; 43 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 2, Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 1]
   ```
 
   </details>
