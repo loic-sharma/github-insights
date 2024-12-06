@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-09-02 to 2024-12-05.
+Issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-framework` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-design` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support for M3 Docked `DatePicker` [flutter/flutter#114088](https://github.com/f
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`f: cupertino` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 108 | [16](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-go_router` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-tool` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-engine` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Color term for "alpha" and "opacity" is ambiguous, also deprecation seems odd [flutter/flutter#154491](https://github.com/flutter/flutter/issues/154491) | 46 | [46](#flutter-flutter-154491-graph)
@@ -160,7 +160,7 @@ Consider merging platform and UI thread [flutter/flutter#150525](https://github.
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-ios` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Plugins could avoid warnings by installing UIApplicationDelegate methods dynamic
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-android` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-web` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flut
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-desktop` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`team-ecosystem` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flut
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`dart-lang/sdk` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [da
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-09-02 to 2024-12-05.
+`dart-lang/language` issues that received the most reactions from 2024-09-02 to 2024-12-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
