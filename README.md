@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-09-09 to 2024-12-07.
+Issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -19,8 +19,8 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 61 | [29](#dart-lang-sdk-53402-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 52 | [29](#flutter-flutter-153092-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 822 | [28](#flutter-flutter-46789-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [27](#flutter-flutter-30701-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 61 | [27](#flutter-flutter-149031-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-framework` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/iss
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-design` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Surrounding color leaks into widgets when BackdropFilter with ImageFilter.blur i
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`f: cupertino` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 109 | [16](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ CupertinoPageRoute. Left to Right Animation Transition support ? [flutter/flutte
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-go_router` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-tool` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-engine` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2011 | [17](#flutter-flutter-14330-graph)
@@ -160,7 +160,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-ios` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Plugins could avoid warnings by installing UIApplicationDelegate methods dynamic
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-android` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,14 +204,14 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-web` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1179 | [49](#flutter-flutter-53041-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 822 | [28](#flutter-flutter-46789-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 61 | [27](#flutter-flutter-149031-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 820 | [26](#flutter-flutter-46789-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 320 | [18](#flutter-flutter-145954-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 80 | [11](#flutter-flutter-104509-graph)
@@ -226,7 +226,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-desktop` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,14 +248,14 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`team-ecosystem` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1179 | [49](#flutter-flutter-53041-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 822 | [28](#flutter-flutter-46789-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 61 | [27](#flutter-flutter-149031-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 820 | [26](#flutter-flutter-46789-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 320 | [18](#flutter-flutter-145954-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 80 | [11](#flutter-flutter-104509-graph)
@@ -270,7 +270,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`dart-lang/sdk` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Analyzer does not navigate up in the directory tree looking for closest analysis
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-09-09 to 2024-12-07.
+`dart-lang/language` issues that received the most reactions from 2024-09-09 to 2024-12-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -535,6 +535,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-46789-graph"></a>
+### Improve the indexability (SEO) of Flutter apps on the web 
+  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 822 total reactions, 28 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 6, 0, 4, 1, 0, 2, 3, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 661 total reactions, 27 recent reactions</sub><br />
@@ -564,23 +581,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions" 0 --> 20
     bar [3, 1, 4, 1, 2, 2, 3, 1, 1, 0, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-46789-graph"></a>
-### Improve the indexability (SEO) of Flutter apps on the web 
-  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 820 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 6, 0, 4, 1, 0, 2, 3, 1, 0]
   ```
 
   </details>
