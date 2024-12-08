@@ -85,8 +85,8 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Add mouse cursor support to the remaining widgets [flutter/flutter#58192](https://github.com/flutter/flutter/issues/58192) | 19 | 2
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 16 | 2
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 54 | 1
-Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 52 | 1
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 52 | 1
+Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 52 | 1
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 43 | 1
 Support search box inside large title nav bar [flutter/flutter#18103](https://github.com/flutter/flutter/issues/18103) | 40 | 1
 CupertinoPageRoute. Left to Right Animation Transition support ? [flutter/flutter#49266](https://github.com/flutter/flutter/issues/49266) | 14 | 1
@@ -218,8 +218,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [10](#flutter-flutter-58498-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [9](#flutter-flutter-69529-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 641 | [8](#flutter-flutter-47600-graph)
+Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 36 | [8](#flutter-flutter-141371-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 67 | [7](#flutter-flutter-124334-graph)
-Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 35 | [7](#flutter-flutter-141371-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 202 | [5](#flutter-flutter-55324-graph)
 Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 45 | [5](#flutter-flutter-93404-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 26 | [5](#flutter-flutter-152588-graph)
@@ -241,8 +241,8 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 194 | 4
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 130 | 3
 Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 56 | 3
-[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
 Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
+[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 42 | 3
 [google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 23 | 3
 
@@ -262,8 +262,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [10](#flutter-flutter-58498-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [9](#flutter-flutter-69529-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 641 | [8](#flutter-flutter-47600-graph)
+Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 36 | [8](#flutter-flutter-141371-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 67 | [7](#flutter-flutter-124334-graph)
-Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 35 | [7](#flutter-flutter-141371-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 202 | [5](#flutter-flutter-55324-graph)
 Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 45 | [5](#flutter-flutter-93404-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 26 | [5](#flutter-flutter-152588-graph)
@@ -1742,6 +1742,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-141371-graph"></a>
+### Web: include different files depending on the flavor
+  <sub>[flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) &mdash; 36 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-139427-graph"></a>
 ### Use the default NDK version from AGP
   <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 30 total reactions, 8 recent reactions</sub><br />
@@ -1975,23 +1992,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-141371-graph"></a>
-### Web: include different files depending on the flavor
-  <sub>[flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) &mdash; 35 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1]
   ```
 
   </details>
