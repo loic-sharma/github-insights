@@ -6,21 +6,21 @@ Issues that received the most reactions from 2024-09-09 to 2024-12-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 64 | [64](#flutter-flutter-158050-graph)
+Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 65 | [65](#flutter-flutter-158050-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 118 | [51](#flutter-flutter-142845-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1180 | [50](#flutter-flutter-53041-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 117 | [50](#flutter-flutter-142845-graph)
+Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 50 | [50](#flutter-flutter-159342-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1009 | [47](#dart-lang-language-357-graph)
-Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 46 | [46](#flutter-flutter-159342-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1112 | [45](#dart-lang-language-723-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 69 | [44](#dart-lang-sdk-55281-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 42 | [42](#flutter-flutter-156111-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1661 | [30](#dart-lang-language-1482-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 61 | [29](#dart-lang-sdk-53402-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 52 | [29](#flutter-flutter-153092-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 822 | [28](#flutter-flutter-46789-graph)
-Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [27](#flutter-flutter-30701-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 62 | [28](#flutter-flutter-149031-graph)
 
 ## Trending issues by team
 
@@ -32,9 +32,9 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 117 | [50](#flutter-flutter-142845-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 118 | [51](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [27](#flutter-flutter-30701-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 171 | [21](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 172 | [22](#flutter-flutter-65504-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 220 | [20](#flutter-flutter-138614-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 114 | [17](#flutter-flutter-99606-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 31 | [16](#flutter-flutter-81005-graph)
@@ -64,11 +64,11 @@ Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 257 | [8](#flutter-flutter-18345-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 111 | [8](#flutter-flutter-102560-graph)
 Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 91 | [5](#flutter-flutter-116526-graph)
+Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 79 | [5](#flutter-flutter-48381-graph)
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 148 | 4
 Flutter slider should have the feature to show value indicator all the time, not just while gesturing [flutter/flutter#34704](https://github.com/flutter/flutter/issues/34704) | 59 | 4
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 36 | 4
 Support for M3 Docked `DatePicker` [flutter/flutter#114088](https://github.com/flutter/flutter/issues/114088) | 28 | 4
- Save password prompt dismiss is pushing UI up and down [flutter/flutter#112281](https://github.com/flutter/flutter/issues/112281) | 22 | 4
 
 #### Cupertino
 
@@ -85,8 +85,8 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Add mouse cursor support to the remaining widgets [flutter/flutter#58192](https://github.com/flutter/flutter/issues/58192) | 19 | 2
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 16 | 2
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 54 | 1
-Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 52 | 1
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 52 | 1
+Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 52 | 1
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 43 | 1
 Support search box inside large title nav bar [flutter/flutter#18103](https://github.com/flutter/flutter/issues/18103) | 40 | 1
 CupertinoPageRoute. Left to Right Animation Transition support ? [flutter/flutter#49266](https://github.com/flutter/flutter/issues/49266) | 14 | 1
@@ -209,17 +209,17 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1180 | [50](#flutter-flutter-53041-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 822 | [28](#flutter-flutter-46789-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 61 | [27](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 62 | [28](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 321 | [19](#flutter-flutter-145954-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 80 | [11](#flutter-flutter-104509-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [10](#flutter-flutter-58498-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 642 | [9](#flutter-flutter-47600-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [9](#flutter-flutter-69529-graph)
+WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 68 | [8](#flutter-flutter-124334-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 36 | [8](#flutter-flutter-141371-graph)
-WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 67 | [7](#flutter-flutter-124334-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 202 | [5](#flutter-flutter-55324-graph)
 Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 45 | [5](#flutter-flutter-93404-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 26 | [5](#flutter-flutter-152588-graph)
@@ -253,17 +253,17 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1180 | [50](#flutter-flutter-53041-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 822 | [28](#flutter-flutter-46789-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 61 | [27](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 62 | [28](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 321 | [19](#flutter-flutter-145954-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 80 | [11](#flutter-flutter-104509-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [10](#flutter-flutter-58498-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 642 | [9](#flutter-flutter-47600-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [9](#flutter-flutter-69529-graph)
+WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 68 | [8](#flutter-flutter-124334-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 36 | [8](#flutter-flutter-141371-graph)
-WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 67 | [7](#flutter-flutter-124334-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 202 | [5](#flutter-flutter-55324-graph)
 Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 45 | [5](#flutter-flutter-93404-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 26 | [5](#flutter-flutter-152588-graph)
@@ -303,9 +303,9 @@ Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-l
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2104 | [21](#dart-lang-language-314-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 225 | [17](#dart-lang-language-524-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 222 | [16](#dart-lang-language-1076-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 216 | [16](#dart-lang-language-2364-graph)
+Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 90 | [16](#dart-lang-language-3001-graph)
 Constant function literals [dart-lang/language#1048](https://github.com/dart-lang/language/issues/1048) | 300 | [15](#dart-lang-language-1048-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 215 | [15](#dart-lang-language-2364-graph)
-Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 89 | [15](#dart-lang-language-3001-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1250 | [13](#dart-lang-language-69-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 256 | [12](#dart-lang-language-649-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 519 | [11](#dart-lang-language-83-graph)
@@ -316,7 +316,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-158050-graph"></a>
 ### Stop pinning dependencies
-  <sub>[flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) &mdash; 64 total reactions, 64 recent reactions</sub><br />
+  <sub>[flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) &mdash; 65 total reactions, 65 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,24 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 62, 62, 63, 64, 64, 64]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 62, 62, 63, 64, 64, 65]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-142845-graph"></a>
+### ☂️ Multi View for Windows/MacOS
+  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 118 total reactions, 51 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 4, 4, 2, 0, 2, 9, 5, 2, 1, 6, 1, 0]
   ```
 
   </details>
@@ -348,9 +365,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-142845-graph"></a>
-### ☂️ Multi View for Windows/MacOS
-  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 117 total reactions, 50 recent reactions</sub><br />
+<a name="flutter-flutter-159342-graph"></a>
+### Flutter Widget Previews Architecture
+  <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 50 total reactions, 50 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,8 +375,8 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   ```mermaid
   xychart-beta
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 4, 4, 2, 0, 2, 9, 5, 2, 1, 6, 1, 0]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 41, 45, 50]
   ```
 
   </details>
@@ -377,23 +394,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [2, 5, 2, 10, 2, 0, 4, 1, 5, 0, 0, 3, 8, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-159342-graph"></a>
-### Flutter Widget Previews Architecture
-  <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 46 total reactions, 46 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 41, 45, 46]
   ```
 
   </details>
@@ -467,6 +467,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-46789-graph"></a>
+### Improve the indexability (SEO) of Flutter apps on the web 
+  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 826 total reactions, 32 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 6, 0, 4, 1, 0, 2, 3, 1, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-1482-graph"></a>
 ### Static Metaprogramming
   <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1661 total reactions, 30 recent reactions</sub><br />
@@ -535,9 +552,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-46789-graph"></a>
-### Improve the indexability (SEO) of Flutter apps on the web 
-  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 822 total reactions, 28 recent reactions</sub><br />
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 62 total reactions, 28 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -546,7 +563,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 6, 0, 4, 1, 0, 2, 3, 1, 2, 0]
+    bar [3, 1, 4, 1, 2, 2, 3, 1, 1, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -564,23 +581,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 5, 0, 3, 6, 1, 3, 1, 1, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 61 total reactions, 27 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 1, 4, 1, 2, 2, 3, 1, 1, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -654,6 +654,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 172 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 1, 2, 0, 1, 2, 1, 5, 1, 0, 1, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
   <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2104 total reactions, 21 recent reactions</sub><br />
@@ -666,23 +683,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [3, 0, 2, 1, 0, 3, 0, 3, 1, 0, 0, 0, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 171 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 1, 2, 0, 1, 2, 1, 5, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -858,6 +858,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-language-2364-graph"></a>
+### Primary constructor on classes
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 216 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 1, 0, 3, 0, 2, 3, 0, 0, 3, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-62960-graph"></a>
 ### [proposal] Provide a way to close a specific dialog
   <sub>[flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) &mdash; 109 total reactions, 16 recent reactions</sub><br />
@@ -870,6 +887,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 1, 0, 0, 5, 0, 0, 5, 0, 1, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-3001-graph"></a>
+### Parameter destructuring
+  <sub>[dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) &mdash; 90 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 2, 1, 0]
   ```
 
   </details>
@@ -904,23 +938,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 2, 0, 4, 1, 0, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-2364-graph"></a>
-### Primary constructor on classes
-  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 215 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 3, 0, 2, 3, 0, 0, 3, 0, 0]
   ```
 
   </details>
@@ -972,23 +989,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 3, 0, 1, 1, 2, 0, 1, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-3001-graph"></a>
-### Parameter destructuring
-  <sub>[dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) &mdash; 89 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 2, 1, 0]
   ```
 
   </details>
@@ -1708,6 +1708,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-124334-graph"></a>
+### WebGPU Backend for Flutter Web
+  <sub>[flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) &mdash; 68 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-106612-graph"></a>
 ### Support `flutter build ipa` with manual signing and provisioning profiles
   <sub>[flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) &mdash; 64 total reactions, 8 recent reactions</sub><br />
@@ -1924,23 +1941,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-124334-graph"></a>
-### WebGPU Backend for Flutter Web
-  <sub>[flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) &mdash; 67 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2298,6 +2298,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-48381-graph"></a>
+### Use a system default font on flutter
+  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 79 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
