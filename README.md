@@ -220,8 +220,8 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [9](#flutter-flutter-69529-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 68 | [8](#flutter-flutter-124334-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 36 | [8](#flutter-flutter-141371-graph)
+Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 46 | [6](#flutter-flutter-93404-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 202 | [5](#flutter-flutter-55324-graph)
-Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 45 | [5](#flutter-flutter-93404-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 26 | [5](#flutter-flutter-152588-graph)
 
 #### Desktop
@@ -264,8 +264,8 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 179 | [9](#flutter-flutter-69529-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 68 | [8](#flutter-flutter-124334-graph)
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 36 | [8](#flutter-flutter-141371-graph)
+Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 46 | [6](#flutter-flutter-93404-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 202 | [5](#flutter-flutter-55324-graph)
-Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 45 | [5](#flutter-flutter-93404-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 26 | [5](#flutter-flutter-152588-graph)
 
 ### Dart SDK
@@ -2150,6 +2150,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-93404-graph"></a>
+### Safari high memory usage
+  <sub>[flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) &mdash; 46 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 2, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-91247-graph"></a>
 ### Flutter Camera plugin camera lens change
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 37 total reactions, 6 recent reactions</sub><br />
@@ -2383,23 +2400,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 2, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-93404-graph"></a>
-### Safari high memory usage
-  <sub>[flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) &mdash; 45 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 9, Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 2, 0]
   ```
 
   </details>
