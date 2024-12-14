@@ -9,8 +9,8 @@ Issue | Total reactions | Recent reactions
 Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 65 | [65](#flutter-flutter-158050-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 60 | [60](#flutter-flutter-159342-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 120 | [52](#flutter-flutter-142845-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 76 | [51](#dart-lang-sdk-55281-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1184 | [50](#flutter-flutter-53041-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 75 | [50](#dart-lang-sdk-55281-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1010 | [46](#dart-lang-language-357-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 43 | [43](#flutter-flutter-156111-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1114 | [39](#dart-lang-language-723-graph)
@@ -57,8 +57,8 @@ Issue | Total reactions | Recent reactions
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 109 | [16](#flutter-flutter-62960-graph)
 Add a static function to Material UI widgets exposing internal default values [flutter/flutter#130135](https://github.com/flutter/flutter/issues/130135) | 80 | [15](#flutter-flutter-130135-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 126 | [12](#flutter-flutter-101479-graph)
+Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 34 | [11](#flutter-flutter-141941-graph)
 Allow nested hero widgets [flutter/flutter#38684](https://github.com/flutter/flutter/issues/38684) | 75 | [10](#flutter-flutter-38684-graph)
-Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 33 | [10](#flutter-flutter-141941-graph)
 ReorderableListView Weird Behaviour on reordering the second last child [flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) | 37 | [9](#flutter-flutter-90856-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 287 | [8](#flutter-flutter-21594-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 257 | [8](#flutter-flutter-18345-graph)
@@ -241,8 +241,8 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 194 | 4
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 131 | 4
 Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 56 | 3
-Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
+Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 42 | 3
 On Xcode 13 "flutter run -d macos" prints warning that there are multiple matching destinations, "arch:x86_64" and "name:Any Mac" [flutter/flutter#86590](https://github.com/flutter/flutter/issues/86590) | 29 | 3
 
@@ -274,7 +274,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 75 | [50](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 76 | [51](#dart-lang-sdk-55281-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 61 | [29](#dart-lang-sdk-53402-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 20 | [20](#dart-lang-sdk-56863-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 14 | [14](#dart-lang-sdk-56841-graph)
@@ -365,6 +365,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
+<a name="dart-lang-sdk-55281-graph"></a>
+### Dart Analyzer very slow/stuck
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 76 total reactions, 51 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 1, 1, 4, 2, 5, 3, 8, 1, 5, 4, 3, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-53041-graph"></a>
 ### Enable "hot reload" (not just "hot restart") for Flutter Web
   <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1184 total reactions, 50 recent reactions</sub><br />
@@ -377,23 +394,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [5, 5, 1, 5, 3, 1, 4, 1, 1, 1, 2, 9, 4]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-55281-graph"></a>
-### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 75 total reactions, 50 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 4, 2, 5, 3, 8, 1, 5, 4, 3, 5]
   ```
 
   </details>
@@ -1215,6 +1215,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
+<a name="flutter-flutter-141941-graph"></a>
+### Create DropdownMenuFormField
+  <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 34 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 3, 1, 1, 0, 1, 2, 0, 0, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4124-graph"></a>
 ### Allow the type of an object pattern to be inferred when specified as `_`
   <sub>[dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -1346,23 +1363,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 1, 2, 0, 0, 1, 0, 0, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-141941-graph"></a>
-### Create DropdownMenuFormField
-  <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 33 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 3, 1, 1, 0, 1, 2, 0, 0, 1, 0]
   ```
 
   </details>
