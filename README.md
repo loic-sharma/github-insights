@@ -130,8 +130,8 @@ Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 81 | 3
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 55 | 3
 Let Flutter be installable via winget [flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) | 39 | 3
-[flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 28 | 3
 Deprecate and remove synthetic `package:flutter_gen` [flutter/flutter#102983](https://github.com/flutter/flutter/issues/102983) | 28 | 3
+[flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 28 | 3
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 21 | 3
 Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github.com/flutter/flutter/issues/75528) | 20 | 3
 
@@ -214,6 +214,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 327 | [22](#flutter-flutter-145954-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 13 | [13](#flutter-flutter-156842-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 642 | [9](#flutter-flutter-47600-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [9](#flutter-flutter-58498-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 180 | [8](#flutter-flutter-69529-graph)
@@ -222,7 +223,6 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 80 | [6](#flutter-flutter-104509-graph)
 Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 46 | [6](#flutter-flutter-93404-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 27 | [6](#flutter-flutter-152588-graph)
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 202 | [5](#flutter-flutter-55324-graph)
 
 #### Desktop
 
@@ -258,6 +258,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 327 | [22](#flutter-flutter-145954-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 13 | [13](#flutter-flutter-156842-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 642 | [9](#flutter-flutter-47600-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [9](#flutter-flutter-58498-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 180 | [8](#flutter-flutter-69529-graph)
@@ -266,7 +267,6 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 80 | [6](#flutter-flutter-104509-graph)
 Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 46 | [6](#flutter-flutter-93404-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 27 | [6](#flutter-flutter-152588-graph)
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 202 | [5](#flutter-flutter-55324-graph)
 
 ### Dart SDK
 
@@ -288,7 +288,7 @@ Add list interspersion as built in function [dart-lang/sdk#49900](https://github
 Analyzer response to LSP requests extremely slow w/ high latency reported [dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) | 8 | [6](#dart-lang-sdk-56307-graph)
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
 Analyzer does not navigate up in the directory tree looking for closest analysis_options.yaml file [dart-lang/sdk#56552](https://github.com/dart-lang/sdk/issues/56552) | 7 | [5](#dart-lang-sdk-56552-graph)
-New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
+proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) | 5 | [5](#dart-lang-sdk-59562-graph)
 
 ### Dart language
 
@@ -301,7 +301,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1661 | [25](#dart-lang-language-1482-graph)
 Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 32 | [25](#dart-lang-language-3616-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2105 | [19](#dart-lang-language-314-graph)
-Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 93 | [18](#dart-lang-language-3001-graph)
+Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 94 | [19](#dart-lang-language-3001-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 223 | [17](#dart-lang-language-1076-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 226 | [16](#dart-lang-language-524-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 216 | [16](#dart-lang-language-2364-graph)
@@ -739,6 +739,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
+<a name="dart-lang-language-3001-graph"></a>
+### Parameter destructuring
+  <sub>[dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) &mdash; 94 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 2, 1, 4]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-99606-graph"></a>
 ### Ability to change the keyboard language programmatically
   <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 116 total reactions, 18 recent reactions</sub><br />
@@ -751,23 +768,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 5, 0, 1, 2, 0, 2, 1, 0, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-3001-graph"></a>
-### Parameter destructuring
-  <sub>[dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) &mdash; 93 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 2, 1, 3]
   ```
 
   </details>
@@ -1023,6 +1023,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 1, 3, 1, 2, 0, 1, 0, 0, 2, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-156842-graph"></a>
+### Error: "The targeted input element must be the active input element" when switching focus between TextFormField
+  <sub>[flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
   ```
 
   </details>
@@ -2303,23 +2320,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
-<a name="flutter-flutter-55324-graph"></a>
-### Support Firefox as a browser in flutter run
-  <sub>[flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) &mdash; 202 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-30541-graph"></a>
 ### Space between text and underline
   <sub>[flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) &mdash; 123 total reactions, 5 recent reactions</sub><br />
@@ -2490,9 +2490,9 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-57034-graph"></a>
-### New YAML configuration for diagnostics analysis options
-  <sub>[dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-59562-graph"></a>
+### proposal: `strict_top_level_inference`
+  <sub>[dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2501,7 +2501,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   xychart-beta
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 5, 5]
   ```
 
   </details>
