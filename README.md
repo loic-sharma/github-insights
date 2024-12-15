@@ -12,7 +12,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1185 | [51](#flutter-flutter-53041-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 76 | [51](#dart-lang-sdk-55281-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1010 | [46](#dart-lang-language-357-graph)
-Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 43 | [43](#flutter-flutter-156111-graph)
+Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 44 | [44](#flutter-flutter-156111-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1114 | [39](#dart-lang-language-723-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
@@ -109,9 +109,9 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) | 18 | 4
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 51 | 3
 [go_router] Duplicate GlobalKey detected in widget tree when a navigatorKey is used on a nested ShellRoute [flutter/flutter#112181](https://github.com/flutter/flutter/issues/112181) | 32 | 3
+[go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 26 | 3
 [go_router] Come up with a better way to get the current location without context [flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) | 25 | 3
 [go_router] Query Parameters are not preserved on `pop` [flutter/flutter#116872](https://github.com/flutter/flutter/issues/116872) | 23 | 3
-[go_router] Add support for relative routes [flutter/flutter#108177](https://github.com/flutter/flutter/issues/108177) | 50 | 2
 
 ### Tool
 
@@ -186,7 +186,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 43 | [43](#flutter-flutter-156111-graph)
+Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 44 | [44](#flutter-flutter-156111-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 32 | [12](#flutter-flutter-145961-graph)
 [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 45 | [10](#flutter-flutter-95403-graph)
@@ -241,8 +241,8 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 194 | 4
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 131 | 4
 Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 56 | 3
-Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
+Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 42 | 3
 On Xcode 13 "flutter run -d macos" prints warning that there are multiple matching destinations, "arch:x86_64" and "name:Any Mac" [flutter/flutter#86590](https://github.com/flutter/flutter/issues/86590) | 29 | 3
 
@@ -288,7 +288,7 @@ Add list interspersion as built in function [dart-lang/sdk#49900](https://github
 Analyzer response to LSP requests extremely slow w/ high latency reported [dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) | 8 | [6](#dart-lang-sdk-56307-graph)
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
 Analyzer does not navigate up in the directory tree looking for closest analysis_options.yaml file [dart-lang/sdk#56552](https://github.com/dart-lang/sdk/issues/56552) | 7 | [5](#dart-lang-sdk-56552-graph)
-proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) | 5 | [5](#dart-lang-sdk-59562-graph)
+Deprecate `Random()` default constructor, replace with `Random.insecure()` [dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) | 5 | [5](#dart-lang-sdk-59715-graph)
 
 ### Dart language
 
@@ -309,8 +309,8 @@ Constant function literals [dart-lang/language#1048](https://github.com/dart-lan
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 392 | [13](#dart-lang-language-356-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1250 | [12](#dart-lang-language-69-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 256 | [11](#dart-lang-language-649-graph)
-Allow the type of an object pattern to be inferred when specified as `_` [dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) | 11 | [11](#dart-lang-language-4124-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 11 | [11](#dart-lang-language-4200-graph)
+Allow the type of an object pattern to be inferred when specified as `_` [dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) | 11 | [11](#dart-lang-language-4124-graph)
 
 ## Graphs
 
@@ -418,7 +418,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 
 <a name="flutter-flutter-156111-graph"></a>
 ### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
-  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 43 total reactions, 43 recent reactions</sub><br />
+  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 44 total reactions, 44 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -427,7 +427,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   xychart-beta
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions"
-    bar [0, 0, 0, 18, 23, 29, 30, 35, 35, 41, 41, 42, 43]
+    bar [0, 0, 0, 18, 23, 29, 30, 35, 35, 41, 41, 42, 44]
   ```
 
   </details>
@@ -1249,23 +1249,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
-<a name="dart-lang-language-4124-graph"></a>
-### Allow the type of an object pattern to be inferred when specified as `_`
-  <sub>[dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 5, 7, 9, 9, 9, 9, 9, 10, 10, 11]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4200-graph"></a>
 ### More capable `Type` objects
   <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -1278,6 +1261,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4124-graph"></a>
+### Allow the type of an object pattern to be inferred when specified as `_`
+  <sub>[dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 5, 7, 9, 9, 9, 9, 9, 10, 10, 11]
   ```
 
   </details>
@@ -2031,23 +2031,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
-<a name="flutter-flutter-104509-graph"></a>
-### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
-  <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 80 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-48381-graph"></a>
 ### Use a system default font on flutter
   <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 80 total reactions, 6 recent reactions</sub><br />
@@ -2060,6 +2043,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-104509-graph"></a>
+### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
+  <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 80 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2490,9 +2490,9 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59562-graph"></a>
-### proposal: `strict_top_level_inference`
-  <sub>[dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-59715-graph"></a>
+### Deprecate `Random()` default constructor, replace with `Random.insecure()`
+  <sub>[dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2501,7 +2501,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   xychart-beta
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 5, 5]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
