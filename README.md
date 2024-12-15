@@ -2,15 +2,15 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-09-16 to 2024-12-14.
+Issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 65 | [65](#flutter-flutter-158050-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 60 | [60](#flutter-flutter-159342-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 120 | [52](#flutter-flutter-142845-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1185 | [51](#flutter-flutter-53041-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 76 | [51](#dart-lang-sdk-55281-graph)
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1184 | [50](#flutter-flutter-53041-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1010 | [46](#dart-lang-language-357-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 43 | [43](#flutter-flutter-156111-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1114 | [39](#dart-lang-language-723-graph)
@@ -28,7 +28,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-framework` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Allow to set the logical pixel size programmatically  [flutter/flutter#32115](ht
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-design` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`f: cupertino` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 109 | [16](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ CupertinoPageRoute. Left to Right Animation Transition support ? [flutter/flutte
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-go_router` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-tool` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-engine` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2011 | [15](#flutter-flutter-14330-graph)
@@ -160,7 +160,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-ios` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-android` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,11 +204,11 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-web` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1184 | [50](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1185 | [51](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
@@ -226,7 +226,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-desktop` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,18 +241,18 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 194 | 4
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 131 | 4
 Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 56 | 3
-[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
 Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
+[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 42 | 3
 On Xcode 13 "flutter run -d macos" prints warning that there are multiple matching destinations, "arch:x86_64" and "name:Any Mac" [flutter/flutter#86590](https://github.com/flutter/flutter/issues/86590) | 29 | 3
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`team-ecosystem` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1184 | [50](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1185 | [51](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
@@ -270,7 +270,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`dart-lang/sdk` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-09-16 to 2024-12-14.
+`dart-lang/language` issues that received the most reactions from 2024-09-16 to 2024-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -309,8 +309,8 @@ Constant function literals [dart-lang/language#1048](https://github.com/dart-lan
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 392 | [13](#dart-lang-language-356-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1250 | [12](#dart-lang-language-69-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 256 | [11](#dart-lang-language-649-graph)
-More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 11 | [11](#dart-lang-language-4200-graph)
 Allow the type of an object pattern to be inferred when specified as `_` [dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) | 11 | [11](#dart-lang-language-4124-graph)
+More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 11 | [11](#dart-lang-language-4200-graph)
 
 ## Graphs
 
@@ -365,6 +365,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-53041-graph"></a>
+### Enable "hot reload" (not just "hot restart") for Flutter Web
+  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1185 total reactions, 51 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [5, 5, 1, 5, 3, 1, 4, 1, 1, 1, 2, 9, 5]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
   <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 76 total reactions, 51 recent reactions</sub><br />
@@ -377,23 +394,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [2, 1, 1, 4, 2, 5, 3, 8, 1, 5, 4, 3, 6]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-53041-graph"></a>
-### Enable "hot reload" (not just "hot restart") for Flutter Web
-  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1184 total reactions, 50 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [5, 5, 1, 5, 3, 1, 4, 1, 1, 1, 2, 9, 4]
   ```
 
   </details>
@@ -1249,23 +1249,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="dart-lang-language-4200-graph"></a>
-### More capable `Type` objects
-  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4124-graph"></a>
 ### Allow the type of an object pattern to be inferred when specified as `_`
   <sub>[dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -1278,6 +1261,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 5, 7, 9, 9, 9, 9, 9, 10, 10, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4200-graph"></a>
+### More capable `Type` objects
+  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]
   ```
 
   </details>
@@ -2031,23 +2031,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-48381-graph"></a>
-### Use a system default font on flutter
-  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 80 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-104509-graph"></a>
 ### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
   <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 80 total reactions, 6 recent reactions</sub><br />
@@ -2060,6 +2043,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
     y-axis "Reactions" 0 --> 20
     bar [3, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-48381-graph"></a>
+### Use a system default font on flutter
+  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 80 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
   ```
 
   </details>
