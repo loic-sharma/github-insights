@@ -188,7 +188,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 45 | [45](#flutter-flutter-156111-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
-[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 32 | [12](#flutter-flutter-145961-graph)
+[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 33 | [13](#flutter-flutter-145961-graph)
 [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 45 | [10](#flutter-flutter-95403-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 30 | [8](#flutter-flutter-139427-graph)
 Make it easier to upload Android native debug symbols for release builds [flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) | 251 | [6](#flutter-flutter-60240-graph)
@@ -1079,6 +1079,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
+<a name="flutter-flutter-145961-graph"></a>
+### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
+  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 33 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 3, 1, 2, 1, 0, 0, 0, 1, 0, 1, 2, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-69-graph"></a>
 ### Optional Semicolons
   <sub>[dart-lang/language#69](https://github.com/dart-lang/language/issues/69) &mdash; 1250 total reactions, 12 recent reactions</sub><br />
@@ -1159,23 +1176,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
     bar [3, 1, 0, 1, 0, 1, 3, 0, 0, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145961-graph"></a>
-### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
-  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 32 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 3, 1, 2, 1, 0, 0, 0, 1, 0, 1, 2, 0, 0]
   ```
 
   </details>
