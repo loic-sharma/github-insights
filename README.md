@@ -6,17 +6,17 @@ Issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 65 | [65](#flutter-flutter-159342-graph)
 Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 65 | [65](#flutter-flutter-158050-graph)
+Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 65 | [65](#flutter-flutter-159342-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 78 | [53](#dart-lang-sdk-55281-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 120 | [52](#flutter-flutter-142845-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1185 | [51](#flutter-flutter-53041-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1010 | [46](#dart-lang-language-357-graph)
-Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 44 | [44](#flutter-flutter-156111-graph)
+Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 45 | [45](#flutter-flutter-156111-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1114 | [39](#dart-lang-language-723-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
-☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 61 | [29](#dart-lang-sdk-53402-graph)
+☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 64 | [32](#dart-lang-sdk-53402-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 52 | [29](#flutter-flutter-153092-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [27](#flutter-flutter-30701-graph)
@@ -127,21 +127,21 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 279 | 4
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 65 | 4
 Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes [flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) | 39 | 4
+Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 141 | 3
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 81 | 3
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 55 | 3
 Let Flutter be installable via winget [flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) | 39 | 3
-Deprecate and remove synthetic `package:flutter_gen` [flutter/flutter#102983](https://github.com/flutter/flutter/issues/102983) | 28 | 3
 [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 28 | 3
+Deprecate and remove synthetic `package:flutter_gen` [flutter/flutter#102983](https://github.com/flutter/flutter/issues/102983) | 28 | 3
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 21 | 3
-Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github.com/flutter/flutter/issues/75528) | 20 | 3
 
 ### Engine
 
 `team-engine` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
+Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 174 | [16](#flutter-flutter-14288-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2011 | [15](#flutter-flutter-14330-graph)
-Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 173 | [15](#flutter-flutter-14288-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 184 | [14](#flutter-flutter-61229-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 39 | [13](#flutter-flutter-106277-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 155 | [9](#flutter-flutter-25841-graph)
@@ -164,16 +164,16 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Multiple flutters with same engine group freeze with platform view [flutter/flutter#159718](https://github.com/flutter/flutter/issues/159718) | 24 | [24](#flutter-flutter-159718-graph)
+Multiple flutters with same engine group freeze with platform view [flutter/flutter#159718](https://github.com/flutter/flutter/issues/159718) | 25 | [25](#flutter-flutter-159718-graph)
 Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 69 | [11](#flutter-flutter-64491-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 271 | [9](#flutter-flutter-28901-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 64 | [8](#flutter-flutter-106612-graph)
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 100 | [7](#flutter-flutter-57609-graph)
 Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 50 | [7](#flutter-flutter-91241-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 324 | [6](#flutter-flutter-110431-graph)
+Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) | 220 | [6](#flutter-flutter-33850-graph)
 Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically [flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) | 153 | [6](#flutter-flutter-9984-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 37 | [6](#flutter-flutter-20663-graph)
-Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) | 219 | [5](#flutter-flutter-33850-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 20 | [5](#flutter-flutter-150824-graph)
 [in_app_purchase] Use StoreKit 2 APIs [flutter/flutter#116383](https://github.com/flutter/flutter/issues/116383) | 40 | 4
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 27 | 4
@@ -186,7 +186,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 44 | [44](#flutter-flutter-156111-graph)
+Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 45 | [45](#flutter-flutter-156111-graph)
 GoogleSignInPlatform.instance.getTokens throws PlatformException(exception, ERROR, null, null) for some users / devices [flutter/flutter#155429](https://github.com/flutter/flutter/issues/155429) | 39 | [39](#flutter-flutter-155429-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 32 | [12](#flutter-flutter-145961-graph)
 [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 45 | [10](#flutter-flutter-95403-graph)
@@ -275,7 +275,7 @@ Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flut
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 78 | [53](#dart-lang-sdk-55281-graph)
-☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 61 | [29](#dart-lang-sdk-53402-graph)
+☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 64 | [32](#dart-lang-sdk-53402-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 20 | [20](#dart-lang-sdk-56863-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 14 | [14](#dart-lang-sdk-56841-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 520 | [12](#dart-lang-sdk-28617-graph)
@@ -314,23 +314,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 
 ## Graphs
 
-<a name="flutter-flutter-159342-graph"></a>
-### Flutter Widget Previews Architecture
-  <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 65 total reactions, 65 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 41, 45, 63, 65]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-158050-graph"></a>
 ### Stop pinning dependencies
   <sub>[flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) &mdash; 65 total reactions, 65 recent reactions</sub><br />
@@ -343,6 +326,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 62, 62, 63, 64, 64, 65, 65]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-159342-graph"></a>
+### Flutter Widget Previews Architecture
+  <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 65 total reactions, 65 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 41, 45, 63, 65]
   ```
 
   </details>
@@ -418,7 +418,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 
 <a name="flutter-flutter-156111-graph"></a>
 ### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
-  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 44 total reactions, 44 recent reactions</sub><br />
+  <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 45 total reactions, 45 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -427,7 +427,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   xychart-beta
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions"
-    bar [0, 0, 0, 18, 23, 29, 30, 35, 35, 41, 41, 42, 44, 44]
+    bar [0, 0, 0, 18, 23, 29, 30, 35, 35, 41, 41, 42, 44, 45]
   ```
 
   </details>
@@ -486,7 +486,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 
 <a name="dart-lang-sdk-53402-graph"></a>
 ### ☂️ New analyzer plugin system
-  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 61 total reactions, 29 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 64 total reactions, 32 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -622,7 +622,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 
 <a name="flutter-flutter-159718-graph"></a>
 ### Multiple flutters with same engine group freeze with platform view
-  <sub>[flutter/flutter#159718](https://github.com/flutter/flutter/issues/159718) &mdash; 24 total reactions, 24 recent reactions</sub><br />
+  <sub>[flutter/flutter#159718](https://github.com/flutter/flutter/issues/159718) &mdash; 25 total reactions, 25 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -631,7 +631,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   xychart-beta
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 24]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 25]
   ```
 
   </details>
@@ -841,6 +841,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
+<a name="flutter-flutter-14288-graph"></a>
+### Antialiasing behaviour when same-colour 
+  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 174 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 3, 0, 1, 1, 2, 0, 1, 4, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-62960-graph"></a>
 ### [proposal] Provide a way to close a specific dialog
   <sub>[flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) &mdash; 109 total reactions, 16 recent reactions</sub><br />
@@ -887,23 +904,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 2, 0, 4, 1, 0, 2, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14288-graph"></a>
-### Antialiasing behaviour when same-colour 
-  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 173 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 0, 1, 1, 2, 0, 1, 4, 0, 0]
   ```
 
   </details>
@@ -2031,6 +2031,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
+<a name="flutter-flutter-33850-graph"></a>
+### Investigate Swift Package Manager for Swift plugins
+  <sub>[flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) &mdash; 220 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-9984-graph"></a>
 ### Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically
   <sub>[flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) &mdash; 153 total reactions, 6 recent reactions</sub><br />
@@ -2315,23 +2332,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-33850-graph"></a>
-### Investigate Swift Package Manager for Swift plugins
-  <sub>[flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) &mdash; 219 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0]
   ```
 
   </details>
