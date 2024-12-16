@@ -2,14 +2,14 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-09-16 to 2024-12-15.
+Issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 65 | [65](#flutter-flutter-159342-graph)
 Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 65 | [65](#flutter-flutter-158050-graph)
-Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 63 | [63](#flutter-flutter-159342-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 78 | [53](#dart-lang-sdk-55281-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 120 | [52](#flutter-flutter-142845-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 77 | [52](#dart-lang-sdk-55281-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1185 | [51](#flutter-flutter-53041-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1010 | [46](#dart-lang-language-357-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 44 | [44](#flutter-flutter-156111-graph)
@@ -28,7 +28,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-framework` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Allow to set the logical pixel size programmatically  [flutter/flutter#32115](ht
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-design` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`f: cupertino` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 109 | [16](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ CupertinoPageRoute. Left to Right Animation Transition support ? [flutter/flutte
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-go_router` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-tool` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,13 +137,13 @@ Add hot restart hooks to support dart:ffi [flutter/flutter#75528](https://github
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-engine` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2011 | [15](#flutter-flutter-14330-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 173 | [15](#flutter-flutter-14288-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 184 | [14](#flutter-flutter-61229-graph)
-Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 38 | [12](#flutter-flutter-106277-graph)
+Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 39 | [13](#flutter-flutter-106277-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 155 | [9](#flutter-flutter-25841-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 94 | [9](#flutter-flutter-10437-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 195 | [8](#flutter-flutter-11754-graph)
@@ -160,7 +160,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-ios` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-android` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-web` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -213,8 +213,8 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 328 | [23](#flutter-flutter-145954-graph)
-Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 15 | [15](#flutter-flutter-156842-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 15 | [15](#flutter-flutter-160127-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 15 | [15](#flutter-flutter-156842-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 642 | [9](#flutter-flutter-47600-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [9](#flutter-flutter-58498-graph)
@@ -226,7 +226,7 @@ Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flut
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-desktop` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ On Xcode 13 "flutter run -d macos" prints warning that there are multiple matchi
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`team-ecosystem` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -257,8 +257,8 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 29 | [29](#flutter-flutter-156910-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 328 | [23](#flutter-flutter-145954-graph)
-Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 15 | [15](#flutter-flutter-156842-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 15 | [15](#flutter-flutter-160127-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 15 | [15](#flutter-flutter-156842-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 642 | [9](#flutter-flutter-47600-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [9](#flutter-flutter-58498-graph)
@@ -270,11 +270,11 @@ Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flut
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`dart-lang/sdk` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 77 | [52](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 78 | [53](#dart-lang-sdk-55281-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 61 | [29](#dart-lang-sdk-53402-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 20 | [20](#dart-lang-sdk-56863-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 14 | [14](#dart-lang-sdk-56841-graph)
@@ -292,7 +292,7 @@ Analyzer does not navigate up in the directory tree looking for closest analysis
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-09-16 to 2024-12-15.
+`dart-lang/language` issues that received the most reactions from 2024-09-16 to 2024-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -309,10 +309,27 @@ Constant function literals [dart-lang/language#1048](https://github.com/dart-lan
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 392 | [13](#dart-lang-language-356-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1250 | [12](#dart-lang-language-69-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 256 | [11](#dart-lang-language-649-graph)
-More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 11 | [11](#dart-lang-language-4200-graph)
 Allow the type of an object pattern to be inferred when specified as `_` [dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) | 11 | [11](#dart-lang-language-4124-graph)
+More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 11 | [11](#dart-lang-language-4200-graph)
 
 ## Graphs
+
+<a name="flutter-flutter-159342-graph"></a>
+### Flutter Widget Previews Architecture
+  <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 65 total reactions, 65 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 41, 45, 63, 65]
+  ```
+
+  </details>
+  </sub>
 
 <a name="flutter-flutter-158050-graph"></a>
 ### Stop pinning dependencies
@@ -323,26 +340,26 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 62, 62, 63, 64, 64, 65]
+    bar [0, 0, 0, 0, 0, 0, 0, 62, 62, 63, 64, 64, 65, 65]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-159342-graph"></a>
-### Flutter Widget Previews Architecture
-  <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 63 total reactions, 63 recent reactions</sub><br />
+<a name="dart-lang-sdk-55281-graph"></a>
+### Dart Analyzer very slow/stuck
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 78 total reactions, 53 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 41, 45, 63]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 1, 1, 4, 2, 5, 3, 8, 1, 5, 4, 3, 7, 0]
   ```
 
   </details>
@@ -357,26 +374,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 4, 4, 2, 0, 2, 9, 5, 2, 1, 6, 1, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-55281-graph"></a>
-### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 77 total reactions, 52 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 4, 2, 5, 3, 8, 1, 5, 4, 3, 7]
+    bar [1, 4, 4, 2, 0, 2, 9, 5, 2, 1, 6, 1, 2, 0]
   ```
 
   </details>
@@ -391,9 +391,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [5, 5, 1, 5, 3, 1, 4, 1, 1, 1, 2, 9, 5]
+    bar [5, 5, 1, 5, 3, 1, 4, 1, 1, 1, 2, 9, 5, 0]
   ```
 
   </details>
@@ -408,9 +408,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [5, 2, 10, 2, 0, 4, 1, 5, 0, 0, 3, 8, 1]
+    bar [5, 2, 10, 2, 0, 4, 1, 5, 0, 0, 3, 8, 1, 0]
   ```
 
   </details>
@@ -425,9 +425,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions"
-    bar [0, 0, 0, 18, 23, 29, 30, 35, 35, 41, 41, 42, 44]
+    bar [0, 0, 0, 18, 23, 29, 30, 35, 35, 41, 41, 42, 44, 44]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [6, 5, 2, 1, 0, 0, 7, 2, 2, 3, 3, 2, 2]
+    bar [6, 5, 2, 1, 0, 0, 7, 2, 2, 3, 3, 2, 2, 0]
   ```
 
   </details>
@@ -459,9 +459,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions"
-    bar [24, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [24, 39, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -476,9 +476,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 6, 0, 4, 1, 0, 2, 3, 1, 2, 0]
+    bar [1, 0, 0, 6, 0, 4, 1, 0, 2, 3, 1, 2, 0, 0]
   ```
 
   </details>
@@ -493,9 +493,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 0, 1, 0, 0, 1, 6, 3, 0, 2, 0]
+    bar [0, 0, 3, 0, 1, 0, 0, 1, 6, 3, 0, 2, 0, 0]
   ```
 
   </details>
@@ -510,9 +510,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 10, 5, 4, 2, 0, 1, 1, 0, 0]
+    bar [0, 0, 0, 2, 10, 5, 4, 2, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -527,9 +527,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 26, 27, 28, 29, 29, 29]
+    bar [0, 0, 0, 0, 0, 0, 0, 26, 27, 28, 29, 29, 29, 29]
   ```
 
   </details>
@@ -544,9 +544,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [5, 0, 3, 6, 1, 3, 1, 1, 0, 1, 0, 0, 0]
+    bar [5, 0, 3, 6, 1, 3, 1, 1, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -561,9 +561,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 4, 1, 2, 2, 3, 1, 1, 0, 0, 0, 2, 1]
+    bar [1, 4, 1, 2, 2, 3, 1, 1, 0, 0, 0, 2, 1, 0]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 3, 2, 1, 0, 0, 1, 11, 1, 0, 1, 1, 0]
+    bar [2, 3, 2, 1, 0, 0, 1, 11, 1, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -595,9 +595,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 2, 0, 1, 2, 1, 5, 1, 0, 1, 1, 4]
+    bar [2, 1, 2, 0, 1, 2, 1, 5, 1, 0, 1, 1, 4, 0]
   ```
 
   </details>
@@ -612,9 +612,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 18, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 18, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -629,9 +629,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 24, 24]
   ```
 
   </details>
@@ -646,9 +646,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 3, 1, 0, 5, 0, 1, 0, 1, 7]
+    bar [0, 0, 1, 1, 3, 1, 0, 5, 0, 1, 0, 1, 7, 0]
   ```
 
   </details>
@@ -663,9 +663,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 3, 0, 1, 3, 0, 6, 0, 3, 0, 0, 0, 3]
+    bar [2, 3, 0, 1, 3, 0, 6, 0, 3, 0, 0, 0, 3, 0]
   ```
 
   </details>
@@ -680,9 +680,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [9, 1, 0, 0, 2, 0, 0, 1, 0, 2, 1, 0, 0]
+    bar [9, 1, 0, 0, 2, 0, 0, 1, 0, 2, 1, 0, 0, 0]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 16, 17, 18, 19, 19, 19, 20, 20, 20, 20]
+    bar [0, 0, 0, 16, 17, 18, 19, 19, 19, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -714,9 +714,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 0, 3, 0, 3, 1, 0, 0, 0, 2, 0]
+    bar [0, 2, 1, 0, 3, 0, 3, 1, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 2, 0, 0, 6, 1, 3, 1, 2, 0, 0, 0]
+    bar [2, 1, 2, 0, 0, 6, 1, 3, 1, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -748,9 +748,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 2, 1, 4]
+    bar [0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 2, 1, 4, 0]
   ```
 
   </details>
@@ -765,9 +765,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 5, 0, 1, 2, 0, 2, 1, 0, 1, 1]
+    bar [1, 0, 0, 5, 0, 1, 2, 0, 2, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 17, 17, 18, 18, 18, 18, 18, 18, 18, 0, 0, 0]
+    bar [0, 17, 17, 18, 18, 18, 18, 18, 18, 18, 0, 0, 0, 0]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 0, 1, 1, 2, 3, 0, 2, 0, 0, 1]
+    bar [1, 1, 2, 0, 1, 1, 2, 3, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 4, 3, 0, 0, 0, 1]
+    bar [1, 0, 0, 0, 0, 0, 0, 4, 3, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -833,9 +833,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 3, 0, 2, 3, 0, 0, 3, 0, 0]
+    bar [0, 1, 1, 0, 3, 0, 2, 3, 0, 0, 3, 0, 0, 0]
   ```
 
   </details>
@@ -850,9 +850,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 5, 0, 0, 5, 0, 1, 1, 0]
+    bar [1, 1, 1, 0, 0, 5, 0, 0, 5, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -867,9 +867,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 0, 0, 0, 2, 7, 1, 1, 1, 0, 0]
+    bar [1, 0, 2, 0, 0, 0, 2, 7, 1, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -884,9 +884,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 4, 1, 0, 2, 0, 0, 1]
+    bar [0, 0, 0, 0, 2, 0, 4, 1, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -901,9 +901,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 0, 1, 1, 2, 0, 1, 4, 0]
+    bar [0, 0, 0, 0, 3, 0, 1, 1, 2, 0, 1, 4, 0, 0]
   ```
 
   </details>
@@ -918,9 +918,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 0, 1, 2, 2, 2, 1, 1, 0, 0, 0]
+    bar [2, 1, 0, 0, 1, 2, 2, 2, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -935,26 +935,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 13, 1, 0, 0, 0, 0, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156842-graph"></a>
-### Error: "The targeted input element must be the active input element" when switching focus between TextFormField
-  <sub>[flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
+    bar [0, 0, 0, 13, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -969,9 +952,26 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-156842-graph"></a>
+### Error: "The targeted input element must be the active input element" when switching focus between TextFormField
+  <sub>[flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15]
   ```
 
   </details>
@@ -986,9 +986,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 3, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0]
+    bar [0, 1, 3, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1003,9 +1003,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 3, 1, 2, 0, 1, 0, 0, 2, 1, 1]
+    bar [0, 1, 1, 3, 1, 2, 0, 1, 0, 0, 2, 1, 1, 0]
   ```
 
   </details>
@@ -1020,9 +1020,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 4, 1, 2, 0, 0, 3, 0, 0, 0]
+    bar [0, 0, 1, 1, 4, 1, 2, 0, 0, 3, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1037,9 +1037,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 8, 9, 10, 10, 10, 11, 12, 13, 13, 14, 14]
+    bar [0, 0, 8, 9, 10, 10, 10, 11, 12, 13, 13, 14, 14, 14]
   ```
 
   </details>
@@ -1054,9 +1054,26 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 1, 5, 0, 0, 0, 1, 2]
+    bar [0, 0, 0, 1, 1, 0, 1, 5, 0, 0, 0, 1, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-106277-graph"></a>
+### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
+  <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 39 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 1, 1, 1, 0, 1, 0, 0, 2, 1, 1, 2, 0]
   ```
 
   </details>
@@ -1071,9 +1088,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 4, 0, 1, 1, 0, 1, 1, 0, 0, 0]
+    bar [0, 0, 0, 4, 0, 1, 1, 0, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1088,9 +1105,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 1, 1, 1, 2, 2, 0, 0, 0, 2, 0, 0]
+    bar [1, 2, 1, 1, 1, 2, 2, 0, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1105,9 +1122,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 2, 1, 1, 0, 0, 0, 1, 2, 0]
+    bar [1, 1, 0, 0, 2, 1, 1, 0, 0, 0, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1122,9 +1139,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 3, 0, 0, 0, 0, 1, 0, 1, 0]
+    bar [0, 2, 0, 0, 3, 0, 0, 0, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1139,26 +1156,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 0, 1, 0, 1, 3, 0, 0, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-106277-graph"></a>
-### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
-  <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 38 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 1, 1, 0, 1, 0, 0, 2, 1, 1, 2]
+    bar [3, 1, 0, 1, 0, 1, 3, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1173,9 +1173,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 1, 2, 1, 0, 0, 0, 1, 0, 1, 2, 0]
+    bar [0, 3, 1, 2, 1, 0, 0, 0, 1, 0, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1190,9 +1190,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 2, 5, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 2, 5, 0, 0]
   ```
 
   </details>
@@ -1207,9 +1207,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 3, 0, 0, 2, 0, 0, 0, 1, 1, 0]
+    bar [0, 1, 0, 3, 0, 0, 2, 0, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1224,9 +1224,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 2, 1, 0, 4, 0, 0, 0, 2, 0]
+    bar [1, 0, 0, 1, 2, 1, 0, 4, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1241,9 +1241,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 4, 1, 0, 0, 0, 0, 2, 0, 0, 0]
+    bar [0, 0, 2, 4, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1258,26 +1258,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 3, 1, 1, 0, 1, 2, 0, 0, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4200-graph"></a>
-### More capable `Type` objects
-  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]
+    bar [0, 0, 0, 3, 1, 1, 0, 1, 2, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1292,9 +1275,26 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 5, 7, 9, 9, 9, 9, 9, 10, 10, 11]
+    bar [0, 0, 0, 5, 7, 9, 9, 9, 9, 9, 10, 10, 11, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4200-graph"></a>
+### More capable `Type` objects
+  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 11]
   ```
 
   </details>
@@ -1309,9 +1309,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1]
+    bar [1, 0, 2, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1326,9 +1326,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [3, 3, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0]
+    bar [3, 3, 0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1343,9 +1343,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 2, 3, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 2, 2, 3, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1360,9 +1360,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 2, 1]
+    bar [0, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 2, 1, 0]
   ```
 
   </details>
@@ -1377,9 +1377,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 2, 1]
+    bar [0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 0, 2, 1, 0]
   ```
 
   </details>
@@ -1394,9 +1394,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 2, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+    bar [1, 0, 1, 2, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1411,9 +1411,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 4, 1, 0, 0, 2, 0, 0, 0, 1, 0]
+    bar [0, 0, 0, 4, 1, 0, 0, 2, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1428,9 +1428,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [4, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 0, 0]
+    bar [4, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1445,9 +1445,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [4, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1]
+    bar [4, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1462,9 +1462,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0]
+    bar [3, 1, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1479,9 +1479,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0, 2]
+    bar [1, 1, 0, 0, 0, 1, 0, 2, 1, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -1496,9 +1496,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 1, 0]
+    bar [2, 0, 0, 0, 0, 0, 0, 1, 0, 4, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1513,9 +1513,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 3, 0]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 3, 0, 0]
   ```
 
   </details>
@@ -1530,9 +1530,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1]
+    bar [0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1547,9 +1547,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 2, 0, 2]
+    bar [1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 2, 0, 2, 0]
   ```
 
   </details>
@@ -1564,9 +1564,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 3, 2, 2, 1]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 3, 2, 2, 1, 0]
   ```
 
   </details>
@@ -1581,9 +1581,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 3, 0, 0, 0, 0, 0, 1, 2]
+    bar [0, 0, 1, 1, 0, 3, 0, 0, 0, 0, 0, 1, 2, 0]
   ```
 
   </details>
@@ -1598,9 +1598,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 3, 2, 0, 0, 0, 0, 2, 0, 0]
+    bar [1, 0, 0, 1, 3, 2, 0, 0, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1615,9 +1615,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0]
+    bar [0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1632,9 +1632,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 3, 1, 0, 0, 1, 0, 0, 0, 0]
+    bar [0, 0, 1, 0, 3, 1, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1649,9 +1649,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 1, 0]
+    bar [0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1666,9 +1666,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+    bar [2, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1683,9 +1683,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 1, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1700,9 +1700,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 4, 0, 0]
+    bar [0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 4, 0, 0, 0]
   ```
 
   </details>
@@ -1717,9 +1717,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 2, 0, 0, 1, 0, 2, 0, 0, 0]
+    bar [1, 0, 1, 1, 2, 0, 0, 1, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1734,9 +1734,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 3, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+    bar [1, 0, 0, 3, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1751,9 +1751,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 3, 0, 0]
+    bar [0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 3, 0, 0, 0]
   ```
 
   </details>
@@ -1768,9 +1768,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0]
+    bar [1, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1785,9 +1785,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0]
+    bar [1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1802,9 +1802,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 3, 0]
+    bar [1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 3, 0, 0]
   ```
 
   </details>
@@ -1819,9 +1819,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+    bar [1, 1, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1836,9 +1836,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 2, 0, 0]
+    bar [0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1853,9 +1853,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 6, 1]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 6, 1, 0]
   ```
 
   </details>
@@ -1870,9 +1870,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 1, 0, 0, 3, 0, 1, 0]
+    bar [0, 0, 1, 0, 0, 0, 1, 0, 0, 3, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1887,9 +1887,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0]
+    bar [2, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1904,9 +1904,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1]
+    bar [0, 0, 2, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1921,9 +1921,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 0, 0, 0, 1, 0, 2, 0, 0, 1]
+    bar [0, 1, 0, 2, 0, 0, 0, 1, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1938,9 +1938,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0]
+    bar [1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1955,9 +1955,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 2, 0, 0, 0, 0, 0, 1, 0]
+    bar [0, 1, 0, 1, 1, 2, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1972,9 +1972,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1989,9 +1989,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 1, 0]
+    bar [1, 0, 0, 0, 1, 2, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2006,9 +2006,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 2, 0, 0]
+    bar [0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2023,9 +2023,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 1]
+    bar [0, 1, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2040,9 +2040,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 3]
+    bar [0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 3, 0]
   ```
 
   </details>
@@ -2057,26 +2057,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-104509-graph"></a>
-### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
-  <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 80 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+    bar [2, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2091,9 +2074,26 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+    bar [0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-104509-graph"></a>
+### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
+  <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 80 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2108,9 +2108,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2125,9 +2125,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0]
+    bar [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2142,9 +2142,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0]
+    bar [2, 1, 0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2159,9 +2159,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2176,9 +2176,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 2, 1]
+    bar [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 2, 1, 0]
   ```
 
   </details>
@@ -2193,9 +2193,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2210,9 +2210,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2227,9 +2227,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 2]
+    bar [1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -2244,9 +2244,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2261,9 +2261,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 1, 2, 1, 0, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 0, 1, 2, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2278,9 +2278,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 2, 0, 2, 0, 1, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 2, 0, 2, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2295,9 +2295,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+    bar [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2312,9 +2312,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6]
   ```
 
   </details>
@@ -2329,9 +2329,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2346,9 +2346,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 4, -1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 4, -1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2363,9 +2363,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 2]
+    bar [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0]
   ```
 
   </details>
@@ -2380,9 +2380,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2, 0, 0]
   ```
 
   </details>
@@ -2397,9 +2397,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2414,9 +2414,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]
   ```
 
   </details>
@@ -2431,9 +2431,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1]
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2448,9 +2448,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 2, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2465,9 +2465,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [4, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+    bar [4, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2482,9 +2482,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2499,9 +2499,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9]
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
