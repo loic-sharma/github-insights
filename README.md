@@ -20,7 +20,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [30](#flutter-flutter-156910-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 52 | [29](#flutter-flutter-153092-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [27](#flutter-flutter-30701-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 27 | [27](#flutter-flutter-156842-graph)
 
 ## Trending issues by team
 
@@ -36,7 +36,7 @@ Issue | Total reactions | Recent reactions
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 661 | [27](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 176 | [25](#flutter-flutter-65504-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 220 | [19](#flutter-flutter-138614-graph)
-Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 116 | [18](#flutter-flutter-99606-graph)
+Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 117 | [19](#flutter-flutter-99606-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 31 | [12](#flutter-flutter-81005-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 174 | [9](#flutter-flutter-45336-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 108 | [9](#flutter-flutter-127409-graph)
@@ -85,8 +85,8 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Add mouse cursor support to the remaining widgets [flutter/flutter#58192](https://github.com/flutter/flutter/issues/58192) | 19 | 2
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 126 | 1
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 54 | 1
-Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 52 | 1
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 52 | 1
+Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 52 | 1
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 43 | 1
 Support search box inside large title nav bar [flutter/flutter#18103](https://github.com/flutter/flutter/issues/18103) | 40 | 1
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 16 | 1
@@ -143,8 +143,8 @@ Issue | Total reactions | Recent reactions
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 174 | [16](#flutter-flutter-14288-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2011 | [15](#flutter-flutter-14330-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 184 | [14](#flutter-flutter-61229-graph)
+Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 159 | [13](#flutter-flutter-25841-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 39 | [13](#flutter-flutter-106277-graph)
-Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 155 | [9](#flutter-flutter-25841-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 94 | [9](#flutter-flutter-10437-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 195 | [8](#flutter-flutter-11754-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 514 | [7](#flutter-flutter-26801-graph)
@@ -167,9 +167,9 @@ Issue | Total reactions | Recent reactions
 Multiple flutters with same engine group freeze with platform view [flutter/flutter#159718](https://github.com/flutter/flutter/issues/159718) | 25 | [25](#flutter-flutter-159718-graph)
 Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 69 | [11](#flutter-flutter-64491-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 271 | [9](#flutter-flutter-28901-graph)
+Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 101 | [8](#flutter-flutter-57609-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 64 | [8](#flutter-flutter-106612-graph)
 Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) | 221 | [7](#flutter-flutter-33850-graph)
-Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 100 | [7](#flutter-flutter-57609-graph)
 Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 50 | [7](#flutter-flutter-91241-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 324 | [6](#flutter-flutter-110431-graph)
 Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically [flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) | 153 | [6](#flutter-flutter-9984-graph)
@@ -211,8 +211,8 @@ Issue | Total reactions | Recent reactions
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1186 | [52](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [30](#flutter-flutter-156910-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 27 | [27](#flutter-flutter-156842-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
-Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 26 | [26](#flutter-flutter-156842-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 328 | [23](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 21 | [21](#flutter-flutter-160127-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
@@ -241,8 +241,8 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 194 | 4
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 131 | 4
 Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 56 | 3
-Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 51 | 3
+Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 51 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 42 | 3
 On Xcode 13 "flutter run -d macos" prints warning that there are multiple matching destinations, "arch:x86_64" and "name:Any Mac" [flutter/flutter#86590](https://github.com/flutter/flutter/issues/86590) | 29 | 3
 
@@ -255,8 +255,8 @@ Issue | Total reactions | Recent reactions
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1186 | [52](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 826 | [32](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [30](#flutter-flutter-156910-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 27 | [27](#flutter-flutter-156842-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 63 | [26](#flutter-flutter-149031-graph)
-Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 26 | [26](#flutter-flutter-156842-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 328 | [23](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 21 | [21](#flutter-flutter-160127-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [14](#flutter-flutter-124205-graph)
@@ -552,6 +552,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-156842-graph"></a>
+### Error: "The targeted input element must be the active input element" when switching focus between TextFormField
+  <sub>[flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) &mdash; 27 total reactions, 27 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 27]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-149031-graph"></a>
 ### [WEB] Web Cache invalidation based on pubspec.yaml version
   <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 63 total reactions, 26 recent reactions</sub><br />
@@ -564,23 +581,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
     bar [1, 4, 1, 2, 2, 3, 1, 1, 0, 0, 0, 2, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156842-graph"></a>
-### Error: "The targeted input element must be the active input element" when switching focus between TextFormField
-  <sub>[flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 26]
   ```
 
   </details>
@@ -773,6 +773,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-99606-graph"></a>
+### Ability to change the keyboard language programmatically
+  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 117 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 5, 0, 1, 2, 0, 2, 1, 0, 1, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-3001-graph"></a>
 ### Parameter destructuring
   <sub>[dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) &mdash; 94 total reactions, 19 recent reactions</sub><br />
@@ -785,23 +802,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 1, 1, 1, 2, 2, 0, 2, 1, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-99606-graph"></a>
-### Ability to change the keyboard language programmatically
-  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 116 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 5, 0, 1, 2, 0, 2, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1057,6 +1057,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 1, 0, 1, 5, 0, 0, 0, 1, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-25841-graph"></a>
+### Add a way to detect keyboard language
+  <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 159 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 1, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 4]
   ```
 
   </details>
@@ -1487,23 +1504,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-25841-graph"></a>
-### Add a way to detect keyboard language
-  <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 155 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 1, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-102560-graph"></a>
 ### Support Material Symbols 
   <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 114 total reactions, 9 recent reactions</sub><br />
@@ -1703,6 +1703,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
     bar [2, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-57609-graph"></a>
+### Let iOS keyboard dismissal synchronize with scroll
+  <sub>[flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) &mdash; 101 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 0, 1, 0, 0, 3, 0, 1, 0, 1]
   ```
 
   </details>
@@ -1924,23 +1941,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 6, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-57609-graph"></a>
-### Let iOS keyboard dismissal synchronize with scroll
-  <sub>[flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) &mdash; 100 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 16, Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 1, 0, 0, 3, 0, 1, 0, 0]
   ```
 
   </details>
