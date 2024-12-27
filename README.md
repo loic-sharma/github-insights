@@ -37,13 +37,13 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 662 | [22](#flutter-flutter-30701-graph)
 [Proposal]Provide a alternative to deprecated `Color.value` [flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) | 22 | [22](#flutter-flutter-160184-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 221 | [18](#flutter-flutter-138614-graph)
-Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 117 | [17](#flutter-flutter-99606-graph)
+Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 118 | [18](#flutter-flutter-99606-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 31 | [12](#flutter-flutter-81005-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 178 | [9](#flutter-flutter-45336-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 102 | [9](#flutter-flutter-86295-graph)
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 151 | [8](#flutter-flutter-32120-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 109 | [8](#flutter-flutter-127409-graph)
-Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 288 | [6](#flutter-flutter-51752-graph)
+Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 289 | [7](#flutter-flutter-51752-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 233 | [5](#flutter-flutter-54200-graph)
 Return index of the first visible item in ListView [flutter/flutter#19941](https://github.com/flutter/flutter/issues/19941) | 216 | [5](#flutter-flutter-19941-graph)
 Desktop Client Side Decoration support [flutter/flutter#31373](https://github.com/flutter/flutter/issues/31373) | 79 | [5](#flutter-flutter-31373-graph)
@@ -144,16 +144,16 @@ Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 185 | [15](#flutter-flutter-61229-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2011 | [14](#flutter-flutter-14330-graph)
 Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0 [flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) | 13 | [13](#flutter-flutter-160207-graph)
+Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 161 | [12](#flutter-flutter-25841-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 39 | [12](#flutter-flutter-106277-graph)
-Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 160 | [11](#flutter-flutter-25841-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 94 | [9](#flutter-flutter-10437-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 195 | [8](#flutter-flutter-11754-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 303 | [7](#flutter-flutter-18443-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 514 | [6](#flutter-flutter-26801-graph)
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 123 | [5](#flutter-flutter-30541-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 36 | [5](#flutter-flutter-127852-graph)
-How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 53 | 4
 Unable receive Platform Channel calls in background isolates [flutter/flutter#119207](https://github.com/flutter/flutter/issues/119207) | 53 | 4
+How to remove 'I/flutter (13135):' in vscode debug console [flutter/flutter#50890](https://github.com/flutter/flutter/issues/50890) | 53 | 4
 RenderParagraph reports incorrect text boxes for justified text [flutter/flutter#84030](https://github.com/flutter/flutter/issues/84030) | 34 | 4
 
 ### Platforms
@@ -310,7 +310,7 @@ Constant function literals [dart-lang/language#1048](https://github.com/dart-lan
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 226 | [15](#dart-lang-language-524-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1251 | [13](#dart-lang-language-69-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 392 | [13](#dart-lang-language-356-graph)
-Allow the type of an object pattern to be inferred when specified as `_` [dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) | 12 | [12](#dart-lang-language-4124-graph)
+Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) | 12 | [12](#dart-lang-language-4205-graph)
 
 ## Graphs
 
@@ -841,6 +841,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-99606-graph"></a>
+### Ability to change the keyboard language programmatically
+  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 118 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 5, 0, 1, 2, 0, 2, 1, 0, 1, 1, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-155817-graph"></a>
 ### [Proposal] Date AND time DateFormat in ARB files DateTime placeholders format
   <sub>[flutter/flutter#155817](https://github.com/flutter/flutter/issues/155817) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -853,23 +870,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
     y-axis "Reactions" 0 --> 20
     bar [17, 17, 18, 18, 18, 18, 18, 18, 18, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-99606-graph"></a>
-### Ability to change the keyboard language programmatically
-  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 117 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 5, 0, 1, 2, 0, 2, 1, 0, 1, 1, 1, 0]
   ```
 
   </details>
@@ -1215,6 +1215,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-25841-graph"></a>
+### Add a way to detect keyboard language
+  <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 161 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 5, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-106277-graph"></a>
 ### Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true."
   <sub>[flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) &mdash; 39 total reactions, 12 recent reactions</sub><br />
@@ -1249,9 +1266,9 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="dart-lang-language-4124-graph"></a>
-### Allow the type of an object pattern to be inferred when specified as `_`
-  <sub>[dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) &mdash; 12 total reactions, 12 recent reactions</sub><br />
+<a name="dart-lang-language-4205-graph"></a>
+### Inline catching
+  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 12 total reactions, 12 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1260,7 +1277,7 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   xychart-beta
     x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 5, 7, 9, 9, 9, 9, 9, 10, 10, 11, 12, 12]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 12]
   ```
 
   </details>
@@ -1295,23 +1312,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-25841-graph"></a>
-### Add a way to detect keyboard language
-  <sub>[flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) &mdash; 160 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 5, 0]
   ```
 
   </details>
@@ -1946,6 +1946,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
+<a name="flutter-flutter-51752-graph"></a>
+### Reusing state logic is either too verbose or too difficult
+  <sub>[flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) &mdash; 289 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-33850-graph"></a>
 ### Investigate Swift Package Manager for Swift plugins
   <sub>[flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) &mdash; 221 total reactions, 7 recent reactions</sub><br />
@@ -2065,23 +2082,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-51752-graph"></a>
-### Reusing state logic is either too verbose or too difficult
-  <sub>[flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) &mdash; 288 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-50565-graph"></a>
 ### ☂️ [vm/ffi] Native assets feature
   <sub>[dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) &mdash; 166 total reactions, 6 recent reactions</sub><br />
@@ -2116,23 +2116,6 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
   </details>
   </sub>
 
-<a name="flutter-flutter-48381-graph"></a>
-### Use a system default font on flutter
-  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 80 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-109842-graph"></a>
 ### Add suport for Android 13 per-app language preferences 
   <sub>[flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) &mdash; 80 total reactions, 6 recent reactions</sub><br />
@@ -2145,6 +2128,23 @@ Allow the type of an object pattern to be inferred when specified as `_` [dart-l
     x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-48381-graph"></a>
+### Use a system default font on flutter
+  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 80 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 23, Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
