@@ -7,20 +7,20 @@ Issues that received the most reactions from 2024-09-30 to 2025-01-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 154 | [154](#dart-lang-language-4211-graph)
-Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 151 | [151](#flutter-flutter-156842-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 152 | [152](#flutter-flutter-156842-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 83 | [83](#flutter-flutter-159342-graph)
 Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 68 | [68](#flutter-flutter-158050-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1204 | [60](#flutter-flutter-53041-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 84 | [56](#dart-lang-sdk-55281-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 52 | [52](#flutter-flutter-156111-graph)
+Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1022 | [49](#dart-lang-language-357-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 124 | [49](#flutter-flutter-142845-graph)
-Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1020 | [47](#dart-lang-language-357-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 834 | [37](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [30](#flutter-flutter-156910-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1117 | [29](#dart-lang-language-723-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 332 | [27](#flutter-flutter-145954-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 52 | [27](#flutter-flutter-153092-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1667 | [25](#dart-lang-language-1482-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1668 | [26](#dart-lang-language-1482-graph)
 
 ## Trending issues by team
 
@@ -39,13 +39,13 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 118 | [18](#flutter-flutter-99606-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 221 | [17](#flutter-flutter-138614-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 31 | [12](#flutter-flutter-81005-graph)
+[Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 44 | [10](#flutter-flutter-101227-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 178 | [9](#flutter-flutter-45336-graph)
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 102 | [9](#flutter-flutter-86295-graph)
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 151 | [8](#flutter-flutter-32120-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 109 | [8](#flutter-flutter-127409-graph)
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 289 | [7](#flutter-flutter-51752-graph)
 Document that WillPopScope prevents swipe to go back on MaterialPageRoute [flutter/flutter#14203](https://github.com/flutter/flutter/issues/14203) | 200 | [7](#flutter-flutter-14203-graph)
-[Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 41 | [7](#flutter-flutter-101227-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 233 | [5](#flutter-flutter-54200-graph)
 
 #### Design
@@ -198,9 +198,9 @@ Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://githu
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 55 | 3
 [integration_test] Enable sharding of integration test suites [flutter/flutter#101296](https://github.com/flutter/flutter/issues/101296) | 50 | 3
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 26 | 3
+Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/flutter/flutter/issues/36681) | 186 | 2
 [webview_flutter] Provide callback/error for unsupported content types (e.g., PDF) [flutter/flutter#48245](https://github.com/flutter/flutter/issues/48245) | 93 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 82 | 2
-[webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 80 | 2
 
 #### Web
 
@@ -208,7 +208,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 151 | [151](#flutter-flutter-156842-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 152 | [152](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1204 | [60](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 834 | [37](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [30](#flutter-flutter-156910-graph)
@@ -252,7 +252,7 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 151 | [151](#flutter-flutter-156842-graph)
+Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 152 | [152](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1204 | [60](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 834 | [37](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [30](#flutter-flutter-156910-graph)
@@ -297,9 +297,9 @@ New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](ht
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 154 | [154](#dart-lang-language-4211-graph)
-Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1020 | [47](#dart-lang-language-357-graph)
+Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1022 | [49](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1117 | [29](#dart-lang-language-723-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1667 | [25](#dart-lang-language-1482-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1668 | [26](#dart-lang-language-1482-graph)
 Dot syntax for static access [dart-lang/language#3616](https://github.com/dart-lang/language/issues/3616) | 32 | [25](#dart-lang-language-3616-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 224 | [23](#dart-lang-language-2364-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2107 | [18](#dart-lang-language-314-graph)
@@ -333,7 +333,7 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
 
 <a name="flutter-flutter-156842-graph"></a>
 ### Error: "The targeted input element must be the active input element" when switching focus between TextFormField
-  <sub>[flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) &mdash; 151 total reactions, 151 recent reactions</sub><br />
+  <sub>[flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) &mdash; 152 total reactions, 152 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -342,7 +342,7 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 78, 128, 151]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 78, 128, 152]
   ```
 
   </details>
@@ -433,6 +433,23 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="dart-lang-language-357-graph"></a>
+### Allow for shorter dot syntax to access enum values
+  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1022 total reactions, 49 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
+    y-axis "Reactions" 0 --> 20
+    bar [10, 2, 0, 4, 1, 5, 0, 0, 3, 8, 1, 2, 3, 4]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
   <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 124 total reactions, 49 recent reactions</sub><br />
@@ -445,23 +462,6 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
     x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
     y-axis "Reactions" 0 --> 20
     bar [4, 2, 0, 2, 9, 5, 2, 1, 6, 1, 2, 2, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-357-graph"></a>
-### Allow for shorter dot syntax to access enum values
-  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1020 total reactions, 47 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
-    y-axis "Reactions" 0 --> 20
-    bar [10, 2, 0, 4, 1, 5, 0, 0, 3, 8, 1, 2, 3, 2]
   ```
 
   </details>
@@ -554,7 +554,7 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
 
 <a name="dart-lang-language-1482-graph"></a>
 ### Static Metaprogramming
-  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1667 total reactions, 25 recent reactions</sub><br />
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1668 total reactions, 26 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -563,7 +563,7 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 0, 1, 11, 1, 0, 1, 1, 0, 2, 0, 4]
+    bar [2, 1, 0, 0, 1, 11, 1, 0, 1, 1, 0, 2, 0, 5]
   ```
 
   </details>
@@ -1402,6 +1402,23 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="flutter-flutter-140586-graph"></a>
+### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
+  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 45 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 3, 0, 0, 0, 0, 0, 1, 2, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-95403-graph"></a>
 ### [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar
   <sub>[flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) &mdash; 45 total reactions, 10 recent reactions</sub><br />
@@ -1419,9 +1436,9 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-140586-graph"></a>
-### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
-  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 45 total reactions, 10 recent reactions</sub><br />
+<a name="flutter-flutter-101227-graph"></a>
+### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
+  <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 44 total reactions, 10 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1430,7 +1447,7 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 3, 0, 0, 0, 0, 0, 1, 2, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
@@ -1538,23 +1555,6 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-57609-graph"></a>
-### Let iOS keyboard dismissal synchronize with scroll
-  <sub>[flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) &mdash; 102 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 0, 3, 0, 1, 0, 1, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-86295-graph"></a>
 ### [integration_test] Allow driving native UI interactions from Dart
   <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 102 total reactions, 9 recent reactions</sub><br />
@@ -1567,6 +1567,23 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
     x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
     y-axis "Reactions" 0 --> 20
     bar [1, 2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-57609-graph"></a>
+### Let iOS keyboard dismissal synchronize with scroll
+  <sub>[flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) &mdash; 102 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 0, 1, 0, 0, 3, 0, 1, 0, 1, 0, 1]
   ```
 
   </details>
@@ -2065,23 +2082,6 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-101227-graph"></a>
-### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
-  <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 41 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-45296-graph"></a>
 ### [path_provider] Add support for web
   <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 260 total reactions, 6 recent reactions</sub><br />
@@ -2150,23 +2150,6 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-127852-graph"></a>
-### [Impeller] Implement Wide Gamut colors for Vulkan
-  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 37 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-20663-graph"></a>
 ### Color codes in error messages are probably escaped when using the iOS simulator
   <sub>[flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) &mdash; 37 total reactions, 6 recent reactions</sub><br />
@@ -2179,6 +2162,23 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
     x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-127852-graph"></a>
+### [Impeller] Implement Wide Gamut colors for Vulkan
+  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 37 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 30, Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 1]
   ```
 
   </details>
