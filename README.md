@@ -148,13 +148,13 @@ Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://git
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 39 | [10](#flutter-flutter-106277-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 95 | [9](#flutter-flutter-10437-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 303 | [7](#flutter-flutter-18443-graph)
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 54 | [6](#flutter-flutter-66618-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 37 | [6](#flutter-flutter-127852-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 514 | [5](#flutter-flutter-26801-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 34 | [5](#flutter-flutter-146860-graph)
 Consider merging platform and UI thread [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 22 | [5](#flutter-flutter-150525-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 195 | 4
 Unable receive Platform Channel calls in background isolates [flutter/flutter#119207](https://github.com/flutter/flutter/issues/119207) | 53 | 4
+BackdropFilter performance issue [flutter/flutter#32804](https://github.com/flutter/flutter/issues/32804) | 78 | 3
 
 ### Platforms
 
@@ -174,9 +174,9 @@ Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](http
 Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically [flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) | 154 | [7](#flutter-flutter-9984-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 271 | [6](#flutter-flutter-28901-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 37 | [6](#flutter-flutter-20663-graph)
+☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 25 | 4
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 18 | 4
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 27 | 3
-☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 24 | 3
 [iOS]  Statusbar tap to scroll top doesn't work in nested navigation  [flutter/flutter#85603](https://github.com/flutter/flutter/issues/85603) | 23 | 3
 Support deferred components on iOS [flutter/flutter#79327](https://github.com/flutter/flutter/issues/79327) | 16 | 3
 
@@ -288,7 +288,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 Analyzer response to LSP requests extremely slow w/ high latency reported [dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) | 10 | [8](#dart-lang-sdk-56307-graph)
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 26 | [5](#dart-lang-sdk-49900-graph)
-New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
+proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) | 5 | [5](#dart-lang-sdk-59562-graph)
 
 ### Dart language
 
@@ -977,23 +977,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-160207-graph"></a>
-### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
-  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4124-graph"></a>
 ### Allow the type of an object pattern to be inferred when specified as `_`
   <sub>[dart-lang/language#4124](https://github.com/dart-lang/language/issues/4124) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1023,6 +1006,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160207-graph"></a>
+### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
+  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
   ```
 
   </details>
@@ -1674,23 +1674,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-86295-graph"></a>
-### [integration_test] Allow driving native UI interactions from Dart
-  <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 102 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-57609-graph"></a>
 ### Let iOS keyboard dismissal synchronize with scroll
   <sub>[flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) &mdash; 102 total reactions, 8 recent reactions</sub><br />
@@ -1703,6 +1686,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 3, 0, 1, 0, 1, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-86295-graph"></a>
+### [integration_test] Allow driving native UI interactions from Dart
+  <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 102 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2150,9 +2150,9 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-66618-graph"></a>
-### WebGPU in Flutter
-  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 54 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-127852-graph"></a>
+### [Impeller] Implement Wide Gamut colors for Vulkan
+  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 37 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2161,7 +2161,7 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 3, 0]
+    bar [0, 1, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2179,23 +2179,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-127852-graph"></a>
-### [Impeller] Implement Wide Gamut colors for Vulkan
-  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 37 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2473,9 +2456,9 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-57034-graph"></a>
-### New YAML configuration for diagnostics analysis options
-  <sub>[dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-59562-graph"></a>
+### proposal: `strict_top_level_inference`
+  <sub>[dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2484,7 +2467,7 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    bar [0, 0, 0, 0, 0, 0, 3, 3, 5, 5, 5, 0, 0, 0]
   ```
 
   </details>
