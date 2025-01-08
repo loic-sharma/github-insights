@@ -221,7 +221,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [9](#flutter-flutter-58498-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 72 | [9](#flutter-flutter-124334-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 642 | [8](#flutter-flutter-47600-graph)
-[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 261 | [7](#flutter-flutter-45296-graph)
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 262 | [8](#flutter-flutter-45296-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 183 | [7](#flutter-flutter-69529-graph)
 
 #### Desktop
@@ -265,7 +265,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [9](#flutter-flutter-58498-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 72 | [9](#flutter-flutter-124334-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 642 | [8](#flutter-flutter-47600-graph)
-[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 261 | [7](#flutter-flutter-45296-graph)
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 262 | [8](#flutter-flutter-45296-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 183 | [7](#flutter-flutter-69529-graph)
 
 ### Dart SDK
@@ -288,7 +288,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 Analyzer response to LSP requests extremely slow w/ high latency reported [dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) | 10 | [8](#dart-lang-sdk-56307-graph)
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 26 | [5](#dart-lang-sdk-49900-graph)
-proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) | 5 | [5](#dart-lang-sdk-59562-graph)
+New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
 
 ### Dart language
 
@@ -1657,6 +1657,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
+<a name="flutter-flutter-45296-graph"></a>
+### [path_provider] Add support for web
+  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 262 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-18345-graph"></a>
 ### SliverAppBar flexibleSpace with height depending on children
   <sub>[flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) &mdash; 258 total reactions, 8 recent reactions</sub><br />
@@ -1958,23 +1975,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 2, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-45296-graph"></a>
-### [path_provider] Add support for web
-  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 261 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 0, 0, 1]
   ```
 
   </details>
@@ -2473,9 +2473,9 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59562-graph"></a>
-### proposal: `strict_top_level_inference`
-  <sub>[dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-57034-graph"></a>
+### New YAML configuration for diagnostics analysis options
+  <sub>[dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2484,7 +2484,7 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 3, 3, 5, 5, 5, 0, 0, 0]
+    bar [0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
