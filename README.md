@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-10-07 to 2025-01-09.
+Issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Add support to define widget preview and see it in the IDE when developing [flut
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-framework` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Allow Hero widgets to have transitions within the same screen [flutter/flutter#5
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-design` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Surrounding color leaks into widgets when BackdropFilter with ImageFilter.blur i
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`f: cupertino` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 111 | [14](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flut
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-go_router` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-tool` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-engine` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 20 | [20](#flutter-flutter-160442-graph)
@@ -160,7 +160,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-ios` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-android` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-web` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-desktop` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`team-ecosystem` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`dart-lang/sdk` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -288,11 +288,11 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 Analyzer response to LSP requests extremely slow w/ high latency reported [dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) | 10 | [8](#dart-lang-sdk-56307-graph)
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
 Add list interspersion as built in function [dart-lang/sdk#49900](https://github.com/dart-lang/sdk/issues/49900) | 26 | [5](#dart-lang-sdk-49900-graph)
-`depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 5 | [5](#dart-lang-sdk-59721-graph)
+New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-10-07 to 2025-01-09.
+`dart-lang/language` issues that received the most reactions from 2024-10-07 to 2025-01-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1028,9 +1028,9 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-160338-graph"></a>
-### Nested generic function inside factory constructor crashes flutter run (web) compiler
-  <sub>[flutter/flutter#160338](https://github.com/flutter/flutter/issues/160338) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-160207-graph"></a>
+### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
+  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1039,7 +1039,7 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0]
   ```
 
   </details>
@@ -1079,9 +1079,9 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-160207-graph"></a>
-### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
-  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-160338-graph"></a>
+### Nested generic function inside factory constructor crashes flutter run (web) compiler
+  <sub>[flutter/flutter#160338](https://github.com/flutter/flutter/issues/160338) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1090,7 +1090,7 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
@@ -1810,23 +1810,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-86295-graph"></a>
-### [integration_test] Allow driving native UI interactions from Dart
-  <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 102 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-57609-graph"></a>
 ### Let iOS keyboard dismissal synchronize with scroll
   <sub>[flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) &mdash; 102 total reactions, 8 recent reactions</sub><br />
@@ -1839,6 +1822,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 3, 0, 1, 0, 1, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-86295-graph"></a>
+### [integration_test] Allow driving native UI interactions from Dart
+  <sub>[flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) &mdash; 102 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2524,9 +2524,9 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59721-graph"></a>
-### `depend_on_referenced_packages` lint false positive in workspace
-  <sub>[dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-57034-graph"></a>
+### New YAML configuration for diagnostics analysis options
+  <sub>[dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2535,7 +2535,7 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Oct 7, Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 5, 5]
+    bar [0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
