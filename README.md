@@ -110,8 +110,8 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 [go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 26 | 3
 [go_router] Query Parameters are not preserved on `pop` [flutter/flutter#116872](https://github.com/flutter/flutter/issues/116872) | 24 | 3
 [go_router] WillPopScope/PopScope doesn't trigger with back button navigation on root screens [flutter/flutter#140869](https://github.com/flutter/flutter/issues/140869) | 60 | 2
+[go_router] Add support for the TabView for more beautiful animation [flutter/flutter#112267](https://github.com/flutter/flutter/issues/112267) | 44 | 2
 [go_router_builder][go_router] Exception thrown when parent route has `$extra` param [flutter/flutter#106121](https://github.com/flutter/flutter/issues/106121) | 40 | 2
-[go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 34 | 2
 
 ### Tool
 
@@ -287,7 +287,7 @@ Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sd
 Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [dart-lang/sdk#56905](https://github.com/dart-lang/sdk/issues/56905) | 6 | [6](#dart-lang-sdk-56905-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 52 | [5](#dart-lang-sdk-49426-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 21 | [5](#dart-lang-sdk-56863-graph)
-proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) | 5 | [5](#dart-lang-sdk-59562-graph)
+`depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 5 | [5](#dart-lang-sdk-59721-graph)
 New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
 
 ### Dart language
@@ -301,7 +301,7 @@ Allow for shorter dot syntax to access enum values [dart-lang/language#357](http
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1117 | [26](#dart-lang-language-723-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1668 | [23](#dart-lang-language-1482-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 225 | [22](#dart-lang-language-2364-graph)
-Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 98 | [20](#dart-lang-language-3001-graph)
+Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 99 | [21](#dart-lang-language-3001-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2108 | [18](#dart-lang-language-314-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 228 | [17](#dart-lang-language-1076-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 16 | [16](#dart-lang-language-4200-graph)
@@ -637,23 +637,6 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
-<a name="flutter-flutter-160442-graph"></a>
-### Slow Vulkan performance on API 35 Android Emulator images.
-  <sub>[flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) &mdash; 22 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160184-graph"></a>
 ### [Proposal]Provide a alternative to deprecated `Color.value`
   <sub>[flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -666,6 +649,23 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160442-graph"></a>
+### Slow Vulkan performance on API 35 Android Emulator images.
+  <sub>[flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
   ```
 
   </details>
@@ -690,7 +690,7 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
 <a name="dart-lang-language-3001-graph"></a>
 ### Parameter destructuring
-  <sub>[dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) &mdash; 98 total reactions, 20 recent reactions</sub><br />
+  <sub>[dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) &mdash; 99 total reactions, 21 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -699,7 +699,7 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   xychart-beta
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 2, 2, 0, 2, 1, 4, 1, 0, 0, 3]
+    bar [1, 1, 1, 2, 2, 0, 2, 1, 4, 1, 0, 0, 4]
   ```
 
   </details>
@@ -2150,6 +2150,23 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
+<a name="flutter-flutter-20663-graph"></a>
+### Color codes in error messages are probably escaped when using the iOS simulator
+  <sub>[flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) &mdash; 37 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-127852-graph"></a>
 ### [Impeller] Implement Wide Gamut colors for Vulkan
   <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 37 total reactions, 6 recent reactions</sub><br />
@@ -2179,23 +2196,6 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-20663-graph"></a>
-### Color codes in error messages are probably escaped when using the iOS simulator
-  <sub>[flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) &mdash; 37 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2405,9 +2405,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59562-graph"></a>
-### proposal: `strict_top_level_inference`
-  <sub>[dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-59721-graph"></a>
+### `depend_on_referenced_packages` lint false positive in workspace
+  <sub>[dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2416,7 +2416,7 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   xychart-beta
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 3, 3, 5, 5, 5, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 5, 5]
   ```
 
   </details>
