@@ -10,7 +10,7 @@ Error: "The targeted input element must be the active input element" when switch
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 166 | [166](#dart-lang-language-4211-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 84 | [84](#flutter-flutter-159342-graph)
 Stop pinning dependencies [flutter/flutter#158050](https://github.com/flutter/flutter/issues/158050) | 76 | [76](#flutter-flutter-158050-graph)
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1207 | [56](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1208 | [57](#flutter-flutter-53041-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 88 | [54](#dart-lang-sdk-55281-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 126 | [45](#flutter-flutter-142845-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1023 | [38](#dart-lang-language-357-graph)
@@ -99,8 +99,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 120 | [12](#flutter-flutter-138737-graph)
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 47 | [9](#flutter-flutter-114131-graph)
+[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 46 | [9](#flutter-flutter-140586-graph)
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 93 | [8](#flutter-flutter-102408-graph)
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 45 | [8](#flutter-flutter-140586-graph)
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 124 | [6](#flutter-flutter-112196-graph)
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 56 | [5](#flutter-flutter-121929-graph)
 Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) | 19 | [5](#flutter-flutter-125268-graph)
@@ -165,11 +165,11 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Multiple flutters with same engine group freeze with platform view [flutter/flutter#159718](https://github.com/flutter/flutter/issues/159718) | 25 | [25](#flutter-flutter-159718-graph)
+Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically [flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) | 156 | [8](#flutter-flutter-9984-graph)
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 102 | [8](#flutter-flutter-57609-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 67 | [8](#flutter-flutter-106612-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 326 | [7](#flutter-flutter-110431-graph)
 Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) | 221 | [7](#flutter-flutter-33850-graph)
-Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically [flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) | 155 | [7](#flutter-flutter-9984-graph)
 Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 53 | [7](#flutter-flutter-91241-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 271 | [6](#flutter-flutter-28901-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 37 | [6](#flutter-flutter-20663-graph)
@@ -209,7 +209,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [176](#flutter-flutter-156842-graph)
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1207 | [56](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1208 | [57](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 835 | [32](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [30](#flutter-flutter-156910-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 332 | [23](#flutter-flutter-145954-graph)
@@ -253,7 +253,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [176](#flutter-flutter-156842-graph)
-Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1207 | [56](#flutter-flutter-53041-graph)
+Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1208 | [57](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 835 | [32](#flutter-flutter-46789-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [30](#flutter-flutter-156910-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 332 | [23](#flutter-flutter-145954-graph)
@@ -288,7 +288,7 @@ Add a `dart:js_interop` API that can determine if an `Object` is a JS value  [da
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 52 | [5](#dart-lang-sdk-49426-graph)
 [Meta] Support project-wide dart format page width configuration [dart-lang/sdk#56863](https://github.com/dart-lang/sdk/issues/56863) | 21 | [5](#dart-lang-sdk-56863-graph)
 proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) | 5 | [5](#dart-lang-sdk-59562-graph)
-New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
+`depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 5 | [5](#dart-lang-sdk-59721-graph)
 
 ### Dart language
 
@@ -384,7 +384,7 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
 <a name="flutter-flutter-53041-graph"></a>
 ### Enable "hot reload" (not just "hot restart") for Flutter Web
-  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1207 total reactions, 56 recent reactions</sub><br />
+  <sub>[flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) &mdash; 1208 total reactions, 57 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -393,7 +393,7 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   xychart-beta
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 4, 1, 1, 1, 2, 9, 5, 13, 1, 1, 1]
+    bar [3, 1, 4, 1, 1, 1, 2, 9, 5, 13, 1, 1, 2]
   ```
 
   </details>
@@ -960,23 +960,6 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
-<a name="flutter-flutter-160207-graph"></a>
-### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
-  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4205-graph"></a>
 ### Inline catching
   <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -989,6 +972,23 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160207-graph"></a>
+### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
+  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0]
   ```
 
   </details>
@@ -1436,6 +1436,23 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
+<a name="flutter-flutter-140586-graph"></a>
+### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
+  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 46 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 3, 0, 0, 0, 0, 0, 1, 2, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-141941-graph"></a>
 ### Create DropdownMenuFormField
   <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 36 total reactions, 9 recent reactions</sub><br />
@@ -1516,6 +1533,23 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 2, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-9984-graph"></a>
+### Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically
+  <sub>[flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) &mdash; 156 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 1, 1]
   ```
 
   </details>
@@ -1674,23 +1708,6 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
-<a name="flutter-flutter-140586-graph"></a>
-### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
-  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 45 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 0, 0, 0, 0, 1, 2, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-90856-graph"></a>
 ### ReorderableListView Weird Behaviour on reordering the second last child
   <sub>[flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) &mdash; 38 total reactions, 8 recent reactions</sub><br />
@@ -1839,23 +1856,6 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-9984-graph"></a>
-### Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically
-  <sub>[flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) &mdash; 155 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2150,23 +2150,6 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
-<a name="flutter-flutter-20663-graph"></a>
-### Color codes in error messages are probably escaped when using the iOS simulator
-  <sub>[flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) &mdash; 37 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-141371-graph"></a>
 ### Web: include different files depending on the flavor
   <sub>[flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) &mdash; 37 total reactions, 6 recent reactions</sub><br />
@@ -2196,6 +2179,23 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-20663-graph"></a>
+### Color codes in error messages are probably escaped when using the iOS simulator
+  <sub>[flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) &mdash; 37 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2422,9 +2422,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
-<a name="dart-lang-sdk-57034-graph"></a>
-### New YAML configuration for diagnostics analysis options
-  <sub>[dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-59721-graph"></a>
+### `depend_on_referenced_packages` lint false positive in workspace
+  <sub>[dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2433,7 +2433,7 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   xychart-beta
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 5, 5]
   ```
 
   </details>
