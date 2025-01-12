@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-10-14 to 2025-01-11.
+Issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Add support to define widget preview and see it in the IDE when developing [flut
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-framework` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Document that WillPopScope prevents swipe to go back on MaterialPageRoute [flutt
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-design` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Flutter slider should have the feature to show value indicator all the time, not
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`f: cupertino` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 111 | [14](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flut
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-go_router` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-tool` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Provide an easy way to select the version of Flutter to use [flutter/flutter#142
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-engine` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 22 | [22](#flutter-flutter-160442-graph)
@@ -160,7 +160,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-ios` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-android` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-web` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-desktop` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`team-ecosystem` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`dart-lang/sdk` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-10-14 to 2025-01-11.
+`dart-lang/language` issues that received the most reactions from 2024-10-14 to 2025-01-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
