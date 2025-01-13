@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-10-14 to 2025-01-12.
+Issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Add support to define widget preview and see it in the IDE when developing [flut
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-framework` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Document that WillPopScope prevents swipe to go back on MaterialPageRoute [flutt
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-design` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Flutter slider should have the feature to show value indicator all the time, not
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`f: cupertino` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 111 | [14](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flut
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-go_router` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-tool` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Provide an easy way to select the version of Flutter to use [flutter/flutter#142
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-engine` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 22 | [22](#flutter-flutter-160442-graph)
@@ -160,7 +160,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-ios` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-android` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-web` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-desktop` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`team-ecosystem` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`dart-lang/sdk` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-10-14 to 2025-01-12.
+`dart-lang/language` issues that received the most reactions from 2024-10-14 to 2025-01-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -323,9 +323,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 15, 78, 128, 159, 176]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 15, 78, 128, 159, 176, 0]
   ```
 
   </details>
@@ -340,9 +340,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 115, 151, 155, 166]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 115, 151, 155, 166, 166]
   ```
 
   </details>
@@ -357,9 +357,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 27, 41, 45, 63, 79, 82, 83, 84]
+    bar [0, 0, 0, 0, 0, 27, 41, 45, 63, 79, 82, 83, 84, 84]
   ```
 
   </details>
@@ -374,9 +374,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions"
-    bar [0, 0, 0, 62, 62, 63, 64, 64, 65, 66, 68, 68, 76]
+    bar [0, 0, 0, 62, 62, 63, 64, 64, 65, 66, 68, 68, 76, 76]
   ```
 
   </details>
@@ -391,9 +391,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 4, 1, 1, 1, 2, 9, 5, 13, 1, 1, 2]
+    bar [3, 1, 4, 1, 1, 1, 2, 9, 5, 13, 1, 1, 2, 0]
   ```
 
   </details>
@@ -408,9 +408,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 5, 3, 8, 1, 5, 4, 3, 7, 3, 0, 2, 3]
+    bar [2, 5, 3, 8, 1, 5, 4, 3, 7, 3, 0, 2, 3, 0]
   ```
 
   </details>
@@ -425,9 +425,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 9, 5, 2, 1, 6, 1, 2, 2, 1, 1, 2]
+    bar [0, 2, 9, 5, 2, 1, 6, 1, 2, 2, 1, 1, 2, 0]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 4, 1, 5, 0, 0, 3, 8, 1, 2, 3, 4, 0]
+    bar [0, 4, 1, 5, 0, 0, 3, 8, 1, 2, 3, 4, 0, 0]
   ```
 
   </details>
@@ -459,9 +459,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [5, 6, 1, 5, 0, 4, 0, 1, 2, 3, 2, 2, 0]
+    bar [5, 6, 1, 5, 0, 4, 0, 1, 2, 3, 2, 2, 0, 0]
   ```
 
   </details>
@@ -476,9 +476,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 4, 1, 0, 2, 3, 1, 2, 0, 6, 0, 0, 1]
+    bar [0, 4, 1, 0, 2, 3, 1, 2, 0, 6, 0, 0, 1, 0]
   ```
 
   </details>
@@ -493,9 +493,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions"
-    bar [0, 0, 0, 26, 27, 28, 29, 29, 29, 30, 30, 30, 30]
+    bar [0, 0, 0, 26, 27, 28, 29, 29, 29, 30, 30, 30, 30, 30]
   ```
 
   </details>
@@ -510,9 +510,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 7, 2, 2, 3, 3, 2, 2, 2, 0, 0, 1]
+    bar [0, 0, 7, 2, 2, 3, 3, 2, 2, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -527,9 +527,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [10, 5, 4, 2, 0, 1, 1, 0, 0, 0, 0, 0, 2]
+    bar [10, 5, 4, 2, 0, 1, 1, 0, 0, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -544,9 +544,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 6, 4, 1, 1, 0, 2, 6, 2, 0, 0]
+    bar [0, 0, 0, 6, 4, 1, 1, 0, 2, 6, 2, 0, 0, 0]
   ```
 
   </details>
@@ -561,9 +561,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 6, 3, 0, 2, 0, 0, 0, 0, 9]
+    bar [1, 0, 0, 1, 6, 3, 0, 2, 0, 0, 0, 0, 9, 0]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 24, 24, 25, 25, 25, 25]
+    bar [0, 0, 0, 0, 0, 0, 0, 24, 24, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -595,9 +595,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 11, 1, 0, 1, 1, 0, 2, 0, 5, 0]
+    bar [0, 0, 1, 11, 1, 0, 1, 1, 0, 2, 0, 5, 0, 0]
   ```
 
   </details>
@@ -612,9 +612,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 0, 5, 0, 1, 0, 1, 7, 0, 2, 2, 0]
+    bar [3, 1, 0, 5, 0, 1, 0, 1, 7, 0, 2, 2, 0, 0]
   ```
 
   </details>
@@ -629,9 +629,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 2, 3, 0, 0, 3, 0, 0, 1, 4, 0, 1]
+    bar [3, 0, 2, 3, 0, 0, 3, 0, 0, 1, 4, 0, 1, 0]
   ```
 
   </details>
@@ -646,9 +646,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 0, 0, 0, 0]
   ```
 
   </details>
@@ -663,9 +663,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 22]
   ```
 
   </details>
@@ -680,9 +680,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 1, 5, 1, 0, 1, 1, 4, 1, 0, 0, 0]
+    bar [1, 2, 1, 5, 1, 0, 1, 1, 4, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 2, 2, 0, 2, 1, 4, 1, 0, 0, 4]
+    bar [1, 1, 1, 2, 2, 0, 2, 1, 4, 1, 0, 0, 4, 0]
   ```
 
   </details>
@@ -714,9 +714,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 15, 19, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 15, 19, 0, 0, 0, 0]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 3, 1, 0, 0, 0, 2, 0, 0, 1, 1, 0]
+    bar [3, 0, 3, 1, 0, 0, 0, 2, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -748,9 +748,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 6, 0, 3, 0, 0, 0, 3, 0, 1, 0, 1]
+    bar [3, 0, 6, 0, 3, 0, 0, 0, 3, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -765,9 +765,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 3, 1, 1, 0, 0, 0, 2, 1, 1, 0, 0, 2]
+    bar [2, 3, 1, 1, 0, 0, 0, 2, 1, 1, 0, 0, 2, 0]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 3, 0, 2, 0, 0, 1, 2, 0, 0, 2]
+    bar [1, 1, 2, 3, 0, 2, 0, 0, 1, 2, 0, 0, 2, 0]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 1, 1, 2, 0, 1, 4, 0, 0, 0, 0, 1]
+    bar [3, 0, 1, 1, 2, 0, 1, 4, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 2, 0, 0, 5, 1, 4, 0]
+    bar [0, 0, 0, 1, 0, 0, 2, 0, 0, 5, 1, 4, 0, 0]
   ```
 
   </details>
@@ -833,9 +833,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 16, 16, 16]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 16, 16, 16, 16]
   ```
 
   </details>
@@ -850,9 +850,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0]
   ```
 
   </details>
@@ -867,9 +867,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 4, 3, 0, 0, 0, 1, 0, 0, 0, 0]
+    bar [0, 0, 0, 4, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -884,9 +884,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 6, 1, 3, 1, 2, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 6, 1, 3, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -901,9 +901,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 1, 0, 0, 2, 1, 1, 1, 0, 2, 2]
+    bar [1, 2, 0, 1, 0, 0, 2, 1, 1, 1, 0, 2, 2, 0]
   ```
 
   </details>
@@ -918,9 +918,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 2, 1, 0, 1, 1, 1, 1, 0, 1]
+    bar [0, 1, 2, 0, 2, 1, 0, 1, 1, 1, 1, 0, 1, 0]
   ```
 
   </details>
@@ -935,9 +935,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 5, 0, 0, 5, 0, 1, 1, 0, 2, 0, 0, 0]
+    bar [0, 5, 0, 0, 5, 0, 1, 1, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -952,9 +952,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
   ```
 
   </details>
@@ -969,9 +969,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14, 14]
   ```
 
   </details>
@@ -986,9 +986,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0, 0]
   ```
 
   </details>
@@ -1003,9 +1003,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 7, 1, 1, 1, 0, 0, 0, 0, -1, 2]
+    bar [0, 0, 2, 7, 1, 1, 1, 0, 0, 0, 0, -1, 2, 0]
   ```
 
   </details>
@@ -1020,9 +1020,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 1, 0, 2, 1, 0, 0, 0, 2, 1, 3]
+    bar [2, 0, 0, 1, 0, 2, 1, 0, 0, 0, 2, 1, 3, 0]
   ```
 
   </details>
@@ -1037,9 +1037,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 6, 3]
+    bar [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 6, 3, 0]
   ```
 
   </details>
@@ -1054,9 +1054,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 5, 0, 0, 0, 1, 2, 0, 0, 0, 0]
+    bar [1, 0, 1, 5, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1071,9 +1071,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 6, 0]
+    bar [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 6, 0, 0]
   ```
 
   </details>
@@ -1088,9 +1088,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 4, 0, 0, 0, 2, 0, 2, 0, 1, 0]
+    bar [2, 1, 0, 4, 0, 0, 0, 2, 0, 2, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1105,9 +1105,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    bar [1, 2, 2, 2, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1122,9 +1122,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [4, 1, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]
+    bar [4, 1, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1139,9 +1139,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 1, 2, 0, 2, 2, 0, 1]
+    bar [1, 0, 0, 0, 1, 0, 1, 2, 0, 2, 2, 0, 1, 0]
   ```
 
   </details>
@@ -1156,9 +1156,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 1, 1, 2, 5, 0, 0, 0, 0, 0]
+    bar [1, 0, 0, 1, 1, 1, 2, 5, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1173,9 +1173,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 3, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
+    bar [1, 3, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1190,9 +1190,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 2, 0, 0, 0, 2, 0, 0, 0, 0, 1, 2]
+    bar [1, 2, 2, 0, 0, 0, 2, 0, 0, 0, 0, 1, 2, 0]
   ```
 
   </details>
@@ -1207,9 +1207,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 0, 0, 0, 1, 2, 0, 1, 1, 0, 0]
+    bar [2, 1, 1, 0, 0, 0, 1, 2, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1224,9 +1224,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 4, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0]
+    bar [2, 0, 4, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1241,9 +1241,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 2, 0]
+    bar [1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1258,9 +1258,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 2, 0, 0, 0, 1, 1, 0, 1, 2]
+    bar [0, 0, 0, 1, 2, 0, 0, 0, 1, 1, 0, 1, 2, 0]
   ```
 
   </details>
@@ -1275,9 +1275,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 7, 9, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11]
+    bar [0, 7, 9, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11]
   ```
 
   </details>
@@ -1292,9 +1292,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 0, 0, 1, 1, 2, 1, 0, 1]
+    bar [0, 1, 0, 0, 1, 0, 0, 1, 1, 2, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1309,9 +1309,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 0, 2, 0, 0, 2, 0, 3]
+    bar [1, 0, 0, 0, 0, 1, 0, 2, 0, 0, 2, 0, 3, 0]
   ```
 
   </details>
@@ -1326,9 +1326,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 2, 1, 1, 2, 0, 0, 0, 1]
+    bar [1, 0, 1, 0, 0, 2, 1, 1, 2, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1343,9 +1343,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 10, 10, 10]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1360,9 +1360,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 3, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0]
+    bar [0, 1, 3, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1377,9 +1377,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4]
+    bar [0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -1394,9 +1394,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0]
+    bar [0, 0, 1, 1, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1411,9 +1411,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 2, 0, 2, 1, 0, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 2, 0, 2, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1428,9 +1428,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 3, 2, 2, 1, 0, 0, 0, 0]
+    bar [0, 0, 1, 0, 0, 3, 2, 2, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1445,9 +1445,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 0, 0, 0, 0, 1, 2, 1, 0, 0, 1]
+    bar [0, 3, 0, 0, 0, 0, 0, 1, 2, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1462,9 +1462,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 1, 2, 0, 0, 1, 1, 0, 1, 0, 1]
+    bar [1, 1, 0, 1, 2, 0, 0, 1, 1, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1479,9 +1479,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1496,9 +1496,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 0, 0, 2]
+    bar [1, 0, 1, 0, 0, 1, 0, 0, 0, 3, 0, 0, 2, 0]
   ```
 
   </details>
@@ -1513,9 +1513,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [3, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1530,9 +1530,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 2, 0, 0]
+    bar [0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1547,9 +1547,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 1, 1]
+    bar [0, 1, 0, 0, 0, 0, 0, 1, 3, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1564,9 +1564,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 1, 0, 0, 0, 2, 0, 0, 1, 0]
+    bar [0, 1, 0, 2, 1, 0, 0, 0, 2, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1581,9 +1581,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 6, 1, 0, 1, 0, 0]
+    bar [0, 1, 0, 0, 0, 0, 0, 6, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1598,9 +1598,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 4, 0, 1, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 1, 0, 4, 0, 1, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1615,9 +1615,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 1, 1, 3, 0, 0, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 1, 1, 3, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1632,9 +1632,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 3, 0, 1, 0, 1, 0, 1, 0]
+    bar [0, 0, 1, 0, 0, 3, 0, 1, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1649,9 +1649,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0]
+    bar [1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1666,9 +1666,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 1, 2, 0, 2, 2, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 1, 2, 0, 2, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1683,9 +1683,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 1, 0, 2, 0, 0, 0, 1, 0, 1, 1]
+    bar [2, 0, 0, 1, 0, 2, 0, 0, 0, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1700,9 +1700,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 1, 0, 2, 1, 0, 0, 0, 0]
+    bar [0, 0, 0, 1, 1, 1, 0, 2, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1717,9 +1717,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0]
+    bar [3, 2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1734,9 +1734,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 1, 3, 0, 0, 0, 1, 0, 0]
+    bar [1, 1, 1, 0, 0, 1, 3, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1751,9 +1751,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 1, 0, 0, 0, 0, 0, 1, 2, 0]
+    bar [0, 0, 1, 2, 1, 0, 0, 0, 0, 0, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1768,9 +1768,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 1, 1, 0, 1, 0, 3, 0, 0, 0]
+    bar [1, 0, 0, 1, 1, 1, 0, 1, 0, 3, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1785,9 +1785,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 0, 2, 0, 1, 0, 1, 1, 0, 0]
+    bar [0, 0, 1, 2, 0, 2, 0, 1, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1802,9 +1802,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0]
+    bar [1, 2, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1819,9 +1819,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 1, 0, 2, 0, 0, 1, 0, 0, 1]
+    bar [2, 0, 0, 0, 1, 0, 2, 0, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1836,9 +1836,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0]
+    bar [1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1853,9 +1853,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
+    bar [1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1870,9 +1870,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 0, 0, 0]
+    bar [1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1887,9 +1887,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0]
+    bar [3, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1904,9 +1904,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 1, 0, 0, 4, 0, 0, 0, 0, 0, 0]
+    bar [1, 1, 0, 1, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1921,9 +1921,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0, 0, 0]
   ```
 
   </details>
@@ -1938,9 +1938,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 2, 0, 0, 1, 0, 0, 2, 0]
+    bar [0, 0, 0, 1, 0, 2, 0, 0, 1, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1955,9 +1955,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1]
+    bar [1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1972,9 +1972,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0]
+    bar [1, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1989,9 +1989,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [1, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2006,9 +2006,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 0, 0, 0, 3, 0, 0, 0, 0, 1]
+    bar [0, 0, 2, 0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2023,9 +2023,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 0, 0]
   ```
 
   </details>
@@ -2040,9 +2040,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, -1, 0]
+    bar [0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, -1, 0, 0]
   ```
 
   </details>
@@ -2057,9 +2057,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [1, 1, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2074,9 +2074,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2091,9 +2091,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
+    bar [1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2108,9 +2108,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 4, 0]
+    bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 4, 0, 0]
   ```
 
   </details>
@@ -2125,9 +2125,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 2, 0, 0, 2, 1, 0, 0, 0, 0]
+    bar [0, 0, 0, 1, 2, 0, 0, 2, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2142,9 +2142,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1]
+    bar [0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2159,9 +2159,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
+    bar [2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2176,9 +2176,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0]
+    bar [1, 0, 1, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2193,9 +2193,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2210,9 +2210,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2227,9 +2227,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+    bar [6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2244,9 +2244,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 1, 0, 1]
+    bar [0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2261,9 +2261,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2278,9 +2278,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2295,9 +2295,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+    bar [1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2312,9 +2312,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0]
+    bar [0, 1, 0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2329,9 +2329,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2346,9 +2346,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+    bar [0, 0, 0, 3, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2363,9 +2363,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2380,9 +2380,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]
+    bar [1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2397,9 +2397,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]
+    bar [0, 2, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2414,9 +2414,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 3, 3, 5, 5, 5, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 3, 3, 5, 5, 5, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2431,9 +2431,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6]
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 5, 5]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 5, 5, 5]
   ```
 
   </details>
