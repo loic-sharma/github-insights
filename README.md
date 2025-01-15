@@ -143,9 +143,9 @@ Issue | Total reactions | Recent reactions
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 24 | [24](#flutter-flutter-160442-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 175 | [17](#flutter-flutter-14288-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 166 | [16](#flutter-flutter-25841-graph)
+Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2013 | [14](#flutter-flutter-14330-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 189 | [14](#flutter-flutter-61229-graph)
 Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0 [flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) | 14 | [14](#flutter-flutter-160207-graph)
-Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2012 | [13](#flutter-flutter-14330-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 40 | [10](#flutter-flutter-106277-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 95 | [8](#flutter-flutter-10437-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 304 | [7](#flutter-flutter-18443-graph)
@@ -909,6 +909,23 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
+<a name="flutter-flutter-14330-graph"></a>
+### Code Push / Hot Update / out of band updates
+  <sub>[flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) &mdash; 2013 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 2, 7, 1, 1, 1, 0, 0, 0, 0, -1, 2, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 189 total reactions, 14 recent reactions</sub><br />
@@ -943,9 +960,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
-<a name="flutter-flutter-160207-graph"></a>
-### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
-  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4205-graph"></a>
+### Inline catching
+  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -954,7 +971,7 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   xychart-beta
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14, 14]
   ```
 
   </details>
@@ -977,9 +994,9 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   </details>
   </sub>
 
-<a name="dart-lang-language-4205-graph"></a>
-### Inline catching
-  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-160207-graph"></a>
+### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
+  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -988,24 +1005,7 @@ Case expressions and return patterns [dart-lang/language#4141](https://github.co
   xychart-beta
     x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14330-graph"></a>
-### Code Push / Hot Update / out of band updates
-  <sub>[flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) &mdash; 2012 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 14, Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 7, 1, 1, 1, 0, 0, 0, 0, -1, 2, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0, 0]
   ```
 
   </details>
