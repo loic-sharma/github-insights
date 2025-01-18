@@ -111,7 +111,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 [go_router] Add support for the TabView for more beautiful animation [flutter/flutter#112267](https://github.com/flutter/flutter/issues/112267) | 44 | 2
 [go_router_builder][go_router] Exception thrown when parent route has `$extra` param [flutter/flutter#106121](https://github.com/flutter/flutter/issues/106121) | 40 | 2
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 34 | 2
-[go_router] Missing exit animation support [flutter/flutter#122954](https://github.com/flutter/flutter/issues/122954) | 25 | 2
+[go_router] Come up with a better way to get the current location without context [flutter/flutter#129833](https://github.com/flutter/flutter/issues/129833) | 25 | 2
 
 ### Tool
 
@@ -196,11 +196,11 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 52 | 4
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 26 | 3
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 20 | 3
+Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 370 | 2
 [webview_flutter] Provide callback/error for unsupported content types (e.g., PDF) [flutter/flutter#48245](https://github.com/flutter/flutter/issues/48245) | 93 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 82 | 2
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 80 | 2
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 55 | 2
-[integration_test] Enable sharding of integration test suites [flutter/flutter#101296](https://github.com/flutter/flutter/issues/101296) | 50 | 2
 
 #### Web
 
@@ -211,7 +211,7 @@ Issue | Total reactions | Recent reactions
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1210 | [55](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 839 | [36](#flutter-flutter-46789-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 335 | [23](#flutter-flutter-145954-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 336 | [24](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 67 | [16](#flutter-flutter-149031-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
@@ -220,9 +220,9 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 263 | [8](#flutter-flutter-45296-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [8](#flutter-flutter-58498-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [8](#flutter-flutter-156910-graph)
+[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 331 | [7](#flutter-flutter-33577-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [7](#flutter-flutter-124205-graph)
 Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 46 | [6](#flutter-flutter-93404-graph)
-[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 329 | [5](#flutter-flutter-33577-graph)
 
 #### Desktop
 
@@ -255,7 +255,7 @@ Issue | Total reactions | Recent reactions
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1210 | [55](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 839 | [36](#flutter-flutter-46789-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 335 | [23](#flutter-flutter-145954-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 336 | [24](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 67 | [16](#flutter-flutter-149031-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
@@ -264,9 +264,9 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 263 | [8](#flutter-flutter-45296-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 103 | [8](#flutter-flutter-58498-graph)
 [web] The future of `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 30 | [8](#flutter-flutter-156910-graph)
+[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 331 | [7](#flutter-flutter-33577-graph)
 Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 77 | [7](#flutter-flutter-124205-graph)
 Safari high memory usage [flutter/flutter#93404](https://github.com/flutter/flutter/issues/93404) | 46 | [6](#flutter-flutter-93404-graph)
-[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 329 | [5](#flutter-flutter-33577-graph)
 
 ### Dart SDK
 
@@ -285,8 +285,8 @@ Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://gi
 Analyzer response to LSP requests extremely slow w/ high latency reported [dart-lang/sdk#56307](https://github.com/dart-lang/sdk/issues/56307) | 10 | [8](#dart-lang-sdk-56307-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 17 | [7](#dart-lang-sdk-56841-graph)
 Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 81 | [6](#dart-lang-sdk-55522-graph)
-New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
 `depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 5 | [5](#dart-lang-sdk-59721-graph)
+New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
 proposal: `strict_top_level_inference` [dart-lang/sdk#59562](https://github.com/dart-lang/sdk/issues/59562) | 5 | [5](#dart-lang-sdk-59562-graph)
 Adhere to XDG base directory spec [dart-lang/sdk#41560](https://github.com/dart-lang/sdk/issues/41560) | 66 | 4
 
@@ -569,6 +569,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-145954-graph"></a>
+### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
+  <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 336 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 5, 0, 1, 0, 1, 7, 0, 2, 2, 0, 4]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-53402-graph"></a>
 ### ☂️ New analyzer plugin system
   <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 73 total reactions, 24 recent reactions</sub><br />
@@ -581,23 +598,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 6, 3, 0, 2, 0, 0, 0, 0, 9, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145954-graph"></a>
-### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
-  <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 335 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 5, 0, 1, 0, 1, 7, 0, 2, 2, 0, 3]
   ```
 
   </details>
@@ -892,23 +892,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-160338-graph"></a>
-### Nested generic function inside factory constructor crashes flutter run (web) compiler
-  <sub>[flutter/flutter#160338](https://github.com/flutter/flutter/issues/160338) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160207-graph"></a>
 ### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
   <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -921,6 +904,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160338-graph"></a>
+### Nested generic function inside factory constructor crashes flutter run (web) compiler
+  <sub>[flutter/flutter#160338](https://github.com/flutter/flutter/issues/160338) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
   ```
 
   </details>
@@ -1691,6 +1691,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-33577-graph"></a>
+### [web] Support compute on separate thread in Flutter Web
+  <sub>[flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) &mdash; 331 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-21594-graph"></a>
 ### Table > TableRow > TableCell colspan
   <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 290 total reactions, 7 recent reactions</sub><br />
@@ -2099,23 +2116,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-33577-graph"></a>
-### [web] Support compute on separate thread in Flutter Web
-  <sub>[flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) &mdash; 329 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-18443-graph"></a>
 ### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
   <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 304 total reactions, 5 recent reactions</sub><br />
@@ -2320,23 +2320,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="dart-lang-sdk-57034-graph"></a>
-### New YAML configuration for diagnostics analysis options
-  <sub>[dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59721-graph"></a>
 ### `depend_on_referenced_packages` lint false positive in workspace
   <sub>[dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -2349,6 +2332,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-57034-graph"></a>
+### New YAML configuration for diagnostics analysis options
+  <sub>[dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
