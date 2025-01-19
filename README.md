@@ -235,8 +235,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 115 | [9](#flutter-flutter-41726-graph)
 [camera] Add Linux support [flutter/flutter#41710](https://github.com/flutter/flutter/issues/41710) | 74 | [9](#flutter-flutter-41710-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 192 | [7](#flutter-flutter-41980-graph)
+Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 42 | [7](#flutter-flutter-134346-graph)
 Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 60 | [6](#flutter-flutter-97050-graph)
-Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 41 | [6](#flutter-flutter-134346-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 133 | [5](#flutter-flutter-41724-graph)
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 63 | [5](#flutter-flutter-94804-graph)
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 53 | [5](#flutter-flutter-62597-graph)
@@ -1844,6 +1844,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-134346-graph"></a>
+### Make Windows plugin APIs thread-safe
+  <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-20663-graph"></a>
 ### Color codes in error messages are probably escaped when using the iOS simulator
   <sub>[flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) &mdash; 38 total reactions, 7 recent reactions</sub><br />
@@ -2026,23 +2043,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-134346-graph"></a>
-### Make Windows plugin APIs thread-safe
-  <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 41 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
