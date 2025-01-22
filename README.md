@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-10-21 to 2025-01-21.
+Issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Add support to define widget preview and see it in the IDE when developing [flut
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-framework` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Reusing state logic is either too verbose or too difficult [flutter/flutter#5175
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-design` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,16 +72,16 @@ Flutter slider should have the feature to show value indicator all the time, not
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`f: cupertino` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 111 | [14](#flutter-flutter-62960-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 104 | [5](#flutter-flutter-33798-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 127 | 4
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 148 | 3
+Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 56 | 3
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 45 | 3
 Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/flutter/flutter/issues/55809) | 58 | 2
-Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 55 | 2
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 54 | 2
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 37 | 2
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 21 | 2
@@ -93,7 +93,7 @@ CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flut
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-go_router` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-tool` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Let Flutter be installable via winget [flutter/flutter#57674](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-engine` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 33 | [33](#flutter-flutter-160442-graph)
@@ -160,7 +160,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-ios` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Blur filter isn't clipped when using border radius [flutter/flutter#115926](http
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-android` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-web` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.co
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-desktop` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`team-ecosystem` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Keyboard issue on mobile Web platform [flutter/flutter#124205](https://github.co
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`dart-lang/sdk` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -288,11 +288,11 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 81 | [6](#dart-lang-sdk-55522-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 54 | [6](#dart-lang-sdk-49426-graph)
 investigate tooling scalability in the presence of barrel files [dart-lang/sdk#50369](https://github.com/dart-lang/sdk/issues/50369) | 9 | [6](#dart-lang-sdk-50369-graph)
-`depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 5 | [5](#dart-lang-sdk-59721-graph)
+New YAML configuration for diagnostics analysis options [dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) | 5 | [5](#dart-lang-sdk-57034-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-10-21 to 2025-01-21.
+`dart-lang/language` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -310,7 +310,7 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
 Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/language/issues/323) | 97 | [12](#dart-lang-language-323-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 392 | [11](#dart-lang-language-356-graph)
 Case expressions and return patterns [dart-lang/language#4141](https://github.com/dart-lang/language/issues/4141) | 11 | [11](#dart-lang-language-4141-graph)
-Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/issues/1518) | 81 | [10](#dart-lang-language-1518-graph)
+Constant function literals [dart-lang/language#1048](https://github.com/dart-lang/language/issues/1048) | 302 | [10](#dart-lang-language-1048-graph)
 
 ## Graphs
 
@@ -1266,6 +1266,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="dart-lang-language-1048-graph"></a>
+### Constant function literals
+  <sub>[dart-lang/language#1048](https://github.com/dart-lang/language/issues/1048) &mdash; 302 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 4, 1, 0, 2, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-45336-graph"></a>
 ### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
   <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 179 total reactions, 10 recent reactions</sub><br />
@@ -1295,23 +1312,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 4, 0, 0, 0, 2, 0, 2, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1518-graph"></a>
-### Stable getters
-  <sub>[dart-lang/language#1518](https://github.com/dart-lang/language/issues/1518) &mdash; 81 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0]
   ```
 
   </details>
@@ -2473,9 +2473,9 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59721-graph"></a>
-### `depend_on_referenced_packages` lint false positive in workspace
-  <sub>[dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-57034-graph"></a>
+### New YAML configuration for diagnostics analysis options
+  <sub>[dart-lang/sdk#57034](https://github.com/dart-lang/sdk/issues/57034) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2484,7 +2484,7 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   xychart-beta
     x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 5, 5, 5, 5]
+    bar [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
