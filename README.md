@@ -54,7 +54,7 @@ Reusing state logic is either too verbose or too difficult [flutter/flutter#5175
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 111 | [14](#flutter-flutter-62960-graph)
+[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 116 | [19](#flutter-flutter-62960-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 115 | [8](#flutter-flutter-102560-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 36 | [8](#flutter-flutter-141941-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 290 | [7](#flutter-flutter-21594-graph)
@@ -75,7 +75,7 @@ Flutter slider should have the feature to show value indicator all the time, not
 `f: cupertino` issues that received the most reactions from 2024-10-21 to 2025-01-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 111 | [14](#flutter-flutter-62960-graph)
+[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 116 | [19](#flutter-flutter-62960-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 104 | [5](#flutter-flutter-33798-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 127 | 4
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 148 | 3
@@ -195,12 +195,12 @@ Add suport for Android 13 per-app language preferences  [flutter/flutter#109842]
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 31 | [7](#flutter-flutter-139427-graph)
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 52 | 4
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 83 | 3
+"Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 56 | 3
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 31 | 3
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 26 | 3
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 20 | 3
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 370 | 2
 [webview_flutter] Provide callback/error for unsupported content types (e.g., PDF) [flutter/flutter#48245](https://github.com/flutter/flutter/issues/48245) | 93 | 2
-[webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 80 | 2
 
 #### Web
 
@@ -688,6 +688,23 @@ Constant function literals [dart-lang/language#1048](https://github.com/dart-lan
   </details>
   </sub>
 
+<a name="flutter-flutter-62960-graph"></a>
+### [proposal] Provide a way to close a specific dialog
+  <sub>[flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) &mdash; 116 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
+    y-axis "Reactions" 0 --> 20
+    bar [5, 0, 0, 5, 0, 1, 1, 0, 2, 0, 0, 0, 0, 5]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-160127-graph"></a>
 ### HTML images from cached_network_image no longer load in 3.27
   <sub>[flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) &mdash; 19 total reactions, 19 recent reactions</sub><br />
@@ -909,40 +926,6 @@ Constant function literals [dart-lang/language#1048](https://github.com/dart-lan
   </details>
   </sub>
 
-<a name="flutter-flutter-62960-graph"></a>
-### [proposal] Provide a way to close a specific dialog
-  <sub>[flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) &mdash; 111 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
-    y-axis "Reactions" 0 --> 20
-    bar [5, 0, 0, 5, 0, 1, 1, 0, 2, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160338-graph"></a>
-### Nested generic function inside factory constructor crashes flutter run (web) compiler
-  <sub>[flutter/flutter#160338](https://github.com/flutter/flutter/issues/160338) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160207-graph"></a>
 ### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
   <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -972,6 +955,23 @@ Constant function literals [dart-lang/language#1048](https://github.com/dart-lan
     x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160338-graph"></a>
+### Nested generic function inside factory constructor crashes flutter run (web) compiler
+  <sub>[flutter/flutter#160338](https://github.com/flutter/flutter/issues/160338) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 21, Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 0]
   ```
 
   </details>
