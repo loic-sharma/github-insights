@@ -6,7 +6,7 @@ Issues that received the most reactions from 2024-10-28 to 2025-01-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 211 | [211](#flutter-flutter-162069-graph)
+revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 221 | [221](#flutter-flutter-162069-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 169 | [169](#dart-lang-language-4211-graph)
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 85 | [85](#flutter-flutter-159342-graph)
@@ -35,7 +35,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 130 | [47](#flutter-flutter-142845-graph)
 Decorators experiment [flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) | 31 | [31](#flutter-flutter-161345-graph)
 [Proposal]Provide a alternative to deprecated `Color.value` [flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) | 22 | [22](#flutter-flutter-160184-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 178 | [19](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 179 | [20](#flutter-flutter-65504-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 123 | [17](#flutter-flutter-99606-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 34 | [13](#flutter-flutter-81005-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 48 | [12](#flutter-flutter-101227-graph)
@@ -140,7 +140,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 `team-engine` issues that received the most reactions from 2024-10-28 to 2025-01-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 211 | [211](#flutter-flutter-162069-graph)
+revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 221 | [221](#flutter-flutter-162069-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 35 | [35](#flutter-flutter-160442-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 169 | [19](#flutter-flutter-25841-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 193 | [14](#flutter-flutter-61229-graph)
@@ -316,7 +316,7 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
 
 <a name="flutter-flutter-162069-graph"></a>
 ### revert deprecating Color withOpacity / opacity
-  <sub>[flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) &mdash; 211 total reactions, 211 recent reactions</sub><br />
+  <sub>[flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) &mdash; 221 total reactions, 221 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   xychart-beta
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 211]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 221]
   ```
 
   </details>
@@ -688,6 +688,23 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 179 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 5, 1, 0, 1, 1, 4, 1, 0, 0, 0, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-139289-graph"></a>
 ### Allow to provide compile-time variables for native platforms from a file
   <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 173 total reactions, 20 recent reactions</sub><br />
@@ -734,23 +751,6 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
     y-axis "Reactions" 0 --> 20
     bar [2, 3, 0, 0, 3, 0, 0, 1, 4, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 178 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 5, 1, 0, 1, 1, 4, 1, 0, 0, 0, 1, 0]
   ```
 
   </details>
