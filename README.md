@@ -6,7 +6,7 @@ Issues that received the most reactions from 2024-10-28 to 2025-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 456 | [456](#flutter-flutter-162069-graph)
+revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 464 | [464](#flutter-flutter-162069-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 170 | [170](#dart-lang-language-4211-graph)
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 85 | [85](#flutter-flutter-159342-graph)
@@ -16,8 +16,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 132 | [49](#flutter-flutter-142845-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1032 | [43](#dart-lang-language-357-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 848 | [41](#flutter-flutter-46789-graph)
+Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 38 | [38](#flutter-flutter-160442-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1127 | [37](#dart-lang-language-723-graph)
-Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 37 | [37](#flutter-flutter-160442-graph)
 [Enum Shorthands][meta] Enum shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 31 | [31](#dart-lang-sdk-57036-graph)
 Decorators experiment [flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) | 31 | [31](#flutter-flutter-161345-graph)
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 135 | [29](#flutter-flutter-115704-graph)
@@ -140,8 +140,8 @@ Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.c
 `team-engine` issues that received the most reactions from 2024-10-28 to 2025-01-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 456 | [456](#flutter-flutter-162069-graph)
-Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 37 | [37](#flutter-flutter-160442-graph)
+revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 464 | [464](#flutter-flutter-162069-graph)
+Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 38 | [38](#flutter-flutter-160442-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 169 | [19](#flutter-flutter-25841-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2014 | [15](#flutter-flutter-14330-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 193 | [14](#flutter-flutter-61229-graph)
@@ -316,7 +316,7 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
 
 <a name="flutter-flutter-162069-graph"></a>
 ### revert deprecating Color withOpacity / opacity
-  <sub>[flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) &mdash; 456 total reactions, 456 recent reactions</sub><br />
+  <sub>[flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) &mdash; 464 total reactions, 464 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   xychart-beta
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 435, 456]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 435, 464]
   ```
 
   </details>
@@ -484,6 +484,23 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
+<a name="flutter-flutter-160442-graph"></a>
+### Slow Vulkan performance on API 35 Android Emulator images.
+  <sub>[flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) &mdash; 38 total reactions, 38 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 29, 36, 38]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
   <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1127 total reactions, 37 recent reactions</sub><br />
@@ -496,23 +513,6 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [7, 2, 2, 3, 3, 2, 2, 2, 0, 0, 1, 1, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160442-graph"></a>
-### Slow Vulkan performance on API 35 Android Emulator images.
-  <sub>[flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) &mdash; 37 total reactions, 37 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 29, 36, 37]
   ```
 
   </details>
@@ -824,23 +824,6 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160155-graph"></a>
 ### Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element
   <sub>[flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -870,6 +853,23 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 11, 13, 16, 16, 16, 16, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
   ```
 
   </details>
@@ -1334,23 +1334,6 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59715-graph"></a>
-### Deprecate `Random()` default constructor, replace with `Random.insecure()`
-  <sub>[dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 6, 9, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4150-graph"></a>
 ### Method-to-function conversion
   <sub>[dart-lang/language#4150](https://github.com/dart-lang/language/issues/4150) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1363,6 +1346,23 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [0, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-59715-graph"></a>
+### Deprecate `Random()` default constructor, replace with `Random.insecure()`
+  <sub>[dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 6, 9, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1963,23 +1963,6 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
-<a name="flutter-flutter-105913-graph"></a>
-### Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes
-  <sub>[flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) &mdash; 42 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-134346-graph"></a>
 ### Make Windows plugin APIs thread-safe
   <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 42 total reactions, 7 recent reactions</sub><br />
@@ -1992,6 +1975,23 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-105913-graph"></a>
+### Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes
+  <sub>[flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 2, 0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
