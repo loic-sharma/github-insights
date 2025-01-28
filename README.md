@@ -875,23 +875,6 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
-<a name="flutter-flutter-160155-graph"></a>
-### Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element
-  <sub>[flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160142-graph"></a>
 ### Flutter bundles assets from all packages in a pub workspace
   <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -904,6 +887,23 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160155-graph"></a>
+### Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element
+  <sub>[flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -977,9 +977,9 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
-<a name="flutter-flutter-160207-graph"></a>
-### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
-  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-160144-graph"></a>
+###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
+  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -988,7 +988,7 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   xychart-beta
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
@@ -1011,9 +1011,9 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
-<a name="flutter-flutter-160144-graph"></a>
-###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
-  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-160207-graph"></a>
+### Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0
+  <sub>[flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1022,7 +1022,7 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   xychart-beta
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1368,23 +1368,6 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59715-graph"></a>
-### Deprecate `Random()` default constructor, replace with `Random.insecure()`
-  <sub>[dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 6, 9, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4150-graph"></a>
 ### Method-to-function conversion
   <sub>[dart-lang/language#4150](https://github.com/dart-lang/language/issues/4150) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1397,6 +1380,23 @@ Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [0, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-59715-graph"></a>
+### Deprecate `Random()` default constructor, replace with `Random.insecure()`
+  <sub>[dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 6, 9, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
