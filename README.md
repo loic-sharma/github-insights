@@ -46,7 +46,7 @@ Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](http
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 181 | [11](#flutter-flutter-45336-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 666 | [10](#flutter-flutter-30701-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 109 | [8](#flutter-flutter-127409-graph)
-Document that WillPopScope prevents swipe to go back on MaterialPageRoute [flutter/flutter#14203](https://github.com/flutter/flutter/issues/14203) | 200 | [6](#flutter-flutter-14203-graph)
+Document that WillPopScope prevents swipe to go back on MaterialPageRoute [flutter/flutter#14203](https://github.com/flutter/flutter/issues/14203) | 201 | [7](#flutter-flutter-14203-graph)
 
 #### Design
 
@@ -56,9 +56,9 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 116 | [14](#flutter-flutter-62960-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 38 | [9](#flutter-flutter-141941-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 116 | [8](#flutter-flutter-102560-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 290 | [7](#flutter-flutter-21594-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 262 | [7](#flutter-flutter-18345-graph)
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 115 | [7](#flutter-flutter-102560-graph)
 Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 93 | [6](#flutter-flutter-116526-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 128 | [5](#flutter-flutter-101479-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 104 | [5](#flutter-flutter-33798-graph)
@@ -196,10 +196,10 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 52 | 4
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 32 | 4
 PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 26 | 4
+[webview_flutter] Provide callback/error for unsupported content types (e.g., PDF) [flutter/flutter#48245](https://github.com/flutter/flutter/issues/48245) | 94 | 3
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 56 | 3
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 26 | 3
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 371 | 2
-[webview_flutter] Provide callback/error for unsupported content types (e.g., PDF) [flutter/flutter#48245](https://github.com/flutter/flutter/issues/48245) | 93 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 83 | 2
 
 #### Web
@@ -305,7 +305,7 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 226 | [20](#dart-lang-language-2364-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 230 | [17](#dart-lang-language-1076-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 17 | [17](#dart-lang-language-4200-graph)
-Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) | 14 | [14](#dart-lang-language-4205-graph)
+Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) | 15 | [15](#dart-lang-language-4205-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 229 | [13](#dart-lang-language-524-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 393 | [12](#dart-lang-language-356-graph)
 Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/language/issues/323) | 97 | [12](#dart-lang-language-323-graph)
@@ -943,6 +943,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="dart-lang-language-4205-graph"></a>
+### Inline catching
+  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14, 14, 14, 15]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-160144-graph"></a>
 ###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
   <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -1040,23 +1057,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4205-graph"></a>
-### Inline catching
-  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 6, 9, 13, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1691,6 +1691,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 116 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 2, 1, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-41726-graph"></a>
 ### [webview_flutter] Add Linux support
   <sub>[flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) &mdash; 115 total reactions, 8 recent reactions</sub><br />
@@ -1895,6 +1912,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-14203-graph"></a>
+### Document that WillPopScope prevents swipe to go back on MaterialPageRoute
+  <sub>[flutter/flutter#14203](https://github.com/flutter/flutter/issues/14203) &mdash; 201 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 0, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-41980-graph"></a>
 ### [Desktop] - Splash screen or background color customization
   <sub>[flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) &mdash; 193 total reactions, 7 recent reactions</sub><br />
@@ -1958,23 +1992,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 1, 1, 0, 0, 1, 0, 0, -1, 0, 2, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 115 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2145,23 +2162,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14203-graph"></a>
-### Document that WillPopScope prevents swipe to go back on MaterialPageRoute
-  <sub>[flutter/flutter#14203](https://github.com/flutter/flutter/issues/14203) &mdash; 200 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 28, Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 0, 0, 0, 0]
   ```
 
   </details>
