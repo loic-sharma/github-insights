@@ -176,9 +176,9 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 273 | 4
 [in_app_purchase][ios] `AppStorePurchaseDetails.pendingCompletePurchase = true` after calling `completePurchase` [flutter/flutter#98484](https://github.com/flutter/flutter/issues/98484) | 26 | 4
 Colorized console output does not work in iOS builds but works for Android builds [flutter/flutter#64491](https://github.com/flutter/flutter/issues/64491) | 69 | 3
+[ios][video_player] pip - picture in picture [flutter/flutter#60048](https://github.com/flutter/flutter/issues/60048) | 37 | 3
 ☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 25 | 3
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 140 | 2
-Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](https://github.com/flutter/flutter/issues/103163) | 65 | 2
 
 #### Android
 
@@ -309,8 +309,8 @@ Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 395 | [13](#dart-lang-language-356-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 229 | [13](#dart-lang-language-524-graph)
 Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/language/issues/323) | 98 | [13](#dart-lang-language-323-graph)
+Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) | 11 | [11](#dart-lang-language-4246-graph)
 Method-to-function conversion [dart-lang/language#4150](https://github.com/dart-lang/language/issues/4150) | 10 | [10](#dart-lang-language-4150-graph)
-Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 10 | [10](#dart-lang-language-4154-graph)
 
 ## Graphs
 
@@ -1402,6 +1402,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="dart-lang-language-4246-graph"></a>
+### Enhanced Constructors
+  <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 11]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 668 total reactions, 10 recent reactions</sub><br />
@@ -1470,40 +1487,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-language-4150-graph"></a>
-### Method-to-function conversion
-  <sub>[dart-lang/language#4150](https://github.com/dart-lang/language/issues/4150) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3]
-    y-axis "Reactions" 0 --> 20
-    bar [8, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4154-graph"></a>
-### Library augmentations
-  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59715-graph"></a>
 ### Deprecate `Random()` default constructor, replace with `Random.insecure()`
   <sub>[dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -1516,6 +1499,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 6, 9, 10, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4150-graph"></a>
+### Method-to-function conversion
+  <sub>[dart-lang/language#4150](https://github.com/dart-lang/language/issues/4150) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 4, Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3]
+    y-axis "Reactions" 0 --> 20
+    bar [8, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
