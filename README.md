@@ -10,15 +10,15 @@ revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 182 | [182](#dart-lang-language-4211-graph)
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1268 | [107](#flutter-flutter-53041-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2183 | [86](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2184 | [87](#dart-lang-language-314-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 86 | [86](#flutter-flutter-159342-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 105 | [51](#dart-lang-sdk-55281-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1035 | [39](#dart-lang-language-357-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 850 | [39](#flutter-flutter-46789-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 138 | [37](#flutter-flutter-142845-graph)
-[webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 32 | [32](#flutter-flutter-162437-graph)
 Decorators experiment [flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) | 32 | [32](#flutter-flutter-161345-graph)
+[webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 32 | [32](#flutter-flutter-162437-graph)
 Nested generic function inside factory constructor crashes flutter run (web) compiler [flutter/flutter#160338](https://github.com/flutter/flutter/issues/160338) | 29 | [29](#flutter-flutter-160338-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
 
@@ -176,8 +176,8 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 274 | [5](#flutter-flutter-28901-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 149 | [5](#flutter-flutter-126005-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 43 | 4
-[in_app_purchase][ios] `AppStorePurchaseDetails.pendingCompletePurchase = true` after calling `completePurchase` [flutter/flutter#98484](https://github.com/flutter/flutter/issues/98484) | 26 | 4
 ☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 26 | 4
+[in_app_purchase][ios] `AppStorePurchaseDetails.pendingCompletePurchase = true` after calling `completePurchase` [flutter/flutter#98484](https://github.com/flutter/flutter/issues/98484) | 26 | 4
 [ios][video_player] pip - picture in picture [flutter/flutter#60048](https://github.com/flutter/flutter/issues/60048) | 37 | 3
 
 #### Android
@@ -297,7 +297,7 @@ Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://g
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 182 | [182](#dart-lang-language-4211-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2183 | [86](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2184 | [87](#dart-lang-language-314-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1035 | [39](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1128 | [26](#dart-lang-language-723-graph)
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 102 | [19](#dart-lang-language-3001-graph)
@@ -384,7 +384,7 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
 
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2183 total reactions, 86 recent reactions</sub><br />
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2184 total reactions, 87 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -393,7 +393,7 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   xychart-beta
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions"
-    bar [0, 0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 64, 10, 0]
+    bar [0, 0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 64, 10, 1]
   ```
 
   </details>
@@ -501,23 +501,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-162437-graph"></a>
-### [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0
-  <sub>[flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) &mdash; 32 total reactions, 32 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 32]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-161345-graph"></a>
 ### Decorators experiment
   <sub>[flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) &mdash; 32 total reactions, 32 recent reactions</sub><br />
@@ -530,6 +513,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 32, 32, 32]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-162437-graph"></a>
+### [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0
+  <sub>[flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) &mdash; 32 total reactions, 32 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 32]
   ```
 
   </details>
@@ -756,23 +756,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="dart-lang-language-4200-graph"></a>
-### More capable `Type` objects
-  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-161142-graph"></a>
 ### Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1
   <sub>[flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -785,6 +768,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4200-graph"></a>
+### More capable `Type` objects
+  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18]
   ```
 
   </details>
@@ -858,6 +858,40 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-162818-graph"></a>
+### Remove instances of `useMaterial3: true` in framework, samples and codelabs
+  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-160144-graph"></a>
 ###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
   <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -904,40 +938,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-162818-graph"></a>
-### Remove instances of `useMaterial3: true` in framework, samples and codelabs
-  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
   ```
 
   </details>
@@ -2507,23 +2507,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-150525-graph"></a>
-### Consider merging platform and UI thread
-  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 24 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-125090-graph"></a>
 ### [FATAL:flutter/shell/platform/android/platform_view_android_jni_impl.cc(1233)] Check failed: fml::jni::CheckException(env). 
   <sub>[flutter/flutter#125090](https://github.com/flutter/flutter/issues/125090) &mdash; 24 total reactions, 5 recent reactions</sub><br />
@@ -2536,6 +2519,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-150525-graph"></a>
+### Consider merging platform and UI thread
+  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 24 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1]
   ```
 
   </details>
