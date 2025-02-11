@@ -230,7 +230,7 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 432 | [13](#flutter-flutter-31713-graph)
+Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 433 | [14](#flutter-flutter-31713-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 197 | [10](#flutter-flutter-41980-graph)
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 115 | [9](#flutter-flutter-41726-graph)
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 45 | [8](#flutter-flutter-134346-graph)
@@ -994,6 +994,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-31713-graph"></a>
+### Implement PlatformView support on Windows
+  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 433 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 2, 1, 0, 0, 0, 2, 1, 3, 0, 1, 1, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-62960-graph"></a>
 ### [proposal] Provide a way to close a specific dialog
   <sub>[flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) &mdash; 116 total reactions, 14 recent reactions</sub><br />
@@ -1040,23 +1057,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 13, 14, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-31713-graph"></a>
-### Implement PlatformView support on Windows
-  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 432 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 0, 0, 0, 2, 1, 3, 0, 1, 1, 0, 0]
   ```
 
   </details>
