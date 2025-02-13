@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-11-11 to 2025-02-12.
+Issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -12,7 +12,7 @@ Error: "The targeted input element must be the active input element" when switch
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1268 | [107](#flutter-flutter-53041-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2184 | [87](#dart-lang-language-314-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 86 | [86](#flutter-flutter-159342-graph)
-☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 79 | [79](#flutter-flutter-162960-graph)
+☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 84 | [84](#flutter-flutter-162960-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 106 | [52](#dart-lang-sdk-55281-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1035 | [39](#dart-lang-language-357-graph)
@@ -28,7 +28,7 @@ Nested generic function inside factory constructor crashes flutter run (web) com
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-framework` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -44,13 +44,13 @@ Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 242 | [12](#flutter-flutter-54200-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 183 | [12](#flutter-flutter-45336-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 669 | [10](#flutter-flutter-30701-graph)
-Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 226 | [9](#flutter-flutter-138614-graph)
+Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 227 | [10](#flutter-flutter-138614-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 45 | [9](#flutter-flutter-101227-graph)
 Document that WillPopScope prevents swipe to go back on MaterialPageRoute [flutter/flutter#14203](https://github.com/flutter/flutter/issues/14203) | 202 | [8](#flutter-flutter-14203-graph)
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-design` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ ReorderableListView Weird Behaviour on reordering the second last child [flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`f: cupertino` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 116 | [14](#flutter-flutter-62960-graph)
@@ -93,7 +93,7 @@ CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](ht
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-go_router` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-tool` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Deprecate and remove synthetic `package:flutter_gen` [flutter/flutter#102983](ht
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-engine` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
@@ -160,7 +160,7 @@ Support home and lock screen widgets [flutter/flutter#26134](https://github.com/
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-ios` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Blur filter isn't clipped when using border radius [flutter/flutter#115926](http
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-android` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-web` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -212,7 +212,7 @@ Error: "The targeted input element must be the active input element" when switch
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1268 | [107](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 850 | [39](#flutter-flutter-46789-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 338 | [20](#flutter-flutter-145954-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 339 | [21](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 269 | [13](#flutter-flutter-45296-graph)
@@ -226,7 +226,7 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-desktop` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Support stylus input on Windows 10 devices [flutter/flutter#65248](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`team-ecosystem` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -256,7 +256,7 @@ Error: "The targeted input element must be the active input element" when switch
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1268 | [107](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 850 | [39](#flutter-flutter-46789-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 338 | [20](#flutter-flutter-145954-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 339 | [21](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 269 | [13](#flutter-flutter-45296-graph)
@@ -270,7 +270,7 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`dart-lang/sdk` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://g
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-11-11 to 2025-02-12.
+`dart-lang/language` issues that received the most reactions from 2024-11-11 to 2025-02-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -418,7 +418,7 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
 
 <a name="flutter-flutter-162960-graph"></a>
 ### ☂️Packages planned to be discontinued
-  <sub>[flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) &mdash; 79 total reactions, 79 recent reactions</sub><br />
+  <sub>[flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) &mdash; 84 total reactions, 84 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -427,7 +427,7 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   xychart-beta
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 79]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 84]
   ```
 
   </details>
@@ -671,6 +671,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-145954-graph"></a>
+### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
+  <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 339 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 1, 7, 0, 2, 2, 0, 4, 0, 1, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 201 total reactions, 21 recent reactions</sub><br />
@@ -683,23 +700,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 1, 1, 1, 0, 2, 2, 4, 0, 3, 2, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145954-graph"></a>
-### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
-  <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 338 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 7, 0, 2, 2, 0, 4, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1368,6 +1368,23 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-138614-graph"></a>
+### Preserve WillPopScope as an alternate for PopScope
+  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 227 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-41980-graph"></a>
 ### [Desktop] - Splash screen or background color customization
   <sub>[flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) &mdash; 197 total reactions, 10 recent reactions</sub><br />
@@ -1516,23 +1533,6 @@ Stable getters [dart-lang/language#1518](https://github.com/dart-lang/language/i
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [3, 0, 0, 0, 1, 0, 0, 0, 0, 2, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-138614-graph"></a>
-### Preserve WillPopScope as an alternate for PopScope
-  <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 226 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1]
   ```
 
   </details>
