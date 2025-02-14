@@ -102,12 +102,12 @@ Issue | Total reactions | Recent reactions
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 128 | [7](#flutter-flutter-112196-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 48 | [7](#flutter-flutter-140586-graph)
 PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 123 | [6](#flutter-flutter-138737-graph)
+[go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 56 | [5](#flutter-flutter-120353-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 54 | [5](#flutter-flutter-122258-graph)
 [go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 28 | 4
 [go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 27 | 4
 Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) | 21 | 4
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 56 | 3
-[go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 54 | 3
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 44 | 3
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 37 | 3
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 32 | 3
@@ -187,7 +187,7 @@ Blur filter isn't clipped when using border radius [flutter/flutter#115926](http
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 53 | [18](#flutter-flutter-156111-graph)
-[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 43 | [16](#flutter-flutter-145961-graph)
+[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 44 | [17](#flutter-flutter-145961-graph)
 Add suport for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 87 | [11](#flutter-flutter-109842-graph)
 Make it easier to upload Android native debug symbols for release builds [flutter/flutter#60240](https://github.com/flutter/flutter/issues/60240) | 257 | [10](#flutter-flutter-60240-graph)
 [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 48 | [10](#flutter-flutter-95403-graph)
@@ -212,7 +212,7 @@ Error: "The targeted input element must be the active input element" when switch
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1268 | [107](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 850 | [39](#flutter-flutter-46789-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 341 | [23](#flutter-flutter-145954-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 342 | [24](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 269 | [13](#flutter-flutter-45296-graph)
@@ -256,7 +256,7 @@ Error: "The targeted input element must be the active input element" when switch
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1268 | [107](#flutter-flutter-53041-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 850 | [39](#flutter-flutter-46789-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
-☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 341 | [23](#flutter-flutter-145954-graph)
+☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 342 | [24](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 269 | [13](#flutter-flutter-45296-graph)
@@ -654,6 +654,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="flutter-flutter-145954-graph"></a>
+### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
+  <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 342 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 1, 7, 0, 2, 2, 0, 4, 0, 1, 0, 4]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-135050-graph"></a>
 ### Add `context.dependOnListenable(Listenable listenable)`
   <sub>[flutter/flutter#135050](https://github.com/flutter/flutter/issues/135050) &mdash; 70 total reactions, 24 recent reactions</sub><br />
@@ -666,23 +683,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145954-graph"></a>
-### ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web
-  <sub>[flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) &mdash; 341 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 7, 0, 2, 2, 0, 4, 0, 1, 0, 3]
   ```
 
   </details>
@@ -841,6 +841,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="flutter-flutter-145961-graph"></a>
+### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
+  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 44 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 2, 0, 2, 2, 0, 1, 0, 1, 0, 2, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-2364-graph"></a>
 ### Primary constructor on classes
   <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 228 total reactions, 16 recent reactions</sub><br />
@@ -892,9 +909,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-145961-graph"></a>
-### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
-  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 43 total reactions, 16 recent reactions</sub><br />
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -903,15 +920,15 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 2, 0, 2, 2, 0, 1, 0, 1, 0, 2, 1]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-162818-graph"></a>
-### Remove instances of `useMaterial3: true` in framework, samples and codelabs
-  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+<a name="dart-lang-language-4246-graph"></a>
+### Enhanced Constructors
+  <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 16 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -920,7 +937,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16]
   ```
 
   </details>
@@ -943,23 +960,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160144-graph"></a>
 ###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
   <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -977,9 +977,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="dart-lang-language-4246-graph"></a>
-### Enhanced Constructors
-  <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+<a name="flutter-flutter-162818-graph"></a>
+### Remove instances of `useMaterial3: true` in framework, samples and codelabs
+  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -988,7 +988,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
   ```
 
   </details>
@@ -1674,23 +1674,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-61814-graph"></a>
-### [proposal] allow to detect programmatically what flutter version the app was compiled under
-  <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-46442-graph"></a>
 ### Throws exception 'Failed to parse header value'
   <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
@@ -1703,6 +1686,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-61814-graph"></a>
+### [proposal] allow to detect programmatically what flutter version the app was compiled under
+  <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3]
   ```
 
   </details>
@@ -2502,6 +2502,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-120353-graph"></a>
+### [go_router] ShellRoutes break iOS swipe back navigation
+  <sub>[flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) &mdash; 56 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2]
   ```
 
   </details>
