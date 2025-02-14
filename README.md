@@ -46,7 +46,7 @@ Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutte
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 670 | [11](#flutter-flutter-30701-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 227 | [10](#flutter-flutter-138614-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 45 | [9](#flutter-flutter-101227-graph)
-Document that WillPopScope prevents swipe to go back on MaterialPageRoute [flutter/flutter#14203](https://github.com/flutter/flutter/issues/14203) | 202 | [8](#flutter-flutter-14203-graph)
+[proposal] allow to detect programmatically what flutter version the app was compiled under [flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) | 25 | [9](#flutter-flutter-61814-graph)
 
 #### Design
 
@@ -197,10 +197,10 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 32 | [6](#flutter-flutter-139427-graph)
 [FATAL:flutter/shell/platform/android/platform_view_android_jni_impl.cc(1233)] Check failed: fml::jni::CheckException(env).  [flutter/flutter#125090](https://github.com/flutter/flutter/issues/125090) | 24 | [5](#flutter-flutter-125090-graph)
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 52 | 4
+Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 34 | 4
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 17 | 4
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 84 | 3
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 81 | 3
-Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 33 | 3
 
 #### Web
 
@@ -308,9 +308,9 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) | 15 | [15](#dart-lang-language-4205-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 231 | [12](#dart-lang-language-1076-graph)
 Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/language/issues/323) | 98 | [11](#dart-lang-language-323-graph)
+Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/language/issues/3712) | 75 | [10](#dart-lang-language-3712-graph)
 Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 11 | [10](#dart-lang-language-4154-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 528 | [9](#dart-lang-language-83-graph)
-Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 229 | [9](#dart-lang-language-524-graph)
 
 ## Graphs
 
@@ -909,9 +909,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+<a name="dart-lang-language-4246-graph"></a>
+### Enhanced Constructors
+  <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 16 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -920,7 +920,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16]
   ```
 
   </details>
@@ -943,6 +943,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-160144-graph"></a>
+###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
+  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-160155-graph"></a>
 ### Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element
   <sub>[flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -960,9 +977,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4246-graph"></a>
-### Enhanced Constructors
-  <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -971,24 +988,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160144-graph"></a>
-###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
-  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
   ```
 
   </details>
@@ -1453,6 +1453,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="dart-lang-language-3712-graph"></a>
+### Wildcard variables
+  <sub>[dart-lang/language#3712](https://github.com/dart-lang/language/issues/3712) &mdash; 75 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 1, 3, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-149031-graph"></a>
 ### [WEB] Web Cache invalidation based on pubspec.yaml version
   <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 68 total reactions, 10 recent reactions</sub><br />
@@ -1550,23 +1567,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 0, 0, 0, 0, 1, 2, 0, 1, 0, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-524-graph"></a>
-### Feature: Statically checked declaration-site variance
-  <sub>[dart-lang/language#524](https://github.com/dart-lang/language/issues/524) &mdash; 229 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 1, 0, 0, 0, 0, 2, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1691,6 +1691,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-61814-graph"></a>
+### [proposal] allow to detect programmatically what flutter version the app was compiled under
+  <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-60013-graph"></a>
 ### Support ignoring lint(s) for a part of the file
   <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -1754,23 +1771,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 1, 0, 1, 1, 0, 0, 4, 0, 0, 0, -1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14203-graph"></a>
-### Document that WillPopScope prevents swipe to go back on MaterialPageRoute
-  <sub>[flutter/flutter#14203](https://github.com/flutter/flutter/issues/14203) &mdash; 202 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 11, Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 3, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
