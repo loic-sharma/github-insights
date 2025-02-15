@@ -54,10 +54,10 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 139 | [16](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 140 | [17](#flutter-flutter-101479-graph)
 Remove instances of `useMaterial3: true` in framework, samples and codelabs [flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) | 16 | [16](#flutter-flutter-162818-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 116 | [9](#flutter-flutter-62960-graph)
-Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 291 | [7](#flutter-flutter-21594-graph)
+Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 292 | [8](#flutter-flutter-21594-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 263 | [7](#flutter-flutter-18345-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | [7](#flutter-flutter-33798-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 39 | [7](#flutter-flutter-141941-graph)
@@ -75,7 +75,7 @@ ReorderableListView Weird Behaviour on reordering the second last child [flutter
 `f: cupertino` issues that received the most reactions from 2024-11-18 to 2025-02-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 139 | [16](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 140 | [17](#flutter-flutter-101479-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 116 | [9](#flutter-flutter-62960-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | [7](#flutter-flutter-33798-graph)
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 57 | 4
@@ -807,6 +807,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
+<a name="flutter-flutter-101479-graph"></a>
+### Move the material and cupertino packages outside of Flutter
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 140 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 12]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-3001-graph"></a>
 ### Parameter destructuring
   <sub>[dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) &mdash; 102 total reactions, 17 recent reactions</sub><br />
@@ -858,23 +875,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="flutter-flutter-101479-graph"></a>
-### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 139 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 11]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-156111-graph"></a>
 ### Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete`
   <sub>[flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) &mdash; 53 total reactions, 16 recent reactions</sub><br />
@@ -887,40 +887,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [4, 0, 1, 2, 3, 2, 2, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160144-graph"></a>
-###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
-  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
   ```
 
   </details>
@@ -960,6 +926,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
+<a name="flutter-flutter-160144-graph"></a>
+###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
+  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-162818-graph"></a>
 ### Remove instances of `useMaterial3: true` in framework, samples and codelabs
   <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -972,6 +955,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
   ```
 
   </details>
@@ -1657,23 +1657,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="flutter-flutter-61814-graph"></a>
-### [proposal] allow to detect programmatically what flutter version the app was compiled under
-  <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-46442-graph"></a>
 ### Throws exception 'Failed to parse header value'
   <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
@@ -1686,6 +1669,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-61814-graph"></a>
+### [proposal] allow to detect programmatically what flutter version the app was compiled under
+  <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3]
   ```
 
   </details>
@@ -1720,6 +1720,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-21594-graph"></a>
+### Table > TableRow > TableCell colspan
+  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 292 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1]
   ```
 
   </details>
@@ -1873,23 +1890,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-21594-graph"></a>
-### Table > TableRow > TableCell colspan
-  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 291 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2422,6 +2422,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
+<a name="flutter-flutter-120353-graph"></a>
+### [go_router] ShellRoutes break iOS swipe back navigation
+  <sub>[flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) &mdash; 56 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-49426-graph"></a>
 ### [Feature request] Date class, without time
   <sub>[dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) &mdash; 56 total reactions, 5 recent reactions</sub><br />
@@ -2439,9 +2456,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="flutter-flutter-120353-graph"></a>
-### [go_router] ShellRoutes break iOS swipe back navigation
-  <sub>[flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) &mdash; 56 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-122258-graph"></a>
+### [go_router_builder] Define routes in separate files
+  <sub>[flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) &mdash; 54 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2450,7 +2467,7 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   xychart-beta
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2]
+    bar [1, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2485,23 +2502,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
     y-axis "Reactions" 0 --> 20
     bar [2, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-122258-graph"></a>
-### [go_router_builder] Define routes in separate files
-  <sub>[flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) &mdash; 54 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
