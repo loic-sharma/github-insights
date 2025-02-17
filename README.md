@@ -2,19 +2,19 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-11-18 to 2025-02-16.
+Issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 340 | [217](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 429 | [306](#flutter-flutter-101479-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 182 | [182](#dart-lang-language-4211-graph)
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
-☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 103 | [103](#flutter-flutter-162960-graph)
+☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 104 | [104](#flutter-flutter-162960-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1269 | [102](#flutter-flutter-53041-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 90 | [90](#flutter-flutter-159342-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2191 | [89](#dart-lang-language-314-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 107 | [51](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 108 | [52](#dart-lang-sdk-55281-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1039 | [41](#dart-lang-language-357-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 145 | [41](#flutter-flutter-142845-graph)
@@ -28,7 +28,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-framework` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,38 +50,38 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-design` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 340 | [217](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 429 | [306](#flutter-flutter-101479-graph)
 Remove instances of `useMaterial3: true` in framework, samples and codelabs [flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) | 16 | [16](#flutter-flutter-162818-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 116 | [9](#flutter-flutter-62960-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 292 | [8](#flutter-flutter-21594-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 263 | [7](#flutter-flutter-18345-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | [7](#flutter-flutter-33798-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 39 | [7](#flutter-flutter-141941-graph)
+Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 41 | [6](#flutter-flutter-53059-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 116 | [5](#flutter-flutter-102560-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 80 | 4
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 57 | 4
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 56 | 4
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 46 | 4
 Overscrolling outer scrollview / SliverAppBar.stretch does not work in NestedScrollView [flutter/flutter#54059](https://github.com/flutter/flutter/issues/54059) | 45 | 4
-Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 39 | 4
 ReorderableListView Weird Behaviour on reordering the second last child [flutter/flutter#90856](https://github.com/flutter/flutter/issues/90856) | 39 | 4
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`f: cupertino` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 340 | [217](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 429 | [306](#flutter-flutter-101479-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 116 | [9](#flutter-flutter-62960-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | [7](#flutter-flutter-33798-graph)
+Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 41 | [6](#flutter-flutter-53059-graph)
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 57 | 4
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 56 | 4
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 46 | 4
-Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 39 | 4
 Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/flutter/flutter/issues/55809) | 60 | 2
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 21 | 2
 Support for sheet presentation style [flutter/flutter#42560](https://github.com/flutter/flutter/issues/42560) | 148 | 1
@@ -93,7 +93,7 @@ CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](ht
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-go_router` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-tool` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -128,8 +128,8 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 419 | [6](#flutter-flutter-71400-graph)
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 145 | [6](#flutter-flutter-65065-graph)
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 64 | [5](#flutter-flutter-129757-graph)
-Let Flutter be installable via winget [flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) | 42 | [5](#flutter-flutter-57674-graph)
 Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes [flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) | 42 | [5](#flutter-flutter-105913-graph)
+Let Flutter be installable via winget [flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) | 42 | [5](#flutter-flutter-57674-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 145 | 4
 Provide an easy way to select the version of Flutter to use [flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230) | 139 | 3
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 108 | 3
@@ -137,7 +137,7 @@ Deprecate and remove synthetic `package:flutter_gen` [flutter/flutter#102983](ht
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-engine` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
@@ -147,7 +147,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0 [flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) | 14 | [14](#flutter-flutter-160207-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 180 | [12](#flutter-flutter-14288-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 346 | [10](#flutter-flutter-128313-graph)
-Consider merging platform and UI thread [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 29 | [9](#flutter-flutter-150525-graph)
+Consider merging platform and UI thread [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 30 | [10](#flutter-flutter-150525-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 520 | [8](#flutter-flutter-26801-graph)
 Assertion Error on device with 120hz refresh rate "The following assertion was thrown during a scheduler callback: 'elapsedInSeconds >= 0.0': is not true." [flutter/flutter#106277](https://github.com/flutter/flutter/issues/106277) | 40 | [8](#flutter-flutter-106277-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2016 | [7](#flutter-flutter-14330-graph)
@@ -160,7 +160,7 @@ Support home and lock screen widgets [flutter/flutter#26134](https://github.com/
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-ios` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Colorized console output does not work in iOS builds but works for Android build
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-android` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-web` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -216,9 +216,9 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 269 | [13](#flutter-flutter-45296-graph)
+[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [12](#flutter-flutter-156910-graph)
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 337 | [11](#flutter-flutter-33577-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 76 | [11](#flutter-flutter-124334-graph)
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 38 | [11](#flutter-flutter-156910-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 69 | [10](#flutter-flutter-149031-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 188 | [9](#flutter-flutter-69529-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 35 | [9](#flutter-flutter-152588-graph)
@@ -226,7 +226,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-desktop` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -234,8 +234,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 116 | [10](#flutter-flutter-41726-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 197 | [9](#flutter-flutter-41980-graph)
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 46 | [9](#flutter-flutter-134346-graph)
+Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 62 | [8](#flutter-flutter-97050-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 323 | [7](#flutter-flutter-37597-graph)
-Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 61 | [7](#flutter-flutter-97050-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 135 | [5](#flutter-flutter-41724-graph)
 [camera] Add Linux support [flutter/flutter#41710](https://github.com/flutter/flutter/issues/41710) | 75 | [5](#flutter-flutter-41710-graph)
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 54 | [5](#flutter-flutter-62597-graph)
@@ -248,7 +248,7 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`team-ecosystem` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -260,9 +260,9 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 269 | [13](#flutter-flutter-45296-graph)
+[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [12](#flutter-flutter-156910-graph)
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 337 | [11](#flutter-flutter-33577-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 76 | [11](#flutter-flutter-124334-graph)
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 38 | [11](#flutter-flutter-156910-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 69 | [10](#flutter-flutter-149031-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 188 | [9](#flutter-flutter-69529-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 35 | [9](#flutter-flutter-152588-graph)
@@ -270,11 +270,11 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`dart-lang/sdk` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 107 | [51](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 108 | [52](#dart-lang-sdk-55281-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 75 | [19](#dart-lang-sdk-53402-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 179 | [17](#dart-lang-sdk-54934-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 176 | [11](#dart-lang-sdk-50565-graph)
@@ -284,15 +284,15 @@ Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://gi
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 19 | [7](#dart-lang-sdk-58535-graph)
 investigate tooling scalability in the presence of barrel files [dart-lang/sdk#50369](https://github.com/dart-lang/sdk/issues/50369) | 9 | [6](#dart-lang-sdk-50369-graph)
+Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
 `depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 6 | [6](#dart-lang-sdk-59721-graph)
 Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 82 | [5](#dart-lang-sdk-55522-graph)
 Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://github.com/dart-lang/sdk/issues/40198) | 77 | [5](#dart-lang-sdk-40198-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 56 | [5](#dart-lang-sdk-49426-graph)
-☂️ Implement Workspace Feature [dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) | 54 | [5](#dart-lang-sdk-53875-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-11-18 to 2025-02-16.
+`dart-lang/language` issues that received the most reactions from 2024-11-18 to 2025-02-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -302,8 +302,8 @@ Allow for shorter dot syntax to access enum values [dart-lang/language#357](http
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1128 | [24](#dart-lang-language-723-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 18 | [18](#dart-lang-language-4200-graph)
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 102 | [17](#dart-lang-language-3001-graph)
+Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) | 17 | [17](#dart-lang-language-4246-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 228 | [16](#dart-lang-language-2364-graph)
-Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) | 16 | [16](#dart-lang-language-4246-graph)
 Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) | 15 | [15](#dart-lang-language-4205-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 231 | [12](#dart-lang-language-1076-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1669 | [10](#dart-lang-language-1482-graph)
@@ -323,9 +323,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 435, 510, 511, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 435, 510, 511, 0, 0]
   ```
 
   </details>
@@ -333,16 +333,16 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 340 total reactions, 217 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 429 total reactions, 306 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 212]
+    bar [1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 212, 0]
   ```
 
   </details>
@@ -357,9 +357,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 115, 151, 155, 166, 168, 169, 179, 181, 182]
+    bar [0, 0, 0, 0, 115, 151, 155, 166, 168, 169, 179, 181, 182, 182]
   ```
 
   </details>
@@ -374,9 +374,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 63, 45, 21, 12, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 63, 45, 21, 12, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -384,16 +384,16 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
 <a name="flutter-flutter-162960-graph"></a>
 ### ☂️Packages planned to be discontinued
-  <sub>[flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) &mdash; 103 total reactions, 103 recent reactions</sub><br />
+  <sub>[flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) &mdash; 104 total reactions, 104 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 103]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 103, 104]
   ```
 
   </details>
@@ -408,9 +408,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [1, 2, 9, 5, 13, 1, 1, 2, 6, 11, 0, 35, 0]
+    bar [1, 2, 9, 5, 13, 1, 1, 2, 6, 11, 0, 35, 0, 0]
   ```
 
   </details>
@@ -425,9 +425,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [27, 41, 45, 63, 79, 82, 83, 84, 84, 85, 86, 86, 90]
+    bar [27, 41, 45, 63, 79, 82, 83, 84, 84, 85, 86, 86, 90, 90]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 64, 10, 8]
+    bar [0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 64, 10, 8, 0]
   ```
 
   </details>
@@ -452,16 +452,16 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 107 total reactions, 51 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 108 total reactions, 52 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [5, 4, 3, 7, 3, 0, 2, 3, 4, 1, 4, 2, 4]
+    bar [5, 4, 3, 7, 3, 0, 2, 3, 4, 1, 4, 2, 4, 0]
   ```
 
   </details>
@@ -476,9 +476,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 22, 29, 36, 42, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 22, 29, 36, 42, 0, 0, 0]
   ```
 
   </details>
@@ -493,9 +493,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 8, 1, 2, 3, 4, 0, 2, 7, 4, 0, 4]
+    bar [0, 3, 8, 1, 2, 3, 4, 0, 2, 7, 4, 0, 4, 0]
   ```
 
   </details>
@@ -510,9 +510,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 6, 1, 2, 2, 1, 1, 2, 2, 2, 2, 4, 7]
+    bar [1, 6, 1, 2, 2, 1, 1, 2, 2, 2, 2, 4, 7, 0]
   ```
 
   </details>
@@ -527,9 +527,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 39]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 39, 39]
   ```
 
   </details>
@@ -544,9 +544,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 38]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 38, 38]
   ```
 
   </details>
@@ -561,9 +561,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [3, 1, 2, 0, 6, 0, 0, 1, 4, 8, 2, 0, 0]
+    bar [3, 1, 2, 0, 6, 0, 0, 1, 4, 8, 2, 0, 0, 0]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 32, 32, 33]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 31, 32, 32, 33, 33]
   ```
 
   </details>
@@ -595,9 +595,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 14, 14, 21, 29, 29, 29]
+    bar [0, 0, 0, 0, 0, 0, 0, 14, 14, 21, 29, 29, 29, 29]
   ```
 
   </details>
@@ -612,9 +612,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 28, 28]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 28, 28, 28]
   ```
 
   </details>
@@ -629,9 +629,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 24, 24, 25, 25, 25, 25, 25, 25, 25, 26, 26]
+    bar [0, 0, 24, 24, 25, 25, 25, 25, 25, 25, 25, 26, 26, 26]
   ```
 
   </details>
@@ -646,9 +646,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [3, 3, 2, 2, 2, 0, 0, 1, 1, 4, 1, 0, 0]
+    bar [3, 3, 2, 2, 2, 0, 0, 1, 1, 4, 1, 0, 0, 0]
   ```
 
   </details>
@@ -663,9 +663,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 7, 0, 2, 2, 0, 4, 0, 1, 0, 4]
+    bar [1, 0, 1, 7, 0, 2, 2, 0, 4, 0, 1, 0, 4, 0]
   ```
 
   </details>
@@ -680,9 +680,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0]
+    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -714,9 +714,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 1, 1, 0, 2, 2, 4, 0, 3, 2, 3]
+    bar [0, 2, 1, 1, 1, 0, 2, 2, 4, 0, 3, 2, 3, 0]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 21]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 21, 21]
   ```
 
   </details>
@@ -748,9 +748,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 2, 0, 0, 0, 0, 9, 0, 0, 0, 0, 2]
+    bar [3, 0, 2, 0, 0, 0, 0, 9, 0, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -765,9 +765,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 15, 19, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 15, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18]
+    bar [0, 0, 0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18, 18]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 0, 2, 0, 1, 0, 0, 0, 3, 2, 1]
+    bar [0, 0, 2, 0, 2, 0, 1, 0, 0, 0, 3, 2, 1, 0]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 5, 1, 4, 0, 1, 1, 0, 0, 0]
+    bar [0, 2, 0, 0, 5, 1, 4, 0, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -833,9 +833,26 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 1, 4, 1, 0, 0, 4, 1, 0, 2, 0, 0]
+    bar [0, 2, 1, 4, 1, 0, 0, 4, 1, 0, 2, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4246-graph"></a>
+### Enhanced Constructors
+  <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16, 17]
   ```
 
   </details>
@@ -850,9 +867,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 0, 1, 4, 0, 1, 0, 0, 2, 1, 0]
+    bar [0, 3, 0, 0, 1, 4, 0, 1, 0, 0, 2, 1, 0, 0]
   ```
 
   </details>
@@ -867,9 +884,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 3, 0, 1, 0, 1, 0, 2, 0, 4, 1]
+    bar [0, 0, 0, 3, 0, 1, 0, 1, 0, 2, 0, 4, 1, 0]
   ```
 
   </details>
@@ -884,77 +901,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [4, 0, 1, 2, 3, 2, 2, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160144-graph"></a>
-###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
-  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-162818-graph"></a>
-### Remove instances of `useMaterial3: true` in framework, samples and codelabs
-  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4246-graph"></a>
-### Enhanced Constructors
-  <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16]
+    bar [4, 0, 1, 2, 3, 2, 2, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -969,9 +918,60 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-162818-graph"></a>
+### Remove instances of `useMaterial3: true` in framework, samples and codelabs
+  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160144-graph"></a>
+###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
+  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 16]
   ```
 
   </details>
@@ -986,9 +986,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 2, 2, 0, 1, 0, 1, 0, 2, 2]
+    bar [0, 1, 2, 0, 2, 2, 0, 1, 0, 1, 0, 2, 2, 0]
   ```
 
   </details>
@@ -1003,9 +1003,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 6, 9, 13, 14, 14, 14, 14, 15, 15, 15]
+    bar [0, 0, 0, 6, 9, 13, 14, 14, 14, 14, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1020,9 +1020,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 0, 0, 2, 1, 3, 0, 1, 1, 0, 1]
+    bar [2, 1, 0, 0, 0, 2, 1, 3, 0, 1, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1037,9 +1037,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 1, 1, 0, 1, 2, 1, 1, 0, 0]
+    bar [1, 0, 1, 1, 1, 1, 0, 1, 2, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1054,9 +1054,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 12, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 12, 0, 0, 0]
   ```
 
   </details>
@@ -1071,9 +1071,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 13, 14, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 13, 14, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1088,9 +1088,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 3, 0, 0, 2, 1, 0, 5, 0, 1]
+    bar [1, 0, 0, 0, 3, 0, 0, 2, 1, 0, 5, 0, 1, 0]
   ```
 
   </details>
@@ -1105,9 +1105,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 4, 1, 0, 0, 0, 1, 1, 1, 0, 1]
+    bar [0, 1, 1, 4, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1122,9 +1122,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 0, 0, 0, 0, 1, 1, 2, 0, 0, 1]
+    bar [0, 0, 3, 0, 0, 0, 0, 1, 1, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1139,9 +1139,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 1, 2, 0, 0, 2, 0, 1, 1, 0, 0]
+    bar [2, 0, 0, 1, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1156,9 +1156,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 2, 1, 0, 1, 0, 0, 2, 1, 2]
+    bar [0, 0, 1, 1, 2, 1, 0, 1, 0, 0, 2, 1, 2, 0]
   ```
 
   </details>
@@ -1173,9 +1173,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 4]
+    bar [0, 1, 4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 4, 0]
   ```
 
   </details>
@@ -1190,9 +1190,26 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 1, 0, 1, 0, 1, 0, 0, 5, 0, 0, 0]
+    bar [3, 0, 1, 0, 1, 0, 1, 0, 0, 5, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-156910-graph"></a>
+### [web] Deprecate and remove `flutter_service_worker.js`
+  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 39 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 0, 1, 0, 0, 0, 0, 5, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1207,9 +1224,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 5, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1]
+    bar [1, 2, 5, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1224,9 +1241,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 2, 0, 0, 2, 3, 0, 0, 0]
+    bar [0, 0, 1, 0, 0, 2, 0, 0, 2, 3, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1241,9 +1258,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 4]
+    bar [2, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 4, 0]
   ```
 
   </details>
@@ -1258,9 +1275,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 1, 6, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 1, 0, 1, 6, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1275,9 +1292,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 0, 0, 2, 0, 3, 0, 1, 0, 0, 2]
+    bar [1, 0, 2, 0, 0, 2, 0, 3, 0, 1, 0, 0, 2, 0]
   ```
 
   </details>
@@ -1292,9 +1309,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 3, 0, 0]
+    bar [0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 3, 0, 0, 0]
   ```
 
   </details>
@@ -1309,26 +1326,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [3, 2, 2, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156910-graph"></a>
-### [web] Deprecate and remove `flutter_service_worker.js`
-  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 38 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 1, 0, 0, 0, 0, 5, 1, 0, 1]
+    bar [3, 2, 2, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1343,9 +1343,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 2, 0, 5, 0, 1, 0, 2, 2, -4]
+    bar [0, 1, 1, 0, 2, 0, 5, 0, 1, 0, 2, 2, -4, 0]
   ```
 
   </details>
@@ -1360,9 +1360,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 0, 0, 0, 2, 2, 2, 1]
+    bar [1, 0, 0, 0, 0, 1, 0, 0, 0, 2, 2, 2, 1, 0]
   ```
 
   </details>
@@ -1377,9 +1377,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 2, 0, 0, 0, 1, 0, 1, 2, 2]
+    bar [0, 0, 0, 2, 2, 0, 0, 0, 1, 0, 1, 2, 2, 0]
   ```
 
   </details>
@@ -1394,9 +1394,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 6, 1, 0, 1]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 6, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1411,9 +1411,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 6, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1]
+    bar [0, 0, 6, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1428,9 +1428,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 3, 0, 0, 1, 3, 0, 3]
+    bar [0, 0, 0, 0, 0, 0, 3, 0, 0, 1, 3, 0, 3, 0]
   ```
 
   </details>
@@ -1445,9 +1445,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 2, 1, 1, 0, 0, 2, 0, 0, 1, 0, 1]
+    bar [0, 0, 2, 1, 1, 0, 0, 2, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1462,9 +1462,26 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 0, 0, 6, 3, 0, 0, 0, 0, -2]
+    bar [3, 0, 0, 0, 0, 0, 6, 3, 0, 0, 0, 0, -2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-150525-graph"></a>
+### Consider merging platform and UI thread
+  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 30 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 6, 0]
   ```
 
   </details>
@@ -1479,9 +1496,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 1]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 1, 0]
   ```
 
   </details>
@@ -1496,9 +1513,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 6, 9, 10, 10, 10, 10, 10, 10, 10, 10]
+    bar [0, 0, 0, 6, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1513,9 +1530,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 0, 0, 1, 2, 0, 1, 0, 1, 1]
+    bar [0, 2, 0, 0, 0, 0, 1, 2, 0, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1530,9 +1547,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 1, 0, 2, 0, 0, 1, 0, 1, 0, 0]
+    bar [2, 0, 0, 1, 0, 2, 0, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1547,9 +1564,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 4, 0]
+    bar [1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 0, 4, 0, 0]
   ```
 
   </details>
@@ -1564,9 +1581,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 3, 0, 0, 0, 0, 0, 1, 3, 0]
+    bar [0, 0, 0, 1, 3, 0, 0, 0, 0, 0, 1, 3, 0, 0]
   ```
 
   </details>
@@ -1581,9 +1598,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 2, 0, 0, 0, 0, 5, 0, 0, 0]
+    bar [0, 1, 1, 0, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1598,9 +1615,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 1, 0, 0, 2, 0, 0, 0, 0, 4]
+    bar [0, 1, 0, 1, 1, 0, 0, 2, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -1615,9 +1632,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 3, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 3, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1632,9 +1649,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 2]
+    bar [1, 1, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 2, 0]
   ```
 
   </details>
@@ -1649,26 +1666,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 1, 2, 1, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-150525-graph"></a>
-### Consider merging platform and UI thread
-  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 29 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 6]
+    bar [0, 0, 0, 1, 1, 0, 1, 2, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1683,9 +1683,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3]
+    bar [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3, 0]
   ```
 
   </details>
@@ -1700,9 +1700,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1717,9 +1717,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 9]
   ```
 
   </details>
@@ -1734,9 +1734,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1]
+    bar [1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0]
   ```
 
   </details>
@@ -1751,9 +1751,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1]
+    bar [1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1768,9 +1768,26 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 0, 2, 2, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [1, 2, 0, 2, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-97050-graph"></a>
+### Supporting of in app purchases on Windows Store
+  <sub>[flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) &mdash; 62 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1785,9 +1802,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 1, 0, 0, 2, 0, 1, 1, 0, 0, 0]
+    bar [2, 0, 0, 1, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1802,9 +1819,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1]
+    bar [1, 0, 2, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0]
   ```
 
   </details>
@@ -1819,9 +1836,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0]
+    bar [0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1836,9 +1853,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    bar [2, 1, 1, 2, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1853,9 +1870,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 0, -1, 2, 0, 1, 2, 0, 0]
+    bar [1, 1, 0, 0, 0, 0, -1, 2, 0, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1870,9 +1887,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 5]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 5, 0]
   ```
 
   </details>
@@ -1887,9 +1904,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 1, 1, 0, 0, 4, 0, 0, 0, -1]
+    bar [0, 0, 1, 0, 1, 1, 0, 0, 4, 0, 0, 0, -1, 0]
   ```
 
   </details>
@@ -1904,9 +1921,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 1, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1921,9 +1938,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 2, 1, 1, 0, 1]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 2, 1, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1938,9 +1955,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 0, 1, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 1, 3, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1955,9 +1972,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0]
   ```
 
   </details>
@@ -1972,9 +1989,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 2, 0]
+    bar [0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1989,9 +2006,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+    bar [1, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2006,9 +2023,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0]
+    bar [0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2023,26 +2040,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-97050-graph"></a>
-### Supporting of in app purchases on Windows Store
-  <sub>[flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) &mdash; 61 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 1]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 2, 0]
   ```
 
   </details>
@@ -2057,9 +2057,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 1, 0, 0, 1, 1, 0, 0, 0, 1]
+    bar [0, 0, 1, 2, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2074,9 +2074,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 1, 0, 1, 0, 1, 0, 2, 0, 0, 1]
+    bar [0, 0, 1, 1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2091,9 +2091,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 3, 1, 1]
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 3, 1, 1, 0]
   ```
 
   </details>
@@ -2108,9 +2108,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2125,9 +2125,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2142,9 +2142,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 0]
+    bar [0, 2, 0, 0, 1, 0, 0, 1, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2159,9 +2159,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+    bar [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -2176,9 +2176,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1]
+    bar [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2193,9 +2193,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1]
+    bar [1, 0, 0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2210,9 +2210,26 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0]
+    bar [2, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-53059-graph"></a>
+### Suggestion: decouple more widgets from Android/iOS design guidelines
+  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 41 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -2227,9 +2244,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0]
+    bar [0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 0]
   ```
 
   </details>
@@ -2244,9 +2261,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0]
+    bar [1, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2261,9 +2278,26 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 3, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60018-graph"></a>
+### Don't require "part file.*.dart" for files in the same directory with the same base name.
+  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 5, 6]
   ```
 
   </details>
@@ -2278,9 +2312,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 4, 5, 5, 5, 5, 6, 6, 6, 6]
+    bar [0, 0, 0, 0, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2295,9 +2329,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2312,9 +2346,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1]
+    bar [0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2329,9 +2363,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2346,9 +2380,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 1, 0, 0]
+    bar [0, 0, 0, 2, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2363,9 +2397,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2380,9 +2414,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0]
+    bar [1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2397,9 +2431,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2414,26 +2448,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-120353-graph"></a>
-### [go_router] ShellRoutes break iOS swipe back navigation
-  <sub>[flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) &mdash; 56 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2448,9 +2465,26 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-120353-graph"></a>
+### [go_router] ShellRoutes break iOS swipe back navigation
+  <sub>[flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) &mdash; 56 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0]
   ```
 
   </details>
@@ -2465,9 +2499,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2482,43 +2516,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-53875-graph"></a>
-### ☂️ Implement Workspace Feature
-  <sub>[dart-lang/sdk#53875](https://github.com/dart-lang/sdk/issues/53875) &mdash; 54 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-57674-graph"></a>
-### Let Flutter be installable via winget
-  <sub>[flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) &mdash; 42 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1]
+    bar [1, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2533,9 +2533,26 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0]
+    bar [0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-57674-graph"></a>
+### Let Flutter be installable via winget
+  <sub>[flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) &mdash; 42 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2550,9 +2567,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10]
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
