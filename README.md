@@ -12,15 +12,15 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1273 | [106](#flutter-flutter-53041-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 105 | [105](#flutter-flutter-162960-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2192 | [90](#dart-lang-language-314-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 90 | [90](#flutter-flutter-159342-graph)
-Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 78 | [78](#flutter-flutter-163443-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2191 | [89](#dart-lang-language-314-graph)
+Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 85 | [85](#flutter-flutter-163443-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 108 | [52](#dart-lang-sdk-55281-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 146 | [42](#flutter-flutter-142845-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1039 | [41](#dart-lang-language-357-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 857 | [41](#flutter-flutter-46789-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 39 | [39](#flutter-flutter-162437-graph)
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 38 | [38](#flutter-flutter-162945-graph)
 
 ## Trending issues by team
 
@@ -32,7 +32,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 78 | [78](#flutter-flutter-163443-graph)
+Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 85 | [85](#flutter-flutter-163443-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 146 | [42](#flutter-flutter-142845-graph)
 Decorators experiment [flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) | 33 | [33](#flutter-flutter-161345-graph)
 Add `context.dependOnListenable(Listenable listenable)` [flutter/flutter#135050](https://github.com/flutter/flutter/issues/135050) | 70 | [24](#flutter-flutter-135050-graph)
@@ -128,8 +128,8 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 419 | [6](#flutter-flutter-71400-graph)
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 145 | [6](#flutter-flutter-65065-graph)
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 64 | [5](#flutter-flutter-129757-graph)
-Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes [flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) | 42 | [5](#flutter-flutter-105913-graph)
 Let Flutter be installable via winget [flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) | 42 | [5](#flutter-flutter-57674-graph)
+Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes [flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) | 42 | [5](#flutter-flutter-105913-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 145 | 4
 Provide an easy way to select the version of Flutter to use [flutter/flutter#14230](https://github.com/flutter/flutter/issues/14230) | 139 | 3
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 108 | 3
@@ -210,7 +210,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1273 | [106](#flutter-flutter-53041-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 850 | [34](#flutter-flutter-46789-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 857 | [41](#flutter-flutter-46789-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 342 | [24](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
@@ -254,7 +254,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1273 | [106](#flutter-flutter-53041-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 850 | [34](#flutter-flutter-46789-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 857 | [41](#flutter-flutter-46789-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 342 | [24](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
@@ -284,11 +284,11 @@ Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://gi
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 19 | [7](#dart-lang-sdk-58535-graph)
 investigate tooling scalability in the presence of barrel files [dart-lang/sdk#50369](https://github.com/dart-lang/sdk/issues/50369) | 9 | [6](#dart-lang-sdk-50369-graph)
-`depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 6 | [6](#dart-lang-sdk-59721-graph)
 Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
+`depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 6 | [6](#dart-lang-sdk-59721-graph)
+Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7 [dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) | 6 | [6](#dart-lang-sdk-60119-graph)
 Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 82 | [5](#dart-lang-sdk-55522-graph)
 Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://github.com/dart-lang/sdk/issues/40198) | 77 | [5](#dart-lang-sdk-40198-graph)
-[Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 56 | [5](#dart-lang-sdk-49426-graph)
 
 ### Dart language
 
@@ -297,7 +297,7 @@ Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://g
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 182 | [182](#dart-lang-language-4211-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2192 | [90](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2191 | [89](#dart-lang-language-314-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1039 | [41](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1129 | [25](#dart-lang-language-723-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 18 | [18](#dart-lang-language-4200-graph)
@@ -416,23 +416,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="dart-lang-language-314-graph"></a>
-### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2192 total reactions, 90 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions"
-    bar [0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 64, 10, 8, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-159342-graph"></a>
 ### Flutter Widget Previews Architecture
   <sub>[flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) &mdash; 90 total reactions, 90 recent reactions</sub><br />
@@ -450,9 +433,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="flutter-flutter-163443-graph"></a>
-### Proposal: Set `debugShowCheckedModeBanner` Default to false
-  <sub>[flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) &mdash; 78 total reactions, 78 recent reactions</sub><br />
+<a name="dart-lang-language-314-graph"></a>
+### Add data classes
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2191 total reactions, 89 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -461,7 +444,24 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   xychart-beta
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 78]
+    bar [0, 0, 2, 0, 0, 1, 1, 0, 0, 0, 64, 10, 8, -1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-163443-graph"></a>
+### Proposal: Set `debugShowCheckedModeBanner` Default to false
+  <sub>[flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) &mdash; 85 total reactions, 85 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 85]
   ```
 
   </details>
@@ -535,6 +535,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
+<a name="flutter-flutter-46789-graph"></a>
+### Improve the indexability (SEO) of Flutter apps on the web 
+  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 857 total reactions, 41 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 1, 2, 0, 6, 0, 0, 1, 4, 8, 2, 0, 0, 7]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-162437-graph"></a>
 ### [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0
   <sub>[flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) &mdash; 39 total reactions, 39 recent reactions</sub><br />
@@ -564,23 +581,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 38, 38]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-46789-graph"></a>
-### Improve the indexability (SEO) of Flutter apps on the web 
-  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 850 total reactions, 34 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 1, 2, 0, 6, 0, 0, 1, 4, 8, 2, 0, 0, 0]
   ```
 
   </details>
@@ -960,40 +960,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160144-graph"></a>
-###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
-  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-162818-graph"></a>
 ### Remove instances of `useMaterial3: true` in framework, samples and codelabs
   <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -1011,6 +977,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-160155-graph"></a>
 ### Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element
   <sub>[flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -1023,6 +1006,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160144-graph"></a>
+###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
+  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 16]
   ```
 
   </details>
@@ -2218,23 +2218,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="flutter-flutter-112196-graph"></a>
-### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
-  <sub>[flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) &mdash; 128 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-30541-graph"></a>
 ### Space between text and underline
   <sub>[flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) &mdash; 128 total reactions, 6 recent reactions</sub><br />
@@ -2247,6 +2230,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-112196-graph"></a>
+### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
+  <sub>[flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) &mdash; 128 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2320,6 +2320,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
+<a name="dart-lang-sdk-60018-graph"></a>
+### Don't require "part file.*.dart" for files in the same directory with the same base name.
+  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 5, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-59721-graph"></a>
 ### `depend_on_referenced_packages` lint false positive in workspace
   <sub>[dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2337,9 +2354,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60018-graph"></a>
-### Don't require "part file.*.dart" for files in the same directory with the same base name.
-  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60119-graph"></a>
+### Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7
+  <sub>[dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2348,7 +2365,7 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   xychart-beta
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 5, 6]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6]
   ```
 
   </details>
@@ -2490,23 +2507,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="dart-lang-sdk-49426-graph"></a>
-### [Feature request] Date class, without time
-  <sub>[dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) &mdash; 56 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-122258-graph"></a>
 ### [go_router_builder] Define routes in separate files
   <sub>[flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) &mdash; 54 total reactions, 5 recent reactions</sub><br />
@@ -2541,23 +2541,6 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="flutter-flutter-105913-graph"></a>
-### Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes
-  <sub>[flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) &mdash; 42 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-57674-graph"></a>
 ### Let Flutter be installable via winget
   <sub>[flutter/flutter#57674](https://github.com/flutter/flutter/issues/57674) &mdash; 42 total reactions, 5 recent reactions</sub><br />
@@ -2575,9 +2558,9 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   </details>
   </sub>
 
-<a name="flutter-flutter-80339-graph"></a>
-### [proposal] Add-to-App support for desktop platforms
-  <sub>[flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) &mdash; 25 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-105913-graph"></a>
+### Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes
+  <sub>[flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) &mdash; 42 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2586,7 +2569,7 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
   xychart-beta
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 1, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2604,6 +2587,23 @@ Disallow returning futures from `async` functions. [dart-lang/language#870](http
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-80339-graph"></a>
+### [proposal] Add-to-App support for desktop platforms
+  <sub>[flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) &mdash; 25 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
