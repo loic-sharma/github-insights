@@ -16,7 +16,7 @@ Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2192 | [90](#dart-lang-language-314-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 90 | [90](#flutter-flutter-159342-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 109 | [53](#dart-lang-sdk-55281-graph)
-[webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 44 | [44](#flutter-flutter-162437-graph)
+[webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 45 | [45](#flutter-flutter-162437-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1040 | [42](#dart-lang-language-357-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 858 | [42](#flutter-flutter-46789-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 146 | [42](#flutter-flutter-142845-graph)
@@ -103,12 +103,12 @@ Issue | Total reactions | Recent reactions
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 128 | [6](#flutter-flutter-112196-graph)
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 56 | [5](#flutter-flutter-120353-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 54 | [5](#flutter-flutter-122258-graph)
+Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) | 22 | [5](#flutter-flutter-125268-graph)
 PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 123 | 4
 [go_router_builder] Custom type conversion for parameters [flutter/flutter#110781](https://github.com/flutter/flutter/issues/110781) | 28 | 4
 [go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 27 | 4
-Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) | 21 | 4
-[go_router] Add default pageBuilder to GoRouter [flutter/flutter#113282](https://github.com/flutter/flutter/issues/113282) | 44 | 3
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 44 | 3
+[go_router] Add default pageBuilder to GoRouter [flutter/flutter#113282](https://github.com/flutter/flutter/issues/113282) | 44 | 3
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 37 | 3
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 32 | 3
 [go_router] Support multiple nested routes of the same type [flutter/flutter#135307](https://github.com/flutter/flutter/issues/135307) | 19 | 3
@@ -197,10 +197,10 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 29 | [7](#flutter-flutter-81804-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 32 | [6](#flutter-flutter-139427-graph)
 [Android] CameraX preview is rotated 90 degrees [flutter/flutter#154241](https://github.com/flutter/flutter/issues/154241) | 22 | [6](#flutter-flutter-154241-graph)
+Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 18 | [5](#flutter-flutter-151638-graph)
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 85 | 4
 Camera CameraCaptureSession.close() crash [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 52 | 4
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 34 | 4
-[FATAL:flutter/shell/platform/android/platform_view_android_jni_impl.cc(1233)] Check failed: fml::jni::CheckException(env).  [flutter/flutter#125090](https://github.com/flutter/flutter/issues/125090) | 24 | 4
 
 #### Web
 
@@ -278,8 +278,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 77 | [21](#dart-lang-sdk-53402-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [18](#dart-lang-sdk-54934-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 176 | [11](#dart-lang-sdk-50565-graph)
+Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 528 | [10](#dart-lang-sdk-28617-graph)
 Deprecate `Random()` default constructor, replace with `Random.insecure()` [dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) | 10 | [10](#dart-lang-sdk-59715-graph)
-Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 527 | [9](#dart-lang-sdk-28617-graph)
 Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) | 25 | [9](#dart-lang-sdk-46442-graph)
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 38 | [7](#dart-lang-sdk-57036-graph)
@@ -287,8 +287,8 @@ proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart
 Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7 [dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) | 7 | [7](#dart-lang-sdk-60119-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 18 | [6](#dart-lang-sdk-56841-graph)
 investigate tooling scalability in the presence of barrel files [dart-lang/sdk#50369](https://github.com/dart-lang/sdk/issues/50369) | 9 | [6](#dart-lang-sdk-50369-graph)
-Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
 `depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 6 | [6](#dart-lang-sdk-59721-graph)
+Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
 
 ### Dart language
 
@@ -486,7 +486,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
 
 <a name="flutter-flutter-162437-graph"></a>
 ### [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0
-  <sub>[flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) &mdash; 44 total reactions, 44 recent reactions</sub><br />
+  <sub>[flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) &mdash; 45 total reactions, 45 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -495,7 +495,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   xychart-beta
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 39, 44]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 39, 45]
   ```
 
   </details>
@@ -739,23 +739,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-language-4271-graph"></a>
-### static enough metaprogramming
-  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 22 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160184-graph"></a>
 ### [Proposal]Provide a alternative to deprecated `Color.value`
   <sub>[flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -768,6 +751,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4271-graph"></a>
+### static enough metaprogramming
+  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
   ```
 
   </details>
@@ -943,23 +943,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 17]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4246-graph"></a>
 ### Enhanced Constructors
   <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -972,6 +955,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 17]
   ```
 
   </details>
@@ -1487,6 +1487,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="dart-lang-sdk-28617-graph"></a>
+### Allow AOT executables to be cross-compiled
+  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 528 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 2, 0, 0, 0, 0, 1, 2, 0, 1, 0, 1, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-128313-graph"></a>
 ### Add support for visionOS
   <sub>[flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) &mdash; 346 total reactions, 10 recent reactions</sub><br />
@@ -1618,23 +1635,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
     bar [1, 1, 0, 0, 0, 0, -1, 2, 0, 1, 2, 0, 0, 2]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-28617-graph"></a>
-### Allow AOT executables to be cross-compiled
-  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 527 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 0, 0, 1, 2, 0, 1, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2269,23 +2269,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-112196-graph"></a>
-### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
-  <sub>[flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) &mdash; 128 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-30541-graph"></a>
 ### Space between text and underline
   <sub>[flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) &mdash; 128 total reactions, 6 recent reactions</sub><br />
@@ -2298,6 +2281,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 0, 0, 0, 2, 1, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-112196-graph"></a>
+### [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1)
+  <sub>[flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) &mdash; 128 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2388,23 +2388,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60018-graph"></a>
-### Don't require "part file.*.dart" for files in the same directory with the same base name.
-  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 5, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59721-graph"></a>
 ### `depend_on_referenced_packages` lint false positive in workspace
   <sub>[dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2417,6 +2400,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60018-graph"></a>
+### Don't require "part file.*.dart" for files in the same directory with the same base name.
+  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 5, 5, 6]
   ```
 
   </details>
@@ -2541,23 +2541,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-62597-graph"></a>
-### [Windows] ☂️  Add support for Arm64 as a target
-  <sub>[flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) &mdash; 54 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-122258-graph"></a>
 ### [go_router_builder] Define routes in separate files
   <sub>[flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) &mdash; 54 total reactions, 5 recent reactions</sub><br />
@@ -2570,6 +2553,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-62597-graph"></a>
+### [Windows] ☂️  Add support for Arm64 as a target
+  <sub>[flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) &mdash; 54 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 2, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2609,6 +2609,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-80339-graph"></a>
+### [proposal] Add-to-App support for desktop platforms
+  <sub>[flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) &mdash; 25 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-86584-graph"></a>
 ### ListView background overflows from parent Container
   <sub>[flutter/flutter#86584](https://github.com/flutter/flutter/issues/86584) &mdash; 25 total reactions, 5 recent reactions</sub><br />
@@ -2626,9 +2643,9 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-80339-graph"></a>
-### [proposal] Add-to-App support for desktop platforms
-  <sub>[flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) &mdash; 25 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-125268-graph"></a>
+### Provide Page adpaters to Flutters PopupRoute's in go_router.
+  <sub>[flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) &mdash; 22 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2637,7 +2654,24 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   xychart-beta
     x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-151638-graph"></a>
+### Investigate path resolution for "libflutter.so" binary
+  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 18, Nov 25, Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 2, 1]
   ```
 
   </details>
