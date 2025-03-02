@@ -143,7 +143,7 @@ Issue | Total reactions | Recent reactions
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
 Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1 [flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) | 35 | [35](#flutter-flutter-161142-graph)
-After upgrading to 3.29, the UI is broken. [flutter/flutter#163452](https://github.com/flutter/flutter/issues/163452) | 29 | [29](#flutter-flutter-163452-graph)
+After upgrading to 3.29, the UI is broken. [flutter/flutter#163452](https://github.com/flutter/flutter/issues/163452) | 30 | [30](#flutter-flutter-163452-graph)
 [Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur() [flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) | 22 | [22](#flutter-flutter-163421-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 202 | [20](#flutter-flutter-61229-graph)
 Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0 [flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) | 14 | [14](#flutter-flutter-160207-graph)
@@ -301,7 +301,7 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 67 | [67](#dart-lang-language-4271-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1040 | [39](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1136 | [26](#dart-lang-language-723-graph)
-More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 25 | [25](#dart-lang-language-4200-graph)
+More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 26 | [26](#dart-lang-language-4200-graph)
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 105 | [18](#dart-lang-language-3001-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 232 | [17](#dart-lang-language-2364-graph)
 Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) | 17 | [17](#dart-lang-language-4246-graph)
@@ -637,6 +637,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
+<a name="flutter-flutter-163452-graph"></a>
+### After upgrading to 3.29, the UI is broken.
+  <sub>[flutter/flutter#163452](https://github.com/flutter/flutter/issues/163452) &mdash; 30 total reactions, 30 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 30]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-160338-graph"></a>
 ### Nested generic function inside factory constructor crashes flutter run (web) compiler
   <sub>[flutter/flutter#160338](https://github.com/flutter/flutter/issues/160338) &mdash; 30 total reactions, 30 recent reactions</sub><br />
@@ -649,23 +666,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 14, 14, 21, 29, 29, 29, 30, 30]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-163452-graph"></a>
-### After upgrading to 3.29, the UI is broken.
-  <sub>[flutter/flutter#163452](https://github.com/flutter/flutter/issues/163452) &mdash; 29 total reactions, 29 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 29]
   ```
 
   </details>
@@ -705,6 +705,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
+<a name="dart-lang-language-4200-graph"></a>
+### More capable `Type` objects
+  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 26 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    y-axis "Reactions"
+    bar [0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18, 18, 26]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-159718-graph"></a>
 ### Multiple flutters with same engine group freeze with platform view
   <sub>[flutter/flutter#159718](https://github.com/flutter/flutter/issues/159718) &mdash; 26 total reactions, 26 recent reactions</sub><br />
@@ -717,23 +734,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
     y-axis "Reactions"
     bar [24, 24, 25, 25, 25, 25, 25, 25, 25, 26, 26, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4200-graph"></a>
-### More capable `Type` objects
-  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 25 total reactions, 25 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
-    y-axis "Reactions"
-    bar [0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18, 18, 25]
   ```
 
   </details>
