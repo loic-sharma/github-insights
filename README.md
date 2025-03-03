@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-12-02 to 2025-03-02.
+Issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-framework` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](http
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-design` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ ListView background overflows from parent Container [flutter/flutter#86584](http
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`f: cupertino` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 518 | [393](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ CupertinoPicker and CupertinoDatePicker don't play the ticker sound [flutter/flu
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-go_router` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-tool` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Provide an easy way to select the version of Flutter to use [flutter/flutter#142
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-engine` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
@@ -160,7 +160,7 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-ios` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flut
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-android` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-web` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,14 +219,14 @@ Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 339 | [13](#flutter-flutter-33577-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 270 | [13](#flutter-flutter-45296-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 79 | [13](#flutter-flutter-124334-graph)
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 189 | [10](#flutter-flutter-69529-graph)
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 190 | [11](#flutter-flutter-69529-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [10](#flutter-flutter-156910-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 36 | [10](#flutter-flutter-152588-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 648 | [7](#flutter-flutter-47600-graph)
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-desktop` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/f
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`team-ecosystem` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,14 +263,14 @@ Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 339 | [13](#flutter-flutter-33577-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 270 | [13](#flutter-flutter-45296-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 79 | [13](#flutter-flutter-124334-graph)
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 189 | [10](#flutter-flutter-69529-graph)
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 190 | [11](#flutter-flutter-69529-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [10](#flutter-flutter-156910-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 36 | [10](#flutter-flutter-152588-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 648 | [7](#flutter-flutter-47600-graph)
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`dart-lang/sdk` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -278,7 +278,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 79 | [20](#dart-lang-sdk-53402-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [18](#dart-lang-sdk-54934-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 180 | [15](#dart-lang-sdk-50565-graph)
-[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 43 | [12](#dart-lang-sdk-57036-graph)
+[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 44 | [13](#dart-lang-sdk-57036-graph)
 Deprecate `Random()` default constructor, replace with `Random.insecure()` [dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) | 10 | [10](#dart-lang-sdk-59715-graph)
 Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) | 25 | [9](#dart-lang-sdk-46442-graph)
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
@@ -292,7 +292,7 @@ proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-12-02 to 2025-03-02.
+`dart-lang/language` issues that received the most reactions from 2024-12-02 to 2025-03-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -323,9 +323,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 435, 510, 511, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 435, 510, 511, 0, 0, 0, 0]
   ```
 
   </details>
@@ -340,9 +340,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 212, 27, 1]
+    bar [1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 212, 27, 1, 0]
   ```
 
   </details>
@@ -357,9 +357,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 115, 151, 155, 166, 168, 169, 179, 181, 182, 183, 189]
+    bar [0, 0, 115, 151, 155, 166, 168, 169, 179, 181, 182, 183, 189, 189]
   ```
 
   </details>
@@ -374,9 +374,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 63, 45, 21, 12, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 63, 45, 21, 12, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -391,9 +391,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 103, 107, 115]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 103, 107, 115, 115]
   ```
 
   </details>
@@ -408,9 +408,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 113]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 113, 113]
   ```
 
   </details>
@@ -425,9 +425,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [9, 5, 13, 1, 1, 2, 6, 11, 0, 35, 0, 1, 0]
+    bar [9, 5, 13, 1, 1, 2, 6, 11, 0, 35, 0, 1, 0, 0]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [2, 0, 0, 1, 1, 0, 0, 0, 64, 10, 8, 4, 5]
+    bar [2, 0, 0, 1, 1, 0, 0, 0, 64, 10, 8, 4, 5, 0]
   ```
 
   </details>
@@ -459,9 +459,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 67]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 67, 67]
   ```
 
   </details>
@@ -476,9 +476,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 39, 54, 62]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 39, 54, 62, 0]
   ```
 
   </details>
@@ -493,9 +493,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [3, 7, 3, 0, 2, 3, 4, 1, 4, 2, 4, 8, 4]
+    bar [3, 7, 3, 0, 2, 3, 4, 1, 4, 2, 4, 8, 4, 0]
   ```
 
   </details>
@@ -510,9 +510,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 11, 11, 3, 1, 1, 0, 1, 1, 0, 4, 0, 0]
+    bar [2, 11, 11, 3, 1, 1, 0, 1, 1, 0, 4, 0, 0, 0]
   ```
 
   </details>
@@ -527,9 +527,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 22, 29, 36, 42, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 22, 29, 36, 42, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -544,9 +544,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 38, 41, 42]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 38, 41, 42, 42]
   ```
 
   </details>
@@ -561,9 +561,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 2, 1, 1, 2, 2, 2, 2, 4, 7, 1, 5]
+    bar [1, 2, 2, 1, 1, 2, 2, 2, 2, 4, 7, 1, 5, 0]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [8, 1, 2, 3, 4, 0, 2, 7, 4, 0, 4, 1, 0]
+    bar [8, 1, 2, 3, 4, 0, 2, 7, 4, 0, 4, 1, 0, 0]
   ```
 
   </details>
@@ -595,9 +595,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 6, 0, 0, 1, 4, 8, 2, 0, 0, 8, 1]
+    bar [2, 0, 6, 0, 0, 1, 4, 8, 2, 0, 0, 8, 1, 0]
   ```
 
   </details>
@@ -612,9 +612,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 21, 22, 35]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 21, 22, 35, 35]
   ```
 
   </details>
@@ -629,9 +629,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 31, 32, 32, 33, 33, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 31, 32, 32, 33, 33, 0, 0]
   ```
 
   </details>
@@ -646,9 +646,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 30]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 30, 30]
   ```
 
   </details>
@@ -663,9 +663,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 14, 14, 21, 29, 29, 29, 30, 30]
+    bar [0, 0, 0, 0, 0, 14, 14, 21, 29, 29, 29, 30, 30, 30]
   ```
 
   </details>
@@ -680,9 +680,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 28, 28, 28, 28, 28]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 28, 28, 28, 28, 28, 28]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 2, 2, 0, 0, 1, 1, 4, 1, 0, 0, 3, 4]
+    bar [2, 2, 2, 0, 0, 1, 1, 4, 1, 0, 0, 3, 4, 0]
   ```
 
   </details>
@@ -714,9 +714,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18, 18, 26]
+    bar [0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18, 18, 26, 26]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [24, 24, 25, 25, 25, 25, 25, 25, 25, 26, 26, 26, 26]
+    bar [24, 24, 25, 25, 25, 25, 25, 25, 25, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -748,9 +748,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 7, 0, 2, 2, 0, 4, 0, 1, 0, 4, 2, 0]
+    bar [1, 7, 0, 2, 2, 0, 4, 0, 1, 0, 4, 2, 0, 0]
   ```
 
   </details>
@@ -765,9 +765,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 23]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 14, 20, 20, 0, 0, 23, 0]
+    bar [0, 0, 0, 0, 0, 0, 14, 20, 20, 0, 0, 23, 0, 0]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -833,9 +833,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 19, 21]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 19, 21, 21]
   ```
 
   </details>
@@ -850,9 +850,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 0, 2, 2, 4, 0, 3, 2, 3, 0, 0]
+    bar [1, 1, 1, 0, 2, 2, 4, 0, 3, 2, 3, 0, 0, 0]
   ```
 
   </details>
@@ -867,9 +867,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 0, 0, 9, 0, 0, 0, 0, 2, 2, 0]
+    bar [2, 0, 0, 0, 0, 9, 0, 0, 0, 0, 2, 2, 0, 0]
   ```
 
   </details>
@@ -884,9 +884,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 15, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 15, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -901,9 +901,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 0, 0, 4, 0, 0, 0, -1, 3, 7]
+    bar [1, 0, 1, 1, 0, 0, 4, 0, 0, 0, -1, 3, 7, 0]
   ```
 
   </details>
@@ -918,9 +918,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 2, 0, 1, 0, 0, 0, 3, 2, 1, 1, 0]
+    bar [2, 0, 2, 0, 1, 0, 0, 0, 3, 2, 1, 1, 0, 0]
   ```
 
   </details>
@@ -935,9 +935,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 1, 0, 1, 0, 2, 0, 4, 1, 0, 0]
+    bar [0, 3, 0, 1, 0, 1, 0, 2, 0, 4, 1, 0, 0, 0]
   ```
 
   </details>
@@ -952,9 +952,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 4, 1, 0, 0, 4, 1, 0, 2, 0, 0, 2, 1]
+    bar [1, 4, 1, 0, 0, 4, 1, 0, 2, 0, 0, 2, 1, 0]
   ```
 
   </details>
@@ -969,9 +969,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 4, 0, 1, 0, 0, 2, 1, 0, 1, 3]
+    bar [0, 0, 1, 4, 0, 1, 0, 0, 2, 1, 0, 1, 3, 0]
   ```
 
   </details>
@@ -986,9 +986,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 17, 17]
+    bar [0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 17, 17, 17]
   ```
 
   </details>
@@ -1003,9 +1003,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16, 17, 17]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16, 17, 17, 17]
   ```
 
   </details>
@@ -1020,9 +1020,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 0, 5, 0, 1, 0, 2, 2, -4, 6, 1]
+    bar [1, 0, 2, 0, 5, 0, 1, 0, 2, 2, -4, 6, 1, 0]
   ```
 
   </details>
@@ -1037,9 +1037,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 1, 3, 0, 1, 1, 0, 1, 6, 0]
+    bar [0, 0, 0, 2, 1, 3, 0, 1, 1, 0, 1, 6, 0, 0]
   ```
 
   </details>
@@ -1054,9 +1054,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 0, 1, 1, 2, 0, 0, 1, 4, 0]
+    bar [3, 0, 0, 0, 0, 1, 1, 2, 0, 0, 1, 4, 0, 0]
   ```
 
   </details>
@@ -1071,9 +1071,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 4, 1, 0, 0, 0, 1, 1, 1, 0, 1, 3, 0]
+    bar [1, 4, 1, 0, 0, 0, 1, 1, 1, 0, 1, 3, 0, 0]
   ```
 
   </details>
@@ -1088,9 +1088,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 6, 9, 13, 14, 14, 14, 14, 15, 15, 15, 15, 16]
+    bar [0, 6, 9, 13, 14, 14, 14, 14, 15, 15, 15, 15, 16, 16]
   ```
 
   </details>
@@ -1105,9 +1105,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1122,9 +1122,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 6, 0, 0, 0, 0, 0, 0, 0, 4]
+    bar [0, 1, 0, 1, 6, 0, 0, 0, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -1139,9 +1139,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 15, 15]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 15, 15, 15]
   ```
 
   </details>
@@ -1156,9 +1156,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15]
   ```
 
   </details>
@@ -1173,9 +1173,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 4, 1, 2]
+    bar [4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 4, 1, 2, 0]
   ```
 
   </details>
@@ -1190,9 +1190,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 1, 0, 0, 2, 0, 0, 1, 0, 1, 2, 1]
+    bar [2, 1, 1, 0, 0, 2, 0, 0, 1, 0, 1, 2, 1, 0]
   ```
 
   </details>
@@ -1207,9 +1207,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 2, 2, 0, 1, 0, 1, 0, 2, 2, 0, 0]
+    bar [2, 0, 2, 2, 0, 1, 0, 1, 0, 2, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1224,9 +1224,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 2, 0, 12, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 2, 0, 12, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1241,9 +1241,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 13, 14, 0, 0, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 13, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1258,9 +1258,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 2, 0, 0, 2, 3, 0, 0, 0, 1, 1]
+    bar [1, 0, 0, 2, 0, 0, 2, 3, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -1275,9 +1275,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 0, 0, 2, 1, 0, 5, 0, 1, 1, 0]
+    bar [0, 0, 3, 0, 0, 2, 1, 0, 5, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1292,9 +1292,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 2, 1, 0, 1, 0, 0, 2, 1, 2, 1, 0]
+    bar [1, 1, 2, 1, 0, 1, 0, 0, 2, 1, 2, 1, 0, 0]
   ```
 
   </details>
@@ -1309,9 +1309,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 5, 1, 4, 0, 1, 1, 0, 0, 0, -1, 0]
+    bar [0, 0, 5, 1, 4, 0, 1, 1, 0, 0, 0, -1, 0, 0]
   ```
 
   </details>
@@ -1326,9 +1326,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 1, 1, 0, 1, 2, 1, 1, 0, 0, 0, 1]
+    bar [1, 1, 1, 1, 0, 1, 2, 1, 1, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1343,9 +1343,26 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 1, 0, 1, 0, 3, 0, 0, 3, 0]
+    bar [1, 0, 1, 1, 1, 0, 1, 0, 3, 0, 0, 3, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-57036-graph"></a>
+### [Dot Shorthands][meta] Dot shorthands implementation
+  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 44 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 4, 0]
   ```
 
   </details>
@@ -1360,9 +1377,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [6, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 2, 0]
+    bar [6, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1377,26 +1394,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 3, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-57036-graph"></a>
-### [Dot Shorthands][meta] Dot shorthands implementation
-  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 43 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 4]
+    bar [1, 2, 3, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1411,9 +1411,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 2, 0, 0, 0, 1, 0, 1, 2, 2, 1, 0]
+    bar [0, 2, 2, 0, 0, 0, 1, 0, 1, 2, 2, 1, 0, 0]
   ```
 
   </details>
@@ -1428,9 +1428,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 5, 0, 4]
+    bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 5, 0, 4, 0]
   ```
 
   </details>
@@ -1445,9 +1445,26 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 1, 0, 4, 0, 3, 0]
+    bar [1, 0, 0, 0, 0, 0, 1, 1, 0, 4, 0, 3, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-69529-graph"></a>
+### [web] Scroll is not recognized by the browser
+  <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 190 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 3, 0, 0, 0, 0, 0, 1, 3, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1462,9 +1479,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [5, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 2, 0]
+    bar [5, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 2, 0, 0]
   ```
 
   </details>
@@ -1479,9 +1496,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 6, 1, 1]
+    bar [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 6, 1, 1, 0]
   ```
 
   </details>
@@ -1496,9 +1513,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, -1, 2, 0, 1, 2, 0, 0, 3, 2]
+    bar [0, 0, 0, 0, -1, 2, 0, 1, 2, 0, 0, 3, 2, 0]
   ```
 
   </details>
@@ -1513,9 +1530,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 2, 2, 2, 1, 1, 0]
+    bar [0, 0, 0, 1, 0, 0, 0, 2, 2, 2, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1530,9 +1547,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 1, 6, 1, 0, 1, 0, 0]
+    bar [0, 0, 1, 0, 0, 0, 1, 6, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1547,9 +1564,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0]
+    bar [0, 1, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1564,26 +1581,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 4, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-69529-graph"></a>
-### [web] Scroll is not recognized by the browser
-  <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 189 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 3, 0, 0, 0, 0, 0, 1, 3, 0, 0, 1]
+    bar [0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 4, 0, 1, 0]
   ```
 
   </details>
@@ -1598,9 +1598,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 0, 2, 0, 3, 0, 1, 0, 0, 2, 0, 0]
+    bar [2, 0, 0, 2, 0, 3, 0, 1, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -1615,9 +1615,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 0, 0, 1, 3, 0, 3, 0, 0]
+    bar [0, 0, 0, 0, 3, 0, 0, 1, 3, 0, 3, 0, 0, 0]
   ```
 
   </details>
@@ -1632,9 +1632,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 5, 1, 0, 1, 0, 0]
+    bar [0, 0, 1, 0, 0, 0, 0, 5, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1649,9 +1649,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 1, 0, 1, 2, 1, 1, 0, 0, 0, 1, 0]
+    bar [0, 1, 1, 0, 1, 2, 1, 1, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -1666,9 +1666,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 6, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+    bar [0, 6, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1683,9 +1683,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 0, 0, 5, 0, 0, 0, 0, 0]
+    bar [1, 0, 1, 0, 1, 0, 0, 5, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1700,9 +1700,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 1, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1717,9 +1717,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1734,9 +1734,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0]
+    bar [0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0]
   ```
 
   </details>
@@ -1751,9 +1751,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 9, 9, 9, 9, 9, 9]
   ```
 
   </details>
@@ -1768,9 +1768,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 2, 0, 1, 0, 1, 1, 1, 0]
+    bar [0, 0, 0, 0, 1, 2, 0, 1, 0, 1, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1785,9 +1785,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 3, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1]
+    bar [1, 3, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -1802,9 +1802,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]
+    bar [1, 0, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1819,9 +1819,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1]
+    bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0]
   ```
 
   </details>
@@ -1836,9 +1836,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 2, 0, 1]
+    bar [0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 2, 0, 1, 0]
   ```
 
   </details>
@@ -1853,9 +1853,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 1, 0]
+    bar [1, 1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 1, 0, 0]
   ```
 
   </details>
@@ -1870,9 +1870,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 8, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 8, 0, 0]
   ```
 
   </details>
@@ -1887,9 +1887,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 2, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 2, 0, 0]
   ```
 
   </details>
@@ -1904,9 +1904,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1]
+    bar [1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1921,9 +1921,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 2, 1, 1, 0, 1, 0, 1]
+    bar [0, 0, 1, 0, 0, 0, 2, 1, 1, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1938,9 +1938,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 2, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+    bar [0, 1, 0, 2, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1955,9 +1955,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 1, 1]
+    bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 1, 1, 0]
   ```
 
   </details>
@@ -1972,9 +1972,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1989,9 +1989,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 1, 0, 0, 0, 2, 0, 0, 0]
+    bar [0, 0, 0, 0, 3, 1, 0, 0, 0, 2, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2006,9 +2006,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1]
+    bar [0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2023,9 +2023,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 2, 0, 0]
+    bar [0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2040,9 +2040,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0]
+    bar [2, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2057,9 +2057,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 2, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0]
+    bar [1, 2, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2074,9 +2074,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0]
+    bar [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2091,9 +2091,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 1, 0]
+    bar [1, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2108,9 +2108,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 0, 0, 3, 1, 1, 0, 0]
+    bar [0, 1, 0, 0, 0, 0, 0, 0, 3, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2125,9 +2125,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4, 0, 0]
   ```
 
   </details>
@@ -2142,9 +2142,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0]
   ```
 
   </details>
@@ -2159,9 +2159,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 4, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7]
+    bar [0, 0, 4, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7]
   ```
 
   </details>
@@ -2176,9 +2176,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2193,9 +2193,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2210,9 +2210,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 3]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 3, 0]
   ```
 
   </details>
@@ -2227,9 +2227,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 4]
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 4, 0]
   ```
 
   </details>
@@ -2244,9 +2244,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 1]
+    bar [0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2261,9 +2261,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 0, 0]
+    bar [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2278,9 +2278,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 1]
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2295,9 +2295,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0, 0]
+    bar [0, 1, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2312,9 +2312,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0]
+    bar [2, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2329,9 +2329,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 1]
+    bar [1, 0, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2346,9 +2346,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 2]
+    bar [0, 2, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 2, 0]
   ```
 
   </details>
@@ -2363,9 +2363,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 4]
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 4, 0]
   ```
 
   </details>
@@ -2380,9 +2380,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]
+    bar [1, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
   ```
 
   </details>
@@ -2397,9 +2397,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 2, 1, 1]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 2, 1, 1, 0]
   ```
 
   </details>
@@ -2414,9 +2414,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, -1]
+    bar [0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0, 0, -1, 0]
   ```
 
   </details>
@@ -2431,9 +2431,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    bar [2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
   ```
 
   </details>
@@ -2448,9 +2448,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]
+    bar [1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2465,9 +2465,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0, 1]
+    bar [0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 1, 0, 1, 0]
   ```
 
   </details>
@@ -2482,9 +2482,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0]
+    bar [0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2499,9 +2499,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1, 0, 0]
+    bar [0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2516,9 +2516,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0]
+    bar [0, 2, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2533,9 +2533,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 2, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
+    bar [0, 2, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2550,9 +2550,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2567,9 +2567,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1]
+    bar [1, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2584,9 +2584,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1]
+    bar [0, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2601,9 +2601,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 2, 0, 0, 0]
   ```
 
   </details>
@@ -2618,9 +2618,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1]
+    bar [0, 1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
@@ -2635,9 +2635,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 4]
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 4, 0]
   ```
 
   </details>
@@ -2652,9 +2652,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2669,9 +2669,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24]
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0]
+    bar [0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0]
   ```
 
   </details>
