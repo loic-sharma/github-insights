@@ -63,12 +63,12 @@ Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 264 | [7](#flutter-flutter-18345-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | [7](#flutter-flutter-33798-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 42 | [7](#flutter-flutter-53059-graph)
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 116 | [5](#flutter-flutter-102560-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 117 | [6](#flutter-flutter-102560-graph)
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 58 | [5](#flutter-flutter-60298-graph)
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 57 | [5](#flutter-flutter-86636-graph)
 Overscrolling outer scrollview / SliverAppBar.stretch does not work in NestedScrollView [flutter/flutter#54059](https://github.com/flutter/flutter/issues/54059) | 45 | 4
- Save password prompt dismiss is pushing UI up and down [flutter/flutter#112281](https://github.com/flutter/flutter/issues/112281) | 25 | 4
 ListView background overflows from parent Container [flutter/flutter#86584](https://github.com/flutter/flutter/issues/86584) | 25 | 4
+ Save password prompt dismiss is pushing UI up and down [flutter/flutter#112281](https://github.com/flutter/flutter/issues/112281) | 25 | 4
 
 #### Cupertino
 
@@ -215,10 +215,10 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 344 | [24](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
+WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 80 | [14](#flutter-flutter-124334-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 73 | [14](#flutter-flutter-149031-graph)
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 339 | [13](#flutter-flutter-33577-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 270 | [13](#flutter-flutter-45296-graph)
-WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 79 | [13](#flutter-flutter-124334-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 190 | [11](#flutter-flutter-69529-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [10](#flutter-flutter-156910-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 36 | [10](#flutter-flutter-152588-graph)
@@ -259,10 +259,10 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 344 | [24](#flutter-flutter-145954-graph)
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
+WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 80 | [14](#flutter-flutter-124334-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 73 | [14](#flutter-flutter-149031-graph)
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 339 | [13](#flutter-flutter-33577-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 270 | [13](#flutter-flutter-45296-graph)
-WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 79 | [13](#flutter-flutter-124334-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 190 | [11](#flutter-flutter-69529-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [10](#flutter-flutter-156910-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 36 | [10](#flutter-flutter-152588-graph)
@@ -277,8 +277,8 @@ Issue | Total reactions | Recent reactions
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 121 | [55](#dart-lang-sdk-55281-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 79 | [20](#dart-lang-sdk-53402-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [18](#dart-lang-sdk-54934-graph)
+[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 47 | [16](#dart-lang-sdk-57036-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 180 | [15](#dart-lang-sdk-50565-graph)
-[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 44 | [13](#dart-lang-sdk-57036-graph)
 Deprecate `Random()` default constructor, replace with `Random.insecure()` [dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) | 10 | [10](#dart-lang-sdk-59715-graph)
 Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) | 25 | [9](#dart-lang-sdk-46442-graph)
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
@@ -308,7 +308,7 @@ Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/lan
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1676 | [16](#dart-lang-language-1482-graph)
 Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) | 16 | [16](#dart-lang-language-4205-graph)
 Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 15 | [15](#dart-lang-language-4275-graph)
-Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 530 | [11](#dart-lang-language-83-graph)
+Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 531 | [12](#dart-lang-language-83-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 232 | [10](#dart-lang-language-1076-graph)
 Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/language/issues/3712) | 75 | [10](#dart-lang-language-3712-graph)
 
@@ -705,23 +705,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-language-4200-graph"></a>
-### More capable `Type` objects
-  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions"
-    bar [0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18, 18, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-159718-graph"></a>
 ### Multiple flutters with same engine group freeze with platform view
   <sub>[flutter/flutter#159718](https://github.com/flutter/flutter/issues/159718) &mdash; 26 total reactions, 26 recent reactions</sub><br />
@@ -734,6 +717,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
     bar [24, 24, 25, 25, 25, 25, 25, 25, 25, 26, 26, 26, 26, 26]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4200-graph"></a>
+### More capable `Type` objects
+  <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 26 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions"
+    bar [0, 11, 13, 16, 16, 16, 16, 16, 17, 18, 18, 18, 26, 26]
   ```
 
   </details>
@@ -977,23 +977,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-160142-graph"></a>
-### Flutter bundles assets from all packages in a pub workspace
-  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 17, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4246-graph"></a>
 ### Enhanced Constructors
   <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -1006,6 +989,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16, 17, 17, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160142-graph"></a>
+### Flutter bundles assets from all packages in a pub workspace
+  <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 16, 16, 16, 16, 17, 17, 17]
   ```
 
   </details>
@@ -1079,9 +1079,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-language-4205-graph"></a>
-### Inline catching
-  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+<a name="dart-lang-sdk-57036-graph"></a>
+### [Dot Shorthands][meta] Dot shorthands implementation
+  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 47 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1090,7 +1090,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 6, 9, 13, 14, 14, 14, 14, 15, 15, 15, 15, 16, 16]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 4, 0]
   ```
 
   </details>
@@ -1113,6 +1113,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
+<a name="dart-lang-language-4205-graph"></a>
+### Inline catching
+  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 6, 9, 13, 14, 14, 14, 14, 15, 15, 15, 15, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-50565-graph"></a>
 ### ☂️ [vm/ffi] Native assets feature
   <sub>[dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) &mdash; 180 total reactions, 15 recent reactions</sub><br />
@@ -1125,23 +1142,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 6, 0, 0, 0, 0, 0, 0, 0, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-162818-graph"></a>
-### Remove instances of `useMaterial3: true` in framework, samples and codelabs
-  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 15, 15, 15]
   ```
 
   </details>
@@ -1164,6 +1164,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
+<a name="flutter-flutter-162818-graph"></a>
+### Remove instances of `useMaterial3: true` in framework, samples and codelabs
+  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 15, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-14288-graph"></a>
 ### Antialiasing behaviour when same-colour 
   <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 183 total reactions, 14 recent reactions</sub><br />
@@ -1176,6 +1193,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [4, 0, 0, 0, 0, 1, 0, 0, 0, 1, 4, 1, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-124334-graph"></a>
+### WebGPU Backend for Flutter Web
+  <sub>[flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) &mdash; 80 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 1, 1, 0, 1, 0, 3, 0, 0, 3, 0, 0]
   ```
 
   </details>
@@ -1334,9 +1368,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-124334-graph"></a>
-### WebGPU Backend for Flutter Web
-  <sub>[flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) &mdash; 79 total reactions, 13 recent reactions</sub><br />
+<a name="dart-lang-language-83-graph"></a>
+### Sum/union types and type matching
+  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 531 total reactions, 12 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1345,24 +1379,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 1, 1, 0, 1, 0, 3, 0, 0, 3, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-57036-graph"></a>
-### [Dot Shorthands][meta] Dot shorthands implementation
-  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 44 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 4, 0]
+    bar [0, 2, 2, 0, 0, 0, 1, 0, 1, 2, 2, 1, 0, 0]
   ```
 
   </details>
@@ -1397,23 +1414,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [1, 2, 3, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-83-graph"></a>
-### Sum/union types and type matching
-  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 530 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 2, 2, 0, 0, 0, 1, 0, 1, 2, 2, 1, 0, 0]
   ```
 
   </details>
@@ -2252,6 +2252,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 117 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 2, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-97050-graph"></a>
 ### Supporting of in app purchases on Windows Store
   <sub>[flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) &mdash; 62 total reactions, 6 recent reactions</sub><br />
@@ -2502,23 +2519,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, -1, 0, 2, 0, 0, 1, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 116 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 2, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]
   ```
 
   </details>
