@@ -67,8 +67,8 @@ Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/fl
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 58 | [5](#flutter-flutter-60298-graph)
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 57 | [5](#flutter-flutter-86636-graph)
 Overscrolling outer scrollview / SliverAppBar.stretch does not work in NestedScrollView [flutter/flutter#54059](https://github.com/flutter/flutter/issues/54059) | 45 | 4
- Save password prompt dismiss is pushing UI up and down [flutter/flutter#112281](https://github.com/flutter/flutter/issues/112281) | 25 | 4
 ListView background overflows from parent Container [flutter/flutter#86584](https://github.com/flutter/flutter/issues/86584) | 25 | 4
+ Save password prompt dismiss is pushing UI up and down [flutter/flutter#112281](https://github.com/flutter/flutter/issues/112281) | 25 | 4
 
 #### Cupertino
 
@@ -187,7 +187,7 @@ Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flut
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Deprecated APIs use on Android 15 [flutter/flutter#160328](https://github.com/flutter/flutter/issues/160328) | 23 | [23](#flutter-flutter-160328-graph)
-[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 44 | [14](#flutter-flutter-145961-graph)
+[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 46 | [16](#flutter-flutter-145961-graph)
 Android build warnings about Java with latest Gradle: `source value 8 is obsolete`/`target value 8 is obsolete` [flutter/flutter#156111](https://github.com/flutter/flutter/issues/156111) | 53 | [12](#flutter-flutter-156111-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 380 | [11](#flutter-flutter-83596-graph)
 Add suport for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 87 | [10](#flutter-flutter-109842-graph)
@@ -305,9 +305,9 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 233 | [18](#dart-lang-language-2364-graph)
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 105 | [18](#dart-lang-language-3001-graph)
 Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) | 17 | [17](#dart-lang-language-4246-graph)
+Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 17 | [17](#dart-lang-language-4275-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1676 | [16](#dart-lang-language-1482-graph)
 Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) | 16 | [16](#dart-lang-language-4205-graph)
-Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 16 | [16](#dart-lang-language-4275-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 531 | [12](#dart-lang-language-83-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 233 | [11](#dart-lang-language-1076-graph)
 Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 12 | [11](#dart-lang-language-4154-graph)
@@ -943,23 +943,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-139289-graph"></a>
-### Allow to provide compile-time variables for native platforms from a file
-  <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 180 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 1, 0, 1, 0, 2, 0, 4, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-54934-graph"></a>
 ### ☔  Support for hot reload in DDC
   <sub>[dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) &mdash; 180 total reactions, 18 recent reactions</sub><br />
@@ -972,6 +955,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [2, 0, 2, 0, 1, 0, 0, 0, 3, 2, 1, 1, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-139289-graph"></a>
+### Allow to provide compile-time variables for native platforms from a file
+  <sub>[flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) &mdash; 180 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 3, 0, 1, 0, 1, 0, 2, 0, 4, 1, 0, 0, 0]
   ```
 
   </details>
@@ -1040,6 +1040,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 3, 16, 16, 17, 17, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4275-graph"></a>
+### Allow punctuation based alternatives to keywords?
+  <sub>[dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 17]
   ```
 
   </details>
@@ -1130,6 +1147,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-145961-graph"></a>
+### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
+  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 46 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 2, 2, 0, 1, 0, 1, 0, 2, 2, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4205-graph"></a>
 ### Inline catching
   <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -1142,23 +1176,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 6, 9, 13, 14, 14, 14, 14, 15, 15, 15, 15, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4275-graph"></a>
-### Allow punctuation based alternatives to keywords?
-  <sub>[dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16]
   ```
 
   </details>
@@ -1261,23 +1278,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [2, 1, 1, 0, 0, 2, 0, 0, 1, 0, 1, 2, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145961-graph"></a>
-### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
-  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 44 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 2, 2, 0, 1, 0, 1, 0, 2, 2, 0, 0, 0]
   ```
 
   </details>
