@@ -14,7 +14,7 @@ Error: "The targeted input element must be the active input element" when switch
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 113 | [113](#flutter-flutter-163443-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2206 | [104](#dart-lang-language-314-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1274 | [103](#flutter-flutter-53041-graph)
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 75 | [75](#dart-lang-language-4271-graph)
+static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 76 | [76](#dart-lang-language-4271-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 126 | [60](#dart-lang-sdk-55281-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 90 | [47](#flutter-flutter-159342-graph)
@@ -67,8 +67,8 @@ Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/fl
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 58 | [5](#flutter-flutter-60298-graph)
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 57 | [5](#flutter-flutter-86636-graph)
 Overscrolling outer scrollview / SliverAppBar.stretch does not work in NestedScrollView [flutter/flutter#54059](https://github.com/flutter/flutter/issues/54059) | 45 | 4
-ListView background overflows from parent Container [flutter/flutter#86584](https://github.com/flutter/flutter/issues/86584) | 25 | 4
  Save password prompt dismiss is pushing UI up and down [flutter/flutter#112281](https://github.com/flutter/flutter/issues/112281) | 25 | 4
+ListView background overflows from parent Container [flutter/flutter#86584](https://github.com/flutter/flutter/issues/86584) | 25 | 4
 
 #### Cupertino
 
@@ -123,9 +123,9 @@ Nested generic function inside factory constructor crashes flutter run (web) com
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 180 | [18](#flutter-flutter-139289-graph)
 Flutter bundles assets from all packages in a pub workspace [flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) | 18 | [18](#flutter-flutter-160142-graph)
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 74 | [9](#flutter-flutter-64106-graph)
+Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 128 | [8](#flutter-flutter-63323-graph)
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 67 | [8](#flutter-flutter-129757-graph)
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 147 | [7](#flutter-flutter-65065-graph)
-Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 127 | [7](#flutter-flutter-63323-graph)
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 88 | [7](#flutter-flutter-25377-graph)
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 419 | [6](#flutter-flutter-71400-graph)
 Integration test TimeoutException after 0:12:00.000000: Test timed out after 12 minutes [flutter/flutter#105913](https://github.com/flutter/flutter/issues/105913) | 44 | [6](#flutter-flutter-105913-graph)
@@ -298,7 +298,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [189](#dart-lang-language-4211-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2206 | [104](#dart-lang-language-314-graph)
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 75 | [75](#dart-lang-language-4271-graph)
+static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 76 | [76](#dart-lang-language-4271-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1040 | [39](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1137 | [27](#dart-lang-language-723-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 26 | [26](#dart-lang-language-4200-graph)
@@ -309,8 +309,8 @@ Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/lan
 Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 17 | [17](#dart-lang-language-4275-graph)
 Inline catching [dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) | 16 | [16](#dart-lang-language-4205-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 531 | [12](#dart-lang-language-83-graph)
+Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 234 | [12](#dart-lang-language-1076-graph)
 Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 13 | [12](#dart-lang-language-4154-graph)
-Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 233 | [11](#dart-lang-language-1076-graph)
 
 ## Graphs
 
@@ -452,7 +452,7 @@ Allow both optional positional and optional named arguments in the same function
 
 <a name="dart-lang-language-4271-graph"></a>
 ### static enough metaprogramming
-  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 75 total reactions, 75 recent reactions</sub><br />
+  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 76 total reactions, 76 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -461,7 +461,7 @@ Allow both optional positional and optional named arguments in the same function
   xychart-beta
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 67, 75]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 67, 76]
   ```
 
   </details>
@@ -1402,6 +1402,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="dart-lang-language-1076-graph"></a>
+### Allow both optional positional and optional named arguments in the same function signature.
+  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 234 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-69529-graph"></a>
 ### [web] Scroll is not recognized by the browser
   <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 191 total reactions, 12 recent reactions</sub><br />
@@ -1499,23 +1516,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 5, 0, 4, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1076-graph"></a>
-### Allow both optional positional and optional named arguments in the same function signature.
-  <sub>[dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) &mdash; 233 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 2, 0, 0, 2, 0, 1, 1, 0, 0, 0, 0, 1]
   ```
 
   </details>
@@ -1759,23 +1759,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="dart-lang-sdk-46442-graph"></a>
-### Throws exception 'Failed to parse header value'
-  <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-61814-graph"></a>
 ### [proposal] allow to detect programmatically what flutter version the app was compiled under
   <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
@@ -1788,6 +1771,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-46442-graph"></a>
+### Throws exception 'Failed to parse header value'
+  <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1822,6 +1822,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [1, 3, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-63323-graph"></a>
+### Code generation experience needs improvements
+  <sub>[flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) &mdash; 128 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 1]
   ```
 
   </details>
@@ -1992,23 +2009,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 2, 0, 0, 0, 1, 1, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-63323-graph"></a>
-### Code generation experience needs improvements
-  <sub>[flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) &mdash; 127 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2422,23 +2422,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="flutter-flutter-151638-graph"></a>
-### Investigate path resolution for "libflutter.so" binary
-  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 19 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 2, 1, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 19 total reactions, 6 recent reactions</sub><br />
@@ -2451,6 +2434,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-151638-graph"></a>
+### Investigate path resolution for "libflutter.so" binary
+  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 19 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 2, Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 2, 1, 1, 0]
   ```
 
   </details>
