@@ -18,8 +18,8 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 127 | [57](#dart-lang-sdk-55281-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 45 | [45](#flutter-flutter-163984-graph)
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 42 | [42](#flutter-flutter-162945-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
+Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 42 | [42](#flutter-flutter-162945-graph)
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 90 | [38](#flutter-flutter-159342-graph)
 
 ## Trending issues by team
@@ -36,8 +36,8 @@ Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 155 | [37](#flutter-flutter-142845-graph)
 Decorators experiment [flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) | 33 | [33](#flutter-flutter-161345-graph)
 Add `context.dependOnListenable(Listenable listenable)` [flutter/flutter#135050](https://github.com/flutter/flutter/issues/135050) | 70 | [23](#flutter-flutter-135050-graph)
-[Proposal]Provide a alternative to deprecated `Color.value` [flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) | 22 | [22](#flutter-flutter-160184-graph)
  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse [flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) | 22 | [22](#flutter-flutter-160144-graph)
+[Proposal]Provide a alternative to deprecated `Color.value` [flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) | 22 | [22](#flutter-flutter-160184-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 250 | [17](#flutter-flutter-54200-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 188 | [16](#flutter-flutter-65504-graph)
 [Selection] How To Avoid `'!_selectionStartsInScrollable': is not true.` assertion when using SelectionArea with scrollable widget. [flutter/flutter#115787](https://github.com/flutter/flutter/issues/115787) | 41 | [14](#flutter-flutter-115787-graph)
@@ -58,10 +58,10 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 42 | [42](#flutter-flutter-162945-graph)
 Remove instances of `useMaterial3: true` in framework, samples and codelabs [flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) | 15 | [15](#flutter-flutter-162818-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 117 | [8](#flutter-flutter-62960-graph)
+Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 80 | [8](#flutter-flutter-36283-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 264 | [7](#flutter-flutter-18345-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 119 | [7](#flutter-flutter-102560-graph)
 [iOS 13] new fullscreen stack type route transition [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | [7](#flutter-flutter-33798-graph)
-Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 79 | [7](#flutter-flutter-36283-graph)
 Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 40 | [7](#flutter-flutter-141941-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 293 | [6](#flutter-flutter-21594-graph)
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 58 | [6](#flutter-flutter-86636-graph)
@@ -288,7 +288,7 @@ Consider disabling `require_trailing_commas` lint if language version of file is
 `depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 7 | [7](#dart-lang-sdk-59721-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 57 | [6](#dart-lang-sdk-49426-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 18 | [6](#dart-lang-sdk-58535-graph)
-Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
+Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 
 ### Dart language
 
@@ -518,23 +518,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-162945-graph"></a>
-### Introduce HIG blur materials to the Cupertino package
-  <sub>[flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) &mdash; 42 total reactions, 42 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 19, 38, 41, 42, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160442-graph"></a>
 ### Slow Vulkan performance on API 35 Android Emulator images.
   <sub>[flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) &mdash; 42 total reactions, 42 recent reactions</sub><br />
@@ -547,6 +530,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 22, 29, 36, 42, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-162945-graph"></a>
+### Introduce HIG blur materials to the Cupertino package
+  <sub>[flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) &mdash; 42 total reactions, 42 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 19, 38, 41, 42, 42]
   ```
 
   </details>
@@ -807,23 +807,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-160184-graph"></a>
-### [Proposal]Provide a alternative to deprecated `Color.value`
-  <sub>[flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) &mdash; 22 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions"
-    bar [0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160144-graph"></a>
 ###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
   <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -836,6 +819,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 19, 21, 22]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160184-graph"></a>
+### [Proposal]Provide a alternative to deprecated `Color.value`
+  <sub>[flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions"
+    bar [0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1827,6 +1827,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-36283-graph"></a>
+### Can't swipe to dismiss scrollable Bottom Sheet
+  <sub>[flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) &mdash; 80 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 7]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-60119-graph"></a>
 ### Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7
   <sub>[dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -1992,23 +2009,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-36283-graph"></a>
-### Can't swipe to dismiss scrollable Bottom Sheet
-  <sub>[flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) &mdash; 79 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 6]
   ```
 
   </details>
@@ -2422,9 +2422,9 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60018-graph"></a>
-### Don't require "part file.*.dart" for files in the same directory with the same base name.
-  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60244-graph"></a>
+### Automate the creation of data-driven fix data
+  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2433,7 +2433,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   xychart-beta
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 3, 5, 5, 6, 6, 6]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]
   ```
 
   </details>
