@@ -142,9 +142,9 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
-Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1 [flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) | 35 | [35](#flutter-flutter-161142-graph)
 After upgrading to 3.29, the UI is broken. [flutter/flutter#163452](https://github.com/flutter/flutter/issues/163452) | 35 | [35](#flutter-flutter-163452-graph)
-[Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur() [flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) | 25 | [25](#flutter-flutter-163421-graph)
+Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1 [flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) | 35 | [35](#flutter-flutter-161142-graph)
+[Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur() [flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) | 26 | [26](#flutter-flutter-163421-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 203 | [20](#flutter-flutter-61229-graph)
 Android, both Skia and Impeller became less performant after upgrading from 3.24.5 to 3.27.0 [flutter/flutter#160207](https://github.com/flutter/flutter/issues/160207) | 14 | [14](#flutter-flutter-160207-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 168 | [13](#flutter-flutter-25841-graph)
@@ -288,7 +288,7 @@ Consider disabling `require_trailing_commas` lint if language version of file is
 `depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 7 | [7](#dart-lang-sdk-59721-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 57 | [6](#dart-lang-sdk-49426-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 18 | [6](#dart-lang-sdk-58535-graph)
-Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
+Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
 
 ### Dart language
 
@@ -569,23 +569,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-161142-graph"></a>
-### Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1
-  <sub>[flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) &mdash; 35 total reactions, 35 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 17, 21, 22, 35, 35, 35]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-163452-graph"></a>
 ### After upgrading to 3.29, the UI is broken.
   <sub>[flutter/flutter#163452](https://github.com/flutter/flutter/issues/163452) &mdash; 35 total reactions, 35 recent reactions</sub><br />
@@ -598,6 +581,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 30, 35, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-161142-graph"></a>
+### Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1
+  <sub>[flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) &mdash; 35 total reactions, 35 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 17, 21, 22, 35, 35, 35]
   ```
 
   </details>
@@ -705,6 +705,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-163421-graph"></a>
+### [Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur()
+  <sub>[flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) &mdash; 26 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 25, 26]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
   <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1137 total reactions, 25 recent reactions</sub><br />
@@ -717,23 +734,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [2, 2, 0, 0, 1, 1, 4, 1, 0, 0, 3, 4, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-163421-graph"></a>
-### [Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur()
-  <sub>[flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) &mdash; 25 total reactions, 25 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 25, 0]
   ```
 
   </details>
@@ -1708,23 +1708,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-sdk-46442-graph"></a>
-### Throws exception 'Failed to parse header value'
-  <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-61814-graph"></a>
 ### [proposal] allow to detect programmatically what flutter version the app was compiled under
   <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
@@ -1737,6 +1720,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-46442-graph"></a>
+### Throws exception 'Failed to parse header value'
+  <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2014,23 +2014,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-141941-graph"></a>
-### Create DropdownMenuFormField
-  <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 40 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-146860-graph"></a>
 ### TextHeightBehaviour should allow more tightly-wrapped text
   <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 40 total reactions, 7 recent reactions</sub><br />
@@ -2043,6 +2026,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 3, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-141941-graph"></a>
+### Create DropdownMenuFormField
+  <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 40 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2405,9 +2405,9 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60244-graph"></a>
-### Automate the creation of data-driven fix data
-  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60018-graph"></a>
+### Don't require "part file.*.dart" for files in the same directory with the same base name.
+  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2416,7 +2416,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   xychart-beta
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6]
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 5, 5, 6, 6, 6, 6]
   ```
 
   </details>
