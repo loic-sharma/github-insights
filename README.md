@@ -18,8 +18,8 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 128 | [58](#dart-lang-sdk-55281-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 45 | [45](#flutter-flutter-163984-graph)
-Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 42 | [42](#flutter-flutter-162945-graph)
+Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 156 | [38](#flutter-flutter-142845-graph)
 
 ## Trending issues by team
@@ -518,23 +518,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-160442-graph"></a>
-### Slow Vulkan performance on API 35 Android Emulator images.
-  <sub>[flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) &mdash; 42 total reactions, 42 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 22, 29, 36, 42, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-162945-graph"></a>
 ### Introduce HIG blur materials to the Cupertino package
   <sub>[flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) &mdash; 42 total reactions, 42 recent reactions</sub><br />
@@ -547,6 +530,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 0, 19, 38, 41, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160442-graph"></a>
+### Slow Vulkan performance on API 35 Android Emulator images.
+  <sub>[flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) &mdash; 42 total reactions, 42 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 22, 29, 36, 42, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2014,23 +2014,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 40 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 3, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-141941-graph"></a>
 ### Create DropdownMenuFormField
   <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 40 total reactions, 7 recent reactions</sub><br />
@@ -2043,6 +2026,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 40 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 3, 2, 0]
   ```
 
   </details>
