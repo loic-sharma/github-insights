@@ -11,12 +11,12 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [189](#dart-lang-language-4211-graph)
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 118 | [118](#flutter-flutter-162960-graph)
-Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 113 | [113](#flutter-flutter-163443-graph)
+Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 114 | [114](#flutter-flutter-163443-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2206 | [101](#dart-lang-language-314-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1274 | [94](#flutter-flutter-53041-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 77 | [77](#dart-lang-language-4271-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 128 | [58](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 129 | [59](#dart-lang-sdk-55281-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 45 | [45](#flutter-flutter-163984-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 160 | [42](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 42 | [42](#flutter-flutter-162945-graph)
@@ -32,7 +32,7 @@ Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#1604
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 113 | [113](#flutter-flutter-163443-graph)
+Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 114 | [114](#flutter-flutter-163443-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 160 | [42](#flutter-flutter-142845-graph)
 Decorators experiment [flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) | 33 | [33](#flutter-flutter-161345-graph)
 Add `context.dependOnListenable(Listenable listenable)` [flutter/flutter#135050](https://github.com/flutter/flutter/issues/135050) | 70 | [23](#flutter-flutter-135050-graph)
@@ -274,10 +274,10 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 128 | [58](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 129 | [59](#dart-lang-sdk-55281-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 183 | [18](#dart-lang-sdk-50565-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 79 | [18](#dart-lang-sdk-53402-graph)
-[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 48 | [17](#dart-lang-sdk-57036-graph)
+[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 49 | [18](#dart-lang-sdk-57036-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [16](#dart-lang-sdk-54934-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 533 | [13](#dart-lang-sdk-28617-graph)
 Deprecate `Random()` default constructor, replace with `Random.insecure()` [dart-lang/sdk#59715](https://github.com/dart-lang/sdk/issues/59715) | 10 | [10](#dart-lang-sdk-59715-graph)
@@ -401,7 +401,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
 
 <a name="flutter-flutter-163443-graph"></a>
 ### Proposal: Set `debugShowCheckedModeBanner` Default to false
-  <sub>[flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) &mdash; 113 total reactions, 113 recent reactions</sub><br />
+  <sub>[flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) &mdash; 114 total reactions, 114 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -410,7 +410,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   xychart-beta
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 113, 113, 113]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 113, 113, 114]
   ```
 
   </details>
@@ -486,7 +486,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
 
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 128 total reactions, 58 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 129 total reactions, 59 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -495,7 +495,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   xychart-beta
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
-    bar [7, 3, 0, 2, 3, 4, 1, 4, 2, 4, 8, 4, 7, 0]
+    bar [7, 3, 0, 2, 3, 4, 1, 4, 2, 4, 8, 4, 7, 1]
   ```
 
   </details>
@@ -960,6 +960,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="dart-lang-sdk-57036-graph"></a>
+### [Dot Shorthands][meta] Dot shorthands implementation
+  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 49 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 4, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-160142-graph"></a>
 ### Flutter bundles assets from all packages in a pub workspace
   <sub>[flutter/flutter#160142](https://github.com/flutter/flutter/issues/160142) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -1006,23 +1023,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [4, 1, 0, 0, 4, 1, 0, 2, 0, 0, 2, 1, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-57036-graph"></a>
-### [Dot Shorthands][meta] Dot shorthands implementation
-  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 48 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 4, 1, 0]
   ```
 
   </details>
