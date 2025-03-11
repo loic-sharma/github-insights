@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-12-09 to 2025-03-10.
+Issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -18,9 +18,9 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 128 | [58](#dart-lang-sdk-55281-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 45 | [45](#flutter-flutter-163984-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 160 | [42](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 42 | [42](#flutter-flutter-162945-graph)
 Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#160442](https://github.com/flutter/flutter/issues/160442) | 42 | [42](#flutter-flutter-160442-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 156 | [38](#flutter-flutter-142845-graph)
 
 ## Trending issues by team
 
@@ -28,29 +28,29 @@ Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#1604
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-framework` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 113 | [113](#flutter-flutter-163443-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 156 | [38](#flutter-flutter-142845-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 160 | [42](#flutter-flutter-142845-graph)
 Decorators experiment [flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) | 33 | [33](#flutter-flutter-161345-graph)
 Add `context.dependOnListenable(Listenable listenable)` [flutter/flutter#135050](https://github.com/flutter/flutter/issues/135050) | 70 | [23](#flutter-flutter-135050-graph)
  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse [flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) | 22 | [22](#flutter-flutter-160144-graph)
 [Proposal]Provide a alternative to deprecated `Color.value` [flutter/flutter#160184](https://github.com/flutter/flutter/issues/160184) | 22 | [22](#flutter-flutter-160184-graph)
+Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 679 | [18](#flutter-flutter-30701-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 250 | [17](#flutter-flutter-54200-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 188 | [16](#flutter-flutter-65504-graph)
 [Selection] How To Avoid `'!_selectionStartsInScrollable': is not true.` assertion when using SelectionArea with scrollable widget. [flutter/flutter#115787](https://github.com/flutter/flutter/issues/115787) | 41 | [14](#flutter-flutter-115787-graph)
-Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 673 | [12](#flutter-flutter-30701-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 185 | [12](#flutter-flutter-45336-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 126 | [11](#flutter-flutter-99606-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 230 | [10](#flutter-flutter-138614-graph)
+[Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 49 | [10](#flutter-flutter-101227-graph)
 Feature request: Allow declaring main language of app to VoiceOver and TalkBack [flutter/flutter#99600](https://github.com/flutter/flutter/issues/99600) | 38 | [9](#flutter-flutter-99600-graph)
-[proposal] allow to detect programmatically what flutter version the app was compiled under [flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) | 25 | [9](#flutter-flutter-61814-graph)
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-design` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ ListView background overflows from parent Container [flutter/flutter#86584](http
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`f: cupertino` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 521 | [395](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-go_router` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-tool` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ flutter downgrade to support version selection [flutter/flutter#71723](https://g
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-engine` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
@@ -160,7 +160,7 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-ios` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Support eye tracking when running on visionOS or iOS [flutter/flutter#129640](ht
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-android` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-web` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -222,11 +222,11 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 74 | [12](#flutter-flutter-149031-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 37 | [11](#flutter-flutter-152588-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [10](#flutter-flutter-156910-graph)
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 209 | [7](#flutter-flutter-55324-graph)
+Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 211 | [9](#flutter-flutter-55324-graph)
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-desktop` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`team-ecosystem` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -266,11 +266,11 @@ WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutt
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 74 | [12](#flutter-flutter-149031-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 37 | [11](#flutter-flutter-152588-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [10](#flutter-flutter-156910-graph)
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 209 | [7](#flutter-flutter-55324-graph)
+Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 211 | [9](#flutter-flutter-55324-graph)
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`dart-lang/sdk` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -288,11 +288,11 @@ Consider disabling `require_trailing_commas` lint if language version of file is
 `depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 7 | [7](#dart-lang-sdk-59721-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 57 | [6](#dart-lang-sdk-49426-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 18 | [6](#dart-lang-sdk-58535-graph)
-Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
+Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-12-09 to 2025-03-10.
+`dart-lang/language` issues that received the most reactions from 2024-12-09 to 2025-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -518,6 +518,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-142845-graph"></a>
+### ☂️ Multi View for Windows/MacOS
+  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 160 total reactions, 42 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 2, 1, 1, 2, 2, 2, 2, 4, 7, 1, 5, 3, 4]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-162945-graph"></a>
 ### Introduce HIG blur materials to the Cupertino package
   <sub>[flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) &mdash; 42 total reactions, 42 recent reactions</sub><br />
@@ -547,23 +564,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 22, 29, 36, 42, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-142845-graph"></a>
-### ☂️ Multi View for Windows/MacOS
-  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 156 total reactions, 38 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 2, 1, 1, 2, 2, 2, 2, 4, 7, 1, 5, 3, 0]
   ```
 
   </details>
@@ -688,23 +688,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-163421-graph"></a>
-### [Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur()
-  <sub>[flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 25, 26]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4200-graph"></a>
 ### More capable `Type` objects
   <sub>[dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) &mdash; 26 total reactions, 26 recent reactions</sub><br />
@@ -717,6 +700,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions"
     bar [11, 13, 16, 16, 16, 16, 16, 17, 18, 18, 18, 26, 26, 26]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-163421-graph"></a>
+### [Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur()
+  <sub>[flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) &mdash; 26 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 25, 26]
   ```
 
   </details>
@@ -870,6 +870,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [15, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-30701-graph"></a>
+### Support multiple windows for desktop shells
+  <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 679 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 0, 0, 0, 2, 2, 2, 1, 1, 0, 1, 6]
   ```
 
   </details>
@@ -1113,23 +1130,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-language-4205-graph"></a>
-### Inline catching
-  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [6, 9, 13, 14, 14, 14, 14, 15, 15, 15, 15, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160155-graph"></a>
 ### Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element
   <sub>[flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -1142,6 +1142,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4205-graph"></a>
+### Inline catching
+  <sub>[dart-lang/language#4205](https://github.com/dart-lang/language/issues/4205) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [6, 9, 13, 14, 14, 14, 14, 15, 15, 15, 15, 16, 16, 16]
   ```
 
   </details>
@@ -1278,23 +1295,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 2, 0, 1, 0, 1, 1, 1, 0, 5, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-30701-graph"></a>
-### Support multiple windows for desktop shells
-  <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 673 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 0, 0, 0, 2, 2, 2, 1, 1, 0, 1, 0]
   ```
 
   </details>
@@ -1589,6 +1589,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-101227-graph"></a>
+### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
+  <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 49 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 6, 3, 0, 0, 0, 0, -2, 0, 0, 0, 3]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-156910-graph"></a>
 ### [web] Deprecate and remove `flutter_service_worker.js`
   <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 39 total reactions, 10 recent reactions</sub><br />
@@ -1635,6 +1652,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, -1, 2, 0, 1, 2, 0, 0, 3, 2, -1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-55324-graph"></a>
+### Support Firefox as a browser in flutter run
+  <sub>[flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) &mdash; 211 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 3, 0, 1, 2]
   ```
 
   </details>
@@ -1720,23 +1754,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61814-graph"></a>
-### [proposal] allow to detect programmatically what flutter version the app was compiled under
-  <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0]
   ```
 
   </details>
@@ -1907,23 +1924,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 2, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-55324-graph"></a>
-### Support Firefox as a browser in flutter run
-  <sub>[flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) &mdash; 209 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 3, 0, 1, 0]
   ```
 
   </details>
@@ -2405,9 +2405,9 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60244-graph"></a>
-### Automate the creation of data-driven fix data
-  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60018-graph"></a>
+### Don't require "part file.*.dart" for files in the same directory with the same base name.
+  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2416,7 +2416,7 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   xychart-beta
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6]
+    bar [0, 0, 0, 0, 0, 0, 0, 3, 5, 5, 6, 6, 6, 6]
   ```
 
   </details>
