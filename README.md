@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2024-12-09 to 2025-03-12.
+Issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#1604
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-framework` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -42,7 +42,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 250 | [17](#flutter-flutter-54200-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 188 | [16](#flutter-flutter-65504-graph)
 [Selection] How To Avoid `'!_selectionStartsInScrollable': is not true.` assertion when using SelectionArea with scrollable widget. [flutter/flutter#115787](https://github.com/flutter/flutter/issues/115787) | 41 | [14](#flutter-flutter-115787-graph)
-Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 185 | [12](#flutter-flutter-45336-graph)
+Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 186 | [13](#flutter-flutter-45336-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 231 | [11](#flutter-flutter-138614-graph)
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 126 | [11](#flutter-flutter-99606-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 49 | [10](#flutter-flutter-101227-graph)
@@ -50,7 +50,7 @@ Feature request: Allow declaring main language of app to VoiceOver and TalkBack 
 
 #### Design
 
-`team-design` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-design` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ ListView background overflows from parent Container [flutter/flutter#86584](http
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`f: cupertino` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 521 | [395](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-go_router` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -115,7 +115,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-tool` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ flutter downgrade to support version selection [flutter/flutter#71723](https://g
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-engine` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
@@ -160,7 +160,7 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-ios` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Support eye tracking when running on visionOS or iOS [flutter/flutter#129640](ht
 
 #### Android
 
-`team-android` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-android` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 
 #### Web
 
-`team-web` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-web` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -216,17 +216,17 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 272 | [15](#flutter-flutter-45296-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 75 | [13](#flutter-flutter-149031-graph)
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 339 | [12](#flutter-flutter-33577-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 191 | [12](#flutter-flutter-69529-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 80 | [12](#flutter-flutter-124334-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 74 | [12](#flutter-flutter-149031-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 37 | [11](#flutter-flutter-152588-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [10](#flutter-flutter-156910-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 211 | [9](#flutter-flutter-55324-graph)
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-desktop` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`team-ecosystem` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -260,17 +260,17 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 HTML images from cached_network_image no longer load in 3.27 [flutter/flutter#160127](https://github.com/flutter/flutter/issues/160127) | 19 | [19](#flutter-flutter-160127-graph)
 Flutter web 3.27 debug - TextFormField - DartError event_position_helper.dart:70:10 - The targeted input element must be the active input element [flutter/flutter#160155](https://github.com/flutter/flutter/issues/160155) | 16 | [16](#flutter-flutter-160155-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 272 | [15](#flutter-flutter-45296-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 75 | [13](#flutter-flutter-149031-graph)
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 339 | [12](#flutter-flutter-33577-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 191 | [12](#flutter-flutter-69529-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 80 | [12](#flutter-flutter-124334-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 74 | [12](#flutter-flutter-149031-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 37 | [11](#flutter-flutter-152588-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 39 | [10](#flutter-flutter-156910-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 211 | [9](#flutter-flutter-55324-graph)
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`dart-lang/sdk` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://gith
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2024-12-09 to 2025-03-12.
+`dart-lang/language` issues that received the most reactions from 2024-12-09 to 2025-03-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -773,23 +773,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-160144-graph"></a>
-###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
-  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 23 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 19, 21, 22, 23]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160328-graph"></a>
 ### Deprecated APIs use on Android 15
   <sub>[flutter/flutter#160328](https://github.com/flutter/flutter/issues/160328) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -802,6 +785,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 14, 20, 20, 0, 0, 23, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160144-graph"></a>
+###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
+  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 23 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 19, 21, 22, 23]
   ```
 
   </details>
@@ -1317,6 +1317,40 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-45336-graph"></a>
+### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
+  <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 186 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 2, 1, 0, 1, 0, 0, 2, 1, 2, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 75 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 0, 2, 0, 0, 1, 0, 1, 2, 1, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-83-graph"></a>
 ### Sum/union types and type matching
   <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 531 total reactions, 12 recent reactions</sub><br />
@@ -1385,23 +1419,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-45336-graph"></a>
-### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
-  <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 185 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 2, 1, 0, 1, 0, 0, 2, 1, 2, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-124334-graph"></a>
 ### WebGPU Backend for Flutter Web
   <sub>[flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) &mdash; 80 total reactions, 12 recent reactions</sub><br />
@@ -1431,23 +1448,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 74 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 2, 0, 0, 1, 0, 1, 2, 1, 1, 0]
   ```
 
   </details>
@@ -2065,23 +2065,6 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-141941-graph"></a>
-### Create DropdownMenuFormField
-  <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 40 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-146860-graph"></a>
 ### TextHeightBehaviour should allow more tightly-wrapped text
   <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 40 total reactions, 7 recent reactions</sub><br />
@@ -2094,6 +2077,23 @@ Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/lan
     x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 3, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-141941-graph"></a>
+### Create DropdownMenuFormField
+  <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 40 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 9, Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 0, 1, 0, 1, 0, 2, 0, 0, 1, 1, 0, 0, 0]
   ```
 
   </details>
