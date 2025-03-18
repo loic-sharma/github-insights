@@ -16,7 +16,7 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1280 | [94](#flutter-flutter-53041-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 81 | [81](#dart-lang-language-4271-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 136 | [57](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 137 | [58](#dart-lang-sdk-55281-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 47 | [47](#flutter-flutter-163984-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 163 | [43](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
@@ -210,7 +210,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1280 | [94](#flutter-flutter-53041-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 861 | [35](#flutter-flutter-46789-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 862 | [36](#flutter-flutter-46789-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 344 | [16](#flutter-flutter-145954-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 272 | [15](#flutter-flutter-45296-graph)
@@ -254,7 +254,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1280 | [94](#flutter-flutter-53041-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 861 | [35](#flutter-flutter-46789-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 862 | [36](#flutter-flutter-46789-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 28 | [28](#flutter-flutter-162305-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 344 | [16](#flutter-flutter-145954-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 272 | [15](#flutter-flutter-45296-graph)
@@ -274,7 +274,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 136 | [57](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 137 | [58](#dart-lang-sdk-55281-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 188 | [22](#dart-lang-sdk-50565-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 49 | [18](#dart-lang-sdk-57036-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [16](#dart-lang-sdk-54934-graph)
@@ -287,8 +287,8 @@ Consider disabling `require_trailing_commas` lint if language version of file is
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 17 | [7](#dart-lang-sdk-54113-graph)
 `depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 7 | [7](#dart-lang-sdk-59721-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 57 | [6](#dart-lang-sdk-49426-graph)
-Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
+Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 
 ### Dart language
 
@@ -310,7 +310,7 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 235 | [12](#dart-lang-language-1076-graph)
 Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 13 | [12](#dart-lang-language-4154-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 531 | [10](#dart-lang-language-83-graph)
-Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/language/issues/3712) | 75 | [10](#dart-lang-language-3712-graph)
+Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/language/issues/323) | 102 | [10](#dart-lang-language-323-graph)
 
 ## Graphs
 
@@ -486,7 +486,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 136 total reactions, 57 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 137 total reactions, 58 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -495,7 +495,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
-    bar [3, 0, 2, 3, 4, 1, 4, 2, 4, 8, 4, 7, 6, 0]
+    bar [3, 0, 2, 3, 4, 1, 4, 2, 4, 8, 4, 7, 6, 1]
   ```
 
   </details>
@@ -588,7 +588,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
 <a name="flutter-flutter-46789-graph"></a>
 ### Improve the indexability (SEO) of Flutter apps on the web 
-  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 861 total reactions, 35 recent reactions</sub><br />
+  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 862 total reactions, 36 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -597,7 +597,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
-    bar [6, 0, 0, 1, 4, 8, 2, 0, 0, 8, 1, 0, 1, 0]
+    bar [6, 0, 0, 1, 4, 8, 2, 0, 0, 8, 1, 0, 1, 1]
   ```
 
   </details>
@@ -1504,9 +1504,9 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-language-3712-graph"></a>
-### Wildcard variables
-  <sub>[dart-lang/language#3712](https://github.com/dart-lang/language/issues/3712) &mdash; 75 total reactions, 10 recent reactions</sub><br />
+<a name="dart-lang-language-323-graph"></a>
+### Null-aware elements
+  <sub>[dart-lang/language#323](https://github.com/dart-lang/language/issues/323) &mdash; 102 total reactions, 10 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1515,7 +1515,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 3, 0, 0, 1, 3, 0, 3, 0, 0, 0, 0, 0]
+    bar [1, 0, 2, 0, 2, 0, 1, 0, 0, 0, 1, 0, 2, 1]
   ```
 
   </details>
@@ -1674,23 +1674,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-61814-graph"></a>
-### [proposal] allow to detect programmatically what flutter version the app was compiled under
-  <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
-    y-axis "Reactions" 0 --> 20
-    bar [3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-46442-graph"></a>
 ### Throws exception 'Failed to parse header value'
   <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
@@ -1703,6 +1686,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-61814-graph"></a>
+### [proposal] allow to detect programmatically what flutter version the app was compiled under
+  <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
+    y-axis "Reactions" 0 --> 20
+    bar [3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2337,23 +2337,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60244-graph"></a>
-### Automate the creation of data-driven fix data
-  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60018-graph"></a>
 ### Don't require "part file.*.dart" for files in the same directory with the same base name.
   <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2366,6 +2349,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 3, 5, 5, 6, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60244-graph"></a>
+### Automate the creation of data-driven fix data
+  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6]
   ```
 
   </details>
