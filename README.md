@@ -102,10 +102,10 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 56 | [5](#flutter-flutter-120353-graph)
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 46 | [5](#flutter-flutter-116651-graph)
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 39 | [5](#flutter-flutter-131625-graph)
+[go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 129 | 4
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 51 | 4
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 48 | 4
 Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) | 22 | 4
-[go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 128 | 3
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 94 | 3
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 54 | 3
 [go_router] Add default pageBuilder to GoRouter [flutter/flutter#113282](https://github.com/flutter/flutter/issues/113282) | 44 | 3
@@ -277,8 +277,8 @@ Issue | Total reactions | Recent reactions
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 137 | [58](#dart-lang-sdk-55281-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 188 | [22](#dart-lang-sdk-50565-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 49 | [18](#dart-lang-sdk-57036-graph)
+Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 536 | [16](#dart-lang-sdk-28617-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [16](#dart-lang-sdk-54934-graph)
-Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 535 | [15](#dart-lang-sdk-28617-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 79 | [15](#dart-lang-sdk-53402-graph)
 Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) | 25 | [9](#dart-lang-sdk-46442-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 21 | [9](#dart-lang-sdk-58535-graph)
@@ -287,8 +287,8 @@ Consider disabling `require_trailing_commas` lint if language version of file is
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 17 | [7](#dart-lang-sdk-54113-graph)
 `depend_on_referenced_packages` lint false positive in workspace [dart-lang/sdk#59721](https://github.com/dart-lang/sdk/issues/59721) | 7 | [7](#dart-lang-sdk-59721-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 57 | [6](#dart-lang-sdk-49426-graph)
-Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
 Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
+Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
 
 ### Dart language
 
@@ -302,8 +302,8 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1043 | [33](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1137 | [23](#dart-lang-language-723-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 234 | [18](#dart-lang-language-2364-graph)
-Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) | 17 | [17](#dart-lang-language-4246-graph)
 Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 17 | [17](#dart-lang-language-4275-graph)
+Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) | 17 | [17](#dart-lang-language-4246-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 27 | [16](#dart-lang-language-4200-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1676 | [15](#dart-lang-language-1482-graph)
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 107 | [13](#dart-lang-language-3001-graph)
@@ -892,6 +892,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
+<a name="dart-lang-language-4275-graph"></a>
+### Allow punctuation based alternatives to keywords?
+  <sub>[dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 17, 17, 17]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4246-graph"></a>
 ### Enhanced Constructors
   <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -909,9 +926,9 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-language-4275-graph"></a>
-### Allow punctuation based alternatives to keywords?
-  <sub>[dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+<a name="dart-lang-sdk-28617-graph"></a>
+### Allow AOT executables to be cross-compiled
+  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 536 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -920,7 +937,7 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 17, 17, 17]
+    bar [0, 0, 1, 2, 0, 1, 0, 1, 1, 1, 0, 5, 1, 1]
   ```
 
   </details>
@@ -1028,23 +1045,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-28617-graph"></a>
-### Allow AOT executables to be cross-compiled
-  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 535 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 2, 0, 1, 0, 1, 1, 1, 0, 5, 1, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-45296-graph"></a>
 ### [path_provider] Add support for web
   <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 272 total reactions, 15 recent reactions</sub><br />
@@ -1113,23 +1113,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-162818-graph"></a>
-### Remove instances of `useMaterial3: true` in framework, samples and codelabs
-  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 16, 16, 15, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160372-graph"></a>
 ### Exclude .cxx folders from git as part of the flutter create templates. 
   <sub>[flutter/flutter#160372](https://github.com/flutter/flutter/issues/160372) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -1142,6 +1125,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-162818-graph"></a>
+### Remove instances of `useMaterial3: true` in framework, samples and codelabs
+  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 16, 16, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1674,23 +1674,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-46442-graph"></a>
-### Throws exception 'Failed to parse header value'
-  <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-61814-graph"></a>
 ### [proposal] allow to detect programmatically what flutter version the app was compiled under
   <sub>[flutter/flutter#61814](https://github.com/flutter/flutter/issues/61814) &mdash; 25 total reactions, 9 recent reactions</sub><br />
@@ -1703,6 +1686,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
     bar [3, 0, 0, 0, 0, 0, 3, 0, 3, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-46442-graph"></a>
+### Throws exception 'Failed to parse header value'
+  <sub>[dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) &mdash; 25 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2337,23 +2337,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60018-graph"></a>
-### Don't require "part file.*.dart" for files in the same directory with the same base name.
-  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 3, 5, 5, 6, 6, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60244-graph"></a>
 ### Automate the creation of data-driven fix data
   <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2366,6 +2349,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60018-graph"></a>
+### Don't require "part file.*.dart" for files in the same directory with the same base name.
+  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 3, 5, 5, 6, 6, 6, 6, 6]
   ```
 
   </details>
