@@ -11,10 +11,10 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [189](#dart-lang-language-4211-graph)
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [161](#flutter-flutter-156842-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 120 | [120](#flutter-flutter-162960-graph)
-Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 116 | [116](#flutter-flutter-163443-graph)
+Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1297 | [111](#flutter-flutter-53041-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2209 | [104](#dart-lang-language-314-graph)
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 81 | [81](#dart-lang-language-4271-graph)
+static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 82 | [82](#dart-lang-language-4271-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 138 | [59](#dart-lang-sdk-55281-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 47 | [47](#flutter-flutter-163984-graph)
@@ -32,7 +32,7 @@ Slow Vulkan performance on API 35 Android Emulator images. [flutter/flutter#1604
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 116 | [116](#flutter-flutter-163443-graph)
+Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 165 | [45](#flutter-flutter-142845-graph)
 Decorators experiment [flutter/flutter#161345](https://github.com/flutter/flutter/issues/161345) | 33 | [33](#flutter-flutter-161345-graph)
 Add `context.dependOnListenable(Listenable listenable)` [flutter/flutter#135050](https://github.com/flutter/flutter/issues/135050) | 70 | [23](#flutter-flutter-135050-graph)
@@ -276,7 +276,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 138 | [59](#dart-lang-sdk-55281-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 188 | [22](#dart-lang-sdk-50565-graph)
-[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 49 | [18](#dart-lang-sdk-57036-graph)
+[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 51 | [20](#dart-lang-sdk-57036-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 536 | [16](#dart-lang-sdk-28617-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [16](#dart-lang-sdk-54934-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 79 | [15](#dart-lang-sdk-53402-graph)
@@ -298,7 +298,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [189](#dart-lang-language-4211-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2209 | [104](#dart-lang-language-314-graph)
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 81 | [81](#dart-lang-language-4271-graph)
+static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 82 | [82](#dart-lang-language-4271-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1045 | [35](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1142 | [28](#dart-lang-language-723-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 235 | [19](#dart-lang-language-2364-graph)
@@ -401,7 +401,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
 <a name="flutter-flutter-163443-graph"></a>
 ### Proposal: Set `debugShowCheckedModeBanner` Default to false
-  <sub>[flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) &mdash; 116 total reactions, 116 recent reactions</sub><br />
+  <sub>[flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) &mdash; 117 total reactions, 117 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -410,7 +410,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 113, 113, 116, 116]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 113, 113, 116, 117]
   ```
 
   </details>
@@ -452,7 +452,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
 <a name="dart-lang-language-4271-graph"></a>
 ### static enough metaprogramming
-  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 81 total reactions, 81 recent reactions</sub><br />
+  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 82 total reactions, 82 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -461,7 +461,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 67, 77, 81, 81]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 50, 67, 77, 81, 82]
   ```
 
   </details>
@@ -807,6 +807,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="dart-lang-sdk-57036-graph"></a>
+### [Dot Shorthands][meta] Dot shorthands implementation
+  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 51 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 4, 1, 1, 2]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-2364-graph"></a>
 ### Primary constructor on classes
   <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 235 total reactions, 19 recent reactions</sub><br />
@@ -870,23 +887,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 1, -1, 0, 7, 5, 3]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-57036-graph"></a>
-### [Dot Shorthands][meta] Dot shorthands implementation
-  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 49 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 16, Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 3, 0, 2, 3, 4, 1, 1, 0]
   ```
 
   </details>
