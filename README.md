@@ -10,7 +10,7 @@ revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 527 | [401](#flutter-flutter-101479-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 120 | [120](#flutter-flutter-162960-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2210 | [104](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2211 | [105](#dart-lang-language-314-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1299 | [100](#flutter-flutter-53041-graph)
 Error: "The targeted input element must be the active input element" when switching focus between TextFormField [flutter/flutter#156842](https://github.com/flutter/flutter/issues/156842) | 176 | [93](#flutter-flutter-156842-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 83 | [83](#dart-lang-language-4271-graph)
@@ -296,7 +296,7 @@ Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://g
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2210 | [104](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2211 | [105](#dart-lang-language-314-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 83 | [83](#dart-lang-language-4271-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [53](#dart-lang-language-4211-graph)
 Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1045 | [30](#dart-lang-language-357-graph)
@@ -384,7 +384,7 @@ Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/lang
 
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2210 total reactions, 104 recent reactions</sub><br />
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2211 total reactions, 105 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -393,7 +393,7 @@ Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/lang
   xychart-beta
     x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17]
     y-axis "Reactions"
-    bar [1, 1, 0, 0, 0, 64, 10, 8, 4, 5, 3, 1, 3]
+    bar [1, 1, 0, 0, 0, 64, 10, 8, 4, 5, 3, 1, 4]
   ```
 
   </details>
