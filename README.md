@@ -17,7 +17,7 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 141 | [59](#dart-lang-sdk-55281-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [53](#dart-lang-language-4211-graph)
-Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 47 | [47](#flutter-flutter-165959-graph)
+Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 48 | [48](#flutter-flutter-165959-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 47 | [47](#flutter-flutter-163984-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 166 | [44](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
@@ -160,7 +160,7 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
-Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 47 | [47](#flutter-flutter-165959-graph)
+Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 48 | [48](#flutter-flutter-165959-graph)
 Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1 [flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) | 39 | [39](#flutter-flutter-161142-graph)
 After upgrading to 3.29, the UI is broken. [flutter/flutter#163452](https://github.com/flutter/flutter/issues/163452) | 35 | [35](#flutter-flutter-163452-graph)
 [Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur() [flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) | 29 | [29](#flutter-flutter-163421-graph)
@@ -522,7 +522,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
 <a name="flutter-flutter-165959-graph"></a>
 ### Severe performance degradation of `drawImageRect`
-  <sub>[flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) &mdash; 47 total reactions, 47 recent reactions</sub><br />
+  <sub>[flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) &mdash; 48 total reactions, 48 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -531,7 +531,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 47]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48]
   ```
 
   </details>
