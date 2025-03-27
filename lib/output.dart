@@ -212,6 +212,7 @@ void writeDashboard(
   final teamFramework = deltas.where(hasLabel('team-framework')).take(15).toList();
   final teamGoRouter = deltas.where(hasLabel('team-go_router')).take(15).toList();
   final teamiOS = deltas.where(hasLabel('team-ios')).take(15).toList();
+  final teamTextInput = deltas.where(hasLabel('team-text-input')).take(15).toList();
   final teamTool = deltas.where(hasLabel('team-tool')).take(15).toList();
   final teamWeb = deltas.where(hasLabel('team-web')).take(15).toList();
 
@@ -243,6 +244,7 @@ void writeDashboard(
     ...teamGoRouter,
     ...teamiOS,
     ...teamTool,
+    ...teamTextInput,
     ...teamWeb,
     ...teamDesktop,
   ];
@@ -292,6 +294,13 @@ void writeDashboard(
   writer.writeln('`f: cupertino` issues that received the most reactions $window.');
 
   _writeIssueDeltasTable(writer, cupertino);
+
+  writer.writeln('#### Text input');
+  writer.writeln();
+
+  writer.writeln('`team-text-input` issues that received the most reactions $window.');
+
+  _writeIssueDeltasTable(writer, teamTextInput);
 
   writer.writeln('#### go_router');
   writer.writeln();
