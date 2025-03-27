@@ -98,6 +98,7 @@ Future<T> _graphqlApi<T>({
     stdout.writeln(' HTTP ${response.statusCode} (${timer.elapsed.inMilliseconds}ms)');
 
     if (response.statusCode != 200) {
+      print('Reason: ${response.reasonPhrase}');
       print('Attempt ${attempt + 1}/3...');
       await Future.delayed(Duration(seconds: 3));
       continue;
