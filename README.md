@@ -17,7 +17,7 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 141 | [59](#dart-lang-sdk-55281-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [53](#dart-lang-language-4211-graph)
-Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 48 | [48](#flutter-flutter-165959-graph)
+Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 49 | [49](#flutter-flutter-165959-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 47 | [47](#flutter-flutter-163984-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 166 | [44](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
@@ -160,7 +160,7 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
-Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 48 | [48](#flutter-flutter-165959-graph)
+Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 49 | [49](#flutter-flutter-165959-graph)
 Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1 [flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) | 39 | [39](#flutter-flutter-161142-graph)
 After upgrading to 3.29, the UI is broken. [flutter/flutter#163452](https://github.com/flutter/flutter/issues/163452) | 35 | [35](#flutter-flutter-163452-graph)
 [Impeller] App Crashes on Android Emulator when navigating to a route using a BackdropFilter with ImageFilter.blur() [flutter/flutter#163421](https://github.com/flutter/flutter/issues/163421) | 29 | [29](#flutter-flutter-163421-graph)
@@ -306,8 +306,8 @@ Consider disabling `require_trailing_commas` lint if language version of file is
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 8 | [8](#dart-lang-sdk-59988-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 17 | [7](#dart-lang-sdk-54113-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 57 | [6](#dart-lang-sdk-49426-graph)
-Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
+Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
 
 ### Dart language
 
@@ -522,7 +522,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
 
 <a name="flutter-flutter-165959-graph"></a>
 ### Severe performance degradation of `drawImageRect`
-  <sub>[flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) &mdash; 48 total reactions, 48 recent reactions</sub><br />
+  <sub>[flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) &mdash; 49 total reactions, 49 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -531,7 +531,7 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   xychart-beta
     x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 48]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 49]
   ```
 
   </details>
@@ -1761,23 +1761,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-110928-graph"></a>
-### Documentation request: deep linking and Android launchMode
-  <sub>[flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) &mdash; 38 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 1, 1, 1, 2, 0, 1, 0, 1, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-99600-graph"></a>
 ### Feature request: Allow declaring main language of app to VoiceOver and TalkBack
   <sub>[flutter/flutter#99600](https://github.com/flutter/flutter/issues/99600) &mdash; 38 total reactions, 9 recent reactions</sub><br />
@@ -1790,6 +1773,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-110928-graph"></a>
+### Documentation request: deep linking and Android launchMode
+  <sub>[flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) &mdash; 38 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 1, 1, 2, 0, 1, 0, 1, 0, 0, 0]
   ```
 
   </details>
@@ -2356,23 +2356,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60244-graph"></a>
-### Automate the creation of data-driven fix data
-  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60018-graph"></a>
 ### Don't require "part file.*.dart" for files in the same directory with the same base name.
   <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2385,6 +2368,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 3, 5, 5, 6, 6, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60106-graph"></a>
+### Macro follow-up: With macros gone, how can code-generators be composed?
+  <sub>[dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 23, Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 6]
   ```
 
   </details>
