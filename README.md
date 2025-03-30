@@ -326,8 +326,8 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 108 | [13](#dart-lang-language-3001-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 13 | [13](#dart-lang-language-4298-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 236 | [12](#dart-lang-language-2364-graph)
+Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/language/issues/323) | 105 | [12](#dart-lang-language-323-graph)
 Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 13 | [12](#dart-lang-language-4154-graph)
-Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/language/issues/323) | 104 | [11](#dart-lang-language-323-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 27 | [11](#dart-lang-language-4200-graph)
 Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/language/issues/3712) | 75 | [10](#dart-lang-language-3712-graph)
 
@@ -1268,6 +1268,23 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
   </details>
   </sub>
 
+<a name="dart-lang-language-323-graph"></a>
+### Null-aware elements
+  <sub>[dart-lang/language#323](https://github.com/dart-lang/language/issues/323) &mdash; 105 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
+    y-axis "Reactions" 0 --> 20
+    bar [2, 0, 2, 0, 1, 0, 0, 0, 1, 0, 2, 3, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-150525-graph"></a>
 ### Consider merging platform and UI thread
   <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 33 total reactions, 12 recent reactions</sub><br />
@@ -1348,23 +1365,6 @@ Wildcard variables [dart-lang/language#3712](https://github.com/dart-lang/langua
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 0, 0, 1, 4, 1, 2, 0, 0, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-323-graph"></a>
-### Null-aware elements
-  <sub>[dart-lang/language#323](https://github.com/dart-lang/language/issues/323) &mdash; 104 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24]
-    y-axis "Reactions" 0 --> 20
-    bar [2, 0, 2, 0, 1, 0, 0, 0, 1, 0, 2, 3, 0]
   ```
 
   </details>
