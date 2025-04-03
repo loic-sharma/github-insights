@@ -118,14 +118,14 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 57 | [6](#flutter-flutter-120353-graph)
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 53 | [6](#flutter-flutter-114131-graph)
+[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 51 | [6](#flutter-flutter-140586-graph)
 [go_router_builder][go_router] Exception thrown when parent route has `$extra` param [flutter/flutter#106121](https://github.com/flutter/flutter/issues/106121) | 46 | [6](#flutter-flutter-106121-graph)
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 40 | [6](#flutter-flutter-131625-graph)
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 35 | [6](#flutter-flutter-133746-graph)
 Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) | 24 | [6](#flutter-flutter-125268-graph)
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 130 | [5](#flutter-flutter-112196-graph)
 PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 125 | [5](#flutter-flutter-138737-graph)
-[go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 57 | 4
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 49 | 4
+[go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 58 | [5](#flutter-flutter-122258-graph)
 [go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 46 | 4
 [go_router] Add default pageBuilder to GoRouter [flutter/flutter#113282](https://github.com/flutter/flutter/issues/113282) | 45 | 4
 [go_router] Platform-adaptive support [flutter/flutter#99100](https://github.com/flutter/flutter/issues/99100) | 30 | 4
@@ -210,7 +210,7 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 42 | [11](#flutter-flutter-139427-graph)
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 39 | [10](#flutter-flutter-110928-graph)
 Deprecated APIs use on Android 15 [flutter/flutter#160328](https://github.com/flutter/flutter/issues/160328) | 23 | [10](#flutter-flutter-160328-graph)
-PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 30 | [7](#flutter-flutter-81804-graph)
+PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 31 | [8](#flutter-flutter-81804-graph)
 [Android] CameraX preview is rotated 90 degrees [flutter/flutter#154241](https://github.com/flutter/flutter/issues/154241) | 23 | [7](#flutter-flutter-154241-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 20 | [7](#flutter-flutter-151638-graph)
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 87 | [6](#flutter-flutter-109842-graph)
@@ -300,13 +300,13 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 80 | [16](#dart-lang-sdk-53402-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 32 | [15](#dart-lang-sdk-56841-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [14](#dart-lang-sdk-54934-graph)
+Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 12 | [12](#dart-lang-sdk-60335-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 22 | [10](#dart-lang-sdk-58535-graph)
 Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) | 25 | [9](#dart-lang-sdk-46442-graph)
-Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 9 | [9](#dart-lang-sdk-60335-graph)
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
-Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7 [dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) | 8 | [8](#dart-lang-sdk-60119-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 8 | [8](#dart-lang-sdk-59988-graph)
+Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7 [dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) | 8 | [8](#dart-lang-sdk-60119-graph)
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 57 | [6](#dart-lang-sdk-49426-graph)
 
 ### Dart language
@@ -1030,23 +1030,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-162818-graph"></a>
-### Remove instances of `useMaterial3: true` in framework, samples and codelabs
-  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 16, 16, 15, 15, 15, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-163627-graph"></a>
 ### Flutter Internationalization Error related to placeholder types
   <sub>[flutter/flutter#163627](https://github.com/flutter/flutter/issues/163627) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -1059,6 +1042,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-162818-graph"></a>
+### Remove instances of `useMaterial3: true` in framework, samples and codelabs
+  <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 16, 16, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1217,23 +1217,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 13, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-165656-graph"></a>
 ### hot restart locks up on iOS
   <sub>[flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1246,6 +1229,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 13, 14]
   ```
 
   </details>
@@ -1433,6 +1433,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 9, 0, 1, 0, 0, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60335-graph"></a>
+### Potential analyzer regression in 3.7 / Flutter 3.29 release
+  <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 12 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12]
   ```
 
   </details>
@@ -1829,23 +1846,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60335-graph"></a>
-### Potential analyzer regression in 3.7 / Flutter 3.29 release
-  <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60013-graph"></a>
 ### Support ignoring lint(s) for a part of the file
   <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -1999,6 +1999,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="flutter-flutter-81804-graph"></a>
+### PlatformException VideoError, Video Player had error
+  <sub>[flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) &mdash; 31 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 3, 1, 1, 0, 0, 0, 1, 0, 0, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-54113-graph"></a>
 ### [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode
   <sub>[dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) &mdash; 18 total reactions, 8 recent reactions</sub><br />
@@ -2016,23 +2033,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60119-graph"></a>
-### Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7
-  <sub>[dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 4, 8, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -2045,6 +2045,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60119-graph"></a>
+### Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7
+  <sub>[dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 4, 8, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2118,9 +2135,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-81804-graph"></a>
-### PlatformException VideoError, Video Player had error
-  <sub>[flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) &mdash; 30 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-24969-graph"></a>
+### Should the modal barrier of an Alert also change the color of the status bar?
+  <sub>[flutter/flutter#24969](https://github.com/flutter/flutter/issues/24969) &mdash; 23 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2129,7 +2146,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 3, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
   ```
 
   </details>
@@ -2147,23 +2164,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-24969-graph"></a>
-### Should the modal barrier of an Alert also change the color of the status bar?
-  <sub>[flutter/flutter#24969](https://github.com/flutter/flutter/issues/24969) &mdash; 23 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
   ```
 
   </details>
@@ -2373,23 +2373,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="dart-lang-sdk-49426-graph"></a>
-### [Feature request] Date class, without time
-  <sub>[dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) &mdash; 57 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 3, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-120353-graph"></a>
 ### [go_router] ShellRoutes break iOS swipe back navigation
   <sub>[flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) &mdash; 57 total reactions, 6 recent reactions</sub><br />
@@ -2407,6 +2390,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="dart-lang-sdk-49426-graph"></a>
+### [Feature request] Date class, without time
+  <sub>[dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) &mdash; 57 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 3, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-114131-graph"></a>
 ### [go_router] choose in redirect method if `push` or `go`
   <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 53 total reactions, 6 recent reactions</sub><br />
@@ -2419,6 +2419,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-140586-graph"></a>
+### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
+  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 51 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2]
   ```
 
   </details>
@@ -2509,23 +2526,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-136494-graph"></a>
-###  flutter run --watch option
-  <sub>[flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) &mdash; 24 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 1, 1]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-125268-graph"></a>
 ### Provide Page adpaters to Flutters PopupRoute's in go_router.
   <sub>[flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) &mdash; 24 total reactions, 6 recent reactions</sub><br />
@@ -2538,6 +2538,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
     bar [1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 2, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-136494-graph"></a>
+###  flutter run --watch option
+  <sub>[flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) &mdash; 24 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 1, 1]
   ```
 
   </details>
@@ -2691,6 +2708,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
     y-axis "Reactions" 0 --> 20
     bar [0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-122258-graph"></a>
+### [go_router_builder] Define routes in separate files
+  <sub>[flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) &mdash; 58 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 30, Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 2, 1]
   ```
 
   </details>
