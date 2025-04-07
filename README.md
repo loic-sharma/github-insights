@@ -184,12 +184,12 @@ Support home and lock screen widgets [flutter/flutter#26134](https://github.com/
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 351 | [25](#flutter-flutter-110431-graph)
+IOS 18 Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 25 | [25](#flutter-flutter-166333-graph)
 [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 25 | [25](#flutter-flutter-166367-graph)
-IOS 18 Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 24 | [24](#flutter-flutter-166333-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 21 | [21](#flutter-flutter-163845-graph)
 hot restart locks up on iOS [flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) | 14 | [14](#flutter-flutter-165656-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 279 | [8](#flutter-flutter-28901-graph)
-Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 109 | [7](#flutter-flutter-57609-graph)
+Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 110 | [8](#flutter-flutter-57609-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 47 | [7](#flutter-flutter-115926-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 44 | [7](#flutter-flutter-20663-graph)
 Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically [flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) | 161 | [6](#flutter-flutter-9984-graph)
@@ -724,6 +724,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-166333-graph"></a>
+### IOS 18 Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 25 total reactions, 25 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 25]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-166367-graph"></a>
 ### [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols]
   <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 25 total reactions, 25 recent reactions</sub><br />
@@ -770,23 +787,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 3, 3, 0, 13, 0, 1, 2, -1, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-166333-graph"></a>
-### IOS 18 Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 24 total reactions, 24 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 24]
   ```
 
   </details>
@@ -2050,6 +2050,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-57609-graph"></a>
+### Let iOS keyboard dismissal synchronize with scroll
+  <sub>[flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) &mdash; 110 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-124334-graph"></a>
 ### WebGPU Backend for Flutter Web
   <sub>[flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) &mdash; 80 total reactions, 8 recent reactions</sub><br />
@@ -2113,23 +2130,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 4, 8, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-57609-graph"></a>
-### Let iOS keyboard dismissal synchronize with scroll
-  <sub>[flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) &mdash; 109 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
   ```
 
   </details>
