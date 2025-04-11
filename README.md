@@ -17,8 +17,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 57 | [57](#flutter-flutter-165959-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 173 | [49](#flutter-flutter-142845-graph)
+[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 49 | [49](#flutter-flutter-166367-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 48 | [48](#flutter-flutter-163984-graph)
-[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 47 | [47](#flutter-flutter-166367-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 39 | [39](#flutter-flutter-166333-graph)
 
@@ -119,8 +119,8 @@ Issue | Total reactions | Recent reactions
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 133 | [9](#flutter-flutter-112196-graph)
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 42 | [8](#flutter-flutter-131625-graph)
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 58 | [7](#flutter-flutter-120353-graph)
+[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 52 | [7](#flutter-flutter-140586-graph)
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 53 | [6](#flutter-flutter-114131-graph)
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 51 | [6](#flutter-flutter-140586-graph)
 [go_router_builder][go_router] Exception thrown when parent route has `$extra` param [flutter/flutter#106121](https://github.com/flutter/flutter/issues/106121) | 46 | [6](#flutter-flutter-106121-graph)
 PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https://github.com/flutter/flutter/issues/138737) | 125 | [5](#flutter-flutter-138737-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 58 | [5](#flutter-flutter-122258-graph)
@@ -183,7 +183,7 @@ Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 47 | [47](#flutter-flutter-166367-graph)
+[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 49 | [49](#flutter-flutter-166367-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 39 | [39](#flutter-flutter-166333-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 351 | [25](#flutter-flutter-110431-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 21 | [21](#flutter-flutter-163845-graph)
@@ -255,11 +255,11 @@ Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 20 | [7](#flutter-flutter-98994-graph)
 Bringing Fluent Design to Flutter for additional Mobile design options and Desktop nativity [flutter/flutter#46481](https://github.com/flutter/flutter/issues/46481) | 198 | [6](#flutter-flutter-46481-graph)
 [camera] Add Linux support [flutter/flutter#41710](https://github.com/flutter/flutter/issues/41710) | 75 | [5](#flutter-flutter-41710-graph)
+Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 65 | [5](#flutter-flutter-97050-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 327 | 4
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 118 | 4
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 217 | 3
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 135 | 3
-Supporting of in app purchases on Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 63 | 3
 [camera] Support image streams on Windows platform [flutter/flutter#97542](https://github.com/flutter/flutter/issues/97542) | 50 | 3
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 43 | 3
 [google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 26 | 3
@@ -297,15 +297,15 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 55 | [24](#dart-lang-sdk-57036-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 196 | [20](#dart-lang-sdk-50565-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 20 | [20](#dart-lang-sdk-60335-graph)
+Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) | 18 | [18](#dart-lang-sdk-60518-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 539 | [17](#dart-lang-sdk-28617-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 81 | [17](#dart-lang-sdk-53402-graph)
-Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) | 17 | [17](#dart-lang-sdk-60518-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 33 | [16](#dart-lang-sdk-56841-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [13](#dart-lang-sdk-54934-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 22 | [10](#dart-lang-sdk-58535-graph)
 Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) | 25 | [9](#dart-lang-sdk-46442-graph)
-"Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 9 | [9](#dart-lang-sdk-59988-graph)
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
+"Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 9 | [9](#dart-lang-sdk-59988-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7 [dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) | 8 | [8](#dart-lang-sdk-60119-graph)
 
@@ -520,6 +520,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-166367-graph"></a>
+### [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols]
+  <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 49 total reactions, 49 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 49]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-163984-graph"></a>
 ### Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)`
   <sub>[flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) &mdash; 48 total reactions, 48 recent reactions</sub><br />
@@ -532,23 +549,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions"
     bar [0, 0, 0, 0, 0, 0, 0, 40, 45, 46, 47, 48, 48, 48]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-166367-graph"></a>
-### [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols]
-  <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 47 total reactions, 47 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 47]
   ```
 
   </details>
@@ -945,6 +945,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-sdk-60518-graph"></a>
+### Lint and fix suggestion: `simplify_variable_pattern`
+  <sub>[dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-28617-graph"></a>
 ### Allow AOT executables to be cross-compiled
   <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 539 total reactions, 17 recent reactions</sub><br />
@@ -991,23 +1008,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
     bar [9, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 1, 0, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-60518-graph"></a>
-### Lint and fix suggestion: `simplify_variable_pattern`
-  <sub>[dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
   ```
 
   </details>
@@ -1302,9 +1302,9 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-161687-graph"></a>
-### Cupertino Sheet should have drag to dismiss and nested scrolling work together
-  <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1313,7 +1313,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 13, 14, 14]
   ```
 
   </details>
@@ -1336,9 +1336,9 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-161687-graph"></a>
+### Cupertino Sheet should have drag to dismiss and nested scrolling work together
+  <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1347,7 +1347,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 13, 14, 14]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
   ```
 
   </details>
@@ -1999,23 +1999,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59988-graph"></a>
-### "Find usages" finds unrelated "call" method usages.
-  <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60013-graph"></a>
 ### Support ignoring lint(s) for a part of the file
   <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -2028,6 +2011,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-59988-graph"></a>
+### "Find usages" finds unrelated "call" method usages.
+  <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 9]
   ```
 
   </details>
@@ -2271,6 +2271,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-140586-graph"></a>
+### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
+  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 52 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions" 0 --> 20
+    bar [1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2, 1]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-115926-graph"></a>
 ### Blur filter isn't clipped when using border radius
   <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 47 total reactions, 7 recent reactions</sub><br />
@@ -2305,23 +2322,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-154241-graph"></a>
-### [Android] CameraX preview is rotated 90 degrees
-  <sub>[flutter/flutter#154241](https://github.com/flutter/flutter/issues/154241) &mdash; 23 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-24969-graph"></a>
 ### Should the modal barrier of an Alert also change the color of the status bar?
   <sub>[flutter/flutter#24969](https://github.com/flutter/flutter/issues/24969) &mdash; 23 total reactions, 7 recent reactions</sub><br />
@@ -2334,6 +2334,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-154241-graph"></a>
+### [Android] CameraX preview is rotated 90 degrees
+  <sub>[flutter/flutter#154241](https://github.com/flutter/flutter/issues/154241) &mdash; 23 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 1, 4, 0, 0, 0, 0, 0, 0, 0]
   ```
 
   </details>
@@ -2526,23 +2543,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-140586-graph"></a>
-### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
-  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 51 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions" 0 --> 20
-    bar [1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 2, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-106121-graph"></a>
 ### [go_router_builder][go_router] Exception thrown when parent route has `$extra` param
   <sub>[flutter/flutter#106121](https://github.com/flutter/flutter/issues/106121) &mdash; 46 total reactions, 6 recent reactions</sub><br />
@@ -2691,6 +2691,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
     bar [4, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, -1]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-97050-graph"></a>
+### Supporting of in app purchases on Windows Store
+  <sub>[flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) &mdash; 65 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 2]
   ```
 
   </details>
