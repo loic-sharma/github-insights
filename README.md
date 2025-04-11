@@ -16,8 +16,8 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 153 | [68](#dart-lang-sdk-55281-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 57 | [57](#flutter-flutter-165959-graph)
+[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 50 | [50](#flutter-flutter-166367-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 173 | [49](#flutter-flutter-142845-graph)
-[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 49 | [49](#flutter-flutter-166367-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 48 | [48](#flutter-flutter-163984-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 39 | [39](#flutter-flutter-166333-graph)
@@ -96,6 +96,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 `team-text-input` issues that received the most reactions from 2025-01-06 to 2025-04-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
+[iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 40 | [9](#flutter-flutter-10713-graph)
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 22 | [7](#flutter-flutter-149753-graph)
 Expose low level IME interactions [flutter/flutter#150460](https://github.com/flutter/flutter/issues/150460) | 31 | 4
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 120 | 2
@@ -173,7 +174,7 @@ Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.
 Consider merging platform and UI thread [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 33 | [11](#flutter-flutter-150525-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 47 | [10](#flutter-flutter-127852-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 312 | [9](#flutter-flutter-18443-graph)
-Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 40 | [9](#flutter-flutter-10713-graph)
+Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 327 | [8](#flutter-flutter-26134-graph)
 
 ### Platforms
 
@@ -183,7 +184,7 @@ Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 49 | [49](#flutter-flutter-166367-graph)
+[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 50 | [50](#flutter-flutter-166367-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 39 | [39](#flutter-flutter-166333-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 351 | [25](#flutter-flutter-110431-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 21 | [21](#flutter-flutter-163845-graph)
@@ -304,8 +305,8 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [13](#dart-lang-sdk-54934-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 22 | [10](#dart-lang-sdk-58535-graph)
 Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) | 25 | [9](#dart-lang-sdk-46442-graph)
-"Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 9 | [9](#dart-lang-sdk-59988-graph)
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
+"Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 9 | [9](#dart-lang-sdk-59988-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 Consider disabling `require_trailing_commas` lint if language version of file is >= 3.7 [dart-lang/sdk#60119](https://github.com/dart-lang/sdk/issues/60119) | 8 | [8](#dart-lang-sdk-60119-graph)
 
@@ -503,6 +504,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-166367-graph"></a>
+### [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols]
+  <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 50 total reactions, 50 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions"
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 50]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
   <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 173 total reactions, 49 recent reactions</sub><br />
@@ -515,23 +533,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
     bar [2, 2, 2, 2, 4, 7, 1, 5, 3, 6, 2, 2, 3, 1]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-166367-graph"></a>
-### [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols]
-  <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 49 total reactions, 49 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 49]
   ```
 
   </details>
@@ -1319,9 +1320,9 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-165656-graph"></a>
-### hot restart locks up on iOS
-  <sub>[flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-161687-graph"></a>
+### Cupertino Sheet should have drag to dismiss and nested scrolling work together
+  <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1336,9 +1337,9 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-161687-graph"></a>
-### Cupertino Sheet should have drag to dismiss and nested scrolling work together
-  <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-165656-graph"></a>
+### hot restart locks up on iOS
+  <sub>[flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1932,7 +1933,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </sub>
 
 <a name="flutter-flutter-10713-graph"></a>
-### Hot restart while keyboard is up leaves the keyboard up
+### [iOS/Android] Hot restart while keyboard is up leaves the keyboard up
   <sub>[flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) &mdash; 40 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
@@ -1999,6 +2000,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-sdk-60013-graph"></a>
+### Support ignoring lint(s) for a part of the file
+  <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -2016,9 +2034,9 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60013-graph"></a>
-### Support ignoring lint(s) for a part of the file
-  <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+<a name="flutter-flutter-26134-graph"></a>
+### Support home and lock screen widgets
+  <sub>[flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) &mdash; 327 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2027,7 +2045,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 6, Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
+    bar [0, 0, 2, 1, 1, 0, 0, 0, 2, 0, 2, 0, 0, 0]
   ```
 
   </details>
