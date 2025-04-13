@@ -7,16 +7,16 @@ Issues that received the most reactions from 2025-01-13 to 2025-04-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 532 | [405](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 534 | [407](#flutter-flutter-101479-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 122 | [122](#flutter-flutter-162960-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2218 | [110](#dart-lang-language-314-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1312 | [103](#flutter-flutter-53041-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 100 | [100](#dart-lang-language-4271-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 153 | [65](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 154 | [66](#dart-lang-sdk-55281-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 57 | [57](#flutter-flutter-165959-graph)
-[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 51 | [51](#flutter-flutter-166367-graph)
+[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 52 | [52](#flutter-flutter-166367-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 48 | [48](#flutter-flutter-163984-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 173 | [46](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
@@ -54,7 +54,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 532 | [405](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 534 | [407](#flutter-flutter-101479-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 90 | [18](#flutter-flutter-36283-graph)
 Remove instances of `useMaterial3: true` in framework, samples and codelabs [flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) | 16 | [16](#flutter-flutter-162818-graph)
@@ -75,7 +75,7 @@ Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter
 `f: cupertino` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 532 | [405](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 534 | [407](#flutter-flutter-101479-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 15 | [15](#flutter-flutter-161687-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 117 | [6](#flutter-flutter-62960-graph)
@@ -184,7 +184,7 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 51 | [51](#flutter-flutter-166367-graph)
+[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 52 | [52](#flutter-flutter-166367-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 41 | [41](#flutter-flutter-166333-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 351 | [25](#flutter-flutter-110431-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 21 | [21](#flutter-flutter-163845-graph)
@@ -294,7 +294,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 153 | [65](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 154 | [66](#dart-lang-sdk-55281-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 55 | [24](#dart-lang-sdk-57036-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 196 | [20](#dart-lang-sdk-50565-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 20 | [20](#dart-lang-sdk-60335-graph)
@@ -353,7 +353,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 532 total reactions, 405 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 534 total reactions, 407 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -362,7 +362,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions"
-    bar [0, 1, 0, 0, 212, 27, 1, 3, 1, 4, 0, 2, 5]
+    bar [0, 1, 0, 0, 212, 27, 1, 3, 1, 4, 0, 2, 7]
   ```
 
   </details>
@@ -455,7 +455,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 153 total reactions, 65 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 154 total reactions, 66 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -464,7 +464,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
-    bar [4, 1, 4, 2, 4, 8, 4, 7, 6, 3, 6, 2, 4]
+    bar [4, 1, 4, 2, 4, 8, 4, 7, 6, 3, 6, 2, 5]
   ```
 
   </details>
@@ -506,7 +506,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-166367-graph"></a>
 ### [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols]
-  <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 51 total reactions, 51 recent reactions</sub><br />
+  <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 52 total reactions, 52 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -515,7 +515,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 51]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 52]
   ```
 
   </details>
@@ -1201,23 +1201,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 13, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-165656-graph"></a>
 ### hot restart locks up on iOS
   <sub>[flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1230,6 +1213,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 13, 14, 14]
   ```
 
   </details>
