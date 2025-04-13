@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-01-13 to 2025-04-12.
+Issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -16,11 +16,11 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 153 | [65](#dart-lang-sdk-55281-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
 Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https://github.com/flutter/flutter/issues/165959) | 57 | [57](#flutter-flutter-165959-graph)
-[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 50 | [50](#flutter-flutter-166367-graph)
+[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 51 | [51](#flutter-flutter-166367-graph)
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 48 | [48](#flutter-flutter-163984-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 173 | [46](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 40 | [40](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 41 | [41](#flutter-flutter-166333-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-framework` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-design` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`f: cupertino` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 532 | [405](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Text input
 
-`team-text-input` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-text-input` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 41 | [10](#flutter-flutter-10713-graph)
@@ -113,7 +113,7 @@ TextField: Keyboard not showing on `autofocus: true` after app is paused then re
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-go_router` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -135,7 +135,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-tool` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -157,7 +157,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-engine` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
@@ -180,12 +180,12 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-ios` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 50 | [50](#flutter-flutter-166367-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 40 | [40](#flutter-flutter-166333-graph)
+[iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 51 | [51](#flutter-flutter-166367-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 41 | [41](#flutter-flutter-166333-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 351 | [25](#flutter-flutter-110431-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 21 | [21](#flutter-flutter-163845-graph)
 hot restart locks up on iOS [flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) | 14 | [14](#flutter-flutter-165656-graph)
@@ -202,7 +202,7 @@ Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flut
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-android` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -224,7 +224,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-web` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -246,7 +246,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-desktop` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -268,7 +268,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`team-ecosystem` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -290,7 +290,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`dart-lang/sdk` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -312,7 +312,7 @@ Consider disabling `require_trailing_commas` lint if language version of file is
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-01-13 to 2025-04-12.
+`dart-lang/language` issues that received the most reactions from 2025-01-13 to 2025-04-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -506,7 +506,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-166367-graph"></a>
 ### [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols]
-  <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 50 total reactions, 50 recent reactions</sub><br />
+  <sub>[flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) &mdash; 51 total reactions, 51 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -515,7 +515,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 50]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24, 51]
   ```
 
   </details>
@@ -574,7 +574,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 40 total reactions, 40 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 41 total reactions, 41 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -583,7 +583,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 40]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 41]
   ```
 
   </details>
