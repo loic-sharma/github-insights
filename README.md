@@ -20,7 +20,7 @@ Severe performance degradation of `drawImageRect` [flutter/flutter#165959](https
 Debug mode and hot reload fail on iOS 18.4 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 48 | [48](#flutter-flutter-163984-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 173 | [46](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 41 | [41](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 42 | [42](#flutter-flutter-166333-graph)
 
 ## Trending issues by team
 
@@ -185,7 +185,7 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 52 | [52](#flutter-flutter-166367-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 41 | [41](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 42 | [42](#flutter-flutter-166333-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 351 | [25](#flutter-flutter-110431-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 21 | [21](#flutter-flutter-163845-graph)
 hot restart locks up on iOS [flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) | 14 | [14](#flutter-flutter-165656-graph)
@@ -574,7 +574,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 41 total reactions, 41 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 42 total reactions, 42 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -583,7 +583,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7]
     y-axis "Reactions"
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 41]
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 42]
   ```
 
   </details>
