@@ -235,9 +235,9 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 81 | [14](#flutter-flutter-149031-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 656 | [13](#flutter-flutter-47600-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 344 | [12](#flutter-flutter-145954-graph)
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 195 | [12](#flutter-flutter-69529-graph)
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 340 | [11](#flutter-flutter-33577-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 169 | [11](#flutter-flutter-46589-graph)
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 193 | [10](#flutter-flutter-69529-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 40 | [10](#flutter-flutter-156910-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 212 | [9](#flutter-flutter-55324-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 80 | [8](#flutter-flutter-124334-graph)
@@ -279,9 +279,9 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 81 | [14](#flutter-flutter-149031-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 656 | [13](#flutter-flutter-47600-graph)
 ☂️ Intent to deprecate and remove the HTML renderer in Flutter Web [flutter/flutter#145954](https://github.com/flutter/flutter/issues/145954) | 344 | [12](#flutter-flutter-145954-graph)
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 195 | [12](#flutter-flutter-69529-graph)
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 340 | [11](#flutter-flutter-33577-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 169 | [11](#flutter-flutter-46589-graph)
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 193 | [10](#flutter-flutter-69529-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 40 | [10](#flutter-flutter-156910-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 212 | [9](#flutter-flutter-55324-graph)
 WebGPU Backend for Flutter Web [flutter/flutter#124334](https://github.com/flutter/flutter/issues/124334) | 80 | [8](#flutter-flutter-124334-graph)
@@ -306,8 +306,8 @@ Analyzer 7.4.0 source-incompatibility [dart-lang/sdk#60545](https://github.com/d
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 83 | [10](#dart-lang-sdk-53402-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 22 | [10](#dart-lang-sdk-58535-graph)
 Throws exception 'Failed to parse header value' [dart-lang/sdk#46442](https://github.com/dart-lang/sdk/issues/46442) | 25 | [9](#dart-lang-sdk-46442-graph)
-Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 9 | [9](#dart-lang-sdk-59988-graph)
+Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 
 ### Dart language
@@ -1116,23 +1116,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-163627-graph"></a>
-### Flutter Internationalization Error related to placeholder types
-  <sub>[flutter/flutter#163627](https://github.com/flutter/flutter/issues/163627) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-165656-graph"></a>
 ### hot restart locks up on iOS
   <sub>[flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -1162,6 +1145,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-163627-graph"></a>
+### Flutter Internationalization Error related to placeholder types
+  <sub>[flutter/flutter#163627](https://github.com/flutter/flutter/issues/163627) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0]
   ```
 
   </details>
@@ -1434,6 +1434,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 2, 1, 0, 1, 3, 2, 0, 1, 1, 0, 1, 0]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-69529-graph"></a>
+### [web] Scroll is not recognized by the browser
+  <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 195 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 1, 3, 0, 0, 1, 1, 0, 0, 0, 0, 0, 2]
   ```
 
   </details>
@@ -1745,23 +1762,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-69529-graph"></a>
-### [web] Scroll is not recognized by the browser
-  <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 193 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 1, 3, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-14288-graph"></a>
 ### Antialiasing behaviour when same-colour 
   <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 185 total reactions, 10 recent reactions</sub><br />
@@ -2017,23 +2017,6 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60013-graph"></a>
-### Support ignoring lint(s) for a part of the file
-  <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
-    y-axis "Reactions" 0 --> 20
-    bar [0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -2046,6 +2029,23 @@ Null-aware elements [dart-lang/language#323](https://github.com/dart-lang/langua
     x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
     y-axis "Reactions" 0 --> 20
     bar [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60013-graph"></a>
+### Support ignoring lint(s) for a part of the file
+  <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 13, Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
+    y-axis "Reactions" 0 --> 20
+    bar [0, 0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
   ```
 
   </details>
