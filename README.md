@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-01-13 to 2025-04-17.
+Issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-framework` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-design` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Overscrolling outer scrollview / SliverAppBar.stretch does not work in NestedScr
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`f: cupertino` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 534 | [407](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Text input
 
-`team-text-input` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-text-input` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 41 | [10](#flutter-flutter-10713-graph)
@@ -113,7 +113,7 @@ TextField: Keyboard not showing on `autofocus: true` after app is paused then re
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-go_router` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -135,7 +135,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-tool` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -157,7 +157,7 @@ Let flutter be installable via homebrew [flutter/flutter#14050](https://github.c
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-engine` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 revert deprecating Color withOpacity / opacity [flutter/flutter#162069](https://github.com/flutter/flutter/issues/162069) | 511 | [511](#flutter-flutter-162069-graph)
@@ -180,7 +180,7 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-ios` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -202,7 +202,7 @@ Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flut
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-android` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -224,7 +224,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-web` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -246,7 +246,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-desktop` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -268,7 +268,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`team-ecosystem` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -290,7 +290,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`dart-lang/sdk` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -312,7 +312,7 @@ Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://gi
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-01-13 to 2025-04-17.
+`dart-lang/language` issues that received the most reactions from 2025-01-13 to 2025-04-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
