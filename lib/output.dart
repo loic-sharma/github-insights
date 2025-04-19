@@ -202,6 +202,8 @@ void writeDashboard(
   bool Function(IssueDelta) hasLabel(String label) =>
     (IssueDelta delta) => delta.labels.any((l) => l == label);
 
+  bool Function(IssueDelta) hasAnyLabel(Set<String> labels) =>
+    (IssueDelta delta) => delta.labels.any((l) => labels.contains(l));
   // Filter out issues that are closed.
   // Sort by recent reactions descending, then by total reactions descending.
   deltas = deltas.where((delta) => delta.open).toList();
@@ -221,28 +223,16 @@ void writeDashboard(
 
   final teamAndroid = deltas.where(hasLabel('team-android')).take(15).toList();
   final teamDesign = deltas.where(hasLabel('team-design')).take(15).toList();
+  final teamDesktop = deltas.where(hasAnyLabel({'team-windows', 'team-macos', 'team-linux'})).take(15).toList();
   final teamEcosystem = deltas.where(hasLabel('team-web')).take(15).toList();
   final teamEngine = deltas.where(hasLabel('team-engine')).take(15).toList();
   final teamFramework = deltas.where(hasLabel('team-framework')).take(15).toList();
   final teamGoRouter = deltas.where(hasLabel('team-go_router')).take(15).toList();
   final teamiOS = deltas.where(hasLabel('team-ios')).take(15).toList();
-  final teamTextInput = deltas.where(hasLabel('team-text-input')).take(15).toList();
+  final teamTextInput = deltas.where(hasAnyLabel({'team-text-input', 'a: text input'})).take(15).toList();
   final teamTool = deltas.where(hasLabel('team-tool')).take(15).toList();
   final teamWeb = deltas.where(hasLabel('team-web')).take(15).toList();
 
-  final teamDesktop =
-    deltas
-      .where((delta) =>
-        delta
-          .labels
-          .any((label) =>
-            label == 'team-windows' ||
-            label == 'team-macos' ||
-            label == 'team-linux'
-          )
-      )
-    .take(15)
-    .toList();
 
   final all = [
     ...mostReactions,
@@ -311,7 +301,7 @@ void writeDashboard(
   writer.writeln('#### Text input');
   writer.writeln();
 
-  writer.writeln('`team-text-input` issues that received the most reactions $window.');
+  writer.writeln('`team-text-input` and `a: text input` issues that received the most reactions $window.');
 
   _writeIssueDeltasTable(writer, teamTextInput);
 
@@ -368,7 +358,7 @@ void writeDashboard(
   writer.writeln('#### Desktop');
   writer.writeln();
 
-  writer.writeln('`team-desktop` issues that received the most reactions $window.');
+  writer.writeln('`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions $window.');
   writer.writeln();
 
   _writeIssueDeltasTable(writer, teamDesktop);

@@ -93,22 +93,24 @@ CupertinoPicker and CupertinoDatePicker don't play the ticker sound [flutter/flu
 
 #### Text input
 
-`team-text-input` issues that received the most reactions from 2025-01-20 to 2025-04-19.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-01-20 to 2025-04-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 41 | [10](#flutter-flutter-10713-graph)
+Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 110 | [8](#flutter-flutter-57609-graph)
+Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 129 | [7](#flutter-flutter-99606-graph)
+[IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 84 | [7](#flutter-flutter-124205-graph)
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 22 | [7](#flutter-flutter-149753-graph)
+Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 78 | [5](#flutter-flutter-40682-graph)
 Expose low level IME interactions [flutter/flutter#150460](https://github.com/flutter/flutter/issues/150460) | 31 | 4
+[Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 23 | 3
+Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 170 | 2
+[web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 105 | 2
+[Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 33 | 2
+Support text selection programmatically for the SelectableText widget [flutter/flutter#69460](https://github.com/flutter/flutter/issues/69460) | 22 | 2
+Add ability for text field TextInputAction to be dynamic [flutter/flutter#30331](https://github.com/flutter/flutter/issues/30331) | 20 | 2
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 120 | 1
 Input validator async [flutter/flutter#9688](https://github.com/flutter/flutter/issues/9688) | 72 | 1
-[proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 61 | 1
-Flutter OnScreen Keyboard opens on physical key press [flutter/flutter#51478](https://github.com/flutter/flutter/issues/51478) | 17 | 1
-☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 52 | 0
-Prevent soft keyboard to show when physical keyboard is used [flutter/flutter#44681](https://github.com/flutter/flutter/issues/44681) | 32 | 0
-[Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 26 | 0
-Show suffix/prefix text in TextField even when it is not in focus and empty. [flutter/flutter#64552](https://github.com/flutter/flutter/issues/64552) | 24 | 0
-Allow custom spacing between helperText, errorText and border on InputDecoration [flutter/flutter#68117](https://github.com/flutter/flutter/issues/68117) | 18 | 0
-TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 17 | 0
 
 #### go_router
 
@@ -245,7 +247,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-desktop` issues that received the most reactions from 2025-01-20 to 2025-04-19.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-01-20 to 2025-04-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1994,6 +1996,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
     y-axis "Reactions"
     line [126, 126, 127, 128, 128, 128, 128, 128, 129, 130, 130, 133, 133]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-99606-graph"></a>
+### Ability to change the keyboard language programmatically
+  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 129 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
+    y-axis "Reactions"
+    line [123, 124, 124, 124, 125, 126, 126, 126, 127, 127, 128, 128, 129]
   ```
 
   </details>
