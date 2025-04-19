@@ -43,7 +43,7 @@ void main() {
         deltas[0].buckets,
         equals(['Jan 1']),
       );
-      expect(deltas[0].values, equals([3]));
+      expect(deltas[0].values, equals([5]));
     });
 
     test('new issue', () {

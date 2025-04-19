@@ -165,6 +165,7 @@ class IssueDelta {
     required this.repository,
     required this.name,
     required this.url,
+    required this.open,
     required this.labels,
     required this.totalReactions,
     required this.recentReactions,
@@ -176,6 +177,7 @@ class IssueDelta {
   final String repository;
   final String name;
   final Uri url;
+  final bool open;
   final List<String> labels;
 
   final int totalReactions;
@@ -199,6 +201,18 @@ void writeDashboard(
 
   bool Function(IssueDelta) hasLabel(String label) =>
     (IssueDelta delta) => delta.labels.any((l) => l == label);
+
+  // Filter out issues that are closed.
+  // Sort by recent reactions descending, then by total reactions descending.
+  deltas = deltas.where((delta) => delta.open).toList();
+  deltas.sort((a, b) {
+    final recentComparison = b.recentReactions.compareTo(a.recentReactions);
+    if (recentComparison != 0) {
+      return recentComparison;
+    }
+
+    return b.totalReactions.compareTo(a.totalReactions);
+  });
 
   final mostReactions = deltas.take(15).toList();
   final cupertino = deltas.where(hasLabel('f: cupertino')).take(15).toList();
@@ -230,7 +244,6 @@ void writeDashboard(
     .take(15)
     .toList();
 
-      
   final all = [
     ...mostReactions,
     ...cupertino,

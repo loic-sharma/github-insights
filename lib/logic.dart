@@ -241,6 +241,7 @@ class _IssueDeltaBuilder {
     final buckets = <String>[];
     final values = <int>[];
     var lastValue = 0;
+    var open = false;
 
     final week = Duration(days: 7);
     for (var bucket = startOfWeekUtc(start); bucket.isBefore(end); bucket = bucket.add(week)) {
@@ -250,6 +251,7 @@ class _IssueDeltaBuilder {
       buckets.add(bucketName);
       values.add(value);
       lastValue = value;
+      open = _buckets.containsKey(bucket);
     }
 
     var recentReactions = (_isDateTimeBetween(_latest!.createdAt, start, end))
@@ -261,6 +263,7 @@ class _IssueDeltaBuilder {
       repository: _latest!.repository,
       name: _latest!.title,
       url: Uri.parse('https://github.com/${_latest!.repository}/issues/${_latest!.id}'),
+      open: open,
       labels: _latest!.labels ?? const <String>[],
       totalReactions: _latest!.reactions,
       recentReactions: recentReactions,

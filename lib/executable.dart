@@ -209,16 +209,6 @@ class DashboardCommand extends Command {
 
     final deltas = calculateIssueDeltas(snapshots, start, end);
 
-    // Sort by recent reactions descending, then by total reactions descending.
-    deltas.sort((a, b) {
-      final recentComparison = b.recentReactions.compareTo(a.recentReactions);
-      if (recentComparison != 0) {
-        return recentComparison;
-      }
-
-      return b.totalReactions.compareTo(a.totalReactions);
-    });
-
     print('Writing dashboard file...');
     final outputDir = path.dirname(outputPath);
     final outputName = path.basename(outputPath);
