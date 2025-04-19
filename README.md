@@ -11,7 +11,7 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 123 | [123](#dart-lang-language-4271-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 122 | [122](#flutter-flutter-162960-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2218 | [110](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2219 | [111](#dart-lang-language-314-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1312 | [96](#flutter-flutter-53041-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 162 | [68](#dart-lang-sdk-55281-graph)
 [webview_flutter] Crash when opening webview on iOS after updating transitive webview_flutter_wkwebview to 3.18.0 [flutter/flutter#162437](https://github.com/flutter/flutter/issues/162437) | 62 | [62](#flutter-flutter-162437-graph)
@@ -260,8 +260,8 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 217 | 3
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 118 | 3
 [camera] Support image streams on Windows platform [flutter/flutter#97542](https://github.com/flutter/flutter/issues/97542) | 50 | 3
-[google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 26 | 3
 [local_auth] Support Linux [flutter/flutter#70270](https://github.com/flutter/flutter/issues/70270) | 26 | 3
+[google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 26 | 3
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 661 | 2
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 196 | 2
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 135 | 2
@@ -317,7 +317,7 @@ proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart
 Issue | Total reactions | Recent reactions
 -- | -- | --
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 123 | [123](#dart-lang-language-4271-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2218 | [110](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2219 | [111](#dart-lang-language-314-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1054 | [29](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1145 | [25](#dart-lang-language-723-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [21](#dart-lang-language-4211-graph)
@@ -421,7 +421,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2218 total reactions, 110 recent reactions</sub><br />
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2219 total reactions, 111 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -430,7 +430,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14]
     y-axis "Reactions"
-    bar [0, 64, 10, 8, 4, 5, 3, 1, 4, 4, 2, 1, 0]
+    bar [0, 64, 10, 8, 4, 5, 3, 1, 4, 4, 2, 1, 1]
   ```
 
   </details>
