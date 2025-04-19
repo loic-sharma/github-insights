@@ -451,7 +451,7 @@ void _writeIssueDeltasList(
     } else {
       writer.writeln('    y-axis "Reactions" 0 --> 20');
     }
-    writer.writeln('    bar [${issue.values.join(', ')}]');
+    writer.writeln('    line [${issue.values.join(', ')}]');
     writer.writeln('  ```');
     writer.writeln();
 

@@ -240,14 +240,16 @@ class _IssueDeltaBuilder {
   output.IssueDelta build(DateTime start, DateTime end) {
     final buckets = <String>[];
     final values = <int>[];
+    var lastValue = 0;
 
     final week = Duration(days: 7);
     for (var bucket = startOfWeekUtc(start); bucket.isBefore(end); bucket = bucket.add(week)) {
       final bucketName = _deltaBucketFormatter.format(bucket);
-      final value = _buckets[bucket]?.build(start, end) ?? 0;
+      final value = _buckets[bucket]?.build(start, end) ?? lastValue;
 
       buckets.add(bucketName);
       values.add(value);
+      lastValue = value;
     }
 
     var recentReactions = (_isDateTimeBetween(_latest!.createdAt, start, end))
@@ -262,7 +264,8 @@ class _IssueDeltaBuilder {
       labels: _latest!.labels ?? const <String>[],
       totalReactions: _latest!.reactions,
       recentReactions: recentReactions,
-      buckets: buckets, values: values,
+      buckets: buckets,
+      values: values,
     );
   }
 }
@@ -292,11 +295,7 @@ class _IssueDeltaBucketBuilder {
   int build(DateTime start, DateTime end) {
     assert(_createdAt != null && _reactionsStart != -1 && _reactionsEnd != -1);
 
-    if (_isDateTimeBetween(_createdAt!, start, end)) {
-      return _reactionsEnd;
-    }
-
-    return _reactionsEnd - _reactionsStart;
+    return _reactionsEnd;
   }
 }
 
