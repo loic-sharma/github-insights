@@ -232,8 +232,8 @@ Issue | Total reactions | Recent reactions
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1312 | [96](#flutter-flutter-53041-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 31 | [31](#flutter-flutter-162305-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 865 | [26](#flutter-flutter-46789-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 82 | [15](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 277 | [14](#flutter-flutter-45296-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 81 | [14](#flutter-flutter-149031-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 656 | [13](#flutter-flutter-47600-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 196 | [12](#flutter-flutter-69529-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 169 | [10](#flutter-flutter-46589-graph)
@@ -276,8 +276,8 @@ Issue | Total reactions | Recent reactions
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1312 | [96](#flutter-flutter-53041-graph)
 [BUG] [WEB] `KeyboardListener`'s and `Focus.onKeyEvent`'s `KeyUpEvent` do not work correctly in JS and WASM builds [flutter/flutter#162305](https://github.com/flutter/flutter/issues/162305) | 31 | [31](#flutter-flutter-162305-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 865 | [26](#flutter-flutter-46789-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 82 | [15](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 277 | [14](#flutter-flutter-45296-graph)
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 81 | [14](#flutter-flutter-149031-graph)
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 656 | [13](#flutter-flutter-47600-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 196 | [12](#flutter-flutter-69529-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 169 | [10](#flutter-flutter-46589-graph)
@@ -300,8 +300,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 23 | [23](#dart-lang-sdk-60335-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 196 | [20](#dart-lang-sdk-50565-graph)
 Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) | 19 | [19](#dart-lang-sdk-60518-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 34 | [17](#dart-lang-sdk-56841-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 540 | [16](#dart-lang-sdk-28617-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 33 | [16](#dart-lang-sdk-56841-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [13](#dart-lang-sdk-54934-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 83 | [10](#dart-lang-sdk-53402-graph)
 Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
@@ -845,6 +845,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 34 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions"
+    line [17, 17, 17, 17, 18, 19, 19, 19, 19, 20, 32, 33, 33, 34]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4246-graph"></a>
 ### Enhanced Constructors
   <sub>[dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -913,23 +930,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 33 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
-    y-axis "Reactions"
-    line [17, 17, 17, 17, 18, 19, 19, 19, 19, 20, 32, 33, 33, 33]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-162818-graph"></a>
 ### Remove instances of `useMaterial3: true` in framework, samples and codelabs
   <sub>[flutter/flutter#162818](https://github.com/flutter/flutter/issues/162818) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -959,6 +959,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
     line [193, 196, 198, 201, 202, 202, 203, 204, 206, 206, 207, 207, 208, 208]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 82 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions"
+    line [67, 68, 68, 69, 71, 73, 74, 76, 76, 76, 77, 80, 81, 82]
   ```
 
   </details>
@@ -1010,23 +1027,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
     line [263, 268, 268, 269, 270, 270, 272, 272, 272, 272, 273, 275, 276, 277]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 81 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
-    y-axis "Reactions"
-    line [67, 68, 68, 69, 71, 73, 74, 76, 76, 76, 77, 80, 81, 81]
   ```
 
   </details>
