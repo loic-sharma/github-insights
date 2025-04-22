@@ -10,7 +10,7 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 124 | [124](#dart-lang-language-4271-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 122 | [122](#flutter-flutter-162960-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2220 | [112](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2221 | [113](#dart-lang-language-314-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1312 | [96](#flutter-flutter-53041-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 163 | [69](#dart-lang-sdk-55281-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 63 | [63](#flutter-flutter-166333-graph)
@@ -80,7 +80,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 117 | [6](#flutter-flutter-62960-graph)
 Support weight/boldness configuration of an Icon [flutter/flutter#86636](https://github.com/flutter/flutter/issues/86636) | 60 | [6](#flutter-flutter-86636-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 42 | [5](#flutter-flutter-53059-graph)
-Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 25 | 4
+Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 26 | [5](#flutter-flutter-150824-graph)
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 58 | 3
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 3
 Fullscreen version of CupertinoSheetRoute [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | 2
@@ -197,7 +197,7 @@ Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flut
 Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](https://github.com/flutter/flutter/issues/103163) | 71 | [6](#flutter-flutter-103163-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 44 | [6](#flutter-flutter-20663-graph)
 Plugins could avoid warnings by installing UIApplicationDelegate methods dynamically [flutter/flutter#9984](https://github.com/flutter/flutter/issues/9984) | 161 | [5](#flutter-flutter-9984-graph)
-Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 25 | 4
+Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 26 | [5](#flutter-flutter-150824-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 70 | 3
 Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 57 | 3
 
@@ -304,8 +304,8 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 33 | [16](#dart-lang-sdk-56841-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [13](#dart-lang-sdk-54934-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 83 | [10](#dart-lang-sdk-53402-graph)
-Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 9 | [9](#dart-lang-sdk-59988-graph)
+Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 22 | [7](#dart-lang-sdk-58535-graph)
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 21 | [6](#dart-lang-sdk-56186-graph)
@@ -318,7 +318,7 @@ Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://gith
 Issue | Total reactions | Recent reactions
 -- | -- | --
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 124 | [124](#dart-lang-language-4271-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2220 | [112](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2221 | [113](#dart-lang-language-314-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1054 | [29](#dart-lang-language-357-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1146 | [26](#dart-lang-language-723-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 189 | [21](#dart-lang-language-4211-graph)
@@ -405,7 +405,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2220 total reactions, 112 recent reactions</sub><br />
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2221 total reactions, 113 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -414,7 +414,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
-    line [2108, 2172, 2183, 2191, 2196, 2203, 2206, 2207, 2211, 2215, 2217, 2218, 2220, 2220]
+    line [2108, 2172, 2183, 2191, 2196, 2203, 2206, 2207, 2211, 2215, 2217, 2218, 2220, 2221]
   ```
 
   </details>
@@ -1015,23 +1015,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 10, 13, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-165149-graph"></a>
 ### The video player `value.isBuffering` always return true after `seekTo` any position
   <sub>[flutter/flutter#165149](https://github.com/flutter/flutter/issues/165149) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1044,6 +1027,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 10, 13, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1763,23 +1763,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60013-graph"></a>
-### Support ignoring lint(s) for a part of the file
-  <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
-    y-axis "Reactions" 0 --> 20
-    line [0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -1792,6 +1775,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 9, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60013-graph"></a>
+### Support ignoring lint(s) for a part of the file
+  <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions" 0 --> 20
+    line [0, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
   ```
 
   </details>
@@ -2693,6 +2693,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
     line [37, 37, 37, 39, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-150824-graph"></a>
+### Flutter's text rendering has different letter spacing from iOS native
+  <sub>[flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) &mdash; 26 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions"
+    line [21, 21, 21, 21, 21, 25, 25, 25, 25, 25, 25, 25, 25, 26]
   ```
 
   </details>
