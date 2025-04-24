@@ -12,8 +12,8 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2221 | [113](#dart-lang-language-314-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1312 | [96](#flutter-flutter-53041-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 165 | [71](#dart-lang-sdk-55281-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 68 | [68](#flutter-flutter-166333-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 166 | [72](#dart-lang-sdk-55281-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 70 | [70](#flutter-flutter-166333-graph)
 [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 57 | [57](#flutter-flutter-166367-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 175 | [46](#flutter-flutter-142845-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
@@ -66,8 +66,8 @@ Support weight/boldness configuration of an Icon [flutter/flutter#86636](https:/
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 265 | [5](#flutter-flutter-18345-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 120 | [5](#flutter-flutter-102560-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 42 | [5](#flutter-flutter-53059-graph)
+Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 41 | [5](#flutter-flutter-141941-graph)
 Overscrolling outer scrollview / SliverAppBar.stretch does not work in NestedScrollView [flutter/flutter#54059](https://github.com/flutter/flutter/issues/54059) | 45 | 4
-Create DropdownMenuFormField [flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) | 40 | 4
 Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 94 | 3
 
 #### Cupertino
@@ -185,7 +185,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 68 | [68](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 70 | [70](#flutter-flutter-166333-graph)
 [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 57 | [57](#flutter-flutter-166367-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 352 | [22](#flutter-flutter-110431-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 22 | [22](#flutter-flutter-163845-graph)
@@ -219,9 +219,9 @@ Android build fails with certain plugins if project is in a different drive (fro
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 88 | 4
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 86 | 4
 [Android]Switching between immersive and edgeToEdge system UI modes shows black status bar [flutter/flutter#95403](https://github.com/flutter/flutter/issues/95403) | 50 | 4
+Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 41 | 4
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 35 | 4
 [SystemUiMode.edgeToEdge] systemNavigationBarColor can't be made transparent without breaking older Android versions [flutter/flutter#119465](https://github.com/flutter/flutter/issues/119465) | 21 | 4
-Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 40 | 3
 
 #### Web
 
@@ -295,7 +295,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 165 | [71](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 166 | [72](#dart-lang-sdk-55281-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 55 | [24](#dart-lang-sdk-57036-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 24 | [24](#dart-lang-sdk-60335-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 196 | [20](#dart-lang-sdk-50565-graph)
@@ -309,7 +309,7 @@ Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://gi
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 22 | [7](#dart-lang-sdk-58535-graph)
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 21 | [6](#dart-lang-sdk-56186-graph)
-Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
+Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
 
 ### Dart language
 
@@ -325,7 +325,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 20 | [20](#dart-lang-language-4275-graph)
 Enhanced Constructors [dart-lang/language#4246](https://github.com/dart-lang/language/issues/4246) | 17 | [17](#dart-lang-language-4246-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 31 | [15](#dart-lang-language-4200-graph)
-Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 15 | [14](#dart-lang-language-4154-graph)
+Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 16 | [15](#dart-lang-language-4154-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 238 | [13](#dart-lang-language-2364-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 12 | [12](#dart-lang-language-4321-graph)
@@ -439,7 +439,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
 
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 165 total reactions, 71 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 166 total reactions, 72 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -448,7 +448,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
-    line [95, 100, 103, 107, 116, 121, 128, 134, 139, 145, 148, 154, 163, 165]
+    line [95, 100, 103, 107, 116, 121, 128, 134, 139, 145, 148, 154, 163, 166]
   ```
 
   </details>
@@ -456,7 +456,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 68 total reactions, 68 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 70 total reactions, 70 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -465,7 +465,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 43, 60, 68]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21, 43, 60, 70]
   ```
 
   </details>
@@ -1032,6 +1032,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
+<a name="dart-lang-language-4154-graph"></a>
+### Library augmentations
+  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 16 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions" 0 --> 20
+    line [0, 10, 10, 11, 11, 11, 13, 13, 13, 13, 13, 13, 13, 16]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-165149-graph"></a>
 ### The video player `value.isBuffering` always return true after `seekTo` any position
   <sub>[flutter/flutter#165149](https://github.com/flutter/flutter/issues/165149) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -1129,23 +1146,6 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
     line [0, 15, 16, 16, 19, 21, 22, 23, 24, 24, 27, 27, 27, 28]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4154-graph"></a>
-### Library augmentations
-  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 15 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
-    y-axis "Reactions" 0 --> 20
-    line [0, 10, 10, 11, 11, 11, 13, 13, 13, 13, 13, 13, 13, 15]
   ```
 
   </details>
@@ -2154,23 +2154,6 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-131625-graph"></a>
-### [go_router] support popUntil
-  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 42 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
-    y-axis "Reactions"
-    line [35, 35, 36, 37, 37, 37, 39, 39, 39, 39, 41, 42, 42, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-146860-graph"></a>
 ### TextHeightBehaviour should allow more tightly-wrapped text
   <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 42 total reactions, 7 recent reactions</sub><br />
@@ -2183,6 +2166,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
     line [35, 35, 35, 35, 35, 38, 40, 40, 40, 40, 40, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-131625-graph"></a>
+### [go_router] support popUntil
+  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions"
+    line [35, 35, 36, 37, 37, 37, 39, 39, 39, 39, 41, 42, 42, 42]
   ```
 
   </details>
@@ -2494,9 +2494,9 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60244-graph"></a>
-### Automate the creation of data-driven fix data
-  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60106-graph"></a>
+### Macro follow-up: With macros gone, how can code-generators be composed?
+  <sub>[dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2505,7 +2505,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2710,6 +2710,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
     line [37, 37, 37, 39, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-141941-graph"></a>
+### Create DropdownMenuFormField
+  <sub>[flutter/flutter#141941](https://github.com/flutter/flutter/issues/141941) &mdash; 41 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions"
+    line [38, 38, 38, 39, 40, 40, 40, 40, 40, 40, 40, 40, 40, 41]
   ```
 
   </details>
