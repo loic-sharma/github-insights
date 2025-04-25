@@ -207,7 +207,7 @@ Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flut
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 48 | [17](#flutter-flutter-139427-graph)
+Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 49 | [18](#flutter-flutter-139427-graph)
 The video player `value.isBuffering` always return true after `seekTo` any position [flutter/flutter#165149](https://github.com/flutter/flutter/issues/165149) | 15 | [15](#flutter-flutter-165149-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 53 | [14](#flutter-flutter-145961-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 382 | [12](#flutter-flutter-83596-graph)
@@ -828,6 +828,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
+<a name="flutter-flutter-139427-graph"></a>
+### Use the default NDK version from AGP
+  <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 49 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
+    y-axis "Reactions"
+    line [31, 31, 32, 32, 32, 36, 37, 40, 40, 41, 43, 45, 47, 49]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-28617-graph"></a>
 ### Allow AOT executables to be cross-compiled
   <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 541 total reactions, 17 recent reactions</sub><br />
@@ -891,23 +908,6 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
     y-axis "Reactions"
     line [73, 73, 73, 74, 73, 73, 80, 86, 90, 90, 90, 90, 90, 90]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-139427-graph"></a>
-### Use the default NDK version from AGP
-  <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 48 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 20, Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21]
-    y-axis "Reactions"
-    line [31, 31, 32, 32, 32, 36, 37, 40, 40, 41, 43, 45, 47, 48]
   ```
 
   </details>
