@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-01-27 to 2025-04-26.
+Issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-framework` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-design` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`f: cupertino` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 534 | [406](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ CupertinoPicker and CupertinoDatePicker don't play the ticker sound [flutter/flu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 41 | [10](#flutter-flutter-10713-graph)
@@ -114,7 +114,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-go_router` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -136,7 +136,7 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-tool` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -158,7 +158,7 @@ package assets declared under dev_dependency shouldn't be included in release bu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-engine` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Exception: Image upload failed due to loss of GPU access on iOS Devices on 3.27.1 [flutter/flutter#161142](https://github.com/flutter/flutter/issues/161142) | 40 | [26](#flutter-flutter-161142-graph)
@@ -181,7 +181,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-ios` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -203,7 +203,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-android` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -225,7 +225,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-web` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -247,7 +247,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -269,7 +269,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`team-ecosystem` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -291,7 +291,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`dart-lang/sdk` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -313,7 +313,7 @@ Macro follow-up: With macros gone, how can code-generators be composed? [dart-la
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-01-27 to 2025-04-26.
+`dart-lang/language` issues that received the most reactions from 2025-01-27 to 2025-04-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
