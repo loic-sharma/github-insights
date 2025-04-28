@@ -251,7 +251,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 448 | [18](#flutter-flutter-31713-graph)
+Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 447 | [17](#flutter-flutter-31713-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 206 | [13](#flutter-flutter-41980-graph)
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 54 | [12](#flutter-flutter-134346-graph)
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 21 | [8](#flutter-flutter-98994-graph)
@@ -828,23 +828,6 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-31713-graph"></a>
-### Implement PlatformView support on Windows
-  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 448 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [431, 432, 433, 439, 439, 439, 439, 439, 442, 442, 442, 442, 447, 448]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 35 total reactions, 18 recent reactions</sub><br />
@@ -857,6 +840,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [17, 17, 17, 18, 19, 19, 19, 19, 20, 32, 33, 33, 35, 35]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-31713-graph"></a>
+### Implement PlatformView support on Windows
+  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 447 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [431, 432, 433, 439, 439, 439, 439, 439, 442, 442, 442, 442, 447, 447]
   ```
 
   </details>
