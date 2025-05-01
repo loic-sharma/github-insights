@@ -303,13 +303,13 @@ Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 35 | [18](#dart-lang-sdk-56841-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 542 | [17](#dart-lang-sdk-28617-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 83 | [10](#dart-lang-sdk-53402-graph)
-Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 9 | [9](#dart-lang-sdk-59988-graph)
+Support ignoring lint(s) for a part of the file [dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) | 9 | [9](#dart-lang-sdk-60013-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 ☔  Support for hot reload in DDC [dart-lang/sdk#54934](https://github.com/dart-lang/sdk/issues/54934) | 180 | [7](#dart-lang-sdk-54934-graph)
 Interop: Java/Kotlin [dart-lang/sdk#49674](https://github.com/dart-lang/sdk/issues/49674) | 36 | [6](#dart-lang-sdk-49674-graph)
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 21 | [6](#dart-lang-sdk-56186-graph)
-Support glob pattern in workspace feature [dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) | 6 | [6](#dart-lang-sdk-60066-graph)
+Don't require "part file.*.dart" for files in the same directory with the same base name. [dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) | 6 | [6](#dart-lang-sdk-60018-graph)
 
 ### Dart language
 
@@ -328,8 +328,8 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 Library augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 16 | [15](#dart-lang-language-4154-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 239 | [14](#dart-lang-language-2364-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
-Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 13 | [13](#dart-lang-language-4343-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 13 | [13](#dart-lang-language-4321-graph)
+Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 13 | [13](#dart-lang-language-4343-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1680 | [11](#dart-lang-language-1482-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 403 | [11](#dart-lang-language-356-graph)
 
@@ -1185,23 +1185,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4343-graph"></a>
-### Case expressions
-  <sub>[dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4321-graph"></a>
 ### Introduce throws keyword (like Swift) for marking throwable functions
   <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1214,6 +1197,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4343-graph"></a>
+### Case expressions
+  <sub>[dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
   ```
 
   </details>
@@ -1729,23 +1729,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60013-graph"></a>
-### Support ignoring lint(s) for a part of the file
-  <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -1758,6 +1741,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 9, 9, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60013-graph"></a>
+### Support ignoring lint(s) for a part of the file
+  <sub>[dart-lang/sdk#60013](https://github.com/dart-lang/sdk/issues/60013) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions" 0 --> 20
+    line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9]
   ```
 
   </details>
@@ -2018,23 +2018,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-152588-graph"></a>
-### Scroll "back" on web causes browser back action (unless perfectly horizontal)
-  <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 42 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [35, 35, 35, 36, 36, 37, 37, 38, 38, 40, 41, 42, 42, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-131625-graph"></a>
 ### [go_router] support popUntil
   <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 42 total reactions, 7 recent reactions</sub><br />
@@ -2047,6 +2030,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [35, 36, 37, 37, 37, 39, 39, 39, 39, 41, 42, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-152588-graph"></a>
+### Scroll "back" on web causes browser back action (unless perfectly horizontal)
+  <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [35, 35, 35, 36, 36, 37, 37, 38, 38, 40, 41, 42, 42, 42]
   ```
 
   </details>
@@ -2341,9 +2341,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60066-graph"></a>
-### Support glob pattern in workspace feature
-  <sub>[dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60018-graph"></a>
+### Don't require "part file.*.dart" for files in the same directory with the same base name.
+  <sub>[dart-lang/sdk#60018](https://github.com/dart-lang/sdk/issues/60018) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2352,7 +2352,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 4, 5, 6]
+    line [3, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2579,23 +2579,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-53059-graph"></a>
-### Suggestion: decouple more widgets from Android/iOS design guidelines
-  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 42 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [37, 37, 39, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91247-graph"></a>
 ### Flutter Camera plugin camera lens change
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 42 total reactions, 5 recent reactions</sub><br />
@@ -2608,6 +2591,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [37, 37, 37, 37, 37, 37, 37, 37, 37, 40, 40, 40, 41, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-53059-graph"></a>
+### Suggestion: decouple more widgets from Android/iOS design guidelines
+  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 42 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 27, Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [37, 37, 39, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
   ```
 
   </details>
