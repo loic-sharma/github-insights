@@ -210,8 +210,8 @@ Issue | Total reactions | Recent reactions
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 50 | [19](#flutter-flutter-139427-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 55 | [15](#flutter-flutter-145961-graph)
 The video player `value.isBuffering` always return true after `seekTo` any position [flutter/flutter#165149](https://github.com/flutter/flutter/issues/165149) | 15 | [15](#flutter-flutter-165149-graph)
+Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 26 | [12](#flutter-flutter-151638-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 382 | [11](#flutter-flutter-83596-graph)
-Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 25 | [11](#flutter-flutter-151638-graph)
 PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 36 | [9](#flutter-flutter-81804-graph)
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 40 | [8](#flutter-flutter-110928-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 42 | [5](#flutter-flutter-91247-graph)
@@ -297,17 +297,17 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 169 | [68](#dart-lang-sdk-55281-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 29 | [29](#dart-lang-sdk-60335-graph)
+[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 57 | [23](#dart-lang-sdk-57036-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 198 | [22](#dart-lang-sdk-50565-graph)
-[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 55 | [21](#dart-lang-sdk-57036-graph)
 Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) | 19 | [19](#dart-lang-sdk-60518-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 35 | [18](#dart-lang-sdk-56841-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 542 | [17](#dart-lang-sdk-28617-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 83 | [10](#dart-lang-sdk-53402-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 21 | [6](#dart-lang-sdk-56186-graph)
-Support glob pattern in workspace feature [dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) | 6 | [6](#dart-lang-sdk-60066-graph)
-Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 6 | [6](#dart-lang-sdk-60236-graph)
 Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
+Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 6 | [6](#dart-lang-sdk-60236-graph)
+Support glob pattern in workspace feature [dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) | 6 | [6](#dart-lang-sdk-60066-graph)
 Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
 Interop: Objective C & Swift [dart-lang/sdk#49673](https://github.com/dart-lang/sdk/issues/49673) | 39 | [5](#dart-lang-sdk-49673-graph)
 
@@ -590,6 +590,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="dart-lang-sdk-57036-graph"></a>
+### [Dot Shorthands][meta] Dot shorthands implementation
+  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 57 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [34, 36, 39, 43, 48, 49, 52, 53, 55, 55, 55, 55, 57]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-50565-graph"></a>
 ### ☂️ [vm/ffi] Native assets feature
   <sub>[dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) &mdash; 198 total reactions, 22 recent reactions</sub><br />
@@ -636,23 +653,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 20, 21, 21, 22, 22, 22]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-57036-graph"></a>
-### [Dot Shorthands][meta] Dot shorthands implementation
-  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 55 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [34, 36, 39, 43, 48, 49, 52, 53, 55, 55, 55, 55, 55]
   ```
 
   </details>
@@ -1202,6 +1202,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-151638-graph"></a>
+### Investigate path resolution for "libflutter.so" binary
+  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 26 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [15, 17, 18, 19, 19, 19, 19, 20, 21, 24, 24, 24, 26]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-83596-graph"></a>
 ### Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........
   <sub>[flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) &mdash; 382 total reactions, 11 recent reactions</sub><br />
@@ -1333,23 +1350,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [30, 30, 30, 30, 31, 38, 38, 38, 38, 41, 41, 41, 41]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-151638-graph"></a>
-### Investigate path resolution for "libflutter.so" binary
-  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 25 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [15, 17, 18, 19, 19, 19, 19, 20, 21, 24, 24, 24, 25]
   ```
 
   </details>
@@ -1542,23 +1542,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-150525-graph"></a>
-### Consider merging platform and UI thread
-  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 33 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [23, 29, 31, 32, 32, 33, 33, 33, 33, 33, 33, 33, 33]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-99158-graph"></a>
 ### Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out
   <sub>[flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) &mdash; 33 total reactions, 10 recent reactions</sub><br />
@@ -1571,6 +1554,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [23, 23, 23, 23, 23, 23, 23, 25, 29, 30, 33, 33, 33]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-150525-graph"></a>
+### Consider merging platform and UI thread
+  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 33 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [23, 29, 31, 32, 32, 33, 33, 33, 33, 33, 33, 33, 33]
   ```
 
   </details>
@@ -1865,23 +1865,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-152588-graph"></a>
-### Scroll "back" on web causes browser back action (unless perfectly horizontal)
-  <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 42 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [35, 35, 36, 36, 37, 37, 38, 38, 40, 41, 42, 42, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-146860-graph"></a>
 ### TextHeightBehaviour should allow more tightly-wrapped text
   <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 42 total reactions, 7 recent reactions</sub><br />
@@ -1894,6 +1877,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [35, 35, 35, 38, 40, 40, 40, 40, 40, 42, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-152588-graph"></a>
+### Scroll "back" on web causes browser back action (unless perfectly horizontal)
+  <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [35, 35, 36, 36, 37, 37, 38, 38, 40, 41, 42, 42, 42]
   ```
 
   </details>
@@ -2103,23 +2103,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56186-graph"></a>
-### ☂️ Documentation imports
-  <sub>[dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) &mdash; 21 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [0, 0, 18, 18, 18, 19, 19, 19, 19, 19, 19, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-98994-graph"></a>
 ### Support flavors for Windows
   <sub>[flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) &mdash; 21 total reactions, 6 recent reactions</sub><br />
@@ -2132,6 +2115,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [15, 15, 15, 16, 17, 17, 17, 19, 20, 20, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56186-graph"></a>
+### ☂️ Documentation imports
+  <sub>[dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) &mdash; 21 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [0, 0, 18, 18, 18, 19, 19, 19, 19, 19, 19, 21, 21]
   ```
 
   </details>
@@ -2154,9 +2154,9 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60066-graph"></a>
-### Support glob pattern in workspace feature
-  <sub>[dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60244-graph"></a>
+### Automate the creation of data-driven fix data
+  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2165,7 +2165,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 4, 5, 6]
+    line [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2188,9 +2188,9 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60244-graph"></a>
-### Automate the creation of data-driven fix data
-  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60066-graph"></a>
+### Support glob pattern in workspace feature
+  <sub>[dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2199,7 +2199,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 4, 5, 6]
   ```
 
   </details>
@@ -2460,23 +2460,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-91247-graph"></a>
-### Flutter Camera plugin camera lens change
-  <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 42 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions"
-    line [37, 37, 37, 37, 37, 37, 37, 37, 40, 40, 40, 41, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-53059-graph"></a>
 ### Suggestion: decouple more widgets from Android/iOS design guidelines
   <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 42 total reactions, 5 recent reactions</sub><br />
@@ -2489,6 +2472,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
     line [37, 39, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-91247-graph"></a>
+### Flutter Camera plugin camera lens change
+  <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 42 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions"
+    line [37, 37, 37, 37, 37, 37, 37, 37, 40, 40, 40, 41, 42]
   ```
 
   </details>
