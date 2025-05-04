@@ -10,7 +10,7 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 136 | [136](#dart-lang-language-4271-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 125 | [125](#flutter-flutter-162960-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 88 | [88](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 89 | [89](#flutter-flutter-166333-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1312 | [78](#flutter-flutter-53041-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 170 | [69](#dart-lang-sdk-55281-graph)
 [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 57 | [57](#flutter-flutter-166367-graph)
@@ -107,8 +107,8 @@ Expose low level IME interactions [flutter/flutter#150460](https://github.com/fl
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 110 | 3
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 23 | 3
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 105 | 2
-Add ability for text field TextInputAction to be dynamic [flutter/flutter#30331](https://github.com/flutter/flutter/issues/30331) | 20 | 2
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 20 | 2
+Add ability for text field TextInputAction to be dynamic [flutter/flutter#30331](https://github.com/flutter/flutter/issues/30331) | 20 | 2
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 61 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 49 | 1
 
@@ -185,7 +185,7 @@ App ignores proxy settings [flutter/flutter#26359](https://github.com/flutter/fl
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 88 | [88](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 89 | [89](#flutter-flutter-166333-graph)
 [iOS] ITMS-90048: This bundle is invalid - Your archive contains paths that are not allowed: [._Symbols] [flutter/flutter#166367](https://github.com/flutter/flutter/issues/166367) | 57 | [57](#flutter-flutter-166367-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 26 | [26](#flutter-flutter-163845-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 353 | [23](#flutter-flutter-110431-graph)
@@ -305,10 +305,10 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 83 | [10](#dart-lang-sdk-53402-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 21 | [6](#dart-lang-sdk-56186-graph)
-Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
-Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
-Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 6 | [6](#dart-lang-sdk-60236-graph)
 Support glob pattern in workspace feature [dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) | 6 | [6](#dart-lang-sdk-60066-graph)
+Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
+Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 6 | [6](#dart-lang-sdk-60236-graph)
+Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 Interop: Objective C & Swift [dart-lang/sdk#49673](https://github.com/dart-lang/sdk/issues/49673) | 39 | [5](#dart-lang-sdk-49673-graph)
 
 ### Dart language
@@ -405,7 +405,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 88 total reactions, 88 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 89 total reactions, 89 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -414,7 +414,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 21, 43, 60, 75, 88]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 21, 43, 60, 75, 89]
   ```
 
   </details>
@@ -1865,9 +1865,9 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-131625-graph"></a>
+### [go_router] support popUntil
+  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 42 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1876,7 +1876,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
-    line [35, 35, 35, 38, 40, 40, 40, 40, 40, 42, 42, 42, 42]
+    line [36, 37, 37, 37, 39, 39, 39, 39, 41, 42, 42, 42, 42]
   ```
 
   </details>
@@ -1899,9 +1899,9 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-131625-graph"></a>
-### [go_router] support popUntil
-  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 42 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1910,7 +1910,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions"
-    line [36, 37, 37, 37, 39, 39, 39, 39, 41, 42, 42, 42, 42]
+    line [35, 35, 35, 38, 40, 40, 40, 40, 40, 42, 42, 42, 42]
   ```
 
   </details>
@@ -2171,6 +2171,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="dart-lang-sdk-60066-graph"></a>
+### Support glob pattern in workspace feature
+  <sub>[dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 4, 5, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-60106-graph"></a>
 ### Macro follow-up: With macros gone, how can code-generators be composed?
   <sub>[dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2183,23 +2200,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions" 0 --> 20
     line [0, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-60244-graph"></a>
-### Automate the creation of data-driven fix data
-  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2222,9 +2222,9 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60066-graph"></a>
-### Support glob pattern in workspace feature
-  <sub>[dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60244-graph"></a>
+### Automate the creation of data-driven fix data
+  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2233,7 +2233,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 4, 5, 6]
+    line [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
