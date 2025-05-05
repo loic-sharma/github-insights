@@ -10,14 +10,14 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 136 | [136](#dart-lang-language-4271-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 125 | [125](#flutter-flutter-162960-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 90 | [90](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 91 | [91](#flutter-flutter-166333-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1312 | [78](#flutter-flutter-53041-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 170 | [69](#dart-lang-sdk-55281-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2222 | [49](#dart-lang-language-314-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 176 | [42](#flutter-flutter-142845-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 30 | [30](#flutter-flutter-163845-graph)
-Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 29 | [29](#dart-lang-sdk-60335-graph)
+Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 30 | [30](#dart-lang-sdk-60335-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 85 | [26](#flutter-flutter-153092-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 353 | [23](#flutter-flutter-110431-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 57 | [23](#dart-lang-sdk-57036-graph)
@@ -99,8 +99,8 @@ Issue | Total reactions | Recent reactions
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 85 | [8](#flutter-flutter-124205-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 175 | [6](#flutter-flutter-25841-graph)
-Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 130 | [6](#flutter-flutter-99606-graph)
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 23 | [6](#flutter-flutter-149753-graph)
+Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 129 | [5](#flutter-flutter-99606-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 78 | 4
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 35 | 4
 Expose low level IME interactions [flutter/flutter#150460](https://github.com/flutter/flutter/issues/150460) | 31 | 4
@@ -185,7 +185,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 90 | [90](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 91 | [91](#flutter-flutter-166333-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 30 | [30](#flutter-flutter-163845-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 353 | [23](#flutter-flutter-110431-graph)
 hot restart locks up on iOS [flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) | 22 | [22](#flutter-flutter-165656-graph)
@@ -296,7 +296,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 170 | [69](#dart-lang-sdk-55281-graph)
-Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 29 | [29](#dart-lang-sdk-60335-graph)
+Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 30 | [30](#dart-lang-sdk-60335-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 57 | [23](#dart-lang-sdk-57036-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 198 | [22](#dart-lang-sdk-50565-graph)
 Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) | 20 | [20](#dart-lang-sdk-60518-graph)
@@ -305,10 +305,10 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 83 | [10](#dart-lang-sdk-53402-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 21 | [6](#dart-lang-sdk-56186-graph)
-Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 Support glob pattern in workspace feature [dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) | 6 | [6](#dart-lang-sdk-60066-graph)
-Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
 Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 6 | [6](#dart-lang-sdk-60236-graph)
+Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
+Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 Interop: Objective C & Swift [dart-lang/sdk#49673](https://github.com/dart-lang/sdk/issues/49673) | 39 | [5](#dart-lang-sdk-49673-graph)
 
 ### Dart language
@@ -405,7 +405,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 90 total reactions, 90 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 91 total reactions, 91 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -414,7 +414,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 21, 43, 60, 75, 89, 90]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 21, 43, 60, 75, 89, 91]
   ```
 
   </details>
@@ -524,7 +524,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
 
 <a name="dart-lang-sdk-60335-graph"></a>
 ### Potential analyzer regression in 3.7 / Flutter 3.29 release
-  <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 29 total reactions, 29 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 30 total reactions, 30 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -533,7 +533,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 12, 20, 22, 27, 29, 29]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 12, 20, 22, 27, 29, 30]
   ```
 
   </details>
@@ -1831,9 +1831,9 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-131625-graph"></a>
-### [go_router] support popUntil
-  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 42 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1842,7 +1842,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
-    line [36, 37, 37, 37, 39, 39, 39, 39, 41, 42, 42, 42, 42, 42]
+    line [35, 35, 35, 38, 40, 40, 40, 40, 40, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -1865,9 +1865,9 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-131625-graph"></a>
+### [go_router] support popUntil
+  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 42 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1876,7 +1876,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
-    line [35, 35, 35, 38, 40, 40, 40, 40, 40, 42, 42, 42, 42, 42]
+    line [36, 37, 37, 37, 39, 39, 39, 39, 41, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -1962,23 +1962,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [169, 169, 168, 168, 168, 169, 169, 169, 169, 170, 170, 175, 175, 175]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-99606-graph"></a>
-### Ability to change the keyboard language programmatically
-  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 130 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [124, 124, 125, 126, 126, 126, 127, 127, 128, 128, 129, 129, 130, 130]
   ```
 
   </details>
@@ -2137,23 +2120,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60244-graph"></a>
-### Automate the creation of data-driven fix data
-  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60066-graph"></a>
 ### Support glob pattern in workspace feature
   <sub>[dart-lang/sdk#60066](https://github.com/dart-lang/sdk/issues/60066) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2166,6 +2132,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 4, 5, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60236-graph"></a>
+### Dart compiler crash
+  <sub>[dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 6, 6, 6]
   ```
 
   </details>
@@ -2188,9 +2171,9 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60236-graph"></a>
-### Dart compiler crash
-  <sub>[dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-60244-graph"></a>
+### Automate the creation of data-driven fix data
+  <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2199,7 +2182,7 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 6, 6, 6]
+    line [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2268,6 +2251,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [130, 130, 130, 131, 131, 135, 135, 135, 135, 135, 135, 135, 135, 135]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-99606-graph"></a>
+### Ability to change the keyboard language programmatically
+  <sub>[flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) &mdash; 129 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [124, 124, 125, 126, 126, 126, 127, 127, 128, 128, 129, 129, 130, 129]
   ```
 
   </details>
