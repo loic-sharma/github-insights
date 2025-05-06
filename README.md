@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-02-03 to 2025-05-05.
+Issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -16,8 +16,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2222 | [49](#dart-lang-language-314-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 43 | [43](#flutter-flutter-162945-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 176 | [42](#flutter-flutter-142845-graph)
+Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 34 | [34](#flutter-flutter-163845-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 30 | [30](#dart-lang-sdk-60335-graph)
-Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 30 | [30](#flutter-flutter-163845-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 85 | [26](#flutter-flutter-153092-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 353 | [23](#flutter-flutter-110431-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 57 | [23](#dart-lang-sdk-57036-graph)
@@ -28,7 +28,7 @@ Flutter adds additional one frame touch latency compared to native [flutter/flut
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-framework` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Reusing state logic is either too verbose or too difficult [flutter/flutter#5175
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-design` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`f: cupertino` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 534 | [406](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Support iOS 13 CupertinoContextMenu Submenu [flutter/flutter#42796](https://gith
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-go_router` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -136,7 +136,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-tool` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -158,7 +158,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-engine` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 210 | [14](#flutter-flutter-61229-graph)
@@ -181,12 +181,12 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-ios` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 92 | [92](#flutter-flutter-166333-graph)
-Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 30 | [30](#flutter-flutter-163845-graph)
+Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 34 | [34](#flutter-flutter-163845-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 353 | [23](#flutter-flutter-110431-graph)
 hot restart locks up on iOS [flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) | 22 | [22](#flutter-flutter-165656-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 284 | [11](#flutter-flutter-28901-graph)
@@ -203,7 +203,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-android` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -225,7 +225,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-web` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -247,7 +247,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -269,7 +269,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`team-ecosystem` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -291,7 +291,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`dart-lang/sdk` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -313,7 +313,7 @@ Macro follow-up: With macros gone, how can code-generators be composed? [dart-la
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-02-03 to 2025-05-05.
+`dart-lang/language` issues that received the most reactions from 2025-02-03 to 2025-05-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -505,6 +505,23 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-163845-graph"></a>
+### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
+  <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 34 total reactions, 34 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 20, 21, 21, 22, 22, 26, 34]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-60335-graph"></a>
 ### Potential analyzer regression in 3.7 / Flutter 3.29 release
   <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 30 total reactions, 30 recent reactions</sub><br />
@@ -517,23 +534,6 @@ Mixin composition [dart-lang/language#540](https://github.com/dart-lang/language
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 12, 20, 22, 27, 29, 30]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-163845-graph"></a>
-### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
-  <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 30 total reactions, 30 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 20, 21, 21, 22, 22, 26, 30]
   ```
 
   </details>
