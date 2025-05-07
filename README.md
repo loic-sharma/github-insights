@@ -208,7 +208,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 50 | [19](#flutter-flutter-139427-graph)
-[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 55 | [15](#flutter-flutter-145961-graph)
+[camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 57 | [17](#flutter-flutter-145961-graph)
 The video player `value.isBuffering` always return true after `seekTo` any position [flutter/flutter#165149](https://github.com/flutter/flutter/issues/165149) | 15 | [15](#flutter-flutter-165149-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 26 | [12](#flutter-flutter-151638-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 382 | [11](#flutter-flutter-83596-graph)
@@ -811,6 +811,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
+<a name="flutter-flutter-145961-graph"></a>
+### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
+  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 57 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [42, 44, 44, 44, 47, 48, 50, 50, 52, 53, 53, 53, 55, 57]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4343-graph"></a>
 ### Case expressions
   <sub>[dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -891,23 +908,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [68, 69, 71, 73, 74, 76, 76, 76, 77, 80, 81, 82, 83, 83]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-145961-graph"></a>
-### [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21
-  <sub>[flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) &mdash; 55 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 3, Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [42, 44, 44, 44, 47, 48, 50, 50, 52, 53, 53, 53, 55, 55]
   ```
 
   </details>
