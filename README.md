@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-02-10 to 2025-05-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 535 | [407](#flutter-flutter-101479-graph)
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 418 | [366](#flutter-flutter-66618-graph)
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 422 | [370](#flutter-flutter-66618-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 137 | [137](#dart-lang-language-4271-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 125 | [125](#flutter-flutter-162960-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
@@ -86,8 +86,8 @@ Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/fl
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 53 | 1
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 22 | 1
 Support iOS 13 CupertinoContextMenu Submenu [flutter/flutter#42796](https://github.com/flutter/flutter/issues/42796) | 17 | 1
-Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 15 | 1
 [iOS] Light/Dark mode on iOS should change in the background [flutter/flutter#43806](https://github.com/flutter/flutter/issues/43806) | 15 | 1
+Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 15 | 1
 Fullscreen version of CupertinoSheetRoute [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | 0
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 79 | 0
 
@@ -148,8 +148,8 @@ Allow to provide compile-time variables for native platforms from a file [flutte
 Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.com/flutter/flutter/issues/59430) | 87 | [6](#flutter-flutter-59430-graph)
  flutter run --watch option [flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) | 26 | [6](#flutter-flutter-136494-graph)
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | [5](#flutter-flutter-79952-graph)
-Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 79 | [5](#flutter-flutter-77104-graph)
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 79 | [5](#flutter-flutter-64106-graph)
+Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 79 | [5](#flutter-flutter-77104-graph)
 Let flutter be installable via homebrew [flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) | 1012 | 3
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 283 | 3
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 130 | 3
@@ -161,7 +161,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 `team-engine` issues that received the most reactions from 2025-02-10 to 2025-05-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 418 | [366](#flutter-flutter-66618-graph)
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 422 | [370](#flutter-flutter-66618-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 532 | [13](#flutter-flutter-26801-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 210 | [12](#flutter-flutter-61229-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 49 | [11](#flutter-flutter-127852-graph)
@@ -305,8 +305,8 @@ Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 544 | [18](#dart-lang-sdk-28617-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 21 | [6](#dart-lang-sdk-56186-graph)
-Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 6 | [6](#dart-lang-sdk-60236-graph)
 Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
+Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 6 | [6](#dart-lang-sdk-60236-graph)
 Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
 [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 61 | [5](#dart-lang-sdk-46690-graph)
 Missing inspections for unused class, unused public methods and properties [dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358) | 52 | [5](#dart-lang-sdk-42358-graph)
@@ -324,8 +324,8 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 22 | [22](#dart-lang-language-4275-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 18 | [18](#dart-lang-language-4343-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 32 | [14](#dart-lang-language-4200-graph)
-Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 14 | [14](#dart-lang-language-4321-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
+Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 14 | [14](#dart-lang-language-4321-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 13 | [13](#dart-lang-language-4317-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 407 | [12](#dart-lang-language-356-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 240 | [12](#dart-lang-language-2364-graph)
@@ -354,7 +354,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-66618-graph"></a>
 ### WebGPU in Flutter
-  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 418 total reactions, 366 recent reactions</sub><br />
+  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 422 total reactions, 370 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -363,7 +363,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
-    line [52, 52, 52, 53, 53, 54, 55, 56, 56, 56, 56, 56, 418]
+    line [52, 52, 52, 53, 53, 54, 55, 56, 56, 56, 56, 56, 422]
   ```
 
   </details>
@@ -964,23 +964,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-language-4321-graph"></a>
-### Introduce throws keyword (like Swift) for marking throwable functions
-  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 13, 13, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-165502-graph"></a>
 ### [proposal] blankcanvas 2.0
   <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1010,6 +993,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 10, 13, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4321-graph"></a>
+### Introduce throws keyword (like Swift) for marking throwable functions
+  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 6, 10, 13, 13, 14]
   ```
 
   </details>
@@ -2188,23 +2188,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60236-graph"></a>
-### Dart compiler crash
-  <sub>[dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60244-graph"></a>
 ### Automate the creation of data-driven fix data
   <sub>[dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2217,6 +2200,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60236-graph"></a>
+### Dart compiler crash
+  <sub>[dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 6, 6, 6]
   ```
 
   </details>
@@ -2341,23 +2341,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-77104-graph"></a>
-### Enable custom "flutter create" templates
-  <sub>[flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) &mdash; 79 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [75, 75, 75, 75, 75, 75, 77, 77, 78, 78, 78, 78, 79]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-64106-graph"></a>
 ### Tree shake unused assets
   <sub>[flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) &mdash; 79 total reactions, 5 recent reactions</sub><br />
@@ -2370,6 +2353,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [74, 74, 74, 74, 77, 77, 77, 77, 79, 79, 79, 79, 79]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-77104-graph"></a>
+### Enable custom "flutter create" templates
+  <sub>[flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) &mdash; 79 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [75, 75, 75, 75, 75, 75, 77, 77, 78, 78, 78, 78, 79]
   ```
 
   </details>
@@ -2511,23 +2511,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-53059-graph"></a>
-### Suggestion: decouple more widgets from Android/iOS design guidelines
-  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 42 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [39, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91247-graph"></a>
 ### Flutter Camera plugin camera lens change
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 42 total reactions, 5 recent reactions</sub><br />
@@ -2540,6 +2523,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [37, 37, 37, 37, 37, 37, 37, 40, 40, 40, 41, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-53059-graph"></a>
+### Suggestion: decouple more widgets from Android/iOS design guidelines
+  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 42 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [39, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
   ```
 
   </details>
