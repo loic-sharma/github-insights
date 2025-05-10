@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-02-10 to 2025-05-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 535 | [407](#flutter-flutter-101479-graph)
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 400 | [348](#flutter-flutter-66618-graph)
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 408 | [356](#flutter-flutter-66618-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 137 | [137](#dart-lang-language-4271-graph)
 ☂️Packages planned to be discontinued [flutter/flutter#162960](https://github.com/flutter/flutter/issues/162960) | 125 | [125](#flutter-flutter-162960-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
@@ -109,8 +109,8 @@ Expose low level IME interactions [flutter/flutter#150460](https://github.com/fl
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 23 | 3
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 122 | 2
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 62 | 2
-[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 20 | 2
 Add ability for text field TextInputAction to be dynamic [flutter/flutter#30331](https://github.com/flutter/flutter/issues/30331) | 20 | 2
+[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 20 | 2
 
 #### go_router
 
@@ -161,7 +161,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 `team-engine` issues that received the most reactions from 2025-02-10 to 2025-05-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 400 | [348](#flutter-flutter-66618-graph)
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 408 | [356](#flutter-flutter-66618-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 532 | [13](#flutter-flutter-26801-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 210 | [12](#flutter-flutter-61229-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 49 | [11](#flutter-flutter-127852-graph)
@@ -212,7 +212,7 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 The video player `value.isBuffering` always return true after `seekTo` any position [flutter/flutter#165149](https://github.com/flutter/flutter/issues/165149) | 15 | [15](#flutter-flutter-165149-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 27 | [12](#flutter-flutter-151638-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 382 | [11](#flutter-flutter-83596-graph)
-PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 36 | [8](#flutter-flutter-81804-graph)
+PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 37 | [9](#flutter-flutter-81804-graph)
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 40 | [6](#flutter-flutter-110928-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 66 | [5](#flutter-flutter-105395-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 42 | [5](#flutter-flutter-91247-graph)
@@ -305,8 +305,8 @@ Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 544 | [18](#dart-lang-sdk-28617-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 21 | [6](#dart-lang-sdk-56186-graph)
-Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
 Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 6 | [6](#dart-lang-sdk-60236-graph)
+Macro follow-up: With macros gone, how can code-generators be composed? [dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) | 6 | [6](#dart-lang-sdk-60106-graph)
 Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 61 | [5](#dart-lang-sdk-46690-graph)
 Missing inspections for unused class, unused public methods and properties [dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358) | 52 | [5](#dart-lang-sdk-42358-graph)
@@ -324,8 +324,8 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 21 | [21](#dart-lang-language-4275-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 18 | [18](#dart-lang-language-4343-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 32 | [14](#dart-lang-language-4200-graph)
-Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 14 | [14](#dart-lang-language-4321-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
+Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 14 | [14](#dart-lang-language-4321-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 13 | [13](#dart-lang-language-4317-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 407 | [12](#dart-lang-language-356-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 240 | [12](#dart-lang-language-2364-graph)
@@ -354,7 +354,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-66618-graph"></a>
 ### WebGPU in Flutter
-  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 400 total reactions, 348 recent reactions</sub><br />
+  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 408 total reactions, 356 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -363,7 +363,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
-    line [52, 52, 52, 53, 53, 54, 55, 56, 56, 56, 56, 56, 400]
+    line [52, 52, 52, 53, 53, 54, 55, 56, 56, 56, 56, 56, 408]
   ```
 
   </details>
@@ -964,9 +964,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-165502-graph"></a>
-### [proposal] blankcanvas 2.0
-  <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -975,7 +975,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+    line [0, 0, 0, 0, 0, 10, 13, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -998,9 +998,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-165502-graph"></a>
+### [proposal] blankcanvas 2.0
+  <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1009,7 +1009,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 10, 13, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
@@ -1576,6 +1576,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-81804-graph"></a>
+### PlatformException VideoError, Video Player had error
+  <sub>[flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) &mdash; 37 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [29, 29, 29, 29, 30, 30, 30, 31, 33, 35, 35, 36, 37]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-55324-graph"></a>
 ### Support Firefox as a browser in flutter run
   <sub>[flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) &mdash; 212 total reactions, 8 recent reactions</sub><br />
@@ -1639,23 +1656,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [85, 87, 87, 88, 88, 88, 89, 90, 90, 90, 90, 91, 92]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-81804-graph"></a>
-### PlatformException VideoError, Video Player had error
-  <sub>[flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) &mdash; 36 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [29, 29, 29, 29, 30, 30, 30, 31, 33, 35, 35, 36, 36]
   ```
 
   </details>
@@ -1848,23 +1848,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 42 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [35, 35, 38, 40, 40, 40, 40, 40, 42, 42, 42, 42, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-152588-graph"></a>
 ### Scroll "back" on web causes browser back action (unless perfectly horizontal)
   <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 42 total reactions, 7 recent reactions</sub><br />
@@ -1877,6 +1860,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [35, 36, 36, 37, 37, 38, 38, 40, 41, 42, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [35, 35, 38, 40, 40, 40, 40, 40, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -2137,23 +2137,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-sdk-56186-graph"></a>
-### ☂️ Documentation imports
-  <sub>[dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) &mdash; 21 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [0, 18, 18, 18, 19, 19, 19, 19, 19, 19, 21, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-98994-graph"></a>
 ### Support flavors for Windows
   <sub>[flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) &mdash; 21 total reactions, 6 recent reactions</sub><br />
@@ -2166,6 +2149,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [15, 15, 16, 17, 17, 17, 19, 20, 20, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56186-graph"></a>
+### ☂️ Documentation imports
+  <sub>[dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) &mdash; 21 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [0, 18, 18, 18, 19, 19, 19, 19, 19, 19, 21, 21, 21]
   ```
 
   </details>
@@ -2188,23 +2188,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60106-graph"></a>
-### Macro follow-up: With macros gone, how can code-generators be composed?
-  <sub>[dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions" 0 --> 20
-    line [5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60236-graph"></a>
 ### Dart compiler crash
   <sub>[dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -2217,6 +2200,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60106-graph"></a>
+### Macro follow-up: With macros gone, how can code-generators be composed?
+  <sub>[dart-lang/sdk#60106](https://github.com/dart-lang/sdk/issues/60106) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions" 0 --> 20
+    line [5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -2511,23 +2511,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-91247-graph"></a>
-### Flutter Camera plugin camera lens change
-  <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 42 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
-    y-axis "Reactions"
-    line [37, 37, 37, 37, 37, 37, 37, 40, 40, 40, 41, 42, 42]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-53059-graph"></a>
 ### Suggestion: decouple more widgets from Android/iOS design guidelines
   <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 42 total reactions, 5 recent reactions</sub><br />
@@ -2540,6 +2523,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
     y-axis "Reactions"
     line [39, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-91247-graph"></a>
+### Flutter Camera plugin camera lens change
+  <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 42 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5]
+    y-axis "Reactions"
+    line [37, 37, 37, 37, 37, 37, 37, 40, 40, 40, 41, 42, 42]
   ```
 
   </details>
