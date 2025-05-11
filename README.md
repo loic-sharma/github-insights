@@ -86,8 +86,8 @@ Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/fl
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 53 | 1
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 22 | 1
 Support iOS 13 CupertinoContextMenu Submenu [flutter/flutter#42796](https://github.com/flutter/flutter/issues/42796) | 17 | 1
-[iOS] Light/Dark mode on iOS should change in the background [flutter/flutter#43806](https://github.com/flutter/flutter/issues/43806) | 15 | 1
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 15 | 1
+[iOS] Light/Dark mode on iOS should change in the background [flutter/flutter#43806](https://github.com/flutter/flutter/issues/43806) | 15 | 1
 Fullscreen version of CupertinoSheetRoute [flutter/flutter#33798](https://github.com/flutter/flutter/issues/33798) | 106 | 0
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 79 | 0
 
