@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-02-10 to 2025-05-12.
+Issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-framework` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-design` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Flutter slider should have the feature to show value indicator all the time, not
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`f: cupertino` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 535 | [407](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,7 +114,7 @@ Add ability for text field TextInputAction to be dynamic [flutter/flutter#30331]
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-go_router` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -136,12 +136,12 @@ Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#12
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-tool` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Native assets support [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 78 | [14](#flutter-flutter-129757-graph)
-Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 155 | [11](#flutter-flutter-65065-graph)
+Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 156 | [12](#flutter-flutter-65065-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 153 | [9](#flutter-flutter-46979-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 184 | [7](#flutter-flutter-139289-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 115 | [7](#flutter-flutter-107157-graph)
@@ -158,7 +158,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-engine` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 435 | [383](#flutter-flutter-66618-graph)
@@ -181,7 +181,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-ios` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -203,7 +203,7 @@ Video Player HDR Problem [flutter/flutter#91241](https://github.com/flutter/flut
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-android` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -225,7 +225,7 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-web` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -247,7 +247,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -269,7 +269,7 @@ Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`team-ecosystem` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -291,7 +291,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`dart-lang/sdk` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -313,7 +313,7 @@ Adhere to XDG base directory spec [dart-lang/sdk#41560](https://github.com/dart-
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-02-10 to 2025-05-12.
+`dart-lang/language` issues that received the most reactions from 2025-02-10 to 2025-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1117,6 +1117,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-65065-graph"></a>
+### Bundling assets only on a specific platform (and remove assets on another platform)
+  <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 156 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12]
+    y-axis "Reactions"
+    line [145, 146, 147, 147, 148, 148, 148, 153, 154, 155, 155, 155, 155, 156]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-48381-graph"></a>
 ### Use a system default font on flutter
   <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 92 total reactions, 12 recent reactions</sub><br />
@@ -1214,23 +1231,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12]
     y-axis "Reactions"
     line [274, 274, 277, 278, 279, 279, 279, 279, 279, 282, 283, 283, 284, 284]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65065-graph"></a>
-### Bundling assets only on a specific platform (and remove assets on another platform)
-  <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 155 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 10, Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12]
-    y-axis "Reactions"
-    line [145, 146, 147, 147, 148, 148, 148, 153, 154, 155, 155, 155, 155, 155]
   ```
 
   </details>
