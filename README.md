@@ -16,8 +16,8 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 188 | [42](#flutter-flutter-142845-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1313 | [41](#flutter-flutter-53041-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2230 | [38](#dart-lang-language-314-graph)
-Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 35 | [35](#dart-lang-sdk-60335-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 35 | [35](#flutter-flutter-163845-graph)
+Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 35 | [35](#dart-lang-sdk-60335-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1155 | [26](#dart-lang-language-723-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 90 | [26](#flutter-flutter-153092-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 42 | [25](#dart-lang-sdk-56841-graph)
@@ -59,7 +59,7 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 22 | [22](#flutter-flutter-165502-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 90 | [16](#flutter-flutter-36283-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 92 | [12](#flutter-flutter-48381-graph)
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 124 | [8](#flutter-flutter-102560-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 125 | [9](#flutter-flutter-102560-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 299 | [7](#flutter-flutter-21594-graph)
 Should the modal barrier of an Alert also change the color of the status bar? [flutter/flutter#24969](https://github.com/flutter/flutter/issues/24969) | 23 | [7](#flutter-flutter-24969-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 44 | [6](#flutter-flutter-162945-graph)
@@ -241,7 +241,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 87 | [10](#flutter-flutter-124205-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 197 | [9](#flutter-flutter-69529-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 58 | [8](#flutter-flutter-129933-graph)
-[web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 45 | [6](#flutter-flutter-51530-graph)
+[web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 46 | [7](#flutter-flutter-51530-graph)
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 20 | [6](#flutter-flutter-136118-graph)
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 52 | [5](#flutter-flutter-64073-graph)
 
@@ -285,7 +285,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 87 | [10](#flutter-flutter-124205-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 197 | [9](#flutter-flutter-69529-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 58 | [8](#flutter-flutter-129933-graph)
-[web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 45 | [6](#flutter-flutter-51530-graph)
+[web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 46 | [7](#flutter-flutter-51530-graph)
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 20 | [6](#flutter-flutter-136118-graph)
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 52 | [5](#flutter-flutter-64073-graph)
 
@@ -505,23 +505,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60335-graph"></a>
-### Potential analyzer regression in 3.7 / Flutter 3.29 release
-  <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 35 total reactions, 35 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 12, 20, 22, 27, 29, 32, 33, 35]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-163845-graph"></a>
 ### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
   <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 35 total reactions, 35 recent reactions</sub><br />
@@ -534,6 +517,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 20, 21, 21, 22, 22, 26, 34, 35, 35]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60335-graph"></a>
+### Potential analyzer regression in 3.7 / Flutter 3.29 release
+  <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 35 total reactions, 35 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 12, 20, 22, 27, 29, 32, 33, 35]
   ```
 
   </details>
@@ -709,23 +709,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-165502-graph"></a>
-### [proposal] blankcanvas 2.0
-  <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 22 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 19, 22]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4275-graph"></a>
 ### Allow punctuation based alternatives to keywords?
   <sub>[dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -738,6 +721,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [0, 15, 17, 17, 17, 16, 17, 20, 20, 21, 21, 22, 22, 22]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-165502-graph"></a>
+### [proposal] blankcanvas 2.0
+  <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 19, 22]
   ```
 
   </details>
@@ -1389,23 +1389,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-81005-graph"></a>
-### Jump to index in sliver world
-  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 46 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [37, 37, 37, 37, 39, 41, 41, 42, 44, 44, 45, 44, 44, 46]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-152588-graph"></a>
 ### Scroll "back" on web causes browser back action (unless perfectly horizontal)
   <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 46 total reactions, 11 recent reactions</sub><br />
@@ -1418,6 +1401,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [36, 36, 37, 37, 38, 38, 40, 41, 42, 42, 42, 42, 45, 46]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-81005-graph"></a>
+### Jump to index in sliver world
+  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 46 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [37, 37, 37, 37, 39, 41, 41, 42, 44, 44, 45, 44, 44, 46]
   ```
 
   </details>
@@ -1542,6 +1542,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 125 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [116, 116, 119, 119, 119, 120, 120, 120, 120, 120, 120, 122, 124, 125]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-134346-graph"></a>
 ### Make Windows plugin APIs thread-safe
   <sub>[flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) &mdash; 55 total reactions, 9 recent reactions</sub><br />
@@ -1605,23 +1622,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [202, 202, 203, 204, 206, 206, 207, 207, 208, 210, 210, 210, 210, 210]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 124 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [116, 116, 119, 119, 119, 120, 120, 120, 120, 120, 120, 122, 124, 124]
   ```
 
   </details>
@@ -1848,6 +1848,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-51530-graph"></a>
+### [web]: Support for backend proxy
+  <sub>[flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) &mdash; 46 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [39, 40, 40, 40, 40, 41, 41, 41, 41, 41, 41, 41, 41, 46]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-91247-graph"></a>
 ### Flutter Camera plugin camera lens change
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 44 total reactions, 7 recent reactions</sub><br />
@@ -2064,23 +2081,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [49, 52, 52, 52, 52, 52, 52, 53, 53, 53, 53, 54, 55, 55]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-51530-graph"></a>
-### [web]: Support for backend proxy
-  <sub>[flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) &mdash; 45 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [39, 40, 40, 40, 40, 41, 41, 41, 41, 41, 41, 41, 41, 45]
   ```
 
   </details>
@@ -2392,23 +2392,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-64073-graph"></a>
-### [google_maps_flutter_web] Add "My Location" Widget.
-  <sub>[flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) &mdash; 52 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [48, 48, 48, 48, 48, 48, 48, 48, 49, 51, 52, 52, 52, 52]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-42358-graph"></a>
 ### Missing inspections for unused class, unused public methods and properties
   <sub>[dart-lang/sdk#42358](https://github.com/dart-lang/sdk/issues/42358) &mdash; 52 total reactions, 5 recent reactions</sub><br />
@@ -2421,6 +2404,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [48, 48, 49, 49, 50, 50, 50, 50, 51, 51, 51, 52, 52, 52]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-64073-graph"></a>
+### [google_maps_flutter_web] Add "My Location" Widget.
+  <sub>[flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) &mdash; 52 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [48, 48, 48, 48, 48, 48, 48, 48, 49, 51, 52, 52, 52, 52]
   ```
 
   </details>
