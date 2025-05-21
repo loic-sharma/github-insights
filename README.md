@@ -2,20 +2,20 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-02-17 to 2025-05-20.
+Issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 436 | [384](#flutter-flutter-66618-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 273 | [273](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 277 | [277](#flutter-flutter-168813-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 154 | [154](#dart-lang-language-4271-graph)
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 114 | [114](#flutter-flutter-166333-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 175 | [67](#dart-lang-sdk-55281-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 550 | [60](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 552 | [62](#flutter-flutter-101479-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 188 | [42](#flutter-flutter-142845-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1313 | [41](#flutter-flutter-53041-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2230 | [38](#dart-lang-language-314-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 184 | [38](#flutter-flutter-142845-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 35 | [35](#flutter-flutter-163845-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 35 | [35](#dart-lang-sdk-60335-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1155 | [26](#dart-lang-language-723-graph)
@@ -28,12 +28,12 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-framework` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal: Set `debugShowCheckedModeBanner` Default to false [flutter/flutter#163443](https://github.com/flutter/flutter/issues/163443) | 117 | [117](#flutter-flutter-163443-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 184 | [38](#flutter-flutter-142845-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 188 | [42](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 693 | [23](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 198 | [15](#flutter-flutter-65504-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 254 | [12](#flutter-flutter-54200-graph)
@@ -50,12 +50,12 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-design` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 273 | [273](#flutter-flutter-168813-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 550 | [60](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 277 | [277](#flutter-flutter-168813-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 552 | [62](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 22 | [22](#flutter-flutter-165502-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 90 | [16](#flutter-flutter-36283-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 92 | [12](#flutter-flutter-48381-graph)
@@ -72,10 +72,10 @@ Flutter slider should have the feature to show value indicator all the time, not
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`f: cupertino` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 550 | [60](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 552 | [62](#flutter-flutter-101479-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 44 | [6](#flutter-flutter-162945-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 27 | [6](#flutter-flutter-150824-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 118 | 2
@@ -93,7 +93,7 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-go_router` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -136,7 +136,7 @@ PopScope seems to be incompatible with GoRouter [flutter/flutter#138737](https:/
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-tool` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -158,7 +158,7 @@ flutter test --coverage and flutter test --watch [flutter/flutter#4719](https://
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-engine` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 436 | [384](#flutter-flutter-66618-graph)
@@ -181,7 +181,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-ios` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -203,7 +203,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-android` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -225,7 +225,7 @@ Add support for Android 13 per-app language preferences  [flutter/flutter#109842
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-web` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -247,7 +247,7 @@ Integrate Navigator 2.0 and state restoration for the web [flutter/flutter#65777
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -269,7 +269,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`team-ecosystem` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -291,7 +291,7 @@ Integrate Navigator 2.0 and state restoration for the web [flutter/flutter#65777
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`dart-lang/sdk` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -300,8 +300,8 @@ Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 42 | [25](#dart-lang-sdk-56841-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 60 | [24](#dart-lang-sdk-57036-graph)
 ☂️ [vm/ffi] Native assets feature [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 198 | [22](#dart-lang-sdk-50565-graph)
+Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 547 | [20](#dart-lang-sdk-28617-graph)
 Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) | 20 | [20](#dart-lang-sdk-60518-graph)
-Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 546 | [19](#dart-lang-sdk-28617-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 92 | [17](#dart-lang-sdk-53402-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 7 | [7](#dart-lang-sdk-60236-graph)
@@ -313,7 +313,7 @@ Missing inspections for unused class, unused public methods and properties [dart
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-02-17 to 2025-05-20.
+`dart-lang/language` issues that received the most reactions from 2025-02-17 to 2025-05-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -354,7 +354,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 273 total reactions, 273 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 277 total reactions, 277 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -363,7 +363,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 273]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 277]
   ```
 
   </details>
@@ -439,7 +439,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 550 total reactions, 60 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 552 total reactions, 62 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -448,7 +448,24 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
-    line [517, 518, 521, 522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 550]
+    line [517, 518, 521, 522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 552]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-142845-graph"></a>
+### ☂️ Multi View for Windows/MacOS
+  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 188 total reactions, 42 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [147, 152, 155, 162, 165, 168, 172, 173, 174, 175, 176, 180, 181, 188]
   ```
 
   </details>
@@ -483,23 +500,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [2196, 2203, 2206, 2207, 2211, 2215, 2217, 2218, 2220, 2221, 2222, 2224, 2230, 2230]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-142845-graph"></a>
-### ☂️ Multi View for Windows/MacOS
-  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 184 total reactions, 38 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [147, 152, 155, 162, 165, 168, 172, 173, 174, 175, 176, 180, 181, 184]
   ```
 
   </details>
@@ -743,6 +743,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="dart-lang-sdk-28617-graph"></a>
+### Allow AOT executables to be cross-compiled
+  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 547 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [528, 528, 533, 534, 536, 538, 539, 539, 540, 541, 542, 544, 546, 547]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-60518-graph"></a>
 ### Lint and fix suggestion: `simplify_variable_pattern`
   <sub>[dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -755,23 +772,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 19, 19, 19, 20, 20, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-28617-graph"></a>
-### Allow AOT executables to be cross-compiled
-  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 546 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [528, 528, 533, 534, 536, 538, 539, 539, 540, 541, 542, 544, 546, 546]
   ```
 
   </details>
