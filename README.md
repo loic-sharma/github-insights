@@ -167,8 +167,8 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 316 | [10](#flutter-flutter-18443-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | [10](#flutter-flutter-25841-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 210 | [8](#flutter-flutter-61229-graph)
+String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 93 | [8](#flutter-flutter-55870-graph)
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 50 | [8](#flutter-flutter-67034-graph)
-String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 92 | [7](#flutter-flutter-55870-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 42 | [7](#flutter-flutter-146860-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2022 | [6](#flutter-flutter-14330-graph)
 text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 55 | [6](#flutter-flutter-63043-graph)
@@ -327,8 +327,8 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 243 | [15](#dart-lang-language-2364-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 33 | [15](#dart-lang-language-4200-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [14](#dart-lang-language-356-graph)
-Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
+Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 13 | [13](#dart-lang-language-4373-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1681 | [12](#dart-lang-language-1482-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 240 | [11](#dart-lang-language-524-graph)
@@ -1032,23 +1032,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4317-graph"></a>
-### Optionally imported libraries.
-  <sub>[dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 9, 9, 11, 11, 11, 13, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4298-graph"></a>
 ### Easier loop for maps
   <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1061,6 +1044,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4317-graph"></a>
+### Optionally imported libraries.
+  <sub>[dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 9, 9, 11, 11, 11, 13, 14, 14]
   ```
 
   </details>
@@ -1627,6 +1627,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-55870-graph"></a>
+### String.fromEnvironment without a const silently does the wrong thing in the VM
+  <sub>[flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) &mdash; 93 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [87, 87, 88, 88, 88, 89, 90, 90, 90, 90, 91, 92, 92, 93]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-129933-graph"></a>
 ### [Flutter-web] Control+MouseWheel should zoom the browser window
   <sub>[flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) &mdash; 58 total reactions, 8 recent reactions</sub><br />
@@ -1809,23 +1826,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [109, 109, 110, 110, 111, 111, 112, 112, 113, 113, 113, 115, 115, 115]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-55870-graph"></a>
-### String.fromEnvironment without a const silently does the wrong thing in the VM
-  <sub>[flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) &mdash; 92 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 17, Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [87, 87, 88, 88, 88, 89, 90, 90, 90, 90, 91, 92, 92, 92]
   ```
 
   </details>
