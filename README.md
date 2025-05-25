@@ -6,21 +6,21 @@ Issues that received the most reactions from 2025-02-24 to 2025-05-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 439 | [387](#flutter-flutter-66618-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 333 | [333](#flutter-flutter-168813-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 124 | [124](#flutter-flutter-166333-graph)
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 163 | [113](#dart-lang-language-4271-graph)
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [386](#flutter-flutter-66618-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 344 | [344](#flutter-flutter-168813-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 126 | [126](#flutter-flutter-166333-graph)
+static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 164 | [114](#dart-lang-language-4271-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 178 | [61](#dart-lang-sdk-55281-graph)
+analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 45 | [45](#dart-lang-sdk-60784-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 191 | [44](#flutter-flutter-142845-graph)
-analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 41 | [41](#dart-lang-sdk-60784-graph)
 Enable "hot reload" (not just "hot restart") for Flutter Web [flutter/flutter#53041](https://github.com/flutter/flutter/issues/53041) | 1313 | [39](#flutter-flutter-53041-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 554 | [37](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 555 | [38](#flutter-flutter-101479-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 35 | [35](#dart-lang-sdk-60335-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1074 | [34](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2231 | [33](#dart-lang-language-314-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 203 | [27](#dart-lang-sdk-50565-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 92 | [27](#flutter-flutter-153092-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1156 | [24](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1157 | [25](#dart-lang-language-723-graph)
 
 ## Trending issues by team
 
@@ -40,8 +40,8 @@ Maintain scroll location to prevent content jumping when network images or dynam
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 162 | [11](#flutter-flutter-32120-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 46 | [9](#flutter-flutter-81005-graph)
  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse [flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) | 28 | [9](#flutter-flutter-160144-graph)
-Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 254 | [8](#flutter-flutter-54200-graph)
 [Proposal] Allow to adjust hitSlop of GestureDetector [flutter/flutter#18554](https://github.com/flutter/flutter/issues/18554) | 27 | [8](#flutter-flutter-18554-graph)
+Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 253 | [7](#flutter-flutter-54200-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 236 | [7](#flutter-flutter-138614-graph)
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 298 | [6](#flutter-flutter-51752-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 191 | [6](#flutter-flutter-45336-graph)
@@ -54,8 +54,8 @@ SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/iss
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 333 | [333](#flutter-flutter-168813-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 554 | [37](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 344 | [344](#flutter-flutter-168813-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 555 | [38](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 23 | [23](#flutter-flutter-165502-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 90 | [17](#flutter-flutter-36283-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 92 | [12](#flutter-flutter-48381-graph)
@@ -75,7 +75,7 @@ Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter
 `f: cupertino` issues that received the most reactions from 2025-02-24 to 2025-05-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 554 | [37](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 555 | [38](#flutter-flutter-101479-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 27 | [6](#flutter-flutter-150824-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 44 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 118 | 2
@@ -150,18 +150,18 @@ Multiplatform tooling: A way to store and update app properties, like name, desc
 Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.com/flutter/flutter/issues/59430) | 87 | [5](#flutter-flutter-59430-graph)
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 79 | [5](#flutter-flutter-64106-graph)
 [flutter_tools] pubspec.yaml environment.flutter constraint not respected by pub get [flutter/flutter#95472](https://github.com/flutter/flutter/issues/95472) | 34 | [5](#flutter-flutter-95472-graph)
-Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 184 | 4
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 79 | 4
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 283 | 3
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 130 | 3
 flutter test --coverage and flutter test --watch [flutter/flutter#4719](https://github.com/flutter/flutter/issues/4719) | 120 | 3
+[proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 25 | 3
 
 ### Engine
 
 `team-engine` issues that received the most reactions from 2025-02-24 to 2025-05-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 439 | [387](#flutter-flutter-66618-graph)
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [386](#flutter-flutter-66618-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 532 | [12](#flutter-flutter-26801-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 50 | [12](#flutter-flutter-127852-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | [11](#flutter-flutter-25841-graph)
@@ -185,7 +185,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 124 | [124](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 126 | [126](#flutter-flutter-166333-graph)
 hot restart locks up on iOS [flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) | 23 | [23](#flutter-flutter-165656-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 353 | [19](#flutter-flutter-110431-graph)
 [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView) [flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) | 18 | [18](#flutter-flutter-165787-graph)
@@ -296,7 +296,7 @@ Integrate Navigator 2.0 and state restoration for the web [flutter/flutter#65777
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 178 | [61](#dart-lang-sdk-55281-graph)
-analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 41 | [41](#dart-lang-sdk-60784-graph)
+analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 45 | [45](#dart-lang-sdk-60784-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 35 | [35](#dart-lang-sdk-60335-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 203 | [27](#dart-lang-sdk-50565-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 63 | [24](#dart-lang-sdk-57036-graph)
@@ -317,10 +317,10 @@ Adhere to XDG base directory spec [dart-lang/sdk#41560](https://github.com/dart-
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 163 | [113](#dart-lang-language-4271-graph)
+static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 164 | [114](#dart-lang-language-4271-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1074 | [34](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2231 | [33](#dart-lang-language-314-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1156 | [24](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1157 | [25](#dart-lang-language-723-graph)
 Allow punctuation based alternatives to keywords? [dart-lang/language#4275](https://github.com/dart-lang/language/issues/4275) | 22 | [22](#dart-lang-language-4275-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 19 | [19](#dart-lang-language-4343-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 95 | [16](#dart-lang-language-3021-graph)
@@ -337,7 +337,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
 
 <a name="flutter-flutter-66618-graph"></a>
 ### WebGPU in Flutter
-  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 439 total reactions, 387 recent reactions</sub><br />
+  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 438 total reactions, 386 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -346,7 +346,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
-    line [52, 53, 53, 54, 55, 56, 56, 56, 56, 56, 428, 436, 439]
+    line [52, 53, 53, 54, 55, 56, 56, 56, 56, 56, 428, 436, 438]
   ```
 
   </details>
@@ -354,7 +354,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 333 total reactions, 333 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 344 total reactions, 344 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -363,7 +363,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 333]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344]
   ```
 
   </details>
@@ -371,7 +371,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 124 total reactions, 124 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 126 total reactions, 126 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -380,7 +380,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 21, 43, 60, 75, 89, 97, 111, 124]
+    line [0, 0, 0, 0, 0, 21, 43, 60, 75, 89, 97, 111, 126]
   ```
 
   </details>
@@ -388,7 +388,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
 
 <a name="dart-lang-language-4271-graph"></a>
 ### static enough metaprogramming
-  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 163 total reactions, 113 recent reactions</sub><br />
+  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 164 total reactions, 114 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -397,7 +397,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
-    line [67, 77, 81, 83, 89, 96, 100, 123, 129, 136, 137, 153, 163]
+    line [67, 77, 81, 83, 89, 96, 100, 123, 129, 136, 137, 153, 164]
   ```
 
   </details>
@@ -420,6 +420,23 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
   </details>
   </sub>
 
+<a name="dart-lang-sdk-60784-graph"></a>
+### analyzer_plugin fails to compile with analyzer 7.4
+  <sub>[dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) &mdash; 45 total reactions, 45 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
   <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 191 total reactions, 44 recent reactions</sub><br />
@@ -432,23 +449,6 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [152, 155, 162, 165, 168, 172, 173, 174, 175, 176, 180, 181, 191]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-60784-graph"></a>
-### analyzer_plugin fails to compile with analyzer 7.4
-  <sub>[dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) &mdash; 41 total reactions, 41 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 41]
   ```
 
   </details>
@@ -473,7 +473,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 554 total reactions, 37 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 555 total reactions, 38 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -482,7 +482,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
-    line [518, 521, 522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 554]
+    line [518, 521, 522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 555]
   ```
 
   </details>
@@ -575,7 +575,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
 
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1156 total reactions, 24 recent reactions</sub><br />
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1157 total reactions, 25 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -584,7 +584,7 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
-    line [1136, 1137, 1137, 1142, 1144, 1144, 1145, 1145, 1146, 1146, 1152, 1155, 1156]
+    line [1136, 1137, 1137, 1142, 1144, 1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157]
   ```
 
   </details>
@@ -1559,23 +1559,6 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
   </details>
   </sub>
 
-<a name="flutter-flutter-54200-graph"></a>
-### Allow Hero widgets to have transitions within the same screen
-  <sub>[flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) &mdash; 254 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
-    y-axis "Reactions"
-    line [246, 250, 250, 252, 252, 252, 252, 252, 252, 253, 254, 253, 254]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 210 total reactions, 8 recent reactions</sub><br />
@@ -1758,6 +1741,23 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
     y-axis "Reactions"
     line [293, 293, 293, 295, 296, 296, 297, 297, 298, 298, 298, 299, 299]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-54200-graph"></a>
+### Allow Hero widgets to have transitions within the same screen
+  <sub>[flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) &mdash; 253 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19]
+    y-axis "Reactions"
+    line [246, 250, 250, 252, 252, 252, 252, 252, 252, 253, 254, 253, 253]
   ```
 
   </details>
