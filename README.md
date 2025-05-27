@@ -10,7 +10,7 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 354 | [354](#flutter-flutter-168813-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 130 | [130](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 168 | [118](#dart-lang-language-4271-graph)
-analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 68 | [68](#dart-lang-sdk-60784-graph)
+analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 69 | [69](#dart-lang-sdk-60784-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 178 | [61](#dart-lang-sdk-55281-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 191 | [44](#flutter-flutter-142845-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 556 | [39](#flutter-flutter-101479-graph)
@@ -295,7 +295,7 @@ Integrate Navigator 2.0 and state restoration for the web [flutter/flutter#65777
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 68 | [68](#dart-lang-sdk-60784-graph)
+analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 69 | [69](#dart-lang-sdk-60784-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 178 | [61](#dart-lang-sdk-55281-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 35 | [35](#dart-lang-sdk-60335-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 203 | [27](#dart-lang-sdk-50565-graph)
@@ -329,8 +329,8 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 Feature Request: Associated Values in Enums [dart-lang/language#4386](https://github.com/dart-lang/language/issues/4386) | 15 | [15](#dart-lang-language-4386-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [14](#dart-lang-language-356-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 243 | [14](#dart-lang-language-2364-graph)
-Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
+Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 
 ## Graphs
@@ -405,7 +405,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
 
 <a name="dart-lang-sdk-60784-graph"></a>
 ### analyzer_plugin fails to compile with analyzer 7.4
-  <sub>[dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) &mdash; 68 total reactions, 68 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) &mdash; 69 total reactions, 69 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -414,7 +414,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 68]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45, 69]
   ```
 
   </details>
@@ -998,23 +998,6 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4373-graph"></a>
 ### Function mixins
   <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1027,6 +1010,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
