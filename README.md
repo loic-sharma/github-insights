@@ -128,8 +128,8 @@ Issue | Total reactions | Recent reactions
 [go_router] Redirection with Riverpod example [flutter/flutter#112915](https://github.com/flutter/flutter/issues/112915) | 62 | 3
 [go_router] ShellRoutes break iOS swipe back navigation [flutter/flutter#120353](https://github.com/flutter/flutter/issues/120353) | 59 | 3
 [go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 53 | 3
-[go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 47 | 3
 [go_router] Add default pageBuilder to GoRouter [flutter/flutter#113282](https://github.com/flutter/flutter/issues/113282) | 47 | 3
+[go_router] What does 'refreshListenable' do? How does it work? (missing documentation) [flutter/flutter#116651](https://github.com/flutter/flutter/issues/116651) | 47 | 3
 Provide Page adpaters to Flutters PopupRoute's in go_router. [flutter/flutter#125268](https://github.com/flutter/flutter/issues/125268) | 25 | 3
 [go_router] Replace redirect with onEnter and onExit [flutter/flutter#102408](https://github.com/flutter/flutter/issues/102408) | 96 | 2
 [go_router] Query Parameters are not preserved on `pop` [flutter/flutter#116872](https://github.com/flutter/flutter/issues/116872) | 26 | 2
@@ -142,6 +142,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 162 | [16](#flutter-flutter-65065-graph)
 ☂️ Build hooks & Code assets [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 80 | [14](#flutter-flutter-129757-graph)
+appFlavor returns "null" after hot restart (Channel beta, 3.31.0-0.1.pre) [flutter/flutter#165803](https://github.com/flutter/flutter/issues/165803) | 14 | [14](#flutter-flutter-165803-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 154 | [9](#flutter-flutter-46979-graph)
  flutter run --watch option [flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) | 28 | [8](#flutter-flutter-136494-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 115 | [6](#flutter-flutter-107157-graph)
@@ -154,7 +155,6 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 Expo like tool for flutter [flutter/flutter#29021](https://github.com/flutter/flutter/issues/29021) | 283 | 3
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 130 | 3
 flutter test --coverage and flutter test --watch [flutter/flutter#4719](https://github.com/flutter/flutter/issues/4719) | 120 | 3
-[proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 25 | 3
 
 ### Engine
 
@@ -329,9 +329,9 @@ Feature Request: Associated Values in Enums [dart-lang/language#4386](https://gi
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 244 | [15](#dart-lang-language-2364-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 33 | [15](#dart-lang-language-4200-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [14](#dart-lang-language-356-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
-Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
+Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 
 ## Graphs
 
@@ -1015,9 +1015,9 @@ Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1026,7 +1026,24 @@ Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/lang
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
+    line [0, 0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-165803-graph"></a>
+### appFlavor returns "null" after hot restart (Channel beta, 3.31.0-0.1.pre)
+  <sub>[flutter/flutter#165803](https://github.com/flutter/flutter/issues/165803) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
@@ -1049,9 +1066,9 @@ Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1060,7 +1077,7 @@ Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/lang
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
   ```
 
   </details>
