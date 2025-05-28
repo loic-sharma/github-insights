@@ -7,14 +7,14 @@ Issues that received the most reactions from 2025-02-24 to 2025-05-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 439 | [387](#flutter-flutter-66618-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 372 | [372](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 373 | [373](#flutter-flutter-168813-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 132 | [132](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 168 | [118](#dart-lang-language-4271-graph)
 analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 72 | [72](#dart-lang-sdk-60784-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 178 | [61](#dart-lang-sdk-55281-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 192 | [45](#flutter-flutter-142845-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 561 | [44](#flutter-flutter-101479-graph)
-Allow for shader loading at runtime [flutter/flutter#169442](https://github.com/flutter/flutter/issues/169442) | 39 | [39](#flutter-flutter-169442-graph)
+Allow for shader loading at runtime [flutter/flutter#169442](https://github.com/flutter/flutter/issues/169442) | 40 | [40](#flutter-flutter-169442-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1075 | [35](#dart-lang-language-357-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 35 | [35](#dart-lang-sdk-60335-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2231 | [33](#dart-lang-language-314-graph)
@@ -54,7 +54,7 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 372 | [372](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 373 | [373](#flutter-flutter-168813-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 561 | [44](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 27 | [27](#flutter-flutter-165502-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 90 | [17](#flutter-flutter-36283-graph)
@@ -162,7 +162,7 @@ flutter test --coverage and flutter test --watch [flutter/flutter#4719](https://
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 439 | [387](#flutter-flutter-66618-graph)
-Allow for shader loading at runtime [flutter/flutter#169442](https://github.com/flutter/flutter/issues/169442) | 39 | [39](#flutter-flutter-169442-graph)
+Allow for shader loading at runtime [flutter/flutter#169442](https://github.com/flutter/flutter/issues/169442) | 40 | [40](#flutter-flutter-169442-graph)
 [iOS] Images are rendered green after taking picture with camera [flutter/flutter#168849](https://github.com/flutter/flutter/issues/168849) | 16 | [16](#flutter-flutter-168849-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 51 | [13](#flutter-flutter-127852-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 532 | [12](#flutter-flutter-26801-graph)
@@ -354,7 +354,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 372 total reactions, 372 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 373 total reactions, 373 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -363,7 +363,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 372]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 373]
   ```
 
   </details>
@@ -473,7 +473,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
 
 <a name="flutter-flutter-169442-graph"></a>
 ### Allow for shader loading at runtime
-  <sub>[flutter/flutter#169442](https://github.com/flutter/flutter/issues/169442) &mdash; 39 total reactions, 39 recent reactions</sub><br />
+  <sub>[flutter/flutter#169442](https://github.com/flutter/flutter/issues/169442) &mdash; 40 total reactions, 40 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -482,7 +482,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40]
   ```
 
   </details>
