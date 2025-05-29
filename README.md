@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 439 | [387](#flutter-flutter-66618-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 375 | [375](#flutter-flutter-168813-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 133 | [133](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 134 | [134](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 168 | [118](#dart-lang-language-4271-graph)
 analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 72 | [72](#dart-lang-sdk-60784-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 180 | [63](#dart-lang-sdk-55281-graph)
@@ -80,12 +80,12 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 19 | [5](#flutter-flutter-161687-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 44 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 118 | 2
+CupertinoPicker and CupertinoDatePicker don't play the ticker sound [flutter/flutter#37329](https://github.com/flutter/flutter/issues/37329) | 29 | 2
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 2
 Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/flutter/flutter/issues/55809) | 61 | 1
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 58 | 1
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 1
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 1
-CupertinoPicker and CupertinoDatePicker don't play the ticker sound [flutter/flutter#37329](https://github.com/flutter/flutter/issues/37329) | 28 | 1
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 22 | 1
 [iOS] Light/Dark mode on iOS should change in the background [flutter/flutter#43806](https://github.com/flutter/flutter/issues/43806) | 15 | 1
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 127 | 0
@@ -185,7 +185,7 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 133 | [133](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 134 | [134](#flutter-flutter-166333-graph)
 hot restart locks up on iOS [flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) | 25 | [25](#flutter-flutter-165656-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 353 | [19](#flutter-flutter-110431-graph)
 [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView) [flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) | 18 | [18](#flutter-flutter-165787-graph)
@@ -229,7 +229,7 @@ Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutt
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 88 | [16](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 89 | [17](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 285 | [15](#flutter-flutter-45296-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [13](#flutter-flutter-130472-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 171 | [12](#flutter-flutter-46589-graph)
@@ -273,7 +273,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 88 | [16](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 89 | [17](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 285 | [15](#flutter-flutter-45296-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [13](#flutter-flutter-130472-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 171 | [12](#flutter-flutter-46589-graph)
@@ -371,7 +371,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 133 total reactions, 133 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 134 total reactions, 134 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -380,7 +380,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 21, 43, 60, 75, 89, 97, 111, 127, 133]
+    line [0, 0, 0, 0, 0, 21, 43, 60, 75, 89, 97, 111, 127, 134]
   ```
 
   </details>
@@ -845,6 +845,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 89 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions"
+    line [73, 74, 76, 76, 76, 77, 80, 81, 82, 83, 83, 86, 88, 89]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-163845-graph"></a>
 ### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
   <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 36 total reactions, 17 recent reactions</sub><br />
@@ -891,23 +908,6 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
     line [147, 147, 148, 148, 148, 153, 154, 155, 155, 155, 155, 159, 162, 162]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 88 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions"
-    line [73, 74, 76, 76, 76, 77, 80, 81, 82, 83, 83, 86, 88, 88]
   ```
 
   </details>
