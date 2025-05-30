@@ -6,13 +6,13 @@ Issues that received the most reactions from 2025-02-24 to 2025-05-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 394 | [394](#flutter-flutter-168813-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 439 | [387](#flutter-flutter-66618-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 384 | [384](#flutter-flutter-168813-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 135 | [135](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 182 | [132](#dart-lang-language-4271-graph)
 analyzer_plugin fails to compile with analyzer 7.4 [dart-lang/sdk#60784](https://github.com/dart-lang/sdk/issues/60784) | 72 | [72](#dart-lang-sdk-60784-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 180 | [63](#dart-lang-sdk-55281-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 562 | [45](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 565 | [48](#flutter-flutter-101479-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 192 | [45](#flutter-flutter-142845-graph)
 Allow for shader loading at runtime [flutter/flutter#169442](https://github.com/flutter/flutter/issues/169442) | 41 | [41](#flutter-flutter-169442-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1076 | [36](#dart-lang-language-357-graph)
@@ -54,13 +54,13 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 384 | [384](#flutter-flutter-168813-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 562 | [45](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 394 | [394](#flutter-flutter-168813-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 565 | [48](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 27 | [27](#flutter-flutter-165502-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 90 | [17](#flutter-flutter-36283-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 93 | [13](#flutter-flutter-48381-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 125 | [9](#flutter-flutter-102560-graph)
-Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 299 | [7](#flutter-flutter-21594-graph)
+Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 300 | [8](#flutter-flutter-21594-graph)
 Should the modal barrier of an Alert also change the color of the status bar? [flutter/flutter#24969](https://github.com/flutter/flutter/issues/24969) | 23 | [7](#flutter-flutter-24969-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 20 | [6](#flutter-flutter-161687-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 267 | 4
@@ -75,7 +75,7 @@ Making NavigationRail scrollable [flutter/flutter#89167](https://github.com/flut
 `f: cupertino` issues that received the most reactions from 2025-02-24 to 2025-05-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 562 | [45](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 565 | [48](#flutter-flutter-101479-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 27 | [6](#flutter-flutter-150824-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 20 | [6](#flutter-flutter-161687-graph)
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 44 | 3
@@ -301,8 +301,8 @@ Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 204 | [28](#dart-lang-sdk-50565-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 64 | [25](#dart-lang-sdk-57036-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 42 | [24](#dart-lang-sdk-56841-graph)
+Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 548 | [20](#dart-lang-sdk-28617-graph)
 Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) | 20 | [20](#dart-lang-sdk-60518-graph)
-Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 547 | [19](#dart-lang-sdk-28617-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 92 | [13](#dart-lang-sdk-53402-graph)
 [analyzer_plugin] Running build_runner does not invoke `analysis.updateContent` with the newly generated files in VScode [dart-lang/sdk#54113](https://github.com/dart-lang/sdk/issues/54113) | 18 | [8](#dart-lang-sdk-54113-graph)
 Dart compiler crash [dart-lang/sdk#60236](https://github.com/dart-lang/sdk/issues/60236) | 7 | [7](#dart-lang-sdk-60236-graph)
@@ -329,11 +329,28 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 Feature Request: Associated Values in Enums [dart-lang/language#4386](https://github.com/dart-lang/language/issues/4386) | 16 | [16](#dart-lang-language-4386-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 33 | [15](#dart-lang-language-4200-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [14](#dart-lang-language-356-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 
 ## Graphs
+
+<a name="flutter-flutter-168813-graph"></a>
+### ☂️ Bring Material 3 Expressive to Flutter
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 394 total reactions, 394 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 394]
+  ```
+
+  </details>
+  </sub>
 
 <a name="flutter-flutter-66618-graph"></a>
 ### WebGPU in Flutter
@@ -347,23 +364,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
     line [52, 53, 53, 54, 55, 56, 56, 56, 56, 56, 428, 436, 438, 439]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168813-graph"></a>
-### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 384 total reactions, 384 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 384]
   ```
 
   </details>
@@ -439,7 +439,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 562 total reactions, 45 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 565 total reactions, 48 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -448,7 +448,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
-    line [518, 521, 522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 555, 562]
+    line [518, 521, 522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 555, 565]
   ```
 
   </details>
@@ -590,23 +590,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-165656-graph"></a>
-### hot restart locks up on iOS
-  <sub>[flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) &mdash; 27 total reactions, 27 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 14, 14, 15, 22, 22, 22, 22, 23, 27]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-165502-graph"></a>
 ### [proposal] blankcanvas 2.0
   <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 27 total reactions, 27 recent reactions</sub><br />
@@ -619,6 +602,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 19, 24, 27]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-165656-graph"></a>
+### hot restart locks up on iOS
+  <sub>[flutter/flutter#165656](https://github.com/flutter/flutter/issues/165656) &mdash; 27 total reactions, 27 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 14, 14, 15, 22, 22, 22, 22, 23, 27]
   ```
 
   </details>
@@ -743,6 +743,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="dart-lang-sdk-28617-graph"></a>
+### Allow AOT executables to be cross-compiled
+  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 548 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions"
+    line [528, 533, 534, 536, 538, 539, 539, 540, 541, 542, 544, 546, 547, 548]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-110431-graph"></a>
 ### Flutter adds additional one frame touch latency compared to native
   <sub>[flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) &mdash; 354 total reactions, 20 recent reactions</sub><br />
@@ -777,26 +794,9 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="dart-lang-sdk-28617-graph"></a>
-### Allow AOT executables to be cross-compiled
-  <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 547 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions"
-    line [528, 533, 534, 536, 538, 539, 539, 540, 541, 542, 544, 546, 547, 547]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4321-graph"></a>
-### Introduce throws keyword (like Swift) for marking throwable functions
-  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+<a name="flutter-flutter-166248-graph"></a>
+### Flutter Crashes OpenGL on MediaTek
+  <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 18 total reactions, 18 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -805,7 +805,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
   ```
 
   </details>
@@ -828,9 +828,9 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-166248-graph"></a>
-### Flutter Crashes OpenGL on MediaTek
-  <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+<a name="dart-lang-language-4321-graph"></a>
+### Introduce throws keyword (like Swift) for marking throwable functions
+  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -839,7 +839,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
+    line [0, 0, 0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18]
   ```
 
   </details>
@@ -1032,9 +1032,9 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-165803-graph"></a>
-### appFlavor returns "null" after hot restart (Channel beta, 3.31.0-0.1.pre)
-  <sub>[flutter/flutter#165803](https://github.com/flutter/flutter/issues/165803) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1043,7 +1043,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
   ```
 
   </details>
@@ -1066,23 +1066,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="dart-lang-language-4317-graph"></a>
-### Optionally imported libraries.
-  <sub>[dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 9, 9, 11, 11, 11, 13, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-169252-graph"></a>
 ### Flutter 3.32.0 on Android, setting `debugSymbolLevel` to `full` causes the app bundle build to fail
   <sub>[flutter/flutter#169252](https://github.com/flutter/flutter/issues/169252) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1100,9 +1083,9 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4317-graph"></a>
+### Optionally imported libraries.
+  <sub>[dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1111,7 +1094,24 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
+    line [0, 0, 0, 0, 0, 9, 9, 11, 11, 11, 13, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-165803-graph"></a>
+### appFlavor returns "null" after hot restart (Channel beta, 3.31.0-0.1.pre)
+  <sub>[flutter/flutter#165803](https://github.com/flutter/flutter/issues/165803) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
@@ -1695,6 +1695,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="flutter-flutter-21594-graph"></a>
+### Table > TableRow > TableCell colspan
+  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 300 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions"
+    line [293, 293, 293, 295, 296, 296, 297, 297, 298, 298, 298, 299, 299, 300]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 210 total reactions, 8 recent reactions</sub><br />
@@ -1877,23 +1894,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
     line [292, 292, 293, 295, 295, 296, 296, 296, 296, 298, 298, 298, 298, 299]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-21594-graph"></a>
-### Table > TableRow > TableCell colspan
-  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 299 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions"
-    line [293, 293, 293, 295, 296, 296, 297, 297, 298, 298, 298, 299, 299, 299]
   ```
 
   </details>
@@ -2188,23 +2188,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-148185-graph"></a>
-### [go_router] 14.1.0 , routerDelegate.currentConfiguration.matches  info not update when pop()
-  <sub>[flutter/flutter#148185](https://github.com/flutter/flutter/issues/148185) &mdash; 20 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions" 0 --> 20
-    line [14, 15, 15, 16, 17, 17, 18, 18, 18, 18, 18, 18, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-161687-graph"></a>
 ### Cupertino Sheet should have drag to dismiss and nested scrolling work together
   <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 20 total reactions, 6 recent reactions</sub><br />
@@ -2217,6 +2200,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 14, 15, 15, 15, 15, 15, 15, 16, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-148185-graph"></a>
+### [go_router] 14.1.0 , routerDelegate.currentConfiguration.matches  info not update when pop()
+  <sub>[flutter/flutter#148185](https://github.com/flutter/flutter/issues/148185) &mdash; 20 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions" 0 --> 20
+    line [14, 15, 15, 16, 17, 17, 18, 18, 18, 18, 18, 18, 20, 20]
   ```
 
   </details>
@@ -2392,23 +2392,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-9707-graph"></a>
-### "Lost connection to device" randomly when not doing anything in particular
-  <sub>[flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) &mdash; 61 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
-    y-axis "Reactions"
-    line [56, 56, 57, 57, 58, 59, 60, 60, 60, 60, 60, 60, 60, 61]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-53884-graph"></a>
 ### [dart2wasm] Support non-JS wasm runtimes
   <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 61 total reactions, 5 recent reactions</sub><br />
@@ -2421,6 +2404,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
     y-axis "Reactions"
     line [56, 56, 56, 56, 57, 57, 57, 57, 58, 58, 58, 58, 60, 61]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-9707-graph"></a>
+### "Lost connection to device" randomly when not doing anything in particular
+  <sub>[flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) &mdash; 61 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 24, Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26]
+    y-axis "Reactions"
+    line [56, 56, 57, 57, 58, 59, 60, 60, 60, 60, 60, 60, 60, 61]
   ```
 
   </details>
