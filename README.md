@@ -209,6 +209,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 58 | [22](#flutter-flutter-139427-graph)
 Flutter 3.32.0 on Android, setting `debugSymbolLevel` to `full` causes the app bundle build to fail [flutter/flutter#169252](https://github.com/flutter/flutter/issues/169252) | 15 | [15](#flutter-flutter-169252-graph)
+Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 14 | [14](#flutter-flutter-169215-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 57 | [13](#flutter-flutter-145961-graph)
 PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 38 | [9](#flutter-flutter-81804-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 27 | [8](#flutter-flutter-151638-graph)
@@ -221,7 +222,6 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 android_camerax plugin returns .temp extension for recorded video [flutter/flutter#148335](https://github.com/flutter/flutter/issues/148335) | 20 | 4
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 90 | 3
 [video_player] Playing two videos simultaneously fails on Android [flutter/flutter#64897](https://github.com/flutter/flutter/issues/64897) | 34 | 3
-[SystemUiMode.edgeToEdge] systemNavigationBarColor can't be made transparent without breaking older Android versions [flutter/flutter#119465](https://github.com/flutter/flutter/issues/119465) | 22 | 3
 
 #### Web
 
@@ -324,9 +324,9 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 23 | [23](#dart-lang-language-4343-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 18 | [18](#dart-lang-language-4321-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 96 | [16](#dart-lang-language-3021-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
-Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
+Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [13](#dart-lang-language-356-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 245 | [13](#dart-lang-language-2364-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 270 | [12](#dart-lang-language-649-graph)
@@ -692,6 +692,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-166248-graph"></a>
+### Flutter Crashes OpenGL on MediaTek
+  <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4321-graph"></a>
 ### Introduce throws keyword (like Swift) for marking throwable functions
   <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -721,23 +738,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-166248-graph"></a>
-### Flutter Crashes OpenGL on MediaTek
-  <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
   ```
 
   </details>
@@ -879,9 +879,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -890,7 +890,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14]
+    line [0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -913,9 +913,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -924,7 +924,24 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-169215-graph"></a>
+### Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32)
+  <sub>[flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
@@ -1678,23 +1695,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-151638-graph"></a>
-### Investigate path resolution for "libflutter.so" binary
-  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 27 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions"
-    line [19, 19, 19, 20, 21, 24, 24, 24, 26, 27, 27, 27, 27, 27]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-18554-graph"></a>
 ### [Proposal] Allow to adjust hitSlop of GestureDetector
   <sub>[flutter/flutter#18554](https://github.com/flutter/flutter/issues/18554) &mdash; 27 total reactions, 8 recent reactions</sub><br />
@@ -1707,6 +1707,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [0, 0, 0, 23, 25, 25, 26, 26, 27, 27, 27, 27, 27, 27]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-151638-graph"></a>
+### Investigate path resolution for "libflutter.so" binary
+  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 27 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [19, 19, 19, 20, 21, 24, 24, 24, 26, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -2205,23 +2222,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-sdk-53884-graph"></a>
-### [dart2wasm] Support non-JS wasm runtimes
-  <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 61 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions"
-    line [56, 56, 56, 57, 57, 57, 57, 58, 58, 58, 58, 60, 61, 61]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-9707-graph"></a>
 ### "Lost connection to device" randomly when not doing anything in particular
   <sub>[flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) &mdash; 61 total reactions, 5 recent reactions</sub><br />
@@ -2234,6 +2234,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [56, 57, 57, 58, 59, 60, 60, 60, 60, 60, 60, 60, 61, 61]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-53884-graph"></a>
+### [dart2wasm] Support non-JS wasm runtimes
+  <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 61 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [56, 56, 56, 57, 57, 57, 57, 58, 58, 58, 58, 60, 61, 61]
   ```
 
   </details>
