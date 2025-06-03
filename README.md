@@ -12,7 +12,7 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [116](#dart-lang-language-4271-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 180 | [59](#dart-lang-sdk-55281-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 566 | [48](#flutter-flutter-101479-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 193 | [41](#flutter-flutter-142845-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 197 | [45](#flutter-flutter-142845-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1076 | [36](#dart-lang-language-357-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 36 | [36](#dart-lang-sdk-60335-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 31 | [31](#flutter-flutter-165502-graph)
@@ -32,14 +32,14 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 193 | [41](#flutter-flutter-142845-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 197 | [45](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 693 | [22](#flutter-flutter-30701-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [14](#flutter-flutter-101227-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 199 | [13](#flutter-flutter-65504-graph)
 Feature request: Allow declaring main language of app to VoiceOver and TalkBack [flutter/flutter#99600](https://github.com/flutter/flutter/issues/99600) | 42 | [12](#flutter-flutter-99600-graph)
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 35 | [12](#flutter-flutter-99158-graph)
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 163 | [11](#flutter-flutter-32120-graph)
-Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 47 | [10](#flutter-flutter-81005-graph)
+Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 48 | [11](#flutter-flutter-81005-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 238 | [8](#flutter-flutter-138614-graph)
 [Proposal] Allow to adjust hitSlop of GestureDetector [flutter/flutter#18554](https://github.com/flutter/flutter/issues/18554) | 27 | [8](#flutter-flutter-18554-graph)
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 299 | [7](#flutter-flutter-51752-graph)
@@ -120,8 +120,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 58 | [10](#flutter-flutter-140586-graph)
 [go_router] ShellRoutes seem to cause NavigatorObserver to not fire (5.0.1) [flutter/flutter#112196](https://github.com/flutter/flutter/issues/112196) | 135 | [7](#flutter-flutter-112196-graph)
+[go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 39 | [7](#flutter-flutter-133746-graph)
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 43 | [6](#flutter-flutter-131625-graph)
-[go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 38 | [6](#flutter-flutter-133746-graph)
 [go_router] 14.1.0 , routerDelegate.currentConfiguration.matches  info not update when pop() [flutter/flutter#148185](https://github.com/flutter/flutter/issues/148185) | 20 | [6](#flutter-flutter-148185-graph)
 [go_router_builder] Define routes in separate files [flutter/flutter#122258](https://github.com/flutter/flutter/issues/122258) | 58 | 4
 [go_router] Redirection with Riverpod example [flutter/flutter#112915](https://github.com/flutter/flutter/issues/112915) | 62 | 3
@@ -439,7 +439,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
-  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 193 total reactions, 41 recent reactions</sub><br />
+  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 197 total reactions, 45 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -448,7 +448,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
-    line [155, 162, 165, 168, 172, 173, 174, 175, 176, 180, 181, 191, 192, 193]
+    line [155, 162, 165, 168, 172, 173, 174, 175, 176, 180, 181, 191, 192, 197]
   ```
 
   </details>
@@ -1321,6 +1321,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-81005-graph"></a>
+### Jump to index in sliver world
+  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 48 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [37, 37, 39, 41, 41, 42, 44, 44, 45, 44, 44, 46, 46, 48]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-152588-graph"></a>
 ### Scroll "back" on web causes browser back action (unless perfectly horizontal)
   <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 47 total reactions, 11 recent reactions</sub><br />
@@ -1401,23 +1418,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [40, 40, 40, 41, 41, 41, 41, 41, 41, 41, 41, 49, 49, 50]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-81005-graph"></a>
-### Jump to index in sliver world
-  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 47 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions"
-    line [37, 37, 39, 41, 41, 42, 44, 44, 45, 44, 44, 46, 46, 47]
   ```
 
   </details>
@@ -1899,6 +1899,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-133746-graph"></a>
+### [go_router] Unwanted black screen when using async redirect.
+  <sub>[flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) &mdash; 39 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [32, 32, 32, 33, 35, 35, 36, 36, 37, 38, 38, 38, 38, 39]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-160144-graph"></a>
 ###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
   <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 28 total reactions, 7 recent reactions</sub><br />
@@ -2030,23 +2047,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [39, 39, 39, 39, 41, 42, 42, 42, 42, 42, 42, 43, 43, 43]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-133746-graph"></a>
-### [go_router] Unwanted black screen when using async redirect.
-  <sub>[flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) &mdash; 38 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions"
-    line [32, 32, 32, 33, 35, 35, 36, 36, 37, 38, 38, 38, 38, 38]
   ```
 
   </details>
