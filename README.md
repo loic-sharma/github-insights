@@ -15,7 +15,7 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 197 | [45](#flutter-flutter-142845-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1076 | [36](#dart-lang-language-357-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 36 | [36](#dart-lang-sdk-60335-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2234 | [31](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2235 | [32](#dart-lang-language-314-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 31 | [31](#flutter-flutter-165502-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1163 | [27](#dart-lang-language-723-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 95 | [27](#flutter-flutter-153092-graph)
@@ -40,7 +40,7 @@ Feature request: Allow declaring main language of app to VoiceOver and TalkBack 
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 35 | [12](#flutter-flutter-99158-graph)
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 163 | [11](#flutter-flutter-32120-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 48 | [11](#flutter-flutter-81005-graph)
-Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 254 | [8](#flutter-flutter-54200-graph)
+Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 255 | [9](#flutter-flutter-54200-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 238 | [8](#flutter-flutter-138614-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 193 | [8](#flutter-flutter-45336-graph)
 [Proposal] Allow to adjust hitSlop of GestureDetector [flutter/flutter#18554](https://github.com/flutter/flutter/issues/18554) | 27 | [8](#flutter-flutter-18554-graph)
@@ -170,8 +170,8 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 210 | [8](#flutter-flutter-61229-graph)
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 50 | [7](#flutter-flutter-67034-graph)
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 93 | [6](#flutter-flutter-55870-graph)
+Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 328 | [5](#flutter-flutter-26134-graph)
 Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 103 | [5](#flutter-flutter-10437-graph)
-Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 327 | 4
 App ignores proxy settings [flutter/flutter#26359](https://github.com/flutter/flutter/issues/26359) | 62 | 4
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 47 | 4
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 44 | 4
@@ -208,8 +208,8 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 58 | [22](#flutter-flutter-139427-graph)
-Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 15 | [15](#flutter-flutter-169215-graph)
 Flutter 3.32.0 on Android, setting `debugSymbolLevel` to `full` causes the app bundle build to fail [flutter/flutter#169252](https://github.com/flutter/flutter/issues/169252) | 15 | [15](#flutter-flutter-169252-graph)
+Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 15 | [15](#flutter-flutter-169215-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 57 | [13](#flutter-flutter-145961-graph)
 [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 24 | [10](#flutter-flutter-153075-graph)
 PlatformException VideoError, Video Player had error [flutter/flutter#81804](https://github.com/flutter/flutter/issues/81804) | 38 | [9](#flutter-flutter-81804-graph)
@@ -306,10 +306,10 @@ Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https
 Automate the creation of data-driven fix data [dart-lang/sdk#60244](https://github.com/dart-lang/sdk/issues/60244) | 6 | [6](#dart-lang-sdk-60244-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 61 | [5](#dart-lang-sdk-53884-graph)
 Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
+Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://github.com/dart-lang/sdk/issues/40198) | 82 | 4
 Adhere to XDG base directory spec [dart-lang/sdk#41560](https://github.com/dart-lang/sdk/issues/41560) | 71 | 4
-Interop: Java/Kotlin [dart-lang/sdk#49674](https://github.com/dart-lang/sdk/issues/49674) | 36 | 4
 Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](https://github.com/dart-lang/sdk/issues/52947) | 36 | 4
-proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 22 | 4
+Interop: Java/Kotlin [dart-lang/sdk#49674](https://github.com/dart-lang/sdk/issues/49674) | 36 | 4
 
 ### Dart language
 
@@ -319,15 +319,15 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [116](#dart-lang-language-4271-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1076 | [36](#dart-lang-language-357-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2234 | [31](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2235 | [32](#dart-lang-language-314-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1163 | [27](#dart-lang-language-723-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 24 | [24](#dart-lang-language-4343-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 18 | [18](#dart-lang-language-4321-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 96 | [16](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 246 | [14](#dart-lang-language-2364-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
-Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
+Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [13](#dart-lang-language-356-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 270 | [12](#dart-lang-language-649-graph)
 Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language#4351](https://github.com/dart-lang/language/issues/4351) | 12 | [12](#dart-lang-language-4351-graph)
@@ -490,7 +490,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2234 total reactions, 31 recent reactions</sub><br />
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2235 total reactions, 32 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -499,7 +499,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
-    line [2206, 2207, 2211, 2215, 2217, 2218, 2220, 2221, 2222, 2224, 2230, 2231, 2233, 2234]
+    line [2206, 2207, 2211, 2215, 2217, 2218, 2220, 2221, 2222, 2224, 2230, 2231, 2233, 2235]
   ```
 
   </details>
@@ -726,23 +726,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4321-graph"></a>
-### Introduce throws keyword (like Swift) for marking throwable functions
-  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-165787-graph"></a>
 ### [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView)
   <sub>[flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -755,6 +738,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4321-graph"></a>
+### Introduce throws keyword (like Swift) for marking throwable functions
+  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18]
   ```
 
   </details>
@@ -828,23 +828,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-169215-graph"></a>
-### Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32)
-  <sub>[flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-169252-graph"></a>
 ### Flutter 3.32.0 on Android, setting `debugSymbolLevel` to `full` causes the app bundle build to fail
   <sub>[flutter/flutter#169252](https://github.com/flutter/flutter/issues/169252) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -857,6 +840,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-169215-graph"></a>
+### Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32)
+  <sub>[flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
   ```
 
   </details>
@@ -930,9 +930,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -941,7 +941,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14]
+    line [0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -964,9 +964,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -975,7 +975,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14]
   ```
 
   </details>
@@ -1474,6 +1474,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-54200-graph"></a>
+### Allow Hero widgets to have transitions within the same screen
+  <sub>[flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) &mdash; 255 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [250, 250, 252, 252, 252, 252, 252, 252, 253, 254, 253, 253, 253, 255]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-46979-graph"></a>
 ### Support different dependencies when using flavors
   <sub>[flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) &mdash; 155 total reactions, 9 recent reactions</sub><br />
@@ -1537,23 +1554,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [278, 279, 279, 279, 279, 279, 282, 283, 283, 284, 285, 285, 285, 285]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-54200-graph"></a>
-### Allow Hero widgets to have transitions within the same screen
-  <sub>[flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) &mdash; 254 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions"
-    line [250, 250, 252, 252, 252, 252, 252, 252, 253, 254, 253, 253, 253, 254]
   ```
 
   </details>
@@ -1712,23 +1712,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-18554-graph"></a>
-### [Proposal] Allow to adjust hitSlop of GestureDetector
-  <sub>[flutter/flutter#18554](https://github.com/flutter/flutter/issues/18554) &mdash; 27 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions"
-    line [0, 0, 0, 23, 25, 25, 26, 26, 27, 27, 27, 27, 27, 27]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-151638-graph"></a>
 ### Investigate path resolution for "libflutter.so" binary
   <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 27 total reactions, 8 recent reactions</sub><br />
@@ -1741,6 +1724,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [19, 19, 19, 20, 21, 24, 24, 24, 26, 27, 27, 27, 27, 27]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-18554-graph"></a>
+### [Proposal] Allow to adjust hitSlop of GestureDetector
+  <sub>[flutter/flutter#18554](https://github.com/flutter/flutter/issues/18554) &mdash; 27 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [0, 0, 0, 23, 25, 25, 26, 26, 27, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -2183,6 +2183,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [660, 660, 660, 660, 661, 661, 661, 661, 664, 664, 664, 664, 664, 665]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-26134-graph"></a>
+### Support home and lock screen widgets
+  <sub>[flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) &mdash; 328 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [325, 325, 327, 327, 327, 327, 327, 327, 327, 327, 327, 327, 327, 328]
   ```
 
   </details>
