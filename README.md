@@ -6,7 +6,7 @@ Issues that received the most reactions from 2025-03-03 to 2025-06-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 431 | [431](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 434 | [434](#flutter-flutter-168813-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 142 | [142](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [116](#dart-lang-language-4271-graph)
@@ -54,21 +54,21 @@ Reusing state logic is either too verbose or too difficult [flutter/flutter#5175
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 431 | [431](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 434 | [434](#flutter-flutter-168813-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 566 | [48](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 31 | [31](#flutter-flutter-165502-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 90 | [17](#flutter-flutter-36283-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 93 | [13](#flutter-flutter-48381-graph)
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 125 | [8](#flutter-flutter-102560-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 126 | [9](#flutter-flutter-102560-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 300 | [7](#flutter-flutter-21594-graph)
 Should the modal barrier of an Alert also change the color of the status bar? [flutter/flutter#24969](https://github.com/flutter/flutter/issues/24969) | 23 | [7](#flutter-flutter-24969-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 20 | [6](#flutter-flutter-161687-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 267 | 3
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 47 | 3
 Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/flutter/flutter/issues/108973) | 27 | 3
+Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 20 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 118 | 2
 Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 95 | 2
-Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter/issues/31728) | 71 | 2
 
 #### Cupertino
 
@@ -107,10 +107,10 @@ Ability to change the keyboard language programmatically [flutter/flutter#99606]
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 123 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 111 | 3
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 21 | 3
+Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 20 | 3
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 62 | 2
 Flutter needs a way to test real IME text input behavior [flutter/flutter#131510](https://github.com/flutter/flutter/issues/131510) | 35 | 2
 Add ability for text field TextInputAction to be dynamic [flutter/flutter#30331](https://github.com/flutter/flutter/issues/30331) | 20 | 2
-Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 19 | 2
 
 #### go_router
 
@@ -118,9 +118,9 @@ Better textFormField label placement customization when focused and when value i
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[go_router] support flow navigation [flutter/flutter#119949](https://github.com/flutter/flutter/issues/119949) | 13 | 0
 [go_router] Parent route params is not available for child routes to access, while using named navigation [flutter/flutter#117368](https://github.com/flutter/flutter/issues/117368) | 13 | 0
 [go_router] onExit does not work correctly after swipe to pop on iOS [flutter/flutter#135909](https://github.com/flutter/flutter/issues/135909) | 13 | 0
+[go_router] support flow navigation [flutter/flutter#119949](https://github.com/flutter/flutter/issues/119949) | 13 | 0
 
 ### Tool
 
@@ -217,7 +217,7 @@ android_camerax plugin returns .temp extension for recorded video [flutter/flutt
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 89 | [16](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 90 | [17](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 285 | [14](#flutter-flutter-45296-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [13](#flutter-flutter-130472-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 219 | [11](#flutter-flutter-55324-graph)
@@ -261,7 +261,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 89 | [16](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 90 | [17](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 285 | [14](#flutter-flutter-45296-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [13](#flutter-flutter-130472-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 219 | [11](#flutter-flutter-55324-graph)
@@ -314,8 +314,8 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 96 | [16](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 246 | [14](#dart-lang-language-2364-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
-Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
+Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [13](#dart-lang-language-356-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 270 | [12](#dart-lang-language-649-graph)
 Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language#4351](https://github.com/dart-lang/language/issues/4351) | 12 | [12](#dart-lang-language-4351-graph)
@@ -325,7 +325,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 431 total reactions, 431 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 434 total reactions, 434 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -334,7 +334,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 431]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 434]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4321-graph"></a>
-### Introduce throws keyword (like Swift) for marking throwable functions
-  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+<a name="flutter-flutter-166248-graph"></a>
+### Flutter Crashes OpenGL on MediaTek
+  <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 18 total reactions, 18 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -708,7 +708,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="flutter-flutter-166248-graph"></a>
-### Flutter Crashes OpenGL on MediaTek
-  <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+<a name="dart-lang-language-4321-graph"></a>
+### Introduce throws keyword (like Swift) for marking throwable functions
+  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -742,7 +742,24 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
+    line [0, 0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 90 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [74, 76, 76, 76, 77, 80, 81, 82, 83, 83, 86, 88, 89, 90]
   ```
 
   </details>
@@ -777,23 +794,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [80, 80, 81, 81, 81, 81, 81, 81, 81, 81, 81, 95, 96, 96]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 89 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions"
-    line [74, 76, 76, 76, 77, 80, 81, 82, 83, 83, 86, 88, 89, 89]
   ```
 
   </details>
@@ -952,23 +952,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4317-graph"></a>
-### Optionally imported libraries.
-  <sub>[dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 9, 9, 11, 11, 11, 13, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4373-graph"></a>
 ### Function mixins
   <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -981,6 +964,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4317-graph"></a>
+### Optionally imported libraries.
+  <sub>[dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 9, 9, 11, 11, 11, 13, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1496,6 +1496,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 126 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
+    y-axis "Reactions"
+    line [119, 119, 119, 120, 120, 120, 120, 120, 120, 122, 124, 125, 125, 126]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-40682-graph"></a>
 ### Spellcheck on Flutter Web
   <sub>[flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) &mdash; 84 total reactions, 9 recent reactions</sub><br />
@@ -1627,23 +1644,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
     y-axis "Reactions"
     line [185, 186, 188, 188, 188, 188, 188, 191, 191, 191, 191, 191, 191, 193]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 125 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 3, Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2]
-    y-axis "Reactions"
-    line [119, 119, 119, 120, 120, 120, 120, 120, 120, 122, 124, 125, 125, 125]
   ```
 
   </details>
