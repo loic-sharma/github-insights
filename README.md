@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-03-10 to 2025-06-07.
+Issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Add support for custom cluster icon in Google Map Flutter [flutter/flutter#15309
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-framework` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Allow Hero widgets to have transitions within the same screen [flutter/flutter#5
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-design` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`f: cupertino` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 566 | [45](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/fl
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,7 +114,7 @@ Add ability for text field TextInputAction to be dynamic [flutter/flutter#30331]
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-go_router` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,7 +124,7 @@ Issue | Total reactions | Recent reactions
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-tool` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -146,7 +146,7 @@ Flutter test doesn't report the failing tests in the summary [flutter/flutter#10
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-engine` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
@@ -169,7 +169,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-ios` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -191,7 +191,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-android` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -213,7 +213,7 @@ android_camerax plugin returns .temp extension for recorded video [flutter/flutt
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-web` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -235,7 +235,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -257,7 +257,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`team-ecosystem` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -279,7 +279,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`dart-lang/sdk` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -301,7 +301,7 @@ proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-03-10 to 2025-06-07.
+`dart-lang/language` issues that received the most reactions from 2025-03-10 to 2025-06-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
