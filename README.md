@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 146 | [146](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [106](#dart-lang-language-4271-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 57 | [57](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 63 | [63](#flutter-flutter-170310-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 183 | [55](#dart-lang-sdk-55281-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 568 | [47](#flutter-flutter-101479-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [42](#flutter-flutter-142845-graph)
@@ -178,8 +178,8 @@ Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](ht
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 51 | [8](#flutter-flutter-115926-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 285 | [7](#flutter-flutter-28901-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 147 | [7](#flutter-flutter-28894-graph)
+Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 52 | [7](#flutter-flutter-163984-graph)
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 61 | [6](#flutter-flutter-91241-graph)
-Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 51 | [6](#flutter-flutter-163984-graph)
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 73 | [5](#flutter-flutter-106612-graph)
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 24 | 4
 google_maps is not drawing customized Polyline on iOS [flutter/flutter#60083](https://github.com/flutter/flutter/issues/60083) | 23 | 4
@@ -390,7 +390,7 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 57 total reactions, 57 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 63 total reactions, 63 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -399,7 +399,7 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 57]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 63]
   ```
 
   </details>
@@ -694,6 +694,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-165787-graph"></a>
+### [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView)
+  <sub>[flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-166248-graph"></a>
 ### Flutter Crashes OpenGL on MediaTek
   <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -723,23 +740,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-165787-graph"></a>
-### [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView)
-  <sub>[flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 18]
   ```
 
   </details>
@@ -1544,23 +1544,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-18554-graph"></a>
-### [Proposal] Allow to adjust hitSlop of GestureDetector
-  <sub>[flutter/flutter#18554](https://github.com/flutter/flutter/issues/18554) &mdash; 27 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [0, 0, 23, 25, 25, 26, 26, 27, 27, 27, 27, 27, 27, 27]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-151638-graph"></a>
 ### Investigate path resolution for "libflutter.so" binary
   <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 27 total reactions, 8 recent reactions</sub><br />
@@ -1573,6 +1556,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [19, 19, 20, 21, 24, 24, 24, 26, 27, 27, 27, 27, 27, 27]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-18554-graph"></a>
+### [Proposal] Allow to adjust hitSlop of GestureDetector
+  <sub>[flutter/flutter#18554](https://github.com/flutter/flutter/issues/18554) &mdash; 27 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [0, 0, 23, 25, 25, 26, 26, 27, 27, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -1743,6 +1743,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [57, 57, 58, 59, 60, 60, 60, 60, 60, 60, 60, 61, 62, 63]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-163984-graph"></a>
+### Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)`
+  <sub>[flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) &mdash; 52 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [46, 47, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 52]
   ```
 
   </details>
@@ -1947,23 +1964,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [48, 48, 48, 48, 48, 49, 51, 52, 52, 52, 52, 52, 52, 54]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-163984-graph"></a>
-### Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)`
-  <sub>[flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) &mdash; 51 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [46, 47, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 51]
   ```
 
   </details>
