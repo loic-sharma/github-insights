@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 466 | [466](#flutter-flutter-168813-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 284 | [284](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 288 | [288](#flutter-flutter-170310-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 150 | [150](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [106](#dart-lang-language-4271-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 603 | [82](#flutter-flutter-101479-graph)
@@ -55,7 +55,7 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 466 | [466](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 284 | [284](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 288 | [288](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 603 | [82](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 54 | [54](#flutter-flutter-165502-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 94 | [14](#flutter-flutter-48381-graph)
@@ -64,7 +64,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 300 | [7](#flutter-flutter-21594-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 51 | [7](#flutter-flutter-97496-graph)
 Should the modal barrier of an Alert also change the color of the status bar? [flutter/flutter#24969](https://github.com/flutter/flutter/issues/24969) | 23 | [7](#flutter-flutter-24969-graph)
-Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 20 | [6](#flutter-flutter-161687-graph)
+Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 21 | [7](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 47 | [5](#flutter-flutter-53059-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 267 | 3
 Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 96 | 3
@@ -75,9 +75,9 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 `f: cupertino` issues that received the most reactions from 2025-03-10 to 2025-06-12.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 284 | [284](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 288 | [288](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 603 | [82](#flutter-flutter-101479-graph)
-Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 20 | [6](#flutter-flutter-161687-graph)
+Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 21 | [7](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 47 | [5](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 28 | 3
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 44 | 2
@@ -308,8 +308,8 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 Incorporate handling private named parameters in primary constructors [dart-lang/language#4400](https://github.com/dart-lang/language/issues/4400) | 32 | [32](#dart-lang-language-4400-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1163 | [26](#dart-lang-language-723-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
+Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 19 | [19](#dart-lang-language-4404-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 18 | [18](#dart-lang-language-4321-graph)
-Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 18 | [18](#dart-lang-language-4404-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 97 | [17](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 248 | [14](#dart-lang-language-2364-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
@@ -356,7 +356,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 284 total reactions, 284 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 288 total reactions, 288 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 284]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 288]
   ```
 
   </details>
@@ -711,6 +711,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-language-4404-graph"></a>
+### Define local enums
+  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 19 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-163984-graph"></a>
 ### Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)`
   <sub>[flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) &mdash; 63 total reactions, 18 recent reactions</sub><br />
@@ -774,23 +791,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4404-graph"></a>
-### Define local enums
-  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
   ```
 
   </details>
@@ -1901,6 +1901,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-161687-graph"></a>
+### Cupertino Sheet should have drag to dismiss and nested scrolling work together
+  <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 21 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [0, 0, 0, 14, 15, 15, 15, 15, 15, 15, 16, 20, 20, 21]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-69529-graph"></a>
 ### [web] Scroll is not recognized by the browser
   <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 197 total reactions, 6 recent reactions</sub><br />
@@ -2049,23 +2066,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [34, 35, 35, 35, 35, 35, 35, 36, 38, 38, 38, 39, 39, 40]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-161687-graph"></a>
-### Cupertino Sheet should have drag to dismiss and nested scrolling work together
-  <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 20 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 14, 15, 15, 15, 15, 15, 15, 16, 20, 20, 20]
   ```
 
   </details>
