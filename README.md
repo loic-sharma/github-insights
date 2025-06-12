@@ -6,12 +6,12 @@ Issues that received the most reactions from 2025-03-10 to 2025-06-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 471 | [471](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 473 | [473](#flutter-flutter-168813-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 305 | [305](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 316 | [316](#flutter-flutter-170310-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 151 | [151](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [106](#dart-lang-language-4271-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 607 | [86](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 611 | [90](#flutter-flutter-101479-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 185 | [57](#dart-lang-sdk-55281-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 55 | [55](#flutter-flutter-165502-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [42](#flutter-flutter-142845-graph)
@@ -54,9 +54,9 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 471 | [471](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 305 | [305](#flutter-flutter-170310-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 607 | [86](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 473 | [473](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 316 | [316](#flutter-flutter-170310-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 611 | [90](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 55 | [55](#flutter-flutter-165502-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 94 | [14](#flutter-flutter-48381-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 128 | [9](#flutter-flutter-102560-graph)
@@ -75,8 +75,8 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 `f: cupertino` issues that received the most reactions from 2025-03-10 to 2025-06-12.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 305 | [305](#flutter-flutter-170310-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 607 | [86](#flutter-flutter-101479-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 316 | [316](#flutter-flutter-170310-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 611 | [90](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 21 | [7](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 47 | [5](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 28 | 3
@@ -99,7 +99,7 @@ Issue | Total reactions | Recent reactions
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | [10](#flutter-flutter-25841-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 87 | [8](#flutter-flutter-124205-graph)
-Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 84 | [7](#flutter-flutter-40682-graph)
+Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [8](#flutter-flutter-40682-graph)
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 24 | [5](#flutter-flutter-149753-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 109 | 4
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 35 | 4
@@ -176,7 +176,7 @@ Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect
 [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView) [flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) | 18 | [18](#flutter-flutter-165787-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 355 | [10](#flutter-flutter-110431-graph)
 Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](https://github.com/flutter/flutter/issues/103163) | 74 | [9](#flutter-flutter-103163-graph)
-Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 51 | [8](#flutter-flutter-115926-graph)
+Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 52 | [9](#flutter-flutter-115926-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 285 | [7](#flutter-flutter-28901-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 147 | [7](#flutter-flutter-28894-graph)
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 61 | [6](#flutter-flutter-91241-graph)
@@ -194,7 +194,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 60 | [23](#flutter-flutter-139427-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 15 | [15](#flutter-flutter-169215-graph)
-[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 27 | [13](#flutter-flutter-153075-graph)
+[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 28 | [14](#flutter-flutter-153075-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 59 | [12](#flutter-flutter-145961-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 27 | [8](#flutter-flutter-151638-graph)
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 63 | [7](#flutter-flutter-9707-graph)
@@ -224,7 +224,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [10](#flutter-flutter-51530-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 47 | [10](#flutter-flutter-152588-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 87 | [8](#flutter-flutter-124205-graph)
-Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 84 | [7](#flutter-flutter-40682-graph)
+Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [8](#flutter-flutter-40682-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 197 | [6](#flutter-flutter-69529-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 58 | [6](#flutter-flutter-129933-graph)
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 54 | [6](#flutter-flutter-64073-graph)
@@ -268,7 +268,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [10](#flutter-flutter-51530-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 47 | [10](#flutter-flutter-152588-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 87 | [8](#flutter-flutter-124205-graph)
-Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 84 | [7](#flutter-flutter-40682-graph)
+Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [8](#flutter-flutter-40682-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 197 | [6](#flutter-flutter-69529-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 58 | [6](#flutter-flutter-129933-graph)
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 54 | [6](#flutter-flutter-64073-graph)
@@ -322,7 +322,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 471 total reactions, 471 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 473 total reactions, 473 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 471]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 473]
   ```
 
   </details>
@@ -356,7 +356,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 305 total reactions, 305 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 316 total reactions, 316 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 305]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 316]
   ```
 
   </details>
@@ -407,7 +407,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 607 total reactions, 86 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 611 total reactions, 90 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -416,7 +416,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 607]
+    line [522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 611]
   ```
 
   </details>
@@ -745,6 +745,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-language-4321-graph"></a>
+### Introduce throws keyword (like Swift) for marking throwable functions
+  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-165787-graph"></a>
 ### [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView)
   <sub>[flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -774,23 +791,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4321-graph"></a>
-### Introduce throws keyword (like Swift) for marking throwable functions
-  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18]
   ```
 
   </details>
@@ -966,6 +966,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-153075-graph"></a>
+### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
+  <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 28 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [0, 14, 14, 14, 14, 15, 15, 15, 16, 16, 17, 22, 27, 28]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4317-graph"></a>
 ### Optionally imported libraries.
   <sub>[dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -1097,23 +1114,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [23, 23, 25, 29, 30, 33, 33, 33, 33, 35, 35, 35, 36, 36]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-153075-graph"></a>
-### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
-  <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 27 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [0, 14, 14, 14, 14, 15, 15, 15, 16, 16, 17, 22, 27, 27]
   ```
 
   </details>
@@ -1544,6 +1544,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 52 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [46, 46, 47, 47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 211 total reactions, 8 recent reactions</sub><br />
@@ -1595,9 +1612,9 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 51 total reactions, 8 recent reactions</sub><br />
+<a name="flutter-flutter-40682-graph"></a>
+### Spellcheck on Flutter Web
+  <sub>[flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) &mdash; 85 total reactions, 8 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1606,7 +1623,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [46, 46, 47, 47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 51]
+    line [77, 77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 84, 85]
   ```
 
   </details>
@@ -1794,23 +1811,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [110, 111, 111, 112, 112, 113, 113, 113, 115, 115, 115, 115, 116, 117]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-40682-graph"></a>
-### Spellcheck on Flutter Web
-  <sub>[flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) &mdash; 84 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [77, 77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 84, 84]
   ```
 
   </details>
