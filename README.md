@@ -6,12 +6,12 @@ Issues that received the most reactions from 2025-03-10 to 2025-06-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 466 | [466](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 467 | [467](#flutter-flutter-168813-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 290 | [290](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 300 | [300](#flutter-flutter-170310-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 150 | [150](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [106](#dart-lang-language-4271-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 604 | [83](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 606 | [85](#flutter-flutter-101479-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 185 | [57](#dart-lang-sdk-55281-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 55 | [55](#flutter-flutter-165502-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [42](#flutter-flutter-142845-graph)
@@ -54,9 +54,9 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 466 | [466](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 290 | [290](#flutter-flutter-170310-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 604 | [83](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 467 | [467](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 300 | [300](#flutter-flutter-170310-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 606 | [85](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 55 | [55](#flutter-flutter-165502-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 94 | [14](#flutter-flutter-48381-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 128 | [9](#flutter-flutter-102560-graph)
@@ -75,8 +75,8 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 `f: cupertino` issues that received the most reactions from 2025-03-10 to 2025-06-12.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 290 | [290](#flutter-flutter-170310-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 604 | [83](#flutter-flutter-101479-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 300 | [300](#flutter-flutter-170310-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 606 | [85](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 21 | [7](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 47 | [5](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 28 | 3
@@ -128,7 +128,7 @@ Issue | Total reactions | Recent reactions
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 162 | [15](#flutter-flutter-65065-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 158 | [12](#flutter-flutter-46979-graph)
 ☂️ Build hooks & Code assets [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 80 | [10](#flutter-flutter-129757-graph)
-Let flutter be installable via homebrew [flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) | 1017 | [8](#flutter-flutter-14050-graph)
+Let flutter be installable via homebrew [flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) | 1018 | [9](#flutter-flutter-14050-graph)
  flutter run --watch option [flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) | 28 | [8](#flutter-flutter-136494-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 117 | [7](#flutter-flutter-107157-graph)
 Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.com/flutter/flutter/issues/59430) | 88 | [6](#flutter-flutter-59430-graph)
@@ -322,7 +322,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 466 total reactions, 466 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 467 total reactions, 467 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 466]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 467]
   ```
 
   </details>
@@ -356,7 +356,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 290 total reactions, 290 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 300 total reactions, 300 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 290]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 300]
   ```
 
   </details>
@@ -407,7 +407,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 604 total reactions, 83 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 606 total reactions, 85 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -416,7 +416,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 604]
+    line [522, 527, 527, 529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 606]
   ```
 
   </details>
@@ -1459,6 +1459,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-14050-graph"></a>
+### Let flutter be installable via homebrew
+  <sub>[flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) &mdash; 1018 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [1009, 1010, 1011, 1012, 1012, 1012, 1012, 1012, 1012, 1012, 1014, 1014, 1014, 1018]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-138614-graph"></a>
 ### Preserve WillPopScope as an alternate for PopScope
   <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 239 total reactions, 9 recent reactions</sub><br />
@@ -1522,23 +1539,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [67, 68, 69, 70, 71, 71, 71, 71, 71, 71, 73, 74, 74, 74]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14050-graph"></a>
-### Let flutter be installable via homebrew
-  <sub>[flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) &mdash; 1017 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [1009, 1010, 1011, 1012, 1012, 1012, 1012, 1012, 1012, 1012, 1014, 1014, 1014, 1017]
   ```
 
   </details>
@@ -2224,23 +2224,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
-<a name="flutter-flutter-150525-graph"></a>
-### Merge the platform and UI threads
-  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 37 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 34, 35, 37, 37]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-52947-graph"></a>
 ### Dart LSP slow startup/first response on large codebase
   <sub>[dart-lang/sdk#52947](https://github.com/dart-lang/sdk/issues/52947) &mdash; 37 total reactions, 5 recent reactions</sub><br />
@@ -2253,6 +2236,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [33, 33, 33, 34, 34, 34, 34, 34, 34, 35, 36, 36, 36, 37]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-150525-graph"></a>
+### Merge the platform and UI threads
+  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 37 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [33, 33, 33, 33, 33, 33, 33, 33, 33, 33, 34, 35, 37, 37]
   ```
 
   </details>
