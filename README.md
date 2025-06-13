@@ -2,20 +2,20 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-03-10 to 2025-06-12.
+Issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 475 | [475](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 477 | [477](#flutter-flutter-168813-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 326 | [326](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 330 | [330](#flutter-flutter-170310-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 151 | [151](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [106](#dart-lang-language-4271-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 612 | [91](#flutter-flutter-101479-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 185 | [57](#dart-lang-sdk-55281-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 55 | [55](#flutter-flutter-165502-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [42](#flutter-flutter-142845-graph)
-Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1079 | [37](#dart-lang-language-357-graph)
+Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1080 | [38](#dart-lang-language-357-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 36 | [36](#dart-lang-sdk-60335-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2238 | [32](#dart-lang-language-314-graph)
 Incorporate handling private named parameters in primary constructors [dart-lang/language#4400](https://github.com/dart-lang/language/issues/4400) | 32 | [32](#dart-lang-language-4400-graph)
@@ -28,7 +28,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-framework` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,18 +50,18 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-design` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 475 | [475](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 326 | [326](#flutter-flutter-170310-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 477 | [477](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 330 | [330](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 612 | [91](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 55 | [55](#flutter-flutter-165502-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 94 | [14](#flutter-flutter-48381-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 128 | [9](#flutter-flutter-102560-graph)
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 90 | [9](#flutter-flutter-36283-graph)
-A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 52 | [8](#flutter-flutter-97496-graph)
+A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 53 | [9](#flutter-flutter-97496-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 50 | [8](#flutter-flutter-53059-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 300 | [7](#flutter-flutter-21594-graph)
 Should the modal barrier of an Alert also change the color of the status bar? [flutter/flutter#24969](https://github.com/flutter/flutter/issues/24969) | 23 | [7](#flutter-flutter-24969-graph)
@@ -72,10 +72,10 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`f: cupertino` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 326 | [326](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 330 | [330](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 612 | [91](#flutter-flutter-101479-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 50 | [8](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 21 | [7](#flutter-flutter-161687-graph)
@@ -93,7 +93,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,14 +114,14 @@ Add ability for text field TextInputAction to be dynamic [flutter/flutter#30331]
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-go_router` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-tool` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-engine` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
@@ -166,7 +166,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-ios` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Plugins could avoid warnings by installing UIApplicationDelegate methods dynamic
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-android` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-web` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`team-ecosystem` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`dart-lang/sdk` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,17 +298,17 @@ Support async expression evaluation in debuggers [dart-lang/sdk#40198](https://g
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-03-10 to 2025-06-12.
+`dart-lang/language` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [106](#dart-lang-language-4271-graph)
-Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1079 | [37](#dart-lang-language-357-graph)
+Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1080 | [38](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2238 | [32](#dart-lang-language-314-graph)
 Incorporate handling private named parameters in primary constructors [dart-lang/language#4400](https://github.com/dart-lang/language/issues/4400) | 32 | [32](#dart-lang-language-4400-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1163 | [26](#dart-lang-language-723-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
-Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 20 | [20](#dart-lang-language-4404-graph)
+Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 21 | [21](#dart-lang-language-4404-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 18 | [18](#dart-lang-language-4321-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 97 | [17](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 248 | [14](#dart-lang-language-2364-graph)
@@ -316,13 +316,13 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [13](#dart-lang-language-356-graph)
-It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 254 | [12](#dart-lang-language-333-graph)
+Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 13 | [13](#dart-lang-language-4403-graph)
 
 ## Graphs
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 475 total reactions, 475 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 477 total reactions, 477 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 475]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 477]
   ```
 
   </details>
@@ -356,7 +356,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 326 total reactions, 326 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 330 total reactions, 330 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 330]
   ```
 
   </details>
@@ -475,7 +475,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="dart-lang-language-357-graph"></a>
 ### Dot shorthands: Allow for shorter dot syntax to access enum values
-  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1079 total reactions, 37 recent reactions</sub><br />
+  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1080 total reactions, 38 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -484,7 +484,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [1043, 1045, 1047, 1051, 1053, 1054, 1054, 1055, 1058, 1059, 1074, 1076, 1078, 1079]
+    line [1043, 1045, 1047, 1051, 1053, 1054, 1054, 1055, 1058, 1059, 1074, 1076, 1078, 1080]
   ```
 
   </details>
@@ -677,6 +677,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-language-4404-graph"></a>
+### Define local enums
+  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 21 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 693 total reactions, 20 recent reactions</sub><br />
@@ -706,23 +723,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 19, 19, 19, 20, 20, 20, 20, 20, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4404-graph"></a>
-### Define local enums
-  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20]
   ```
 
   </details>
@@ -1119,6 +1119,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-language-4403-graph"></a>
+### Allow instance and metaobject members in one declaration?
+  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-18443-graph"></a>
 ### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
   <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 318 total reactions, 12 recent reactions</sub><br />
@@ -1131,23 +1148,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [306, 306, 306, 308, 312, 312, 313, 313, 313, 315, 316, 317, 318, 318]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-333-graph"></a>
-### It is necessary to implement threads
-  <sub>[dart-lang/language#333](https://github.com/dart-lang/language/issues/333) &mdash; 254 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [242, 242, 243, 245, 246, 247, 248, 248, 248, 251, 251, 251, 254, 254]
   ```
 
   </details>
@@ -1544,6 +1544,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-97496-graph"></a>
+### A Standard For Implementing Custom UIs
+  <sub>[flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) &mdash; 53 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [44, 44, 44, 44, 44, 44, 44, 44, 44, 47, 47, 47, 47, 53]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-115926-graph"></a>
 ### Blur filter isn't clipped when using border radius
   <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 52 total reactions, 9 recent reactions</sub><br />
@@ -1624,23 +1641,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
     line [77, 77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 84, 85]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-97496-graph"></a>
-### A Standard For Implementing Custom UIs
-  <sub>[flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) &mdash; 52 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [44, 44, 44, 44, 44, 44, 44, 44, 44, 47, 47, 47, 47, 52]
   ```
 
   </details>
