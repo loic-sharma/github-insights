@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 477 | [477](#flutter-flutter-168813-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 330 | [330](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 331 | [331](#flutter-flutter-170310-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 151 | [151](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 183 | [106](#dart-lang-language-4271-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 612 | [91](#flutter-flutter-101479-graph)
@@ -55,7 +55,7 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 477 | [477](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 330 | [330](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 331 | [331](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 612 | [91](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 55 | [55](#flutter-flutter-165502-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 94 | [14](#flutter-flutter-48381-graph)
@@ -75,7 +75,7 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 `f: cupertino` issues that received the most reactions from 2025-03-10 to 2025-06-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 330 | [330](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 331 | [331](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 612 | [91](#flutter-flutter-101479-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 50 | [8](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 21 | [7](#flutter-flutter-161687-graph)
@@ -356,7 +356,7 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 330 total reactions, 330 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 331 total reactions, 331 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
   xychart-beta
     x-axis "Week" [Mar 10, Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 330]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 331]
   ```
 
   </details>
