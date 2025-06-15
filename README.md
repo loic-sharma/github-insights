@@ -309,8 +309,8 @@ Incorporate handling private named parameters in primary constructors [dart-lang
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1163 | [26](#dart-lang-language-723-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
 Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 22 | [22](#dart-lang-language-4404-graph)
+More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 98 | [18](#dart-lang-language-3021-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 18 | [18](#dart-lang-language-4321-graph)
-More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 97 | [17](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 248 | [14](#dart-lang-language-2364-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
@@ -728,6 +728,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-3021-graph"></a>
+### More concise syntax for defining sealed families
+  <sub>[dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) &mdash; 98 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    y-axis "Reactions"
+    line [81, 81, 81, 81, 81, 81, 81, 81, 81, 95, 96, 96, 98]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-165787-graph"></a>
 ### [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView)
   <sub>[flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -774,23 +791,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-3021-graph"></a>
-### More concise syntax for defining sealed families
-  <sub>[dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) &mdash; 97 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [81, 81, 81, 81, 81, 81, 81, 81, 81, 95, 96, 96, 97]
   ```
 
   </details>
