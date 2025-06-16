@@ -2,25 +2,25 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-03-17 to 2025-06-15.
+Issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 485 | [485](#flutter-flutter-168813-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 355 | [355](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 356 | [356](#flutter-flutter-170310-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 152 | [152](#flutter-flutter-166333-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 184 | [103](#dart-lang-language-4271-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 617 | [94](#flutter-flutter-101479-graph)
-[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 58 | [58](#flutter-flutter-165502-graph)
+[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 59 | [59](#flutter-flutter-165502-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 185 | [49](#dart-lang-sdk-55281-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1080 | [37](#dart-lang-language-357-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 36 | [36](#dart-lang-sdk-60335-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [35](#flutter-flutter-142845-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2239 | [32](#dart-lang-language-314-graph)
-Incorporate handling private named parameters in primary constructors [dart-lang/language#4400](https://github.com/dart-lang/language/issues/4400) | 32 | [32](#dart-lang-language-4400-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 99 | [27](#flutter-flutter-153092-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 46 | [27](#dart-lang-sdk-56841-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1163 | [26](#dart-lang-language-723-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-framework` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,14 +50,14 @@ Reusing state logic is either too verbose or too difficult [flutter/flutter#5175
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-design` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 485 | [485](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 355 | [355](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 356 | [356](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 617 | [94](#flutter-flutter-101479-graph)
-[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 58 | [58](#flutter-flutter-165502-graph)
+[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 59 | [59](#flutter-flutter-165502-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 94 | [14](#flutter-flutter-48381-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 55 | [11](#flutter-flutter-97496-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 25 | [11](#flutter-flutter-161687-graph)
@@ -72,10 +72,10 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`f: cupertino` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 355 | [355](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 356 | [356](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 617 | [94](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 25 | [11](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 50 | [8](#flutter-flutter-53059-graph)
@@ -93,7 +93,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,14 +114,14 @@ Input validator async [flutter/flutter#9688](https://github.com/flutter/flutter/
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-go_router` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-tool` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,13 +137,13 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 flutter test --coverage and flutter test --watch [flutter/flutter#4719](https://github.com/flutter/flutter/issues/4719) | 120 | 3
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 82 | 3
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 25 | 3
-On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route to host, errno = 65 [flutter/flutter#150131](https://github.com/flutter/flutter/issues/150131) | 21 | 3
 flutter downgrade to support version selection [flutter/flutter#71723](https://github.com/flutter/flutter/issues/71723) | 21 | 3
+On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route to host, errno = 65 [flutter/flutter#150131](https://github.com/flutter/flutter/issues/150131) | 21 | 3
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 19 | 3
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-engine` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [385](#flutter-flutter-66618-graph)
@@ -166,13 +166,13 @@ Merge the platform and UI threads [flutter/flutter#150525](https://github.com/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-ios` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 152 | [152](#flutter-flutter-166333-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 42 | [23](#flutter-flutter-163845-graph)
-Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 67 | [20](#flutter-flutter-163984-graph)
+Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 68 | [21](#flutter-flutter-163984-graph)
 [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView) [flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) | 18 | [18](#flutter-flutter-165787-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 355 | [10](#flutter-flutter-110431-graph)
 Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](https://github.com/flutter/flutter/issues/103163) | 74 | [7](#flutter-flutter-103163-graph)
@@ -188,7 +188,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-android` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,12 +210,12 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-web` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 92 | [16](#flutter-flutter-149031-graph)
-[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 285 | [13](#flutter-flutter-45296-graph)
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 286 | [14](#flutter-flutter-45296-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [12](#flutter-flutter-130472-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 170 | [10](#flutter-flutter-46589-graph)
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [10](#flutter-flutter-51530-graph)
@@ -232,7 +232,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,12 +254,12 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`team-ecosystem` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 92 | [16](#flutter-flutter-149031-graph)
-[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 285 | [13](#flutter-flutter-45296-graph)
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 286 | [14](#flutter-flutter-45296-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [12](#flutter-flutter-130472-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 170 | [10](#flutter-flutter-46589-graph)
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [10](#flutter-flutter-51530-graph)
@@ -276,7 +276,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`dart-lang/sdk` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,25 +298,25 @@ Missing inspections for unused class, unused public methods and properties [dart
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-03-17 to 2025-06-15.
+`dart-lang/language` issues that received the most reactions from 2025-03-17 to 2025-06-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 184 | [103](#dart-lang-language-4271-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1080 | [37](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2239 | [32](#dart-lang-language-314-graph)
-Incorporate handling private named parameters in primary constructors [dart-lang/language#4400](https://github.com/dart-lang/language/issues/4400) | 32 | [32](#dart-lang-language-4400-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1163 | [26](#dart-lang-language-723-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
-Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 22 | [22](#dart-lang-language-4404-graph)
+Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 23 | [23](#dart-lang-language-4404-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 98 | [18](#dart-lang-language-3021-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 18 | [18](#dart-lang-language-4321-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 248 | [14](#dart-lang-language-2364-graph)
+Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Easier loop for maps [dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) | 14 | [14](#dart-lang-language-4298-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
-Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 13 | [13](#dart-lang-language-4403-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [12](#dart-lang-language-356-graph)
+It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 254 | [12](#dart-lang-language-333-graph)
 
 ## Graphs
 
@@ -329,9 +329,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 485]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 485, 485]
   ```
 
   </details>
@@ -346,9 +346,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [54, 55, 56, 56, 56, 56, 56, 428, 436, 438, 439, 438, 438]
+    line [54, 55, 56, 56, 56, 56, 56, 428, 436, 438, 439, 438, 438, 438]
   ```
 
   </details>
@@ -356,16 +356,16 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 355 total reactions, 355 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 356 total reactions, 356 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 356]
   ```
 
   </details>
@@ -380,9 +380,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 21, 43, 60, 75, 89, 97, 111, 127, 137, 143, 152]
+    line [0, 0, 21, 43, 60, 75, 89, 97, 111, 127, 137, 143, 152, 152]
   ```
 
   </details>
@@ -397,9 +397,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [83, 89, 96, 100, 123, 129, 136, 137, 153, 164, 183, 183, 184]
+    line [83, 89, 96, 100, 123, 129, 136, 137, 153, 164, 183, 183, 184, 184]
   ```
 
   </details>
@@ -414,9 +414,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [527, 527, 529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 617]
+    line [527, 527, 529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 617, 617]
   ```
 
   </details>
@@ -424,16 +424,16 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-165502-graph"></a>
 ### [proposal] blankcanvas 2.0
-  <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 58 total reactions, 58 recent reactions</sub><br />
+  <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 59 total reactions, 59 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 14, 19, 24, 28, 34, 58]
+    line [0, 0, 0, 0, 0, 0, 0, 14, 19, 24, 28, 34, 58, 59]
   ```
 
   </details>
@@ -448,9 +448,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [139, 145, 148, 154, 163, 167, 170, 172, 175, 178, 180, 183, 185]
+    line [139, 145, 148, 154, 163, 167, 170, 172, 175, 178, 180, 183, 185, 185]
   ```
 
   </details>
@@ -465,9 +465,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [1045, 1047, 1051, 1053, 1054, 1054, 1055, 1058, 1059, 1074, 1076, 1078, 1080]
+    line [1045, 1047, 1051, 1053, 1054, 1054, 1055, 1058, 1059, 1074, 1076, 1078, 1080, 1080]
   ```
 
   </details>
@@ -482,9 +482,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 12, 20, 22, 27, 29, 32, 33, 35, 36, 36, 36]
+    line [0, 0, 12, 20, 22, 27, 29, 32, 33, 35, 36, 36, 36, 36]
   ```
 
   </details>
@@ -499,9 +499,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [165, 168, 172, 173, 174, 175, 176, 180, 181, 191, 192, 197, 198]
+    line [165, 168, 172, 173, 174, 175, 176, 180, 181, 191, 192, 197, 198, 198]
   ```
 
   </details>
@@ -516,26 +516,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [2211, 2215, 2217, 2218, 2220, 2221, 2222, 2224, 2230, 2231, 2233, 2238, 2239]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4400-graph"></a>
-### Incorporate handling private named parameters in primary constructors
-  <sub>[dart-lang/language#4400](https://github.com/dart-lang/language/issues/4400) &mdash; 32 total reactions, 32 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, 32]
+    line [2211, 2215, 2217, 2218, 2220, 2221, 2222, 2224, 2230, 2231, 2233, 2238, 2239, 2239]
   ```
 
   </details>
@@ -550,9 +533,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [74, 78, 82, 82, 82, 84, 85, 89, 90, 92, 92, 95, 99]
+    line [74, 78, 82, 82, 82, 84, 85, 89, 90, 92, 92, 95, 99, 99]
   ```
 
   </details>
@@ -567,9 +550,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [19, 20, 32, 33, 33, 35, 35, 37, 42, 42, 42, 46, 46]
+    line [19, 20, 32, 33, 33, 35, 35, 37, 42, 42, 42, 46, 46, 46]
   ```
 
   </details>
@@ -584,9 +567,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [1142, 1144, 1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163]
+    line [1142, 1144, 1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1163]
   ```
 
   </details>
@@ -601,9 +584,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 17, 18, 19, 19, 23, 25, 25]
+    line [0, 0, 0, 0, 0, 0, 17, 18, 19, 19, 23, 25, 25, 25]
   ```
 
   </details>
@@ -618,9 +601,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [52, 53, 55, 55, 55, 55, 57, 57, 57, 63, 64, 70, 72]
+    line [52, 53, 55, 55, 55, 55, 57, 57, 57, 63, 64, 70, 72, 72]
   ```
 
   </details>
@@ -635,9 +618,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 20, 21, 21, 22, 22, 26, 34, 35, 35, 36, 37, 42]
+    line [0, 20, 21, 21, 22, 22, 26, 34, 35, 35, 36, 37, 42, 42]
   ```
 
   </details>
@@ -645,16 +628,16 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="dart-lang-language-4404-graph"></a>
 ### Define local enums
-  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 23 total reactions, 23 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 23]
   ```
 
   </details>
@@ -662,16 +645,16 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-163984-graph"></a>
 ### Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)`
-  <sub>[flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) &mdash; 67 total reactions, 20 recent reactions</sub><br />
+  <sub>[flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) &mdash; 68 total reactions, 21 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [47, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 67]
+    line [47, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 67, 68]
   ```
 
   </details>
@@ -686,9 +669,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [40, 41, 43, 45, 47, 50, 50, 51, 53, 55, 58, 58, 60]
+    line [40, 41, 43, 45, 47, 50, 50, 51, 53, 55, 58, 58, 60, 60]
   ```
 
   </details>
@@ -703,9 +686,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 19, 19, 19, 20, 20, 20, 20, 20, 20, 20]
+    line [0, 0, 0, 19, 19, 19, 20, 20, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -720,9 +703,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [190, 190, 190, 196, 196, 196, 198, 198, 198, 203, 204, 205, 206]
+    line [190, 190, 190, 196, 196, 196, 198, 198, 198, 203, 204, 205, 206, 206]
   ```
 
   </details>
@@ -737,9 +720,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [81, 81, 81, 81, 81, 81, 81, 81, 81, 95, 96, 96, 98]
+    line [81, 81, 81, 81, 81, 81, 81, 81, 81, 95, 96, 96, 98, 98]
   ```
 
   </details>
@@ -754,9 +737,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -771,9 +754,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 18]
   ```
 
   </details>
@@ -788,9 +771,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18]
+    line [0, 0, 0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18, 18]
   ```
 
   </details>
@@ -805,9 +788,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [79, 80, 80, 81, 83, 83, 83, 92, 92, 92, 92, 96, 96]
+    line [79, 80, 80, 81, 83, 83, 83, 92, 92, 92, 92, 96, 96, 96]
   ```
 
   </details>
@@ -822,9 +805,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [76, 76, 77, 80, 81, 82, 83, 83, 86, 88, 89, 90, 92]
+    line [76, 76, 77, 80, 81, 82, 83, 83, 86, 88, 89, 90, 92, 92]
   ```
 
   </details>
@@ -839,9 +822,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [521, 522, 528, 531, 531, 531, 531, 532, 532, 532, 532, 533, 534]
+    line [521, 522, 528, 531, 531, 531, 531, 532, 532, 532, 532, 533, 534, 534]
   ```
 
   </details>
@@ -856,9 +839,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [23, 25, 29, 30, 33, 33, 33, 33, 35, 35, 35, 36, 38]
+    line [23, 25, 29, 30, 33, 33, 33, 33, 35, 35, 35, 36, 38, 38]
   ```
 
   </details>
@@ -873,9 +856,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15]
   ```
 
   </details>
@@ -890,9 +873,26 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [679, 679, 681, 687, 687, 687, 687, 687, 687, 693, 693, 693, 693]
+    line [679, 679, 681, 687, 687, 687, 687, 687, 687, 693, 693, 693, 693, 693]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-45296-graph"></a>
+### [path_provider] Add support for web
+  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 286 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
+    y-axis "Reactions"
+    line [272, 272, 273, 275, 276, 277, 278, 278, 280, 285, 285, 285, 285, 286]
   ```
 
   </details>
@@ -907,9 +907,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [235, 236, 236, 237, 237, 238, 239, 240, 241, 243, 245, 248, 248]
+    line [235, 236, 236, 237, 237, 238, 239, 240, 241, 243, 245, 248, 248, 248]
   ```
 
   </details>
@@ -924,9 +924,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [148, 148, 153, 154, 155, 155, 155, 155, 159, 162, 162, 162, 162]
+    line [148, 148, 153, 154, 155, 155, 155, 155, 159, 162, 162, 162, 162, 162]
   ```
 
   </details>
@@ -941,9 +941,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [82, 82, 83, 83, 84, 89, 92, 92, 92, 92, 93, 93, 94]
+    line [82, 82, 83, 83, 84, 89, 92, 92, 92, 92, 93, 93, 94, 94]
   ```
 
   </details>
@@ -958,43 +958,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [14, 14, 14, 14, 15, 15, 15, 16, 16, 17, 22, 27, 28]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4298-graph"></a>
-### Easier loop for maps
-  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions" 0 --> 20
-    line [10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14]
+    line [14, 14, 14, 14, 15, 15, 15, 16, 16, 17, 22, 27, 28, 28]
   ```
 
   </details>
@@ -1009,9 +975,43 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 9, 9, 11, 11, 11, 13, 14, 14, 14, 14, 14]
+    line [0, 0, 9, 9, 11, 11, 11, 13, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4298-graph"></a>
+### Easier loop for maps
+  <sub>[dart-lang/language#4298](https://github.com/dart-lang/language/issues/4298) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
+    y-axis "Reactions" 0 --> 20
+    line [10, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1026,9 +1026,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [536, 538, 539, 539, 540, 541, 542, 544, 546, 547, 548, 548, 548]
+    line [536, 538, 539, 539, 540, 541, 542, 544, 546, 547, 548, 548, 548, 548]
   ```
 
   </details>
@@ -1043,26 +1043,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [439, 442, 442, 442, 442, 447, 448, 449, 449, 449, 451, 452, 452]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-45296-graph"></a>
-### [path_provider] Add support for web
-  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 285 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
-    y-axis "Reactions"
-    line [272, 272, 273, 275, 276, 277, 278, 278, 280, 285, 285, 285, 285]
+    line [439, 442, 442, 442, 442, 447, 448, 449, 449, 449, 451, 452, 452, 452]
   ```
 
   </details>
@@ -1077,9 +1060,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [191, 191, 191, 193, 193, 195, 195, 196, 198, 199, 199, 200, 201]
+    line [191, 191, 191, 193, 193, 195, 195, 196, 198, 199, 199, 200, 201, 201]
   ```
 
   </details>
@@ -1094,9 +1077,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [42, 44, 46, 47, 47, 48, 49, 49, 49, 50, 52, 53, 54]
+    line [42, 44, 46, 47, 47, 48, 49, 49, 49, 50, 52, 53, 54, 54]
   ```
 
   </details>
@@ -1111,9 +1094,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
   ```
 
   </details>
@@ -1128,9 +1111,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [399, 401, 401, 402, 402, 402, 407, 408, 411, 411, 411, 411, 411]
+    line [399, 401, 401, 402, 402, 402, 407, 408, 411, 411, 411, 411, 411, 411]
   ```
 
   </details>
@@ -1145,9 +1128,26 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [306, 306, 308, 312, 312, 313, 313, 313, 315, 316, 317, 318, 318]
+    line [306, 306, 308, 312, 312, 313, 313, 313, 315, 316, 317, 318, 318, 318]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-333-graph"></a>
+### It is necessary to implement threads
+  <sub>[dart-lang/language#333](https://github.com/dart-lang/language/issues/333) &mdash; 254 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
+    y-axis "Reactions"
+    line [242, 243, 245, 246, 247, 248, 248, 248, 251, 251, 251, 254, 254, 254]
   ```
 
   </details>
@@ -1162,9 +1162,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [49, 49, 51, 52, 53, 53, 56, 56, 56, 56, 58, 60, 60]
+    line [49, 49, 51, 52, 53, 53, 56, 56, 56, 56, 58, 60, 60, 60]
   ```
 
   </details>
@@ -1179,9 +1179,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [25, 25, 25, 26, 26, 26, 28, 30, 35, 35, 35, 35, 35]
+    line [25, 25, 25, 26, 26, 26, 28, 30, 35, 35, 35, 35, 35, 35]
   ```
 
   </details>
@@ -1196,9 +1196,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [147, 149, 150, 150, 153, 153, 153, 153, 154, 154, 155, 157, 158]
+    line [147, 149, 150, 150, 153, 153, 153, 153, 154, 154, 155, 157, 158, 158]
   ```
 
   </details>
@@ -1213,9 +1213,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [49, 49, 49, 50, 50, 50, 52, 52, 52, 52, 54, 60, 60]
+    line [49, 49, 49, 50, 50, 50, 52, 52, 52, 52, 54, 60, 60, 60]
   ```
 
   </details>
@@ -1230,9 +1230,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [50, 50, 52, 53, 53, 53, 55, 57, 57, 57, 57, 59, 59]
+    line [50, 50, 52, 53, 53, 53, 55, 57, 57, 57, 57, 59, 59, 59]
   ```
 
   </details>
@@ -1247,9 +1247,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [44, 44, 44, 44, 44, 44, 44, 44, 47, 47, 47, 47, 55]
+    line [44, 44, 44, 44, 44, 44, 44, 44, 47, 47, 47, 47, 55, 55]
   ```
 
   </details>
@@ -1264,9 +1264,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [39, 41, 41, 42, 44, 44, 45, 44, 44, 46, 46, 49, 49]
+    line [39, 41, 41, 42, 44, 44, 45, 44, 44, 46, 46, 49, 49, 49]
   ```
 
   </details>
@@ -1281,9 +1281,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [31, 31, 40, 41, 41, 41, 42, 42, 42, 42, 42, 42, 42]
+    line [31, 31, 40, 41, 41, 41, 42, 42, 42, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -1298,9 +1298,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 14, 15, 15, 15, 15, 15, 15, 16, 20, 20, 25]
+    line [0, 0, 14, 15, 15, 15, 15, 15, 15, 16, 20, 20, 25, 25]
   ```
 
   </details>
@@ -1315,9 +1315,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [346, 346, 351, 351, 352, 353, 353, 353, 353, 353, 354, 355, 355]
+    line [346, 346, 351, 351, 352, 353, 353, 353, 353, 353, 354, 355, 355, 355]
   ```
 
   </details>
@@ -1332,9 +1332,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [325, 327, 327, 327, 329, 329, 330, 330, 331, 331, 333, 334, 334]
+    line [325, 327, 327, 327, 329, 329, 330, 330, 331, 331, 333, 334, 334, 334]
   ```
 
   </details>
@@ -1349,9 +1349,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [169, 169, 169, 170, 170, 175, 175, 175, 179, 179, 179, 179, 179]
+    line [169, 169, 169, 170, 170, 175, 175, 175, 179, 179, 179, 179, 179, 179]
   ```
 
   </details>
@@ -1366,9 +1366,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [160, 165, 167, 168, 169, 170, 170, 171, 171, 171, 171, 170, 170]
+    line [160, 165, 167, 168, 169, 170, 170, 171, 171, 171, 171, 170, 170, 170]
   ```
 
   </details>
@@ -1383,9 +1383,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [155, 156, 157, 157, 159, 159, 159, 159, 159, 162, 163, 163, 163]
+    line [155, 156, 157, 157, 159, 159, 159, 159, 159, 162, 163, 163, 163, 163]
   ```
 
   </details>
@@ -1400,9 +1400,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [70, 70, 70, 72, 76, 76, 76, 78, 78, 80, 80, 80, 80]
+    line [70, 70, 70, 72, 76, 76, 76, 78, 78, 80, 80, 80, 80, 80]
   ```
 
   </details>
@@ -1417,9 +1417,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [40, 41, 41, 41, 41, 41, 41, 41, 41, 49, 49, 50, 50]
+    line [40, 41, 41, 41, 41, 41, 41, 41, 41, 49, 49, 50, 50, 50]
   ```
 
   </details>
@@ -1434,9 +1434,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [38, 38, 40, 41, 42, 42, 42, 42, 45, 46, 47, 47, 47]
+    line [38, 38, 40, 41, 42, 42, 42, 42, 45, 46, 47, 47, 47, 47]
   ```
 
   </details>
@@ -1451,9 +1451,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [1010, 1011, 1012, 1012, 1012, 1012, 1012, 1012, 1012, 1014, 1014, 1014, 1018]
+    line [1010, 1011, 1012, 1012, 1012, 1012, 1012, 1012, 1012, 1014, 1014, 1014, 1018, 1018]
   ```
 
   </details>
@@ -1468,9 +1468,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [864, 864, 865, 865, 865, 865, 866, 867, 867, 868, 868, 868, 870]
+    line [864, 864, 865, 865, 865, 865, 866, 867, 867, 868, 868, 868, 870, 870]
   ```
 
   </details>
@@ -1485,9 +1485,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [191, 192, 193, 193, 196, 196, 196, 196, 196, 197, 197, 197, 200]
+    line [191, 192, 193, 193, 196, 196, 196, 196, 196, 197, 197, 197, 200, 200]
   ```
 
   </details>
@@ -1502,9 +1502,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [119, 120, 120, 120, 120, 120, 120, 122, 124, 125, 125, 126, 128]
+    line [119, 120, 120, 120, 120, 120, 120, 122, 124, 125, 125, 126, 128, 128]
   ```
 
   </details>
@@ -1519,9 +1519,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [252, 252, 252, 252, 252, 252, 253, 254, 253, 253, 253, 256, 258]
+    line [252, 252, 252, 252, 252, 252, 253, 254, 253, 253, 253, 256, 258, 258]
   ```
 
   </details>
@@ -1536,9 +1536,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [231, 232, 233, 233, 234, 234, 235, 235, 236, 236, 238, 238, 239]
+    line [231, 232, 233, 233, 234, 234, 235, 235, 236, 236, 238, 238, 239, 239]
   ```
 
   </details>
@@ -1553,9 +1553,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [212, 212, 212, 212, 212, 212, 212, 212, 215, 218, 219, 219, 219]
+    line [212, 212, 212, 212, 212, 212, 212, 212, 215, 218, 219, 219, 219, 219]
   ```
 
   </details>
@@ -1570,9 +1570,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 84, 85]
+    line [77, 77, 77, 78, 78, 78, 78, 78, 78, 78, 78, 84, 85, 85]
   ```
 
   </details>
@@ -1587,9 +1587,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 50]
+    line [42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 50, 50]
   ```
 
   </details>
@@ -1604,9 +1604,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 23, 25, 25, 26, 26, 27, 27, 27, 27, 27, 27, 27]
+    line [0, 23, 25, 25, 26, 26, 27, 27, 27, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -1621,9 +1621,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [19, 20, 21, 24, 24, 24, 26, 27, 27, 27, 27, 27, 27]
+    line [19, 20, 21, 24, 24, 24, 26, 27, 27, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -1638,9 +1638,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [295, 296, 296, 297, 297, 298, 298, 298, 299, 299, 300, 300, 300]
+    line [295, 296, 296, 297, 297, 298, 298, 298, 299, 299, 300, 300, 300, 300]
   ```
 
   </details>
@@ -1655,9 +1655,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [145, 145, 145, 145, 147, 148, 148, 148, 148, 148, 150, 150, 151]
+    line [145, 145, 145, 145, 147, 148, 148, 148, 148, 148, 150, 150, 151, 151]
   ```
 
   </details>
@@ -1672,9 +1672,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [129, 130, 130, 133, 133, 133, 133, 135, 135, 135, 135, 135, 135]
+    line [129, 130, 130, 133, 133, 133, 133, 135, 135, 135, 135, 135, 135, 135]
   ```
 
   </details>
@@ -1689,9 +1689,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [111, 111, 112, 112, 113, 113, 113, 115, 115, 115, 115, 116, 117]
+    line [111, 111, 112, 112, 113, 113, 113, 115, 115, 115, 115, 116, 117, 117]
   ```
 
   </details>
@@ -1706,9 +1706,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [80, 81, 82, 84, 84, 85, 85, 86, 87, 87, 87, 87, 87]
+    line [80, 81, 82, 84, 84, 85, 85, 86, 87, 87, 87, 87, 87, 87]
   ```
 
   </details>
@@ -1723,9 +1723,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [68, 69, 70, 71, 71, 71, 71, 71, 71, 73, 74, 74, 74]
+    line [68, 69, 70, 71, 71, 71, 71, 71, 71, 73, 74, 74, 74, 74]
   ```
 
   </details>
@@ -1740,9 +1740,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [37, 37, 40, 40, 40, 41, 42, 42, 42, 44, 44, 44, 44]
+    line [37, 37, 40, 40, 40, 41, 42, 42, 42, 44, 44, 44, 44, 44]
   ```
 
   </details>
@@ -1757,9 +1757,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [32, 33, 35, 35, 36, 36, 37, 38, 38, 38, 38, 39, 39]
+    line [32, 33, 35, 35, 36, 36, 37, 38, 38, 38, 38, 39, 39, 39]
   ```
 
   </details>
@@ -1774,9 +1774,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [16, 16, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23]
+    line [16, 16, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23]
   ```
 
   </details>
@@ -1791,9 +1791,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [295, 295, 296, 296, 296, 296, 298, 298, 298, 298, 299, 299, 299]
+    line [295, 295, 296, 296, 296, 296, 298, 298, 298, 298, 299, 299, 299, 299]
   ```
 
   </details>
@@ -1808,9 +1808,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [279, 279, 279, 279, 282, 283, 283, 284, 285, 285, 285, 285, 285]
+    line [279, 279, 279, 279, 282, 283, 283, 284, 285, 285, 285, 285, 285, 285]
   ```
 
   </details>
@@ -1825,9 +1825,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [206, 206, 207, 207, 208, 210, 210, 210, 210, 210, 210, 210, 211]
+    line [206, 206, 207, 207, 208, 210, 210, 210, 210, 210, 210, 210, 211, 211]
   ```
 
   </details>
@@ -1842,9 +1842,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [191, 191, 191, 191, 191, 191, 191, 191, 191, 192, 192, 197, 197]
+    line [191, 191, 191, 191, 191, 191, 191, 191, 191, 192, 192, 197, 197, 197]
   ```
 
   </details>
@@ -1859,9 +1859,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [57, 58, 59, 60, 60, 60, 60, 60, 60, 60, 61, 62, 63]
+    line [57, 58, 59, 60, 60, 60, 60, 60, 60, 60, 61, 62, 63, 63]
   ```
 
   </details>
@@ -1876,9 +1876,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [55, 55, 55, 56, 57, 57, 57, 58, 60, 60, 61, 61, 61]
+    line [55, 55, 55, 56, 57, 57, 57, 58, 60, 60, 61, 61, 61, 61]
   ```
 
   </details>
@@ -1893,9 +1893,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [52, 52, 53, 53, 53, 54, 54, 57, 57, 58, 58, 58, 58]
+    line [52, 52, 53, 53, 53, 54, 54, 57, 57, 58, 58, 58, 58, 58]
   ```
 
   </details>
@@ -1910,9 +1910,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [49, 51, 51, 51, 53, 54, 54, 54, 55, 55, 55, 55, 55]
+    line [49, 51, 51, 51, 53, 54, 54, 54, 55, 55, 55, 55, 55, 55]
   ```
 
   </details>
@@ -1927,9 +1927,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [48, 48, 48, 48, 49, 51, 52, 52, 52, 52, 52, 52, 54]
+    line [48, 48, 48, 48, 49, 51, 52, 52, 52, 52, 52, 52, 54, 54]
   ```
 
   </details>
@@ -1944,9 +1944,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [46, 47, 47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52]
+    line [46, 47, 47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52]
   ```
 
   </details>
@@ -1961,9 +1961,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [35, 35, 35, 35, 35, 35, 36, 38, 38, 38, 39, 39, 40]
+    line [35, 35, 35, 35, 35, 35, 36, 38, 38, 38, 39, 39, 40, 40]
   ```
 
   </details>
@@ -1978,9 +1978,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [22, 23, 24, 24, 26, 26, 26, 26, 27, 27, 28, 28, 28]
+    line [22, 23, 24, 24, 26, 26, 26, 26, 27, 27, 28, 28, 28, 28]
   ```
 
   </details>
@@ -1995,9 +1995,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 11]
+    line [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 11, 11]
   ```
 
   </details>
@@ -2012,9 +2012,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [660, 660, 661, 661, 661, 661, 664, 664, 664, 664, 664, 665, 665]
+    line [660, 660, 661, 661, 661, 661, 664, 664, 664, 664, 664, 665, 665, 665]
   ```
 
   </details>
@@ -2029,9 +2029,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [654, 654, 656, 656, 656, 657, 657, 657, 657, 657, 657, 658, 658]
+    line [654, 654, 656, 656, 656, 657, 657, 657, 657, 657, 657, 658, 658, 658]
   ```
 
   </details>
@@ -2046,9 +2046,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [205, 205, 205, 205, 205, 206, 206, 206, 208, 208, 208, 208, 210]
+    line [205, 205, 205, 205, 205, 206, 206, 206, 208, 208, 208, 208, 210, 210]
   ```
 
   </details>
@@ -2063,9 +2063,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [142, 143, 144, 144, 145, 145, 145, 145, 145, 145, 148, 147, 147]
+    line [142, 143, 144, 144, 145, 145, 145, 145, 145, 145, 148, 147, 147, 147]
   ```
 
   </details>
@@ -2080,9 +2080,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [88, 89, 90, 90, 90, 90, 91, 92, 92, 93, 93, 93, 93]
+    line [88, 89, 90, 90, 90, 90, 91, 92, 92, 93, 93, 93, 93, 93]
   ```
 
   </details>
@@ -2097,9 +2097,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [62, 62, 63, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67]
+    line [62, 62, 63, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67]
   ```
 
   </details>
@@ -2114,9 +2114,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [56, 57, 57, 57, 57, 58, 58, 58, 58, 60, 61, 61, 61]
+    line [56, 57, 57, 57, 57, 58, 58, 58, 58, 60, 61, 61, 61, 61]
   ```
 
   </details>
@@ -2131,9 +2131,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [52, 53, 53, 54, 54, 54, 54, 54, 54, 54, 54, 56, 57]
+    line [52, 53, 53, 54, 54, 54, 54, 54, 54, 54, 54, 56, 57, 57]
   ```
 
   </details>
@@ -2148,9 +2148,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [47, 47, 47, 48, 48, 49, 49, 49, 50, 50, 50, 50, 51]
+    line [47, 47, 47, 48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 51]
   ```
 
   </details>
@@ -2165,9 +2165,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [40, 40, 40, 42, 42, 42, 42, 42, 42, 42, 42, 42, 45]
+    line [40, 40, 40, 42, 42, 42, 42, 42, 42, 42, 42, 42, 45, 45]
   ```
 
   </details>
@@ -2182,9 +2182,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [32, 32, 32, 33, 35, 36, 36, 36, 36, 36, 36, 36, 37]
+    line [32, 32, 32, 33, 35, 36, 36, 36, 36, 36, 36, 36, 37, 37]
   ```
 
   </details>
@@ -2199,9 +2199,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [23, 23, 24, 25, 25, 26, 27, 27, 27, 27, 28, 28, 28]
+    line [23, 23, 24, 25, 25, 26, 27, 27, 27, 27, 28, 28, 28, 28]
   ```
 
   </details>
@@ -2216,9 +2216,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [19, 21, 22, 22, 22, 23, 23, 23, 23, 23, 23, 24, 24]
+    line [19, 21, 22, 22, 22, 23, 23, 23, 23, 23, 23, 24, 24, 24]
   ```
 
   </details>
@@ -2233,9 +2233,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [17, 19, 20, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22]
+    line [17, 19, 20, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22, 22]
   ```
 
   </details>
@@ -2250,9 +2250,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9]
+    x-axis "Week" [Mar 17, Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
   ```
 
   </details>
