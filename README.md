@@ -2,12 +2,12 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-03-24 to 2025-06-21.
+Issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 507 | [507](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 406 | [406](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 408 | [408](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [384](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 160 | [160](#flutter-flutter-166333-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 627 | [100](#flutter-flutter-101479-graph)
@@ -28,7 +28,7 @@ Add support for custom cluster icon in Google Map Flutter [flutter/flutter#15309
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-framework` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,12 +50,12 @@ Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-design` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 507 | [507](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 406 | [406](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 408 | [408](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 627 | [100](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 63 | [49](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 59 | [15](#flutter-flutter-97496-graph)
@@ -72,10 +72,10 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`f: cupertino` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 406 | [406](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 408 | [408](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 627 | [100](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 26 | [12](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 50 | [8](#flutter-flutter-53059-graph)
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,14 +114,14 @@ Input validator async [flutter/flutter#9688](https://github.com/flutter/flutter/
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-go_router` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-tool` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-engine` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [384](#flutter-flutter-66618-graph)
@@ -166,7 +166,7 @@ Merge the platform and UI threads [flutter/flutter#150525](https://github.com/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-ios` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-android` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-web` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`team-ecosystem` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`dart-lang/sdk` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](htt
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-03-24 to 2025-06-21.
+`dart-lang/language` issues that received the most reactions from 2025-03-24 to 2025-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -339,7 +339,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 406 total reactions, 406 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 408 total reactions, 408 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   xychart-beta
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 406]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 408]
   ```
 
   </details>
