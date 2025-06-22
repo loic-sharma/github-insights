@@ -192,14 +192,14 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 62 | [22](#flutter-flutter-139427-graph)
+Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 63 | [23](#flutter-flutter-139427-graph)
 [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 29 | [15](#flutter-flutter-153075-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 15 | [15](#flutter-flutter-169215-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 59 | [9](#flutter-flutter-145961-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 27 | [8](#flutter-flutter-151638-graph)
 Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 44 | [7](#flutter-flutter-91247-graph)
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 63 | [6](#flutter-flutter-9707-graph)
-Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 40 | [5](#flutter-flutter-104268-graph)
+Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 41 | [6](#flutter-flutter-104268-graph)
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 91 | 4
 android_camerax plugin returns .temp extension for recorded video [flutter/flutter#148335](https://github.com/flutter/flutter/issues/148335) | 20 | 4
 WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBinding` [flutter/flutter#130872](https://github.com/flutter/flutter/issues/130872) | 17 | 3
@@ -314,9 +314,9 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
+Namespaces, nested static declarations and nested scope imports. [dart-lang/language#4324](https://github.com/dart-lang/language/issues/4324) | 13 | [13](#dart-lang-language-4324-graph)
 Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language#4351](https://github.com/dart-lang/language/issues/4351) | 13 | [13](#dart-lang-language-4351-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 411 | [12](#dart-lang-language-356-graph)
-It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 254 | [12](#dart-lang-language-333-graph)
 
 ## Graphs
 
@@ -609,6 +609,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-139427-graph"></a>
+### Use the default NDK version from AGP
+  <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 63 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
+    y-axis "Reactions"
+    line [41, 43, 45, 47, 50, 50, 51, 53, 55, 58, 58, 60, 63]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4404-graph"></a>
 ### Define local enums
   <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -621,23 +638,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 23]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-139427-graph"></a>
-### Use the default NDK version from AGP
-  <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 62 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
-    y-axis "Reactions"
-    line [41, 43, 45, 47, 50, 50, 51, 53, 55, 58, 58, 60, 62]
   ```
 
   </details>
@@ -1068,6 +1068,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="dart-lang-language-4324-graph"></a>
+### Namespaces, nested static declarations and nested scope imports.
+  <sub>[dart-lang/language#4324](https://github.com/dart-lang/language/issues/4324) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 8, 9, 9, 9, 9, 9, 9, 9, 10, 12, 13]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4351-graph"></a>
 ### Dot shorthands: Could `.new(...)` be simplified to `.(...)`?
   <sub>[dart-lang/language#4351](https://github.com/dart-lang/language/issues/4351) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1114,23 +1131,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
     line [401, 401, 402, 402, 402, 407, 408, 411, 411, 411, 411, 411, 411]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-333-graph"></a>
-### It is necessary to implement threads
-  <sub>[dart-lang/language#333](https://github.com/dart-lang/language/issues/333) &mdash; 254 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
-    y-axis "Reactions"
-    line [243, 245, 246, 247, 248, 248, 248, 251, 251, 251, 254, 254, 254]
   ```
 
   </details>
@@ -1969,6 +1969,23 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
   </details>
   </sub>
 
+<a name="flutter-flutter-104268-graph"></a>
+### Filtering `updateAcquireFence: Did not find frame.` out from flutter run output
+  <sub>[flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) &mdash; 41 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
+    y-axis "Reactions"
+    line [35, 35, 35, 35, 35, 36, 38, 38, 38, 39, 39, 40, 41]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-136494-graph"></a>
 ###  flutter run --watch option
   <sub>[flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) &mdash; 28 total reactions, 6 recent reactions</sub><br />
@@ -2236,23 +2253,6 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
     y-axis "Reactions"
     line [39, 39, 39, 40, 40, 40, 40, 41, 41, 41, 41, 43, 44]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-104268-graph"></a>
-### Filtering `updateAcquireFence: Did not find frame.` out from flutter run output
-  <sub>[flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) &mdash; 40 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16]
-    y-axis "Reactions"
-    line [35, 35, 35, 35, 35, 36, 38, 38, 38, 39, 39, 40, 40]
   ```
 
   </details>
