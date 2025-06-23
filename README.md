@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 410 | [410](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [384](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 161 | [161](#flutter-flutter-166333-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 628 | [101](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 629 | [102](#flutter-flutter-101479-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 184 | [100](#dart-lang-language-4271-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 63 | [49](#flutter-flutter-165502-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 185 | [46](#dart-lang-sdk-55281-graph)
@@ -56,7 +56,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 507 | [507](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 410 | [410](#flutter-flutter-170310-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 628 | [101](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 629 | [102](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 63 | [49](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 59 | [15](#flutter-flutter-97496-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 94 | [12](#flutter-flutter-48381-graph)
@@ -76,7 +76,7 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 410 | [410](#flutter-flutter-170310-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 628 | [101](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 629 | [102](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 26 | [12](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 50 | [8](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 29 | 4
@@ -390,7 +390,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 628 total reactions, 101 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 629 total reactions, 102 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -399,7 +399,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
-    line [527, 529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 617, 627, 628]
+    line [527, 529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 617, 627, 629]
   ```
 
   </details>
