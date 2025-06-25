@@ -35,7 +35,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [32](#flutter-flutter-142845-graph)
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 41 | [18](#flutter-flutter-99158-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 694 | [15](#flutter-flutter-30701-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 203 | [12](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 204 | [13](#flutter-flutter-65504-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [11](#flutter-flutter-101227-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 60 | [11](#flutter-flutter-140586-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 49 | [10](#flutter-flutter-81005-graph)
@@ -58,8 +58,8 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 416 | [416](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 629 | [102](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 63 | [49](#flutter-flutter-165502-graph)
+Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 97 | [15](#flutter-flutter-48381-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 59 | [15](#flutter-flutter-97496-graph)
-Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 96 | [14](#flutter-flutter-48381-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 27 | [13](#flutter-flutter-161687-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 128 | [9](#flutter-flutter-102560-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 50 | [8](#flutter-flutter-53059-graph)
@@ -149,7 +149,7 @@ Issue | Total reactions | Recent reactions
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [384](#flutter-flutter-66618-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 23 | [23](#flutter-flutter-170792-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 21 | [21](#flutter-flutter-166248-graph)
-[Google3 Bug]: iOS, Images replaced with pink fill when coming out of background [flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) | 16 | [16](#flutter-flutter-166668-graph)
+[Google3 Bug]: iOS, Images replaced with pink fill when coming out of background [flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) | 17 | [17](#flutter-flutter-166668-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 534 | [13](#flutter-flutter-26801-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 319 | [13](#flutter-flutter-18443-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 54 | [12](#flutter-flutter-127852-graph)
@@ -217,9 +217,9 @@ Issue | Total reactions | Recent reactions
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 92 | [16](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [15](#flutter-flutter-45296-graph)
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [10](#flutter-flutter-51530-graph)
+Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 48 | [10](#flutter-flutter-152588-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [10](#flutter-flutter-130472-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 201 | [9](#flutter-flutter-69529-graph)
-Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 47 | [9](#flutter-flutter-152588-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 220 | [8](#flutter-flutter-55324-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 88 | [8](#flutter-flutter-124205-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [8](#flutter-flutter-40682-graph)
@@ -261,9 +261,9 @@ Issue | Total reactions | Recent reactions
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 92 | [16](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [15](#flutter-flutter-45296-graph)
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [10](#flutter-flutter-51530-graph)
+Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 48 | [10](#flutter-flutter-152588-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [10](#flutter-flutter-130472-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 201 | [9](#flutter-flutter-69529-graph)
-Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 47 | [9](#flutter-flutter-152588-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 220 | [8](#flutter-flutter-55324-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 88 | [8](#flutter-flutter-124205-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [8](#flutter-flutter-40682-graph)
@@ -292,9 +292,9 @@ Revive support for interpreting code in Flutter debug builds on iOS [dart-lang/s
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [6](#dart-lang-sdk-43490-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 61 | [5](#dart-lang-sdk-53884-graph)
 Interop: Java/Kotlin [dart-lang/sdk#49674](https://github.com/dart-lang/sdk/issues/49674) | 37 | [5](#dart-lang-sdk-49674-graph)
-Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) | 5 | [5](#dart-lang-sdk-60922-graph)
+Hint and/or lint for changing List/Set/Map `from` to `of` [dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) | 16 | [5](#dart-lang-sdk-58359-graph)
 Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
-Add a maxValue and minValue to int [dart-lang/sdk#41717](https://github.com/dart-lang/sdk/issues/41717) | 76 | 4
+Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) | 5 | [5](#dart-lang-sdk-60922-graph)
 
 ### Dart language
 
@@ -312,9 +312,9 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 98 | [17](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 251 | [16](#dart-lang-language-2364-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 353 | [14](#dart-lang-language-1122-graph)
+Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
-Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
 Namespaces, nested static declarations and nested scope imports. [dart-lang/language#4324](https://github.com/dart-lang/language/issues/4324) | 13 | [13](#dart-lang-language-4324-graph)
 Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language#4351](https://github.com/dart-lang/language/issues/4351) | 13 | [13](#dart-lang-language-4351-graph)
 
@@ -626,23 +626,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4404-graph"></a>
-### Define local enums
-  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 23 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 23, 23]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-170792-graph"></a>
 ### Can't capture the output of a `BackdropFilterLayer` without painting it to the screen
   <sub>[flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -655,6 +638,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 23]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4404-graph"></a>
+### Define local enums
+  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 23 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 23, 23]
   ```
 
   </details>
@@ -830,6 +830,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-166668-graph"></a>
+### [Google3 Bug]: iOS, Images replaced with pink fill when coming out of background
+  <sub>[flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-2364-graph"></a>
 ### Primary constructor on classes
   <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 251 total reactions, 16 recent reactions</sub><br />
@@ -881,23 +898,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-166668-graph"></a>
-### [Google3 Bug]: iOS, Images replaced with pink fill when coming out of background
-  <sub>[flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 694 total reactions, 15 recent reactions</sub><br />
@@ -927,6 +927,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [272, 273, 275, 276, 277, 278, 278, 280, 285, 285, 285, 285, 287, 287]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-48381-graph"></a>
+### Use a system default font on flutter
+  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 97 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions"
+    line [82, 83, 83, 84, 89, 92, 92, 92, 92, 93, 93, 94, 94, 97]
   ```
 
   </details>
@@ -1000,9 +1017,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-48381-graph"></a>
-### Use a system default font on flutter
-  <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 96 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4403-graph"></a>
+### Allow instance and metaobject members in one declaration?
+  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1010,8 +1027,8 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   ```mermaid
   xychart-beta
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [82, 83, 83, 84, 89, 92, 92, 92, 92, 93, 93, 94, 94, 96]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
   ```
 
   </details>
@@ -1046,23 +1063,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions" 0 --> 20
     line [0, 9, 9, 11, 11, 11, 13, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4403-graph"></a>
-### Allow instance and metaobject members in one declaration?
-  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
   ```
 
   </details>
@@ -1114,6 +1114,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [306, 308, 312, 312, 313, 313, 313, 315, 316, 317, 318, 318, 319, 319]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 204 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions"
+    line [191, 191, 193, 193, 195, 195, 196, 198, 199, 199, 200, 201, 203, 204]
   ```
 
   </details>
@@ -1182,23 +1199,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [538, 539, 539, 540, 541, 542, 544, 546, 547, 548, 548, 548, 548, 548]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 203 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [191, 191, 193, 193, 195, 195, 196, 198, 199, 199, 200, 201, 203, 203]
   ```
 
   </details>
@@ -1374,6 +1374,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-152588-graph"></a>
+### Scroll "back" on web causes browser back action (unless perfectly horizontal)
+  <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 48 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions"
+    line [38, 40, 41, 42, 42, 42, 42, 45, 46, 47, 47, 47, 47, 48]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-130472-graph"></a>
 ### [google_maps_web] Migrate legacy Markers to Advanced Markers.
   <sub>[flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) &mdash; 35 total reactions, 10 recent reactions</sub><br />
@@ -1471,23 +1488,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [50, 52, 53, 53, 53, 55, 57, 57, 57, 57, 59, 59, 59, 59]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-152588-graph"></a>
-### Scroll "back" on web causes browser back action (unless perfectly horizontal)
-  <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 47 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [38, 40, 41, 42, 42, 42, 42, 45, 46, 47, 47, 47, 47, 47]
   ```
 
   </details>
@@ -2241,23 +2241,6 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 52 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [47, 47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-67034-graph"></a>
 ### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
   <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 52 total reactions, 5 recent reactions</sub><br />
@@ -2270,6 +2253,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [47, 47, 48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 52 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions"
+    line [47, 47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52]
   ```
 
   </details>
@@ -2360,9 +2360,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60922-graph"></a>
-### Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling
-  <sub>[dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-58359-graph"></a>
+### Hint and/or lint for changing List/Set/Map `from` to `of`
+  <sub>[dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) &mdash; 16 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2371,7 +2371,7 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   xychart-beta
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
+    line [11, 11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 12, 15, 16]
   ```
 
   </details>
@@ -2389,6 +2389,23 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60922-graph"></a>
+### Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling
+  <sub>[dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
   ```
 
   </details>
