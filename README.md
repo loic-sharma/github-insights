@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-03-24 to 2025-06-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 510 | [510](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 415 | [415](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 416 | [416](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [384](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 161 | [161](#flutter-flutter-166333-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 629 | [102](#flutter-flutter-101479-graph)
@@ -18,7 +18,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [32](#flutter-flutter-142845-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 37 | [32](#dart-lang-sdk-60335-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2242 | [31](#dart-lang-language-314-graph)
-Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 74 | [27](#flutter-flutter-163984-graph)
+Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 75 | [28](#flutter-flutter-163984-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 46 | [27](#dart-lang-sdk-56841-graph)
 Add support for custom cluster icon in Google Map Flutter [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 99 | [25](#flutter-flutter-153092-graph)
 
@@ -55,7 +55,7 @@ Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutte
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 510 | [510](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 415 | [415](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 416 | [416](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 629 | [102](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 63 | [49](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 59 | [15](#flutter-flutter-97496-graph)
@@ -75,7 +75,7 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 `f: cupertino` issues that received the most reactions from 2025-03-24 to 2025-06-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 415 | [415](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 416 | [416](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 629 | [102](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 27 | [13](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 50 | [8](#flutter-flutter-53059-graph)
@@ -171,7 +171,7 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 161 | [161](#flutter-flutter-166333-graph)
-Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 74 | [27](#flutter-flutter-163984-graph)
+Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 75 | [28](#flutter-flutter-163984-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 44 | [25](#flutter-flutter-163845-graph)
 [iOS] - Ad Click Listener Breaks After Scroll Initiated on Ad (GAM Rich Media in Flutter ListView) [flutter/flutter#165787](https://github.com/flutter/flutter/issues/165787) | 18 | [18](#flutter-flutter-165787-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 356 | [10](#flutter-flutter-110431-graph)
@@ -339,7 +339,7 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 415 total reactions, 415 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 416 total reactions, 416 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   xychart-beta
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 415]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 416]
   ```
 
   </details>
@@ -526,7 +526,7 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
 <a name="flutter-flutter-163984-graph"></a>
 ### Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)`
-  <sub>[flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) &mdash; 74 total reactions, 27 recent reactions</sub><br />
+  <sub>[flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) &mdash; 75 total reactions, 28 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -535,7 +535,7 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
   xychart-beta
     x-axis "Week" [Mar 24, Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
-    line [48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 67, 73, 74]
+    line [48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 67, 73, 75]
   ```
 
   </details>
