@@ -307,7 +307,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2243 | [28](#dart-lang-language-314-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
 Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 24 | [24](#dart-lang-language-4404-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1165 | [21](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1166 | [22](#dart-lang-language-723-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 18 | [18](#dart-lang-language-4321-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 98 | [17](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 252 | [16](#dart-lang-language-2364-graph)
@@ -643,6 +643,23 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   </details>
   </sub>
 
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1166 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions"
+    line [1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-166248-graph"></a>
 ### Flutter Crashes OpenGL on MediaTek
   <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -655,23 +672,6 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 21, 22]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1165 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1165]
   ```
 
   </details>
@@ -2139,23 +2139,6 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   </details>
   </sub>
 
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 52 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-67034-graph"></a>
 ### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
   <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 52 total reactions, 5 recent reactions</sub><br />
@@ -2168,6 +2151,23 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [47, 48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 52 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions"
+    line [47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52]
   ```
 
   </details>
