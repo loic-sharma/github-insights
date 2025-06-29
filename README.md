@@ -214,7 +214,7 @@ Slight flicker on the screen when loading from app overview on Android [flutter/
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 92 | [16](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 93 | [17](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [15](#flutter-flutter-45296-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 50 | [12](#flutter-flutter-152588-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [10](#flutter-flutter-130472-graph)
@@ -258,7 +258,7 @@ Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutt
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 92 | [16](#flutter-flutter-149031-graph)
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 93 | [17](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [15](#flutter-flutter-45296-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 50 | [12](#flutter-flutter-152588-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [10](#flutter-flutter-130472-graph)
@@ -796,6 +796,23 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   </details>
   </sub>
 
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 93 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    y-axis "Reactions"
+    line [77, 80, 81, 82, 83, 83, 86, 88, 89, 90, 92, 92, 93]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-97496-graph"></a>
 ### A Standard For Implementing Custom UIs
   <sub>[flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) &mdash; 61 total reactions, 17 recent reactions</sub><br />
@@ -842,23 +859,6 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
     y-axis "Reactions"
     line [80, 81, 83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 92 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [77, 80, 81, 82, 83, 83, 86, 88, 89, 90, 92, 92, 92]
   ```
 
   </details>
