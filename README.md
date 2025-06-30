@@ -7,9 +7,9 @@ Issues that received the most reactions from 2025-03-31 to 2025-06-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 519 | [519](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 428 | [428](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 429 | [429](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [383](#flutter-flutter-66618-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 161 | [161](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 162 | [162](#flutter-flutter-166333-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 635 | [108](#flutter-flutter-101479-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 188 | [99](#dart-lang-language-4271-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 66 | [52](#flutter-flutter-165502-graph)
@@ -20,7 +20,7 @@ Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [29](#flutter-flutter-142845-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2243 | [28](#dart-lang-language-314-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 46 | [25](#dart-lang-sdk-56841-graph)
-Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
+Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 25 | [25](#flutter-flutter-170792-graph)
 
 ## Trending issues by team
 
@@ -36,8 +36,8 @@ Issue | Total reactions | Recent reactions
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 41 | [16](#flutter-flutter-99158-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 694 | [14](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 205 | [14](#flutter-flutter-65504-graph)
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 60 | [11](#flutter-flutter-140586-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [11](#flutter-flutter-101227-graph)
+[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 60 | [11](#flutter-flutter-140586-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 260 | [8](#flutter-flutter-54200-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 49 | [8](#flutter-flutter-81005-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 240 | [7](#flutter-flutter-138614-graph)
@@ -55,7 +55,7 @@ Opt a subtree out of hitTestSelf culling [flutter/flutter#75747](https://github.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 519 | [519](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 428 | [428](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 429 | [429](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 635 | [108](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 66 | [52](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 61 | [17](#flutter-flutter-97496-graph)
@@ -75,7 +75,7 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 `f: cupertino` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 428 | [428](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 429 | [429](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 635 | [108](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 27 | [13](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 51 | [9](#flutter-flutter-53059-graph)
@@ -147,7 +147,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [383](#flutter-flutter-66618-graph)
-Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 24 | [24](#flutter-flutter-170792-graph)
+Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 25 | [25](#flutter-flutter-170792-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 22 | [22](#flutter-flutter-166248-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 21 | [21](#flutter-flutter-170820-graph)
 [Google3 Bug]: iOS, Images replaced with pink fill when coming out of background [flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) | 19 | [19](#flutter-flutter-166668-graph)
@@ -170,7 +170,7 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 161 | [161](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 162 | [162](#flutter-flutter-166333-graph)
 Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 78 | [30](#flutter-flutter-163984-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 44 | [24](#flutter-flutter-163845-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 356 | [10](#flutter-flutter-110431-graph)
@@ -225,9 +225,9 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | [7](#flutter-flutter-58498-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 88 | [7](#flutter-flutter-124205-graph)
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | [7](#flutter-flutter-64073-graph)
+ main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 171 | [6](#flutter-flutter-46589-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 45 | [6](#flutter-flutter-156910-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 870 | [5](#flutter-flutter-46789-graph)
- main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 170 | [5](#flutter-flutter-46589-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 58 | [5](#flutter-flutter-129933-graph)
 
 #### Desktop
@@ -269,9 +269,9 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | [7](#flutter-flutter-58498-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 88 | [7](#flutter-flutter-124205-graph)
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | [7](#flutter-flutter-64073-graph)
+ main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 171 | [6](#flutter-flutter-46589-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 45 | [6](#flutter-flutter-156910-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 870 | [5](#flutter-flutter-46789-graph)
- main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 170 | [5](#flutter-flutter-46589-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 58 | [5](#flutter-flutter-129933-graph)
 
 ### Dart SDK
@@ -339,7 +339,7 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 428 total reactions, 428 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 429 total reactions, 429 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   xychart-beta
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 428]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 429]
   ```
 
   </details>
@@ -373,7 +373,7 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 161 total reactions, 161 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 162 total reactions, 162 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -382,7 +382,7 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   xychart-beta
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [21, 43, 60, 75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 161]
+    line [21, 43, 60, 75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 162]
   ```
 
   </details>
@@ -558,6 +558,23 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   </details>
   </sub>
 
+<a name="flutter-flutter-170792-graph"></a>
+### Can't capture the output of a `BackdropFilterLayer` without painting it to the screen
+  <sub>[flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) &mdash; 25 total reactions, 25 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 24, 25]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4343-graph"></a>
 ### Case expressions
   <sub>[dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) &mdash; 25 total reactions, 25 recent reactions</sub><br />
@@ -604,23 +621,6 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [21, 21, 22, 22, 26, 34, 35, 35, 36, 37, 42, 44, 44, 44]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-170792-graph"></a>
-### Can't capture the output of a `BackdropFilterLayer` without painting it to the screen
-  <sub>[flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) &mdash; 24 total reactions, 24 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 24, 24]
   ```
 
   </details>
@@ -1187,23 +1187,6 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   </details>
   </sub>
 
-<a name="flutter-flutter-140586-graph"></a>
-### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
-  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 60 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [51, 52, 53, 53, 56, 56, 56, 56, 58, 60, 60, 60, 60, 60]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-101227-graph"></a>
 ### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
   <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 60 total reactions, 11 recent reactions</sub><br />
@@ -1216,6 +1199,23 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [49, 50, 50, 50, 52, 52, 52, 52, 54, 60, 60, 60, 60, 60]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-140586-graph"></a>
+### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
+  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 60 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [51, 52, 53, 53, 56, 56, 56, 56, 58, 60, 60, 60, 60, 60]
   ```
 
   </details>
@@ -1765,6 +1765,23 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   </details>
   </sub>
 
+<a name="flutter-flutter-46589-graph"></a>
+###  main.dart.js is too large
+  <sub>[flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) &mdash; 171 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [167, 168, 169, 170, 170, 171, 171, 171, 171, 170, 170, 170, 170, 171]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-75747-graph"></a>
 ### Opt a subtree out of hitTestSelf culling
   <sub>[flutter/flutter#75747](https://github.com/flutter/flutter/issues/75747) &mdash; 106 total reactions, 6 recent reactions</sub><br />
@@ -1833,23 +1850,6 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
   </details>
   </sub>
 
-<a name="flutter-flutter-131625-graph"></a>
-### [go_router] support popUntil
-  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 45 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [41, 42, 42, 42, 42, 42, 42, 43, 43, 43, 44, 45, 45, 45]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-156910-graph"></a>
 ### [web] Deprecate and remove `flutter_service_worker.js`
   <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 45 total reactions, 6 recent reactions</sub><br />
@@ -1862,6 +1862,23 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [39, 39, 40, 40, 40, 40, 41, 41, 41, 41, 43, 44, 44, 45]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-131625-graph"></a>
+### [go_router] support popUntil
+  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 45 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [41, 42, 42, 42, 42, 42, 42, 43, 43, 43, 44, 45, 45, 45]
   ```
 
   </details>
@@ -1998,23 +2015,6 @@ Namespaces, nested static declarations and nested scope imports. [dart-lang/lang
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [182, 182, 182, 183, 183, 184, 184, 181, 181, 181, 181, 182, 186, 186]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-46589-graph"></a>
-###  main.dart.js is too large
-  <sub>[flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) &mdash; 170 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [167, 168, 169, 170, 170, 171, 171, 171, 171, 170, 170, 170, 170, 170]
   ```
 
   </details>
