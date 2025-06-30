@@ -2,12 +2,12 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-03-31 to 2025-06-29.
+Issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 518 | [518](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 426 | [426](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 427 | [427](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [383](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 161 | [161](#flutter-flutter-166333-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 630 | [103](#flutter-flutter-101479-graph)
@@ -28,7 +28,7 @@ Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-framework` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -36,26 +36,26 @@ Issue | Total reactions | Recent reactions
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 41 | [16](#flutter-flutter-99158-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 694 | [14](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 205 | [14](#flutter-flutter-65504-graph)
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 60 | [11](#flutter-flutter-140586-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [11](#flutter-flutter-101227-graph)
+[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 60 | [11](#flutter-flutter-140586-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 260 | [8](#flutter-flutter-54200-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 49 | [8](#flutter-flutter-81005-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 240 | [7](#flutter-flutter-138614-graph)
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 163 | [7](#flutter-flutter-32120-graph)
 Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](https://github.com/flutter/flutter/issues/31134) | 152 | [7](#flutter-flutter-31134-graph)
- 'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse [flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) | 31 | [7](#flutter-flutter-160144-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 194 | [6](#flutter-flutter-45336-graph)
 Opt a subtree out of hitTestSelf culling [flutter/flutter#75747](https://github.com/flutter/flutter/issues/75747) | 106 | [6](#flutter-flutter-75747-graph)
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 45 | [6](#flutter-flutter-131625-graph)
+[go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 39 | [6](#flutter-flutter-133746-graph)
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-design` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 518 | [518](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 426 | [426](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 427 | [427](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 630 | [103](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 66 | [52](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 61 | [17](#flutter-flutter-97496-graph)
@@ -72,10 +72,10 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`f: cupertino` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 426 | [426](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 427 | [427](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 630 | [103](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 27 | [13](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 51 | [9](#flutter-flutter-53059-graph)
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,14 +114,14 @@ Flutter needs a way to test real IME text input behavior [flutter/flutter#131510
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-go_router` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-tool` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -129,10 +129,8 @@ Bundling assets only on a specific platform (and remove assets on another platfo
 ☂️ Build hooks & Code assets [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 81 | [11](#flutter-flutter-129757-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 160 | [10](#flutter-flutter-46979-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 119 | [8](#flutter-flutter-107157-graph)
-Let flutter be installable via homebrew [flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) | 1017 | [6](#flutter-flutter-14050-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 186 | [5](#flutter-flutter-139289-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 134 | [5](#flutter-flutter-63323-graph)
-flutter test --coverage and flutter test --watch [flutter/flutter#4719](https://github.com/flutter/flutter/issues/4719) | 122 | [5](#flutter-flutter-4719-graph)
  flutter run --watch option [flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) | 28 | [5](#flutter-flutter-136494-graph)
 Support XDG Base Directory Specfication [flutter/flutter#59430](https://github.com/flutter/flutter/issues/59430) | 88 | 4
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 83 | 4
@@ -140,10 +138,12 @@ Include assets from a directory recursively [flutter/flutter#118635](https://git
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 80 | 3
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 58 | 3
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 25 | 3
+flutter downgrade to support version selection [flutter/flutter#71723](https://github.com/flutter/flutter/issues/71723) | 21 | 3
+Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 421 | 2
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-engine` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [383](#flutter-flutter-66618-graph)
@@ -166,7 +166,7 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-ios` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-android` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Slight flicker on the screen when loading from app overview on Android [flutter/
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-web` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -224,15 +224,15 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [8](#flutter-flutter-40682-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 88 | [7](#flutter-flutter-124205-graph)
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | [7](#flutter-flutter-64073-graph)
+[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 45 | [6](#flutter-flutter-156910-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 870 | [5](#flutter-flutter-46789-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 170 | [5](#flutter-flutter-46589-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 58 | [5](#flutter-flutter-129933-graph)
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 44 | [5](#flutter-flutter-156910-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 109 | 4
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`team-ecosystem` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -268,15 +268,15 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [8](#flutter-flutter-40682-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 88 | [7](#flutter-flutter-124205-graph)
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | [7](#flutter-flutter-64073-graph)
+[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 45 | [6](#flutter-flutter-156910-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 870 | [5](#flutter-flutter-46789-graph)
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 170 | [5](#flutter-flutter-46589-graph)
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 58 | [5](#flutter-flutter-129933-graph)
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 44 | [5](#flutter-flutter-156910-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 109 | 4
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`dart-lang/sdk` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -293,12 +293,12 @@ Revive support for interpreting code in Flutter debug builds on iOS [dart-lang/s
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [6](#dart-lang-sdk-43490-graph)
 Interop: Java/Kotlin [dart-lang/sdk#49674](https://github.com/dart-lang/sdk/issues/49674) | 37 | [5](#dart-lang-sdk-49674-graph)
 Hint and/or lint for changing List/Set/Map `from` to `of` [dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) | 16 | [5](#dart-lang-sdk-58359-graph)
-Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) | 5 | [5](#dart-lang-sdk-60922-graph)
+Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-03-31 to 2025-06-29.
+`dart-lang/language` issues that received the most reactions from 2025-03-31 to 2025-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -312,11 +312,11 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 98 | [17](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 252 | [16](#dart-lang-language-2364-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 354 | [14](#dart-lang-language-1122-graph)
-Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
+Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
+Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 13 | [13](#dart-lang-language-4426-graph)
 Namespaces, nested static declarations and nested scope imports. [dart-lang/language#4324](https://github.com/dart-lang/language/issues/4324) | 13 | [13](#dart-lang-language-4324-graph)
-Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language#4351](https://github.com/dart-lang/language/issues/4351) | 13 | [13](#dart-lang-language-4351-graph)
 
 ## Graphs
 
@@ -329,9 +329,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 485, 507, 518]
+    line [0, 0, 0, 0, 0, 0, 250, 344, 404, 441, 485, 507, 518, 518]
   ```
 
   </details>
@@ -339,16 +339,16 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 426 total reactions, 426 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 427 total reactions, 427 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 427]
   ```
 
   </details>
@@ -363,9 +363,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [56, 56, 56, 56, 56, 428, 436, 438, 439, 438, 438, 438, 438]
+    line [56, 56, 56, 56, 56, 428, 436, 438, 439, 438, 438, 438, 438, 438]
   ```
 
   </details>
@@ -380,9 +380,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [21, 43, 60, 75, 89, 97, 111, 127, 137, 143, 152, 160, 161]
+    line [21, 43, 60, 75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 161]
   ```
 
   </details>
@@ -397,9 +397,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 617, 627, 630]
+    line [529, 534, 534, 534, 534, 535, 549, 555, 565, 567, 617, 627, 630, 630]
   ```
 
   </details>
@@ -414,9 +414,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [96, 100, 123, 129, 136, 137, 153, 164, 183, 183, 184, 184, 188]
+    line [96, 100, 123, 129, 136, 137, 153, 164, 183, 183, 184, 184, 188, 188]
   ```
 
   </details>
@@ -431,9 +431,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 14, 19, 24, 28, 34, 58, 63, 66]
+    line [0, 0, 0, 0, 0, 14, 19, 24, 28, 34, 58, 63, 66, 66]
   ```
 
   </details>
@@ -448,9 +448,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [148, 154, 163, 167, 170, 172, 175, 178, 180, 183, 185, 185, 187]
+    line [148, 154, 163, 167, 170, 172, 175, 178, 180, 183, 185, 185, 187, 187]
   ```
 
   </details>
@@ -465,9 +465,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [1051, 1053, 1054, 1054, 1055, 1058, 1059, 1074, 1076, 1078, 1080, 1081, 1086]
+    line [1051, 1053, 1054, 1054, 1055, 1058, 1059, 1074, 1076, 1078, 1080, 1081, 1086, 1086]
   ```
 
   </details>
@@ -482,9 +482,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [12, 20, 22, 27, 29, 32, 33, 35, 36, 36, 36, 37, 37]
+    line [12, 20, 22, 27, 29, 32, 33, 35, 36, 36, 36, 37, 37, 37]
   ```
 
   </details>
@@ -499,9 +499,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [172, 173, 174, 175, 176, 180, 181, 191, 192, 197, 198, 198, 198]
+    line [172, 173, 174, 175, 176, 180, 181, 191, 192, 197, 198, 198, 198, 198]
   ```
 
   </details>
@@ -516,9 +516,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [2217, 2218, 2220, 2221, 2222, 2224, 2230, 2231, 2233, 2238, 2239, 2241, 2243]
+    line [2217, 2218, 2220, 2221, 2222, 2224, 2230, 2231, 2233, 2238, 2239, 2241, 2243, 2243]
   ```
 
   </details>
@@ -533,9 +533,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 67, 73, 76]
+    line [48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 67, 73, 76, 76]
   ```
 
   </details>
@@ -550,9 +550,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [32, 33, 33, 35, 35, 37, 42, 42, 42, 46, 46, 46, 46]
+    line [32, 33, 33, 35, 35, 37, 42, 42, 42, 46, 46, 46, 46, 46]
   ```
 
   </details>
@@ -567,9 +567,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 17, 18, 19, 19, 23, 25, 25, 25, 25]
+    line [0, 0, 0, 0, 17, 18, 19, 19, 23, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -584,9 +584,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [43, 45, 47, 50, 50, 51, 53, 55, 58, 58, 60, 63, 65]
+    line [43, 45, 47, 50, 50, 51, 53, 55, 58, 58, 60, 63, 65, 65]
   ```
 
   </details>
@@ -601,9 +601,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [21, 21, 22, 22, 26, 34, 35, 35, 36, 37, 42, 44, 44]
+    line [21, 21, 22, 22, 26, 34, 35, 35, 36, 37, 42, 44, 44, 44]
   ```
 
   </details>
@@ -618,9 +618,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 24]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 24, 24]
   ```
 
   </details>
@@ -635,9 +635,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 23, 24]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 23, 24, 24]
   ```
 
   </details>
@@ -652,9 +652,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166]
+    line [1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1166]
   ```
 
   </details>
@@ -669,9 +669,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 21, 22]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 18, 18, 18, 21, 22, 22]
   ```
 
   </details>
@@ -686,9 +686,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 19, 19, 19, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+    line [0, 19, 19, 19, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -703,9 +703,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [55, 55, 55, 55, 57, 57, 57, 63, 64, 70, 72, 72, 72]
+    line [55, 55, 55, 55, 57, 57, 57, 63, 64, 70, 72, 72, 72, 72]
   ```
 
   </details>
@@ -720,9 +720,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19]
   ```
 
   </details>
@@ -737,9 +737,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
   ```
 
   </details>
@@ -754,9 +754,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18, 18, 18]
+    line [0, 6, 10, 13, 13, 14, 16, 16, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -771,9 +771,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [190, 196, 196, 196, 198, 198, 198, 203, 204, 205, 206, 207, 207]
+    line [190, 196, 196, 196, 198, 198, 198, 203, 204, 205, 206, 207, 207, 207]
   ```
 
   </details>
@@ -788,9 +788,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [81, 81, 81, 81, 81, 81, 81, 95, 96, 96, 98, 98, 98]
+    line [81, 81, 81, 81, 81, 81, 81, 95, 96, 96, 98, 98, 98, 98]
   ```
 
   </details>
@@ -805,9 +805,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [77, 80, 81, 82, 83, 83, 86, 88, 89, 90, 92, 92, 93]
+    line [77, 80, 81, 82, 83, 83, 86, 88, 89, 90, 92, 92, 93, 93]
   ```
 
   </details>
@@ -822,9 +822,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [44, 44, 44, 44, 44, 44, 47, 47, 47, 47, 55, 59, 61]
+    line [44, 44, 44, 44, 44, 44, 47, 47, 47, 47, 55, 59, 61, 61]
   ```
 
   </details>
@@ -839,9 +839,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [236, 237, 237, 238, 239, 240, 241, 243, 245, 248, 248, 251, 252]
+    line [236, 237, 237, 238, 239, 240, 241, 243, 245, 248, 248, 251, 252, 252]
   ```
 
   </details>
@@ -856,9 +856,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [80, 81, 83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96]
+    line [80, 81, 83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96, 96]
   ```
 
   </details>
@@ -873,9 +873,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [29, 30, 33, 33, 33, 33, 35, 35, 35, 36, 38, 41, 41]
+    line [29, 30, 33, 33, 33, 33, 35, 35, 35, 36, 38, 41, 41, 41]
   ```
 
   </details>
@@ -890,9 +890,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [14, 14, 15, 15, 15, 16, 16, 17, 22, 27, 28, 29, 30]
+    line [14, 14, 15, 15, 15, 16, 16, 17, 22, 27, 28, 29, 30, 30]
   ```
 
   </details>
@@ -907,9 +907,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [273, 275, 276, 277, 278, 278, 280, 285, 285, 285, 285, 287, 287]
+    line [273, 275, 276, 277, 278, 278, 280, 285, 285, 285, 285, 287, 287, 287]
   ```
 
   </details>
@@ -924,9 +924,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [83, 83, 84, 89, 92, 92, 92, 92, 93, 93, 94, 94, 97]
+    line [83, 83, 84, 89, 92, 92, 92, 92, 93, 93, 94, 94, 97, 97]
   ```
 
   </details>
@@ -941,9 +941,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -958,9 +958,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [681, 687, 687, 687, 687, 687, 687, 693, 693, 693, 693, 693, 694]
+    line [681, 687, 687, 687, 687, 687, 687, 693, 693, 693, 693, 693, 694, 694]
   ```
 
   </details>
@@ -975,9 +975,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [342, 342, 342, 342, 342, 344, 345, 345, 345, 349, 350, 350, 354]
+    line [342, 342, 342, 342, 342, 344, 345, 345, 345, 349, 350, 350, 354, 354]
   ```
 
   </details>
@@ -992,9 +992,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [191, 193, 193, 195, 195, 196, 198, 199, 199, 200, 201, 203, 205]
+    line [191, 193, 193, 195, 195, 196, 198, 199, 199, 200, 201, 203, 205, 205]
   ```
 
   </details>
@@ -1009,43 +1009,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [153, 154, 155, 155, 155, 155, 159, 162, 162, 162, 162, 162, 162]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4403-graph"></a>
-### Allow instance and metaobject members in one declaration?
-  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14]
+    line [153, 154, 155, 155, 155, 155, 159, 162, 162, 162, 162, 162, 162, 162]
   ```
 
   </details>
@@ -1060,9 +1026,43 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 11, 11, 11, 13, 14, 14, 14, 14, 14, 14, 14]
+    line [9, 9, 11, 11, 11, 13, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4403-graph"></a>
+### Allow instance and metaobject members in one declaration?
+  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14]
   ```
 
   </details>
@@ -1077,9 +1077,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [308, 312, 312, 313, 313, 313, 315, 316, 317, 318, 318, 319, 319]
+    line [308, 312, 312, 313, 313, 313, 315, 316, 317, 318, 318, 319, 319, 319]
   ```
 
   </details>
@@ -1094,9 +1094,26 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [14, 15, 15, 15, 15, 15, 15, 16, 20, 20, 25, 26, 27]
+    line [14, 15, 15, 15, 15, 15, 15, 16, 20, 20, 25, 26, 27, 27]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4426-graph"></a>
+### Simpler parameters
+  <sub>[dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 13]
   ```
 
   </details>
@@ -1111,26 +1128,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 8, 9, 9, 9, 9, 9, 9, 9, 10, 12, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4351-graph"></a>
-### Dot shorthands: Could `.new(...)` be simplified to `.(...)`?
-  <sub>[dart-lang/language#4351](https://github.com/dart-lang/language/issues/4351) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 6, 8, 8, 11, 12, 12, 12, 13, 13]
+    line [0, 8, 9, 9, 9, 9, 9, 9, 9, 10, 12, 13, 13, 13]
   ```
 
   </details>
@@ -1145,9 +1145,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [528, 531, 531, 531, 531, 532, 532, 532, 532, 533, 534, 534, 534]
+    line [528, 531, 531, 531, 531, 532, 532, 532, 532, 533, 534, 534, 534, 534]
   ```
 
   </details>
@@ -1162,9 +1162,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [40, 41, 42, 42, 42, 42, 45, 46, 47, 47, 47, 47, 50]
+    line [40, 41, 42, 42, 42, 42, 45, 46, 47, 47, 47, 47, 50, 50]
   ```
 
   </details>
@@ -1179,26 +1179,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [70, 72, 76, 76, 76, 78, 78, 80, 80, 80, 80, 81, 81]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-140586-graph"></a>
-### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
-  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 60 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [51, 52, 53, 53, 56, 56, 56, 56, 58, 60, 60, 60, 60]
+    line [70, 72, 76, 76, 76, 78, 78, 80, 80, 80, 80, 81, 81, 81]
   ```
 
   </details>
@@ -1213,9 +1196,26 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [49, 50, 50, 50, 52, 52, 52, 52, 54, 60, 60, 60, 60]
+    line [49, 50, 50, 50, 52, 52, 52, 52, 54, 60, 60, 60, 60, 60]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-140586-graph"></a>
+### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
+  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 60 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [51, 52, 53, 53, 56, 56, 56, 56, 58, 60, 60, 60, 60, 60]
   ```
 
   </details>
@@ -1230,9 +1230,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [40, 41, 41, 41, 42, 42, 42, 42, 42, 42, 42, 42, 42]
+    line [40, 41, 41, 41, 42, 42, 42, 42, 42, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -1247,9 +1247,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [539, 539, 540, 541, 542, 544, 546, 547, 548, 548, 548, 548, 548]
+    line [539, 539, 540, 541, 542, 544, 546, 547, 548, 548, 548, 548, 548, 548]
   ```
 
   </details>
@@ -1264,9 +1264,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [442, 442, 442, 447, 448, 449, 449, 449, 451, 452, 452, 452, 452]
+    line [442, 442, 442, 447, 448, 449, 449, 449, 451, 452, 452, 452, 452, 452]
   ```
 
   </details>
@@ -1281,9 +1281,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [351, 351, 352, 353, 353, 353, 353, 353, 354, 355, 355, 356, 356]
+    line [351, 351, 352, 353, 353, 353, 353, 353, 354, 355, 355, 356, 356, 356]
   ```
 
   </details>
@@ -1298,9 +1298,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [169, 170, 170, 175, 175, 175, 179, 179, 179, 179, 179, 179, 179]
+    line [169, 170, 170, 175, 175, 175, 179, 179, 179, 179, 179, 179, 179, 179]
   ```
 
   </details>
@@ -1315,9 +1315,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [150, 150, 153, 153, 153, 153, 154, 154, 155, 157, 158, 158, 160]
+    line [150, 150, 153, 153, 153, 153, 154, 154, 155, 157, 158, 158, 160, 160]
   ```
 
   </details>
@@ -1332,9 +1332,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [46, 47, 47, 48, 49, 49, 49, 50, 52, 53, 54, 54, 54]
+    line [46, 47, 47, 48, 49, 49, 49, 50, 52, 53, 54, 54, 54, 54]
   ```
 
   </details>
@@ -1349,9 +1349,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [25, 26, 26, 26, 28, 30, 35, 35, 35, 35, 35, 35, 35]
+    line [25, 26, 26, 26, 28, 30, 35, 35, 35, 35, 35, 35, 35, 35]
   ```
 
   </details>
@@ -1366,9 +1366,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [52, 53, 53, 53, 55, 57, 57, 57, 57, 59, 59, 59, 59]
+    line [52, 53, 53, 53, 55, 57, 57, 57, 57, 59, 59, 59, 59, 59]
   ```
 
   </details>
@@ -1383,9 +1383,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 50, 50, 51]
+    line [42, 42, 42, 42, 42, 42, 42, 42, 42, 42, 50, 50, 51, 51]
   ```
 
   </details>
@@ -1400,9 +1400,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [41, 41, 41, 41, 41, 41, 41, 49, 49, 50, 50, 50, 50]
+    line [41, 41, 41, 41, 41, 41, 41, 49, 49, 50, 50, 50, 50, 50]
   ```
 
   </details>
@@ -1417,9 +1417,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [252, 252, 252, 252, 253, 254, 253, 253, 253, 256, 258, 258, 260]
+    line [252, 252, 252, 252, 253, 254, 253, 253, 253, 256, 258, 258, 260, 260]
   ```
 
   </details>
@@ -1434,9 +1434,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [212, 212, 212, 212, 212, 212, 215, 218, 219, 219, 219, 220, 220]
+    line [212, 212, 212, 212, 212, 212, 215, 218, 219, 219, 219, 220, 220, 220]
   ```
 
   </details>
@@ -1451,9 +1451,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [193, 193, 196, 196, 196, 196, 196, 197, 197, 197, 200, 200, 201]
+    line [193, 193, 196, 196, 196, 196, 196, 197, 197, 197, 200, 200, 201, 201]
   ```
 
   </details>
@@ -1468,9 +1468,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [120, 120, 120, 120, 120, 122, 124, 125, 125, 126, 128, 128, 128]
+    line [120, 120, 120, 120, 120, 122, 124, 125, 125, 126, 128, 128, 128, 128]
   ```
 
   </details>
@@ -1485,9 +1485,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [112, 112, 113, 113, 113, 115, 115, 115, 115, 116, 117, 118, 119]
+    line [112, 112, 113, 113, 113, 115, 115, 115, 115, 116, 117, 118, 119, 119]
   ```
 
   </details>
@@ -1502,9 +1502,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [77, 78, 78, 78, 78, 78, 78, 78, 78, 84, 85, 85, 85]
+    line [77, 78, 78, 78, 78, 78, 78, 78, 78, 84, 85, 85, 85, 85]
   ```
 
   </details>
@@ -1519,9 +1519,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [41, 42, 44, 44, 45, 44, 44, 46, 46, 49, 49, 49, 49]
+    line [41, 42, 44, 44, 45, 44, 44, 46, 46, 49, 49, 49, 49, 49]
   ```
 
   </details>
@@ -1536,9 +1536,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [40, 40, 40, 41, 42, 42, 42, 44, 44, 44, 44, 44, 45]
+    line [40, 40, 40, 41, 42, 42, 42, 44, 44, 44, 44, 44, 45, 45]
   ```
 
   </details>
@@ -1553,9 +1553,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [327, 327, 329, 329, 330, 330, 331, 331, 333, 334, 334, 334, 334]
+    line [327, 327, 329, 329, 330, 330, 331, 331, 333, 334, 334, 334, 334, 334]
   ```
 
   </details>
@@ -1570,9 +1570,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [233, 233, 234, 234, 235, 235, 236, 236, 238, 238, 239, 239, 240]
+    line [233, 233, 234, 234, 235, 235, 236, 236, 238, 238, 239, 239, 240, 240]
   ```
 
   </details>
@@ -1587,9 +1587,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [157, 157, 159, 159, 159, 159, 159, 162, 163, 163, 163, 163, 163]
+    line [157, 157, 159, 159, 159, 159, 159, 162, 163, 163, 163, 163, 163, 163]
   ```
 
   </details>
@@ -1604,9 +1604,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [145, 145, 147, 148, 148, 148, 148, 148, 150, 150, 151, 152, 152]
+    line [145, 145, 147, 148, 148, 148, 148, 148, 150, 150, 151, 152, 152, 152]
   ```
 
   </details>
@@ -1621,9 +1621,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [82, 84, 84, 85, 85, 86, 87, 87, 87, 87, 87, 88, 88]
+    line [82, 84, 84, 85, 85, 86, 87, 87, 87, 87, 87, 88, 88, 88]
   ```
 
   </details>
@@ -1638,26 +1638,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [48, 48, 49, 51, 52, 52, 52, 52, 52, 52, 54, 54, 55]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160144-graph"></a>
-###  'package:flutter/src/rendering/mouse_tracker.dart': Failed assertion: line 224 pos 12: '(event is PointerAddedEvent) == (lastEvent is PointerRemovedEvent)': is not true. when emulation touches on a mobile device with a mouse
-  <sub>[flutter/flutter#160144](https://github.com/flutter/flutter/issues/160144) &mdash; 31 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [27, 27, 27, 28, 28, 28, 28, 28, 28, 28, 28, 30, 31]
+    line [48, 48, 49, 51, 52, 52, 52, 52, 52, 52, 54, 54, 55, 55]
   ```
 
   </details>
@@ -1672,9 +1655,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [21, 24, 24, 24, 26, 27, 27, 27, 27, 27, 27, 27, 27]
+    line [21, 24, 24, 24, 26, 27, 27, 27, 27, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -1689,9 +1672,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23]
+    line [23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23, 23]
   ```
 
   </details>
@@ -1706,26 +1689,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 11, 12, 12]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14050-graph"></a>
-### Let flutter be installable via homebrew
-  <sub>[flutter/flutter#14050](https://github.com/flutter/flutter/issues/14050) &mdash; 1017 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [1012, 1012, 1012, 1012, 1012, 1012, 1012, 1014, 1014, 1014, 1018, 1017, 1017]
+    line [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 11, 12, 12, 12]
   ```
 
   </details>
@@ -1740,9 +1706,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [279, 279, 282, 283, 283, 284, 285, 285, 285, 285, 285, 285, 285]
+    line [279, 279, 282, 283, 283, 284, 285, 285, 285, 285, 285, 285, 285, 285]
   ```
 
   </details>
@@ -1757,9 +1723,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [191, 191, 191, 191, 191, 191, 191, 192, 192, 197, 197, 197, 197]
+    line [191, 191, 191, 191, 191, 191, 191, 192, 192, 197, 197, 197, 197, 197]
   ```
 
   </details>
@@ -1774,9 +1740,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [188, 188, 188, 191, 191, 191, 191, 191, 191, 193, 193, 194, 194]
+    line [188, 188, 188, 191, 191, 191, 191, 191, 191, 193, 193, 194, 194, 194]
   ```
 
   </details>
@@ -1791,9 +1757,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [100, 100, 100, 100, 101, 101, 101, 101, 104, 105, 105, 105, 106]
+    line [100, 100, 100, 100, 101, 101, 101, 101, 104, 105, 105, 105, 106, 106]
   ```
 
   </details>
@@ -1808,9 +1774,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [57, 57, 57, 58, 58, 58, 58, 60, 61, 61, 61, 61, 63]
+    line [57, 57, 57, 58, 58, 58, 58, 60, 61, 61, 61, 61, 63, 63]
   ```
 
   </details>
@@ -1825,9 +1791,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [55, 56, 57, 57, 57, 58, 60, 60, 61, 61, 61, 61, 61]
+    line [55, 56, 57, 57, 57, 58, 60, 60, 61, 61, 61, 61, 61, 61]
   ```
 
   </details>
@@ -1842,9 +1808,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [53, 54, 54, 54, 54, 54, 54, 54, 54, 56, 57, 57, 59]
+    line [53, 54, 54, 54, 54, 54, 54, 54, 54, 56, 57, 57, 59, 59]
   ```
 
   </details>
@@ -1859,9 +1825,26 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [41, 42, 42, 42, 42, 42, 42, 43, 43, 43, 44, 45, 45]
+    line [41, 42, 42, 42, 42, 42, 42, 43, 43, 43, 44, 45, 45, 45]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-156910-graph"></a>
+### [web] Deprecate and remove `flutter_service_worker.js`
+  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 45 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [39, 39, 40, 40, 40, 40, 41, 41, 41, 41, 43, 44, 44, 45]
   ```
 
   </details>
@@ -1876,9 +1859,26 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [35, 35, 35, 35, 36, 38, 38, 38, 39, 39, 40, 41, 41]
+    line [35, 35, 35, 35, 36, 38, 38, 38, 39, 39, 40, 41, 41, 41]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-133746-graph"></a>
+### [go_router] Unwanted black screen when using async redirect.
+  <sub>[flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) &mdash; 39 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [35, 35, 36, 36, 37, 38, 38, 38, 38, 39, 39, 39, 39, 39]
   ```
 
   </details>
@@ -1893,9 +1893,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [865, 865, 865, 865, 866, 867, 867, 868, 868, 868, 870, 870, 870]
+    line [865, 865, 865, 865, 866, 867, 867, 868, 868, 868, 870, 870, 870, 870]
   ```
 
   </details>
@@ -1910,9 +1910,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [661, 661, 661, 661, 664, 664, 664, 664, 664, 665, 665, 665, 665]
+    line [661, 661, 661, 661, 664, 664, 664, 664, 664, 665, 665, 665, 665, 665]
   ```
 
   </details>
@@ -1927,9 +1927,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [296, 297, 297, 298, 298, 298, 299, 299, 300, 300, 300, 301, 301]
+    line [296, 297, 297, 298, 298, 298, 299, 299, 300, 300, 300, 301, 301, 301]
   ```
 
   </details>
@@ -1944,9 +1944,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [207, 207, 208, 210, 210, 210, 210, 210, 210, 210, 211, 211, 211]
+    line [207, 207, 208, 210, 210, 210, 210, 210, 210, 210, 211, 211, 211, 211]
   ```
 
   </details>
@@ -1961,9 +1961,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [205, 205, 205, 206, 206, 206, 208, 208, 208, 208, 210, 210, 210]
+    line [205, 205, 205, 206, 206, 206, 208, 208, 208, 208, 210, 210, 210, 210]
   ```
 
   </details>
@@ -1978,9 +1978,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [182, 182, 182, 183, 183, 184, 184, 181, 181, 181, 181, 182, 186]
+    line [182, 182, 182, 183, 183, 184, 184, 181, 181, 181, 181, 182, 186, 186]
   ```
 
   </details>
@@ -1995,9 +1995,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [167, 168, 169, 170, 170, 171, 171, 171, 171, 170, 170, 170, 170]
+    line [167, 168, 169, 170, 170, 171, 171, 171, 171, 170, 170, 170, 170, 170]
   ```
 
   </details>
@@ -2012,9 +2012,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [144, 144, 145, 145, 145, 145, 145, 145, 148, 147, 147, 148, 148]
+    line [144, 144, 145, 145, 145, 145, 145, 145, 148, 147, 147, 148, 148, 148]
   ```
 
   </details>
@@ -2029,26 +2029,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [129, 129, 129, 130, 130, 130, 130, 130, 130, 131, 131, 134, 134]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-4719-graph"></a>
-### flutter test --coverage and flutter test --watch
-  <sub>[flutter/flutter#4719](https://github.com/flutter/flutter/issues/4719) &mdash; 122 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [117, 117, 117, 120, 120, 120, 120, 120, 120, 120, 120, 122, 122]
+    line [129, 129, 129, 130, 130, 130, 130, 130, 130, 131, 131, 134, 134, 134]
   ```
 
   </details>
@@ -2063,9 +2046,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [109, 110, 110, 110, 110, 111, 111, 111, 111, 111, 111, 113, 113]
+    line [109, 110, 110, 110, 110, 111, 111, 111, 111, 111, 111, 113, 113, 113]
   ```
 
   </details>
@@ -2080,9 +2063,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [70, 71, 71, 71, 71, 71, 71, 73, 74, 74, 74, 74, 74]
+    line [70, 71, 71, 71, 71, 71, 71, 73, 74, 74, 74, 74, 74, 74]
   ```
 
   </details>
@@ -2097,9 +2080,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [63, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67]
+    line [63, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67, 67]
   ```
 
   </details>
@@ -2114,9 +2097,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [59, 60, 60, 60, 60, 60, 60, 60, 61, 62, 63, 63, 63]
+    line [59, 60, 60, 60, 60, 60, 60, 60, 61, 62, 63, 63, 63, 63]
   ```
 
   </details>
@@ -2131,26 +2114,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [53, 53, 53, 54, 54, 57, 57, 58, 58, 58, 58, 58, 58]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-67034-graph"></a>
-### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
-  <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 52 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [47, 48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52]
+    line [53, 53, 53, 54, 54, 57, 57, 58, 58, 58, 58, 58, 58, 58]
   ```
 
   </details>
@@ -2165,9 +2131,26 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52]
+    line [47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 52]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-67034-graph"></a>
+### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
+  <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 52 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [47, 48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52, 52]
   ```
 
   </details>
@@ -2182,26 +2165,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [40, 42, 42, 42, 42, 42, 42, 42, 42, 42, 45, 45, 45]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156910-graph"></a>
-### [web] Deprecate and remove `flutter_service_worker.js`
-  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 44 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions"
-    line [39, 39, 40, 40, 40, 40, 41, 41, 41, 41, 43, 44, 44]
+    line [40, 42, 42, 42, 42, 42, 42, 42, 42, 42, 45, 45, 45, 45]
   ```
 
   </details>
@@ -2216,9 +2182,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [32, 33, 35, 36, 36, 36, 36, 36, 36, 36, 37, 37, 37]
+    line [32, 33, 35, 36, 36, 36, 36, 36, 36, 36, 37, 37, 37, 37]
   ```
 
   </details>
@@ -2233,9 +2199,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [24, 24, 26, 26, 26, 26, 27, 27, 28, 28, 28, 28, 28]
+    line [24, 24, 26, 26, 26, 26, 27, 27, 28, 28, 28, 28, 28, 28]
   ```
 
   </details>
@@ -2250,9 +2216,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [20, 20, 20, 20, 20, 21, 21, 22, 24, 24, 24, 24, 25]
+    line [20, 20, 20, 20, 20, 21, 21, 22, 24, 24, 24, 24, 25, 25]
   ```
 
   </details>
@@ -2267,9 +2233,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [20, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22, 23, 24]
+    line [20, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22, 23, 24, 24]
   ```
 
   </details>
@@ -2284,9 +2250,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [18, 18, 18, 18, 18, 19, 19, 19, 19, 20, 20, 22, 22]
+    line [18, 18, 18, 18, 18, 19, 19, 19, 19, 20, 20, 22, 22, 22]
   ```
 
   </details>
@@ -2301,26 +2267,9 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 12, 15, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-60827-graph"></a>
-### Providing other analysis_options.yaml to dart analyze
-  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
+    line [11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 12, 15, 16, 16]
   ```
 
   </details>
@@ -2335,9 +2284,26 @@ Dot shorthands: Could `.new(...)` be simplified to `.(...)`? [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23]
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60827-graph"></a>
+### Providing other analysis_options.yaml to dart analyze
+  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
   ```
 
   </details>
