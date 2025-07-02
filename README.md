@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-03-31 to 2025-07-01.
+Issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-framework` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Opt a subtree out of hitTestSelf culling [flutter/flutter#75747](https://github.
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-design` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`f: cupertino` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 435 | [435](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/fl
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,14 +114,14 @@ Flutter needs a way to test real IME text input behavior [flutter/flutter#131510
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-go_router` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-tool` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-engine` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [383](#flutter-flutter-66618-graph)
@@ -166,7 +166,7 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-ios` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-android` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Slight flicker on the screen when loading from app overview on Android [flutter/
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-web` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`team-ecosystem` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`dart-lang/sdk` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-03-31 to 2025-07-01.
+`dart-lang/language` issues that received the most reactions from 2025-03-31 to 2025-07-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -2139,23 +2139,6 @@ Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-67034-graph"></a>
-### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
-  <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 52 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [47, 48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52, 52]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-115926-graph"></a>
 ### Blur filter isn't clipped when using border radius
   <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 52 total reactions, 5 recent reactions</sub><br />
@@ -2168,6 +2151,23 @@ Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/langua
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [47, 47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 52]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-67034-graph"></a>
+### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
+  <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 52 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [47, 48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52, 52]
   ```
 
   </details>
