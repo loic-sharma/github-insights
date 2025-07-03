@@ -2,12 +2,12 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-03-31 to 2025-07-02.
+Issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 521 | [521](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 437 | [437](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 440 | [440](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [383](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 166 | [166](#flutter-flutter-166333-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 638 | [111](#flutter-flutter-101479-graph)
@@ -28,7 +28,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-framework` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -36,8 +36,8 @@ Issue | Total reactions | Recent reactions
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 42 | [17](#flutter-flutter-99158-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 694 | [14](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 205 | [14](#flutter-flutter-65504-graph)
-[Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [11](#flutter-flutter-101227-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 60 | [11](#flutter-flutter-140586-graph)
+[Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [11](#flutter-flutter-101227-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 50 | [9](#flutter-flutter-81005-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 260 | [8](#flutter-flutter-54200-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 240 | [7](#flutter-flutter-138614-graph)
@@ -50,12 +50,12 @@ Opt a subtree out of hitTestSelf culling [flutter/flutter#75747](https://github.
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-design` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 521 | [521](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 437 | [437](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 440 | [440](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 638 | [111](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 66 | [52](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 61 | [17](#flutter-flutter-97496-graph)
@@ -72,10 +72,10 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`f: cupertino` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 437 | [437](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 440 | [440](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 638 | [111](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 27 | [13](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 51 | [9](#flutter-flutter-53059-graph)
@@ -85,15 +85,15 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 1
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 1
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 44 | 1
+CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 1
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 16 | 1
 [iOS] Light/Dark mode on iOS should change in the background [flutter/flutter#43806](https://github.com/flutter/flutter/issues/43806) | 15 | 1
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 127 | 0
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 79 | 0
-Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 58 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS/Android] Hot restart while keyboard is up leaves the keyboard up [flutter/flutter#10713](https://github.com/flutter/flutter/issues/10713) | 42 | [11](#flutter-flutter-10713-graph)
@@ -114,14 +114,14 @@ Flutter needs a way to test real IME text input behavior [flutter/flutter#131510
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-go_router` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-tool` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Customizable project structure (platforms) [flutter/flutter#71400](https://githu
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-engine` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [383](#flutter-flutter-66618-graph)
@@ -166,7 +166,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-ios` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-android` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,14 +210,14 @@ Slight flicker on the screen when loading from app overview on Android [flutter/
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-web` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 93 | [17](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [15](#flutter-flutter-45296-graph)
+Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 14 | [14](#flutter-flutter-171402-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 51 | [13](#flutter-flutter-152588-graph)
-Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 13 | [13](#flutter-flutter-171402-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [10](#flutter-flutter-130472-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 221 | [9](#flutter-flutter-55324-graph)
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [9](#flutter-flutter-51530-graph)
@@ -232,7 +232,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,14 +254,14 @@ Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`team-ecosystem` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 93 | [17](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [15](#flutter-flutter-45296-graph)
+Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 14 | [14](#flutter-flutter-171402-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 51 | [13](#flutter-flutter-152588-graph)
-Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 13 | [13](#flutter-flutter-171402-graph)
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [10](#flutter-flutter-130472-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 221 | [9](#flutter-flutter-55324-graph)
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [9](#flutter-flutter-51530-graph)
@@ -276,7 +276,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`dart-lang/sdk` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-03-31 to 2025-07-02.
+`dart-lang/language` issues that received the most reactions from 2025-03-31 to 2025-07-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -315,8 +315,8 @@ Support method/function overloads [dart-lang/language#1122](https://github.com/d
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 246 | [15](#dart-lang-language-524-graph)
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
 Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 14 | [14](#dart-lang-language-4426-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart-lang/language/issues/4317) | 14 | [14](#dart-lang-language-4317-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 
 ## Graphs
 
@@ -339,7 +339,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 437 total reactions, 437 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 440 total reactions, 440 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 437]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 440]
   ```
 
   </details>
@@ -1068,9 +1068,9 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="flutter-flutter-171402-graph"></a>
+### Flutter web not rendering the UI on latest Chrome
+  <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1079,7 +1079,7 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   xychart-beta
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
@@ -1097,6 +1097,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
     line [9, 9, 11, 11, 11, 13, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1153,23 +1170,6 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-171402-graph"></a>
-### Flutter web not rendering the UI on latest Chrome
-  <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-26801-graph"></a>
 ### Apple CarPlay / Android Auto support?
   <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 534 total reactions, 12 recent reactions</sub><br />
@@ -1221,23 +1221,6 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-101227-graph"></a>
-### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
-  <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 60 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [49, 50, 50, 50, 52, 52, 52, 52, 54, 60, 60, 60, 60, 60]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-140586-graph"></a>
 ### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
   <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 60 total reactions, 11 recent reactions</sub><br />
@@ -1250,6 +1233,23 @@ Optionally imported libraries. [dart-lang/language#4317](https://github.com/dart
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [51, 52, 53, 53, 56, 56, 56, 56, 58, 60, 60, 60, 60, 60]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-101227-graph"></a>
+### [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm?
+  <sub>[flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) &mdash; 60 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [49, 50, 50, 50, 52, 52, 52, 52, 54, 60, 60, 60, 60, 60]
   ```
 
   </details>
