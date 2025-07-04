@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-03-31 to 2025-07-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 522 | [522](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 442 | [442](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 443 | [443](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [383](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 167 | [167](#flutter-flutter-166333-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 645 | [118](#flutter-flutter-101479-graph)
@@ -20,7 +20,7 @@ Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2244 | [29](#dart-lang-language-314-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [29](#flutter-flutter-142845-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 27 | [27](#flutter-flutter-170792-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 46 | [25](#dart-lang-sdk-56841-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1170 | [26](#dart-lang-language-723-graph)
 
 ## Trending issues by team
 
@@ -55,7 +55,7 @@ the wrap widget add a property “maxline” to limit the lines of the widget [f
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 522 | [522](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 442 | [442](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 443 | [443](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 645 | [118](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 71 | [57](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 61 | [17](#flutter-flutter-97496-graph)
@@ -75,7 +75,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 `f: cupertino` issues that received the most reactions from 2025-03-31 to 2025-07-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 442 | [442](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 443 | [443](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 645 | [118](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 28 | [14](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 51 | [9](#flutter-flutter-53059-graph)
@@ -305,9 +305,9 @@ Issue | Total reactions | Recent reactions
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 188 | [99](#dart-lang-language-4271-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1086 | [39](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2244 | [29](#dart-lang-language-314-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1170 | [26](#dart-lang-language-723-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
 Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 24 | [24](#dart-lang-language-4404-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1167 | [23](#dart-lang-language-723-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 255 | [19](#dart-lang-language-2364-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 19 | [19](#dart-lang-language-4321-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 98 | [17](#dart-lang-language-3021-graph)
@@ -339,7 +339,7 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 442 total reactions, 442 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 443 total reactions, 443 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
   xychart-beta
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 442]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 443]
   ```
 
   </details>
@@ -558,6 +558,23 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
   </details>
   </sub>
 
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1170 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1170]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 46 total reactions, 25 recent reactions</sub><br />
@@ -660,23 +677,6 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
   </details>
   </sub>
 
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1167 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [1144, 1145, 1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1167]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
   <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -694,23 +694,6 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
   </details>
   </sub>
 
-<a name="flutter-flutter-166668-graph"></a>
-### [Google3 Bug]: iOS, Images replaced with pink fill when coming out of background
-  <sub>[flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60518-graph"></a>
 ### Lint and fix suggestion: `simplify_variable_pattern`
   <sub>[dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -723,6 +706,23 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions" 0 --> 20
     line [0, 19, 19, 19, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-166668-graph"></a>
+### [Google3 Bug]: iOS, Images replaced with pink fill when coming out of background
+  <sub>[flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20]
   ```
 
   </details>
@@ -1442,23 +1442,6 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
   </details>
   </sub>
 
-<a name="flutter-flutter-51530-graph"></a>
-### [web]: Support for backend proxy
-  <sub>[flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) &mdash; 50 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [41, 41, 41, 41, 41, 41, 41, 49, 49, 50, 50, 50, 50, 50]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-81005-graph"></a>
 ### Jump to index in sliver world
   <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 50 total reactions, 9 recent reactions</sub><br />
@@ -1471,6 +1454,23 @@ Allow instance and metaobject members in one declaration? [dart-lang/language#44
     x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [41, 42, 44, 44, 45, 44, 44, 46, 46, 49, 49, 49, 49, 50]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-51530-graph"></a>
+### [web]: Support for backend proxy
+  <sub>[flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) &mdash; 50 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 31, Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [41, 41, 41, 41, 41, 41, 41, 49, 49, 50, 50, 50, 50, 50]
   ```
 
   </details>
