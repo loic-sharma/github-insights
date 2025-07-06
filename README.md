@@ -9,7 +9,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 523 | [523](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 446 | [446](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 168 | [143](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 169 | [144](#flutter-flutter-166333-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 645 | [118](#flutter-flutter-101479-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 188 | [92](#dart-lang-language-4271-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 71 | [57](#flutter-flutter-165502-graph)
@@ -38,8 +38,8 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 42 | [12](#flutter-flutter-99158-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [11](#flutter-flutter-101227-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 61 | [10](#flutter-flutter-140586-graph)
+Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 51 | [9](#flutter-flutter-81005-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 260 | [8](#flutter-flutter-54200-graph)
-Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 50 | [8](#flutter-flutter-81005-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 240 | [7](#flutter-flutter-138614-graph)
 Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](https://github.com/flutter/flutter/issues/31134) | 152 | [7](#flutter-flutter-31134-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 194 | [6](#flutter-flutter-45336-graph)
@@ -131,9 +131,9 @@ Bundling assets only on a specific platform (and remove assets on another platfo
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 120 | [8](#flutter-flutter-107157-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 134 | [5](#flutter-flutter-63323-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 186 | 4
+Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 81 | 4
  flutter run --watch option [flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) | 28 | 4
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 83 | 3
-Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 80 | 3
 flutter downgrade to support version selection [flutter/flutter#71723](https://github.com/flutter/flutter/issues/71723) | 21 | 3
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 19 | 3
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 421 | 2
@@ -170,7 +170,7 @@ Merge the platform and UI threads [flutter/flutter#150525](https://github.com/fl
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 168 | [143](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 169 | [144](#flutter-flutter-166333-graph)
 Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 79 | [31](#flutter-flutter-163984-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 44 | [23](#flutter-flutter-163845-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 289 | [10](#flutter-flutter-28901-graph)
@@ -237,7 +237,7 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 453 | [11](#flutter-flutter-31713-graph)
-[webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 334 | [7](#flutter-flutter-37597-graph)
+[webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 335 | [8](#flutter-flutter-37597-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 210 | [5](#flutter-flutter-41980-graph)
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 36 | [5](#flutter-flutter-99050-graph)
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 665 | 4
@@ -373,7 +373,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 168 total reactions, 143 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 169 total reactions, 144 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -382,7 +382,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
-    line [43, 60, 75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 168]
+    line [43, 60, 75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 169]
   ```
 
   </details>
@@ -1340,6 +1340,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-81005-graph"></a>
+### Jump to index in sliver world
+  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 51 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [42, 44, 44, 45, 44, 44, 46, 46, 49, 49, 49, 49, 51]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-53059-graph"></a>
 ### Suggestion: decouple more widgets from Android/iOS design guidelines
   <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 51 total reactions, 9 recent reactions</sub><br />
@@ -1369,6 +1386,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [41, 41, 41, 41, 41, 41, 49, 49, 50, 50, 50, 50, 50]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-37597-graph"></a>
+### [webview_flutter] Add Windows support
+  <sub>[flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) &mdash; 335 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [327, 329, 329, 330, 330, 331, 331, 333, 334, 334, 334, 334, 335]
   ```
 
   </details>
@@ -1471,40 +1505,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [47, 47, 48, 49, 49, 49, 50, 52, 53, 54, 54, 54, 54]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-81005-graph"></a>
-### Jump to index in sliver world
-  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 50 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [42, 44, 44, 45, 44, 44, 46, 46, 49, 49, 49, 49, 50]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-37597-graph"></a>
-### [webview_flutter] Add Windows support
-  <sub>[flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) &mdash; 334 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [327, 329, 329, 330, 330, 331, 331, 333, 334, 334, 334, 334, 334]
   ```
 
   </details>
