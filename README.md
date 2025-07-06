@@ -153,9 +153,9 @@ Can't capture the output of a `BackdropFilterLayer` without painting it to the s
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 319 | [11](#flutter-flutter-18443-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | [10](#flutter-flutter-25841-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 54 | [8](#flutter-flutter-127852-graph)
+Import multiple Flutter modules in a native app [flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) | 198 | [7](#flutter-flutter-39707-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 25 | [7](#flutter-flutter-166248-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 534 | [6](#flutter-flutter-26801-graph)
-Import multiple Flutter modules in a native app [flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) | 197 | [6](#flutter-flutter-39707-graph)
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 53 | [6](#flutter-flutter-67034-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 46 | [6](#flutter-flutter-146860-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 212 | [5](#flutter-flutter-61229-graph)
@@ -1527,6 +1527,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-39707-graph"></a>
+### Import multiple Flutter modules in a native app
+  <sub>[flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) &mdash; 198 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
+    y-axis "Reactions"
+    line [191, 191, 191, 191, 191, 191, 192, 192, 197, 197, 197, 197, 198]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-31134-graph"></a>
 ### Feature Request: Add minLines to Text (Not TextField)
   <sub>[flutter/flutter#31134](https://github.com/flutter/flutter/issues/31134) &mdash; 152 total reactions, 7 recent reactions</sub><br />
@@ -1658,23 +1675,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
     y-axis "Reactions"
     line [531, 531, 531, 531, 532, 532, 532, 532, 533, 534, 534, 534, 534]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-39707-graph"></a>
-### Import multiple Flutter modules in a native app
-  <sub>[flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) &mdash; 197 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30]
-    y-axis "Reactions"
-    line [191, 191, 191, 191, 191, 191, 192, 192, 197, 197, 197, 197, 197]
   ```
 
   </details>
