@@ -15,12 +15,12 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 71 | [57](#flutter-flutter-165502-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 190 | [41](#dart-lang-sdk-55281-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1086 | [35](#dart-lang-language-357-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2249 | [32](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2250 | [33](#dart-lang-language-314-graph)
 Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 79 | [31](#flutter-flutter-163984-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 27 | [27](#flutter-flutter-170792-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1170 | [26](#dart-lang-language-723-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [26](#flutter-flutter-142845-graph)
-Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 25 | [25](#flutter-flutter-170820-graph)
 
 ## Trending issues by team
 
@@ -283,7 +283,7 @@ Issue | Total reactions | Recent reactions
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 190 | [41](#dart-lang-sdk-55281-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 37 | [23](#dart-lang-sdk-60335-graph)
 Lint and fix suggestion: `simplify_variable_pattern` [dart-lang/sdk#60518](https://github.com/dart-lang/sdk/issues/60518) | 20 | [20](#dart-lang-sdk-60518-graph)
-☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 97 | [17](#dart-lang-sdk-53402-graph)
+☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 98 | [18](#dart-lang-sdk-53402-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 72 | [17](#dart-lang-sdk-57036-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 46 | [14](#dart-lang-sdk-56841-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 207 | [12](#dart-lang-sdk-50565-graph)
@@ -304,7 +304,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 189 | [93](#dart-lang-language-4271-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1086 | [35](#dart-lang-language-357-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2249 | [32](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2250 | [33](#dart-lang-language-314-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1170 | [26](#dart-lang-language-723-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
 Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 24 | [24](#dart-lang-language-4404-graph)
@@ -475,7 +475,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2249 total reactions, 32 recent reactions</sub><br />
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2250 total reactions, 33 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -484,7 +484,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
-    line [2218, 2220, 2221, 2222, 2224, 2230, 2231, 2233, 2238, 2239, 2241, 2243, 2246, 2249]
+    line [2218, 2220, 2221, 2222, 2224, 2230, 2231, 2233, 2238, 2239, 2241, 2243, 2246, 2250]
   ```
 
   </details>
@@ -558,23 +558,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4343-graph"></a>
-### Case expressions
-  <sub>[dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) &mdash; 25 total reactions, 25 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [0, 0, 0, 17, 18, 19, 19, 23, 25, 25, 25, 25, 25, 25]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
   <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 25 total reactions, 25 recent reactions</sub><br />
@@ -587,6 +570,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 23, 25]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4343-graph"></a>
+### Case expressions
+  <sub>[dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) &mdash; 25 total reactions, 25 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [0, 0, 0, 17, 18, 19, 19, 23, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -745,6 +745,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-sdk-53402-graph"></a>
+### ☂️ New analyzer plugin system
+  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 98 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [81, 83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96, 96, 98]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-3021-graph"></a>
 ### More concise syntax for defining sealed families
   <sub>[dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) &mdash; 98 total reactions, 17 recent reactions</sub><br />
@@ -757,23 +774,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [81, 81, 81, 81, 81, 81, 95, 96, 96, 98, 98, 98, 98, 98]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-53402-graph"></a>
-### ☂️ New analyzer plugin system
-  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 97 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [81, 83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96, 96, 97]
   ```
 
   </details>
@@ -1816,23 +1816,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 53 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-67034-graph"></a>
 ### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
   <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 53 total reactions, 6 recent reactions</sub><br />
@@ -1845,6 +1828,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52, 53, 53]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 53 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
   ```
 
   </details>
