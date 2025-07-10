@@ -20,7 +20,7 @@ Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 27 | [27](#flutter-flutter-170792-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1170 | [26](#dart-lang-language-723-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 198 | [26](#flutter-flutter-142845-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 25 | [25](#flutter-flutter-170820-graph)
+Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
 
 ## Trending issues by team
 
@@ -132,9 +132,9 @@ Support different dependencies when using flavors [flutter/flutter#46979](https:
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 186 | 4
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 81 | 4
  flutter run --watch option [flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) | 28 | 4
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 20 | 4
 flutter downgrade to support version selection [flutter/flutter#71723](https://github.com/flutter/flutter/issues/71723) | 21 | 3
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 21 | 3
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 19 | 3
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 421 | 2
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 90 | 2
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 79 | 2
@@ -558,23 +558,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-170820-graph"></a>
-### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
-  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 25 total reactions, 25 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 23, 25]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4343-graph"></a>
 ### Case expressions
   <sub>[dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) &mdash; 25 total reactions, 25 recent reactions</sub><br />
@@ -587,6 +570,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [0, 0, 0, 17, 18, 19, 19, 23, 25, 25, 25, 25, 25, 25]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-170820-graph"></a>
+### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
+  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 25 total reactions, 25 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 23, 25]
   ```
 
   </details>
@@ -864,23 +864,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-169215-graph"></a>
-### Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32)
-  <sub>[flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-171436-graph"></a>
 ### Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries")
   <sub>[flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -893,6 +876,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-169215-graph"></a>
+### Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32)
+  <sub>[flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1051,23 +1051,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-168635-graph"></a>
-### One UI 7 Navigation Buttons Above App
-  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4324-graph"></a>
 ### Namespaces, nested static declarations and nested scope imports.
   <sub>[dart-lang/language#4324](https://github.com/dart-lang/language/issues/4324) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1080,6 +1063,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions" 0 --> 20
     line [8, 9, 9, 9, 9, 9, 9, 9, 10, 12, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-168635-graph"></a>
+### One UI 7 Navigation Buttons Above App
+  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
   ```
 
   </details>
@@ -1850,23 +1850,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 53 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-67034-graph"></a>
 ### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
   <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 53 total reactions, 6 recent reactions</sub><br />
@@ -1879,6 +1862,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52, 53, 53]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 53 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
   ```
 
   </details>
