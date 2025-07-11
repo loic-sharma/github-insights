@@ -6,7 +6,7 @@ Issues that received the most reactions from 2025-04-07 to 2025-07-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 529 | [529](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 530 | [530](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 468 | [468](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 172 | [147](#flutter-flutter-166333-graph)
@@ -54,7 +54,7 @@ Add a variant to context.dependOnInheritedWidget that removes the unused depende
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 529 | [529](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 530 | [530](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 468 | [468](#flutter-flutter-170310-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 646 | [119](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 71 | [57](#flutter-flutter-165502-graph)
@@ -129,10 +129,10 @@ Issue | Total reactions | Recent reactions
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 163 | [10](#flutter-flutter-65065-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 160 | [10](#flutter-flutter-46979-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 120 | [8](#flutter-flutter-107157-graph)
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 21 | [5](#flutter-flutter-118635-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 186 | 4
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 81 | 4
  flutter run --watch option [flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) | 28 | 4
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 20 | 4
 flutter downgrade to support version selection [flutter/flutter#71723](https://github.com/flutter/flutter/issues/71723) | 21 | 3
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 21 | 3
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 421 | 2
@@ -214,7 +214,7 @@ How to use local aar inside flutter plugin? [flutter/flutter#28195](https://gith
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 16 | [16](#flutter-flutter-171436-graph)
+Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 17 | [17](#flutter-flutter-171436-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 16 | [16](#flutter-flutter-171402-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 93 | [15](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [14](#flutter-flutter-45296-graph)
@@ -248,9 +248,9 @@ Support stylus input on Windows 10 devices [flutter/flutter#65248](https://githu
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 24 | 4
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 23 | 4
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 197 | 3
+Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 68 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 29 | 3
 [local_auth] Support Linux [flutter/flutter#70270](https://github.com/flutter/flutter/issues/70270) | 27 | 3
-Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 250 | 2
 
 ### Ecosystem
 
@@ -258,7 +258,7 @@ Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutt
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 16 | [16](#flutter-flutter-171436-graph)
+Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 17 | [17](#flutter-flutter-171436-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 16 | [16](#flutter-flutter-171402-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 93 | [15](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [14](#flutter-flutter-45296-graph)
@@ -322,7 +322,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 529 total reactions, 529 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 530 total reactions, 530 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 250, 344, 404, 441, 485, 507, 518, 523, 529]
+    line [0, 0, 0, 0, 0, 250, 344, 404, 441, 485, 507, 518, 523, 530]
   ```
 
   </details>
@@ -815,7 +815,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-171436-graph"></a>
 ### Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries")
-  <sub>[flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>[flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) &mdash; 17 total reactions, 17 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -824,7 +824,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
   ```
 
   </details>
@@ -1867,23 +1867,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 53 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-67034-graph"></a>
 ### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
   <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 53 total reactions, 6 recent reactions</sub><br />
@@ -1901,9 +1884,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 46 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 53 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1912,7 +1895,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 42, 42, 42, 42, 45, 45, 45, 46, 46]
+    line [47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
   ```
 
   </details>
@@ -1930,6 +1913,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [40, 40, 41, 42, 42, 42, 44, 44, 44, 44, 44, 45, 45, 46]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 46 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [42, 42, 42, 42, 42, 42, 42, 42, 42, 45, 45, 45, 46, 46]
   ```
 
   </details>
@@ -2185,6 +2185,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [20, 20, 20, 20, 21, 21, 22, 24, 24, 24, 24, 25, 25, 25]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-118635-graph"></a>
+### Include assets from a directory recursively
+  <sub>[flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [16, 16, 16, 16, 16, 16, 17, 17, 17, 18, 18, 19, 19, 21]
   ```
 
   </details>
