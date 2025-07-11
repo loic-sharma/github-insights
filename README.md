@@ -156,11 +156,11 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 56 | [10](#flutter-flutter-127852-graph)
 Import multiple Flutter modules in a native app [flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) | 198 | [7](#flutter-flutter-39707-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 534 | [6](#flutter-flutter-26801-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 213 | [6](#flutter-flutter-61229-graph)
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 53 | [6](#flutter-flutter-67034-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 46 | [6](#flutter-flutter-146860-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 39 | [6](#flutter-flutter-150525-graph)
 Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 20 | [6](#flutter-flutter-162147-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 212 | [5](#flutter-flutter-61229-graph)
 
 ### Platforms
 
@@ -1782,6 +1782,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 213 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [207, 208, 210, 210, 210, 210, 210, 210, 210, 211, 211, 211, 212, 213]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-45336-graph"></a>
 ### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
   <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 194 total reactions, 6 recent reactions</sub><br />
@@ -1867,23 +1884,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 53 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-67034-graph"></a>
 ### Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop
   <sub>[flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) &mdash; 53 total reactions, 6 recent reactions</sub><br />
@@ -1896,6 +1896,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [48, 48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52, 53, 53]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 53 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [47, 48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
   ```
 
   </details>
@@ -2049,23 +2066,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [351, 352, 353, 353, 353, 353, 353, 354, 355, 355, 356, 356, 356, 356]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 212 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 7, Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [207, 208, 210, 210, 210, 210, 210, 210, 210, 211, 211, 211, 212, 212]
   ```
 
   </details>
