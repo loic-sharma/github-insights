@@ -17,7 +17,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1086 | [33](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2250 | [32](#dart-lang-language-314-graph)
 Debug mode and hot reload fail on iOS 26 due to JIT restriction `error: mprotect failed: 13 (Permission denied)` [flutter/flutter#163984](https://github.com/flutter/flutter/issues/163984) | 79 | [31](#flutter-flutter-163984-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 28 | [28](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 29 | [29](#flutter-flutter-170820-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 27 | [27](#flutter-flutter-170792-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 199 | [26](#flutter-flutter-142845-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1170 | [25](#dart-lang-language-723-graph)
@@ -138,8 +138,8 @@ flutter downgrade to support version selection [flutter/flutter#71723](https://g
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 421 | 2
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 90 | 2
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 58 | 2
+Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 80 | 1
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 51 | 1
-Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 44 | 1
 
 ### Engine
 
@@ -147,7 +147,7 @@ Building all integration test targets into a single application binary [flutter/
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 28 | [28](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 29 | [29](#flutter-flutter-170820-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 27 | [27](#flutter-flutter-170792-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 29 | [11](#flutter-flutter-166248-graph)
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | [9](#flutter-flutter-25841-graph)
@@ -228,7 +228,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | [7](#flutter-flutter-64073-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 871 | [6](#flutter-flutter-46789-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 90 | [6](#flutter-flutter-124205-graph)
-Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 90 | [5](#flutter-flutter-104509-graph)
+[Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 36 | [6](#flutter-flutter-150743-graph)
 
 #### Desktop
 
@@ -272,7 +272,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | [7](#flutter-flutter-64073-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 871 | [6](#flutter-flutter-46789-graph)
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 90 | [6](#flutter-flutter-124205-graph)
-Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 90 | [5](#flutter-flutter-104509-graph)
+[Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 36 | [6](#flutter-flutter-150743-graph)
 
 ### Dart SDK
 
@@ -292,8 +292,8 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 62 | [5](#dart-lang-sdk-53884-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Hint and/or lint for changing List/Set/Map `from` to `of` [dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) | 16 | [5](#dart-lang-sdk-58359-graph)
-Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
+Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 Add a maxValue and minValue to int [dart-lang/sdk#41717](https://github.com/dart-lang/sdk/issues/41717) | 76 | 4
 
 ### Dart language
@@ -315,8 +315,8 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
 Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 14 | [14](#dart-lang-language-4426-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 355 | [13](#dart-lang-language-1122-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 19 | [12](#dart-lang-language-4321-graph)
-Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 12 | [12](#dart-lang-language-4383-graph)
 post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-lang/language#4390](https://github.com/dart-lang/language/issues/4390) | 12 | [12](#dart-lang-language-4390-graph)
+Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 12 | [12](#dart-lang-language-4383-graph)
 
 ## Graphs
 
@@ -509,7 +509,7 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
-  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 28 total reactions, 28 recent reactions</sub><br />
+  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 29 total reactions, 29 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -518,7 +518,7 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
   xychart-beta
     x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 23, 28]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 23, 29]
   ```
 
   </details>
@@ -762,23 +762,6 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
   </details>
   </sub>
 
-<a name="flutter-flutter-169215-graph"></a>
-### Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32)
-  <sub>[flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15, 15, 16]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-171402-graph"></a>
 ### Flutter web not rendering the UI on latest Chrome
   <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 16 total reactions, 16 recent reactions</sub><br />
@@ -791,6 +774,23 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
     x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-169215-graph"></a>
+### Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32)
+  <sub>[flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15, 15, 16]
   ```
 
   </details>
@@ -1034,23 +1034,6 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
   </details>
   </sub>
 
-<a name="dart-lang-language-4383-graph"></a>
-### Feature request: `defer` statement
-  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 12 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 5, 6, 9, 10, 10, 10, 10, 12]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4390-graph"></a>
 ### post-fix assignment (highly useful for declarative layouting ,in flutter)
   <sub>[dart-lang/language#4390](https://github.com/dart-lang/language/issues/4390) &mdash; 12 total reactions, 12 recent reactions</sub><br />
@@ -1063,6 +1046,23 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
     x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4383-graph"></a>
+### Feature request: `defer` statement
+  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 12 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 5, 6, 9, 10, 10, 10, 10, 12]
   ```
 
   </details>
@@ -1833,6 +1833,23 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
   </details>
   </sub>
 
+<a name="flutter-flutter-150743-graph"></a>
+### [Web] - Superscript and subscript font features don't work on web
+  <sub>[flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) &mdash; 36 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions"
+    line [30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 36]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-106549-graph"></a>
 ### Add a variant to context.dependOnInheritedWidget that removes the unused dependencies when the dependent no-longer depends on it
   <sub>[flutter/flutter#106549](https://github.com/flutter/flutter/issues/106549) &mdash; 28 total reactions, 6 recent reactions</sub><br />
@@ -1981,23 +1998,6 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
     x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions"
     line [90, 90, 91, 92, 92, 93, 93, 93, 93, 93, 93, 93, 95]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-104509-graph"></a>
-### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
-  <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 90 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [85, 87, 88, 88, 88, 88, 88, 88, 89, 89, 89, 90, 90]
   ```
 
   </details>
@@ -2156,23 +2156,6 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61060-graph"></a>
-### Make Zones be properly encapsulating (Breaking!)
-  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60827-graph"></a>
 ### Providing other analysis_options.yaml to dart analyze
   <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -2185,6 +2168,23 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
     x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61060-graph"></a>
+### Make Zones be properly encapsulating (Breaking!)
+  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
