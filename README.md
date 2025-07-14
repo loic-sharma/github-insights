@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-04-14 to 2025-07-13.
+Issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 468 | [468](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 176 | [128](#flutter-flutter-166333-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 646 | [112](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 647 | [113](#flutter-flutter-101479-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 189 | [89](#dart-lang-language-4271-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 71 | [57](#flutter-flutter-165502-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1087 | [34](#dart-lang-language-357-graph)
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-framework` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,13 +50,13 @@ Add a variant to context.dependOnInheritedWidget that removes the unused depende
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-design` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 533 | [533](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 468 | [468](#flutter-flutter-170310-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 646 | [112](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 647 | [113](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 71 | [57](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 61 | [17](#flutter-flutter-97496-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 98 | [15](#flutter-flutter-48381-graph)
@@ -72,11 +72,11 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`f: cupertino` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 468 | [468](#flutter-flutter-170310-graph)
-Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 646 | [112](#flutter-flutter-101479-graph)
+Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 647 | [113](#flutter-flutter-101479-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 28 | [13](#flutter-flutter-161687-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 51 | [9](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 29 | 4
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | [9](#flutter-flutter-25841-graph)
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-go_router` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-tool` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -131,19 +131,19 @@ Bundling assets only on a specific platform (and remove assets on another platfo
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 120 | [8](#flutter-flutter-107157-graph)
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 21 | [5](#flutter-flutter-118635-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 186 | 4
- flutter run --watch option [flutter/flutter#136494](https://github.com/flutter/flutter/issues/136494) | 28 | 4
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 81 | 3
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 21 | 3
-flutter downgrade to support version selection [flutter/flutter#71723](https://github.com/flutter/flutter/issues/71723) | 21 | 3
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 421 | 2
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 90 | 2
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 58 | 2
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 80 | 1
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 51 | 1
+Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 44 | 1
+"Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 32 | 1
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-engine` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
@@ -155,18 +155,18 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 319 | [7](#flutter-flutter-18443-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 214 | [7](#flutter-flutter-61229-graph)
 Import multiple Flutter modules in a native app [flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) | 198 | [7](#flutter-flutter-39707-graph)
-[Google3 Bug]: iOS, Images replaced with pink fill when coming out of background [flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) | 23 | [7](#flutter-flutter-166668-graph)
+Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 21 | [7](#flutter-flutter-162147-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 39 | [6](#flutter-flutter-150525-graph)
-Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 20 | [6](#flutter-flutter-162147-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 205 | [5](#flutter-flutter-11754-graph)
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 95 | [5](#flutter-flutter-55870-graph)
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 53 | [5](#flutter-flutter-67034-graph)
+Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 103 | 4
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-ios` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-android` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ android_camerax plugin returns .temp extension for recorded video [flutter/flutt
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-web` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`team-ecosystem` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`dart-lang/sdk` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,13 +292,13 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 62 | [5](#dart-lang-sdk-53884-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Hint and/or lint for changing List/Set/Map `from` to `of` [dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) | 16 | [5](#dart-lang-sdk-58359-graph)
-Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 Add a maxValue and minValue to int [dart-lang/sdk#41717](https://github.com/dart-lang/sdk/issues/41717) | 76 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-04-14 to 2025-07-13.
+`dart-lang/language` issues that received the most reactions from 2025-04-14 to 2025-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -315,8 +315,8 @@ Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/langua
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 355 | [13](#dart-lang-language-1122-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 19 | [12](#dart-lang-language-4321-graph)
+Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 12 | [12](#dart-lang-language-4437-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 12 | [12](#dart-lang-language-4383-graph)
-post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-lang/language#4390](https://github.com/dart-lang/language/issues/4390) | 12 | [12](#dart-lang-language-4390-graph)
 
 ## Graphs
 
@@ -329,9 +329,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 250, 344, 404, 441, 485, 507, 518, 523, 533]
+    line [0, 0, 0, 0, 250, 344, 404, 441, 485, 507, 518, 523, 533, 533]
   ```
 
   </details>
@@ -346,9 +346,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 446, 468]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 355, 409, 426, 446, 468, 468]
   ```
 
   </details>
@@ -363,9 +363,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [56, 56, 56, 428, 436, 438, 439, 438, 438, 438, 438, 438, 438]
+    line [56, 56, 56, 428, 436, 438, 439, 438, 438, 438, 438, 438, 438, 438]
   ```
 
   </details>
@@ -380,9 +380,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [60, 75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 169, 176]
+    line [60, 75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 169, 176, 176]
   ```
 
   </details>
@@ -390,16 +390,16 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
 <a name="flutter-flutter-101479-graph"></a>
 ### Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 646 total reactions, 112 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 647 total reactions, 113 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [534, 534, 534, 535, 549, 555, 565, 567, 617, 627, 630, 645, 646]
+    line [534, 534, 534, 535, 549, 555, 565, 567, 617, 627, 630, 645, 646, 647]
   ```
 
   </details>
@@ -414,9 +414,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [123, 129, 136, 137, 153, 164, 183, 183, 184, 184, 188, 188, 189]
+    line [123, 129, 136, 137, 153, 164, 183, 183, 184, 184, 188, 188, 189, 189]
   ```
 
   </details>
@@ -431,9 +431,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 14, 19, 24, 28, 34, 58, 63, 66, 71, 71]
+    line [0, 0, 0, 14, 19, 24, 28, 34, 58, 63, 66, 71, 71, 71]
   ```
 
   </details>
@@ -448,9 +448,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [1054, 1054, 1055, 1058, 1059, 1074, 1076, 1078, 1080, 1081, 1086, 1086, 1087]
+    line [1054, 1054, 1055, 1058, 1059, 1074, 1076, 1078, 1080, 1081, 1086, 1086, 1087, 1087]
   ```
 
   </details>
@@ -465,9 +465,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [163, 167, 170, 172, 175, 178, 180, 183, 185, 185, 187, 189, 190]
+    line [163, 167, 170, 172, 175, 178, 180, 183, 185, 185, 187, 189, 190, 190]
   ```
 
   </details>
@@ -482,9 +482,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [2220, 2221, 2222, 2224, 2230, 2231, 2233, 2238, 2239, 2241, 2243, 2246, 2250]
+    line [2220, 2221, 2222, 2224, 2230, 2231, 2233, 2238, 2239, 2241, 2243, 2246, 2250, 2250]
   ```
 
   </details>
@@ -499,9 +499,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [48, 48, 48, 48, 48, 48, 48, 48, 67, 73, 76, 79, 80]
+    line [48, 48, 48, 48, 48, 48, 48, 48, 67, 73, 76, 79, 80, 80]
   ```
 
   </details>
@@ -516,9 +516,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 23, 29]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 23, 29, 29]
   ```
 
   </details>
@@ -533,9 +533,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [174, 175, 176, 180, 181, 191, 192, 197, 198, 198, 198, 198, 200]
+    line [174, 175, 176, 180, 181, 191, 192, 197, 198, 198, 198, 198, 200, 200]
   ```
 
   </details>
@@ -550,9 +550,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 24, 27, 27]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 24, 27, 27, 27]
   ```
 
   </details>
@@ -567,9 +567,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1170, 1170]
+    line [1145, 1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1170, 1170, 1170]
   ```
 
   </details>
@@ -584,9 +584,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 17, 18, 19, 19, 23, 25, 25, 25, 25, 25, 25]
+    line [0, 0, 17, 18, 19, 19, 23, 25, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -601,9 +601,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [22, 22, 26, 34, 35, 35, 36, 37, 42, 44, 44, 44, 45]
+    line [22, 22, 26, 34, 35, 35, 36, 37, 42, 44, 44, 44, 45, 45]
   ```
 
   </details>
@@ -618,9 +618,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 22, 23, 24, 24, 24]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 22, 23, 24, 24, 24, 24]
   ```
 
   </details>
@@ -635,9 +635,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 22]
   ```
 
   </details>
@@ -652,9 +652,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [47, 50, 50, 51, 53, 55, 58, 58, 60, 63, 65, 65, 66]
+    line [47, 50, 50, 51, 53, 55, 58, 58, 60, 63, 65, 65, 66, 66]
   ```
 
   </details>
@@ -669,9 +669,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [15, 15, 15, 16, 16, 17, 22, 27, 28, 29, 30, 32, 34]
+    line [15, 15, 15, 16, 16, 17, 22, 27, 28, 29, 30, 32, 34, 34]
   ```
 
   </details>
@@ -686,9 +686,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [237, 238, 239, 240, 241, 243, 245, 248, 248, 251, 252, 255, 256]
+    line [237, 238, 239, 240, 241, 243, 245, 248, 248, 251, 252, 255, 256, 256]
   ```
 
   </details>
@@ -703,9 +703,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [81, 81, 81, 81, 81, 95, 96, 96, 98, 98, 98, 98, 98]
+    line [81, 81, 81, 81, 81, 95, 96, 96, 98, 98, 98, 98, 98, 98]
   ```
 
   </details>
@@ -720,9 +720,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [55, 55, 57, 57, 57, 63, 64, 70, 72, 72, 72, 72, 72]
+    line [55, 55, 57, 57, 57, 63, 64, 70, 72, 72, 72, 72, 72, 72]
   ```
 
   </details>
@@ -737,9 +737,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [44, 44, 44, 44, 47, 47, 47, 47, 55, 59, 61, 61, 61]
+    line [44, 44, 44, 44, 47, 47, 47, 47, 55, 59, 61, 61, 61, 61]
   ```
 
   </details>
@@ -754,9 +754,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [22, 27, 29, 32, 33, 35, 36, 36, 36, 37, 37, 37, 37]
+    line [22, 27, 29, 32, 33, 35, 36, 36, 36, 37, 37, 37, 37, 37]
   ```
 
   </details>
@@ -771,9 +771,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15, 15, 16]
+    line [0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15, 15, 16, 16]
   ```
 
   </details>
@@ -788,26 +788,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-53402-graph"></a>
-### ☂️ New analyzer plugin system
-  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 98 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions"
-    line [83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96, 96, 98]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16]
   ```
 
   </details>
@@ -822,9 +805,26 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [84, 89, 92, 92, 92, 92, 93, 93, 94, 94, 97, 96, 98]
+    line [84, 89, 92, 92, 92, 92, 93, 93, 94, 94, 97, 96, 98, 98]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-53402-graph"></a>
+### ☂️ New analyzer plugin system
+  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 98 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
+    y-axis "Reactions"
+    line [83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96, 96, 98, 98]
   ```
 
   </details>
@@ -839,9 +839,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [33, 35, 35, 37, 42, 42, 42, 46, 46, 46, 46, 46, 47]
+    line [33, 35, 35, 37, 42, 42, 42, 46, 46, 46, 46, 46, 47, 47]
   ```
 
   </details>
@@ -856,9 +856,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -873,9 +873,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 14, 14, 14]
   ```
 
   </details>
@@ -890,9 +890,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -907,9 +907,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [342, 342, 342, 344, 345, 345, 345, 349, 350, 350, 354, 355, 355]
+    line [342, 342, 342, 344, 345, 345, 345, 349, 350, 350, 354, 355, 355, 355]
   ```
 
   </details>
@@ -924,9 +924,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [81, 82, 83, 83, 86, 88, 89, 90, 92, 92, 93, 93, 93]
+    line [81, 82, 83, 83, 86, 88, 89, 90, 92, 92, 93, 93, 93, 93]
   ```
 
   </details>
@@ -941,9 +941,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [33, 33, 33, 33, 35, 35, 35, 36, 38, 41, 41, 42, 43]
+    line [33, 33, 33, 33, 35, 35, 35, 36, 38, 41, 41, 42, 43, 43]
   ```
 
   </details>
@@ -958,9 +958,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [15, 15, 15, 15, 15, 16, 20, 20, 25, 26, 27, 28, 28]
+    line [15, 15, 15, 15, 15, 16, 20, 20, 25, 26, 27, 28, 28, 28]
   ```
 
   </details>
@@ -975,9 +975,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
   ```
 
   </details>
@@ -992,9 +992,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [276, 277, 278, 278, 280, 285, 285, 285, 285, 287, 287, 287, 287]
+    line [276, 277, 278, 278, 280, 285, 285, 285, 285, 287, 287, 287, 287, 287]
   ```
 
   </details>
@@ -1009,9 +1009,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [193, 195, 195, 196, 198, 199, 199, 200, 201, 203, 205, 205, 205]
+    line [193, 195, 195, 196, 198, 199, 199, 200, 201, 203, 205, 205, 205, 205]
   ```
 
   </details>
@@ -1026,9 +1026,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 18, 18, 18, 21, 22, 25, 30]
+    line [0, 0, 0, 0, 0, 0, 18, 18, 18, 21, 22, 25, 30, 30]
   ```
 
   </details>
@@ -1043,9 +1043,26 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [10, 13, 13, 14, 16, 16, 18, 18, 18, 18, 18, 19, 19]
+    line [10, 13, 13, 14, 16, 16, 18, 18, 18, 18, 18, 19, 19, 19]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4437-graph"></a>
+### Feature Request: Support object shorthand syntax in Dart
+  <sub>[dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) &mdash; 12 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 12]
   ```
 
   </details>
@@ -1060,26 +1077,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 5, 6, 9, 10, 10, 10, 10, 12]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4390-graph"></a>
-### post-fix assignment (highly useful for declarative layouting ,in flutter)
-  <sub>[dart-lang/language#4390](https://github.com/dart-lang/language/issues/4390) &mdash; 12 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12]
+    line [0, 0, 0, 0, 0, 5, 6, 9, 10, 10, 10, 10, 12, 12]
   ```
 
   </details>
@@ -1094,9 +1094,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [442, 447, 448, 449, 449, 449, 451, 452, 452, 452, 452, 453, 453]
+    line [442, 447, 448, 449, 449, 449, 451, 452, 452, 452, 452, 453, 453, 453]
   ```
 
   </details>
@@ -1111,9 +1111,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [196, 196, 198, 198, 198, 203, 204, 205, 206, 207, 207, 207, 207]
+    line [196, 196, 198, 198, 198, 203, 204, 205, 206, 207, 207, 207, 207, 207]
   ```
 
   </details>
@@ -1128,9 +1128,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [540, 541, 542, 544, 546, 547, 548, 548, 548, 548, 548, 549, 549]
+    line [540, 541, 542, 544, 546, 547, 548, 548, 548, 548, 548, 549, 549, 549]
   ```
 
   </details>
@@ -1145,9 +1145,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [282, 283, 283, 284, 285, 285, 285, 285, 285, 285, 285, 289, 289]
+    line [282, 283, 283, 284, 285, 285, 285, 285, 285, 285, 285, 289, 289, 289]
   ```
 
   </details>
@@ -1162,9 +1162,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [153, 153, 153, 153, 154, 154, 155, 157, 158, 158, 160, 160, 160]
+    line [153, 153, 153, 153, 154, 154, 155, 157, 158, 158, 160, 160, 160, 160]
   ```
 
   </details>
@@ -1179,9 +1179,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [50, 50, 52, 52, 52, 52, 54, 60, 60, 60, 60, 60, 60]
+    line [50, 50, 52, 52, 52, 52, 54, 60, 60, 60, 60, 60, 60, 60]
   ```
 
   </details>
@@ -1196,9 +1196,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 45, 46, 47, 47, 47, 47, 50, 51, 51]
+    line [42, 42, 42, 42, 45, 46, 47, 47, 47, 47, 50, 51, 51, 51]
   ```
 
   </details>
@@ -1213,9 +1213,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [212, 212, 212, 212, 215, 218, 219, 219, 219, 220, 220, 220, 221]
+    line [212, 212, 212, 212, 215, 218, 219, 219, 219, 220, 220, 220, 221, 221]
   ```
 
   </details>
@@ -1230,9 +1230,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [196, 196, 196, 196, 196, 197, 197, 197, 200, 200, 201, 202, 202]
+    line [196, 196, 196, 196, 196, 197, 197, 197, 200, 200, 201, 202, 202, 202]
   ```
 
   </details>
@@ -1247,9 +1247,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [170, 175, 175, 175, 179, 179, 179, 179, 179, 179, 179, 179, 179]
+    line [170, 175, 175, 175, 179, 179, 179, 179, 179, 179, 179, 179, 179, 179]
   ```
 
   </details>
@@ -1264,9 +1264,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [155, 155, 155, 155, 159, 162, 162, 162, 162, 162, 162, 162, 163]
+    line [155, 155, 155, 155, 159, 162, 162, 162, 162, 162, 162, 162, 163, 163]
   ```
 
   </details>
@@ -1281,9 +1281,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [120, 120, 120, 122, 124, 125, 125, 126, 128, 128, 128, 128, 129]
+    line [120, 120, 120, 122, 124, 125, 125, 126, 128, 128, 128, 128, 129, 129]
   ```
 
   </details>
@@ -1298,9 +1298,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [76, 76, 76, 78, 78, 80, 80, 80, 80, 81, 81, 81, 81]
+    line [76, 76, 76, 78, 78, 80, 80, 80, 80, 81, 81, 81, 81, 81]
   ```
 
   </details>
@@ -1315,9 +1315,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [53, 53, 56, 56, 56, 56, 58, 60, 60, 60, 60, 61, 61]
+    line [53, 53, 56, 56, 56, 56, 58, 60, 60, 60, 60, 61, 61, 61]
   ```
 
   </details>
@@ -1332,9 +1332,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [47, 48, 49, 49, 49, 50, 52, 53, 54, 54, 54, 54, 56]
+    line [47, 48, 49, 49, 49, 50, 52, 53, 54, 54, 54, 54, 56, 56]
   ```
 
   </details>
@@ -1349,9 +1349,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 42, 42, 42, 50, 50, 51, 51, 51]
+    line [42, 42, 42, 42, 42, 42, 42, 42, 50, 50, 51, 51, 51, 51]
   ```
 
   </details>
@@ -1366,9 +1366,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [41, 41, 41, 41, 41, 49, 49, 50, 50, 50, 50, 50, 50]
+    line [41, 41, 41, 41, 41, 49, 49, 50, 50, 50, 50, 50, 50, 50]
   ```
 
   </details>
@@ -1383,9 +1383,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [26, 26, 28, 30, 35, 35, 35, 35, 35, 35, 35, 35, 35]
+    line [26, 26, 28, 30, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35]
   ```
 
   </details>
@@ -1400,9 +1400,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [329, 329, 330, 330, 331, 331, 333, 334, 334, 334, 334, 335, 335]
+    line [329, 329, 330, 330, 331, 331, 333, 334, 334, 334, 334, 335, 335, 335]
   ```
 
   </details>
@@ -1417,9 +1417,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [252, 252, 253, 254, 253, 253, 253, 256, 258, 258, 260, 260, 260]
+    line [252, 252, 253, 254, 253, 253, 253, 256, 258, 258, 260, 260, 260, 260]
   ```
 
   </details>
@@ -1434,9 +1434,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [113, 113, 113, 115, 115, 115, 115, 116, 117, 118, 119, 120, 120]
+    line [113, 113, 113, 115, 115, 115, 115, 116, 117, 118, 119, 120, 120, 120]
   ```
 
   </details>
@@ -1451,9 +1451,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [44, 44, 45, 44, 44, 46, 46, 49, 49, 49, 49, 51, 51]
+    line [44, 44, 45, 44, 44, 46, 46, 49, 49, 49, 49, 51, 51, 51]
   ```
 
   </details>
@@ -1468,9 +1468,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [687, 687, 687, 687, 687, 693, 693, 693, 693, 693, 694, 694, 694]
+    line [687, 687, 687, 687, 687, 693, 693, 693, 693, 693, 694, 694, 694, 694]
   ```
 
   </details>
@@ -1485,9 +1485,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [312, 313, 313, 313, 315, 316, 317, 318, 318, 319, 319, 319, 319]
+    line [312, 313, 313, 313, 315, 316, 317, 318, 318, 319, 319, 319, 319, 319]
   ```
 
   </details>
@@ -1502,9 +1502,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [234, 234, 235, 235, 236, 236, 238, 238, 239, 239, 240, 240, 240]
+    line [234, 234, 235, 235, 236, 236, 238, 238, 239, 239, 240, 240, 240, 240]
   ```
 
   </details>
@@ -1519,9 +1519,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [208, 210, 210, 210, 210, 210, 210, 210, 211, 211, 211, 212, 214]
+    line [208, 210, 210, 210, 210, 210, 210, 210, 211, 211, 211, 212, 214, 214]
   ```
 
   </details>
@@ -1536,9 +1536,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [191, 191, 191, 191, 191, 192, 192, 197, 197, 197, 197, 198, 198]
+    line [191, 191, 191, 191, 191, 192, 192, 197, 197, 197, 197, 198, 198, 198]
   ```
 
   </details>
@@ -1553,9 +1553,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [147, 148, 148, 148, 148, 148, 150, 150, 151, 152, 152, 152, 152]
+    line [147, 148, 148, 148, 148, 148, 150, 150, 151, 152, 152, 152, 152, 152]
   ```
 
   </details>
@@ -1570,9 +1570,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [105, 105, 105, 108, 108, 108, 109, 109, 109, 109, 109, 112, 112]
+    line [105, 105, 105, 108, 108, 108, 109, 109, 109, 109, 109, 112, 112, 112]
   ```
 
   </details>
@@ -1587,9 +1587,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [78, 78, 78, 78, 78, 78, 78, 84, 85, 85, 85, 85, 85]
+    line [78, 78, 78, 78, 78, 78, 78, 84, 85, 85, 85, 85, 85, 85]
   ```
 
   </details>
@@ -1604,9 +1604,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [53, 53, 55, 57, 57, 57, 57, 59, 59, 59, 59, 60, 60]
+    line [53, 53, 55, 57, 57, 57, 57, 59, 59, 59, 59, 60, 60, 60]
   ```
 
   </details>
@@ -1621,26 +1621,26 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [49, 51, 52, 52, 52, 52, 52, 52, 54, 54, 55, 55, 55]
+    line [49, 51, 52, 52, 52, 52, 52, 52, 54, 54, 55, 55, 55, 55]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-166668-graph"></a>
-### [Google3 Bug]: iOS, Images replaced with pink fill when coming out of background
-  <sub>[flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) &mdash; 23 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-162147-graph"></a>
+### Flutter 3.27.x | Android 10, 11 | Crash: "drawRenderNode called on a context with no surface!"
+  <sub>[flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) &mdash; 21 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 21, 23]
+    line [0, 0, 0, 0, 0, 0, 0, 15, 15, 16, 17, 19, 20, 21]
   ```
 
   </details>
@@ -1655,9 +1655,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [5, 5, 5, 5, 5, 5, 5, 5, 11, 12, 12, 12, 12]
+    line [5, 5, 5, 5, 5, 5, 5, 5, 11, 12, 12, 12, 12, 12]
   ```
 
   </details>
@@ -1672,9 +1672,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 7, 7]
   ```
 
   </details>
@@ -1689,9 +1689,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [865, 865, 866, 867, 867, 868, 868, 868, 870, 870, 870, 870, 871]
+    line [865, 865, 866, 867, 867, 868, 868, 868, 870, 870, 870, 870, 871, 871]
   ```
 
   </details>
@@ -1706,9 +1706,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [188, 191, 191, 191, 191, 191, 191, 193, 193, 194, 194, 194, 194]
+    line [188, 191, 191, 191, 191, 191, 191, 193, 193, 194, 194, 194, 194, 194]
   ```
 
   </details>
@@ -1723,9 +1723,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [159, 159, 159, 159, 159, 162, 163, 163, 163, 163, 163, 163, 164]
+    line [159, 159, 159, 159, 159, 162, 163, 163, 163, 163, 163, 163, 164, 164]
   ```
 
   </details>
@@ -1740,9 +1740,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [145, 145, 145, 145, 145, 145, 148, 147, 147, 148, 148, 149, 150]
+    line [145, 145, 145, 145, 145, 145, 148, 147, 147, 148, 148, 149, 150, 150]
   ```
 
   </details>
@@ -1757,9 +1757,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [100, 100, 101, 101, 101, 101, 104, 105, 105, 105, 106, 106, 106]
+    line [100, 100, 101, 101, 101, 101, 104, 105, 105, 105, 106, 106, 106, 106]
   ```
 
   </details>
@@ -1774,9 +1774,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [84, 85, 85, 86, 87, 87, 87, 87, 87, 88, 88, 88, 90]
+    line [84, 85, 85, 86, 87, 87, 87, 87, 87, 88, 88, 88, 90, 90]
   ```
 
   </details>
@@ -1791,9 +1791,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [50, 50, 51, 51, 52, 53, 53, 53, 54, 54, 55, 56, 56]
+    line [50, 50, 51, 51, 52, 53, 53, 53, 54, 54, 55, 56, 56, 56]
   ```
 
   </details>
@@ -1808,9 +1808,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [40, 41, 42, 42, 42, 44, 44, 44, 44, 44, 45, 45, 46]
+    line [40, 41, 42, 42, 42, 44, 44, 44, 44, 44, 45, 45, 46, 46]
   ```
 
   </details>
@@ -1825,9 +1825,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [35, 35, 36, 38, 38, 38, 39, 39, 40, 41, 41, 41, 41]
+    line [35, 35, 36, 38, 38, 38, 39, 39, 40, 41, 41, 41, 41, 41]
   ```
 
   </details>
@@ -1842,9 +1842,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [33, 33, 33, 33, 33, 34, 35, 37, 37, 37, 37, 38, 39]
+    line [33, 33, 33, 33, 33, 34, 35, 37, 37, 37, 37, 38, 39, 39]
   ```
 
   </details>
@@ -1859,9 +1859,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 36]
+    line [30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 36, 36]
   ```
 
   </details>
@@ -1876,26 +1876,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [22, 23, 24, 24, 24, 24, 24, 25, 28, 28, 28, 28, 28]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-162147-graph"></a>
-### Flutter 3.27.x | Android 10, 11 | Crash: "drawRenderNode called on a context with no surface!"
-  <sub>[flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) &mdash; 20 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 15, 15, 16, 17, 19, 20]
+    line [22, 23, 24, 24, 24, 24, 24, 25, 28, 28, 28, 28, 28, 28]
   ```
 
   </details>
@@ -1910,9 +1893,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [661, 661, 664, 664, 664, 664, 664, 665, 665, 665, 665, 665, 666]
+    line [661, 661, 664, 664, 664, 664, 664, 665, 665, 665, 665, 665, 666, 666]
   ```
 
   </details>
@@ -1927,9 +1910,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [297, 298, 298, 298, 299, 299, 300, 300, 300, 301, 301, 301, 302]
+    line [297, 298, 298, 298, 299, 299, 300, 300, 300, 301, 301, 301, 302, 302]
   ```
 
   </details>
@@ -1944,9 +1927,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [205, 206, 206, 206, 208, 208, 208, 208, 210, 210, 210, 210, 210]
+    line [205, 206, 206, 206, 208, 208, 208, 208, 210, 210, 210, 210, 210, 210]
   ```
 
   </details>
@@ -1961,9 +1944,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [201, 202, 202, 202, 202, 202, 202, 202, 202, 202, 204, 205, 205]
+    line [201, 202, 202, 202, 202, 202, 202, 202, 202, 202, 204, 205, 205, 205]
   ```
 
   </details>
@@ -1978,9 +1961,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [90, 90, 91, 92, 92, 93, 93, 93, 93, 93, 93, 93, 95]
+    line [90, 90, 91, 92, 92, 93, 93, 93, 93, 93, 93, 93, 95, 95]
   ```
 
   </details>
@@ -1995,9 +1978,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [57, 58, 58, 58, 58, 60, 61, 61, 61, 61, 63, 64, 62]
+    line [57, 58, 58, 58, 58, 60, 61, 61, 61, 61, 63, 64, 62, 62]
   ```
 
   </details>
@@ -2012,9 +1995,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [57, 57, 57, 58, 60, 60, 61, 61, 61, 61, 61, 61, 61]
+    line [57, 57, 57, 58, 60, 60, 61, 61, 61, 61, 61, 61, 61, 61]
   ```
 
   </details>
@@ -2029,9 +2012,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [54, 54, 54, 54, 54, 54, 54, 56, 57, 57, 59, 59, 59]
+    line [54, 54, 54, 54, 54, 54, 54, 56, 57, 57, 59, 59, 59, 59]
   ```
 
   </details>
@@ -2046,9 +2029,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52, 53, 53]
+    line [48, 49, 49, 49, 50, 50, 50, 50, 51, 52, 52, 53, 53, 53]
   ```
 
   </details>
@@ -2063,9 +2046,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53]
+    line [48, 48, 48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53, 53]
   ```
 
   </details>
@@ -2080,9 +2063,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [33, 33, 35, 35, 35, 35, 35, 35, 35, 35, 35, 36, 36]
+    line [33, 33, 35, 35, 35, 35, 35, 35, 35, 35, 35, 36, 36, 36]
   ```
 
   </details>
@@ -2097,9 +2080,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [20, 20, 20, 21, 21, 22, 24, 24, 24, 24, 25, 25, 25]
+    line [20, 20, 20, 21, 21, 22, 24, 24, 24, 24, 25, 25, 25, 25]
   ```
 
   </details>
@@ -2114,9 +2097,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [18, 18, 18, 19, 19, 19, 19, 20, 20, 22, 22, 22, 23]
+    line [18, 18, 18, 19, 19, 19, 19, 20, 20, 22, 22, 22, 23, 23]
   ```
 
   </details>
@@ -2131,9 +2114,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 17, 17, 17, 18, 18, 19, 19, 21]
+    line [16, 16, 16, 16, 16, 17, 17, 17, 18, 18, 19, 19, 21, 21]
   ```
 
   </details>
@@ -2148,26 +2131,9 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [11, 12, 12, 12, 12, 12, 12, 12, 12, 15, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-60827-graph"></a>
-### Providing other analysis_options.yaml to dart analyze
-  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+    line [11, 12, 12, 12, 12, 12, 12, 12, 12, 15, 16, 16, 16, 16]
   ```
 
   </details>
@@ -2182,9 +2148,26 @@ post-fix assignment (highly useful for declarative layouting ,in flutter) [dart-
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7]
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60827-graph"></a>
+### Providing other analysis_options.yaml to dart analyze
+  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
