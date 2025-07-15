@@ -238,8 +238,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 453 | [11](#flutter-flutter-31713-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 335 | [8](#flutter-flutter-37597-graph)
+[Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 211 | [6](#flutter-flutter-41980-graph)
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | [5](#flutter-flutter-41722-graph)
-[Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 210 | [5](#flutter-flutter-41980-graph)
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 36 | [5](#flutter-flutter-99050-graph)
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 221 | 4
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 4
@@ -796,23 +796,6 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
-<a name="dart-lang-sdk-53402-graph"></a>
-### ☂️ New analyzer plugin system
-  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 98 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
-    y-axis "Reactions"
-    line [83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96, 96, 98, 98]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-48381-graph"></a>
 ### Use a system default font on flutter
   <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 98 total reactions, 15 recent reactions</sub><br />
@@ -825,6 +808,23 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
     x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
     line [84, 89, 92, 92, 92, 92, 93, 93, 94, 94, 97, 96, 98, 98]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-53402-graph"></a>
+### ☂️ New analyzer plugin system
+  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 98 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
+    y-axis "Reactions"
+    line [83, 83, 83, 92, 92, 92, 92, 96, 96, 96, 96, 96, 98, 98]
   ```
 
   </details>
@@ -1714,6 +1714,23 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
+<a name="flutter-flutter-41980-graph"></a>
+### [Desktop] - Splash screen or background color customization
+  <sub>[flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) &mdash; 211 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
+    y-axis "Reactions"
+    line [205, 206, 206, 206, 208, 208, 208, 208, 210, 210, 210, 210, 210, 211]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-32120-graph"></a>
 ### Add option to smoothly animate stepped mouse scroll deltas
   <sub>[flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) &mdash; 164 total reactions, 6 recent reactions</sub><br />
@@ -1930,23 +1947,6 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
     x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
     y-axis "Reactions"
     line [297, 298, 298, 298, 299, 299, 300, 300, 300, 301, 301, 301, 302, 302]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-41980-graph"></a>
-### [Desktop] - Splash screen or background color customization
-  <sub>[flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) &mdash; 210 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 14, Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14]
-    y-axis "Reactions"
-    line [205, 206, 206, 206, 208, 208, 208, 208, 210, 210, 210, 210, 210, 210]
   ```
 
   </details>
