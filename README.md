@@ -9,7 +9,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 546 | [546](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 476 | [476](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 182 | [119](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 183 | [120](#flutter-flutter-166333-graph)
 Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 649 | [115](#flutter-flutter-101479-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 189 | [65](#dart-lang-language-4271-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 72 | [58](#flutter-flutter-165502-graph)
@@ -17,8 +17,8 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 35 | [35](#flutter-flutter-170820-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2253 | [33](#dart-lang-language-314-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 29 | [29](#flutter-flutter-171436-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 202 | [28](#flutter-flutter-142845-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 191 | [28](#dart-lang-sdk-55281-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 201 | [27](#flutter-flutter-142845-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 27 | [27](#flutter-flutter-170792-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1172 | [26](#dart-lang-language-723-graph)
 
@@ -32,7 +32,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 201 | [27](#flutter-flutter-142845-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 202 | [28](#flutter-flutter-142845-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 207 | [14](#flutter-flutter-65504-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [10](#flutter-flutter-101227-graph)
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 43 | [10](#flutter-flutter-99158-graph)
@@ -40,10 +40,10 @@ Allow Hero widgets to have transitions within the same screen [flutter/flutter#5
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 61 | [8](#flutter-flutter-140586-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 694 | [7](#flutter-flutter-30701-graph)
 Make tests compile and run faster [flutter/flutter#69429](https://github.com/flutter/flutter/issues/69429) | 113 | [7](#flutter-flutter-69429-graph)
+the wrap widget add a property “maxline” to limit the lines of the widget [flutter/flutter#65331](https://github.com/flutter/flutter/issues/65331) | 57 | [7](#flutter-flutter-65331-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 51 | [7](#flutter-flutter-81005-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 240 | [6](#flutter-flutter-138614-graph)
 Opt a subtree out of hitTestSelf culling [flutter/flutter#75747](https://github.com/flutter/flutter/issues/75747) | 106 | [6](#flutter-flutter-75747-graph)
-the wrap widget add a property “maxline” to limit the lines of the widget [flutter/flutter#65331](https://github.com/flutter/flutter/issues/65331) | 56 | [6](#flutter-flutter-65331-graph)
 Add a variant to context.dependOnInheritedWidget that removes the unused dependencies when the dependent no-longer depends on it [flutter/flutter#106549](https://github.com/flutter/flutter/issues/106549) | 28 | [6](#flutter-flutter-106549-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 194 | [5](#flutter-flutter-45336-graph)
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 164 | [5](#flutter-flutter-32120-graph)
@@ -68,7 +68,7 @@ Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 269 | 4
 Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/flutter/flutter/issues/108973) | 29 | 4
 Widget test issue with DropdownButton [flutter/flutter#89905](https://github.com/flutter/flutter/issues/89905) | 21 | 4
-Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) | 89 | 3
+Investigate adaptive width and alignment properties for SnackBar [flutter/flutter#113039](https://github.com/flutter/flutter/issues/113039) | 19 | 4
 
 #### Cupertino
 
@@ -170,7 +170,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 182 | [119](#flutter-flutter-166333-graph)
+[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 183 | [120](#flutter-flutter-166333-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 46 | [24](#flutter-flutter-163845-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 289 | [7](#flutter-flutter-28901-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 150 | [5](#flutter-flutter-28894-graph)
@@ -192,8 +192,8 @@ Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](ht
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 35 | [20](#flutter-flutter-153075-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 67 | [19](#flutter-flutter-139427-graph)
-[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 34 | [19](#flutter-flutter-153075-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 17 | [17](#flutter-flutter-169215-graph)
 One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 14 | [14](#flutter-flutter-168635-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 60 | [7](#flutter-flutter-145961-graph)
@@ -215,13 +215,13 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 29 | [29](#flutter-flutter-171436-graph)
-Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 23 | [23](#flutter-flutter-171402-graph)
+Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 24 | [24](#flutter-flutter-171402-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 877 | [12](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [11](#flutter-flutter-45296-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 222 | [10](#flutter-flutter-55324-graph)
+[google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 36 | [10](#flutter-flutter-130472-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 51 | [9](#flutter-flutter-152588-graph)
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [9](#flutter-flutter-51530-graph)
-[google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [9](#flutter-flutter-130472-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 203 | [7](#flutter-flutter-69529-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | [7](#flutter-flutter-58498-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -259,13 +259,13 @@ Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 29 | [29](#flutter-flutter-171436-graph)
-Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 23 | [23](#flutter-flutter-171402-graph)
+Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 24 | [24](#flutter-flutter-171402-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 877 | [12](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 287 | [11](#flutter-flutter-45296-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 222 | [10](#flutter-flutter-55324-graph)
+[google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 36 | [10](#flutter-flutter-130472-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 51 | [9](#flutter-flutter-152588-graph)
 [web]: Support for backend proxy [flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) | 50 | [9](#flutter-flutter-51530-graph)
-[google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 35 | [9](#flutter-flutter-130472-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 203 | [7](#flutter-flutter-69529-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | [7](#flutter-flutter-58498-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -293,8 +293,8 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 15 | [6](#dart-lang-sdk-59988-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Hint and/or lint for changing List/Set/Map `from` to `of` [dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) | 16 | [5](#dart-lang-sdk-58359-graph)
-Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 
 ### Dart language
 
@@ -373,7 +373,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-166333-graph"></a>
 ### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 182 total reactions, 119 recent reactions</sub><br />
+  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 183 total reactions, 120 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -382,7 +382,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
-    line [75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 169, 176, 182, 182]
+    line [75, 89, 97, 111, 127, 137, 143, 152, 160, 161, 169, 176, 182, 183]
   ```
 
   </details>
@@ -507,6 +507,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-142845-graph"></a>
+### ☂️ Multi View for Windows/MacOS
+  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 202 total reactions, 28 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [175, 176, 180, 181, 191, 192, 197, 198, 198, 198, 198, 200, 201, 202]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
   <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 191 total reactions, 28 recent reactions</sub><br />
@@ -519,23 +536,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [167, 170, 172, 175, 178, 180, 183, 185, 185, 187, 189, 190, 191, 191]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-142845-graph"></a>
-### ☂️ Multi View for Windows/MacOS
-  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 201 total reactions, 27 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [175, 176, 180, 181, 191, 192, 197, 198, 198, 198, 198, 200, 201, 201]
   ```
 
   </details>
@@ -628,7 +628,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-171402-graph"></a>
 ### Flutter web not rendering the UI on latest Chrome
-  <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 23 total reactions, 23 recent reactions</sub><br />
+  <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 24 total reactions, 24 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -637,7 +637,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 23, 23]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 23, 24]
   ```
 
   </details>
@@ -655,6 +655,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [81, 81, 81, 81, 95, 96, 96, 98, 98, 98, 98, 98, 101, 101]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-153075-graph"></a>
+### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
+  <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 35 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [15, 15, 16, 16, 17, 22, 27, 28, 29, 30, 32, 34, 34, 35]
   ```
 
   </details>
@@ -706,23 +723,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [50, 50, 51, 53, 55, 58, 58, 60, 63, 65, 65, 66, 67, 67]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-153075-graph"></a>
-### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
-  <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 34 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [15, 15, 16, 16, 17, 22, 27, 28, 29, 30, 32, 34, 34, 34]
   ```
 
   </details>
@@ -1170,6 +1170,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-130472-graph"></a>
+### [google_maps_web] Migrate legacy Markers to Advanced Markers.
+  <sub>[flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) &mdash; 36 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [26, 28, 30, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 36]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-60202-graph"></a>
 ### Revive support for interpreting code in Flutter debug builds on iOS
   <sub>[dart-lang/sdk#60202](https://github.com/dart-lang/sdk/issues/60202) &mdash; 15 total reactions, 10 recent reactions</sub><br />
@@ -1221,23 +1238,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-53059-graph"></a>
-### Suggestion: decouple more widgets from Android/iOS design guidelines
-  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 51 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 42, 42, 50, 50, 51, 51, 51, 51, 51]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-152588-graph"></a>
 ### Scroll "back" on web causes browser back action (unless perfectly horizontal)
   <sub>[flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) &mdash; 51 total reactions, 9 recent reactions</sub><br />
@@ -1255,6 +1255,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-53059-graph"></a>
+### Suggestion: decouple more widgets from Android/iOS design guidelines
+  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 51 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [42, 42, 42, 42, 42, 42, 42, 50, 50, 51, 51, 51, 51, 51]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-51530-graph"></a>
 ### [web]: Support for backend proxy
   <sub>[flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) &mdash; 50 total reactions, 9 recent reactions</sub><br />
@@ -1267,23 +1284,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [41, 41, 41, 41, 49, 49, 50, 50, 50, 50, 50, 50, 50, 50]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-130472-graph"></a>
-### [google_maps_web] Migrate legacy Markers to Advanced Markers.
-  <sub>[flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) &mdash; 35 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [26, 28, 30, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35]
   ```
 
   </details>
@@ -1578,6 +1578,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-65331-graph"></a>
+### the wrap widget add a property “maxline” to limit the lines of the widget
+  <sub>[flutter/flutter#65331](https://github.com/flutter/flutter/issues/65331) &mdash; 57 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [50, 51, 51, 52, 53, 53, 53, 54, 54, 55, 56, 56, 56, 57]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-81005-graph"></a>
 ### Jump to index in sliver world
   <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 51 total reactions, 7 recent reactions</sub><br />
@@ -1692,23 +1709,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [85, 85, 86, 87, 87, 87, 87, 87, 88, 88, 88, 90, 90, 90]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65331-graph"></a>
-### the wrap widget add a property “maxline” to limit the lines of the widget
-  <sub>[flutter/flutter#65331](https://github.com/flutter/flutter/issues/65331) &mdash; 56 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [50, 51, 51, 52, 53, 53, 53, 54, 54, 55, 56, 56, 56, 56]
   ```
 
   </details>
@@ -2122,23 +2122,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60827-graph"></a>
-### Providing other analysis_options.yaml to dart analyze
-  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61060-graph"></a>
 ### Make Zones be properly encapsulating (Breaking!)
   <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -2151,6 +2134,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60827-graph"></a>
+### Providing other analysis_options.yaml to dart analyze
+  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
