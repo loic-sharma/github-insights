@@ -292,8 +292,8 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) | 7 | [7](#dart-lang-sdk-60922-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 15 | [6](#dart-lang-sdk-59988-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
+Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | [5](#dart-lang-sdk-42177-graph)
 Hint and/or lint for changing List/Set/Map `from` to `of` [dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) | 16 | [5](#dart-lang-sdk-58359-graph)
-Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 
 ### Dart language
@@ -312,8 +312,8 @@ More concise syntax for defining sealed families [dart-lang/language#3021](https
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 20 | [20](#dart-lang-language-4462-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 256 | [19](#dart-lang-language-2364-graph)
 Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 15 | [15](#dart-lang-language-4426-graph)
-Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
+Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 355 | [13](#dart-lang-language-1122-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 13 | [13](#dart-lang-language-4437-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 275 | [12](#dart-lang-language-649-graph)
@@ -898,9 +898,9 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4403-graph"></a>
-### Allow instance and metaobject members in one declaration?
-  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -909,7 +909,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -932,9 +932,9 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+<a name="dart-lang-language-4403-graph"></a>
+### Allow instance and metaobject members in one declaration?
+  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -943,7 +943,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -2139,6 +2139,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-sdk-42177-graph"></a>
+### Dart-defines should generate a warning when not const
+  <sub>[dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions" 0 --> 20
+    line [13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 18]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-58359-graph"></a>
 ### Hint and/or lint for changing List/Set/Map `from` to `of`
   <sub>[dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) &mdash; 16 total reactions, 5 recent reactions</sub><br />
@@ -2151,23 +2168,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions" 0 --> 20
     line [12, 12, 12, 12, 12, 12, 12, 12, 15, 16, 16, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-60827-graph"></a>
-### Providing other analysis_options.yaml to dart analyze
-  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
