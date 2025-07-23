@@ -17,10 +17,10 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 36 | [36](#flutter-flutter-172561-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 36 | [36](#flutter-flutter-170820-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2253 | [33](#dart-lang-language-314-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1175 | [29](#dart-lang-language-723-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 192 | [29](#dart-lang-sdk-55281-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 29 | [29](#flutter-flutter-171436-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 202 | [28](#flutter-flutter-142845-graph)
-Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 
 ## Trending issues by team
 
@@ -305,7 +305,7 @@ Issue | Total reactions | Recent reactions
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 189 | [65](#dart-lang-language-4271-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1090 | [36](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2253 | [33](#dart-lang-language-314-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1173 | [27](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1175 | [29](#dart-lang-language-723-graph)
 Case expressions [dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) | 25 | [25](#dart-lang-language-4343-graph)
 Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 24 | [24](#dart-lang-language-4404-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 101 | [20](#dart-lang-language-3021-graph)
@@ -507,6 +507,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1175 total reactions, 29 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1170, 1170, 1172, 1175]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
   <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 192 total reactions, 29 recent reactions</sub><br />
@@ -570,23 +587,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 22, 24, 27, 27, 27, 28]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1173 total reactions, 27 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [1146, 1146, 1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1170, 1170, 1172, 1173]
   ```
 
   </details>
@@ -2088,23 +2088,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-125741-graph"></a>
-### Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)'
-  <sub>[flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) &mdash; 25 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [20, 20, 21, 21, 22, 24, 24, 24, 24, 25, 25, 25, 25, 25]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-148026-graph"></a>
 ### FontWeight should subsume `wght` in FontVariation
   <sub>[flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) &mdash; 25 total reactions, 5 recent reactions</sub><br />
@@ -2117,6 +2100,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [20, 20, 21, 21, 21, 21, 21, 21, 21, 21, 21, 23, 25, 25]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-125741-graph"></a>
+### Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)'
+  <sub>[flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) &mdash; 25 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [20, 20, 21, 21, 22, 24, 24, 24, 24, 25, 25, 25, 25, 25]
   ```
 
   </details>
