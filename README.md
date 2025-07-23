@@ -60,7 +60,7 @@ Move the material and cupertino packages outside of Flutter [flutter/flutter#101
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 72 | [58](#flutter-flutter-165502-graph)
 A Standard For Implementing Custom UIs [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 61 | [17](#flutter-flutter-97496-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [14](#flutter-flutter-161687-graph)
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 132 | [12](#flutter-flutter-102560-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 133 | [13](#flutter-flutter-102560-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 98 | [12](#flutter-flutter-48381-graph)
 Suggestion: decouple more widgets from Android/iOS design guidelines [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 51 | [9](#flutter-flutter-53059-graph)
 Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | [5](#flutter-flutter-110425-graph)
@@ -136,10 +136,10 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 421 | 2
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 90 | 2
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 58 | 2
+Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 25 | 2
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 80 | 1
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 51 | 1
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 44 | 1
-[flutter_tools] Refactor Flutter SDK to support installation in read-only directory [flutter/flutter#91318](https://github.com/flutter/flutter/issues/91318) | 28 | 1
 
 ### Engine
 
@@ -983,6 +983,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 133 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [120, 120, 122, 124, 125, 125, 126, 128, 128, 128, 128, 129, 131, 133]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-169746-graph"></a>
 ### systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1
   <sub>[flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1046,23 +1063,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [263, 263, 264, 264, 265, 269, 270, 270, 270, 272, 274, 274, 275, 275]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 132 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [120, 120, 122, 124, 125, 125, 126, 128, 128, 128, 128, 129, 131, 132]
   ```
 
   </details>
