@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-04-21 to 2025-07-23.
+Issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch brow
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-framework` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-design` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`f: cupertino` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 477 | [477](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | [7](#flutter-flutter-58498-graph)
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-go_router` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-tool` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-engine` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
@@ -166,7 +166,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-ios` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-android` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-web` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`team-ecosystem` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`dart-lang/sdk` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Regular hangs of the analyzer in VSCode on Windows [dart-lang/sdk#60702](https:/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-04-21 to 2025-07-23.
+`dart-lang/language` issues that received the most reactions from 2025-04-21 to 2025-07-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
