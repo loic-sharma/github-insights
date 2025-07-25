@@ -44,9 +44,9 @@ Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](http
 Make tests compile and run faster [flutter/flutter#69429](https://github.com/flutter/flutter/issues/69429) | 113 | [7](#flutter-flutter-69429-graph)
 Opt a subtree out of hitTestSelf culling [flutter/flutter#75747](https://github.com/flutter/flutter/issues/75747) | 107 | [7](#flutter-flutter-75747-graph)
 the wrap widget add a property “maxline” to limit the lines of the widget [flutter/flutter#65331](https://github.com/flutter/flutter/issues/65331) | 57 | [7](#flutter-flutter-65331-graph)
+[Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 116 | [6](#flutter-flutter-105672-graph)
 Add a variant to context.dependOnInheritedWidget that removes the unused dependencies when the dependent no-longer depends on it [flutter/flutter#106549](https://github.com/flutter/flutter/issues/106549) | 28 | [6](#flutter-flutter-106549-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 194 | [5](#flutter-flutter-45336-graph)
-Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 164 | [5](#flutter-flutter-32120-graph)
 
 #### Design
 
@@ -160,7 +160,7 @@ Merge the platform and UI threads [flutter/flutter#150525](https://github.com/fl
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 134 | [5](#flutter-flutter-30541-graph)
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 95 | [5](#flutter-flutter-55870-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 25 | [5](#flutter-flutter-148026-graph)
-Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | 4
+Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 189 | 4
 
 ### Platforms
 
@@ -172,6 +172,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 184 | [121](#flutter-flutter-166333-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 46 | [24](#flutter-flutter-163845-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 14 | [14](#flutter-flutter-172434-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 289 | [7](#flutter-flutter-28901-graph)
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 27 | [7](#flutter-flutter-125741-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 357 | [5](#flutter-flutter-110431-graph)
@@ -184,7 +185,6 @@ Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 74 | 4
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 61 | 4
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 153 | 3
-Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://github.com/flutter/flutter/issues/133465) | 85 | 3
 
 #### Android
 
@@ -192,7 +192,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 35 | [20](#flutter-flutter-153075-graph)
+[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 36 | [21](#flutter-flutter-153075-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 67 | [19](#flutter-flutter-139427-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 17 | [17](#flutter-flutter-169215-graph)
 One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 14 | [14](#flutter-flutter-168635-graph)
@@ -312,8 +312,8 @@ More concise syntax for defining sealed families [dart-lang/language#3021](https
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 20 | [20](#dart-lang-language-4462-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 256 | [19](#dart-lang-language-2364-graph)
 Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 15 | [15](#dart-lang-language-4426-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 355 | [13](#dart-lang-language-1122-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 13 | [13](#dart-lang-language-4437-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 414 | [12](#dart-lang-language-356-graph)
@@ -660,6 +660,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-153075-graph"></a>
+### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
+  <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 36 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [15, 15, 16, 16, 17, 22, 27, 28, 29, 30, 32, 34, 34, 36]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-3021-graph"></a>
 ### More concise syntax for defining sealed families
   <sub>[dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) &mdash; 101 total reactions, 20 recent reactions</sub><br />
@@ -672,23 +689,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [81, 81, 81, 81, 95, 96, 96, 98, 98, 98, 98, 98, 101, 101]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-153075-graph"></a>
-### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
-  <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 35 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [15, 15, 16, 16, 17, 22, 27, 28, 29, 30, 32, 34, 34, 35]
   ```
 
   </details>
@@ -915,23 +915,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-168635-graph"></a>
 ### One UI 7 Navigation Buttons Above App
   <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -949,6 +932,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-172434-graph"></a>
+### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4403-graph"></a>
 ### Allow instance and metaobject members in one declaration?
   <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -961,6 +961,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1782,6 +1799,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-105672-graph"></a>
+### [Proposal] Access l18n Translations with Dynamic Keys
+  <sub>[flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) &mdash; 116 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
+    y-axis "Reactions"
+    line [110, 110, 110, 110, 110, 111, 111, 111, 112, 114, 115, 115, 115, 116]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-124205-graph"></a>
 ### [IOS] Textinput is placed with offset above the keyboard when focused
   <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 90 total reactions, 6 recent reactions</sub><br />
@@ -1998,23 +2032,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
     y-axis "Reactions"
     line [191, 191, 191, 191, 191, 191, 193, 193, 194, 194, 194, 194, 194, 194]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-32120-graph"></a>
-### Add option to smoothly animate stepped mouse scroll deltas
-  <sub>[flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) &mdash; 164 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 21, Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21]
-    y-axis "Reactions"
-    line [159, 159, 159, 159, 162, 163, 163, 163, 163, 163, 163, 164, 164, 164]
   ```
 
   </details>
