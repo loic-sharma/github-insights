@@ -184,7 +184,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 84 | 4
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 61 | 4
 Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://github.com/flutter/flutter/issues/133465) | 85 | 3
-Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 74 | 3
+Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](https://github.com/flutter/flutter/issues/103163) | 74 | 3
 
 #### Android
 
@@ -197,7 +197,7 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 17 | [17](#flutter-flutter-169215-graph)
 One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 15 | [15](#flutter-flutter-168635-graph)
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 13 | [13](#flutter-flutter-169746-graph)
-Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 43 | [8](#flutter-flutter-104268-graph)
+Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 44 | [9](#flutter-flutter-104268-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 60 | [7](#flutter-flutter-145961-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 69 | 4
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 64 | 4
@@ -294,7 +294,7 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | [5](#dart-lang-sdk-42177-graph)
-Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
+Regular hangs of the analyzer in VSCode on Windows [dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) | 5 | [5](#dart-lang-sdk-60702-graph)
 
 ### Dart language
 
@@ -311,12 +311,12 @@ Define local enums [dart-lang/language#4404](https://github.com/dart-lang/langua
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 21 | [21](#dart-lang-language-4462-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 101 | [20](#dart-lang-language-3021-graph)
 Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 19 | [19](#dart-lang-language-4426-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 256 | [17](#dart-lang-language-2364-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 257 | [18](#dart-lang-language-2364-graph)
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 14 | [14](#dart-lang-language-4403-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 355 | [13](#dart-lang-language-1122-graph)
+Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) | 73 | [13](#dart-lang-language-3192-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 13 | [13](#dart-lang-language-4437-graph)
-Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 414 | [12](#dart-lang-language-356-graph)
 
 ## Graphs
 
@@ -745,6 +745,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-2364-graph"></a>
+### Primary constructor on classes
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 257 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [239, 240, 241, 243, 245, 248, 248, 251, 252, 255, 256, 256, 256, 257]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-97496-graph"></a>
 ### A Standard For Implementing Custom UIs
   <sub>[flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) &mdash; 62 total reactions, 18 recent reactions</sub><br />
@@ -757,23 +774,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
     line [44, 44, 47, 47, 47, 47, 55, 59, 61, 61, 61, 61, 62, 62]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-2364-graph"></a>
-### Primary constructor on classes
-  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 256 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [239, 240, 241, 243, 245, 248, 248, 251, 252, 255, 256, 256, 256, 256]
   ```
 
   </details>
@@ -915,23 +915,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4403-graph"></a>
 ### Allow instance and metaobject members in one declaration?
   <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -949,6 +932,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-1122-graph"></a>
 ### Support method/function overloads
   <sub>[dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) &mdash; 355 total reactions, 13 recent reactions</sub><br />
@@ -961,6 +961,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
     line [342, 344, 345, 345, 345, 349, 350, 350, 354, 355, 355, 355, 355, 355]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-3192-graph"></a>
+### Remove dynamic type
+  <sub>[dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) &mdash; 73 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [60, 62, 62, 63, 63, 64, 64, 65, 67, 67, 67, 67, 67, 73]
   ```
 
   </details>
@@ -995,23 +1012,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-356-graph"></a>
-### Abstract static methods
-  <sub>[dart-lang/language#356](https://github.com/dart-lang/language/issues/356) &mdash; 414 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [407, 408, 411, 411, 411, 411, 411, 411, 413, 413, 413, 413, 414, 414]
   ```
 
   </details>
@@ -1374,6 +1374,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-104268-graph"></a>
+### Filtering `updateAcquireFence: Did not find frame.` out from flutter run output
+  <sub>[flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) &mdash; 44 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [36, 38, 38, 38, 39, 39, 40, 41, 41, 41, 41, 41, 43, 44]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-28617-graph"></a>
 ### Allow AOT executables to be cross-compiled
   <sub>[dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) &mdash; 549 total reactions, 8 recent reactions</sub><br />
@@ -1471,23 +1488,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
     line [56, 56, 56, 56, 58, 60, 60, 60, 60, 61, 61, 61, 62, 62]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-104268-graph"></a>
-### Filtering `updateAcquireFence: Did not find frame.` out from flutter run output
-  <sub>[flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) &mdash; 43 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [36, 38, 38, 38, 39, 39, 40, 41, 41, 41, 41, 41, 43, 43]
   ```
 
   </details>
@@ -2173,9 +2173,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60827-graph"></a>
-### Providing other analysis_options.yaml to dart analyze
-  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-60702-graph"></a>
+### Regular hangs of the analyzer in VSCode on Windows
+  <sub>[dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2184,7 +2184,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    line [0, 0, 0, 0, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5]
   ```
 
   </details>
