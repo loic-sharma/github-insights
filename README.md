@@ -33,7 +33,7 @@ Can't capture the output of a `BackdropFilterLayer` without painting it to the s
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 204 | [29](#flutter-flutter-142845-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 207 | [12](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 208 | [13](#flutter-flutter-65504-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 60 | [10](#flutter-flutter-101227-graph)
 Maintain scroll location to prevent content jumping when network images or dynamic network content loads into a listview that has already been laid out [flutter/flutter#99158](https://github.com/flutter/flutter/issues/99158) | 43 | [10](#flutter-flutter-99158-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 53 | [9](#flutter-flutter-81005-graph)
@@ -201,7 +201,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 60 | [7](#flutter-flutter-145961-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 69 | 4
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 64 | 4
-Flutter Camera plugin camera lens change [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 46 | 4
+[camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 46 | 4
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 27 | 3
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 100 | 2
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 91 | 2
@@ -244,8 +244,8 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 69 | 4
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 23 | 4
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | 3
-[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
+[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 29 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 24 | 3
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 250 | 2
@@ -283,7 +283,7 @@ Issue | Total reactions | Recent reactions
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 193 | [25](#dart-lang-sdk-55281-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 74 | [19](#dart-lang-sdk-57036-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 98 | [15](#dart-lang-sdk-53402-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 47 | [12](#dart-lang-sdk-56841-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 48 | [13](#dart-lang-sdk-56841-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 207 | [11](#dart-lang-sdk-50565-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 37 | [10](#dart-lang-sdk-60335-graph)
 Revive support for interpreting code in Flutter debug builds on iOS [dart-lang/sdk#60202](https://github.com/dart-lang/sdk/issues/60202) | 15 | [10](#dart-lang-sdk-60202-graph)
@@ -294,7 +294,7 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | [5](#dart-lang-sdk-42177-graph)
-Regular hangs of the analyzer in VSCode on Windows [dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) | 5 | [5](#dart-lang-sdk-60702-graph)
+Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 
 ### Dart language
 
@@ -626,23 +626,6 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="dart-lang-language-4404-graph"></a>
-### Define local enums
-  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 24 total reactions, 24 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 22, 23, 24, 24, 24, 24, 24, 24]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-171402-graph"></a>
 ### Flutter web not rendering the UI on latest Chrome
   <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 24 total reactions, 24 recent reactions</sub><br />
@@ -655,6 +638,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 23, 24, 24]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4404-graph"></a>
+### Define local enums
+  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 24 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 22, 23, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -966,6 +966,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 208 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [195, 196, 198, 199, 199, 200, 201, 203, 205, 205, 205, 207, 207, 208]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-3192-graph"></a>
 ### Remove dynamic type
   <sub>[dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) &mdash; 73 total reactions, 13 recent reactions</sub><br />
@@ -983,9 +1000,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="dart-lang-language-4437-graph"></a>
-### Feature Request: Support object shorthand syntax in Dart
-  <sub>[dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 48 total reactions, 13 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -993,8 +1010,8 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   ```mermaid
   xychart-beta
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13]
+    y-axis "Reactions"
+    line [35, 37, 42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 48]
   ```
 
   </details>
@@ -1017,9 +1034,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 207 total reactions, 12 recent reactions</sub><br />
+<a name="dart-lang-language-4437-graph"></a>
+### Feature Request: Support object shorthand syntax in Dart
+  <sub>[dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) &mdash; 13 total reactions, 13 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1027,25 +1044,8 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   ```mermaid
   xychart-beta
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [195, 196, 198, 199, 199, 200, 201, 203, 205, 205, 205, 207, 207, 207]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 47 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [35, 37, 42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 47]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13]
   ```
 
   </details>
@@ -2173,9 +2173,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60702-graph"></a>
-### Regular hangs of the analyzer in VSCode on Windows
-  <sub>[dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-61060-graph"></a>
+### Make Zones be properly encapsulating (Breaking!)
+  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2184,7 +2184,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   xychart-beta
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
   ```
 
   </details>
