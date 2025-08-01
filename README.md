@@ -9,7 +9,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 588 | [588](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 761 | [227](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 762 | [228](#flutter-flutter-101479-graph)
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 184 | [108](#flutter-flutter-166333-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 74 | [60](#flutter-flutter-165502-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 191 | [57](#dart-lang-language-4271-graph)
@@ -56,7 +56,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 588 | [588](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 761 | [227](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 762 | [228](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 74 | [60](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 65 | [21](#flutter-flutter-97496-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 58 | [16](#flutter-flutter-53059-graph)
@@ -76,7 +76,7 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 761 | [227](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 762 | [228](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 58 | [16](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [14](#flutter-flutter-161687-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 30 | 3
@@ -172,13 +172,13 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 184 | [108](#flutter-flutter-166333-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 50 | [28](#flutter-flutter-163845-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 22 | [22](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 23 | [23](#flutter-flutter-172434-graph)
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 27 | [7](#flutter-flutter-125741-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 289 | [6](#flutter-flutter-28901-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 151 | [6](#flutter-flutter-28894-graph)
+[in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed  [flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) | 53 | [6](#flutter-flutter-85529-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 358 | [5](#flutter-flutter-110431-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 53 | [5](#flutter-flutter-115926-graph)
-[in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed  [flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) | 52 | [5](#flutter-flutter-85529-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 154 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 114 | 4
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 84 | 4
@@ -195,7 +195,7 @@ Issue | Total reactions | Recent reactions
 [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 38 | [23](#flutter-flutter-153075-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 68 | [18](#flutter-flutter-139427-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 17 | [17](#flutter-flutter-169215-graph)
-One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 16 | [16](#flutter-flutter-168635-graph)
+One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 17 | [17](#flutter-flutter-168635-graph)
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 13 | [13](#flutter-flutter-169746-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 44 | [9](#flutter-flutter-104268-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 60 | [7](#flutter-flutter-145961-graph)
@@ -244,8 +244,8 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 69 | 4
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 23 | 4
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | 3
-[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
+[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 29 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 24 | 3
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 250 | 2
@@ -316,7 +316,7 @@ Support method/function overloads [dart-lang/language#1122](https://github.com/d
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) | 73 | [13](#dart-lang-language-3192-graph)
-Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 13 | [13](#dart-lang-language-4383-graph)
+Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 13 | [13](#dart-lang-language-4437-graph)
 
 ## Graphs
 
@@ -373,7 +373,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 761 total reactions, 227 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 762 total reactions, 228 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -382,7 +382,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
-    line [534, 535, 549, 555, 565, 567, 617, 627, 630, 645, 646, 649, 656, 761]
+    line [534, 535, 549, 555, 565, 567, 617, 627, 630, 645, 646, 649, 656, 762]
   ```
 
   </details>
@@ -609,23 +609,6 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
-<a name="flutter-flutter-171402-graph"></a>
-### Flutter web not rendering the UI on latest Chrome
-  <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 25 total reactions, 25 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 23, 24, 25]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4343-graph"></a>
 ### Case expressions
   <sub>[dart-lang/language#4343](https://github.com/dart-lang/language/issues/4343) &mdash; 25 total reactions, 25 recent reactions</sub><br />
@@ -638,6 +621,23 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
     line [17, 18, 19, 19, 23, 25, 25, 25, 25, 25, 25, 25, 25, 25]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-171402-graph"></a>
+### Flutter web not rendering the UI on latest Chrome
+  <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 25 total reactions, 25 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 23, 24, 25]
   ```
 
   </details>
@@ -679,7 +679,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 23 total reactions, 23 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -688,7 +688,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 22]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 23]
   ```
 
   </details>
@@ -830,6 +830,23 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
+<a name="flutter-flutter-168635-graph"></a>
+### One UI 7 Navigation Buttons Above App
+  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 15, 17]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-53059-graph"></a>
 ### ☂️ Reinforcement: Refactor widgets from design into the core before decoupling
   <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 58 total reactions, 16 recent reactions</sub><br />
@@ -842,23 +859,6 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
     line [42, 42, 42, 42, 42, 42, 50, 50, 51, 51, 51, 51, 51, 58]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168635-graph"></a>
-### One UI 7 Navigation Buttons Above App
-  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 15, 16]
   ```
 
   </details>
@@ -1034,9 +1034,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
-<a name="dart-lang-language-4383-graph"></a>
-### Feature request: `defer` statement
-  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+<a name="dart-lang-language-4437-graph"></a>
+### Feature Request: Support object shorthand syntax in Dart
+  <sub>[dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) &mdash; 13 total reactions, 13 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1045,7 +1045,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 5, 6, 9, 10, 10, 10, 10, 12, 12, 12, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13]
   ```
 
   </details>
@@ -1935,6 +1935,23 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
+<a name="flutter-flutter-85529-graph"></a>
+### [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed 
+  <sub>[flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) &mdash; 53 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [47, 47, 48, 48, 48, 49, 49, 49, 49, 50, 50, 52, 52, 53]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-150525-graph"></a>
 ### Merge the platform and UI threads
   <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 39 total reactions, 6 recent reactions</sub><br />
@@ -2151,23 +2168,6 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
     x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
     line [48, 49, 51, 51, 51, 51, 52, 52, 52, 53, 53, 53, 53, 53]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-85529-graph"></a>
-### [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed 
-  <sub>[flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) &mdash; 52 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 28, May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [47, 47, 48, 48, 48, 49, 49, 49, 49, 50, 50, 52, 52, 52]
   ```
 
   </details>
