@@ -14,7 +14,7 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 74 | [60](#flutter-flutter-165502-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 56 | [56](#flutter-flutter-172561-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 191 | [55](#dart-lang-language-4271-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 42 | [42](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 43 | [43](#flutter-flutter-170820-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1094 | [39](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2255 | [33](#dart-lang-language-314-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
@@ -147,7 +147,7 @@ Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https:
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 42 | [42](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 43 | [43](#flutter-flutter-170820-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 32 | [14](#flutter-flutter-166248-graph)
 [Google3 Bug]: iOS, Images replaced with pink fill when coming out of background [flutter/flutter#166668](https://github.com/flutter/flutter/issues/166668) | 28 | [12](#flutter-flutter-166668-graph)
@@ -159,8 +159,8 @@ Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context w
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 319 | [6](#flutter-flutter-18443-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 39 | [6](#flutter-flutter-150525-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 25 | [5](#flutter-flutter-148026-graph)
+Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 206 | 4
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 189 | 4
-Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | 4
 
 ### Platforms
 
@@ -171,8 +171,8 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 184 | [92](#flutter-flutter-166333-graph)
+Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 54 | [24](#flutter-flutter-163845-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 23 | [23](#flutter-flutter-172434-graph)
-Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 50 | [20](#flutter-flutter-163845-graph)
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 27 | [7](#flutter-flutter-125741-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 151 | [6](#flutter-flutter-28894-graph)
 [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed  [flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) | 53 | [6](#flutter-flutter-85529-graph)
@@ -194,16 +194,16 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 38 | [23](#flutter-flutter-153075-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 68 | [18](#flutter-flutter-139427-graph)
-One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 17 | [17](#flutter-flutter-168635-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 17 | [17](#flutter-flutter-169215-graph)
+One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 17 | [17](#flutter-flutter-168635-graph)
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 13 | [13](#flutter-flutter-169746-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 44 | [8](#flutter-flutter-104268-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 60 | [5](#flutter-flutter-145961-graph)
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 47 | [5](#flutter-flutter-91247-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 69 | 4
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 64 | 4
+Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 92 | 3
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 100 | 2
-Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 91 | 2
 Slight flicker on the screen when loading from app overview on Android [flutter/flutter#34864](https://github.com/flutter/flutter/issues/34864) | 35 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 29 | 2
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 27 | 2
@@ -243,8 +243,8 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 81 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 69 | 4
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 23 | 4
-[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
+[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 29 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 24 | 3
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | 2
@@ -280,10 +280,10 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 194 | [24](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 195 | [25](#dart-lang-sdk-55281-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 74 | [17](#dart-lang-sdk-57036-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 98 | [15](#dart-lang-sdk-53402-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 48 | [12](#dart-lang-sdk-56841-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 49 | [13](#dart-lang-sdk-56841-graph)
 Revive support for interpreting code in Flutter debug builds on iOS [dart-lang/sdk#60202](https://github.com/dart-lang/sdk/issues/60202) | 15 | [10](#dart-lang-sdk-60202-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 207 | [9](#dart-lang-sdk-50565-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 549 | [7](#dart-lang-sdk-28617-graph)
@@ -294,7 +294,7 @@ No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | [5](#dart-lang-sdk-42177-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 15 | [5](#dart-lang-sdk-59988-graph)
-Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Regular hangs of the analyzer in VSCode on Windows [dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) | 5 | [5](#dart-lang-sdk-60702-graph)
 
 ### Dart language
 
@@ -314,8 +314,8 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 357 | [15](#dart-lang-language-1122-graph)
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 548 | [14](#dart-lang-language-83-graph)
+Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 14 | [14](#dart-lang-language-4383-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
-Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 13 | [13](#dart-lang-language-4383-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 13 | [13](#dart-lang-language-4437-graph)
 
 ## Graphs
@@ -458,7 +458,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
-  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 42 total reactions, 42 recent reactions</sub><br />
+  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 43 total reactions, 43 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -467,7 +467,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   xychart-beta
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 42]
+    line [0, 0, 0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43]
   ```
 
   </details>
@@ -575,6 +575,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
+<a name="dart-lang-sdk-55281-graph"></a>
+### Dart Analyzer very slow/stuck
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 195 total reactions, 25 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [172, 175, 178, 180, 183, 185, 185, 187, 189, 190, 191, 192, 195]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-171402-graph"></a>
 ### Flutter web not rendering the UI on latest Chrome
   <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 25 total reactions, 25 recent reactions</sub><br />
@@ -592,9 +609,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="dart-lang-sdk-55281-graph"></a>
-### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 194 total reactions, 24 recent reactions</sub><br />
+<a name="flutter-flutter-163845-graph"></a>
+### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
+  <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 54 total reactions, 24 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -603,7 +620,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   xychart-beta
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions"
-    line [172, 175, 178, 180, 183, 185, 185, 187, 189, 190, 191, 192, 194]
+    line [34, 35, 35, 36, 37, 42, 44, 44, 44, 45, 46, 46, 54]
   ```
 
   </details>
@@ -711,23 +728,6 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="flutter-flutter-163845-graph"></a>
-### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
-  <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 50 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [34, 35, 35, 36, 37, 42, 44, 44, 44, 45, 46, 46, 50]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4426-graph"></a>
 ### Simpler parameters
   <sub>[dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -796,23 +796,6 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="flutter-flutter-168635-graph"></a>
-### One UI 7 Navigation Buttons Above App
-  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 15, 17]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-169215-graph"></a>
 ### Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32)
   <sub>[flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -825,6 +808,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 15, 15, 15, 15, 15, 16, 17, 17, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-168635-graph"></a>
+### One UI 7 Navigation Buttons Above App
+  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 15, 17]
   ```
 
   </details>
@@ -983,6 +983,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
+<a name="dart-lang-language-4383-graph"></a>
+### Feature request: `defer` statement
+  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 5, 6, 9, 10, 10, 10, 10, 12, 12, 12, 14]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4373-graph"></a>
 ### Function mixins
   <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -995,6 +1012,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions" 0 --> 20
     line [0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 49 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    y-axis "Reactions"
+    line [37, 42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 49]
   ```
 
   </details>
@@ -1017,23 +1051,6 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="dart-lang-language-4383-graph"></a>
-### Feature request: `defer` statement
-  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 6, 9, 10, 10, 10, 10, 12, 12, 12, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4437-graph"></a>
 ### Feature Request: Support object shorthand syntax in Dart
   <sub>[dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1046,23 +1063,6 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 48 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [37, 42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 48]
   ```
 
   </details>
@@ -2207,9 +2207,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61060-graph"></a>
-### Make Zones be properly encapsulating (Breaking!)
-  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-60702-graph"></a>
+### Regular hangs of the analyzer in VSCode on Windows
+  <sub>[dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2218,7 +2218,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   xychart-beta
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
+    line [0, 0, 0, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5]
   ```
 
   </details>
