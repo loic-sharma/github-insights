@@ -2,17 +2,16 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-05-05 to 2025-08-03.
+Issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 588 | [588](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 766 | [232](#flutter-flutter-101479-graph)
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 184 | [92](#flutter-flutter-166333-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 769 | [235](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 74 | [60](#flutter-flutter-165502-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 56 | [56](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 57 | [57](#flutter-flutter-172561-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 191 | [55](#dart-lang-language-4271-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 43 | [43](#flutter-flutter-170820-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1094 | [39](#dart-lang-language-357-graph)
@@ -21,6 +20,7 @@ Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch brow
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1176 | [29](#dart-lang-language-723-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 204 | [28](#flutter-flutter-142845-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 195 | [25](#dart-lang-sdk-55281-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Can't capture the output of a `BackdropFilterLayer` without painting it to the s
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-framework` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -40,26 +40,26 @@ ListView: Poor performance with many variable-extent items + jumpTo (scroll bar,
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 53 | [8](#flutter-flutter-81005-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 694 | [7](#flutter-flutter-30701-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 260 | [7](#flutter-flutter-54200-graph)
+[Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 117 | [7](#flutter-flutter-105672-graph)
+[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 63 | [7](#flutter-flutter-140586-graph)
 NestedScrollView in DraggableScrollableSheet not working [flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) | 47 | [7](#flutter-flutter-64157-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 241 | [6](#flutter-flutter-138614-graph)
-[Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 116 | [6](#flutter-flutter-105672-graph)
 Make tests compile and run faster [flutter/flutter#69429](https://github.com/flutter/flutter/issues/69429) | 113 | [6](#flutter-flutter-69429-graph)
 Opt a subtree out of hitTestSelf culling [flutter/flutter#75747](https://github.com/flutter/flutter/issues/75747) | 107 | [6](#flutter-flutter-75747-graph)
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 62 | [6](#flutter-flutter-140586-graph)
 the wrap widget add a property “maxline” to limit the lines of the widget [flutter/flutter#65331](https://github.com/flutter/flutter/issues/65331) | 57 | [6](#flutter-flutter-65331-graph)
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-design` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 588 | [588](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 766 | [232](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 769 | [235](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 74 | [60](#flutter-flutter-165502-graph)
-☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 65 | [21](#flutter-flutter-97496-graph)
-☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 58 | [16](#flutter-flutter-53059-graph)
+☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 66 | [22](#flutter-flutter-97496-graph)
+☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 59 | [17](#flutter-flutter-53059-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 135 | [15](#flutter-flutter-102560-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [14](#flutter-flutter-161687-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 304 | [6](#flutter-flutter-21594-graph)
@@ -72,12 +72,12 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`f: cupertino` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 766 | [232](#flutter-flutter-101479-graph)
-☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 58 | [16](#flutter-flutter-53059-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 769 | [235](#flutter-flutter-101479-graph)
+☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 59 | [17](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [14](#flutter-flutter-161687-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 30 | 3
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-go_router` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-tool` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -129,9 +129,9 @@ Bundling assets only on a specific platform (and remove assets on another platfo
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 163 | [10](#flutter-flutter-46979-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 121 | [7](#flutter-flutter-107157-graph)
 ☂️ Build hooks & Code assets [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 83 | [7](#flutter-flutter-129757-graph)
+Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 84 | [6](#flutter-flutter-77104-graph)
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 24 | [6](#flutter-flutter-102387-graph)
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 22 | [6](#flutter-flutter-118635-graph)
-Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 83 | [5](#flutter-flutter-77104-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 186 | 3
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 91 | 2
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 58 | 2
@@ -143,7 +143,7 @@ Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https:
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-engine` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
@@ -166,11 +166,10 @@ Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-ios` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings. [flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) | 184 | [92](#flutter-flutter-166333-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 54 | [24](#flutter-flutter-163845-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 23 | [23](#flutter-flutter-172434-graph)
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 27 | [7](#flutter-flutter-125741-graph)
@@ -183,19 +182,20 @@ Blur filter isn't clipped when using border radius [flutter/flutter#115926](http
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 114 | 4
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 84 | 4
 Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://github.com/flutter/flutter/issues/133465) | 85 | 3
-Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 74 | 3
 Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](https://github.com/flutter/flutter/issues/103163) | 74 | 3
+Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 74 | 3
+[video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 61 | 3
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-android` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 38 | [23](#flutter-flutter-153075-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 68 | [18](#flutter-flutter-139427-graph)
+One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 18 | [18](#flutter-flutter-168635-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 17 | [17](#flutter-flutter-169215-graph)
-One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 17 | [17](#flutter-flutter-168635-graph)
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 13 | [13](#flutter-flutter-169746-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 44 | [8](#flutter-flutter-104268-graph)
 [camera_android_camerax] Cannot set imageFormatGroup to ImageFormatGroup.nv21 [flutter/flutter#145961](https://github.com/flutter/flutter/issues/145961) | 60 | [5](#flutter-flutter-145961-graph)
@@ -210,11 +210,11 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-web` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 56 | [56](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 57 | [57](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 25 | [25](#flutter-flutter-171402-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 877 | [11](#flutter-flutter-46789-graph)
@@ -232,7 +232,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -243,8 +243,8 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 81 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 69 | 4
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 23 | 4
-Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
+Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 29 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 24 | 3
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | 2
@@ -254,11 +254,11 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`team-ecosystem` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 56 | [56](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 57 | [57](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 25 | [25](#flutter-flutter-171402-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 877 | [11](#flutter-flutter-46789-graph)
@@ -276,7 +276,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`dart-lang/sdk` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Regular hangs of the analyzer in VSCode on Windows [dart-lang/sdk#60702](https:/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-05-05 to 2025-08-03.
+`dart-lang/language` issues that received the most reactions from 2025-05-05 to 2025-08-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -314,8 +314,8 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 357 | [15](#dart-lang-language-1122-graph)
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 548 | [14](#dart-lang-language-83-graph)
-Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 14 | [14](#dart-lang-language-4383-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
+Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 14 | [14](#dart-lang-language-4383-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 13 | [13](#dart-lang-language-4437-graph)
 
 ## Graphs
@@ -329,9 +329,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 250, 344, 404, 441, 485, 507, 518, 523, 533, 546, 558, 588]
+    line [0, 250, 344, 404, 441, 485, 507, 518, 523, 533, 546, 558, 588, 588]
   ```
 
   </details>
@@ -346,9 +346,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 355, 409, 426, 446, 468, 476, 491, 504]
+    line [0, 0, 0, 0, 0, 355, 409, 426, 446, 468, 476, 491, 504, 504]
   ```
 
   </details>
@@ -363,9 +363,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [428, 436, 438, 439, 438, 438, 438, 438, 438, 438, 438, 438, 438]
+    line [428, 436, 438, 439, 438, 438, 438, 438, 438, 438, 438, 438, 438, 438]
   ```
 
   </details>
@@ -373,33 +373,16 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 766 total reactions, 232 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 769 total reactions, 235 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [535, 549, 555, 565, 567, 617, 627, 630, 645, 646, 649, 656, 766]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-166333-graph"></a>
-### [Mac-15][iOS Simulator] Could not register as server for FlutterDartVMServicePublisher, permission denied. Check your 'Local Network' permissions for this app in the Privacy section of the system Settings.
-  <sub>[flutter/flutter#166333](https://github.com/flutter/flutter/issues/166333) &mdash; 184 total reactions, 92 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [97, 111, 127, 137, 143, 152, 160, 161, 169, 176, 182, 184, 184]
+    line [535, 549, 555, 565, 567, 617, 627, 630, 645, 646, 649, 656, 766, 769]
   ```
 
   </details>
@@ -414,9 +397,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [14, 19, 24, 28, 34, 58, 63, 66, 71, 71, 72, 74, 74]
+    line [14, 19, 24, 28, 34, 58, 63, 66, 71, 71, 72, 74, 74, 74]
   ```
 
   </details>
@@ -424,16 +407,16 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
-  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 56 total reactions, 56 recent reactions</sub><br />
+  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 57 total reactions, 57 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 57]
   ```
 
   </details>
@@ -448,9 +431,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [137, 153, 164, 183, 183, 184, 184, 188, 188, 189, 189, 189, 191]
+    line [137, 153, 164, 183, 183, 184, 184, 188, 188, 189, 189, 189, 191, 191]
   ```
 
   </details>
@@ -465,9 +448,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43]
+    line [0, 0, 0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43, 43]
   ```
 
   </details>
@@ -482,9 +465,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [1058, 1059, 1074, 1076, 1078, 1080, 1081, 1086, 1086, 1087, 1090, 1090, 1094]
+    line [1058, 1059, 1074, 1076, 1078, 1080, 1081, 1086, 1086, 1087, 1090, 1090, 1094, 1094]
   ```
 
   </details>
@@ -499,9 +482,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [2224, 2230, 2231, 2233, 2238, 2239, 2241, 2243, 2246, 2250, 2253, 2254, 2255]
+    line [2224, 2230, 2231, 2233, 2238, 2239, 2241, 2243, 2246, 2250, 2253, 2254, 2255, 2255]
   ```
 
   </details>
@@ -516,9 +499,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 28, 30, 32]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 28, 30, 32, 32]
   ```
 
   </details>
@@ -533,9 +516,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1170, 1170, 1172, 1175, 1176]
+    line [1152, 1155, 1157, 1161, 1163, 1163, 1164, 1166, 1170, 1170, 1172, 1175, 1176, 1176]
   ```
 
   </details>
@@ -550,9 +533,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [180, 181, 191, 192, 197, 198, 198, 198, 198, 200, 201, 202, 204]
+    line [180, 181, 191, 192, 197, 198, 198, 198, 198, 200, 201, 202, 204, 204]
   ```
 
   </details>
@@ -567,9 +550,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 22, 24, 27, 27, 27, 28, 28]
+    line [0, 0, 0, 0, 0, 0, 22, 24, 27, 27, 27, 28, 28, 28]
   ```
 
   </details>
@@ -584,9 +567,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [172, 175, 178, 180, 183, 185, 185, 187, 189, 190, 191, 192, 195]
+    line [172, 175, 178, 180, 183, 185, 185, 187, 189, 190, 191, 192, 195, 195]
   ```
 
   </details>
@@ -601,9 +584,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 23, 24, 25]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 23, 24, 25, 25]
   ```
 
   </details>
@@ -618,9 +601,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [34, 35, 35, 36, 37, 42, 44, 44, 44, 45, 46, 46, 54]
+    line [34, 35, 35, 36, 37, 42, 44, 44, 44, 45, 46, 46, 54, 54]
   ```
 
   </details>
@@ -635,9 +618,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 22, 23, 24, 24, 24, 24, 24, 24]
+    line [0, 0, 0, 0, 0, 22, 23, 24, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -652,9 +635,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [16, 16, 17, 22, 27, 28, 29, 30, 32, 34, 34, 36, 38]
+    line [16, 16, 17, 22, 27, 28, 29, 30, 32, 34, 34, 36, 38, 38]
   ```
 
   </details>
@@ -669,9 +652,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 23]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 23, 23]
   ```
 
   </details>
@@ -679,16 +662,16 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
 <a name="flutter-flutter-97496-graph"></a>
 ### ☂️ Reinforcement: Add more basic components to the core framework
-  <sub>[flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) &mdash; 65 total reactions, 21 recent reactions</sub><br />
+  <sub>[flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) &mdash; 66 total reactions, 22 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [44, 47, 47, 47, 47, 55, 59, 61, 61, 61, 61, 62, 65]
+    line [44, 47, 47, 47, 47, 55, 59, 61, 61, 61, 61, 62, 65, 66]
   ```
 
   </details>
@@ -703,9 +686,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20, 21]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20, 21, 21]
   ```
 
   </details>
@@ -720,9 +703,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [81, 81, 95, 96, 96, 98, 98, 98, 98, 98, 101, 101, 101]
+    line [81, 81, 95, 96, 96, 98, 98, 98, 98, 98, 101, 101, 101, 101]
   ```
 
   </details>
@@ -737,9 +720,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 12, 14, 14, 14, 16, 20]
+    line [0, 0, 0, 0, 0, 0, 0, 12, 14, 14, 14, 16, 20, 20]
   ```
 
   </details>
@@ -754,9 +737,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [240, 241, 243, 245, 248, 248, 251, 252, 255, 256, 256, 256, 258]
+    line [240, 241, 243, 245, 248, 248, 251, 252, 255, 256, 256, 256, 258, 258]
   ```
 
   </details>
@@ -771,9 +754,26 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [51, 53, 55, 58, 58, 60, 63, 65, 65, 66, 67, 67, 68]
+    line [51, 53, 55, 58, 58, 60, 63, 65, 65, 66, 67, 67, 68, 68]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-168635-graph"></a>
+### One UI 7 Navigation Buttons Above App
+  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 15, 17, 18]
   ```
 
   </details>
@@ -788,9 +788,26 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [57, 57, 63, 64, 70, 72, 72, 72, 72, 72, 74, 74, 74]
+    line [57, 57, 63, 64, 70, 72, 72, 72, 72, 72, 74, 74, 74, 74]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-53059-graph"></a>
+### ☂️ Reinforcement: Refactor widgets from design into the core before decoupling
+  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 59 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
+    y-axis "Reactions"
+    line [42, 42, 42, 42, 42, 50, 50, 51, 51, 51, 51, 51, 58, 59]
   ```
 
   </details>
@@ -805,43 +822,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 15, 15, 15, 15, 15, 16, 17, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168635-graph"></a>
-### One UI 7 Navigation Buttons Above App
-  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 15, 17]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-53059-graph"></a>
-### ☂️ Reinforcement: Refactor widgets from design into the core before decoupling
-  <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 58 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 50, 50, 51, 51, 51, 51, 51, 58]
+    line [0, 0, 0, 0, 15, 15, 15, 15, 15, 16, 17, 17, 17, 17]
   ```
 
   </details>
@@ -856,9 +839,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [344, 345, 345, 345, 349, 350, 350, 354, 355, 355, 355, 355, 357]
+    line [344, 345, 345, 345, 349, 350, 350, 354, 355, 355, 355, 355, 357, 357]
   ```
 
   </details>
@@ -873,9 +856,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [122, 124, 125, 125, 126, 128, 128, 128, 128, 129, 131, 134, 135]
+    line [122, 124, 125, 125, 126, 128, 128, 128, 128, 129, 131, 134, 135, 135]
   ```
 
   </details>
@@ -890,9 +873,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [92, 92, 92, 92, 96, 96, 96, 96, 96, 98, 98, 98, 98]
+    line [92, 92, 92, 92, 96, 96, 96, 96, 96, 98, 98, 98, 98, 98]
   ```
 
   </details>
@@ -907,9 +890,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 15]
+    line [0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 15, 15]
   ```
 
   </details>
@@ -924,9 +907,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [534, 535, 536, 536, 536, 536, 538, 538, 538, 538, 543, 544, 548]
+    line [534, 535, 536, 536, 536, 536, 538, 538, 538, 538, 543, 544, 548, 548]
   ```
 
   </details>
@@ -941,9 +924,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [196, 198, 199, 199, 200, 201, 203, 205, 205, 205, 207, 207, 209]
+    line [196, 198, 199, 199, 200, 201, 203, 205, 205, 205, 207, 207, 209, 209]
   ```
 
   </details>
@@ -958,9 +941,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 18, 18, 18, 21, 22, 25, 30, 32, 32, 32]
+    line [0, 0, 0, 18, 18, 18, 21, 22, 25, 30, 32, 32, 32, 32]
   ```
 
   </details>
@@ -975,26 +958,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [15, 15, 16, 20, 20, 25, 26, 27, 28, 28, 29, 29, 29]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4383-graph"></a>
-### Feature request: `defer` statement
-  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 6, 9, 10, 10, 10, 10, 12, 12, 12, 14]
+    line [15, 15, 16, 20, 20, 25, 26, 27, 28, 28, 29, 29, 29, 29]
   ```
 
   </details>
@@ -1009,9 +975,26 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4383-graph"></a>
+### Feature request: `defer` statement
+  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 5, 6, 9, 10, 10, 10, 10, 12, 12, 12, 14, 14]
   ```
 
   </details>
@@ -1026,9 +1009,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [37, 42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 49]
+    line [37, 42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 49, 49]
   ```
 
   </details>
@@ -1043,9 +1026,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13]
   ```
 
   </details>
@@ -1060,9 +1043,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13, 13]
   ```
 
   </details>
@@ -1077,9 +1060,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 18, 21, 23, 23, 28, 28]
+    line [0, 0, 0, 0, 0, 0, 0, 18, 21, 23, 23, 28, 28, 28]
   ```
 
   </details>
@@ -1094,9 +1077,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [867, 867, 868, 868, 868, 870, 870, 870, 870, 871, 877, 877, 877]
+    line [867, 867, 868, 868, 868, 870, 870, 870, 870, 871, 877, 877, 877, 877]
   ```
 
   </details>
@@ -1111,9 +1094,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [212, 215, 218, 219, 219, 219, 220, 220, 220, 221, 222, 223, 223]
+    line [212, 215, 218, 219, 219, 219, 220, 220, 220, 221, 222, 223, 223, 223]
   ```
 
   </details>
@@ -1128,9 +1111,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [83, 86, 88, 89, 90, 92, 92, 93, 93, 93, 93, 93, 94]
+    line [83, 86, 88, 89, 90, 92, 92, 93, 93, 93, 93, 93, 94, 94]
   ```
 
   </details>
@@ -1145,9 +1128,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [198, 198, 203, 204, 205, 206, 207, 207, 207, 207, 207, 207, 208]
+    line [198, 198, 203, 204, 205, 206, 207, 207, 207, 207, 207, 207, 208, 208]
   ```
 
   </details>
@@ -1162,9 +1145,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [155, 159, 162, 162, 162, 162, 162, 162, 162, 163, 164, 165, 165]
+    line [155, 159, 162, 162, 162, 162, 162, 162, 162, 163, 164, 165, 165, 165]
   ```
 
   </details>
@@ -1179,9 +1162,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [153, 154, 154, 155, 157, 158, 158, 160, 160, 160, 160, 163, 163]
+    line [153, 154, 154, 155, 157, 158, 158, 160, 160, 160, 160, 163, 163, 163]
   ```
 
   </details>
@@ -1196,9 +1179,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [42, 45, 46, 47, 47, 47, 47, 50, 51, 51, 51, 52, 52]
+    line [42, 45, 46, 47, 47, 47, 47, 50, 51, 51, 51, 52, 52, 52]
   ```
 
   </details>
@@ -1213,9 +1196,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [33, 35, 35, 35, 36, 38, 41, 41, 42, 43, 43, 43, 43]
+    line [33, 35, 35, 35, 36, 38, 41, 41, 42, 43, 43, 43, 43, 43]
   ```
 
   </details>
@@ -1230,9 +1213,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [30, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 36, 38]
+    line [30, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 36, 38, 38]
   ```
 
   </details>
@@ -1247,9 +1230,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [5, 5, 5, 5, 5, 11, 12, 12, 12, 12, 15, 15, 15]
+    line [5, 5, 5, 5, 5, 11, 12, 12, 12, 12, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1264,9 +1247,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [278, 280, 285, 285, 285, 285, 287, 287, 287, 287, 287, 287, 287]
+    line [278, 280, 285, 285, 285, 285, 287, 287, 287, 287, 287, 287, 287, 287]
   ```
 
   </details>
@@ -1281,9 +1264,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [41, 41, 49, 49, 50, 50, 50, 50, 50, 50, 50, 50, 50]
+    line [41, 41, 49, 49, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50]
   ```
 
   </details>
@@ -1298,9 +1281,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [210, 210, 210, 210, 210, 211, 211, 211, 212, 214, 216, 217, 218]
+    line [210, 210, 210, 210, 210, 211, 211, 211, 212, 214, 216, 217, 218, 218]
   ```
 
   </details>
@@ -1315,9 +1298,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [206, 208, 208, 208, 208, 210, 210, 210, 210, 210, 211, 212, 214]
+    line [206, 208, 208, 208, 208, 210, 210, 210, 210, 210, 211, 212, 214, 214]
   ```
 
   </details>
@@ -1332,9 +1315,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [191, 191, 192, 192, 197, 197, 197, 197, 198, 198, 198, 198, 199]
+    line [191, 191, 192, 192, 197, 197, 197, 197, 198, 198, 198, 198, 199, 199]
   ```
 
   </details>
@@ -1349,9 +1332,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [162, 162, 163, 163, 163, 163, 164, 164, 165, 165, 166, 166, 170]
+    line [162, 162, 163, 163, 163, 163, 164, 164, 165, 165, 166, 166, 170, 170]
   ```
 
   </details>
@@ -1366,9 +1349,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [52, 52, 52, 54, 60, 60, 60, 60, 60, 60, 60, 60, 60]
+    line [52, 52, 52, 54, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60]
   ```
 
   </details>
@@ -1383,9 +1366,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [49, 49, 50, 52, 53, 54, 54, 54, 54, 56, 57, 57, 57]
+    line [49, 49, 50, 52, 53, 54, 54, 54, 54, 56, 57, 57, 57, 57]
   ```
 
   </details>
@@ -1400,9 +1383,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [44, 44, 46, 46, 49, 49, 49, 49, 51, 51, 51, 53, 53]
+    line [44, 44, 46, 46, 49, 49, 49, 49, 51, 51, 51, 53, 53, 53]
   ```
 
   </details>
@@ -1417,9 +1400,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [38, 38, 38, 39, 39, 40, 41, 41, 41, 41, 41, 43, 44]
+    line [38, 38, 38, 39, 39, 40, 41, 41, 41, 41, 41, 43, 44, 44]
   ```
 
   </details>
@@ -1434,9 +1417,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [687, 687, 693, 693, 693, 693, 693, 694, 694, 694, 694, 694, 694]
+    line [687, 687, 693, 693, 693, 693, 693, 694, 694, 694, 694, 694, 694, 694]
   ```
 
   </details>
@@ -1451,9 +1434,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [544, 546, 547, 548, 548, 548, 548, 548, 549, 549, 549, 549, 549]
+    line [544, 546, 547, 548, 548, 548, 548, 548, 549, 549, 549, 549, 549, 549]
   ```
 
   </details>
@@ -1468,9 +1451,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [330, 331, 331, 333, 334, 334, 334, 334, 335, 335, 337, 337, 337]
+    line [330, 331, 331, 333, 334, 334, 334, 334, 335, 335, 337, 337, 337, 337]
   ```
 
   </details>
@@ -1485,9 +1468,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [254, 253, 253, 253, 256, 258, 258, 260, 260, 260, 260, 260, 260]
+    line [254, 253, 253, 253, 256, 258, 258, 260, 260, 260, 260, 260, 260, 260]
   ```
 
   </details>
@@ -1502,9 +1485,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [196, 196, 197, 197, 197, 200, 200, 201, 202, 202, 203, 203, 203]
+    line [196, 196, 197, 197, 197, 200, 200, 201, 202, 202, 203, 203, 203, 203]
   ```
 
   </details>
@@ -1519,9 +1502,26 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [115, 115, 115, 115, 116, 117, 118, 119, 120, 120, 120, 121, 121]
+    line [115, 115, 115, 115, 116, 117, 118, 119, 120, 120, 120, 121, 121, 121]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-105672-graph"></a>
+### [Proposal] Access l18n Translations with Dynamic Keys
+  <sub>[flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) &mdash; 117 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
+    y-axis "Reactions"
+    line [110, 110, 110, 111, 111, 111, 112, 114, 115, 115, 115, 116, 116, 117]
   ```
 
   </details>
@@ -1536,9 +1536,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [78, 78, 78, 78, 84, 85, 85, 85, 85, 85, 85, 85, 85]
+    line [78, 78, 78, 78, 84, 85, 85, 85, 85, 85, 85, 85, 85, 85]
   ```
 
   </details>
@@ -1553,9 +1553,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [78, 78, 80, 80, 80, 80, 81, 81, 81, 81, 83, 83, 83]
+    line [78, 78, 80, 80, 80, 80, 81, 81, 81, 81, 83, 83, 83, 83]
   ```
 
   </details>
@@ -1570,9 +1570,26 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [58, 58, 60, 61, 61, 61, 61, 63, 64, 62, 65, 65, 65]
+    line [58, 58, 60, 61, 61, 61, 61, 63, 64, 62, 65, 65, 65, 65]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-140586-graph"></a>
+### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
+  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 63 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
+    y-axis "Reactions"
+    line [56, 56, 56, 58, 60, 60, 60, 60, 61, 61, 61, 62, 62, 63]
   ```
 
   </details>
@@ -1587,9 +1604,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 45, 45, 45, 46, 46, 46, 48, 49]
+    line [42, 42, 42, 42, 42, 45, 45, 45, 46, 46, 46, 48, 49, 49]
   ```
 
   </details>
@@ -1604,9 +1621,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [40, 40, 40, 43, 43, 43, 43, 43, 45, 45, 45, 45, 47]
+    line [40, 40, 40, 43, 43, 43, 43, 43, 45, 45, 45, 45, 47, 47]
   ```
 
   </details>
@@ -1621,9 +1638,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [32, 33, 35, 36, 36, 36, 37, 37, 37, 37, 37, 37, 37]
+    line [32, 33, 35, 36, 36, 36, 37, 37, 37, 37, 37, 37, 37, 37]
   ```
 
   </details>
@@ -1638,9 +1655,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [21, 21, 22, 24, 24, 24, 24, 25, 25, 25, 25, 27, 27]
+    line [21, 21, 22, 24, 24, 24, 24, 25, 25, 25, 25, 27, 27, 27]
   ```
 
   </details>
@@ -1655,9 +1672,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 15, 15, 16, 17, 19, 20, 21, 21, 21]
+    line [0, 0, 0, 0, 15, 15, 16, 17, 19, 20, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1672,9 +1689,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 7, 7, 7, 7]
+    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -1689,9 +1706,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [313, 315, 316, 317, 318, 318, 319, 319, 319, 319, 319, 319, 319]
+    line [313, 315, 316, 317, 318, 318, 319, 319, 319, 319, 319, 319, 319, 319]
   ```
 
   </details>
@@ -1706,9 +1723,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [298, 299, 299, 300, 300, 300, 301, 301, 301, 302, 302, 302, 304]
+    line [298, 299, 299, 300, 300, 300, 301, 301, 301, 302, 302, 302, 304, 304]
   ```
 
   </details>
@@ -1723,9 +1740,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [267, 267, 267, 267, 267, 267, 267, 267, 269, 269, 269, 270, 271]
+    line [267, 267, 267, 267, 267, 267, 267, 267, 269, 269, 269, 270, 271, 271]
   ```
 
   </details>
@@ -1740,9 +1757,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [235, 236, 236, 238, 238, 239, 239, 240, 240, 240, 240, 241, 241]
+    line [235, 236, 236, 238, 238, 239, 239, 240, 240, 240, 240, 241, 241, 241]
   ```
 
   </details>
@@ -1757,26 +1774,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [145, 145, 145, 148, 147, 147, 148, 148, 149, 150, 150, 150, 151]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-105672-graph"></a>
-### [Proposal] Access l18n Translations with Dynamic Keys
-  <sub>[flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) &mdash; 116 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [110, 110, 110, 111, 111, 111, 112, 114, 115, 115, 115, 116, 116]
+    line [145, 145, 145, 148, 147, 147, 148, 148, 149, 150, 150, 150, 151, 151]
   ```
 
   </details>
@@ -1791,9 +1791,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [107, 110, 110, 110, 110, 111, 111, 111, 111, 111, 113, 113, 113]
+    line [107, 110, 110, 110, 110, 111, 111, 111, 111, 111, 113, 113, 113, 113]
   ```
 
   </details>
@@ -1808,9 +1808,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [101, 101, 101, 104, 105, 105, 105, 106, 106, 106, 106, 107, 107]
+    line [101, 101, 101, 104, 105, 105, 105, 106, 106, 106, 106, 107, 107, 107]
   ```
 
   </details>
@@ -1825,26 +1825,26 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [92, 92, 92, 93, 93, 94, 94, 97, 96, 98, 98, 98, 98]
+    line [92, 92, 92, 93, 93, 94, 94, 97, 96, 98, 98, 98, 98, 98]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-140586-graph"></a>
-### [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true.
-  <sub>[flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) &mdash; 62 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-77104-graph"></a>
+### Enable custom "flutter create" templates
+  <sub>[flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) &mdash; 84 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [56, 56, 56, 58, 60, 60, 60, 60, 61, 61, 61, 62, 62]
+    line [79, 79, 79, 79, 79, 79, 79, 80, 81, 81, 81, 82, 83, 84]
   ```
 
   </details>
@@ -1859,9 +1859,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [51, 52, 53, 53, 53, 54, 54, 55, 56, 56, 56, 57, 57]
+    line [51, 52, 53, 53, 53, 54, 54, 55, 56, 56, 56, 57, 57, 57]
   ```
 
   </details>
@@ -1876,9 +1876,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [47, 48, 48, 48, 49, 49, 49, 49, 50, 50, 52, 52, 53]
+    line [47, 48, 48, 48, 49, 49, 49, 49, 50, 50, 52, 52, 53, 53]
   ```
 
   </details>
@@ -1893,9 +1893,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [33, 33, 34, 35, 37, 37, 37, 37, 38, 39, 39, 39, 39]
+    line [33, 33, 34, 35, 37, 37, 37, 37, 38, 39, 39, 39, 39, 39]
   ```
 
   </details>
@@ -1910,9 +1910,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [30, 30, 30, 30, 30, 30, 30, 30, 30, 36, 36, 36, 36]
+    line [30, 30, 30, 30, 30, 30, 30, 30, 30, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -1927,9 +1927,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [18, 18, 18, 18, 19, 19, 19, 19, 20, 21, 24, 24, 24]
+    line [18, 18, 18, 18, 19, 19, 19, 19, 20, 21, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1944,9 +1944,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [17, 17, 17, 19, 19, 19, 20, 20, 20, 22, 23, 23, 23]
+    line [17, 17, 17, 19, 19, 19, 20, 20, 20, 22, 23, 23, 23, 23]
   ```
 
   </details>
@@ -1961,9 +1961,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [16, 16, 17, 17, 17, 18, 18, 19, 19, 21, 21, 21, 22]
+    line [16, 16, 17, 17, 17, 18, 18, 19, 19, 21, 21, 21, 22, 22]
   ```
 
   </details>
@@ -1978,9 +1978,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 6, 6, 6]
   ```
 
   </details>
@@ -1995,9 +1995,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [449, 449, 449, 451, 452, 452, 452, 452, 453, 453, 453, 453, 453]
+    line [449, 449, 449, 451, 452, 452, 452, 452, 453, 453, 453, 453, 453, 453]
   ```
 
   </details>
@@ -2012,9 +2012,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [353, 353, 353, 354, 355, 355, 356, 356, 356, 356, 356, 357, 358]
+    line [353, 353, 353, 354, 355, 355, 356, 356, 356, 356, 356, 357, 358, 358]
   ```
 
   </details>
@@ -2029,9 +2029,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [284, 285, 285, 285, 285, 285, 285, 285, 289, 289, 289, 289, 289]
+    line [284, 285, 285, 285, 285, 285, 285, 285, 289, 289, 289, 289, 289, 289]
   ```
 
   </details>
@@ -2046,26 +2046,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [86, 87, 87, 87, 87, 87, 88, 88, 88, 90, 90, 90, 90]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-77104-graph"></a>
-### Enable custom "flutter create" templates
-  <sub>[flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) &mdash; 83 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
-    y-axis "Reactions"
-    line [79, 79, 79, 79, 79, 79, 79, 80, 81, 81, 81, 82, 83]
+    line [86, 87, 87, 87, 87, 87, 88, 88, 88, 90, 90, 90, 90, 90]
   ```
 
   </details>
@@ -2080,9 +2063,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [57, 57, 57, 57, 59, 59, 59, 59, 60, 60, 60, 60, 60]
+    line [57, 57, 57, 57, 59, 59, 59, 59, 60, 60, 60, 60, 60, 60]
   ```
 
   </details>
@@ -2097,9 +2080,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [54, 54, 54, 54, 56, 57, 57, 59, 59, 59, 59, 59, 59]
+    line [54, 54, 54, 54, 56, 57, 57, 59, 59, 59, 59, 59, 59, 59]
   ```
 
   </details>
@@ -2114,9 +2097,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [49, 51, 51, 51, 51, 52, 52, 52, 53, 53, 53, 53, 53]
+    line [49, 51, 51, 51, 51, 52, 52, 52, 53, 53, 53, 53, 53, 53]
   ```
 
   </details>
@@ -2131,9 +2114,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [42, 42, 44, 44, 44, 44, 44, 45, 45, 46, 46, 46, 47]
+    line [42, 42, 44, 44, 44, 44, 44, 45, 45, 46, 46, 46, 47, 47]
   ```
 
   </details>
@@ -2148,9 +2131,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [21, 21, 21, 21, 21, 21, 21, 21, 21, 23, 25, 25, 25]
+    line [21, 21, 21, 21, 21, 21, 21, 21, 21, 23, 25, 25, 25, 25]
   ```
 
   </details>
@@ -2165,9 +2148,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 20, 20, 22, 22, 22, 23, 23, 23, 23]
+    line [19, 19, 19, 19, 20, 20, 22, 22, 22, 23, 23, 23, 23, 23]
   ```
 
   </details>
@@ -2182,9 +2165,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 18, 18]
+    line [14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 18, 18, 18]
   ```
 
   </details>
@@ -2199,9 +2182,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [10, 10, 10, 10, 12, 12, 12, 12, 12, 12, 15, 15, 15]
+    line [10, 10, 10, 10, 12, 12, 12, 12, 12, 12, 15, 15, 15, 15]
   ```
 
   </details>
@@ -2216,9 +2199,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28]
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5]
+    line [0, 0, 0, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5]
   ```
 
   </details>
