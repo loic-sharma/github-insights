@@ -157,10 +157,10 @@ TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#1468
 Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 21 | [7](#flutter-flutter-162147-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 319 | [6](#flutter-flutter-18443-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 39 | [6](#flutter-flutter-150525-graph)
+Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 190 | [5](#flutter-flutter-14288-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 25 | [5](#flutter-flutter-148026-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2026 | 4
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 206 | 4
-Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 189 | 4
 
 ### Platforms
 
@@ -184,7 +184,7 @@ Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://gi
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 84 | 4
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 62 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 21 | 4
-Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](https://github.com/flutter/flutter/issues/103163) | 74 | 3
+Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 74 | 3
 
 #### Android
 
@@ -243,8 +243,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 221 | 4
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 81 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 69 | 4
-[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
+[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 29 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 24 | 3
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | 2
@@ -2066,6 +2066,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
     line [353, 353, 353, 354, 355, 355, 356, 356, 356, 356, 356, 357, 358, 358]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-14288-graph"></a>
+### Antialiasing behaviour when same-colour 
+  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 190 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
+    y-axis "Reactions"
+    line [185, 185, 185, 185, 185, 185, 185, 187, 187, 188, 188, 189, 189, 190]
   ```
 
   </details>
