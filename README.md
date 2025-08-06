@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-05-05 to 2025-08-05.
+Issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-framework` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ the wrap widget add a property “maxline” to limit the lines of the widget [f
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-design` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`f: cupertino` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-go_router` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-tool` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https:
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-engine` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
@@ -166,7 +166,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-ios` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -184,11 +184,11 @@ Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 62 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 21 | 4
 Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://github.com/flutter/flutter/issues/133465) | 85 | 3
-Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](https://github.com/flutter/flutter/issues/103163) | 74 | 3
+Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 74 | 3
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-android` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-web` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -243,8 +243,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 221 | 4
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 81 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 69 | 4
-[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
+[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 29 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 24 | 3
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | 2
@@ -254,7 +254,7 @@ Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`team-ecosystem` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`dart-lang/sdk` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -294,11 +294,11 @@ No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | [5](#dart-lang-sdk-42177-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 15 | [5](#dart-lang-sdk-59988-graph)
-Regular hangs of the analyzer in VSCode on Windows [dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) | 5 | [5](#dart-lang-sdk-60702-graph)
+Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-05-05 to 2025-08-05.
+`dart-lang/language` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1017,23 +1017,6 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="flutter-flutter-169746-graph"></a>
-### systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1
-  <sub>[flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4437-graph"></a>
 ### Feature Request: Support object shorthand syntax in Dart
   <sub>[dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1046,6 +1029,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-169746-graph"></a>
+### systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1
+  <sub>[flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13]
   ```
 
   </details>
@@ -2207,9 +2207,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60702-graph"></a>
-### Regular hangs of the analyzer in VSCode on Windows
-  <sub>[dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-61060-graph"></a>
+### Make Zones be properly encapsulating (Breaking!)
+  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2218,7 +2218,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   xychart-beta
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
   ```
 
   </details>
