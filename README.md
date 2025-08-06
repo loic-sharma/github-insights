@@ -7,10 +7,10 @@ Issues that received the most reactions from 2025-05-05 to 2025-08-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 588 | [588](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 505 | [505](#flutter-flutter-170310-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 438 | [382](#flutter-flutter-66618-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 778 | [244](#flutter-flutter-101479-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 61 | [61](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 64 | [64](#flutter-flutter-172561-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 74 | [60](#flutter-flutter-165502-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 191 | [55](#dart-lang-language-4271-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 44 | [44](#flutter-flutter-170820-graph)
@@ -55,7 +55,7 @@ the wrap widget add a property “maxline” to limit the lines of the widget [f
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 588 | [588](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 505 | [505](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 778 | [244](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 74 | [60](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 66 | [22](#flutter-flutter-97496-graph)
@@ -75,7 +75,7 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 `f: cupertino` issues that received the most reactions from 2025-05-05 to 2025-08-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 504 | [504](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 505 | [505](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 778 | [244](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 59 | [17](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [14](#flutter-flutter-161687-graph)
@@ -158,9 +158,9 @@ Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context w
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 319 | [6](#flutter-flutter-18443-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 39 | [6](#flutter-flutter-150525-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 25 | [5](#flutter-flutter-148026-graph)
+Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2026 | 4
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 206 | 4
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 189 | 4
-Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 179 | 4
 
 ### Platforms
 
@@ -180,10 +180,10 @@ Blur filter isn't clipped when using border radius [flutter/flutter#115926](http
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 358 | [5](#flutter-flutter-110431-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 154 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 114 | 4
+Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://github.com/flutter/flutter/issues/133465) | 86 | 4
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 84 | 4
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 62 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 21 | 4
-Long-term solution to replacing `ios-deploy` [flutter/flutter#133465](https://github.com/flutter/flutter/issues/133465) | 85 | 3
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 74 | 3
 
 #### Android
@@ -204,9 +204,9 @@ Android build fails with certain plugins if project is in a different drive (fro
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 64 | 4
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 92 | 3
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 100 | 2
+Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 42 | 2
 Slight flicker on the screen when loading from app overview on Android [flutter/flutter#34864](https://github.com/flutter/flutter/issues/34864) | 35 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 29 | 2
-Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 27 | 2
 
 #### Web
 
@@ -214,7 +214,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 61 | [61](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 64 | [64](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 25 | [25](#flutter-flutter-171402-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 877 | [11](#flutter-flutter-46789-graph)
@@ -243,8 +243,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 221 | 4
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 81 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 69 | 4
-Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 3
+Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 29 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 24 | 3
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | 2
@@ -258,7 +258,7 @@ Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 61 | [61](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 64 | [64](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 25 | [25](#flutter-flutter-171402-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 877 | [11](#flutter-flutter-46789-graph)
@@ -286,15 +286,15 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 49 | [13](#dart-lang-sdk-56841-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 208 | [10](#dart-lang-sdk-50565-graph)
 Revive support for interpreting code in Flutter debug builds on iOS [dart-lang/sdk#60202](https://github.com/dart-lang/sdk/issues/60202) | 15 | [10](#dart-lang-sdk-60202-graph)
+[dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 67 | [9](#dart-lang-sdk-53884-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 549 | [7](#dart-lang-sdk-28617-graph)
-[dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 65 | [7](#dart-lang-sdk-53884-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 37 | [7](#dart-lang-sdk-60335-graph)
 Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) | 7 | [7](#dart-lang-sdk-60922-graph)
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | [5](#dart-lang-sdk-42177-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 15 | [5](#dart-lang-sdk-59988-graph)
-Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Regular hangs of the analyzer in VSCode on Windows [dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) | 5 | [5](#dart-lang-sdk-60702-graph)
 
 ### Dart language
 
@@ -339,7 +339,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 504 total reactions, 504 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 505 total reactions, 505 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   xychart-beta
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 355, 409, 426, 446, 468, 476, 491, 504, 504]
+    line [0, 0, 0, 0, 0, 355, 409, 426, 446, 468, 476, 491, 504, 505]
   ```
 
   </details>
@@ -390,7 +390,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
-  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 61 total reactions, 61 recent reactions</sub><br />
+  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 64 total reactions, 64 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -399,7 +399,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   xychart-beta
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 61]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 64]
   ```
 
   </details>
@@ -1272,6 +1272,23 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
+<a name="dart-lang-sdk-53884-graph"></a>
+### [dart2wasm] Support non-JS wasm runtimes
+  <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 67 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
+    y-axis "Reactions"
+    line [58, 58, 60, 61, 61, 61, 61, 63, 64, 62, 65, 65, 65, 67]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-51530-graph"></a>
 ### [web]: Support for backend proxy
   <sub>[flutter/flutter#51530](https://github.com/flutter/flutter/issues/51530) &mdash; 50 total reactions, 9 recent reactions</sub><br />
@@ -1539,23 +1556,6 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions"
     line [78, 78, 78, 78, 84, 85, 85, 85, 85, 85, 85, 85, 85, 85]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-53884-graph"></a>
-### [dart2wasm] Support non-JS wasm runtimes
-  <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 65 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
-    y-axis "Reactions"
-    line [58, 58, 60, 61, 61, 61, 61, 63, 64, 62, 65, 65, 65, 65]
   ```
 
   </details>
@@ -2207,9 +2207,9 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61060-graph"></a>
-### Make Zones be properly encapsulating (Breaking!)
-  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-60702-graph"></a>
+### Regular hangs of the analyzer in VSCode on Windows
+  <sub>[dart-lang/sdk#60702](https://github.com/dart-lang/sdk/issues/60702) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -2218,7 +2218,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
   xychart-beta
     x-axis "Week" [May 5, May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
+    line [0, 0, 0, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5]
   ```
 
   </details>
