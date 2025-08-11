@@ -217,8 +217,8 @@ Issue | Total reactions | Recent reactions
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 26 | [26](#flutter-flutter-171402-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [11](#flutter-flutter-46789-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 223 | [11](#flutter-flutter-55324-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 877 | [10](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 288 | [10](#flutter-flutter-45296-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 94 | [10](#flutter-flutter-149031-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 52 | [10](#flutter-flutter-152588-graph)
@@ -261,8 +261,8 @@ Issue | Total reactions | Recent reactions
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 26 | [26](#flutter-flutter-171402-graph)
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [11](#flutter-flutter-46789-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 223 | [11](#flutter-flutter-55324-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 877 | [10](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 288 | [10](#flutter-flutter-45296-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 94 | [10](#flutter-flutter-149031-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 52 | [10](#flutter-flutter-152588-graph)
@@ -293,8 +293,8 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) | 37 | [5](#dart-lang-sdk-60335-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 15 | [5](#dart-lang-sdk-59988-graph)
-Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 
 ### Dart language
 
@@ -315,8 +315,8 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 15 | [15](#dart-lang-language-4437-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 15 | [15](#dart-lang-language-4383-graph)
-Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 Make the getter of a final instance variable in a constant receiver a constant expression [dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) | 14 | [14](#dart-lang-language-4455-graph)
+Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
 
 ## Graphs
 
@@ -915,23 +915,6 @@ Make the getter of a final instance variable in a constant receiver a constant e
   </details>
   </sub>
 
-<a name="dart-lang-language-4373-graph"></a>
-### Function mixins
-  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions" 0 --> 20
-    line [13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4455-graph"></a>
 ### Make the getter of a final instance variable in a constant receiver a constant expression
   <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -944,6 +927,23 @@ Make the getter of a final instance variable in a constant receiver a constant e
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 11, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4373-graph"></a>
+### Function mixins
+  <sub>[dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions" 0 --> 20
+    line [13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1017,6 +1017,23 @@ Make the getter of a final instance variable in a constant receiver a constant e
   </details>
   </sub>
 
+<a name="flutter-flutter-46789-graph"></a>
+### Improve the indexability (SEO) of Flutter apps on the web 
+  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 878 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [867, 868, 868, 868, 870, 870, 870, 870, 871, 877, 877, 877, 877, 878]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-55324-graph"></a>
 ### Support Firefox as a browser in flutter run
   <sub>[flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) &mdash; 223 total reactions, 11 recent reactions</sub><br />
@@ -1046,23 +1063,6 @@ Make the getter of a final instance variable in a constant receiver a constant e
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [159, 162, 162, 162, 162, 162, 162, 162, 163, 164, 165, 165, 165, 166]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-46789-graph"></a>
-### Improve the indexability (SEO) of Flutter apps on the web 
-  <sub>[flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) &mdash; 877 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [867, 868, 868, 868, 870, 870, 870, 870, 871, 877, 877, 877, 877, 877]
   ```
 
   </details>
@@ -1493,23 +1493,6 @@ Make the getter of a final instance variable in a constant receiver a constant e
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 49 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [42, 42, 42, 42, 45, 45, 45, 46, 46, 46, 48, 49, 49, 49]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91247-graph"></a>
 ### [camera] Support choosing lenses
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 49 total reactions, 7 recent reactions</sub><br />
@@ -1522,6 +1505,23 @@ Make the getter of a final instance variable in a constant receiver a constant e
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [42, 44, 44, 44, 44, 44, 45, 45, 46, 46, 46, 47, 49, 49]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 49 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [42, 42, 42, 42, 45, 45, 45, 46, 46, 46, 48, 49, 49, 49]
   ```
 
   </details>
@@ -1714,23 +1714,6 @@ Make the getter of a final instance variable in a constant receiver a constant e
   </details>
   </sub>
 
-<a name="dart-lang-sdk-53402-graph"></a>
-### ☂️ New analyzer plugin system
-  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 98 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [92, 92, 92, 96, 96, 96, 96, 96, 98, 98, 98, 98, 98, 98]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-48381-graph"></a>
 ### Use a system default font on flutter
   <sub>[flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) &mdash; 98 total reactions, 6 recent reactions</sub><br />
@@ -1743,6 +1726,23 @@ Make the getter of a final instance variable in a constant receiver a constant e
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [92, 92, 93, 93, 94, 94, 97, 96, 98, 98, 98, 98, 98, 98]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-53402-graph"></a>
+### ☂️ New analyzer plugin system
+  <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 98 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [92, 92, 92, 96, 96, 96, 96, 96, 98, 98, 98, 98, 98, 98]
   ```
 
   </details>
@@ -2088,23 +2088,6 @@ Make the getter of a final instance variable in a constant receiver a constant e
   </details>
   </sub>
 
-<a name="flutter-flutter-157543-graph"></a>
-### Deprecate support for ia32
-  <sub>[flutter/flutter#157543](https://github.com/flutter/flutter/issues/157543) &mdash; 37 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [32, 33, 33, 33, 35, 35, 35, 35, 35, 35, 35, 35, 37, 37]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60335-graph"></a>
 ### Potential analyzer regression in 3.7 / Flutter 3.29 release
   <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 37 total reactions, 5 recent reactions</sub><br />
@@ -2117,6 +2100,23 @@ Make the getter of a final instance variable in a constant receiver a constant e
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [33, 35, 36, 36, 36, 37, 37, 37, 37, 37, 37, 37, 37, 37]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-157543-graph"></a>
+### Deprecate support for ia32
+  <sub>[flutter/flutter#157543](https://github.com/flutter/flutter/issues/157543) &mdash; 37 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [32, 33, 33, 33, 35, 35, 35, 35, 35, 35, 35, 35, 37, 37]
   ```
 
   </details>
@@ -2156,23 +2156,6 @@ Make the getter of a final instance variable in a constant receiver a constant e
   </details>
   </sub>
 
-<a name="dart-lang-sdk-60827-graph"></a>
-### Providing other analysis_options.yaml to dart analyze
-  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61060-graph"></a>
 ### Make Zones be properly encapsulating (Breaking!)
   <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -2185,6 +2168,23 @@ Make the getter of a final instance variable in a constant receiver a constant e
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60827-graph"></a>
+### Providing other analysis_options.yaml to dart analyze
+  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
