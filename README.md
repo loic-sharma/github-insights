@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-05-12 to 2025-08-13.
+Issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -18,8 +18,8 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 29 | [29](#flutter-flutter-172434-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 198 | [26](#dart-lang-sdk-55281-graph)
 Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 26 | [26](#flutter-flutter-171402-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 197 | [25](#dart-lang-sdk-55281-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 69 | [25](#flutter-flutter-97496-graph)
 
 ## Trending issues by team
@@ -28,7 +28,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-framework` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-design` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Widget test issue with DropdownButton [flutter/flutter#89905](https://github.com
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`f: cupertino` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 510 | [510](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-go_router` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-tool` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https:
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-engine` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 47 | [47](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-ios` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,12 +188,12 @@ Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](ht
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-android` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 39 | [23](#flutter-flutter-153075-graph)
-Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 68 | [17](#flutter-flutter-139427-graph)
+Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 69 | [18](#flutter-flutter-139427-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 17 | [17](#flutter-flutter-169215-graph)
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 13 | [13](#flutter-flutter-171583-graph)
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 13 | [13](#flutter-flutter-169746-graph)
@@ -210,7 +210,7 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-web` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`team-ecosystem` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,13 +276,13 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`dart-lang/sdk` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 197 | [25](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 198 | [26](#dart-lang-sdk-55281-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 74 | [17](#dart-lang-sdk-57036-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 50 | [13](#dart-lang-sdk-56841-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 51 | [14](#dart-lang-sdk-56841-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 208 | [10](#dart-lang-sdk-50565-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 68 | [10](#dart-lang-sdk-53884-graph)
 Revive support for interpreting code in Flutter debug builds on iOS [dart-lang/sdk#60202](https://github.com/dart-lang/sdk/issues/60202) | 15 | [10](#dart-lang-sdk-60202-graph)
@@ -298,7 +298,7 @@ Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](http
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-05-12 to 2025-08-13.
+`dart-lang/language` issues that received the most reactions from 2025-05-12 to 2025-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -524,6 +524,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="dart-lang-sdk-55281-graph"></a>
+### Dart Analyzer very slow/stuck
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 198 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [175, 178, 180, 183, 185, 185, 187, 189, 190, 191, 192, 195, 195, 198]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-171402-graph"></a>
 ### Flutter web not rendering the UI on latest Chrome
   <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 26 total reactions, 26 recent reactions</sub><br />
@@ -536,23 +553,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 16, 16, 23, 24, 25, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-55281-graph"></a>
-### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 197 total reactions, 25 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [175, 178, 180, 183, 185, 185, 187, 189, 190, 191, 192, 195, 195, 197]
   ```
 
   </details>
@@ -728,6 +728,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="flutter-flutter-139427-graph"></a>
+### Use the default NDK version from AGP
+  <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 69 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [53, 55, 58, 58, 60, 63, 65, 65, 66, 67, 67, 68, 68, 69]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-53059-graph"></a>
 ### ☂️ Reinforcement: Refactor widgets from design into the core before decoupling
   <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 60 total reactions, 18 recent reactions</sub><br />
@@ -774,23 +791,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [57, 63, 64, 70, 72, 72, 72, 72, 72, 74, 74, 74, 74, 74]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-139427-graph"></a>
-### Use the default NDK version from AGP
-  <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 68 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [53, 55, 58, 58, 60, 63, 65, 65, 66, 67, 67, 68, 68, 68]
   ```
 
   </details>
@@ -898,6 +898,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 51 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 49, 49, 51]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-161687-graph"></a>
 ### Cupertino Sheet should have drag to dismiss and nested scrolling work together
   <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 29 total reactions, 14 recent reactions</sub><br />
@@ -944,23 +961,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions" 0 --> 20
     line [13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 50 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 49, 49, 50]
   ```
 
   </details>
@@ -1527,23 +1527,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-91247-graph"></a>
-### [camera] Support choosing lenses
-  <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 49 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [42, 44, 44, 44, 44, 44, 45, 45, 46, 46, 46, 47, 49, 49]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-146860-graph"></a>
 ### TextHeightBehaviour should allow more tightly-wrapped text
   <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 49 total reactions, 7 recent reactions</sub><br />
@@ -1556,6 +1539,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [42, 42, 42, 42, 45, 45, 45, 46, 46, 46, 48, 49, 49, 49]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-91247-graph"></a>
+### [camera] Support choosing lenses
+  <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 49 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [42, 44, 44, 44, 44, 44, 45, 45, 46, 46, 46, 47, 49, 49]
   ```
 
   </details>
@@ -2122,23 +2122,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
-<a name="flutter-flutter-157543-graph"></a>
-### Deprecate support for ia32
-  <sub>[flutter/flutter#157543](https://github.com/flutter/flutter/issues/157543) &mdash; 37 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [32, 33, 33, 33, 35, 35, 35, 35, 35, 35, 35, 35, 37, 37]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-60335-graph"></a>
 ### Potential analyzer regression in 3.7 / Flutter 3.29 release
   <sub>[dart-lang/sdk#60335](https://github.com/dart-lang/sdk/issues/60335) &mdash; 37 total reactions, 5 recent reactions</sub><br />
@@ -2151,6 +2134,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [33, 35, 36, 36, 36, 37, 37, 37, 37, 37, 37, 37, 37, 37]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-157543-graph"></a>
+### Deprecate support for ia32
+  <sub>[flutter/flutter#157543](https://github.com/flutter/flutter/issues/157543) &mdash; 37 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [32, 33, 33, 33, 35, 35, 35, 35, 35, 35, 35, 35, 37, 37]
   ```
 
   </details>
