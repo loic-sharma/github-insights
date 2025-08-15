@@ -2,15 +2,15 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-05-12 to 2025-08-14.
+Issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 596 | [596](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 600 | [600](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 510 | [510](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 791 | [256](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 792 | [257](#flutter-flutter-101479-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
-[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 75 | [61](#flutter-flutter-165502-graph)
+[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [62](#flutter-flutter-165502-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 196 | [59](#dart-lang-language-4271-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 48 | [48](#flutter-flutter-170820-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1095 | [36](#dart-lang-language-357-graph)
@@ -28,7 +28,7 @@ Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-framework` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,17 +50,17 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-design` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 596 | [596](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 600 | [600](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 510 | [510](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 791 | [256](#flutter-flutter-101479-graph)
-[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 75 | [61](#flutter-flutter-165502-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 792 | [257](#flutter-flutter-101479-graph)
+[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [62](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 69 | [25](#flutter-flutter-97496-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 60 | [18](#flutter-flutter-53059-graph)
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 136 | [14](#flutter-flutter-102560-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 138 | [16](#flutter-flutter-102560-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [14](#flutter-flutter-161687-graph)
 Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) | 94 | [8](#flutter-flutter-119328-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 304 | [6](#flutter-flutter-21594-graph)
@@ -72,11 +72,11 @@ Widget test issue with DropdownButton [flutter/flutter#89905](https://github.com
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`f: cupertino` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 510 | [510](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 791 | [256](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 792 | [257](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 60 | [18](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [14](#flutter-flutter-161687-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 30 | 3
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,18 +114,18 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-go_router` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-tool` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 167 | [12](#flutter-flutter-65065-graph)
+Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 168 | [13](#flutter-flutter-65065-graph)
 ☂️ Build hooks & Code assets [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 90 | [12](#flutter-flutter-129757-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 163 | [10](#flutter-flutter-46979-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 121 | [6](#flutter-flutter-107157-graph)
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-engine` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 48 | [48](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-ios` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Flutter should support iOS 15's Secure Paste feature [flutter/flutter#103163](ht
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-android` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-web` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`team-ecosystem` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`dart-lang/sdk` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://g
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-05-12 to 2025-08-14.
+`dart-lang/language` issues that received the most reactions from 2025-05-12 to 2025-08-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -312,8 +312,8 @@ Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/langua
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 101 | [20](#dart-lang-language-3021-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 258 | [18](#dart-lang-language-2364-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 551 | [17](#dart-lang-language-83-graph)
-Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 15 | [15](#dart-lang-language-4437-graph)
+Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 15 | [15](#dart-lang-language-4383-graph)
 Make the getter of a final instance variable in a constant receiver a constant expression [dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) | 14 | [14](#dart-lang-language-4455-graph)
 Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/issues/4373) | 14 | [14](#dart-lang-language-4373-graph)
@@ -322,7 +322,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 596 total reactions, 596 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 600 total reactions, 600 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
-    line [250, 344, 404, 441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 596]
+    line [250, 344, 404, 441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 600]
   ```
 
   </details>
@@ -356,7 +356,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 791 total reactions, 256 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 792 total reactions, 257 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
-    line [549, 555, 565, 567, 617, 627, 630, 645, 646, 649, 656, 766, 785, 791]
+    line [549, 555, 565, 567, 617, 627, 630, 645, 646, 649, 656, 766, 785, 792]
   ```
 
   </details>
@@ -390,7 +390,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
 
 <a name="flutter-flutter-165502-graph"></a>
 ### [proposal] blankcanvas 2.0
-  <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 75 total reactions, 61 recent reactions</sub><br />
+  <sub>[flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) &mdash; 76 total reactions, 62 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -399,7 +399,7 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   xychart-beta
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
-    line [19, 24, 28, 34, 58, 63, 66, 71, 71, 72, 74, 74, 75, 75]
+    line [19, 24, 28, 34, 58, 63, 66, 71, 71, 72, 74, 74, 75, 76]
   ```
 
   </details>
@@ -830,6 +830,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 138 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [124, 125, 125, 126, 128, 128, 128, 128, 129, 131, 134, 135, 136, 138]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 52 total reactions, 15 recent reactions</sub><br />
@@ -842,23 +859,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [42, 42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 49, 49, 52]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4403-graph"></a>
-### Allow instance and metaobject members in one declaration?
-  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15]
   ```
 
   </details>
@@ -881,6 +881,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="dart-lang-language-4403-graph"></a>
+### Allow instance and metaobject members in one declaration?
+  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4383-graph"></a>
 ### Feature request: `defer` statement
   <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -893,23 +910,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions" 0 --> 20
     line [0, 5, 6, 9, 10, 10, 10, 10, 12, 12, 12, 14, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 136 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [124, 125, 125, 126, 128, 128, 128, 128, 129, 131, 134, 135, 136, 136]
   ```
 
   </details>
@@ -966,6 +966,23 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
   </details>
   </sub>
 
+<a name="flutter-flutter-65065-graph"></a>
+### Bundling assets only on a specific platform (and remove assets on another platform)
+  <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 168 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    y-axis "Reactions"
+    line [159, 162, 162, 162, 162, 162, 162, 162, 163, 164, 165, 165, 165, 168]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-171583-graph"></a>
 ### [video_player] on [android] issue with seekTo
   <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -1012,23 +1029,6 @@ Function mixins [dart-lang/language#4373](https://github.com/dart-lang/language/
     x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
     y-axis "Reactions"
     line [198, 199, 199, 200, 201, 203, 205, 205, 205, 207, 207, 209, 209, 209]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65065-graph"></a>
-### Bundling assets only on a specific platform (and remove assets on another platform)
-  <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 167 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 12, May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [159, 162, 162, 162, 162, 162, 162, 162, 163, 164, 165, 165, 165, 167]
   ```
 
   </details>
