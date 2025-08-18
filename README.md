@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-05-19 to 2025-08-17.
+Issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -13,14 +13,14 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [56](#flutter-flutter-165502-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 49 | [49](#flutter-flutter-170820-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 196 | [43](#dart-lang-language-4271-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1196 | [41](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1197 | [42](#dart-lang-language-723-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1097 | [35](#dart-lang-language-357-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2259 | [29](#dart-lang-language-314-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 29 | [29](#flutter-flutter-172434-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
-Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 26 | [26](#flutter-flutter-171402-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 25 | [25](#dart-lang-language-4462-graph)
+Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 25 | [25](#dart-lang-language-4404-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-framework` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-design` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`f: cupertino` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 511 | [511](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,14 +114,14 @@ Flutter needs a way to test real IME text input behavior [flutter/flutter#131510
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-go_router` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-tool` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-engine` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 49 | [49](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-ios` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-android` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,13 +210,12 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-web` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
-Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 26 | [26](#flutter-flutter-171402-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [11](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 290 | [10](#flutter-flutter-45296-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 95 | [9](#flutter-flutter-149031-graph)
@@ -229,10 +228,11 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 46 | [5](#flutter-flutter-156910-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 4
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 90 | 3
+[google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | 3
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,13 +254,12 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`team-ecosystem` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
-Flutter web not rendering the UI on latest Chrome [flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) | 26 | [26](#flutter-flutter-171402-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [11](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 290 | [10](#flutter-flutter-45296-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 95 | [9](#flutter-flutter-149031-graph)
@@ -273,10 +272,11 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 46 | [5](#flutter-flutter-156910-graph)
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 4
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 90 | 3
+[google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | 3
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`dart-lang/sdk` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -291,19 +291,19 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 15 | [5](#dart-lang-sdk-59988-graph)
-Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Providing other analysis_options.yaml to dart analyze [dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) | 5 | [5](#dart-lang-sdk-60827-graph)
 Add a maxValue and minValue to int [dart-lang/sdk#41717](https://github.com/dart-lang/sdk/issues/41717) | 76 | 4
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 33 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-05-19 to 2025-08-17.
+`dart-lang/language` issues that received the most reactions from 2025-05-19 to 2025-08-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 196 | [43](#dart-lang-language-4271-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1196 | [41](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1197 | [42](#dart-lang-language-723-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1097 | [35](#dart-lang-language-357-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2259 | [29](#dart-lang-language-314-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 25 | [25](#dart-lang-language-4462-graph)
@@ -312,8 +312,8 @@ Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/langua
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 101 | [20](#dart-lang-language-3021-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 551 | [16](#dart-lang-language-83-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 258 | [15](#dart-lang-language-2364-graph)
-Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 15 | [15](#dart-lang-language-4437-graph)
+Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
 Make the getter of a final instance variable in a constant receiver a constant expression [dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) | 14 | [14](#dart-lang-language-4455-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 357 | [12](#dart-lang-language-1122-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 15 | [12](#dart-lang-language-4383-graph)
@@ -329,9 +329,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 355, 409, 426, 446, 468, 476, 491, 504, 507, 511]
+    line [0, 0, 0, 355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 511]
   ```
 
   </details>
@@ -346,9 +346,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [344, 404, 441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 601]
+    line [344, 404, 441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 601]
   ```
 
   </details>
@@ -363,9 +363,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [555, 565, 567, 617, 627, 630, 645, 646, 649, 656, 766, 785, 798]
+    line [555, 565, 567, 617, 627, 630, 645, 646, 649, 656, 766, 785, 798, 798]
   ```
 
   </details>
@@ -380,9 +380,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 78, 79]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 78, 79, 79]
   ```
 
   </details>
@@ -397,9 +397,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [24, 28, 34, 58, 63, 66, 71, 71, 72, 74, 74, 75, 76]
+    line [24, 28, 34, 58, 63, 66, 71, 71, 72, 74, 74, 75, 76, 76]
   ```
 
   </details>
@@ -414,9 +414,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43, 47, 49]
+    line [0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43, 47, 49, 49]
   ```
 
   </details>
@@ -431,9 +431,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [164, 183, 183, 184, 184, 188, 188, 189, 189, 189, 191, 195, 196]
+    line [164, 183, 183, 184, 184, 188, 188, 189, 189, 189, 191, 195, 196, 196]
   ```
 
   </details>
@@ -441,16 +441,16 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1196 total reactions, 41 recent reactions</sub><br />
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1197 total reactions, 42 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [1157, 1161, 1163, 1163, 1164, 1166, 1170, 1170, 1172, 1175, 1176, 1176, 1196]
+    line [1157, 1161, 1163, 1163, 1164, 1166, 1170, 1170, 1172, 1175, 1176, 1176, 1196, 1197]
   ```
 
   </details>
@@ -465,9 +465,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [1074, 1076, 1078, 1080, 1081, 1086, 1086, 1087, 1090, 1090, 1094, 1095, 1097]
+    line [1074, 1076, 1078, 1080, 1081, 1086, 1086, 1087, 1090, 1090, 1094, 1095, 1097, 1097]
   ```
 
   </details>
@@ -482,9 +482,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 22, 28, 30, 32, 32, 32]
+    line [0, 0, 0, 0, 0, 0, 0, 22, 28, 30, 32, 32, 32, 32]
   ```
 
   </details>
@@ -499,9 +499,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [2231, 2233, 2238, 2239, 2241, 2243, 2246, 2250, 2253, 2254, 2255, 2260, 2259]
+    line [2231, 2233, 2238, 2239, 2241, 2243, 2246, 2250, 2253, 2254, 2255, 2260, 2259, 2259]
   ```
 
   </details>
@@ -516,9 +516,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 23, 25, 29]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 23, 25, 29, 29]
   ```
 
   </details>
@@ -533,26 +533,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 22, 24, 27, 27, 27, 28, 28, 28, 28]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-171402-graph"></a>
-### Flutter web not rendering the UI on latest Chrome
-  <sub>[flutter/flutter#171402](https://github.com/flutter/flutter/issues/171402) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 16, 16, 23, 24, 25, 26, 26]
+    line [0, 0, 0, 0, 22, 24, 27, 27, 27, 28, 28, 28, 28, 28]
   ```
 
   </details>
@@ -567,9 +550,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 18, 20, 21, 22, 25]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 18, 20, 21, 22, 25, 25]
   ```
 
   </details>
@@ -584,9 +567,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 22, 23, 24, 24, 24, 24, 24, 24, 24, 25]
+    line [0, 0, 0, 22, 23, 24, 24, 24, 24, 24, 24, 24, 25, 25]
   ```
 
   </details>
@@ -601,9 +584,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [191, 192, 197, 198, 198, 198, 198, 200, 201, 202, 204, 204, 204]
+    line [191, 192, 197, 198, 198, 198, 198, 200, 201, 202, 204, 204, 204, 204]
   ```
 
   </details>
@@ -618,9 +601,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [178, 180, 183, 185, 185, 187, 189, 190, 191, 192, 195, 195, 198]
+    line [178, 180, 183, 185, 185, 187, 189, 190, 191, 192, 195, 195, 198, 198]
   ```
 
   </details>
@@ -635,9 +618,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [17, 22, 27, 28, 29, 30, 32, 34, 34, 36, 38, 39, 39]
+    line [17, 22, 27, 28, 29, 30, 32, 34, 34, 36, 38, 39, 39, 39]
   ```
 
   </details>
@@ -652,9 +635,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [47, 47, 47, 55, 59, 61, 61, 61, 61, 62, 65, 66, 69]
+    line [47, 47, 47, 55, 59, 61, 61, 61, 61, 62, 65, 66, 69, 69]
   ```
 
   </details>
@@ -669,9 +652,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 12, 14, 14, 14, 16, 20, 20, 22]
+    line [0, 0, 0, 0, 0, 12, 14, 14, 14, 16, 20, 20, 22, 22]
   ```
 
   </details>
@@ -686,9 +669,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [35, 36, 37, 42, 44, 44, 44, 45, 46, 46, 54, 55, 56]
+    line [35, 36, 37, 42, 44, 44, 44, 45, 46, 46, 54, 55, 56, 56]
   ```
 
   </details>
@@ -703,9 +686,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [95, 96, 96, 98, 98, 98, 98, 98, 101, 101, 101, 101, 101]
+    line [95, 96, 96, 98, 98, 98, 98, 98, 101, 101, 101, 101, 101, 101]
   ```
 
   </details>
@@ -720,9 +703,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [63, 64, 70, 72, 72, 72, 72, 72, 74, 74, 74, 74, 77]
+    line [63, 64, 70, 72, 72, 72, 72, 72, 74, 74, 74, 74, 77, 77]
   ```
 
   </details>
@@ -737,9 +720,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [42, 42, 42, 50, 50, 51, 51, 51, 51, 51, 58, 59, 60]
+    line [42, 42, 42, 50, 50, 51, 51, 51, 51, 51, 58, 59, 60, 60]
   ```
 
   </details>
@@ -754,9 +737,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [80, 80, 80, 80, 81, 81, 81, 81, 83, 83, 83, 90, 95]
+    line [80, 80, 80, 80, 81, 81, 81, 81, 83, 83, 83, 90, 95, 95]
   ```
 
   </details>
@@ -771,9 +754,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 18, 18, 18, 21, 22, 25, 30, 32, 32, 32, 33, 35]
+    line [0, 18, 18, 18, 21, 22, 25, 30, 32, 32, 32, 33, 35, 35]
   ```
 
   </details>
@@ -788,9 +771,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 15, 15, 15, 15, 15, 16, 17, 17, 17, 17, 17]
+    line [0, 0, 15, 15, 15, 15, 15, 16, 17, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -805,9 +788,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [536, 536, 536, 536, 538, 538, 538, 538, 543, 544, 548, 551, 551]
+    line [536, 536, 536, 536, 538, 538, 538, 538, 543, 544, 548, 551, 551, 551]
   ```
 
   </details>
@@ -822,9 +805,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [55, 58, 58, 60, 63, 65, 65, 66, 67, 67, 68, 68, 69]
+    line [55, 58, 58, 60, 63, 65, 65, 66, 67, 67, 68, 68, 69, 69]
   ```
 
   </details>
@@ -839,26 +822,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [243, 245, 248, 248, 251, 252, 255, 256, 256, 256, 258, 258, 258]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4403-graph"></a>
-### Allow instance and metaobject members in one declaration?
-  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15]
+    line [243, 245, 248, 248, 251, 252, 255, 256, 256, 256, 258, 258, 258, 258]
   ```
 
   </details>
@@ -873,9 +839,26 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13, 15, 15]
+    line [0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13, 15, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4403-graph"></a>
+### Allow instance and metaobject members in one declaration?
+  <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15]
   ```
 
   </details>
@@ -890,9 +873,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [125, 125, 126, 128, 128, 128, 128, 129, 131, 134, 135, 136, 138]
+    line [125, 125, 126, 128, 128, 128, 128, 129, 131, 134, 135, 136, 138, 138]
   ```
 
   </details>
@@ -907,9 +890,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [16, 20, 20, 25, 26, 27, 28, 28, 29, 29, 29, 29, 29]
+    line [16, 20, 20, 25, 26, 27, 28, 28, 29, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -924,9 +907,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 11, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14]
   ```
 
   </details>
@@ -941,9 +924,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
   ```
 
   </details>
@@ -958,9 +941,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -975,9 +958,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [345, 345, 349, 350, 350, 354, 355, 355, 355, 355, 357, 357, 357]
+    line [345, 345, 349, 350, 350, 354, 355, 355, 355, 355, 357, 357, 357, 357]
   ```
 
   </details>
@@ -992,9 +975,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 49, 49, 54]
+    line [42, 42, 46, 46, 46, 46, 46, 47, 47, 47, 49, 49, 54, 54]
   ```
 
   </details>
@@ -1009,9 +992,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [5, 6, 9, 10, 10, 10, 10, 12, 12, 12, 14, 15, 15]
+    line [5, 6, 9, 10, 10, 10, 10, 12, 12, 12, 14, 15, 15, 15]
   ```
 
   </details>
@@ -1026,9 +1009,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [868, 868, 868, 870, 870, 870, 870, 871, 877, 877, 877, 877, 878]
+    line [868, 868, 868, 870, 870, 870, 870, 871, 877, 877, 877, 877, 878, 878]
   ```
 
   </details>
@@ -1043,9 +1026,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [199, 199, 200, 201, 203, 205, 205, 205, 207, 207, 209, 209, 209]
+    line [199, 199, 200, 201, 203, 205, 205, 205, 207, 207, 209, 209, 209, 209]
   ```
 
   </details>
@@ -1060,9 +1043,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [285, 285, 285, 285, 287, 287, 287, 287, 287, 287, 287, 288, 290]
+    line [285, 285, 285, 285, 287, 287, 287, 287, 287, 287, 287, 288, 290, 290]
   ```
 
   </details>
@@ -1077,9 +1060,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [203, 204, 205, 206, 207, 207, 207, 207, 207, 207, 208, 208, 208]
+    line [203, 204, 205, 206, 207, 207, 207, 207, 207, 207, 208, 208, 208, 208]
   ```
 
   </details>
@@ -1094,9 +1077,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [60, 61, 61, 61, 61, 63, 64, 62, 65, 65, 65, 67, 68]
+    line [60, 61, 61, 61, 61, 63, 64, 62, 65, 65, 65, 67, 68, 68]
   ```
 
   </details>
@@ -1111,9 +1094,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [5, 5, 5, 11, 12, 12, 12, 12, 15, 15, 15, 15, 15]
+    line [5, 5, 5, 11, 12, 12, 12, 12, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1128,9 +1111,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [210, 210, 210, 211, 211, 211, 212, 214, 216, 217, 218, 219, 219]
+    line [210, 210, 210, 211, 211, 211, 212, 214, 216, 217, 218, 219, 219, 219]
   ```
 
   </details>
@@ -1145,9 +1128,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [162, 162, 162, 162, 162, 162, 162, 163, 164, 165, 165, 165, 168]
+    line [162, 162, 162, 162, 162, 162, 162, 163, 164, 165, 165, 165, 168, 168]
   ```
 
   </details>
@@ -1162,9 +1145,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [154, 155, 157, 158, 158, 160, 160, 160, 160, 163, 163, 163, 163]
+    line [154, 155, 157, 158, 158, 160, 160, 160, 160, 163, 163, 163, 163, 163]
   ```
 
   </details>
@@ -1179,9 +1162,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [110, 111, 111, 111, 112, 114, 115, 115, 115, 116, 116, 117, 119]
+    line [110, 111, 111, 111, 112, 114, 115, 115, 115, 116, 116, 117, 119, 119]
   ```
 
   </details>
@@ -1196,9 +1179,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [88, 89, 90, 92, 92, 93, 93, 93, 93, 93, 94, 94, 95]
+    line [88, 89, 90, 92, 92, 93, 93, 93, 93, 93, 94, 94, 95, 95]
   ```
 
   </details>
@@ -1213,9 +1196,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [46, 46, 49, 49, 49, 49, 51, 51, 51, 53, 53, 53, 53]
+    line [46, 46, 49, 49, 49, 49, 51, 51, 51, 53, 53, 53, 53, 53]
   ```
 
   </details>
@@ -1230,9 +1213,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [438, 439, 438, 438, 438, 438, 438, 438, 438, 438, 438, 438, 444]
+    line [438, 439, 438, 438, 438, 438, 438, 438, 438, 438, 438, 438, 444, 444]
   ```
 
   </details>
@@ -1247,9 +1230,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [218, 219, 219, 219, 220, 220, 220, 221, 222, 223, 223, 223, 223]
+    line [218, 219, 219, 219, 220, 220, 220, 221, 222, 223, 223, 223, 223, 223]
   ```
 
   </details>
@@ -1264,9 +1247,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [208, 208, 208, 210, 210, 210, 210, 210, 211, 212, 214, 214, 216]
+    line [208, 208, 208, 210, 210, 210, 210, 210, 211, 212, 214, 214, 216, 216]
   ```
 
   </details>
@@ -1281,9 +1264,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [197, 197, 197, 200, 200, 201, 202, 202, 203, 203, 203, 204, 204]
+    line [197, 197, 197, 200, 200, 201, 202, 202, 203, 203, 203, 204, 204, 204]
   ```
 
   </details>
@@ -1298,9 +1281,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [192, 192, 197, 197, 197, 197, 198, 198, 198, 198, 199, 199, 199]
+    line [192, 192, 197, 197, 197, 197, 198, 198, 198, 198, 199, 199, 199, 199]
   ```
 
   </details>
@@ -1315,9 +1298,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [163, 163, 163, 163, 164, 164, 165, 165, 166, 166, 170, 170, 170]
+    line [163, 163, 163, 163, 164, 164, 165, 165, 166, 166, 170, 170, 170, 170]
   ```
 
   </details>
@@ -1332,9 +1315,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [92, 93, 93, 94, 94, 97, 96, 98, 98, 98, 98, 98, 100]
+    line [92, 93, 93, 94, 94, 97, 96, 98, 98, 98, 98, 98, 100, 100]
   ```
 
   </details>
@@ -1349,9 +1332,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [86, 87, 87, 88, 88, 88, 88, 88, 89, 89, 89, 94, 94]
+    line [86, 87, 87, 88, 88, 88, 88, 88, 89, 89, 89, 94, 94, 94]
   ```
 
   </details>
@@ -1366,9 +1349,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [52, 54, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60]
+    line [52, 54, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60, 60]
   ```
 
   </details>
@@ -1383,9 +1366,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [50, 52, 53, 54, 54, 54, 54, 56, 57, 57, 57, 57, 57]
+    line [50, 52, 53, 54, 54, 54, 54, 56, 57, 57, 57, 57, 57, 57]
   ```
 
   </details>
@@ -1400,9 +1383,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [40, 43, 43, 43, 43, 43, 45, 45, 45, 45, 47, 47, 48]
+    line [40, 43, 43, 43, 43, 43, 45, 45, 45, 45, 47, 47, 48, 48]
   ```
 
   </details>
@@ -1417,9 +1400,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [35, 35, 36, 38, 41, 41, 42, 43, 43, 43, 43, 43, 43]
+    line [35, 35, 36, 38, 41, 41, 42, 43, 43, 43, 43, 43, 43, 43]
   ```
 
   </details>
@@ -1434,9 +1417,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 15, 15, 16, 17, 19, 20, 21, 21, 21, 21, 22]
+    line [0, 0, 15, 15, 16, 17, 19, 20, 21, 21, 21, 21, 22, 22]
   ```
 
   </details>
@@ -1451,9 +1434,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [693, 693, 693, 693, 693, 694, 694, 694, 694, 694, 694, 694, 694]
+    line [693, 693, 693, 693, 693, 694, 694, 694, 694, 694, 694, 694, 694, 694]
   ```
 
   </details>
@@ -1468,9 +1451,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [449, 451, 452, 452, 452, 452, 453, 453, 453, 453, 453, 455, 456]
+    line [449, 451, 452, 452, 452, 452, 453, 453, 453, 453, 453, 455, 456, 456]
   ```
 
   </details>
@@ -1485,9 +1468,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [253, 253, 256, 258, 258, 260, 260, 260, 260, 260, 260, 260, 260]
+    line [253, 253, 256, 258, 258, 260, 260, 260, 260, 260, 260, 260, 260, 260]
   ```
 
   </details>
@@ -1502,9 +1485,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [112, 112, 112, 114, 114, 114, 114, 114, 114, 115, 116, 116, 119]
+    line [112, 112, 112, 114, 114, 114, 114, 114, 114, 115, 116, 116, 119, 119]
   ```
 
   </details>
@@ -1519,9 +1502,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [78, 78, 84, 85, 85, 85, 85, 85, 85, 85, 85, 85, 85]
+    line [78, 78, 84, 85, 85, 85, 85, 85, 85, 85, 85, 85, 85, 85]
   ```
 
   </details>
@@ -1536,9 +1519,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [56, 58, 60, 60, 60, 60, 61, 61, 61, 62, 62, 63, 63]
+    line [56, 58, 60, 60, 60, 60, 61, 61, 61, 62, 62, 63, 63, 63]
   ```
 
   </details>
@@ -1553,9 +1536,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [42, 42, 42, 45, 45, 45, 46, 46, 46, 48, 49, 49, 49]
+    line [42, 42, 42, 45, 45, 45, 46, 46, 46, 48, 49, 49, 49, 49]
   ```
 
   </details>
@@ -1570,9 +1553,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 5, 5, 5, 7, 7, 7, 7, 7, 7]
+    line [0, 0, 0, 0, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -1587,9 +1570,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [331, 333, 334, 334, 334, 334, 335, 335, 337, 337, 337, 337, 337]
+    line [331, 333, 334, 334, 334, 334, 335, 335, 337, 337, 337, 337, 337, 337]
   ```
 
   </details>
@@ -1604,9 +1587,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [145, 148, 147, 147, 148, 148, 149, 150, 150, 150, 151, 151, 151]
+    line [145, 148, 147, 147, 148, 148, 149, 150, 150, 150, 151, 151, 151, 151]
   ```
 
   </details>
@@ -1621,9 +1604,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [115, 115, 116, 117, 118, 119, 120, 120, 120, 121, 121, 121, 121]
+    line [115, 115, 116, 117, 118, 119, 120, 120, 120, 121, 121, 121, 121, 121]
   ```
 
   </details>
@@ -1638,9 +1621,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [101, 104, 105, 105, 105, 106, 106, 106, 106, 107, 107, 107, 107]
+    line [101, 104, 105, 105, 105, 106, 106, 106, 106, 107, 107, 107, 107, 107]
   ```
 
   </details>
@@ -1655,9 +1638,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [92, 92, 96, 96, 96, 96, 96, 98, 98, 98, 98, 98, 98]
+    line [92, 92, 96, 96, 96, 96, 96, 98, 98, 98, 98, 98, 98, 98]
   ```
 
   </details>
@@ -1672,9 +1655,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [80, 80, 80, 82, 83, 83, 83, 83, 83, 84, 84, 84, 86]
+    line [80, 80, 80, 82, 83, 83, 83, 83, 83, 84, 84, 84, 86, 86]
   ```
 
   </details>
@@ -1689,9 +1672,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [79, 79, 79, 79, 79, 80, 81, 81, 81, 82, 83, 85, 85]
+    line [79, 79, 79, 79, 79, 80, 81, 81, 81, 82, 83, 85, 85, 85]
   ```
 
   </details>
@@ -1706,9 +1689,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [48, 48, 49, 49, 49, 49, 50, 50, 52, 52, 53, 54, 54]
+    line [48, 48, 49, 49, 49, 49, 50, 50, 52, 52, 53, 54, 54, 54]
   ```
 
   </details>
@@ -1723,9 +1706,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [46, 47, 47, 47, 47, 50, 51, 51, 51, 52, 52, 52, 52]
+    line [46, 47, 47, 47, 47, 50, 51, 51, 51, 52, 52, 52, 52, 52]
   ```
 
   </details>
@@ -1740,9 +1723,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [44, 44, 44, 44, 44, 45, 45, 46, 46, 46, 47, 49, 50]
+    line [44, 44, 44, 44, 44, 45, 45, 46, 46, 46, 47, 49, 50, 50]
   ```
 
   </details>
@@ -1757,9 +1740,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [38, 39, 39, 40, 41, 41, 41, 41, 41, 43, 44, 44, 44]
+    line [38, 39, 39, 40, 41, 41, 41, 41, 41, 43, 44, 44, 44, 44]
   ```
 
   </details>
@@ -1774,9 +1757,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [30, 30, 30, 30, 30, 30, 30, 36, 36, 36, 36, 36, 36]
+    line [30, 30, 30, 30, 30, 30, 30, 36, 36, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -1791,9 +1774,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [22, 24, 24, 24, 24, 25, 25, 25, 25, 27, 27, 27, 27]
+    line [22, 24, 24, 24, 24, 25, 25, 25, 25, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -1808,9 +1791,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [18, 18, 19, 19, 19, 19, 20, 21, 24, 24, 24, 24, 24]
+    line [18, 18, 19, 19, 19, 19, 20, 21, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1825,9 +1808,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [17, 19, 19, 19, 20, 20, 20, 22, 23, 23, 23, 23, 23]
+    line [17, 19, 19, 19, 20, 20, 20, 22, 23, 23, 23, 23, 23, 23]
   ```
 
   </details>
@@ -1842,9 +1825,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [17, 17, 17, 18, 18, 19, 19, 21, 21, 21, 22, 22, 22]
+    line [17, 17, 17, 18, 18, 19, 19, 21, 21, 21, 22, 22, 22, 22]
   ```
 
   </details>
@@ -1859,9 +1842,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 13, 14, 15, 17, 19, 19]
+    line [0, 0, 0, 0, 0, 0, 0, 13, 14, 15, 17, 19, 19, 19]
   ```
 
   </details>
@@ -1876,9 +1859,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1893,9 +1876,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [353, 354, 355, 355, 356, 356, 356, 356, 356, 357, 358, 358, 358]
+    line [353, 354, 355, 355, 356, 356, 356, 356, 356, 357, 358, 358, 358, 358]
   ```
 
   </details>
@@ -1910,9 +1893,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [299, 300, 300, 300, 301, 301, 301, 302, 302, 302, 304, 304, 304]
+    line [299, 300, 300, 300, 301, 301, 301, 302, 302, 302, 304, 304, 304, 304]
   ```
 
   </details>
@@ -1927,9 +1910,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [285, 285, 285, 285, 285, 285, 289, 289, 289, 289, 289, 290, 290]
+    line [285, 285, 285, 285, 285, 285, 289, 289, 289, 289, 289, 290, 290, 290]
   ```
 
   </details>
@@ -1944,9 +1927,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [236, 238, 238, 239, 239, 240, 240, 240, 240, 241, 241, 241, 241]
+    line [236, 238, 238, 239, 239, 240, 240, 240, 240, 241, 241, 241, 241, 241]
   ```
 
   </details>
@@ -1961,9 +1944,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [185, 185, 185, 185, 185, 187, 187, 188, 188, 189, 189, 190, 190]
+    line [185, 185, 185, 185, 185, 187, 187, 188, 188, 189, 189, 190, 190, 190]
   ```
 
   </details>
@@ -1978,9 +1961,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [162, 163, 163, 163, 163, 163, 163, 164, 164, 164, 164, 164, 164]
+    line [162, 163, 163, 163, 163, 163, 163, 164, 164, 164, 164, 164, 164, 164]
   ```
 
   </details>
@@ -1995,9 +1978,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [66, 66, 67, 67, 67, 67, 68, 68, 68, 69, 69, 69, 71]
+    line [66, 66, 67, 67, 67, 67, 68, 68, 68, 69, 69, 69, 71, 71]
   ```
 
   </details>
@@ -2012,9 +1995,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [54, 54, 56, 57, 57, 59, 59, 59, 59, 59, 59, 59, 59]
+    line [54, 54, 56, 57, 57, 59, 59, 59, 59, 59, 59, 59, 59, 59]
   ```
 
   </details>
@@ -2029,9 +2012,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [41, 41, 41, 43, 44, 44, 45, 45, 45, 45, 45, 46, 46]
+    line [41, 41, 41, 43, 44, 44, 45, 45, 45, 45, 45, 46, 46, 46]
   ```
 
   </details>
@@ -2046,9 +2029,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [34, 35, 37, 37, 37, 37, 38, 39, 39, 39, 39, 39, 39]
+    line [34, 35, 37, 37, 37, 37, 38, 39, 39, 39, 39, 39, 39, 39]
   ```
 
   </details>
@@ -2063,9 +2046,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [33, 33, 33, 35, 35, 35, 35, 35, 35, 35, 35, 37, 37]
+    line [33, 33, 33, 35, 35, 35, 35, 35, 35, 35, 35, 37, 37, 37]
   ```
 
   </details>
@@ -2080,9 +2063,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [27, 27, 27, 28, 28, 29, 29, 29, 29, 29, 29, 29, 30]
+    line [27, 27, 27, 28, 28, 29, 29, 29, 29, 29, 29, 29, 30, 30]
   ```
 
   </details>
@@ -2097,9 +2080,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [19, 20, 20, 21, 22, 22, 23, 23, 23, 23, 23, 24, 24]
+    line [19, 20, 20, 21, 22, 22, 23, 23, 23, 23, 23, 24, 24, 24]
   ```
 
   </details>
@@ -2114,26 +2097,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [10, 10, 12, 12, 12, 12, 12, 12, 15, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-60827-graph"></a>
-### Providing other analysis_options.yaml to dart analyze
-  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    line [10, 10, 12, 12, 12, 12, 12, 12, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -2148,9 +2114,26 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11]
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-60827-graph"></a>
+### Providing other analysis_options.yaml to dart analyze
+  <sub>[dart-lang/sdk#60827](https://github.com/dart-lang/sdk/issues/60827) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
