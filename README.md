@@ -2,16 +2,16 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-05-19 to 2025-08-19.
+Issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 512 | [512](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 604 | [348](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 801 | [251](#flutter-flutter-101479-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 83 | [83](#flutter-flutter-172561-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [56](#flutter-flutter-165502-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 49 | [49](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 50 | [50](#flutter-flutter-170820-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 196 | [43](#dart-lang-language-4271-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1197 | [42](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2265 | [35](#dart-lang-language-314-graph)
@@ -28,7 +28,7 @@ Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-framework` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-design` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`f: cupertino` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 512 | [512](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/fl
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,14 +114,14 @@ Flutter needs a way to test real IME text input behavior [flutter/flutter#131510
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-go_router` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-tool` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,10 +143,10 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-engine` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 49 | [49](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 50 | [50](#flutter-flutter-170820-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 38 | [20](#flutter-flutter-166248-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 219 | [9](#flutter-flutter-61229-graph)
@@ -166,7 +166,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-ios` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,14 +188,14 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-android` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 40 | [24](#flutter-flutter-153075-graph)
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 17 | [17](#flutter-flutter-169215-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 69 | [16](#flutter-flutter-139427-graph)
-[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 13 | [13](#flutter-flutter-171583-graph)
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 14 | [14](#flutter-flutter-171583-graph)
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 13 | [13](#flutter-flutter-169746-graph)
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [7](#flutter-flutter-91247-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 44 | [6](#flutter-flutter-104268-graph)
@@ -210,11 +210,11 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-web` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 83 | [83](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [11](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 290 | [10](#flutter-flutter-45296-graph)
@@ -232,7 +232,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,11 +254,11 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`team-ecosystem` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 83 | [83](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [11](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 290 | [10](#flutter-flutter-45296-graph)
@@ -276,7 +276,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`dart-lang/sdk` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://githu
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-05-19 to 2025-08-19.
+`dart-lang/language` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -373,7 +373,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
-  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 79 total reactions, 79 recent reactions</sub><br />
+  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 83 total reactions, 83 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -382,7 +382,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 78, 79, 79]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 78, 79, 83]
   ```
 
   </details>
@@ -407,7 +407,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
-  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 49 total reactions, 49 recent reactions</sub><br />
+  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 50 total reactions, 50 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -416,7 +416,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43, 47, 49, 49]
+    line [0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43, 47, 49, 50]
   ```
 
   </details>
@@ -917,7 +917,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
 <a name="flutter-flutter-171583-graph"></a>
 ### [video_player] on [android] issue with seekTo
-  <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -926,7 +926,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14]
   ```
 
   </details>
