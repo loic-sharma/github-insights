@@ -9,9 +9,9 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 512 | [512](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 604 | [348](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 801 | [251](#flutter-flutter-101479-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 83 | [83](#flutter-flutter-172561-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [56](#flutter-flutter-165502-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 49 | [49](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 50 | [50](#flutter-flutter-170820-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 196 | [43](#dart-lang-language-4271-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1197 | [42](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2265 | [35](#dart-lang-language-314-graph)
@@ -20,7 +20,7 @@ Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch brow
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 30 | [30](#flutter-flutter-172434-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 200 | [25](#dart-lang-sdk-55281-graph)
-Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 25 | [25](#dart-lang-language-4404-graph)
+Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 25 | [25](#dart-lang-language-4462-graph)
 
 ## Trending issues by team
 
@@ -46,7 +46,7 @@ Allow Hero widgets to have transitions within the same screen [flutter/flutter#5
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 63 | [7](#flutter-flutter-140586-graph)
 Opt a subtree out of hitTestSelf culling [flutter/flutter#75747](https://github.com/flutter/flutter/issues/75747) | 107 | [6](#flutter-flutter-75747-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 241 | [5](#flutter-flutter-138614-graph)
-Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 164 | [5](#flutter-flutter-32120-graph)
+PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 175 | [5](#flutter-flutter-29749-graph)
 
 #### Design
 
@@ -146,7 +146,7 @@ Building all integration test targets into a single application binary [flutter/
 `team-engine` issues that received the most reactions from 2025-05-19 to 2025-08-20.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 49 | [49](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 50 | [50](#flutter-flutter-170820-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 38 | [20](#flutter-flutter-166248-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 219 | [9](#flutter-flutter-61229-graph)
@@ -214,13 +214,13 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 83 | [83](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [11](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 290 | [10](#flutter-flutter-45296-graph)
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 205 | [9](#flutter-flutter-69529-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 95 | [9](#flutter-flutter-149031-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 223 | [8](#flutter-flutter-55324-graph)
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 204 | [8](#flutter-flutter-69529-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 52 | [6](#flutter-flutter-152588-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 36 | [6](#flutter-flutter-150743-graph)
@@ -258,13 +258,13 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 79 | [79](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 83 | [83](#flutter-flutter-172561-graph)
 Flutter Web fails to launch Chrome or Edge on Windows 11 ("Failed to launch browser after 3 tries") [flutter/flutter#171436](https://github.com/flutter/flutter/issues/171436) | 32 | [32](#flutter-flutter-171436-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [11](#flutter-flutter-46789-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 290 | [10](#flutter-flutter-45296-graph)
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 205 | [9](#flutter-flutter-69529-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 95 | [9](#flutter-flutter-149031-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 223 | [8](#flutter-flutter-55324-graph)
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 204 | [8](#flutter-flutter-69529-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 52 | [6](#flutter-flutter-152588-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 36 | [6](#flutter-flutter-150743-graph)
@@ -306,14 +306,14 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1197 | [42](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2265 | [35](#dart-lang-language-314-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1097 | [35](#dart-lang-language-357-graph)
-Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 25 | [25](#dart-lang-language-4404-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 25 | [25](#dart-lang-language-4462-graph)
+Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 25 | [25](#dart-lang-language-4404-graph)
 Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 22 | [22](#dart-lang-language-4426-graph)
 More concise syntax for defining sealed families [dart-lang/language#3021](https://github.com/dart-lang/language/issues/3021) | 101 | [20](#dart-lang-language-3021-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 551 | [16](#dart-lang-language-83-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 258 | [15](#dart-lang-language-2364-graph)
-Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 15 | [15](#dart-lang-language-4437-graph)
 Allow instance and metaobject members in one declaration? [dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) | 15 | [15](#dart-lang-language-4403-graph)
+Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 15 | [15](#dart-lang-language-4437-graph)
 Make the getter of a final instance variable in a constant receiver a constant expression [dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) | 14 | [14](#dart-lang-language-4455-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 357 | [12](#dart-lang-language-1122-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 15 | [12](#dart-lang-language-4383-graph)
@@ -373,7 +373,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
-  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 79 total reactions, 79 recent reactions</sub><br />
+  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 83 total reactions, 83 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -382,7 +382,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 78, 79, 79]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 54, 56, 78, 79, 83]
   ```
 
   </details>
@@ -407,7 +407,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
 
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
-  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 49 total reactions, 49 recent reactions</sub><br />
+  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 50 total reactions, 50 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -416,7 +416,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43, 47, 49, 49]
+    line [0, 0, 0, 0, 0, 19, 23, 29, 35, 40, 43, 47, 49, 50]
   ```
 
   </details>
@@ -558,23 +558,6 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
-<a name="dart-lang-language-4404-graph"></a>
-### Define local enums
-  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 25 total reactions, 25 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
-    y-axis "Reactions"
-    line [0, 0, 0, 22, 23, 24, 24, 24, 24, 24, 24, 24, 25, 25]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4462-graph"></a>
 ### Private Named Parameters
   <sub>[dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) &mdash; 25 total reactions, 25 recent reactions</sub><br />
@@ -587,6 +570,23 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 18, 20, 21, 22, 25, 25]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4404-graph"></a>
+### Define local enums
+  <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 25 total reactions, 25 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
+    y-axis "Reactions"
+    line [0, 0, 0, 22, 23, 24, 24, 24, 24, 24, 24, 24, 25, 25]
   ```
 
   </details>
@@ -830,23 +830,6 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
-<a name="dart-lang-language-4437-graph"></a>
-### Feature Request: Support object shorthand syntax in Dart
-  <sub>[dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4403-graph"></a>
 ### Allow instance and metaobject members in one declaration?
   <sub>[dart-lang/language#4403](https://github.com/dart-lang/language/issues/4403) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -859,6 +842,23 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4437-graph"></a>
+### Feature Request: Support object shorthand syntax in Dart
+  <sub>[dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 11, 12, 13, 13, 13, 15, 15, 15]
   ```
 
   </details>
@@ -1119,6 +1119,23 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
+<a name="flutter-flutter-69529-graph"></a>
+### [web] Scroll is not recognized by the browser
+  <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 205 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
+    y-axis "Reactions"
+    line [197, 197, 197, 200, 200, 201, 202, 202, 203, 203, 203, 204, 204, 205]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-65065-graph"></a>
 ### Bundling assets only on a specific platform (and remove assets on another platform)
   <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 168 total reactions, 9 recent reactions</sub><br />
@@ -1250,23 +1267,6 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
     line [208, 208, 208, 210, 210, 210, 210, 210, 211, 212, 214, 214, 216, 216]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-69529-graph"></a>
-### [web] Scroll is not recognized by the browser
-  <sub>[flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) &mdash; 204 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
-    y-axis "Reactions"
-    line [197, 197, 197, 200, 200, 201, 202, 202, 203, 203, 203, 204, 204, 204]
   ```
 
   </details>
@@ -1952,9 +1952,9 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   </details>
   </sub>
 
-<a name="flutter-flutter-32120-graph"></a>
-### Add option to smoothly animate stepped mouse scroll deltas
-  <sub>[flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) &mdash; 164 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-29749-graph"></a>
+### PageView with height based on current child
+  <sub>[flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) &mdash; 175 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1963,7 +1963,7 @@ Feature request: `defer` statement [dart-lang/language#4383](https://github.com/
   xychart-beta
     x-axis "Week" [May 19, May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18]
     y-axis "Reactions"
-    line [162, 163, 163, 163, 163, 163, 163, 164, 164, 164, 164, 164, 164, 164]
+    line [170, 170, 171, 171, 171, 171, 172, 172, 172, 173, 173, 174, 174, 175]
   ```
 
   </details>
