@@ -17,8 +17,8 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 32 | [32](#flutter-flutter-172434-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 197 | [29](#dart-lang-language-4271-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
-Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 26 | [26](#dart-lang-language-4462-graph)
 Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 26 | [26](#dart-lang-language-4404-graph)
+Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 26 | [26](#dart-lang-language-4462-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1098 | [23](#dart-lang-language-357-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 201 | [23](#dart-lang-sdk-55281-graph)
 
@@ -149,7 +149,7 @@ Issue | Total reactions | Recent reactions
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 53 | [53](#flutter-flutter-170820-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 41 | [23](#flutter-flutter-166248-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 219 | [9](#flutter-flutter-61229-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 220 | [10](#flutter-flutter-61229-graph)
 Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 23 | [9](#flutter-flutter-162147-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 50 | [8](#flutter-flutter-146860-graph)
 Import multiple Flutter modules in a native app [flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) | 199 | [7](#flutter-flutter-39707-graph)
@@ -305,8 +305,8 @@ Issue | Total reactions | Recent reactions
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1199 | [39](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2265 | [34](#dart-lang-language-314-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 197 | [29](#dart-lang-language-4271-graph)
-Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 26 | [26](#dart-lang-language-4462-graph)
 Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 26 | [26](#dart-lang-language-4404-graph)
+Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 26 | [26](#dart-lang-language-4462-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1098 | [23](#dart-lang-language-357-graph)
 Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 22 | [22](#dart-lang-language-4426-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 551 | [15](#dart-lang-language-83-graph)
@@ -507,23 +507,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="dart-lang-language-4462-graph"></a>
-### Private Named Parameters
-  <sub>[dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 18, 20, 21, 22, 25, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4404-graph"></a>
 ### Define local enums
   <sub>[dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) &mdash; 26 total reactions, 26 recent reactions</sub><br />
@@ -536,6 +519,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
     line [0, 0, 22, 23, 24, 24, 24, 24, 24, 24, 24, 25, 26, 26]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4462-graph"></a>
+### Private Named Parameters
+  <sub>[dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) &mdash; 26 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 18, 20, 21, 22, 25, 26, 26]
   ```
 
   </details>
@@ -796,23 +796,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="dart-lang-language-4455-graph"></a>
-### Make the getter of a final instance variable in a constant receiver a constant expression
-  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-171583-graph"></a>
 ### [video_player] on [android] issue with seekTo
   <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -825,6 +808,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4455-graph"></a>
+### Make the getter of a final instance variable in a constant receiver a constant expression
+  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1000,6 +1000,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 220 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
+    y-axis "Reactions"
+    line [210, 210, 211, 211, 211, 212, 214, 216, 217, 218, 219, 219, 219, 220]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-161687-graph"></a>
 ### Cupertino Sheet should have drag to dismiss and nested scrolling work together
   <sub>[flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) &mdash; 29 total reactions, 10 recent reactions</sub><br />
@@ -1029,23 +1046,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions" 0 --> 20
     line [5, 5, 11, 12, 12, 12, 12, 15, 15, 15, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 219 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
-    y-axis "Reactions"
-    line [210, 210, 211, 211, 211, 212, 214, 216, 217, 218, 219, 219, 219, 219]
   ```
 
   </details>
@@ -1799,23 +1799,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="flutter-flutter-45296-graph"></a>
-### [path_provider] Add support for web
-  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 290 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
-    y-axis "Reactions"
-    line [285, 285, 285, 287, 287, 287, 287, 287, 287, 287, 288, 290, 290, 290]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-28901-graph"></a>
 ### Flutter support for Apple Watch
   <sub>[flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) &mdash; 290 total reactions, 5 recent reactions</sub><br />
@@ -1828,6 +1811,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
     line [285, 285, 285, 285, 285, 289, 289, 289, 289, 289, 290, 290, 290, 290]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-45296-graph"></a>
+### [path_provider] Add support for web
+  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 290 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
+    y-axis "Reactions"
+    line [285, 285, 285, 287, 287, 287, 287, 287, 287, 287, 288, 290, 290, 290]
   ```
 
   </details>
