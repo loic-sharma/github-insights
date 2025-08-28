@@ -6,16 +6,16 @@ Issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 516 | [516](#flutter-flutter-170310-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 605 | [255](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 517 | [517](#flutter-flutter-170310-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 612 | [262](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 806 | [250](#flutter-flutter-101479-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 84 | [84](#flutter-flutter-172561-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 56 | [56](#flutter-flutter-170820-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [51](#flutter-flutter-165502-graph)
-[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 40 | [40](#flutter-flutter-174437-graph)
+[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 45 | [45](#flutter-flutter-174437-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1199 | [39](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2265 | [34](#dart-lang-language-314-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 33 | [33](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 34 | [34](#flutter-flutter-172434-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 197 | [29](#dart-lang-language-4271-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 27 | [27](#dart-lang-language-4462-graph)
@@ -54,8 +54,8 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 516 | [516](#flutter-flutter-170310-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 605 | [255](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 517 | [517](#flutter-flutter-170310-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 612 | [262](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 806 | [250](#flutter-flutter-101479-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [51](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 69 | [22](#flutter-flutter-97496-graph)
@@ -66,16 +66,16 @@ Use a system default font on flutter [flutter/flutter#48381](https://github.com/
 Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) | 94 | [8](#flutter-flutter-119328-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 305 | [6](#flutter-flutter-21594-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 271 | 4
+Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/flutter/flutter/issues/108973) | 31 | 4
 Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 4
 Investigate adaptive width and alignment properties for SnackBar [flutter/flutter#113039](https://github.com/flutter/flutter/issues/113039) | 19 | 4
-(Material3) Cannot Theme `FilledButton` and `FilledButton.tonal` Variants Separately [flutter/flutter#118063](https://github.com/flutter/flutter/issues/118063) | 30 | 3
 
 #### Cupertino
 
 `f: cupertino` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 516 | [516](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 517 | [517](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 806 | [250](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 60 | [18](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [10](#flutter-flutter-161687-graph)
@@ -129,7 +129,7 @@ Issue | Total reactions | Recent reactions
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 163 | [9](#flutter-flutter-46979-graph)
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 88 | [9](#flutter-flutter-77104-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 189 | [8](#flutter-flutter-139289-graph)
-Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 168 | [6](#flutter-flutter-65065-graph)
+Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 169 | [7](#flutter-flutter-65065-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 121 | [6](#flutter-flutter-107157-graph)
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 24 | [6](#flutter-flutter-102387-graph)
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 22 | [5](#flutter-flutter-118635-graph)
@@ -154,8 +154,8 @@ TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#1468
 Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 23 | [9](#flutter-flutter-162147-graph)
 Import multiple Flutter modules in a native app [flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) | 199 | [7](#flutter-flutter-39707-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 57 | [7](#flutter-flutter-127852-graph)
+Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 42 | [7](#flutter-flutter-150525-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 444 | [6](#flutter-flutter-66618-graph)
-Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 41 | [6](#flutter-flutter-150525-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 321 | [5](#flutter-flutter-18443-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 190 | [5](#flutter-flutter-14288-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2026 | 4
@@ -170,7 +170,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 33 | [33](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 34 | [34](#flutter-flutter-172434-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 56 | [21](#flutter-flutter-163845-graph)
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 87 | [7](#flutter-flutter-69157-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 151 | [6](#flutter-flutter-28894-graph)
@@ -215,7 +215,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 84 | [84](#flutter-flutter-172561-graph)
-[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 40 | [40](#flutter-flutter-174437-graph)
+[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 45 | [45](#flutter-flutter-174437-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [10](#flutter-flutter-46789-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 205 | [8](#flutter-flutter-69529-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 95 | [7](#flutter-flutter-149031-graph)
@@ -239,10 +239,10 @@ Issue | Total reactions | Recent reactions
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 462 | [13](#flutter-flutter-31713-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 340 | [9](#flutter-flutter-37597-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 216 | [8](#flutter-flutter-41980-graph)
+Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 83 | [5](#flutter-flutter-77638-graph)
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 70 | [5](#flutter-flutter-94804-graph)
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 24 | [5](#flutter-flutter-136417-graph)
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 221 | 4
-Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 82 | 4
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 60 | 4
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 25 | 3
@@ -259,7 +259,7 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 84 | [84](#flutter-flutter-172561-graph)
-[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 40 | [40](#flutter-flutter-174437-graph)
+[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 45 | [45](#flutter-flutter-174437-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [10](#flutter-flutter-46789-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 205 | [8](#flutter-flutter-69529-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 95 | [7](#flutter-flutter-149031-graph)
@@ -322,7 +322,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 516 total reactions, 516 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 517 total reactions, 517 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
-    line [0, 0, 355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 516]
+    line [0, 0, 355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 517]
   ```
 
   </details>
@@ -339,7 +339,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 605 total reactions, 255 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 612 total reactions, 262 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
-    line [404, 441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 605]
+    line [404, 441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 612]
   ```
 
   </details>
@@ -424,7 +424,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-174437-graph"></a>
 ### [Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2
-  <sub>[flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) &mdash; 40 total reactions, 40 recent reactions</sub><br />
+  <sub>[flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) &mdash; 45 total reactions, 45 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -433,7 +433,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 45]
   ```
 
   </details>
@@ -475,7 +475,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 33 total reactions, 33 recent reactions</sub><br />
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 34 total reactions, 34 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -484,7 +484,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 23, 25, 29, 31, 33]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 23, 25, 29, 31, 34]
   ```
 
   </details>
@@ -1425,6 +1425,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-65065-graph"></a>
+### Bundling assets only on a specific platform (and remove assets on another platform)
+  <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 169 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
+    y-axis "Reactions"
+    line [162, 162, 162, 162, 162, 162, 163, 164, 165, 165, 165, 168, 168, 169]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-149031-graph"></a>
 ### [WEB] Web Cache invalidation based on pubspec.yaml version
   <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 95 total reactions, 7 recent reactions</sub><br />
@@ -1544,6 +1561,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-150525-graph"></a>
+### Merge the platform and UI threads
+  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 42 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
+    y-axis "Reactions"
+    line [35, 37, 37, 37, 37, 38, 39, 39, 39, 39, 39, 39, 40, 42]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-66618-graph"></a>
 ### WebGPU in Flutter
   <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 444 total reactions, 6 recent reactions</sub><br />
@@ -1590,23 +1624,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
     line [219, 219, 219, 220, 220, 220, 221, 222, 223, 223, 223, 223, 223, 224]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65065-graph"></a>
-### Bundling assets only on a specific platform (and remove assets on another platform)
-  <sub>[flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) &mdash; 168 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
-    y-axis "Reactions"
-    line [162, 162, 162, 162, 162, 162, 163, 164, 165, 165, 165, 168, 168, 168]
   ```
 
   </details>
@@ -1709,23 +1726,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
     line [47, 47, 47, 47, 50, 51, 51, 51, 52, 52, 52, 52, 52, 52]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-150525-graph"></a>
-### Merge the platform and UI threads
-  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 41 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
-    y-axis "Reactions"
-    line [35, 37, 37, 37, 37, 38, 39, 39, 39, 39, 39, 39, 40, 41]
   ```
 
   </details>
@@ -1947,6 +1947,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
     line [87, 87, 87, 87, 87, 87, 87, 88, 88, 88, 88, 89, 92, 92]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-77638-graph"></a>
+### Avoid requiring Visual Studio for Windows development
+  <sub>[flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) &mdash; 83 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
+    y-axis "Reactions"
+    line [78, 78, 79, 79, 79, 79, 79, 79, 80, 81, 81, 81, 81, 83]
   ```
 
   </details>
