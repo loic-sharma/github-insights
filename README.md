@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-05-26 to 2025-08-27.
+Issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -12,10 +12,10 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 84 | [84](#flutter-flutter-172561-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 56 | [56](#flutter-flutter-170820-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [51](#flutter-flutter-165502-graph)
+[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 40 | [40](#flutter-flutter-174437-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1199 | [39](#dart-lang-language-723-graph)
-[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 39 | [39](#flutter-flutter-174437-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2265 | [34](#dart-lang-language-314-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 32 | [32](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 33 | [33](#flutter-flutter-172434-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 197 | [29](#dart-lang-language-4271-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 27 | [27](#dart-lang-language-4462-graph)
@@ -28,7 +28,7 @@ Define local enums [dart-lang/language#4404](https://github.com/dart-lang/langua
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-framework` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-design` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`f: cupertino` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 516 | [516](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-go_router` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-tool` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-engine` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 56 | [56](#flutter-flutter-170820-graph)
@@ -166,11 +166,11 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-ios` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 32 | [32](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 33 | [33](#flutter-flutter-172434-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 56 | [21](#flutter-flutter-163845-graph)
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 87 | [7](#flutter-flutter-69157-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 151 | [6](#flutter-flutter-28894-graph)
@@ -188,7 +188,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-android` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,12 +210,12 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-web` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 84 | [84](#flutter-flutter-172561-graph)
-[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 39 | [39](#flutter-flutter-174437-graph)
+[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 40 | [40](#flutter-flutter-174437-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [10](#flutter-flutter-46789-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 205 | [8](#flutter-flutter-69529-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 95 | [7](#flutter-flutter-149031-graph)
@@ -232,7 +232,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,12 +254,12 @@ On macOS Sequoia - [tool_crash] SocketException: Send failed, OS Error: No route
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`team-ecosystem` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 84 | [84](#flutter-flutter-172561-graph)
-[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 39 | [39](#flutter-flutter-174437-graph)
+[Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2 [flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) | 40 | [40](#flutter-flutter-174437-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 878 | [10](#flutter-flutter-46789-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 205 | [8](#flutter-flutter-69529-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 95 | [7](#flutter-flutter-149031-graph)
@@ -276,7 +276,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`dart-lang/sdk` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://githu
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-05-26 to 2025-08-27.
+`dart-lang/language` issues that received the most reactions from 2025-05-26 to 2025-08-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -422,6 +422,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-174437-graph"></a>
+### [Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2
+  <sub>[flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) &mdash; 40 total reactions, 40 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 40]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
   <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1199 total reactions, 39 recent reactions</sub><br />
@@ -434,23 +451,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
     line [1161, 1163, 1163, 1164, 1166, 1170, 1170, 1172, 1175, 1176, 1176, 1196, 1198, 1199]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174437-graph"></a>
-### [Web]: App throws `DebugService: Error serving requestsError: Unsupported operation: Cannot send Null` error in console after upgrading to 3.35.2
-  <sub>[flutter/flutter#174437](https://github.com/flutter/flutter/issues/174437) &mdash; 39 total reactions, 39 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 39]
   ```
 
   </details>
@@ -475,7 +475,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 32 total reactions, 32 recent reactions</sub><br />
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 33 total reactions, 33 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -484,7 +484,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [May 26, Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 23, 25, 29, 31, 32]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 23, 25, 29, 31, 33]
   ```
 
   </details>
