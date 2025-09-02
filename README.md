@@ -289,11 +289,11 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 98 | [6](#dart-lang-sdk-53402-graph)
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
+Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | [5](#dart-lang-sdk-34050-graph)
 [cli] Introduce `dart install` (replacing `dart pub global activate` to use) [dart-lang/sdk#60889](https://github.com/dart-lang/sdk/issues/60889) | 9 | [5](#dart-lang-sdk-60889-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 208 | 4
-Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 33 | 4
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | 4
 
 ### Dart language
@@ -1731,23 +1731,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="flutter-flutter-28901-graph"></a>
-### Flutter support for Apple Watch
-  <sub>[flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) &mdash; 290 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
-    y-axis "Reactions"
-    line [285, 285, 285, 285, 289, 289, 289, 289, 289, 290, 290, 290, 290, 290]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-45296-graph"></a>
 ### [path_provider] Add support for web
   <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 290 total reactions, 5 recent reactions</sub><br />
@@ -1760,6 +1743,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
     line [285, 285, 287, 287, 287, 287, 287, 287, 287, 288, 290, 290, 290, 290]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-28901-graph"></a>
+### Flutter support for Apple Watch
+  <sub>[flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) &mdash; 290 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [285, 285, 285, 285, 289, 289, 289, 289, 289, 290, 290, 290, 290, 290]
   ```
 
   </details>
@@ -1947,6 +1947,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
     line [39, 40, 41, 41, 41, 41, 41, 43, 44, 44, 44, 44, 44, 44]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-34050-graph"></a>
+### Add Stream.whereType like Iterable.whereType
+  <sub>[dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) &mdash; 34 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [30, 30, 30, 30, 30, 31, 32, 32, 32, 32, 33, 33, 33, 34]
   ```
 
   </details>
