@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-06-02 to 2025-09-02.
+Issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-framework` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-design` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Widget test issue with DropdownButton [flutter/flutter#89905](https://github.com
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`f: cupertino` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 519 | [519](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-go_router` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-tool` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-engine` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 56 | [56](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-ios` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-android` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-web` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Support stylus input on Windows 10 devices [flutter/flutter#65248](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`team-ecosystem` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`dart-lang/sdk` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Dart-defines should generate a warning when not const [dart-lang/sdk#42177](http
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-06-02 to 2025-09-02.
+`dart-lang/language` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
