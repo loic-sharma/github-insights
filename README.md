@@ -6,9 +6,9 @@ Issues that received the most reactions from 2025-06-02 to 2025-09-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 519 | [519](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 809 | [243](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 616 | [207](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 523 | [523](#flutter-flutter-170310-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 810 | [244](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 617 | [208](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 93 | [93](#flutter-flutter-172561-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 56 | [56](#flutter-flutter-170820-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [48](#flutter-flutter-165502-graph)
@@ -42,8 +42,8 @@ Allow Hero widgets to have transitions within the same screen [flutter/flutter#5
 ListView: Poor performance with many variable-extent items + jumpTo (scroll bar, trackpad, mouse wheels) [flutter/flutter#52207](https://github.com/flutter/flutter/issues/52207) | 170 | [7](#flutter-flutter-52207-graph)
 Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.com/flutter/flutter/issues/50763) | 92 | [5](#flutter-flutter-50763-graph)
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 63 | [5](#flutter-flutter-140586-graph)
-NestedScrollView in DraggableScrollableSheet not working [flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) | 48 | [5](#flutter-flutter-64157-graph)
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 48 | [5](#flutter-flutter-131625-graph)
+NestedScrollView in DraggableScrollableSheet not working [flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) | 48 | [5](#flutter-flutter-64157-graph)
 AnimatedSwitcher should be more customizable [flutter/flutter#26119](https://github.com/flutter/flutter/issues/26119) | 29 | [5](#flutter-flutter-26119-graph)
 PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 175 | 4
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 134 | 4
@@ -54,9 +54,9 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 519 | [519](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 809 | [243](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 616 | [207](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 523 | [523](#flutter-flutter-170310-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 810 | [244](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 617 | [208](#flutter-flutter-168813-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [48](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 69 | [22](#flutter-flutter-97496-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 61 | [19](#flutter-flutter-53059-graph)
@@ -75,8 +75,8 @@ Widget test issue with DropdownButton [flutter/flutter#89905](https://github.com
 `f: cupertino` issues that received the most reactions from 2025-06-02 to 2025-09-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 519 | [519](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 809 | [243](#flutter-flutter-101479-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 523 | [523](#flutter-flutter-170310-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 810 | [244](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 61 | [19](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [9](#flutter-flutter-161687-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 30 | 3
@@ -97,10 +97,10 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
+[IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 4
 Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 114 | 3
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 3
-[IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 90 | 3
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 131 | 2
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 25 | 2
@@ -152,9 +152,9 @@ Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/f
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 223 | [13](#flutter-flutter-61229-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 51 | [9](#flutter-flutter-146860-graph)
 Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 23 | [9](#flutter-flutter-162147-graph)
+Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 539 | [7](#flutter-flutter-26801-graph)
 Import multiple Flutter modules in a native app [flutter/flutter#39707](https://github.com/flutter/flutter/issues/39707) | 199 | [7](#flutter-flutter-39707-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 42 | [7](#flutter-flutter-150525-graph)
-Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 538 | [6](#flutter-flutter-26801-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 191 | [6](#flutter-flutter-14288-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 58 | [6](#flutter-flutter-127852-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 27 | [6](#flutter-flutter-148026-graph)
@@ -174,8 +174,8 @@ in app purchase in iOS always return status == PurchaseStatus.restored when purc
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 57 | [20](#flutter-flutter-163845-graph)
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 87 | [7](#flutter-flutter-69157-graph)
 [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed  [flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) | 54 | [6](#flutter-flutter-85529-graph)
+Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 359 | [5](#flutter-flutter-110431-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 290 | [5](#flutter-flutter-28901-graph)
-Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 358 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 22 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 151 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 114 | 3
@@ -219,15 +219,15 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 206 | [9](#flutter-flutter-69529-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 96 | [7](#flutter-flutter-149031-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 291 | [6](#flutter-flutter-45296-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 53 | [6](#flutter-flutter-152588-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 36 | [6](#flutter-flutter-150743-graph)
-[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 290 | [5](#flutter-flutter-45296-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 224 | [5](#flutter-flutter-55324-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 46 | [5](#flutter-flutter-156910-graph)
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 24 | [5](#flutter-flutter-154344-graph)
+[IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 4
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 174 | 3
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 3
-[IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 90 | 3
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | 3
 
 #### Desktop
@@ -263,15 +263,15 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 206 | [9](#flutter-flutter-69529-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 96 | [7](#flutter-flutter-149031-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 291 | [6](#flutter-flutter-45296-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 53 | [6](#flutter-flutter-152588-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 36 | [6](#flutter-flutter-150743-graph)
-[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 290 | [5](#flutter-flutter-45296-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 224 | [5](#flutter-flutter-55324-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 46 | [5](#flutter-flutter-156910-graph)
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 24 | [5](#flutter-flutter-154344-graph)
+[IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 4
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 174 | 3
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 3
-[IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 90 | 3
 [google_maps_flutter_web] Add "My Location" Widget. [flutter/flutter#64073](https://github.com/flutter/flutter/issues/64073) | 55 | 3
 
 ### Dart SDK
@@ -322,7 +322,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 519 total reactions, 519 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 523 total reactions, 523 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
-    line [0, 355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 519]
+    line [0, 355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 523]
   ```
 
   </details>
@@ -339,7 +339,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 809 total reactions, 243 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 810 total reactions, 244 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
-    line [567, 617, 627, 630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 809]
+    line [567, 617, 627, 630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 810]
   ```
 
   </details>
@@ -356,7 +356,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 616 total reactions, 207 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 617 total reactions, 208 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
-    line [441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 616]
+    line [441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 617]
   ```
 
   </details>
@@ -762,23 +762,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="dart-lang-language-4455-graph"></a>
-### Make the getter of a final instance variable in a constant receiver a constant expression
-  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-171583-graph"></a>
 ### [video_player] on [android] issue with seekTo
   <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -791,6 +774,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4455-graph"></a>
+### Make the getter of a final instance variable in a constant receiver a constant expression
+  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1272,6 +1272,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-26801-graph"></a>
+### Apple CarPlay / Android Auto support?
+  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 539 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [533, 534, 534, 534, 532, 534, 534, 534, 534, 534, 535, 535, 536, 539]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-37597-graph"></a>
 ### [webview_flutter] Add Windows support
   <sub>[flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) &mdash; 340 total reactions, 7 recent reactions</sub><br />
@@ -1493,9 +1510,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="flutter-flutter-26801-graph"></a>
-### Apple CarPlay / Android Auto support?
-  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 538 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-45296-graph"></a>
+### [path_provider] Add support for web
+  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 291 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1504,7 +1521,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
-    line [533, 534, 534, 534, 532, 534, 534, 534, 534, 534, 535, 535, 536, 538]
+    line [285, 285, 287, 287, 287, 287, 287, 287, 287, 288, 290, 290, 290, 291]
   ```
 
   </details>
@@ -1697,6 +1714,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-110431-graph"></a>
+### Flutter adds additional one frame touch latency compared to native
+  <sub>[flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) &mdash; 359 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [355, 355, 356, 356, 356, 356, 356, 357, 358, 358, 358, 358, 358, 359]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-21594-graph"></a>
 ### Table > TableRow > TableCell colspan
   <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 305 total reactions, 5 recent reactions</sub><br />
@@ -1709,23 +1743,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
     line [300, 300, 301, 301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 305]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-45296-graph"></a>
-### [path_provider] Add support for web
-  <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 290 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
-    y-axis "Reactions"
-    line [285, 285, 287, 287, 287, 287, 287, 287, 287, 288, 290, 290, 290, 290]
   ```
 
   </details>
@@ -1867,23 +1884,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="flutter-flutter-64157-graph"></a>
-### NestedScrollView in DraggableScrollableSheet not working
-  <sub>[flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) &mdash; 48 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
-    y-axis "Reactions"
-    line [43, 43, 43, 43, 45, 45, 45, 45, 47, 47, 48, 48, 48, 48]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-131625-graph"></a>
 ### [go_router] support popUntil
   <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 48 total reactions, 5 recent reactions</sub><br />
@@ -1896,6 +1896,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
     line [43, 44, 45, 45, 45, 45, 45, 47, 47, 47, 47, 47, 47, 48]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-64157-graph"></a>
+### NestedScrollView in DraggableScrollableSheet not working
+  <sub>[flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) &mdash; 48 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [43, 43, 43, 43, 45, 45, 45, 45, 47, 47, 48, 48, 48, 48]
   ```
 
   </details>
