@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 818 | [252](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 619 | [210](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 620 | [211](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 93 | [93](#flutter-flutter-172561-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 56 | [56](#flutter-flutter-170820-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [48](#flutter-flutter-165502-graph)
@@ -44,9 +44,9 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 [go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 63 | [5](#flutter-flutter-140586-graph)
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 48 | [5](#flutter-flutter-131625-graph)
 NestedScrollView in DraggableScrollableSheet not working [flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) | 48 | [5](#flutter-flutter-64157-graph)
+[go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 43 | [5](#flutter-flutter-133746-graph)
 AnimatedSwitcher should be more customizable [flutter/flutter#26119](https://github.com/flutter/flutter/issues/26119) | 29 | [5](#flutter-flutter-26119-graph)
 PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 175 | 4
-Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 134 | 4
 
 #### Design
 
@@ -56,7 +56,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 818 | [252](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 619 | [210](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 620 | [211](#flutter-flutter-168813-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [48](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 69 | [22](#flutter-flutter-97496-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [22](#flutter-flutter-53059-graph)
@@ -356,7 +356,7 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 619 total reactions, 210 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 620 total reactions, 211 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
   xychart-beta
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
-    line [441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 619]
+    line [441, 485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 620]
   ```
 
   </details>
@@ -1998,6 +1998,23 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
     line [39, 40, 41, 41, 41, 41, 41, 43, 44, 44, 44, 44, 44, 44]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-133746-graph"></a>
+### [go_router] Unwanted black screen when using async redirect.
+  <sub>[flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) &mdash; 43 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [39, 39, 39, 39, 39, 40, 40, 41, 41, 41, 41, 41, 41, 43]
   ```
 
   </details>
