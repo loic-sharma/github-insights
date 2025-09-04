@@ -6,7 +6,7 @@ Issues that received the most reactions from 2025-06-02 to 2025-09-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 524 | [524](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 817 | [251](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 619 | [210](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 93 | [93](#flutter-flutter-172561-graph)
@@ -54,7 +54,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 524 | [524](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 817 | [251](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 619 | [210](#flutter-flutter-168813-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [48](#flutter-flutter-165502-graph)
@@ -75,7 +75,7 @@ Better textFormField label placement customization when focused and when value i
 `f: cupertino` issues that received the most reactions from 2025-06-02 to 2025-09-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 524 | [524](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 817 | [251](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [22](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [9](#flutter-flutter-161687-graph)
@@ -192,7 +192,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 43 | [20](#flutter-flutter-153075-graph)
+[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 44 | [21](#flutter-flutter-153075-graph)
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 14 | [14](#flutter-flutter-171583-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 69 | [11](#flutter-flutter-139427-graph)
 One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 21 | [8](#flutter-flutter-168635-graph)
@@ -322,7 +322,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 524 total reactions, 524 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 525 total reactions, 525 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
-    line [0, 355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 524]
+    line [0, 355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 525]
   ```
 
   </details>
@@ -626,6 +626,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-153075-graph"></a>
+### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
+  <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 44 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [27, 28, 29, 30, 32, 34, 34, 36, 38, 39, 39, 40, 43, 44]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-163845-graph"></a>
 ### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
   <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 57 total reactions, 20 recent reactions</sub><br />
@@ -638,23 +655,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
     line [37, 42, 44, 44, 44, 45, 46, 46, 54, 55, 56, 56, 57, 57]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-153075-graph"></a>
-### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
-  <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 43 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
-    y-axis "Reactions"
-    line [27, 28, 29, 30, 32, 34, 34, 36, 38, 39, 39, 40, 43, 43]
   ```
 
   </details>
