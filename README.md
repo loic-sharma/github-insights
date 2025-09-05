@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-06-02 to 2025-09-04.
+Issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-framework` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PageView with height based on current child [flutter/flutter#29749](https://gith
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-design` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -65,14 +65,14 @@ Icon colors depending on the state for Chips [flutter/flutter#171649](https://gi
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [9](#flutter-flutter-161687-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 100 | [7](#flutter-flutter-48381-graph)
 Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) | 94 | [7](#flutter-flutter-119328-graph)
-Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 305 | [5](#flutter-flutter-21594-graph)
+Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 306 | [6](#flutter-flutter-21594-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 272 | [5](#flutter-flutter-18345-graph)
 Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/flutter/flutter/issues/108973) | 31 | 4
 Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 4
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`f: cupertino` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 85 | [7](#flutter-flutter-40682-graph)
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-go_router` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-tool` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-engine` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 56 | [56](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-ios` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-android` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-web` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,13 +248,13 @@ Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/f
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 18 | 3
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 17 | 3
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 666 | 2
-[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 2
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 47 | 2
+[feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 2
 [google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 29 | 2
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`team-ecosystem` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`dart-lang/sdk` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-06-02 to 2025-09-04.
+`dart-lang/language` issues that received the most reactions from 2025-06-02 to 2025-09-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -316,7 +316,7 @@ Make the getter of a final instance variable in a constant receiver a constant e
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 258 | [13](#dart-lang-language-2364-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 357 | [11](#dart-lang-language-1122-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 232 | [11](#dart-lang-language-399-graph)
-Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) | 74 | [11](#dart-lang-language-3192-graph)
+Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 207 | [11](#dart-lang-language-336-graph)
 
 ## Graphs
 
@@ -966,9 +966,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
   </details>
   </sub>
 
-<a name="dart-lang-language-3192-graph"></a>
-### Remove dynamic type
-  <sub>[dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) &mdash; 74 total reactions, 11 recent reactions</sub><br />
+<a name="dart-lang-language-336-graph"></a>
+### Static nested classes
+  <sub>[dart-lang/language#336](https://github.com/dart-lang/language/issues/336) &mdash; 207 total reactions, 11 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -977,7 +977,7 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
   xychart-beta
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
-    line [64, 64, 65, 67, 67, 67, 67, 67, 73, 73, 73, 74, 74, 74]
+    line [198, 200, 200, 201, 202, 203, 203, 203, 203, 203, 203, 204, 204, 207]
   ```
 
   </details>
@@ -1527,6 +1527,23 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
   </details>
   </sub>
 
+<a name="flutter-flutter-21594-graph"></a>
+### Table > TableRow > TableCell colspan
+  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 306 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [300, 300, 301, 301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 306]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-45296-graph"></a>
 ### [path_provider] Add support for web
   <sub>[flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) &mdash; 291 total reactions, 6 recent reactions</sub><br />
@@ -1760,23 +1777,6 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
     line [355, 355, 356, 356, 356, 356, 356, 357, 358, 358, 358, 358, 358, 359]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-21594-graph"></a>
-### Table > TableRow > TableCell colspan
-  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 305 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
-    y-axis "Reactions"
-    line [300, 300, 301, 301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 305]
   ```
 
   </details>
