@@ -15,7 +15,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1204 | [42](#dart-lang-language-723-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 35 | [35](#flutter-flutter-172434-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2267 | [34](#dart-lang-language-314-graph)
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 53 | [28](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 58 | [33](#flutter-flutter-69949-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 28 | [28](#flutter-flutter-170792-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 27 | [27](#dart-lang-language-4462-graph)
 Define local enums [dart-lang/language#4404](https://github.com/dart-lang/language/issues/4404) | 26 | [26](#dart-lang-language-4404-graph)
@@ -32,7 +32,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 53 | [28](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 58 | [33](#flutter-flutter-69949-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 206 | [14](#flutter-flutter-142845-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 212 | [13](#flutter-flutter-65504-graph)
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 120 | [8](#flutter-flutter-18636-graph)
@@ -159,8 +159,8 @@ Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 58 | [6](#flutter-flutter-127852-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 27 | [6](#flutter-flutter-148026-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 444 | [5](#flutter-flutter-66618-graph)
+Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 207 | [5](#flutter-flutter-11754-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2026 | 4
-Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 321 | 4
 
 ### Platforms
 
@@ -292,8 +292,8 @@ No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com
 Add a maxValue and minValue to int [dart-lang/sdk#41717](https://github.com/dart-lang/sdk/issues/41717) | 78 | [5](#dart-lang-sdk-41717-graph)
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 59 | [5](#dart-lang-sdk-43490-graph)
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | [5](#dart-lang-sdk-34050-graph)
-Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 208 | 4
 
 ### Dart language
@@ -475,7 +475,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
 <a name="flutter-flutter-69949-graph"></a>
 ### Hot restart should dispose widgets
-  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 53 total reactions, 28 recent reactions</sub><br />
+  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 58 total reactions, 33 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -484,7 +484,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   xychart-beta
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions"
-    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 53]
+    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 58]
   ```
 
   </details>
@@ -1850,6 +1850,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
+<a name="flutter-flutter-11754-graph"></a>
+### Allow release mode builds to run on simulators
+  <sub>[flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) &mdash; 207 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions"
+    line [202, 202, 202, 204, 205, 205, 205, 205, 206, 206, 206, 206, 206, 207]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-107157-graph"></a>
 ### [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language
   <sub>[flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) &mdash; 121 total reactions, 5 recent reactions</sub><br />
@@ -2105,23 +2122,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61433-graph"></a>
-### Implicit closure-objects creation performance impact
-  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61060-graph"></a>
 ### Make Zones be properly encapsulating (Breaking!)
   <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -2134,6 +2134,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61433-graph"></a>
+### Implicit closure-objects creation performance impact
+  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 2, Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
   ```
 
   </details>
