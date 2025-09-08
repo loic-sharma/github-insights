@@ -2,13 +2,13 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-06-09 to 2025-09-07.
+Issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 526 | [526](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 824 | [256](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 625 | [178](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 626 | [179](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 93 | [93](#flutter-flutter-172561-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 90 | [65](#flutter-flutter-69949-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 57 | [57](#flutter-flutter-170820-graph)
@@ -28,7 +28,7 @@ Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/f
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-framework` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,13 +50,13 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-design` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 526 | [526](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 824 | [256](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 625 | [178](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 626 | [179](#flutter-flutter-168813-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [38](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 69 | [22](#flutter-flutter-97496-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [22](#flutter-flutter-53059-graph)
@@ -72,10 +72,10 @@ Better textFormField label placement customization when focused and when value i
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`f: cupertino` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 525 | [525](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 526 | [526](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 824 | [256](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [22](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | [9](#flutter-flutter-161687-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [IOS] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 4
@@ -114,14 +114,14 @@ FlutterFragmentActivity support for predictive back [flutter/flutter#149753](htt
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-go_router` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-tool` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-engine` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 57 | [57](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-ios` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-android` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-web` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -245,8 +245,8 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 60 | 4
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 24 | 4
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 25 | 3
-Wayland: support the xdg-decoration protocol to use server-side decorations when available [flutter/flutter#94381](https://github.com/flutter/flutter/issues/94381) | 18 | 3
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 18 | 3
+Wayland: support the xdg-decoration protocol to use server-side decorations when available [flutter/flutter#94381](https://github.com/flutter/flutter/issues/94381) | 18 | 3
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 17 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 47 | 2
 [google_sign_in] Support Windows [flutter/flutter#103682](https://github.com/flutter/flutter/issues/103682) | 29 | 2
@@ -254,7 +254,7 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`team-ecosystem` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`dart-lang/sdk` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Hint and/or lint for changing List/Set/Map `from` to `of` [dart-lang/sdk#58359](
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-06-09 to 2025-09-07.
+`dart-lang/language` issues that received the most reactions from 2025-06-09 to 2025-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -322,16 +322,16 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 525 total reactions, 525 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 526 total reactions, 526 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 525]
+    line [355, 409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 525, 526]
   ```
 
   </details>
@@ -346,9 +346,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [617, 627, 630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 824]
+    line [617, 627, 630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 824, 824]
   ```
 
   </details>
@@ -356,16 +356,16 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 625 total reactions, 178 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 626 total reactions, 179 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 625]
+    line [485, 507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 625, 626]
   ```
 
   </details>
@@ -380,9 +380,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 54, 56, 78, 79, 84, 93, 93]
+    line [0, 0, 0, 0, 0, 0, 54, 56, 78, 79, 84, 93, 93, 93]
   ```
 
   </details>
@@ -397,9 +397,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90]
+    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 90]
   ```
 
   </details>
@@ -414,9 +414,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [0, 0, 19, 23, 29, 35, 40, 43, 47, 49, 53, 56, 57]
+    line [0, 0, 19, 23, 29, 35, 40, 43, 47, 49, 53, 56, 57, 57]
   ```
 
   </details>
@@ -431,9 +431,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [1163, 1164, 1166, 1170, 1170, 1172, 1175, 1176, 1176, 1196, 1198, 1200, 1204]
+    line [1163, 1164, 1166, 1170, 1170, 1172, 1175, 1176, 1176, 1196, 1198, 1200, 1204, 1204]
   ```
 
   </details>
@@ -448,9 +448,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [58, 63, 66, 71, 71, 72, 74, 74, 75, 76, 76, 76, 76]
+    line [58, 63, 66, 71, 71, 72, 74, 74, 75, 76, 76, 76, 76, 76]
   ```
 
   </details>
@@ -465,9 +465,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 16, 23, 25, 29, 31, 34, 35]
+    line [0, 0, 0, 0, 0, 0, 16, 23, 25, 29, 31, 34, 35, 35]
   ```
 
   </details>
@@ -482,9 +482,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [2239, 2241, 2243, 2246, 2250, 2253, 2254, 2255, 2260, 2259, 2265, 2266, 2267]
+    line [2239, 2241, 2243, 2246, 2250, 2253, 2254, 2255, 2260, 2259, 2265, 2266, 2267, 2267]
   ```
 
   </details>
@@ -499,9 +499,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [0, 22, 24, 27, 27, 27, 28, 28, 28, 28, 28, 28, 28]
+    line [0, 22, 24, 27, 27, 27, 28, 28, 28, 28, 28, 28, 28, 28]
   ```
 
   </details>
@@ -516,9 +516,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 18, 20, 21, 22, 25, 26, 27, 27]
+    line [0, 0, 0, 0, 0, 18, 20, 21, 22, 25, 26, 27, 27, 27]
   ```
 
   </details>
@@ -533,9 +533,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [22, 23, 24, 24, 24, 24, 24, 24, 24, 25, 26, 26, 26]
+    line [22, 23, 24, 24, 24, 24, 24, 24, 24, 25, 26, 26, 26, 26]
   ```
 
   </details>
@@ -550,9 +550,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [18, 21, 22, 25, 30, 32, 32, 32, 33, 35, 41, 41, 42]
+    line [18, 21, 22, 25, 30, 32, 32, 32, 33, 35, 41, 41, 42, 42]
   ```
 
   </details>
@@ -567,9 +567,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [55, 59, 61, 61, 61, 61, 62, 65, 66, 69, 69, 69, 69]
+    line [55, 59, 61, 61, 61, 61, 62, 65, 66, 69, 69, 69, 69, 69]
   ```
 
   </details>
@@ -584,9 +584,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [50, 50, 51, 51, 51, 51, 51, 58, 59, 60, 60, 61, 64]
+    line [50, 50, 51, 51, 51, 51, 51, 58, 59, 60, 60, 61, 64, 64]
   ```
 
   </details>
@@ -601,9 +601,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [0, 0, 12, 14, 14, 14, 16, 20, 20, 22, 22, 22, 22]
+    line [0, 0, 12, 14, 14, 14, 16, 20, 20, 22, 22, 22, 22, 22]
   ```
 
   </details>
@@ -618,9 +618,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [1080, 1081, 1086, 1086, 1087, 1090, 1090, 1094, 1095, 1097, 1098, 1098, 1098]
+    line [1080, 1081, 1086, 1086, 1087, 1090, 1090, 1094, 1095, 1097, 1098, 1098, 1098, 1098]
   ```
 
   </details>
@@ -635,9 +635,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [185, 185, 187, 189, 190, 191, 192, 195, 195, 198, 201, 201, 201]
+    line [185, 185, 187, 189, 190, 191, 192, 195, 195, 198, 201, 201, 201, 201]
   ```
 
   </details>
@@ -652,9 +652,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [28, 29, 30, 32, 34, 34, 36, 38, 39, 39, 40, 43, 44]
+    line [28, 29, 30, 32, 34, 34, 36, 38, 39, 39, 40, 43, 44, 44]
   ```
 
   </details>
@@ -669,9 +669,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 11, 12, 13, 13, 13, 15, 15, 15, 16, 17]
+    line [0, 0, 0, 11, 12, 13, 13, 13, 15, 15, 15, 16, 17, 17]
   ```
 
   </details>
@@ -686,9 +686,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [536, 538, 538, 538, 538, 543, 544, 548, 551, 551, 551, 552, 552]
+    line [536, 538, 538, 538, 538, 543, 544, 548, 551, 551, 551, 552, 552, 552]
   ```
 
   </details>
@@ -703,9 +703,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [80, 81, 81, 81, 81, 83, 83, 83, 90, 95, 95, 95, 96]
+    line [80, 81, 81, 81, 81, 83, 83, 83, 90, 95, 95, 95, 96, 96]
   ```
 
   </details>
@@ -720,9 +720,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [42, 44, 44, 44, 45, 46, 46, 54, 55, 56, 56, 57, 57]
+    line [42, 44, 44, 44, 45, 46, 46, 54, 55, 56, 56, 57, 57, 57]
   ```
 
   </details>
@@ -737,9 +737,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [13, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 16]
+    line [13, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 16, 16]
   ```
 
   </details>
@@ -754,26 +754,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [184, 184, 188, 188, 189, 189, 189, 191, 195, 196, 197, 197, 198]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-171583-graph"></a>
-### [video_player] on [android] issue with seekTo
-  <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14]
+    line [184, 184, 188, 188, 189, 189, 189, 191, 195, 196, 197, 197, 198, 198]
   ```
 
   </details>
@@ -788,9 +771,26 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-171583-graph"></a>
+### [video_player] on [android] issue with seekTo
+  <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14]
   ```
 
   </details>
@@ -805,9 +805,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [211, 211, 211, 212, 214, 216, 217, 218, 219, 219, 219, 221, 223]
+    line [211, 211, 211, 212, 214, 216, 217, 218, 219, 219, 219, 221, 223, 223]
   ```
 
   </details>
@@ -822,9 +822,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
   ```
 
   </details>
@@ -839,9 +839,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [201, 203, 205, 205, 205, 207, 207, 209, 209, 209, 210, 211, 212]
+    line [201, 203, 205, 205, 205, 207, 207, 209, 209, 209, 210, 211, 212, 212]
   ```
 
   </details>
@@ -856,9 +856,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [128, 128, 128, 128, 129, 131, 134, 135, 136, 138, 138, 138, 138]
+    line [128, 128, 128, 128, 129, 131, 134, 135, 136, 138, 138, 138, 138, 138]
   ```
 
   </details>
@@ -873,9 +873,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [452, 452, 452, 453, 453, 453, 453, 453, 455, 456, 461, 462, 463]
+    line [452, 452, 452, 453, 453, 453, 453, 453, 455, 456, 461, 462, 463, 463]
   ```
 
   </details>
@@ -890,9 +890,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [221, 221, 222, 222, 222, 222, 223, 224, 225, 225, 231, 231, 232]
+    line [221, 221, 222, 222, 222, 222, 223, 224, 225, 225, 231, 231, 232, 232]
   ```
 
   </details>
@@ -907,9 +907,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [72, 72, 72, 72, 72, 74, 74, 74, 74, 77, 81, 81, 81]
+    line [72, 72, 72, 72, 72, 74, 74, 74, 74, 77, 81, 81, 81, 81]
   ```
 
   </details>
@@ -924,9 +924,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [60, 63, 65, 65, 66, 67, 67, 68, 68, 69, 69, 69, 69]
+    line [60, 63, 65, 65, 66, 67, 67, 68, 68, 69, 69, 69, 69, 69]
   ```
 
   </details>
@@ -941,9 +941,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [248, 251, 252, 255, 256, 256, 256, 258, 258, 258, 258, 258, 258]
+    line [248, 251, 252, 255, 256, 256, 256, 258, 258, 258, 258, 258, 258, 258]
   ```
 
   </details>
@@ -958,9 +958,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [192, 196, 199, 199, 199, 200, 200, 200, 200, 201, 202, 202, 202]
+    line [192, 196, 199, 199, 199, 200, 200, 200, 200, 201, 202, 202, 202, 202]
   ```
 
   </details>
@@ -975,9 +975,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [64, 65, 67, 67, 67, 67, 67, 73, 73, 73, 74, 74, 74]
+    line [64, 65, 67, 67, 67, 67, 67, 73, 73, 73, 74, 74, 74, 74]
   ```
 
   </details>
@@ -992,9 +992,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [11, 12, 12, 12, 12, 15, 15, 15, 15, 15, 15, 15, 15]
+    line [11, 12, 12, 12, 12, 15, 15, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1009,9 +1009,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [870, 870, 870, 870, 871, 877, 877, 877, 877, 878, 878, 878, 878]
+    line [870, 870, 870, 870, 871, 877, 877, 877, 877, 878, 878, 878, 878, 878]
   ```
 
   </details>
@@ -1026,9 +1026,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [200, 200, 201, 202, 202, 203, 203, 203, 204, 204, 205, 206, 206]
+    line [200, 200, 201, 202, 202, 203, 203, 203, 204, 204, 205, 206, 206, 206]
   ```
 
   </details>
@@ -1043,9 +1043,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [79, 79, 80, 81, 81, 81, 82, 83, 85, 85, 88, 88, 88]
+    line [79, 79, 80, 81, 81, 81, 82, 83, 85, 85, 88, 88, 88, 88]
   ```
 
   </details>
@@ -1060,9 +1060,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [46, 46, 46, 46, 47, 47, 47, 49, 49, 54, 54, 55, 55]
+    line [46, 46, 46, 46, 47, 47, 47, 49, 49, 54, 54, 55, 55, 55]
   ```
 
   </details>
@@ -1077,9 +1077,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [45, 45, 45, 46, 46, 46, 48, 49, 49, 49, 50, 51, 51]
+    line [45, 45, 45, 46, 46, 46, 48, 49, 49, 49, 50, 51, 51, 51]
   ```
 
   </details>
@@ -1094,9 +1094,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [25, 26, 27, 28, 28, 29, 29, 29, 29, 29, 29, 29, 29]
+    line [25, 26, 27, 28, 28, 29, 29, 29, 29, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -1111,9 +1111,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [217, 217, 221, 221, 221, 221, 221, 221, 221, 221, 221, 225, 225]
+    line [217, 217, 221, 221, 221, 221, 221, 221, 221, 221, 221, 225, 225, 225]
   ```
 
   </details>
@@ -1128,9 +1128,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [210, 210, 210, 210, 210, 211, 212, 214, 214, 216, 216, 216, 216]
+    line [210, 210, 210, 210, 210, 211, 212, 214, 214, 216, 216, 216, 216, 216]
   ```
 
   </details>
@@ -1145,9 +1145,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [198, 198, 198, 198, 200, 201, 202, 204, 204, 204, 204, 205, 206]
+    line [198, 198, 198, 198, 200, 201, 202, 204, 204, 204, 204, 205, 206, 206]
   ```
 
   </details>
@@ -1162,9 +1162,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [181, 182, 186, 186, 186, 186, 186, 186, 186, 186, 189, 189, 189]
+    line [181, 182, 186, 186, 186, 186, 186, 186, 186, 186, 189, 189, 189, 189]
   ```
 
   </details>
@@ -1179,9 +1179,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [114, 114, 114, 114, 114, 114, 115, 116, 116, 119, 120, 120, 120]
+    line [114, 114, 114, 114, 114, 114, 115, 116, 116, 119, 120, 120, 120, 120]
   ```
 
   </details>
@@ -1196,9 +1196,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [111, 112, 114, 115, 115, 115, 116, 116, 117, 119, 119, 119, 119]
+    line [111, 112, 114, 115, 115, 115, 116, 116, 117, 119, 119, 119, 119, 119]
   ```
 
   </details>
@@ -1213,9 +1213,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [61, 61, 63, 64, 62, 65, 65, 65, 67, 68, 68, 68, 69]
+    line [61, 61, 63, 64, 62, 65, 65, 65, 67, 68, 68, 68, 69, 69]
   ```
 
   </details>
@@ -1230,9 +1230,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [15, 16, 17, 19, 20, 21, 21, 21, 21, 22, 22, 23, 23]
+    line [15, 16, 17, 19, 20, 21, 21, 21, 21, 22, 22, 23, 23, 23]
   ```
 
   </details>
@@ -1247,9 +1247,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 13, 14, 15, 17, 19, 19, 21, 21, 21]
+    line [0, 0, 0, 0, 13, 14, 15, 17, 19, 19, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1264,9 +1264,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [0, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 8, 8]
+    line [0, 5, 5, 5, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8]
   ```
 
   </details>
@@ -1281,9 +1281,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [163, 164, 164, 165, 165, 166, 166, 170, 170, 170, 170, 170, 170]
+    line [163, 164, 164, 165, 165, 166, 166, 170, 170, 170, 170, 170, 170, 170]
   ```
 
   </details>
@@ -1298,9 +1298,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [162, 162, 162, 162, 163, 164, 165, 165, 165, 168, 168, 169, 169]
+    line [162, 162, 162, 162, 163, 164, 165, 165, 165, 168, 168, 169, 169, 169]
   ```
 
   </details>
@@ -1315,9 +1315,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [88, 88, 88, 88, 88, 89, 89, 89, 94, 94, 94, 94, 94]
+    line [88, 88, 88, 88, 88, 89, 89, 89, 94, 94, 94, 94, 94, 94]
   ```
 
   </details>
@@ -1332,9 +1332,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [44, 44, 45, 45, 46, 46, 46, 47, 49, 50, 51, 51, 51]
+    line [44, 44, 45, 45, 46, 46, 46, 47, 49, 50, 51, 51, 51, 51]
   ```
 
   </details>
@@ -1349,9 +1349,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [38, 41, 41, 42, 43, 43, 43, 43, 43, 43, 43, 43, 43]
+    line [38, 41, 41, 42, 43, 43, 43, 43, 43, 43, 43, 43, 43, 43]
   ```
 
   </details>
@@ -1366,9 +1366,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [534, 534, 534, 532, 534, 534, 534, 534, 534, 535, 535, 536, 539]
+    line [534, 534, 534, 532, 534, 534, 534, 534, 534, 535, 535, 536, 539, 539]
   ```
 
   </details>
@@ -1383,9 +1383,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [438, 438, 438, 438, 438, 438, 438, 438, 438, 444, 444, 444, 444]
+    line [438, 438, 438, 438, 438, 438, 438, 438, 438, 444, 444, 444, 444, 444]
   ```
 
   </details>
@@ -1400,9 +1400,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [334, 334, 334, 335, 335, 337, 337, 337, 337, 337, 339, 340, 340]
+    line [334, 334, 334, 335, 335, 337, 337, 337, 337, 337, 339, 340, 340, 340]
   ```
 
   </details>
@@ -1417,9 +1417,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [300, 301, 301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 306]
+    line [300, 301, 301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 306, 306]
   ```
 
   </details>
@@ -1434,9 +1434,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [285, 287, 287, 287, 287, 287, 287, 287, 288, 290, 290, 290, 291]
+    line [285, 287, 287, 287, 287, 287, 287, 287, 288, 290, 290, 290, 291, 291]
   ```
 
   </details>
@@ -1451,9 +1451,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [185, 185, 187, 187, 188, 188, 189, 189, 190, 190, 190, 191, 191]
+    line [185, 185, 187, 187, 188, 188, 189, 189, 190, 190, 190, 191, 191, 191]
   ```
 
   </details>
@@ -1468,9 +1468,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [158, 158, 160, 160, 160, 160, 163, 163, 163, 163, 163, 163, 163]
+    line [158, 158, 160, 160, 160, 160, 163, 163, 163, 163, 163, 163, 163, 163]
   ```
 
   </details>
@@ -1485,9 +1485,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [96, 96, 96, 96, 98, 98, 98, 98, 98, 98, 98, 98, 102]
+    line [96, 96, 96, 96, 98, 98, 98, 98, 98, 98, 98, 98, 102, 102]
   ```
 
   </details>
@@ -1502,9 +1502,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [94, 94, 97, 96, 98, 98, 98, 98, 98, 100, 100, 100, 100]
+    line [94, 94, 97, 96, 98, 98, 98, 98, 98, 100, 100, 100, 100, 100]
   ```
 
   </details>
@@ -1519,9 +1519,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [92, 92, 93, 93, 93, 93, 93, 94, 94, 95, 95, 96, 96]
+    line [92, 92, 93, 93, 93, 93, 93, 94, 94, 95, 95, 96, 96, 96]
   ```
 
   </details>
@@ -1536,9 +1536,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [79, 79, 79, 79, 79, 79, 80, 81, 81, 81, 81, 84, 84]
+    line [79, 79, 79, 79, 79, 79, 80, 81, 81, 81, 81, 84, 84, 84]
   ```
 
   </details>
@@ -1553,9 +1553,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [49, 49, 49, 51, 51, 51, 53, 53, 53, 53, 54, 55, 55]
+    line [49, 49, 49, 51, 51, 51, 53, 53, 53, 53, 54, 55, 55, 55]
   ```
 
   </details>
@@ -1570,9 +1570,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [47, 47, 50, 51, 51, 51, 52, 52, 52, 52, 52, 53, 53]
+    line [47, 47, 50, 51, 51, 51, 52, 52, 52, 52, 52, 53, 53, 53]
   ```
 
   </details>
@@ -1587,9 +1587,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [30, 30, 30, 30, 36, 36, 36, 36, 36, 36, 36, 36, 36]
+    line [30, 30, 30, 30, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -1604,9 +1604,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [21, 21, 21, 21, 23, 25, 25, 25, 25, 25, 25, 27, 27]
+    line [21, 21, 21, 21, 23, 25, 25, 25, 25, 25, 25, 27, 27, 27]
   ```
 
   </details>
@@ -1621,9 +1621,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [5, 6, 6, 6, 6, 6, 6, 6, 6, 8, 8, 9, 10]
+    line [5, 6, 6, 6, 6, 6, 6, 6, 6, 8, 8, 9, 10, 10]
   ```
 
   </details>
@@ -1638,9 +1638,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 4, 4, 6, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 4, 4, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1655,9 +1655,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [285, 285, 285, 289, 289, 289, 289, 289, 290, 290, 290, 290, 290]
+    line [285, 285, 285, 289, 289, 289, 289, 289, 290, 290, 290, 290, 290, 290]
   ```
 
   </details>
@@ -1672,9 +1672,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [267, 267, 267, 269, 269, 269, 270, 271, 271, 271, 271, 272, 272]
+    line [267, 267, 267, 269, 269, 269, 270, 271, 271, 271, 271, 272, 272, 272]
   ```
 
   </details>
@@ -1689,9 +1689,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [219, 220, 220, 220, 221, 222, 223, 223, 223, 223, 223, 224, 224]
+    line [219, 220, 220, 220, 221, 222, 223, 223, 223, 223, 223, 224, 224, 224]
   ```
 
   </details>
@@ -1706,9 +1706,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [202, 202, 204, 205, 205, 205, 205, 206, 206, 206, 206, 206, 207]
+    line [202, 202, 204, 205, 205, 205, 205, 206, 206, 206, 206, 206, 207, 207]
   ```
 
   </details>
@@ -1723,9 +1723,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [117, 118, 119, 120, 120, 120, 121, 121, 121, 121, 121, 121, 121]
+    line [117, 118, 119, 120, 120, 120, 121, 121, 121, 121, 121, 121, 121, 121]
   ```
 
   </details>
@@ -1740,9 +1740,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [87, 87, 87, 87, 87, 88, 88, 88, 88, 89, 92, 92, 92]
+    line [87, 87, 87, 87, 87, 88, 88, 88, 88, 89, 92, 92, 92, 92]
   ```
 
   </details>
@@ -1757,9 +1757,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [82, 83, 83, 83, 83, 83, 84, 84, 84, 86, 87, 87, 87]
+    line [82, 83, 83, 83, 83, 83, 84, 84, 84, 86, 87, 87, 87, 87]
   ```
 
   </details>
@@ -1774,9 +1774,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [74, 75, 76, 76, 76, 76, 76, 76, 76, 76, 76, 76, 78]
+    line [74, 75, 76, 76, 76, 76, 76, 76, 76, 76, 76, 76, 78, 78]
   ```
 
   </details>
@@ -1791,9 +1791,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [54, 54, 54, 54, 56, 57, 57, 57, 57, 57, 57, 58, 58]
+    line [54, 54, 54, 54, 56, 57, 57, 57, 57, 57, 57, 58, 58, 58]
   ```
 
   </details>
@@ -1808,9 +1808,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [49, 49, 49, 50, 50, 52, 52, 53, 54, 54, 54, 54, 54]
+    line [49, 49, 49, 50, 50, 52, 52, 53, 54, 54, 54, 54, 54, 54]
   ```
 
   </details>
@@ -1825,9 +1825,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [43, 43, 43, 45, 45, 45, 45, 47, 47, 48, 48, 48, 48]
+    line [43, 43, 43, 45, 45, 45, 45, 47, 47, 48, 48, 48, 48, 48]
   ```
 
   </details>
@@ -1842,9 +1842,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [44, 45, 45, 45, 45, 45, 47, 47, 47, 47, 47, 47, 48]
+    line [44, 45, 45, 45, 45, 45, 47, 47, 47, 47, 47, 47, 48, 48]
   ```
 
   </details>
@@ -1859,9 +1859,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [43, 44, 44, 45, 45, 45, 45, 45, 46, 46, 46, 46, 46]
+    line [43, 44, 44, 45, 45, 45, 45, 45, 46, 46, 46, 46, 46, 46]
   ```
 
   </details>
@@ -1876,9 +1876,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [37, 37, 37, 38, 39, 39, 39, 39, 39, 39, 40, 42, 42]
+    line [37, 37, 37, 38, 39, 39, 39, 39, 39, 39, 40, 42, 42, 42]
   ```
 
   </details>
@@ -1893,9 +1893,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [24, 24, 24, 24, 29, 29, 29, 29, 29, 29, 29, 29, 29]
+    line [24, 24, 24, 24, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -1910,9 +1910,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [19, 19, 19, 20, 21, 24, 24, 24, 24, 24, 24, 24, 24]
+    line [19, 19, 19, 20, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1927,9 +1927,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [19, 20, 20, 20, 22, 23, 23, 23, 23, 23, 23, 24, 24]
+    line [19, 20, 20, 20, 22, 23, 23, 23, 23, 23, 23, 24, 24, 24]
   ```
 
   </details>
@@ -1944,9 +1944,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [18, 18, 19, 19, 21, 21, 21, 22, 22, 22, 22, 22, 22]
+    line [18, 18, 19, 19, 21, 21, 21, 22, 22, 22, 22, 22, 22, 22]
   ```
 
   </details>
@@ -1961,9 +1961,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    line [0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
@@ -1978,9 +1978,9 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1]
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
   ```
 
   </details>
