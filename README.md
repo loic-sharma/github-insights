@@ -10,7 +10,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 824 | [256](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 628 | [181](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 93 | [93](#flutter-flutter-172561-graph)
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 92 | [67](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 93 | [68](#flutter-flutter-69949-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 57 | [57](#flutter-flutter-170820-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1204 | [41](#dart-lang-language-723-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [38](#flutter-flutter-165502-graph)
@@ -32,7 +32,7 @@ Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/f
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 92 | [67](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 93 | [68](#flutter-flutter-69949-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 212 | [12](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 206 | [8](#flutter-flutter-142845-graph)
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 120 | [8](#flutter-flutter-18636-graph)
@@ -178,9 +178,9 @@ Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 359 | 4
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 156 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 151 | 4
+Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 55 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 22 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 114 | 3
-Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 54 | 3
 `flutter attach` doesn't work on physical iOS device in larger apps [flutter/flutter#122698](https://github.com/flutter/flutter/issues/122698) | 49 | 3
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 27 | 3
 [webview_flutter] iOS Flutter got crash because of [FLTWKNavigationDelegate webView:decidePolicyForNavigationAction:decisionHandler:] was not called [flutter/flutter#102476](https://github.com/flutter/flutter/issues/102476) | 17 | 3
@@ -390,7 +390,7 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
 
 <a name="flutter-flutter-69949-graph"></a>
 ### Hot restart should dispose widgets
-  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 92 total reactions, 67 recent reactions</sub><br />
+  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 93 total reactions, 68 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -399,7 +399,7 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
   xychart-beta
     x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 92]
+    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 93]
   ```
 
   </details>
