@@ -10,7 +10,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 824 | [256](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 630 | [183](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 93 | [93](#flutter-flutter-172561-graph)
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 93 | [68](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 94 | [69](#flutter-flutter-69949-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 57 | [57](#flutter-flutter-170820-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1204 | [41](#dart-lang-language-723-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [38](#flutter-flutter-165502-graph)
@@ -32,7 +32,7 @@ Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/f
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 93 | [68](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 94 | [69](#flutter-flutter-69949-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 212 | [12](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 206 | [8](#flutter-flutter-142845-graph)
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 120 | [8](#flutter-flutter-18636-graph)
@@ -42,8 +42,8 @@ Maintain scroll location to prevent content jumping when network images or dynam
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 55 | [6](#flutter-flutter-81005-graph)
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 118 | [5](#flutter-flutter-127409-graph)
 Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.com/flutter/flutter/issues/50763) | 92 | [5](#flutter-flutter-50763-graph)
-NestedScrollView in DraggableScrollableSheet not working [flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) | 48 | [5](#flutter-flutter-64157-graph)
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 48 | [5](#flutter-flutter-131625-graph)
+NestedScrollView in DraggableScrollableSheet not working [flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) | 48 | [5](#flutter-flutter-64157-graph)
 AnimatedSwitcher should be more customizable [flutter/flutter#26119](https://github.com/flutter/flutter/issues/26119) | 29 | [5](#flutter-flutter-26119-graph)
 Allow Hero widgets to have transitions within the same screen [flutter/flutter#54200](https://github.com/flutter/flutter/issues/54200) | 260 | 4
 PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 175 | 4
@@ -172,13 +172,13 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 35 | [35](#flutter-flutter-172434-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 57 | [16](#flutter-flutter-163845-graph)
+Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 153 | [6](#flutter-flutter-28894-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 290 | [5](#flutter-flutter-28901-graph)
-Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 152 | [5](#flutter-flutter-28894-graph)
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 87 | [5](#flutter-flutter-69157-graph)
+Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 56 | [5](#flutter-flutter-115926-graph)
 [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed  [flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) | 54 | [5](#flutter-flutter-85529-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 359 | 4
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 156 | 4
-Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 55 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 22 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 114 | 3
 `flutter attach` doesn't work on physical iOS device in larger apps [flutter/flutter#122698](https://github.com/flutter/flutter/issues/122698) | 49 | 3
@@ -199,11 +199,11 @@ One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.co
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [7](#flutter-flutter-91247-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 71 | 4
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 44 | 4
+Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/flutter/flutter/issues/36681) | 189 | 3
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 43 | 3
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 18 | 3
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 16 | 3
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 384 | 2
-Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/flutter/flutter/issues/36681) | 188 | 2
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 93 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 29 | 2
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 27 | 2
@@ -390,7 +390,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
 <a name="flutter-flutter-69949-graph"></a>
 ### Hot restart should dispose widgets
-  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 93 total reactions, 68 recent reactions</sub><br />
+  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 94 total reactions, 69 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -399,7 +399,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   xychart-beta
     x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
-    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 93]
+    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 94]
   ```
 
   </details>
@@ -762,23 +762,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-language-4455-graph"></a>
-### Make the getter of a final instance variable in a constant receiver a constant expression
-  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-171583-graph"></a>
 ### [video_player] on [android] issue with seekTo
   <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -791,6 +774,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4455-graph"></a>
+### Make the getter of a final instance variable in a constant receiver a constant expression
+  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1476,6 +1476,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-28894-graph"></a>
+### Emoji size is off on iOS
+  <sub>[flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) &mdash; 153 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
+    y-axis "Reactions"
+    line [147, 148, 148, 149, 150, 150, 150, 151, 151, 151, 151, 151, 151, 153]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-53402-graph"></a>
 ### ☂️ New analyzer plugin system
   <sub>[dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) &mdash; 102 total reactions, 6 recent reactions</sub><br />
@@ -1714,23 +1731,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="flutter-flutter-28894-graph"></a>
-### Emoji size is off on iOS
-  <sub>[flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) &mdash; 152 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
-    y-axis "Reactions"
-    line [147, 148, 148, 149, 150, 150, 150, 151, 151, 151, 151, 151, 151, 152]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-107157-graph"></a>
 ### [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language
   <sub>[flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) &mdash; 121 total reactions, 5 recent reactions</sub><br />
@@ -1833,6 +1833,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 56 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
+    y-axis "Reactions"
+    line [52, 52, 52, 53, 53, 53, 53, 53, 54, 54, 54, 54, 54, 56]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-85529-graph"></a>
 ### [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed 
   <sub>[flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) &mdash; 54 total reactions, 5 recent reactions</sub><br />
@@ -1850,23 +1867,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="flutter-flutter-64157-graph"></a>
-### NestedScrollView in DraggableScrollableSheet not working
-  <sub>[flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) &mdash; 48 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
-    y-axis "Reactions"
-    line [43, 43, 43, 45, 45, 45, 45, 47, 47, 48, 48, 48, 48, 48]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-131625-graph"></a>
 ### [go_router] support popUntil
   <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 48 total reactions, 5 recent reactions</sub><br />
@@ -1879,6 +1879,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
     line [44, 45, 45, 45, 45, 45, 47, 47, 47, 47, 47, 47, 48, 48]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-64157-graph"></a>
+### NestedScrollView in DraggableScrollableSheet not working
+  <sub>[flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) &mdash; 48 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 9, Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
+    y-axis "Reactions"
+    line [43, 43, 43, 45, 45, 45, 45, 47, 47, 48, 48, 48, 48, 48]
   ```
 
   </details>
