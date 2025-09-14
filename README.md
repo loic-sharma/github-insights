@@ -316,7 +316,7 @@ Shorter constructor declarations [dart-lang/language#4485](https://github.com/da
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 258 | [10](#dart-lang-language-2364-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 202 | [10](#dart-lang-language-4211-graph)
 Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) | 74 | [10](#dart-lang-language-3192-graph)
-Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 419 | [8](#dart-lang-language-356-graph)
+Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 420 | [9](#dart-lang-language-356-graph)
 
 ## Graphs
 
@@ -966,6 +966,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-356-graph"></a>
+### Abstract static methods
+  <sub>[dart-lang/language#356](https://github.com/dart-lang/language/issues/356) &mdash; 420 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
+    y-axis "Reactions"
+    line [411, 413, 413, 413, 413, 414, 414, 415, 415, 415, 415, 419, 420]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-77104-graph"></a>
 ### Enable custom "flutter create" templates
   <sub>[flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) &mdash; 88 total reactions, 9 recent reactions</sub><br />
@@ -1012,23 +1029,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
     line [46, 46, 46, 47, 47, 47, 49, 49, 54, 54, 55, 55, 55]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-356-graph"></a>
-### Abstract static methods
-  <sub>[dart-lang/language#356](https://github.com/dart-lang/language/issues/356) &mdash; 419 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
-    y-axis "Reactions"
-    line [411, 413, 413, 413, 413, 414, 414, 415, 415, 415, 415, 419, 419]
   ```
 
   </details>
