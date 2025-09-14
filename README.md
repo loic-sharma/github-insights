@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-06-16 to 2025-09-13.
+Issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-framework` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-design` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Better textFormField label placement customization when focused and when value i
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`f: cupertino` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 826 | [206](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 4
@@ -102,26 +102,26 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 3
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 131 | 2
+FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 26 | 2
 KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 23 | 2
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 124 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 50 | 1
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 43 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 36 | 1
-FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 25 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
 [Web] [CanvasKit][Feature Request]: Load fonts as soon as detecting browser locale [flutter/flutter#77023](https://github.com/flutter/flutter/issues/77023) | 19 | 1
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-go_router` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-tool` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-engine` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 60 | [60](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-ios` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-android` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-web` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ bug: a few hot restarts cause a canvaskit failure [flutter/flutter#140684](https
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Support building Windows apps from Linux [flutter/flutter#110585](https://github
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`team-ecosystem` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ bug: a few hot restarts cause a canvaskit failure [flutter/flutter#140684](https
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`dart-lang/sdk` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -289,16 +289,16 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 102 | [6](#dart-lang-sdk-53402-graph)
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 [cli] Introduce `dart install` (replacing `dart pub global activate` to use) [dart-lang/sdk#60889](https://github.com/dart-lang/sdk/issues/60889) | 10 | [5](#dart-lang-sdk-60889-graph)
-Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
+Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 Add a maxValue and minValue to int [dart-lang/sdk#41717](https://github.com/dart-lang/sdk/issues/41717) | 78 | 4
+Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 47 | 4
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | 4
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | 4
-Hint and/or lint for changing List/Set/Map `from` to `of` [dart-lang/sdk#58359](https://github.com/dart-lang/sdk/issues/58359) | 16 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-06-16 to 2025-09-13.
+`dart-lang/language` issues that received the most reactions from 2025-06-16 to 2025-09-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1102,23 +1102,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-53884-graph"></a>
-### [dart2wasm] Support non-JS wasm runtimes
-  <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 69 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
-    y-axis "Reactions"
-    line [61, 63, 64, 62, 65, 65, 65, 67, 68, 68, 68, 69, 69]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-139427-graph"></a>
 ### Use the default NDK version from AGP
   <sub>[flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) &mdash; 69 total reactions, 8 recent reactions</sub><br />
@@ -1131,6 +1114,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions"
     line [63, 65, 65, 66, 67, 67, 68, 68, 69, 69, 69, 69, 69]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-53884-graph"></a>
+### [dart2wasm] Support non-JS wasm runtimes
+  <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 69 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
+    y-axis "Reactions"
+    line [61, 63, 64, 62, 65, 65, 65, 67, 68, 68, 68, 69, 69]
   ```
 
   </details>
@@ -1918,23 +1918,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61060-graph"></a>
-### Make Zones be properly encapsulating (Breaking!)
-  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61433-graph"></a>
 ### Implicit closure-objects creation performance impact
   <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1947,6 +1930,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61060-graph"></a>
+### Make Zones be properly encapsulating (Breaking!)
+  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
