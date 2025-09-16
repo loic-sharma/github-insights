@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-06-16 to 2025-09-15.
+Issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-framework` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-design` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Better textFormField label placement customization when focused and when value i
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`f: cupertino` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 828 | [208](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 4
@@ -114,14 +114,14 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-go_router` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-tool` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-engine` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 60 | [60](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-ios` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-android` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-web` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,7 +232,7 @@ bug: a few hot restarts cause a canvaskit failure [flutter/flutter#140684](https
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Support building Windows apps from Linux [flutter/flutter#110585](https://github
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`team-ecosystem` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,7 +276,7 @@ bug: a few hot restarts cause a canvaskit failure [flutter/flutter#140684](https
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`dart-lang/sdk` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,7 +298,7 @@ Dart-defines should generate a warning when not const [dart-lang/sdk#42177](http
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-06-16 to 2025-09-15.
+`dart-lang/language` issues that received the most reactions from 2025-06-16 to 2025-09-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
