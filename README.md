@@ -20,7 +20,7 @@ Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 42 | [24](#flutter-flutter-166248-graph)
 Simpler parameters [dart-lang/language#4426](https://github.com/dart-lang/language/issues/4426) | 23 | [23](#dart-lang-language-4426-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
-[shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"` [flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) | 47 | [19](#flutter-flutter-153075-graph)
+Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 61 | [19](#flutter-flutter-163845-graph)
 
 ## Trending issues by team
 
@@ -171,7 +171,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 Issue | Total reactions | Recent reactions
 -- | -- | --
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 39 | [39](#flutter-flutter-172434-graph)
-Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 57 | [15](#flutter-flutter-163845-graph)
+Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 61 | [19](#flutter-flutter-163845-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 361 | [6](#flutter-flutter-110431-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 153 | [6](#flutter-flutter-28894-graph)
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 290 | [5](#flutter-flutter-28901-graph)
@@ -558,6 +558,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-163845-graph"></a>
+### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
+  <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 61 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions"
+    line [44, 44, 44, 45, 46, 46, 54, 55, 56, 56, 57, 57, 57, 61]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-153075-graph"></a>
 ### [shared_preferences] Android exception: `Unable to establish connection on channel: "dev.flutter.pigeon.shared_preferences_android.SharedPreferencesApi.getAll"`
   <sub>[flutter/flutter#153075](https://github.com/flutter/flutter/issues/153075) &mdash; 47 total reactions, 19 recent reactions</sub><br />
@@ -672,23 +689,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
     line [81, 81, 81, 81, 83, 83, 83, 90, 95, 95, 95, 96, 96, 96]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-163845-graph"></a>
-### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
-  <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 57 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions"
-    line [44, 44, 44, 45, 46, 46, 54, 55, 56, 56, 57, 57, 57, 57]
   ```
 
   </details>
