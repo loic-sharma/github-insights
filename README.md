@@ -6,9 +6,9 @@ Issues that received the most reactions from 2025-06-16 to 2025-09-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 835 | [215](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 841 | [221](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 532 | [168](#flutter-flutter-170310-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 640 | [152](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 641 | [153](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 93 | [93](#flutter-flutter-172561-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 97 | [72](#flutter-flutter-69949-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 63 | [63](#flutter-flutter-170820-graph)
@@ -54,15 +54,15 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 835 | [215](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 841 | [221](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 532 | [168](#flutter-flutter-170310-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 640 | [152](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 641 | [153](#flutter-flutter-168813-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [17](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [14](#flutter-flutter-53059-graph)
 Icon colors depending on the state for Chips [flutter/flutter#171649](https://github.com/flutter/flutter/issues/171649) | 13 | [13](#flutter-flutter-171649-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 69 | [11](#flutter-flutter-97496-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 138 | [10](#flutter-flutter-102560-graph)
-Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 307 | [7](#flutter-flutter-21594-graph)
+Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 308 | [8](#flutter-flutter-21594-graph)
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 101 | [7](#flutter-flutter-48381-graph)
 Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) | 94 | [6](#flutter-flutter-119328-graph)
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 272 | [5](#flutter-flutter-18345-graph)
@@ -75,7 +75,7 @@ Better textFormField label placement customization when focused and when value i
 `f: cupertino` issues that received the most reactions from 2025-06-16 to 2025-09-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 835 | [215](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 841 | [221](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 532 | [168](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [14](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | 4
@@ -289,8 +289,8 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 102 | [6](#dart-lang-sdk-53402-graph)
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 [cli] Introduce `dart install` (replacing `dart pub global activate` to use) [dart-lang/sdk#60889](https://github.com/dart-lang/sdk/issues/60889) | 10 | [5](#dart-lang-sdk-60889-graph)
-Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Add a maxValue and minValue to int [dart-lang/sdk#41717](https://github.com/dart-lang/sdk/issues/41717) | 78 | 4
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 47 | 4
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | 4
@@ -322,7 +322,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 835 total reactions, 215 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 841 total reactions, 221 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [627, 630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 824, 826, 835]
+    line [627, 630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 824, 826, 841]
   ```
 
   </details>
@@ -356,7 +356,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 640 total reactions, 152 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 641 total reactions, 153 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -365,7 +365,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 625, 636, 640]
+    line [507, 518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 625, 636, 641]
   ```
 
   </details>
@@ -779,23 +779,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-174980-graph"></a>
-### Impeller for web
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-171649-graph"></a>
 ### Icon colors depending on the state for Chips
   <sub>[flutter/flutter#171649](https://github.com/flutter/flutter/issues/171649) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -808,6 +791,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-174980-graph"></a>
+### Impeller for web
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
   ```
 
   </details>
@@ -1102,6 +1102,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-21594-graph"></a>
+### Table > TableRow > TableCell colspan
+  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 308 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions"
+    line [301, 301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 306, 306, 308]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-64958-graph"></a>
 ### Make it easy to use C# for Windows plugins
   <sub>[flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) &mdash; 225 total reactions, 8 recent reactions</sub><br />
@@ -1267,23 +1284,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
     line [534, 534, 532, 534, 534, 534, 534, 534, 535, 535, 536, 539, 541, 541]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-21594-graph"></a>
-### Table > TableRow > TableCell colspan
-  <sub>[flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) &mdash; 307 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions"
-    line [301, 301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 306, 306, 307]
   ```
 
   </details>
@@ -1884,23 +1884,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-125741-graph"></a>
-### Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)'
-  <sub>[flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) &mdash; 29 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions"
-    line [24, 25, 25, 25, 25, 27, 27, 27, 27, 27, 27, 27, 29, 29]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-26119-graph"></a>
 ### AnimatedSwitcher should be more customizable
   <sub>[flutter/flutter#26119](https://github.com/flutter/flutter/issues/26119) &mdash; 29 total reactions, 5 recent reactions</sub><br />
@@ -1918,9 +1901,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-154344-graph"></a>
-### Support WasmGC on Safari
-  <sub>[flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) &mdash; 24 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-125741-graph"></a>
+### Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)'
+  <sub>[flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) &mdash; 29 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1929,7 +1912,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [20, 20, 20, 22, 23, 23, 23, 23, 23, 23, 24, 24, 24, 24]
+    line [24, 25, 25, 25, 25, 27, 27, 27, 27, 27, 27, 27, 29, 29]
   ```
 
   </details>
@@ -1947,6 +1930,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
     line [19, 19, 20, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-154344-graph"></a>
+### Support WasmGC on Safari
+  <sub>[flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) &mdash; 24 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions"
+    line [20, 20, 20, 22, 23, 23, 23, 23, 23, 23, 24, 24, 24, 24]
   ```
 
   </details>
@@ -2003,23 +2003,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61433-graph"></a>
-### Implicit closure-objects creation performance impact
-  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61060-graph"></a>
 ### Make Zones be properly encapsulating (Breaking!)
   <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -2032,6 +2015,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61433-graph"></a>
+### Implicit closure-objects creation performance impact
+  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
   ```
 
   </details>
