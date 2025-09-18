@@ -151,7 +151,7 @@ Can't capture the output of a `BackdropFilterLayer` without painting it to the s
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 42 | [24](#flutter-flutter-166248-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 14 | [14](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 223 | [12](#flutter-flutter-61229-graph)
-Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 193 | [8](#flutter-flutter-14288-graph)
+Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 194 | [9](#flutter-flutter-14288-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 29 | [8](#flutter-flutter-148026-graph)
 Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 23 | [8](#flutter-flutter-162147-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 541 | [7](#flutter-flutter-26801-graph)
@@ -1034,6 +1034,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-14288-graph"></a>
+### Antialiasing behaviour when same-colour 
+  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 194 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions"
+    line [185, 187, 187, 188, 188, 189, 189, 190, 190, 190, 191, 191, 191, 194]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-77104-graph"></a>
 ### Enable custom "flutter create" templates
   <sub>[flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) &mdash; 88 total reactions, 9 recent reactions</sub><br />
@@ -1165,23 +1182,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
     line [198, 198, 198, 200, 201, 202, 204, 204, 204, 204, 205, 206, 206, 206]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14288-graph"></a>
-### Antialiasing behaviour when same-colour 
-  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 193 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions"
-    line [185, 187, 187, 188, 188, 189, 189, 190, 190, 190, 191, 191, 191, 193]
   ```
 
   </details>
