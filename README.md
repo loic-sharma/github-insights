@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 539 | [175](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 642 | [154](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 94 | [94](#flutter-flutter-172561-graph)
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 97 | [72](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 98 | [73](#flutter-flutter-69949-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 66 | [66](#flutter-flutter-170820-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1204 | [41](#dart-lang-language-723-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 40 | [40](#flutter-flutter-172434-graph)
@@ -32,7 +32,7 @@ Xcode DerivedData causes unexpected behavior in Flutter project after adding the
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 97 | [72](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 98 | [73](#flutter-flutter-69949-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 213 | [11](#flutter-flutter-65504-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 702 | [9](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 206 | [8](#flutter-flutter-142845-graph)
@@ -390,7 +390,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-69949-graph"></a>
 ### Hot restart should dispose widgets
-  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 97 total reactions, 72 recent reactions</sub><br />
+  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 98 total reactions, 73 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -399,7 +399,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 97, 97]
+    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 97, 98]
   ```
 
   </details>
