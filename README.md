@@ -7,13 +7,13 @@ Issues that received the most reactions from 2025-06-16 to 2025-09-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 846 | [226](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 542 | [178](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 544 | [180](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 642 | [154](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 94 | [94](#flutter-flutter-172561-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 98 | [73](#flutter-flutter-69949-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 67 | [67](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 68 | [68](#flutter-flutter-170820-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1204 | [41](#dart-lang-language-723-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 40 | [40](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 41 | [41](#flutter-flutter-172434-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 29 | [29](#flutter-flutter-170792-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2268 | [27](#dart-lang-language-314-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 27 | [27](#dart-lang-language-4462-graph)
@@ -55,7 +55,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 846 | [226](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 542 | [178](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 544 | [180](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 642 | [154](#flutter-flutter-168813-graph)
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 76 | [17](#flutter-flutter-165502-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [14](#flutter-flutter-53059-graph)
@@ -76,7 +76,7 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 846 | [226](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 542 | [178](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 544 | [180](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [14](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | 4
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 60 | 2
@@ -146,7 +146,7 @@ Building all integration test targets into a single application binary [flutter/
 `team-engine` issues that received the most reactions from 2025-06-16 to 2025-09-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 67 | [67](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 68 | [68](#flutter-flutter-170820-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 29 | [29](#flutter-flutter-170792-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 42 | [24](#flutter-flutter-166248-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 14 | [14](#flutter-flutter-174980-graph)
@@ -170,7 +170,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 40 | [40](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 41 | [41](#flutter-flutter-172434-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 61 | [19](#flutter-flutter-163845-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 361 | [6](#flutter-flutter-110431-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 153 | [6](#flutter-flutter-28894-graph)
@@ -217,8 +217,8 @@ Issue | Total reactions | Recent reactions
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 94 | [94](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 879 | [9](#flutter-flutter-46789-graph)
+bug: a few hot restarts cause a canvaskit failure [flutter/flutter#140684](https://github.com/flutter/flutter/issues/140684) | 24 | [8](#flutter-flutter-140684-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 54 | [7](#flutter-flutter-152588-graph)
-bug: a few hot restarts cause a canvaskit failure [flutter/flutter#140684](https://github.com/flutter/flutter/issues/140684) | 23 | [7](#flutter-flutter-140684-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 292 | [6](#flutter-flutter-45296-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 206 | [6](#flutter-flutter-69529-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 36 | [6](#flutter-flutter-150743-graph)
@@ -261,8 +261,8 @@ Issue | Total reactions | Recent reactions
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 94 | [94](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 879 | [9](#flutter-flutter-46789-graph)
+bug: a few hot restarts cause a canvaskit failure [flutter/flutter#140684](https://github.com/flutter/flutter/issues/140684) | 24 | [8](#flutter-flutter-140684-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 54 | [7](#flutter-flutter-152588-graph)
-bug: a few hot restarts cause a canvaskit failure [flutter/flutter#140684](https://github.com/flutter/flutter/issues/140684) | 23 | [7](#flutter-flutter-140684-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 292 | [6](#flutter-flutter-45296-graph)
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 206 | [6](#flutter-flutter-69529-graph)
 [Web] - Superscript and subscript font features don't work on web [flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) | 36 | [6](#flutter-flutter-150743-graph)
@@ -289,8 +289,8 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 102 | [6](#dart-lang-sdk-53402-graph)
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 [cli] Introduce `dart install` (replacing `dart pub global activate` to use) [dart-lang/sdk#60889](https://github.com/dart-lang/sdk/issues/60889) | 10 | [5](#dart-lang-sdk-60889-graph)
-Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
+Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Add a maxValue and minValue to int [dart-lang/sdk#41717](https://github.com/dart-lang/sdk/issues/41717) | 78 | 4
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 47 | 4
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | 4
@@ -339,7 +339,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 542 total reactions, 178 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 544 total reactions, 180 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -348,7 +348,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 525, 528, 542]
+    line [409, 426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 525, 528, 544]
   ```
 
   </details>
@@ -407,7 +407,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
-  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 67 total reactions, 67 recent reactions</sub><br />
+  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 68 total reactions, 68 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -416,7 +416,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [0, 19, 23, 29, 35, 40, 43, 47, 49, 53, 56, 57, 60, 67]
+    line [0, 19, 23, 29, 35, 40, 43, 47, 49, 53, 56, 57, 60, 68]
   ```
 
   </details>
@@ -441,7 +441,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 40 total reactions, 40 recent reactions</sub><br />
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 41 total reactions, 41 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -450,7 +450,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 16, 23, 25, 29, 31, 34, 35, 38, 40]
+    line [0, 0, 0, 0, 0, 16, 23, 25, 29, 31, 34, 35, 38, 41]
   ```
 
   </details>
@@ -762,23 +762,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4455-graph"></a>
-### Make the getter of a final instance variable in a constant receiver a constant expression
-  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-174980-graph"></a>
 ### Impeller for web
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -791,6 +774,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4455-graph"></a>
+### Make the getter of a final instance variable in a constant receiver a constant expression
+  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1255,6 +1255,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-140684-graph"></a>
+### bug: a few hot restarts cause a canvaskit failure
+  <sub>[flutter/flutter#140684](https://github.com/flutter/flutter/issues/140684) &mdash; 24 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions"
+    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 18, 20, 24]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-162147-graph"></a>
 ### Flutter 3.27.x | Android 10, 11 | Crash: "drawRenderNode called on a context with no surface!"
   <sub>[flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) &mdash; 23 total reactions, 8 recent reactions</sub><br />
@@ -1403,23 +1420,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
     line [44, 45, 45, 46, 46, 46, 47, 49, 50, 51, 51, 51, 51, 51]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-140684-graph"></a>
-### bug: a few hot restarts cause a canvaskit failure
-  <sub>[flutter/flutter#140684](https://github.com/flutter/flutter/issues/140684) &mdash; 23 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 18, 20, 23]
   ```
 
   </details>
@@ -1918,23 +1918,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-26119-graph"></a>
-### AnimatedSwitcher should be more customizable
-  <sub>[flutter/flutter#26119](https://github.com/flutter/flutter/issues/26119) &mdash; 29 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions"
-    line [24, 24, 24, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-125741-graph"></a>
 ### Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)'
   <sub>[flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) &mdash; 29 total reactions, 5 recent reactions</sub><br />
@@ -1952,9 +1935,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-154344-graph"></a>
-### Support WasmGC on Safari
-  <sub>[flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) &mdash; 24 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-26119-graph"></a>
+### AnimatedSwitcher should be more customizable
+  <sub>[flutter/flutter#26119](https://github.com/flutter/flutter/issues/26119) &mdash; 29 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1963,7 +1946,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [20, 20, 20, 22, 23, 23, 23, 23, 23, 23, 24, 24, 24, 24]
+    line [24, 24, 24, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -1981,6 +1964,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
     line [19, 19, 20, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-154344-graph"></a>
+### Support WasmGC on Safari
+  <sub>[flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) &mdash; 24 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions"
+    line [20, 20, 20, 22, 23, 23, 23, 23, 23, 23, 24, 24, 24, 24]
   ```
 
   </details>
@@ -2020,23 +2020,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61433-graph"></a>
-### Implicit closure-objects creation performance impact
-  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61060-graph"></a>
 ### Make Zones be properly encapsulating (Breaking!)
   <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -2049,6 +2032,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61433-graph"></a>
+### Implicit closure-objects creation performance impact
+  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 16, Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
   ```
 
   </details>
