@@ -6,7 +6,7 @@ Issues that received the most reactions from 2025-06-23 to 2025-09-21.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 847 | [218](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 848 | [219](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 547 | [137](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 643 | [134](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 94 | [94](#flutter-flutter-172561-graph)
@@ -54,7 +54,7 @@ add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flut
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 847 | [218](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 848 | [219](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 547 | [137](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 643 | [134](#flutter-flutter-168813-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [14](#flutter-flutter-53059-graph)
@@ -75,7 +75,7 @@ Cupertino Sheet should have drag to dismiss and nested scrolling work together [
 `f: cupertino` issues that received the most reactions from 2025-06-23 to 2025-09-21.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 847 | [218](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 848 | [219](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 547 | [137](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [14](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 29 | 3
@@ -150,7 +150,7 @@ Issue | Total reactions | Recent reactions
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 42 | [21](#flutter-flutter-166248-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 14 | [14](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 223 | [12](#flutter-flutter-61229-graph)
-Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 194 | [9](#flutter-flutter-14288-graph)
+Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 195 | [10](#flutter-flutter-14288-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 29 | [8](#flutter-flutter-148026-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 541 | [7](#flutter-flutter-26801-graph)
 Can't capture the output of a `BackdropFilterLayer` without painting it to the screen [flutter/flutter#170792](https://github.com/flutter/flutter/issues/170792) | 29 | [7](#flutter-flutter-170792-graph)
@@ -322,7 +322,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 847 total reactions, 218 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 848 total reactions, 219 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -331,7 +331,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
-    line [630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 824, 826, 847]
+    line [630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 824, 826, 848]
   ```
 
   </details>
@@ -728,23 +728,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
-<a name="dart-lang-language-4455-graph"></a>
-### Make the getter of a final instance variable in a constant receiver a constant expression
-  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-174980-graph"></a>
 ### Impeller for web
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -757,6 +740,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4455-graph"></a>
+### Make the getter of a final instance variable in a constant receiver a constant expression
+  <sub>[dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -881,6 +881,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="flutter-flutter-14288-graph"></a>
+### Antialiasing behaviour when same-colour 
+  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 195 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    y-axis "Reactions"
+    line [187, 187, 188, 188, 189, 189, 190, 190, 190, 191, 191, 191, 195]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-102560-graph"></a>
 ### Support Material Symbols 
   <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 138 total reactions, 10 recent reactions</sub><br />
@@ -995,23 +1012,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
     y-axis "Reactions"
     line [198, 198, 200, 201, 202, 204, 204, 204, 204, 205, 206, 206, 207]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-14288-graph"></a>
-### Antialiasing behaviour when same-colour 
-  <sub>[flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) &mdash; 194 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions"
-    line [187, 187, 188, 188, 189, 189, 190, 190, 190, 191, 191, 191, 194]
   ```
 
   </details>
