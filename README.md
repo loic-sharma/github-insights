@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-06-23 to 2025-09-21.
+Issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-framework` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flut
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-design` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Cupertino Sheet should have drag to dismiss and nested scrolling work together [
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`f: cupertino` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 848 | [219](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 3
@@ -108,20 +108,20 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 36 | 1
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 26 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
-Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 23 | 1
+Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 1
 [Web] [CanvasKit][Feature Request]: Load fonts as soon as detecting browser locale [flutter/flutter#77023](https://github.com/flutter/flutter/issues/77023) | 19 | 1
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-go_router` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-tool` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,7 +143,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-engine` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 68 | [53](#flutter-flutter-170820-graph)
@@ -166,7 +166,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-ios` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,7 +188,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-android` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,7 +210,7 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-web` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -228,11 +228,11 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 39 | 4
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 24 | 4
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 3
-[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 3
+Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 92 | 3
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -254,7 +254,7 @@ Support building Windows apps from Linux [flutter/flutter#110585](https://github
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`team-ecosystem` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -272,11 +272,11 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 39 | 4
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 24 | 4
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 3
-[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 3
+Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 92 | 3
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`dart-lang/sdk` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -291,14 +291,14 @@ Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https
 Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | 4
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | 4
-Future.wait should support Flutter's SynchronousFuture [dart-lang/sdk#50204](https://github.com/dart-lang/sdk/issues/50204) | 14 | 4
 Need better warning message for `A value for optional parameter 'x' isn't ever given.` [dart-lang/sdk#52827](https://github.com/dart-lang/sdk/issues/52827) | 14 | 4
-[cli] Introduce `dart install` (replacing `dart pub global activate` to use) [dart-lang/sdk#60889](https://github.com/dart-lang/sdk/issues/60889) | 10 | 4
+Future.wait should support Flutter's SynchronousFuture [dart-lang/sdk#50204](https://github.com/dart-lang/sdk/issues/50204) | 14 | 4
 Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 4 | 4
+Customers want guidance and docs for tree-shaking [dart-lang/sdk#33920](https://github.com/dart-lang/sdk/issues/33920) | 69 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-06-23 to 2025-09-21.
+`dart-lang/language` issues that received the most reactions from 2025-06-23 to 2025-09-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -329,9 +329,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 824, 826, 848]
+    line [630, 645, 646, 649, 656, 766, 785, 798, 804, 809, 824, 826, 848, 848]
   ```
 
   </details>
@@ -346,9 +346,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 525, 528, 547]
+    line [426, 446, 468, 476, 491, 504, 507, 511, 515, 518, 525, 528, 547, 547]
   ```
 
   </details>
@@ -363,9 +363,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 625, 636, 643]
+    line [518, 523, 533, 546, 558, 588, 591, 601, 605, 614, 625, 636, 643, 643]
   ```
 
   </details>
@@ -380,9 +380,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 54, 56, 78, 79, 84, 93, 93, 93, 94]
+    line [0, 0, 0, 0, 54, 56, 78, 79, 84, 93, 93, 93, 94, 94]
   ```
 
   </details>
@@ -397,9 +397,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 97, 99]
+    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 26, 90, 97, 99, 99]
   ```
 
   </details>
@@ -414,9 +414,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [19, 23, 29, 35, 40, 43, 47, 49, 53, 56, 57, 60, 68]
+    line [19, 23, 29, 35, 40, 43, 47, 49, 53, 56, 57, 60, 68, 68]
   ```
 
   </details>
@@ -431,9 +431,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 16, 23, 25, 29, 31, 34, 35, 38, 41]
+    line [0, 0, 0, 0, 16, 23, 25, 29, 31, 34, 35, 38, 41, 41]
   ```
 
   </details>
@@ -448,9 +448,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [1166, 1170, 1170, 1172, 1175, 1176, 1176, 1196, 1198, 1200, 1204, 1204, 1204]
+    line [1166, 1170, 1170, 1172, 1175, 1176, 1176, 1196, 1198, 1200, 1204, 1204, 1204, 1204]
   ```
 
   </details>
@@ -465,9 +465,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [0, 0, 0, 18, 20, 21, 22, 25, 26, 27, 27, 27, 27]
+    line [0, 0, 0, 18, 20, 21, 22, 25, 26, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -482,9 +482,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [2243, 2246, 2250, 2253, 2254, 2255, 2260, 2259, 2265, 2266, 2267, 2267, 2268]
+    line [2243, 2246, 2250, 2253, 2254, 2255, 2260, 2259, 2265, 2266, 2267, 2267, 2268, 2268]
   ```
 
   </details>
@@ -499,9 +499,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [12, 14, 14, 14, 16, 20, 20, 22, 22, 22, 22, 22, 24]
+    line [12, 14, 14, 14, 16, 20, 20, 22, 22, 22, 22, 22, 24, 24]
   ```
 
   </details>
@@ -516,9 +516,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 22]
   ```
 
   </details>
@@ -533,9 +533,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [22, 25, 30, 32, 32, 32, 33, 35, 41, 41, 42, 42, 42]
+    line [22, 25, 30, 32, 32, 32, 33, 35, 41, 41, 42, 42, 42, 42]
   ```
 
   </details>
@@ -550,9 +550,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [187, 189, 190, 191, 192, 195, 195, 198, 201, 201, 201, 201, 204]
+    line [187, 189, 190, 191, 192, 195, 195, 198, 201, 201, 201, 201, 204, 204]
   ```
 
   </details>
@@ -567,9 +567,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 11, 12, 13, 13, 13, 15, 15, 15, 16, 17, 18, 18]
+    line [0, 11, 12, 13, 13, 13, 15, 15, 15, 16, 17, 18, 18, 18]
   ```
 
   </details>
@@ -584,9 +584,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [44, 44, 45, 46, 46, 54, 55, 56, 56, 57, 57, 57, 61]
+    line [44, 44, 45, 46, 46, 54, 55, 56, 56, 57, 57, 57, 61, 61]
   ```
 
   </details>
@@ -601,9 +601,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [30, 32, 34, 34, 36, 38, 39, 39, 40, 43, 44, 46, 47]
+    line [30, 32, 34, 34, 36, 38, 39, 39, 40, 43, 44, 46, 47, 47]
   ```
 
   </details>
@@ -618,9 +618,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [1086, 1086, 1087, 1090, 1090, 1094, 1095, 1097, 1098, 1098, 1098, 1098, 1098]
+    line [1086, 1086, 1087, 1090, 1090, 1094, 1095, 1097, 1098, 1098, 1098, 1098, 1098, 1098]
   ```
 
   </details>
@@ -635,9 +635,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [81, 81, 81, 83, 83, 83, 90, 95, 95, 95, 96, 96, 96]
+    line [81, 81, 81, 83, 83, 83, 90, 95, 95, 95, 96, 96, 96, 96]
   ```
 
   </details>
@@ -652,9 +652,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 15]
+    line [0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 15, 15]
   ```
 
   </details>
@@ -669,9 +669,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [538, 538, 538, 543, 544, 548, 551, 551, 551, 552, 552, 552, 552]
+    line [538, 538, 538, 543, 544, 548, 551, 551, 551, 552, 552, 552, 552, 552]
   ```
 
   </details>
@@ -686,9 +686,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [452, 453, 453, 453, 453, 453, 455, 456, 461, 462, 463, 465, 466]
+    line [452, 453, 453, 453, 453, 453, 455, 456, 461, 462, 463, 465, 466, 466]
   ```
 
   </details>
@@ -703,9 +703,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [188, 188, 189, 189, 189, 191, 195, 196, 197, 197, 198, 198, 198]
+    line [188, 188, 189, 189, 189, 191, 195, 196, 197, 197, 198, 198, 198, 198]
   ```
 
   </details>
@@ -720,26 +720,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [51, 51, 51, 51, 51, 58, 59, 60, 60, 61, 64, 64, 64]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174980-graph"></a>
-### Impeller for web
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+    line [51, 51, 51, 51, 51, 58, 59, 60, 60, 61, 64, 64, 64, 64]
   ```
 
   </details>
@@ -754,9 +737,26 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 11, 11, 11, 11, 14, 14, 14, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-174980-graph"></a>
+### Impeller for web
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
   ```
 
   </details>
@@ -771,9 +771,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [66, 71, 71, 72, 74, 74, 75, 76, 76, 76, 76, 76, 76]
+    line [66, 71, 71, 72, 74, 74, 75, 76, 76, 76, 76, 76, 76, 76]
   ```
 
   </details>
@@ -788,9 +788,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13]
   ```
 
   </details>
@@ -805,9 +805,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [211, 212, 214, 216, 217, 218, 219, 219, 219, 221, 223, 223, 223]
+    line [211, 212, 214, 216, 217, 218, 219, 219, 219, 221, 223, 223, 223, 223]
   ```
 
   </details>
@@ -822,9 +822,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [222, 222, 222, 222, 223, 224, 225, 225, 231, 231, 232, 232, 232]
+    line [222, 222, 222, 222, 223, 224, 225, 225, 231, 231, 232, 232, 232, 232]
   ```
 
   </details>
@@ -839,9 +839,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [61, 61, 61, 61, 62, 65, 66, 69, 69, 69, 69, 69, 70]
+    line [61, 61, 61, 61, 62, 65, 66, 69, 69, 69, 69, 69, 70, 70]
   ```
 
   </details>
@@ -856,9 +856,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 7, 9, 10, 10, 10, 11, 11]
+    line [0, 0, 0, 0, 0, 0, 7, 9, 10, 10, 10, 11, 11, 11]
   ```
 
   </details>
@@ -873,9 +873,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [205, 205, 205, 207, 207, 209, 209, 209, 210, 211, 212, 213, 213]
+    line [205, 205, 205, 207, 207, 209, 209, 209, 210, 211, 212, 213, 213, 213]
   ```
 
   </details>
@@ -890,9 +890,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [187, 187, 188, 188, 189, 189, 190, 190, 190, 191, 191, 191, 195]
+    line [187, 187, 188, 188, 189, 189, 190, 190, 190, 191, 191, 191, 195, 195]
   ```
 
   </details>
@@ -907,9 +907,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [128, 128, 129, 131, 134, 135, 136, 138, 138, 138, 138, 138, 138]
+    line [128, 128, 129, 131, 134, 135, 136, 138, 138, 138, 138, 138, 138, 138]
   ```
 
   </details>
@@ -924,9 +924,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [67, 67, 67, 67, 67, 73, 73, 73, 74, 74, 74, 74, 75]
+    line [67, 67, 67, 67, 67, 73, 73, 73, 74, 74, 74, 74, 75, 75]
   ```
 
   </details>
@@ -941,9 +941,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [46, 46, 47, 47, 47, 49, 49, 54, 54, 55, 55, 55, 56]
+    line [46, 46, 47, 47, 47, 49, 49, 54, 54, 55, 55, 55, 56, 56]
   ```
 
   </details>
@@ -958,9 +958,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [870, 870, 871, 877, 877, 877, 877, 878, 878, 878, 878, 879, 879]
+    line [870, 870, 871, 877, 877, 877, 877, 878, 878, 878, 878, 879, 879, 879]
   ```
 
   </details>
@@ -975,9 +975,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [694, 694, 694, 694, 694, 694, 694, 694, 694, 695, 696, 702, 702]
+    line [694, 694, 694, 694, 694, 694, 694, 694, 694, 695, 696, 702, 702, 702]
   ```
 
   </details>
@@ -992,9 +992,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [413, 413, 413, 413, 414, 414, 415, 415, 415, 415, 419, 420, 420]
+    line [413, 413, 413, 413, 414, 414, 415, 415, 415, 415, 419, 420, 420, 420]
   ```
 
   </details>
@@ -1009,9 +1009,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [198, 198, 200, 201, 202, 204, 204, 204, 204, 205, 206, 206, 207]
+    line [198, 198, 200, 201, 202, 204, 204, 204, 204, 205, 206, 206, 207, 207]
   ```
 
   </details>
@@ -1026,9 +1026,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [80, 81, 81, 81, 82, 83, 85, 85, 88, 88, 88, 88, 88]
+    line [80, 81, 81, 81, 82, 83, 85, 85, 88, 88, 88, 88, 88, 88]
   ```
 
   </details>
@@ -1043,9 +1043,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [72, 72, 72, 74, 74, 74, 74, 77, 81, 81, 81, 81, 81]
+    line [72, 72, 72, 74, 74, 74, 74, 77, 81, 81, 81, 81, 81, 81]
   ```
 
   </details>
@@ -1060,9 +1060,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [63, 64, 62, 65, 65, 65, 67, 68, 68, 68, 69, 69, 70]
+    line [63, 64, 62, 65, 65, 65, 67, 68, 68, 68, 69, 69, 70, 70]
   ```
 
   </details>
@@ -1077,9 +1077,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [0, 0, 13, 14, 15, 17, 19, 19, 21, 21, 21, 21, 22]
+    line [0, 0, 13, 14, 15, 17, 19, 19, 21, 21, 21, 21, 22, 22]
   ```
 
   </details>
@@ -1094,9 +1094,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [252, 255, 256, 256, 256, 258, 258, 258, 258, 258, 258, 258, 259]
+    line [252, 255, 256, 256, 256, 258, 258, 258, 258, 258, 258, 258, 259, 259]
   ```
 
   </details>
@@ -1111,9 +1111,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [242, 246, 246, 247, 247, 247, 247, 248, 248, 248, 248, 248, 248]
+    line [242, 246, 246, 247, 247, 247, 247, 248, 248, 248, 248, 248, 248, 248]
   ```
 
   </details>
@@ -1128,9 +1128,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [221, 221, 221, 221, 221, 221, 221, 221, 221, 225, 225, 225, 225]
+    line [221, 221, 221, 221, 221, 221, 221, 221, 221, 225, 225, 225, 225, 225]
   ```
 
   </details>
@@ -1145,9 +1145,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [162, 162, 163, 164, 165, 165, 165, 168, 168, 169, 169, 169, 170]
+    line [162, 162, 163, 164, 165, 165, 165, 168, 168, 169, 169, 169, 170, 170]
   ```
 
   </details>
@@ -1162,9 +1162,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [21, 21, 23, 25, 25, 25, 25, 25, 25, 27, 27, 27, 29]
+    line [21, 21, 23, 25, 25, 25, 25, 25, 25, 27, 27, 27, 29, 29]
   ```
 
   </details>
@@ -1179,9 +1179,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 18, 20, 24]
+    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 18, 20, 24, 24]
   ```
 
   </details>
@@ -1196,9 +1196,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [534, 532, 534, 534, 534, 534, 534, 535, 535, 536, 539, 541, 541]
+    line [534, 532, 534, 534, 534, 534, 534, 535, 535, 536, 539, 541, 541, 541]
   ```
 
   </details>
@@ -1213,9 +1213,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 306, 306, 308]
+    line [301, 301, 302, 302, 302, 304, 304, 304, 305, 305, 306, 306, 308, 308]
   ```
 
   </details>
@@ -1230,9 +1230,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [210, 210, 210, 211, 212, 214, 214, 216, 216, 216, 216, 217, 217]
+    line [210, 210, 210, 211, 212, 214, 214, 216, 216, 216, 216, 217, 217, 217]
   ```
 
   </details>
@@ -1247,9 +1247,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [207, 207, 207, 207, 207, 208, 208, 208, 208, 208, 208, 214, 214]
+    line [207, 207, 207, 207, 207, 208, 208, 208, 208, 208, 208, 214, 214, 214]
   ```
 
   </details>
@@ -1264,9 +1264,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [186, 186, 186, 186, 186, 186, 186, 186, 189, 189, 189, 189, 189]
+    line [186, 186, 186, 186, 186, 186, 186, 186, 189, 189, 189, 189, 189, 189]
   ```
 
   </details>
@@ -1281,9 +1281,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [114, 115, 115, 115, 116, 116, 117, 119, 119, 119, 119, 119, 119]
+    line [114, 115, 115, 115, 116, 116, 117, 119, 119, 119, 119, 119, 119, 119]
   ```
 
   </details>
@@ -1298,9 +1298,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [97, 96, 98, 98, 98, 98, 98, 100, 100, 100, 100, 101, 101]
+    line [97, 96, 98, 98, 98, 98, 98, 100, 100, 100, 100, 101, 101, 101]
   ```
 
   </details>
@@ -1315,9 +1315,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [50, 51, 51, 51, 52, 52, 52, 52, 52, 53, 53, 53, 54]
+    line [50, 51, 51, 51, 52, 52, 52, 52, 52, 53, 53, 53, 54, 54]
   ```
 
   </details>
@@ -1332,9 +1332,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [45, 45, 46, 46, 46, 47, 49, 50, 51, 51, 51, 51, 51]
+    line [45, 45, 46, 46, 46, 47, 49, 50, 51, 51, 51, 51, 51, 51]
   ```
 
   </details>
@@ -1349,9 +1349,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [24, 27, 27, 27, 28, 28, 28, 28, 28, 28, 28, 29, 29]
+    line [24, 27, 27, 27, 28, 28, 28, 28, 28, 28, 28, 29, 29, 29]
   ```
 
   </details>
@@ -1366,9 +1366,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [17, 19, 20, 21, 21, 21, 21, 22, 22, 23, 23, 23, 23]
+    line [17, 19, 20, 21, 21, 21, 21, 22, 22, 23, 23, 23, 23, 23]
   ```
 
   </details>
@@ -1383,9 +1383,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [438, 438, 438, 438, 438, 438, 438, 444, 444, 444, 444, 444, 444]
+    line [438, 438, 438, 438, 438, 438, 438, 444, 444, 444, 444, 444, 444, 444]
   ```
 
   </details>
@@ -1400,9 +1400,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [334, 335, 335, 337, 337, 337, 337, 337, 339, 340, 340, 340, 340]
+    line [334, 335, 335, 337, 337, 337, 337, 337, 339, 340, 340, 340, 340, 340]
   ```
 
   </details>
@@ -1417,9 +1417,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [287, 287, 287, 287, 287, 287, 288, 290, 290, 290, 291, 291, 293]
+    line [287, 287, 287, 287, 287, 287, 288, 290, 290, 290, 291, 291, 293, 293]
   ```
 
   </details>
@@ -1434,9 +1434,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [164, 165, 165, 166, 166, 170, 170, 170, 170, 170, 170, 170, 170]
+    line [164, 165, 165, 166, 166, 170, 170, 170, 170, 170, 170, 170, 170, 170]
   ```
 
   </details>
@@ -1451,9 +1451,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [160, 160, 160, 160, 163, 163, 163, 163, 163, 163, 163, 164, 164]
+    line [160, 160, 160, 160, 163, 163, 163, 163, 163, 163, 163, 164, 164, 164]
   ```
 
   </details>
@@ -1468,9 +1468,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [114, 114, 114, 114, 115, 116, 116, 119, 120, 120, 120, 120, 120]
+    line [114, 114, 114, 114, 115, 116, 116, 119, 120, 120, 120, 120, 120, 120]
   ```
 
   </details>
@@ -1485,9 +1485,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [96, 96, 98, 98, 98, 98, 98, 98, 98, 98, 102, 102, 102]
+    line [96, 96, 98, 98, 98, 98, 98, 98, 98, 98, 102, 102, 102, 102]
   ```
 
   </details>
@@ -1502,9 +1502,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [88, 88, 88, 89, 89, 89, 94, 94, 94, 94, 94, 94, 94]
+    line [88, 88, 88, 89, 89, 89, 94, 94, 94, 94, 94, 94, 94, 94]
   ```
 
   </details>
@@ -1519,9 +1519,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [65, 65, 66, 67, 67, 68, 68, 69, 69, 69, 69, 69, 69]
+    line [65, 65, 66, 67, 67, 68, 68, 69, 69, 69, 69, 69, 69, 69]
   ```
 
   </details>
@@ -1536,9 +1536,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [49, 51, 51, 51, 53, 53, 53, 53, 54, 55, 55, 55, 55]
+    line [49, 51, 51, 51, 53, 53, 53, 53, 54, 55, 55, 55, 55, 55]
   ```
 
   </details>
@@ -1553,9 +1553,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [45, 46, 46, 46, 48, 49, 49, 49, 50, 51, 51, 51, 51]
+    line [45, 46, 46, 46, 48, 49, 49, 49, 50, 51, 51, 51, 51, 51]
   ```
 
   </details>
@@ -1570,9 +1570,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [30, 30, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36]
+    line [30, 30, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -1587,9 +1587,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 20, 21]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 20, 21, 21]
   ```
 
   </details>
@@ -1604,9 +1604,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 4, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 4, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1621,9 +1621,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [382, 382, 382, 382, 383, 383, 383, 383, 383, 384, 384, 387, 387]
+    line [382, 382, 382, 382, 383, 383, 383, 383, 383, 384, 384, 387, 387, 387]
   ```
 
   </details>
@@ -1638,9 +1638,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [356, 356, 356, 356, 357, 358, 358, 358, 358, 358, 359, 359, 361]
+    line [356, 356, 356, 356, 357, 358, 358, 358, 358, 358, 359, 359, 361, 361]
   ```
 
   </details>
@@ -1655,9 +1655,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [285, 289, 289, 289, 289, 289, 290, 290, 290, 290, 290, 290, 290]
+    line [285, 289, 289, 289, 289, 289, 290, 290, 290, 290, 290, 290, 290, 290]
   ```
 
   </details>
@@ -1672,9 +1672,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [267, 269, 269, 269, 270, 271, 271, 271, 271, 272, 272, 272, 272]
+    line [267, 269, 269, 269, 270, 271, 271, 271, 271, 272, 272, 272, 272, 272]
   ```
 
   </details>
@@ -1689,9 +1689,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [220, 220, 221, 222, 223, 223, 223, 223, 223, 224, 224, 224, 225]
+    line [220, 220, 221, 222, 223, 223, 223, 223, 223, 224, 224, 224, 225, 225]
   ```
 
   </details>
@@ -1706,9 +1706,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [201, 202, 202, 203, 203, 203, 204, 204, 205, 206, 206, 206, 206]
+    line [201, 202, 202, 203, 203, 203, 204, 204, 205, 206, 206, 206, 206, 206]
   ```
 
   </details>
@@ -1723,9 +1723,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [148, 149, 150, 150, 150, 151, 151, 151, 151, 151, 151, 153, 153]
+    line [148, 149, 150, 150, 150, 151, 151, 151, 151, 151, 151, 153, 153, 153]
   ```
 
   </details>
@@ -1740,9 +1740,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [93, 93, 93, 93, 93, 94, 94, 95, 95, 96, 96, 97, 97]
+    line [93, 93, 93, 93, 93, 94, 94, 95, 95, 96, 96, 97, 97, 97]
   ```
 
   </details>
@@ -1757,9 +1757,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [87, 87, 87, 88, 88, 88, 88, 89, 92, 92, 92, 92, 92]
+    line [87, 87, 87, 88, 88, 88, 88, 89, 92, 92, 92, 92, 92, 92]
   ```
 
   </details>
@@ -1774,9 +1774,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [79, 79, 79, 79, 80, 81, 81, 81, 81, 84, 84, 84, 84]
+    line [79, 79, 79, 79, 80, 81, 81, 81, 81, 84, 84, 84, 84, 84]
   ```
 
   </details>
@@ -1791,9 +1791,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [66, 67, 68, 69, 69, 69, 69, 69, 70, 70, 70, 71, 71]
+    line [66, 67, 68, 69, 69, 69, 69, 69, 70, 70, 70, 71, 71, 71]
   ```
 
   </details>
@@ -1808,9 +1808,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [60, 61, 61, 61, 62, 62, 63, 63, 63, 63, 63, 64, 65]
+    line [60, 61, 61, 61, 62, 62, 63, 63, 63, 63, 63, 64, 65, 65]
   ```
 
   </details>
@@ -1825,9 +1825,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [49, 50, 50, 52, 52, 53, 54, 54, 54, 54, 54, 54, 54]
+    line [49, 50, 50, 52, 52, 53, 54, 54, 54, 54, 54, 54, 54, 54]
   ```
 
   </details>
@@ -1842,9 +1842,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [43, 45, 45, 45, 45, 47, 47, 48, 48, 48, 48, 48, 48]
+    line [43, 45, 45, 45, 45, 47, 47, 48, 48, 48, 48, 48, 48, 48]
   ```
 
   </details>
@@ -1859,9 +1859,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [39, 39, 40, 40, 41, 41, 41, 41, 41, 41, 43, 43, 44]
+    line [39, 39, 40, 40, 41, 41, 41, 41, 41, 41, 43, 43, 44, 44]
   ```
 
   </details>
@@ -1876,9 +1876,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [37, 38, 39, 39, 39, 39, 39, 39, 40, 42, 42, 42, 42]
+    line [37, 38, 39, 39, 39, 39, 39, 39, 40, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -1893,9 +1893,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [24, 24, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29]
+    line [24, 24, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -1910,9 +1910,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [25, 25, 25, 25, 27, 27, 27, 27, 27, 27, 27, 29, 29]
+    line [25, 25, 25, 25, 27, 27, 27, 27, 27, 27, 27, 29, 29, 29]
   ```
 
   </details>
@@ -1927,9 +1927,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [19, 20, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
+    line [19, 20, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1944,9 +1944,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
   ```
 
   </details>
@@ -1961,9 +1961,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15]
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
