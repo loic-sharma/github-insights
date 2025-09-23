@@ -221,6 +221,7 @@ void writeDashboard(
   final dartSdk = deltas.where((delta) => delta.repository == 'dart-lang/sdk').take(15).toList();
   final dartLanguage = deltas.where((delta) => delta.repository == 'dart-lang/language').take(15).toList();
 
+  final teamAccessibility = deltas.where(hasLabel('team-accessibility')).take(15).toList();
   final teamAndroid = deltas.where(hasLabel('team-android')).take(15).toList();
   final teamDesign = deltas.where(hasLabel('team-design')).take(15).toList();
   final teamDesktop = deltas.where(hasAnyLabel({'team-windows', 'team-macos', 'team-linux'})).take(15).toList();
@@ -233,12 +234,12 @@ void writeDashboard(
   final teamTool = deltas.where(hasLabel('team-tool')).take(15).toList();
   final teamWeb = deltas.where(hasLabel('team-web')).take(15).toList();
 
-
   final all = [
     ...mostReactions,
     ...cupertino,
     ...dartSdk,
     ...dartLanguage,
+    ...teamAccessibility,
     ...teamAndroid,
     ...teamDesign,
     ...teamEcosystem,
@@ -304,6 +305,14 @@ void writeDashboard(
   writer.writeln('`team-text-input` and `a: text input` issues that received the most reactions $window.');
 
   _writeIssueDeltasTable(writer, teamTextInput);
+
+  writer.writeln('#### Accessibility');
+  writer.writeln();
+
+  writer.writeln('`team-accessibility` issues that received the most reactions $window.');
+  writer.writeln();
+
+  _writeIssueDeltasTable(writer, teamAccessibility);
 
   writer.writeln('#### go_router');
   writer.writeln();
