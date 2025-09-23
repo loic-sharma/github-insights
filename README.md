@@ -11,7 +11,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 643 | [134](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 94 | [94](#flutter-flutter-172561-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 99 | [74](#flutter-flutter-69949-graph)
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 69 | [54](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 70 | [55](#flutter-flutter-170820-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 41 | [41](#flutter-flutter-172434-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1204 | [40](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2270 | [28](#dart-lang-language-314-graph)
@@ -146,7 +146,7 @@ Building all integration test targets into a single application binary [flutter/
 `team-engine` issues that received the most reactions from 2025-06-23 to 2025-09-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 69 | [54](#flutter-flutter-170820-graph)
+`ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 70 | [55](#flutter-flutter-170820-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 42 | [21](#flutter-flutter-166248-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 14 | [14](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 223 | [12](#flutter-flutter-61229-graph)
@@ -407,7 +407,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
-  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 69 total reactions, 54 recent reactions</sub><br />
+  <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 70 total reactions, 55 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -416,7 +416,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   xychart-beta
     x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
-    line [19, 23, 29, 35, 40, 43, 47, 49, 53, 56, 57, 60, 68, 69]
+    line [19, 23, 29, 35, 40, 43, 47, 49, 53, 56, 57, 60, 68, 70]
   ```
 
   </details>
