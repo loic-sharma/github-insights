@@ -297,8 +297,8 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 70 | [9](#dart-lang-sdk-53884-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 215 | [8](#dart-lang-sdk-50565-graph)
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
-Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
+Make Zones be properly encapsulating (Breaking!) [dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) | 5 | [5](#dart-lang-sdk-61060-graph)
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | 4
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | 4
 Future.wait should support Flutter's SynchronousFuture [dart-lang/sdk#50204](https://github.com/dart-lang/sdk/issues/50204) | 14 | 4
@@ -1945,23 +1945,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-26119-graph"></a>
-### AnimatedSwitcher should be more customizable
-  <sub>[flutter/flutter#26119](https://github.com/flutter/flutter/issues/26119) &mdash; 29 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
-    y-axis "Reactions"
-    line [24, 24, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-125741-graph"></a>
 ### Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)'
   <sub>[flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) &mdash; 29 total reactions, 5 recent reactions</sub><br />
@@ -1974,6 +1957,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
     line [25, 25, 25, 25, 27, 27, 27, 27, 27, 27, 27, 29, 29, 29]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-26119-graph"></a>
+### AnimatedSwitcher should be more customizable
+  <sub>[flutter/flutter#26119](https://github.com/flutter/flutter/issues/26119) &mdash; 29 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
+    y-axis "Reactions"
+    line [24, 24, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -1996,23 +1996,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61060-graph"></a>
-### Make Zones be properly encapsulating (Breaking!)
-  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61433-graph"></a>
 ### Implicit closure-objects creation performance impact
   <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -2025,6 +2008,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61060-graph"></a>
+### Make Zones be properly encapsulating (Breaking!)
+  <sub>[dart-lang/sdk#61060](https://github.com/dart-lang/sdk/issues/61060) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
