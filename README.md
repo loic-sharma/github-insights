@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-06-23 to 2025-09-25.
+Issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Feature Request: Support object shorthand syntax in Dart [dart-lang/language#443
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-framework` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flut
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-design` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support custom ExpansionPanel icon [flutter/flutter#108973](https://github.com/f
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`f: cupertino` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 855 | [226](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 112 | 3
@@ -114,7 +114,7 @@ Better textFormField label placement customization when focused and when value i
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-accessibility` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-go_router` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-tool` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-engine` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 72 | [57](#flutter-flutter-170820-graph)
@@ -176,7 +176,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-ios` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-android` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-web` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/f
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`team-ecosystem` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`dart-lang/sdk` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Customers want guidance and docs for tree-shaking [dart-lang/sdk#33920](https://
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-06-23 to 2025-09-25.
+`dart-lang/language` issues that received the most reactions from 2025-06-23 to 2025-09-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -321,12 +321,12 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 553 | [15](#dart-lang-language-83-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 198 | [14](#dart-lang-language-4271-graph)
 Make the getter of a final instance variable in a constant receiver a constant expression [dart-lang/language#4455](https://github.com/dart-lang/language/issues/4455) | 14 | [14](#dart-lang-language-4455-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1698 | [12](#dart-lang-language-1482-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 232 | [11](#dart-lang-language-399-graph)
 Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) | 76 | [11](#dart-lang-language-3192-graph)
 Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 420 | [9](#dart-lang-language-356-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 259 | [8](#dart-lang-language-2364-graph)
-Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 248 | [8](#dart-lang-language-524-graph)
 
 ## Graphs
 
@@ -823,6 +823,23 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
   </details>
   </sub>
 
+<a name="dart-lang-language-1482-graph"></a>
+### Static Metaprogramming
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1698 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
+    y-axis "Reactions"
+    line [1686, 1688, 1689, 1689, 1689, 1690, 1690, 1689, 1691, 1691, 1691, 1691, 1691, 1698]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-399-graph"></a>
 ### Add "Safe" (nullable) cast operator `as?`
   <sub>[dart-lang/language#399](https://github.com/dart-lang/language/issues/399) &mdash; 232 total reactions, 11 recent reactions</sub><br />
@@ -1175,23 +1192,6 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
     x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
     line [252, 255, 256, 256, 256, 258, 258, 258, 258, 258, 258, 258, 259, 259]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-524-graph"></a>
-### Feature: Statically checked declaration-site variance
-  <sub>[dart-lang/language#524](https://github.com/dart-lang/language/issues/524) &mdash; 248 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 23, Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
-    y-axis "Reactions"
-    line [242, 246, 246, 247, 247, 247, 247, 248, 248, 248, 248, 248, 248, 248]
   ```
 
   </details>
