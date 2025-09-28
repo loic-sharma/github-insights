@@ -16,8 +16,8 @@ in app purchase in iOS always return status == PurchaseStatus.restored when purc
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1204 | [38](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2273 | [30](#dart-lang-language-314-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 27 | [27](#dart-lang-language-4462-graph)
+Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 44 | [22](#flutter-flutter-166248-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
-Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 43 | [21](#flutter-flutter-166248-graph)
 Feature Request: Support object shorthand syntax in Dart [dart-lang/language#4437](https://github.com/dart-lang/language/issues/4437) | 18 | [18](#dart-lang-language-4437-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 204 | [17](#dart-lang-sdk-55281-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 61 | [17](#flutter-flutter-163845-graph)
@@ -108,8 +108,8 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 43 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 36 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
-Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 23 | 1
+Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 1
 [Web] [CanvasKit][Feature Request]: Load fonts as soon as detecting browser locale [flutter/flutter#77023](https://github.com/flutter/flutter/issues/77023) | 19 | 1
 
 #### Accessibility
@@ -157,7 +157,7 @@ Building all integration test targets into a single application binary [flutter/
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 74 | [53](#flutter-flutter-170820-graph)
-Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 43 | [21](#flutter-flutter-166248-graph)
+Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 44 | [22](#flutter-flutter-166248-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 15 | [15](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 224 | [13](#flutter-flutter-61229-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 30 | [9](#flutter-flutter-148026-graph)
@@ -500,6 +500,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="flutter-flutter-166248-graph"></a>
+### Flutter Crashes OpenGL on MediaTek
+  <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 44 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
+    y-axis "Reactions"
+    line [25, 30, 32, 32, 32, 33, 35, 41, 41, 42, 42, 42, 44]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-175318-graph"></a>
 ### Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder.
   <sub>[flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -512,23 +529,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 22, 22]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-166248-graph"></a>
-### Flutter Crashes OpenGL on MediaTek
-  <sub>[flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) &mdash; 43 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22]
-    y-axis "Reactions"
-    line [25, 30, 32, 32, 32, 33, 35, 41, 41, 42, 42, 42, 43]
   ```
 
   </details>
