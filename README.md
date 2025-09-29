@@ -188,11 +188,11 @@ Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutt
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 153 | [5](#flutter-flutter-28894-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 57 | [5](#flutter-flutter-115926-graph)
 [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed  [flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) | 54 | [5](#flutter-flutter-85529-graph)
+iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 24 | [5](#flutter-flutter-130492-graph)
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 87 | 4
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 49 | 4
 ☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 30 | 4
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 29 | 4
-iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 23 | 4
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 156 | 3
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 76 | 3
 
@@ -291,9 +291,9 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 204 | [17](#dart-lang-sdk-55281-graph)
+[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 84 | [12](#dart-lang-sdk-57036-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 57 | [11](#dart-lang-sdk-56841-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 106 | [10](#dart-lang-sdk-53402-graph)
-[Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 82 | [10](#dart-lang-sdk-57036-graph)
 ☂️ [vm/ffi] Build hooks & Code assets [dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) | 215 | [8](#dart-lang-sdk-50565-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 70 | [7](#dart-lang-sdk-53884-graph)
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
@@ -636,23 +636,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-171583-graph"></a>
-### [video_player] on [android] issue with seekTo
-  <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-174980-graph"></a>
 ### Impeller for web
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -665,6 +648,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-171583-graph"></a>
+### [video_player] on [android] issue with seekTo
+  <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 15, 15, 15]
   ```
 
   </details>
@@ -789,6 +789,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-sdk-57036-graph"></a>
+### [Dot Shorthands][meta] Dot shorthands implementation
+  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 84 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
+    y-axis "Reactions"
+    line [72, 72, 74, 74, 74, 74, 77, 81, 81, 81, 81, 81, 82, 84]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 57 total reactions, 11 recent reactions</sub><br />
@@ -903,23 +920,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
     y-axis "Reactions"
     line [96, 98, 98, 98, 98, 98, 98, 98, 98, 102, 102, 102, 106, 106]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-57036-graph"></a>
-### [Dot Shorthands][meta] Dot shorthands implementation
-  <sub>[dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) &mdash; 82 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
-    y-axis "Reactions"
-    line [72, 72, 74, 74, 74, 74, 77, 81, 81, 81, 81, 81, 82, 82]
   ```
 
   </details>
@@ -1872,6 +1872,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
     y-axis "Reactions"
     line [20, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-130492-graph"></a>
+### iOS: italic system font doesn't render properly
+  <sub>[flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) &mdash; 24 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
+    y-axis "Reactions"
+    line [20, 20, 20, 20, 20, 21, 21, 22, 22, 22, 22, 22, 23, 24]
   ```
 
   </details>
