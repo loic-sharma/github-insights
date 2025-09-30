@@ -108,8 +108,8 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 43 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 36 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
-Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 23 | 1
+Better textFormField label placement customization when focused and when value input- vertical floatingLabelAlignment feature. [flutter/flutter#110425](https://github.com/flutter/flutter/issues/110425) | 23 | 1
 [Web] [CanvasKit][Feature Request]: Load fonts as soon as detecting browser locale [flutter/flutter#77023](https://github.com/flutter/flutter/issues/77023) | 19 | 1
 
 #### Accessibility
