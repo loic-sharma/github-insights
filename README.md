@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-06-30 to 2025-09-30.
+Issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-framework` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PageView with height based on current child [flutter/flutter#29749](https://gith
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-design` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Surrounding color leaks into widgets when BackdropFilter with ImageFilter.blur i
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`f: cupertino` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 859 | [224](#flutter-flutter-101479-graph)
@@ -80,9 +80,9 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [13](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 30 | 3
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 60 | 2
+Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 31 | 2
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 1
-Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 30 | 1
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 1
 Change backgroundColor of CupertinoActionSheet [flutter/flutter#50604](https://github.com/flutter/flutter/issues/50604) | 19 | 1
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 118 | 0
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 3
@@ -114,7 +114,7 @@ Better textFormField label placement customization when focused and when value i
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-accessibility` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-go_router` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-tool` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-engine` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 74 | [53](#flutter-flutter-170820-graph)
@@ -176,7 +176,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-ios` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-android` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-web` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Support building Windows apps from Linux [flutter/flutter#110585](https://github
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`team-ecosystem` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`dart-lang/sdk` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lan
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-06-30 to 2025-09-30.
+`dart-lang/language` issues that received the most reactions from 2025-06-30 to 2025-10-01.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -636,23 +636,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-171583-graph"></a>
-### [video_player] on [android] issue with seekTo
-  <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-174980-graph"></a>
 ### Impeller for web
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -665,6 +648,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-171583-graph"></a>
+### [video_player] on [android] issue with seekTo
+  <sub>[flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 15, 15, 15]
   ```
 
   </details>
