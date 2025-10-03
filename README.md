@@ -1946,23 +1946,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-130492-graph"></a>
-### iOS: italic system font doesn't render properly
-  <sub>[flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) &mdash; 24 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
-    y-axis "Reactions"
-    line [20, 20, 20, 20, 20, 21, 21, 22, 22, 22, 22, 22, 23, 24]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-102387-graph"></a>
 ### Flutter test doesn't report the failing tests in the summary
   <sub>[flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) &mdash; 24 total reactions, 5 recent reactions</sub><br />
@@ -1975,6 +1958,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
     y-axis "Reactions"
     line [20, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-130492-graph"></a>
+### iOS: italic system font doesn't render properly
+  <sub>[flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) &mdash; 24 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 30, Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29]
+    y-axis "Reactions"
+    line [20, 20, 20, 20, 20, 21, 21, 22, 22, 22, 22, 22, 23, 24]
   ```
 
   </details>
