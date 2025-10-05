@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-07 to 2025-10-04.
+Issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/iss
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-framework` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ SliverWrap widget [flutter/flutter#97544](https://github.com/flutter/flutter/iss
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-design` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`f: cupertino` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 860 | [215](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
@@ -114,7 +114,7 @@ KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](htt
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-accessibility` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -125,14 +125,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-go_router` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-tool` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -154,7 +154,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-engine` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 77 | [54](#flutter-flutter-170820-graph)
@@ -177,7 +177,7 @@ Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context w
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-ios` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -199,7 +199,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-android` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -221,7 +221,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-web` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -243,7 +243,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -265,7 +265,7 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`team-ecosystem` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -287,7 +287,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -305,11 +305,11 @@ Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://githu
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | 4
 Need better warning message for `A value for optional parameter 'x' isn't ever given.` [dart-lang/sdk#52827](https://github.com/dart-lang/sdk/issues/52827) | 14 | 4
 Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) | 9 | 4
-Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 4 | 4
+Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 4 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-07 to 2025-10-04.
+`dart-lang/language` issues that received the most reactions from 2025-07-07 to 2025-10-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
