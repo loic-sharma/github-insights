@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-07 to 2025-10-06.
+Issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Xcode DerivedData causes unexpected behavior in Flutter project after adding the
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-framework` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Make tests compile and run faster [flutter/flutter#69429](https://github.com/flu
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-design` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`f: cupertino` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 862 | [217](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
@@ -114,7 +114,7 @@ KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](htt
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-accessibility` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -125,14 +125,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-go_router` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-tool` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -154,7 +154,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-engine` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 78 | [55](#flutter-flutter-170820-graph)
@@ -177,7 +177,7 @@ Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context w
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-ios` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -199,7 +199,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-android` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -221,7 +221,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-web` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -243,14 +243,14 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 471 | [18](#flutter-flutter-31713-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 342 | [7](#flutter-flutter-37597-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 217 | [7](#flutter-flutter-41980-graph)
-[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 62 | [6](#flutter-flutter-62597-graph)
+[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 63 | [7](#flutter-flutter-62597-graph)
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 84 | [5](#flutter-flutter-77638-graph)
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 225 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 71 | 4
@@ -265,7 +265,7 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`team-ecosystem` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -287,7 +287,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -309,7 +309,7 @@ Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.1
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-07 to 2025-10-06.
+`dart-lang/language` issues that received the most reactions from 2025-07-07 to 2025-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1266,6 +1266,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-62597-graph"></a>
+### [Windows] ☂️  Add support for Arm64 as a target
+  <sub>[flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) &mdash; 63 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
+    y-axis "Reactions"
+    line [56, 56, 56, 56, 57, 57, 60, 60, 60, 60, 60, 60, 61, 63]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-148026-graph"></a>
 ### FontWeight should subsume `wght` in FontVariation
   <sub>[flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) &mdash; 30 total reactions, 7 recent reactions</sub><br />
@@ -1397,23 +1414,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions"
     line [62, 65, 65, 65, 67, 68, 68, 68, 69, 69, 70, 70, 70, 70]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-62597-graph"></a>
-### [Windows] ☂️  Add support for Arm64 as a target
-  <sub>[flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) &mdash; 62 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
-    y-axis "Reactions"
-    line [56, 56, 56, 56, 57, 57, 60, 60, 60, 60, 60, 60, 61, 62]
   ```
 
   </details>
