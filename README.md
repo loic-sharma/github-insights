@@ -6,13 +6,13 @@ Issues that received the most reactions from 2025-07-07 to 2025-10-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 862 | [217](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 863 | [218](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 656 | [133](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 563 | [103](#flutter-flutter-170310-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 99 | [99](#flutter-flutter-172561-graph)
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 102 | [77](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 78 | [55](#flutter-flutter-170820-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 49 | [49](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 50 | [50](#flutter-flutter-172434-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1206 | [36](#dart-lang-language-723-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 27 | [27](#dart-lang-language-4462-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2276 | [26](#dart-lang-language-314-graph)
@@ -32,21 +32,21 @@ Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/iss
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 102 | [77](#flutter-flutter-69949-graph)
+Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 218 | [13](#flutter-flutter-65504-graph)
 [go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0 [flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) | 13 | [13](#flutter-flutter-175071-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 703 | [9](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 207 | [9](#flutter-flutter-142845-graph)
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 120 | [6](#flutter-flutter-18636-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 57 | [6](#flutter-flutter-81005-graph)
+[go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 45 | [6](#flutter-flutter-133746-graph)
 ListView: Poor performance with many variable-extent items + jumpTo (scroll bar, trackpad, mouse wheels) [flutter/flutter#52207](https://github.com/flutter/flutter/issues/52207) | 170 | [5](#flutter-flutter-52207-graph)
 Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.com/flutter/flutter/issues/50763) | 92 | [5](#flutter-flutter-50763-graph)
-[go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 44 | [5](#flutter-flutter-133746-graph)
+[go_router] choose in redirect method if `push` or `go` [flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) | 58 | [5](#flutter-flutter-114131-graph)
 App Exits Instead of Navigating Back with StatefullShellRoute in go_router on Android (flutter >= 3.24) [flutter/flutter#153672](https://github.com/flutter/flutter/issues/153672) | 23 | [5](#flutter-flutter-153672-graph)
 PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 176 | 4
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 138 | 4
 [Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 119 | 4
-add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 118 | 4
 
 #### Design
 
@@ -54,7 +54,7 @@ add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flut
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 862 | [217](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 863 | [218](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 656 | [133](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 563 | [103](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [13](#flutter-flutter-53059-graph)
@@ -75,7 +75,7 @@ consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533
 `f: cupertino` issues that received the most reactions from 2025-07-07 to 2025-10-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 862 | [217](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 863 | [218](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 563 | [103](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [13](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 31 | 3
@@ -100,6 +100,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 132 | 2
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 2
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 27 | 2
+Trailing space doesn't work with TextField with TextAlign.right  [flutter/flutter#40648](https://github.com/flutter/flutter/issues/40648) | 15 | 2
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 124 | 1
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 114 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 113 | 1
@@ -108,9 +109,8 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 50 | 1
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 43 | 1
 When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible. [flutter/flutter#48464](https://github.com/flutter/flutter/issues/48464) | 37 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
-[Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 23 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 
 #### Accessibility
 
@@ -181,7 +181,7 @@ Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context w
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 49 | [49](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 50 | [50](#flutter-flutter-172434-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 61 | [17](#flutter-flutter-163845-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 27 | [12](#flutter-flutter-164483-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 362 | [6](#flutter-flutter-110431-graph)
@@ -300,12 +300,12 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 13 | [5](#dart-lang-sdk-46943-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
+Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 5 | [5](#dart-lang-sdk-61366-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 48 | 4
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | 4
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | 4
 Need better warning message for `A value for optional parameter 'x' isn't ever given.` [dart-lang/sdk#52827](https://github.com/dart-lang/sdk/issues/52827) | 14 | 4
 Standardizing on a directory in `$HOME` for Dart (and Flutter) tooling [dart-lang/sdk#60922](https://github.com/dart-lang/sdk/issues/60922) | 9 | 4
-Hot Reload opens `binding.dart` at line 845 on every reload (no errors shown) [dart-lang/sdk#61560](https://github.com/dart-lang/sdk/issues/61560) | 4 | 4
 
 ### Dart language
 
@@ -333,7 +333,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 862 total reactions, 217 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 863 total reactions, 218 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -342,7 +342,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions"
-    line [646, 649, 656, 766, 785, 798, 804, 809, 824, 826, 848, 857, 862, 862]
+    line [646, 649, 656, 766, 785, 798, 804, 809, 824, 826, 848, 857, 862, 863]
   ```
 
   </details>
@@ -401,7 +401,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-69949-graph"></a>
 ### Hot restart should dispose widgets
-  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 102 total reactions, 77 recent reactions</sub><br />
+  <sub>[flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) &mdash; 103 total reactions, 78 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -410,7 +410,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions"
-    line [25, 25, 25, 25, 25, 25, 25, 26, 90, 97, 99, 100, 102, 102]
+    line [25, 25, 25, 25, 25, 25, 25, 26, 90, 97, 99, 100, 102, 103]
   ```
 
   </details>
@@ -435,7 +435,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 49 total reactions, 49 recent reactions</sub><br />
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 50 total reactions, 50 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -444,7 +444,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions"
-    line [0, 0, 16, 23, 25, 29, 31, 34, 35, 38, 41, 41, 43, 49]
+    line [0, 0, 16, 23, 25, 29, 31, 34, 35, 38, 41, 41, 43, 50]
   ```
 
   </details>
@@ -1487,6 +1487,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-133746-graph"></a>
+### [go_router] Unwanted black screen when using async redirect.
+  <sub>[flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) &mdash; 45 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
+    y-axis "Reactions"
+    line [40, 40, 41, 41, 41, 41, 41, 41, 43, 43, 44, 44, 44, 45]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-150743-graph"></a>
 ### [Web] - Superscript and subscript font features don't work on web
   <sub>[flutter/flutter#150743](https://github.com/flutter/flutter/issues/150743) &mdash; 36 total reactions, 6 recent reactions</sub><br />
@@ -1640,6 +1657,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-114131-graph"></a>
+### [go_router] choose in redirect method if `push` or `go`
+  <sub>[flutter/flutter#114131](https://github.com/flutter/flutter/issues/114131) &mdash; 58 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
+    y-axis "Reactions"
+    line [53, 53, 54, 55, 55, 56, 56, 56, 56, 56, 57, 57, 57, 58]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-85529-graph"></a>
 ### [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed 
   <sub>[flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) &mdash; 55 total reactions, 5 recent reactions</sub><br />
@@ -1686,23 +1720,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions"
     line [45, 45, 45, 45, 45, 45, 47, 47, 47, 47, 48, 49, 49, 50]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-133746-graph"></a>
-### [go_router] Unwanted black screen when using async redirect.
-  <sub>[flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) &mdash; 44 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
-    y-axis "Reactions"
-    line [40, 40, 41, 41, 41, 41, 41, 41, 43, 43, 44, 44, 44, 44]
   ```
 
   </details>
@@ -1788,6 +1805,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61366-graph"></a>
+### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
+  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 5]
   ```
 
   </details>
