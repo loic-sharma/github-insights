@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-07 to 2025-10-09.
+Issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -13,8 +13,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 78 | [55](#flutter-flutter-170820-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 50 | [50](#flutter-flutter-172434-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1206 | [36](#dart-lang-language-723-graph)
-Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 28 | [28](#dart-lang-language-4462-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1207 | [37](#dart-lang-language-723-graph)
+Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 29 | [29](#dart-lang-language-4462-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2276 | [26](#dart-lang-language-314-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 46 | [21](#flutter-flutter-166248-graph)
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-framework` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-design` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`f: cupertino` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 863 | [218](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
@@ -109,12 +109,12 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 50 | 1
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 43 | 1
 When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible. [flutter/flutter#48464](https://github.com/flutter/flutter/issues/48464) | 37 | 1
-[Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
 KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
+[Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-accessibility` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -125,14 +125,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-go_router` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-tool` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -154,7 +154,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-engine` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 78 | [55](#flutter-flutter-170820-graph)
@@ -177,7 +177,7 @@ Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context w
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-ios` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -199,7 +199,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-android` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -221,7 +221,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-web` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -243,7 +243,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -265,7 +265,7 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`team-ecosystem` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -287,7 +287,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -309,12 +309,12 @@ Need better warning message for `A value for optional parameter 'x' isn't ever g
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-07 to 2025-10-09.
+`dart-lang/language` issues that received the most reactions from 2025-07-07 to 2025-10-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1206 | [36](#dart-lang-language-723-graph)
-Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 28 | [28](#dart-lang-language-4462-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1207 | [37](#dart-lang-language-723-graph)
+Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 29 | [29](#dart-lang-language-4462-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2276 | [26](#dart-lang-language-314-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1102 | [16](#dart-lang-language-357-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 553 | [15](#dart-lang-language-83-graph)
@@ -452,7 +452,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1206 total reactions, 36 recent reactions</sub><br />
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1207 total reactions, 37 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -461,7 +461,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions"
-    line [1170, 1172, 1175, 1176, 1176, 1196, 1198, 1200, 1204, 1204, 1204, 1204, 1205, 1206]
+    line [1170, 1172, 1175, 1176, 1176, 1196, 1198, 1200, 1204, 1204, 1204, 1204, 1205, 1207]
   ```
 
   </details>
@@ -469,7 +469,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 <a name="dart-lang-language-4462-graph"></a>
 ### Private Named Parameters
-  <sub>[dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) &mdash; 28 total reactions, 28 recent reactions</sub><br />
+  <sub>[dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) &mdash; 29 total reactions, 29 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -478,7 +478,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions"
-    line [0, 18, 20, 21, 22, 25, 26, 27, 27, 27, 27, 27, 27, 28]
+    line [0, 18, 20, 21, 22, 25, 26, 27, 27, 27, 27, 27, 27, 29]
   ```
 
   </details>
