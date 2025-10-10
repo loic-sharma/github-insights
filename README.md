@@ -109,8 +109,8 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 50 | 1
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 43 | 1
 When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible. [flutter/flutter#48464](https://github.com/flutter/flutter/issues/48464) | 37 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 
 #### Accessibility
 
@@ -169,9 +169,9 @@ Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://git
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 444 | [6](#flutter-flutter-66618-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 51 | [5](#flutter-flutter-146860-graph)
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 135 | 4
+App ignores proxy settings [flutter/flutter#26359](https://github.com/flutter/flutter/issues/26359) | 67 | 4
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 58 | 4
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 42 | 4
-Flutter 3.27.x \| Android 10, 11 \| Crash: "drawRenderNode called on a context with no surface!" [flutter/flutter#162147](https://github.com/flutter/flutter/issues/162147) | 23 | 4
 
 ### Platforms
 
@@ -209,13 +209,13 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 70 | [5](#flutter-flutter-139427-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 45 | 4
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 19 | 4
-[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/flutter/flutter/issues/36681) | 189 | 3
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 71 | 3
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 43 | 3
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 16 | 3
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 16 | 3
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 16 | 3
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 93 | 2
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 33 | 2
 
@@ -299,8 +299,8 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 70 | [6](#dart-lang-sdk-53884-graph)
 No warning for use of experimental APIs [dart-lang/sdk#61090](https://github.com/dart-lang/sdk/issues/61090) | 6 | [6](#dart-lang-sdk-61090-graph)
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 13 | [5](#dart-lang-sdk-46943-graph)
-Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 5 | [5](#dart-lang-sdk-61366-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
+Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 5 | [5](#dart-lang-sdk-61366-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 48 | 4
 Add Stream.whereType like Iterable.whereType [dart-lang/sdk#34050](https://github.com/dart-lang/sdk/issues/34050) | 34 | 4
 Dart-defines should generate a warning when not const [dart-lang/sdk#42177](https://github.com/dart-lang/sdk/issues/42177) | 18 | 4
@@ -1793,23 +1793,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61366-graph"></a>
-### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
-  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61433-graph"></a>
 ### Implicit closure-objects creation performance impact
   <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1822,6 +1805,23 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
     x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61366-graph"></a>
+### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
+  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 7, Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 5]
   ```
 
   </details>
