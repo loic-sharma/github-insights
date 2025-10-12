@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-14 to 2025-10-11.
+Issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Xcode DerivedData causes unexpected behavior in Flutter project after adding the
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-framework` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-design` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`f: cupertino` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 863 | [216](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
@@ -107,14 +107,14 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 53 | 1
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 43 | 1
 When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible. [flutter/flutter#48464](https://github.com/flutter/flutter/issues/48464) | 37 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 23 | 1
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 22 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-accessibility` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -125,14 +125,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-go_router` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-tool` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -154,7 +154,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-engine` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 80 | [51](#flutter-flutter-170820-graph)
@@ -177,7 +177,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-ios` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -199,7 +199,7 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-android` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -208,8 +208,8 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [5](#flutter-flutter-91247-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 70 | 4
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 45 | 4
-[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 71 | 3
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 43 | 3
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 19 | 3
@@ -221,7 +221,7 @@ remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatA
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-web` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -243,7 +243,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -265,7 +265,7 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`team-ecosystem` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -287,7 +287,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -304,12 +304,12 @@ Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://gi
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 16 | 4
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 16 | 4
 Need better warning message for `A value for optional parameter 'x' isn't ever given.` [dart-lang/sdk#52827](https://github.com/dart-lang/sdk/issues/52827) | 14 | 4
-Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 4 | 4
 Hot Reload opens `binding.dart` at line 845 on every reload (no errors shown) [dart-lang/sdk#61560](https://github.com/dart-lang/sdk/issues/61560) | 4 | 4
+Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 4 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-14 to 2025-10-11.
+`dart-lang/language` issues that received the most reactions from 2025-07-14 to 2025-10-12.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1606,23 +1606,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 51 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
-    y-axis "Reactions"
-    line [46, 48, 49, 49, 49, 50, 51, 51, 51, 51, 51, 51, 51]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91247-graph"></a>
 ### [camera] Support choosing lenses
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 51 total reactions, 5 recent reactions</sub><br />
@@ -1635,6 +1618,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
     y-axis "Reactions"
     line [46, 46, 47, 49, 50, 51, 51, 51, 51, 51, 51, 51, 51]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 51 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6]
+    y-axis "Reactions"
+    line [46, 48, 49, 49, 49, 50, 51, 51, 51, 51, 51, 51, 51]
   ```
 
   </details>
