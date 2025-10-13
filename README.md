@@ -6,20 +6,20 @@ Issues that received the most reactions from 2025-07-14 to 2025-10-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 864 | [217](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 868 | [221](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 659 | [125](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 106 | [106](#flutter-flutter-172561-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 569 | [101](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 571 | [103](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 52 | [52](#flutter-flutter-172434-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 80 | [51](#flutter-flutter-170820-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 51 | [51](#flutter-flutter-172434-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1207 | [37](#dart-lang-language-723-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 29 | [29](#dart-lang-language-4462-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2278 | [28](#dart-lang-language-314-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 22 | [22](#flutter-flutter-176237-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
+Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 472 | [19](#flutter-flutter-31713-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 19 | [19](#flutter-flutter-174980-graph)
-Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 471 | [18](#flutter-flutter-31713-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 61 | [16](#flutter-flutter-163845-graph)
 
 ## Trending issues by team
@@ -33,7 +33,7 @@ Xcode DerivedData causes unexpected behavior in Flutter project after adding the
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
-[go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0 [flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) | 15 | [15](#flutter-flutter-175071-graph)
+[go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0 [flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) | 16 | [16](#flutter-flutter-175071-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 219 | [14](#flutter-flutter-65504-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 704 | [10](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 207 | [6](#flutter-flutter-142845-graph)
@@ -54,9 +54,9 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 864 | [217](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 868 | [221](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 659 | [125](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 569 | [101](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 571 | [103](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [13](#flutter-flutter-53059-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 141 | [12](#flutter-flutter-102560-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 70 | [9](#flutter-flutter-97496-graph)
@@ -75,8 +75,8 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 `f: cupertino` issues that received the most reactions from 2025-07-14 to 2025-10-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 864 | [217](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 569 | [101](#flutter-flutter-170310-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 868 | [221](#flutter-flutter-101479-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 571 | [103](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [13](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 31 | 3
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 60 | 2
@@ -162,8 +162,8 @@ Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/iss
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 46 | [15](#flutter-flutter-166248-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 329 | [10](#flutter-flutter-18443-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 224 | [10](#flutter-flutter-61229-graph)
+Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 543 | [9](#flutter-flutter-26801-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 32 | [9](#flutter-flutter-148026-graph)
-Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 542 | [8](#flutter-flutter-26801-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2029 | [7](#flutter-flutter-14330-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 195 | [7](#flutter-flutter-14288-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 444 | [6](#flutter-flutter-66618-graph)
@@ -181,16 +181,16 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 51 | [51](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 52 | [52](#flutter-flutter-172434-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 61 | [16](#flutter-flutter-163845-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 13 | [13](#flutter-flutter-175962-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 27 | [12](#flutter-flutter-164483-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 363 | [7](#flutter-flutter-110431-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 59 | [6](#flutter-flutter-115926-graph)
+Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 88 | [5](#flutter-flutter-69157-graph)
 [in_app_purchase]  ` PurchaseStatus.restored` received several times when restoring the items, duplicate purchase error when purchase is completed  [flutter/flutter#85529](https://github.com/flutter/flutter/issues/85529) | 55 | [5](#flutter-flutter-85529-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 50 | [5](#flutter-flutter-20663-graph)
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 30 | [5](#flutter-flutter-125741-graph)
-Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 87 | 4
 ☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 30 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 24 | 4
 [iOS] VoiceOver does NOT work after a hot-restart on iOS [flutter/flutter#109391](https://github.com/flutter/flutter/issues/109391) | 17 | 4
@@ -208,13 +208,13 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [5](#flutter-flutter-91247-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 70 | 4
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 45 | 4
-Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
+Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 71 | 3
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 43 | 3
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 19 | 3
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 16 | 3
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 16 | 3
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 16 | 3
 Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/flutter/flutter/issues/36681) | 189 | 2
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 93 | 2
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 33 | 2
@@ -247,7 +247,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 471 | [18](#flutter-flutter-31713-graph)
+Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 472 | [19](#flutter-flutter-31713-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 342 | [7](#flutter-flutter-37597-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 217 | [7](#flutter-flutter-41980-graph)
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 63 | [7](#flutter-flutter-62597-graph)
@@ -301,8 +301,8 @@ Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk
 Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 5 | [5](#dart-lang-sdk-61366-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 48 | 4
-"Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 16 | 4
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 16 | 4
+"Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 16 | 4
 Need better warning message for `A value for optional parameter 'x' isn't ever given.` [dart-lang/sdk#52827](https://github.com/dart-lang/sdk/issues/52827) | 14 | 4
 Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 4 | 4
 Interop: Objective C & Swift [dart-lang/sdk#49673](https://github.com/dart-lang/sdk/issues/49673) | 42 | 3
@@ -333,7 +333,7 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 864 total reactions, 217 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 868 total reactions, 221 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -342,7 +342,7 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   xychart-beta
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
-    line [649, 656, 766, 785, 798, 804, 809, 824, 826, 848, 857, 862, 863, 864]
+    line [649, 656, 766, 785, 798, 804, 809, 824, 826, 848, 857, 862, 863, 868]
   ```
 
   </details>
@@ -384,7 +384,7 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 569 total reactions, 101 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 571 total reactions, 103 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -393,7 +393,7 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   xychart-beta
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
-    line [476, 491, 504, 507, 511, 515, 518, 525, 528, 547, 557, 562, 569, 569]
+    line [476, 491, 504, 507, 511, 515, 518, 525, 528, 547, 557, 562, 569, 571]
   ```
 
   </details>
@@ -416,6 +416,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-172434-graph"></a>
+### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 52 total reactions, 52 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions"
+    line [0, 16, 23, 25, 29, 31, 34, 35, 38, 41, 41, 43, 50, 52]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-170820-graph"></a>
 ### `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together
   <sub>[flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) &mdash; 80 total reactions, 51 recent reactions</sub><br />
@@ -428,23 +445,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
     line [35, 40, 43, 47, 49, 53, 56, 57, 60, 68, 74, 77, 80, 80]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-172434-graph"></a>
-### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 51 total reactions, 51 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions"
-    line [0, 16, 23, 25, 29, 31, 34, 35, 38, 41, 41, 43, 50, 51]
   ```
 
   </details>
@@ -535,6 +535,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-31713-graph"></a>
+### Implement PlatformView support on Windows
+  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 472 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions"
+    line [453, 453, 453, 455, 456, 461, 462, 463, 465, 466, 466, 471, 471, 472]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-174980-graph"></a>
 ### Impeller for web
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 19 total reactions, 19 recent reactions</sub><br />
@@ -552,23 +569,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-31713-graph"></a>
-### Implement PlatformView support on Windows
-  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 471 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions"
-    line [453, 453, 453, 455, 456, 461, 462, 463, 465, 466, 466, 471, 471, 471]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-163845-graph"></a>
 ### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
   <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 61 total reactions, 16 recent reactions</sub><br />
@@ -581,6 +581,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
     line [46, 46, 54, 55, 56, 56, 57, 57, 57, 61, 61, 61, 61, 61]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-175071-graph"></a>
+### [go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0
+  <sub>[flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16]
   ```
 
   </details>
@@ -683,23 +700,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
     line [32, 32, 32, 33, 35, 41, 41, 42, 42, 42, 44, 46, 46, 46]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-175071-graph"></a>
-### [go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0
-  <sub>[flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15]
   ```
 
   </details>
@@ -1028,6 +1028,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-26801-graph"></a>
+### Apple CarPlay / Android Auto support?
+  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 543 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions"
+    line [534, 534, 534, 534, 535, 535, 536, 539, 541, 541, 541, 542, 542, 543]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-50565-graph"></a>
 ### ☂️ [vm/ffi] Build hooks & Code assets
   <sub>[dart-lang/sdk#50565](https://github.com/dart-lang/sdk/issues/50565) &mdash; 216 total reactions, 9 recent reactions</sub><br />
@@ -1108,23 +1125,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
     line [877, 877, 877, 877, 878, 878, 878, 878, 879, 879, 879, 879, 879, 879]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-26801-graph"></a>
-### Apple CarPlay / Android Auto support?
-  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 542 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions"
-    line [534, 534, 534, 534, 535, 535, 536, 539, 541, 541, 541, 542, 542, 542]
   ```
 
   </details>
@@ -1567,6 +1567,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
     line [88, 88, 88, 88, 89, 92, 92, 92, 92, 92, 92, 92, 92, 92]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-69157-graph"></a>
+### Build Flutter macOS artifacts with ARM architecture slice
+  <sub>[flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) &mdash; 88 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions"
+    line [83, 84, 84, 84, 86, 87, 87, 87, 87, 87, 87, 87, 87, 88]
   ```
 
   </details>
