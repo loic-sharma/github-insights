@@ -33,7 +33,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
-[go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0 [flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) | 16 | [16](#flutter-flutter-175071-graph)
+[go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0 [flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) | 17 | [17](#flutter-flutter-175071-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 219 | [14](#flutter-flutter-65504-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 704 | [10](#flutter-flutter-30701-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 208 | [7](#flutter-flutter-142845-graph)
@@ -119,7 +119,7 @@ KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](htt
 Issue | Total reactions | Recent reactions
 -- | -- | --
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 24 | [24](#flutter-flutter-176237-graph)
-Feature request: Allow declaring main language of app to VoiceOver and TalkBack [flutter/flutter#99600](https://github.com/flutter/flutter/issues/99600) | 54 | [10](#flutter-flutter-99600-graph)
+Feature request: Allow declaring main language of app to VoiceOver and TalkBack [flutter/flutter#99600](https://github.com/flutter/flutter/issues/99600) | 55 | [11](#flutter-flutter-99600-graph)
 Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up in a listview [flutter/flutter#98572](https://github.com/flutter/flutter/issues/98572) | 64 | 0
 [google_maps_flutter] In Google Maps Flutter, markers are not recognized by accessibility tools when running on an Android Emulator with a Google APIs image. [flutter/flutter#163392](https://github.com/flutter/flutter/issues/163392) | 13 | 0
 
@@ -586,6 +586,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-175071-graph"></a>
+### [go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0
+  <sub>[flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 17]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-163845-graph"></a>
 ### Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator
   <sub>[flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) &mdash; 61 total reactions, 16 recent reactions</sub><br />
@@ -598,23 +615,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
     line [46, 46, 54, 55, 56, 56, 57, 57, 57, 61, 61, 61, 61, 61]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-175071-graph"></a>
-### [go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0
-  <sub>[flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 16]
   ```
 
   </details>
@@ -824,6 +824,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-99600-graph"></a>
+### Feature request: Allow declaring main language of app to VoiceOver and TalkBack
+  <sub>[flutter/flutter#99600](https://github.com/flutter/flutter/issues/99600) &mdash; 55 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions"
+    line [44, 44, 44, 44, 44, 44, 46, 46, 46, 46, 47, 52, 54, 55]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-168635-graph"></a>
 ### One UI 7 Navigation Buttons Above App
   <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 24 total reactions, 11 recent reactions</sub><br />
@@ -972,23 +989,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
     line [47, 47, 49, 49, 54, 54, 55, 55, 55, 56, 57, 57, 57, 57]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-99600-graph"></a>
-### Feature request: Allow declaring main language of app to VoiceOver and TalkBack
-  <sub>[flutter/flutter#99600](https://github.com/flutter/flutter/issues/99600) &mdash; 54 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions"
-    line [44, 44, 44, 44, 44, 44, 46, 46, 46, 46, 47, 52, 54, 54]
   ```
 
   </details>
