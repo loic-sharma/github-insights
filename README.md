@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-14 to 2025-10-15.
+Issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Error: `Unable to determine Flutter version for channel: stable version: 3.35.6 
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-framework` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-design` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`f: cupertino` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 869 | [222](#flutter-flutter-101479-graph)
@@ -80,8 +80,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [13](#flutter-flutter-53059-graph)
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 31 | 3
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 60 | 2
+Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 31 | 2
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 1
 Change backgroundColor of CupertinoActionSheet [flutter/flutter#50604](https://github.com/flutter/flutter/issues/50604) | 19 | 1
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 0
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 118 | 0
@@ -93,7 +93,7 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
@@ -108,13 +108,13 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 53 | 1
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 43 | 1
 When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible. [flutter/flutter#48464](https://github.com/flutter/flutter/issues/48464) | 37 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 23 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-accessibility` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -125,14 +125,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-go_router` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-tool` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -154,7 +154,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-engine` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 85 | [56](#flutter-flutter-170820-graph)
@@ -177,7 +177,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-ios` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -199,7 +199,7 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-android` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -221,7 +221,7 @@ remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatA
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-web` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -243,7 +243,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -265,7 +265,7 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`team-ecosystem` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -287,7 +287,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -309,7 +309,7 @@ Interop: Objective C & Swift [dart-lang/sdk#49673](https://github.com/dart-lang/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-14 to 2025-10-15.
+`dart-lang/language` issues that received the most reactions from 2025-07-14 to 2025-10-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
