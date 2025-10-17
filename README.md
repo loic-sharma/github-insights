@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-14 to 2025-10-16.
+Issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -19,8 +19,8 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 24 | [24](#flutter-flutter-176237-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 472 | [19](#flutter-flutter-31713-graph)
-Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 19 | [19](#flutter-flutter-174980-graph)
 Error: `Unable to determine Flutter version for channel: stable version: 3.35.6 architecture: arm64` due to arm64 version for latest hotfix is not available [flutter/flutter#176824](https://github.com/flutter/flutter/issues/176824) | 19 | [19](#flutter-flutter-176824-graph)
+Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 19 | [19](#flutter-flutter-174980-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Error: `Unable to determine Flutter version for channel: stable version: 3.35.6 
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-framework` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-design` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`f: cupertino` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 869 | [222](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
@@ -102,6 +102,7 @@ FlutterFragmentActivity support for predictive back [flutter/flutter#149753](htt
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 23 | 2
 Trailing space doesn't work with TextField with TextAlign.right  [flutter/flutter#40648](https://github.com/flutter/flutter/issues/40648) | 15 | 2
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 124 | 1
+Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 115 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 113 | 1
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 91 | 1
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 63 | 1
@@ -110,11 +111,10 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible. [flutter/flutter#48464](https://github.com/flutter/flutter/issues/48464) | 37 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
 KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
-[Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 23 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-accessibility` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -125,14 +125,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-go_router` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-tool` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -154,7 +154,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-engine` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 85 | [56](#flutter-flutter-170820-graph)
@@ -177,7 +177,7 @@ Merge the platform and UI threads [flutter/flutter#150525](https://github.com/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-ios` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -199,7 +199,7 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-android` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -208,8 +208,8 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [5](#flutter-flutter-91247-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 70 | 4
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 45 | 4
-Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
+Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 71 | 3
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 43 | 3
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 19 | 3
@@ -221,7 +221,7 @@ remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatA
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-web` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -243,7 +243,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -265,7 +265,7 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`team-ecosystem` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -287,7 +287,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,8 +298,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 57 | [10](#dart-lang-sdk-56841-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 70 | [7](#dart-lang-sdk-53884-graph)
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 13 | [5](#dart-lang-sdk-46943-graph)
-Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 5 | [5](#dart-lang-sdk-61366-graph)
+Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 48 | 4
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 16 | 4
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 16 | 4
@@ -309,7 +309,7 @@ Interop: Objective C & Swift [dart-lang/sdk#49673](https://github.com/dart-lang/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-14 to 2025-10-16.
+`dart-lang/language` issues that received the most reactions from 2025-07-14 to 2025-10-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -552,23 +552,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-174980-graph"></a>
-### Impeller for web
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 19 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 18, 19, 19]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-176824-graph"></a>
 ### Error: `Unable to determine Flutter version for channel: stable version: 3.35.6 architecture: arm64` due to arm64 version for latest hotfix is not available
   <sub>[flutter/flutter#176824](https://github.com/flutter/flutter/issues/176824) &mdash; 19 total reactions, 19 recent reactions</sub><br />
@@ -581,6 +564,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-174980-graph"></a>
+### Impeller for web
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 19 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 18, 19, 19]
   ```
 
   </details>
@@ -1708,23 +1708,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 51 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions"
-    line [46, 48, 49, 49, 49, 50, 51, 51, 51, 51, 51, 51, 51, 51]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91247-graph"></a>
 ### [camera] Support choosing lenses
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 51 total reactions, 5 recent reactions</sub><br />
@@ -1737,6 +1720,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions"
     line [46, 46, 47, 49, 50, 51, 51, 51, 51, 51, 51, 51, 51, 51]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 51 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions"
+    line [46, 48, 49, 49, 49, 50, 51, 51, 51, 51, 51, 51, 51, 51]
   ```
 
   </details>
@@ -1827,23 +1827,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61433-graph"></a>
-### Implicit closure-objects creation performance impact
-  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61366-graph"></a>
 ### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
   <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1856,6 +1839,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61433-graph"></a>
+### Implicit closure-objects creation performance impact
+  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 14, Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
