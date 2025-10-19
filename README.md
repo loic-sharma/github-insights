@@ -68,7 +68,7 @@ Use a system default font on flutter [flutter/flutter#48381](https://github.com/
 Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 98 | 2
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 92 | 2
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 60 | 2
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
+[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
 
 #### Cupertino
 
@@ -207,8 +207,8 @@ One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.co
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 388 | [6](#flutter-flutter-83596-graph)
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [5](#flutter-flutter-91247-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 45 | 4
-[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 94 | 3
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 71 | 3
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 70 | 3
@@ -316,8 +316,8 @@ Issue | Total reactions | Recent reactions
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1207 | [35](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2278 | [25](#dart-lang-language-314-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1102 | [12](#dart-lang-language-357-graph)
-Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
 Enable a transistor-like behavior of a boolean value [dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) | 11 | [11](#dart-lang-language-4519-graph)
+Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 553 | [10](#dart-lang-language-83-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 232 | [10](#dart-lang-language-399-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 199 | [10](#dart-lang-language-4271-graph)
@@ -892,23 +892,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="dart-lang-language-4485-graph"></a>
-### Shorter constructor declarations
-  <sub>[dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 7, 9, 10, 10, 10, 11, 11, 11, 11, 11, 11]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4519-graph"></a>
 ### Enable a transistor-like behavior of a boolean value
   <sub>[dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -921,6 +904,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 10, 10, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4485-graph"></a>
+### Shorter constructor declarations
+  <sub>[dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 7, 9, 10, 10, 10, 11, 11, 11, 11, 11, 11]
   ```
 
   </details>
