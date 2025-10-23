@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-21 to 2025-10-22.
+Issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-framework` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flut
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-design` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`f: cupertino` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 872 | [223](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 181 | 2
@@ -109,12 +109,12 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 63 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 53 | 1
 When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible. [flutter/flutter#48464](https://github.com/flutter/flutter/issues/48464) | 37 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-accessibility` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-go_router` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-tool` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Building all integration test targets into a single application binary [flutter/
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-engine` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 85 | [50](#flutter-flutter-170820-graph)
@@ -176,7 +176,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-ios` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-android` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -207,8 +207,8 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [5](#flutter-flutter-91247-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 45 | 4
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
-Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
+Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 94 | 3
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 71 | 3
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 70 | 3
@@ -220,7 +220,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-web` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Transparent Backgrounds for Flutter Windows Desktop Applications. [flutter/flutt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`team-ecosystem` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,15 +308,15 @@ Interop: Objective C & Swift [dart-lang/sdk#49673](https://github.com/dart-lang/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-21 to 2025-10-22.
+`dart-lang/language` issues that received the most reactions from 2025-07-21 to 2025-10-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1207 | [35](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2279 | [26](#dart-lang-language-314-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1103 | [13](#dart-lang-language-357-graph)
-Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
 Enable a transistor-like behavior of a boolean value [dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) | 11 | [11](#dart-lang-language-4519-graph)
+Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 553 | [10](#dart-lang-language-83-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 232 | [10](#dart-lang-language-399-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 199 | [10](#dart-lang-language-4271-graph)
@@ -874,23 +874,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4485-graph"></a>
-### Shorter constructor declarations
-  <sub>[dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 7, 9, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4519-graph"></a>
 ### Enable a transistor-like behavior of a boolean value
   <sub>[dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -903,6 +886,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 10, 10, 11, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4485-graph"></a>
+### Shorter constructor declarations
+  <sub>[dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 7, 9, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11]
   ```
 
   </details>
