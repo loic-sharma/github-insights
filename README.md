@@ -12,15 +12,15 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 583 | [107](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 85 | [50](#flutter-flutter-170820-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 58 | [43](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 59 | [44](#flutter-flutter-172434-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1207 | [35](#dart-lang-language-723-graph)
+Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 27 | [27](#flutter-flutter-177451-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2279 | [26](#dart-lang-language-314-graph)
-Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 24 | [24](#flutter-flutter-175962-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 24 | [24](#flutter-flutter-176237-graph)
+Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 24 | [24](#flutter-flutter-175962-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 212 | [21](#dart-lang-sdk-55281-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 473 | [20](#flutter-flutter-31713-graph)
-[google_maps_flutter] Add support for custom cluster icon [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 123 | [19](#flutter-flutter-153092-graph)
 
 ## Trending issues by team
 
@@ -33,6 +33,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
+Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 27 | [27](#flutter-flutter-177451-graph)
 [go_router_builder] Go Router Builder is not compatible with new build_runner 2.8.0 [flutter/flutter#175071](https://github.com/flutter/flutter/issues/175071) | 18 | [18](#flutter-flutter-175071-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 219 | [12](#flutter-flutter-65504-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 704 | [10](#flutter-flutter-30701-graph)
@@ -46,7 +47,6 @@ PageView with height based on current child [flutter/flutter#29749](https://gith
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 45 | [5](#flutter-flutter-133746-graph)
 ListView: Poor performance with many variable-extent items + jumpTo (scroll bar, trackpad, mouse wheels) [flutter/flutter#52207](https://github.com/flutter/flutter/issues/52207) | 170 | 4
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 138 | 4
-[Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 119 | 4
 
 #### Design
 
@@ -110,7 +110,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 63 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 53 | 1
 When popping a route, controls should reacquire focus without opening the keyboard or scrolling to make visible. [flutter/flutter#48464](https://github.com/flutter/flutter/issues/48464) | 37 | 1
-[Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 24 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 24 | 1
 
 #### Accessibility
 
@@ -180,7 +180,7 @@ Import multiple Flutter modules in a native app [flutter/flutter#39707](https://
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 58 | [43](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 59 | [44](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 24 | [24](#flutter-flutter-175962-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 62 | [16](#flutter-flutter-163845-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 14 | [14](#flutter-flutter-175099-graph)
@@ -206,9 +206,9 @@ One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.co
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 388 | [6](#flutter-flutter-83596-graph)
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [5](#flutter-flutter-91247-graph)
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 45 | 4
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 94 | 3
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 71 | 3
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 70 | 3
@@ -230,8 +230,8 @@ Changes deployed on the `web-server` are not applied when the application’s en
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 100 | [6](#flutter-flutter-149031-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 94 | 4
-[Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 40 | 4
+[Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 3
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 206 | 3
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 174 | 3
@@ -274,8 +274,8 @@ Changes deployed on the `web-server` are not applied when the application’s en
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 100 | [6](#flutter-flutter-149031-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 94 | 4
-[Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 40 | 4
+[Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 3
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 206 | 3
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 174 | 3
@@ -298,9 +298,9 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 [analysis_server_plugin] Access analysis_options.yaml in plugins [dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) | 7 | [7](#dart-lang-sdk-61755-graph)
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 14 | [6](#dart-lang-sdk-46943-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 70 | [5](#dart-lang-sdk-53884-graph)
-Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 5 | [5](#dart-lang-sdk-61579-graph)
-Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 5 | [5](#dart-lang-sdk-61366-graph)
+Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
+Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 5 | [5](#dart-lang-sdk-61579-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 48 | 4
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 16 | 4
 Need better warning message for `A value for optional parameter 'x' isn't ever given.` [dart-lang/sdk#52827](https://github.com/dart-lang/sdk/issues/52827) | 14 | 4
@@ -315,8 +315,8 @@ Issue | Total reactions | Recent reactions
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1207 | [35](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2279 | [26](#dart-lang-language-314-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1103 | [13](#dart-lang-language-357-graph)
-Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
 Enable a transistor-like behavior of a boolean value [dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) | 11 | [11](#dart-lang-language-4519-graph)
+Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 553 | [10](#dart-lang-language-83-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 232 | [10](#dart-lang-language-399-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 199 | [10](#dart-lang-language-4271-graph)
@@ -434,7 +434,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 58 total reactions, 43 recent reactions</sub><br />
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 59 total reactions, 44 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -443,7 +443,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
     y-axis "Reactions"
-    line [16, 23, 25, 29, 31, 34, 35, 38, 41, 41, 43, 50, 56, 58]
+    line [16, 23, 25, 29, 31, 34, 35, 38, 41, 41, 43, 50, 56, 59]
   ```
 
   </details>
@@ -466,6 +466,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-177451-graph"></a>
+### Proposal: introduce Widget for infinite list from very_good_infinite_list package
+  <sub>[flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) &mdash; 27 total reactions, 27 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
   <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2279 total reactions, 26 recent reactions</sub><br />
@@ -483,23 +500,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-175962-graph"></a>
-### Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26
-  <sub>[flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) &mdash; 24 total reactions, 24 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 19, 24]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-176237-graph"></a>
 ### RFC: Seeking feedback on improving dev experience when working on accessibility
   <sub>[flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) &mdash; 24 total reactions, 24 recent reactions</sub><br />
@@ -512,6 +512,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 22, 24, 24]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-175962-graph"></a>
+### Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26
+  <sub>[flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) &mdash; 24 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 19, 24]
   ```
 
   </details>
@@ -563,23 +580,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
     y-axis "Reactions"
     line [453, 453, 455, 456, 461, 462, 463, 465, 466, 466, 471, 471, 473, 473]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-153092-graph"></a>
-### [google_maps_flutter] Add support for custom cluster icon
-  <sub>[flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) &mdash; 123 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
-    y-axis "Reactions"
-    line [105, 107, 107, 109, 109, 109, 110, 110, 111, 112, 113, 117, 122, 123]
   ```
 
   </details>
@@ -874,23 +874,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4485-graph"></a>
-### Shorter constructor declarations
-  <sub>[dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 7, 9, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4519-graph"></a>
 ### Enable a transistor-like behavior of a boolean value
   <sub>[dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -903,6 +886,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 10, 10, 11, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4485-graph"></a>
+### Shorter constructor declarations
+  <sub>[dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 7, 9, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11]
   ```
 
   </details>
@@ -1690,23 +1690,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-131625-graph"></a>
-### [go_router] support popUntil
-  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 51 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
-    y-axis "Reactions"
-    line [47, 47, 47, 47, 47, 47, 48, 48, 48, 48, 48, 48, 49, 51]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91247-graph"></a>
 ### [camera] Support choosing lenses
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 51 total reactions, 5 recent reactions</sub><br />
@@ -1719,6 +1702,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
     y-axis "Reactions"
     line [46, 47, 49, 50, 51, 51, 51, 51, 51, 51, 51, 51, 51, 51]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-131625-graph"></a>
+### [go_router] support popUntil
+  <sub>[flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) &mdash; 51 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
+    y-axis "Reactions"
+    line [47, 47, 47, 47, 47, 47, 48, 48, 48, 48, 48, 48, 49, 51]
   ```
 
   </details>
@@ -1809,9 +1809,9 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61579-graph"></a>
-### Add more information to `InvalidType`
-  <sub>[dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-61366-graph"></a>
+### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
+  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1820,7 +1820,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5]
+    line [0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 5, 5, 5]
   ```
 
   </details>
@@ -1843,9 +1843,9 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61366-graph"></a>
-### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
-  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-61579-graph"></a>
+### Add more information to `InvalidType`
+  <sub>[dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1854,7 +1854,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jul 21, Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5]
   ```
 
   </details>
