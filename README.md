@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-28 to 2025-10-25.
+Issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-framework` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set t
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-design` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`f: cupertino` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 872 | [216](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 133 | 3
@@ -114,7 +114,7 @@ When popping a route, controls should reacquire focus without opening the keyboa
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-accessibility` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-go_router` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-tool` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Downloading lines for flutter doctor should display information [flutter/flutter
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-engine` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 85 | [44](#flutter-flutter-170820-graph)
@@ -169,14 +169,14 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 195 | [6](#flutter-flutter-14288-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 45 | [6](#flutter-flutter-150525-graph)
 App ignores proxy settings [flutter/flutter#26359](https://github.com/flutter/flutter/issues/26359) | 67 | 4
+[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 61 | 4
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 52 | 4
-Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437](https://github.com/flutter/flutter/issues/10437) | 106 | 3
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-ios` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,16 +198,16 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-android` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 One UI 7 Navigation Buttons Above App [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 27 | [12](#flutter-flutter-168635-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 388 | [5](#flutter-flutter-83596-graph)
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [5](#flutter-flutter-91247-graph)
+Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
-Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 94 | 3
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 70 | 3
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 43 | 3
@@ -220,7 +220,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-web` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`team-ecosystem` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Potential analyzer regression in 3.7 / Flutter 3.29 release [dart-lang/sdk#60335
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-28 to 2025-10-25.
+`dart-lang/language` issues that received the most reactions from 2025-07-28 to 2025-10-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
