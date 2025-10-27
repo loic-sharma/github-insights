@@ -249,9 +249,9 @@ Issue | Total reactions | Recent reactions
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 473 | [20](#flutter-flutter-31713-graph)
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 63 | [7](#flutter-flutter-62597-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 218 | [6](#flutter-flutter-41980-graph)
-[webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 342 | [5](#flutter-flutter-37597-graph)
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 225 | 4
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 20 | 4
+[webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 340 | 3
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 84 | 3
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 72 | 3
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 19 | 3
@@ -1481,23 +1481,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
     line [383, 383, 383, 383, 384, 384, 387, 387, 387, 387, 387, 388, 388, 388]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-37597-graph"></a>
-### [webview_flutter] Add Windows support
-  <sub>[flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) &mdash; 342 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
-    y-axis "Reactions"
-    line [337, 337, 337, 339, 340, 340, 340, 340, 340, 342, 342, 342, 342, 342]
   ```
 
   </details>
