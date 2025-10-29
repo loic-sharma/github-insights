@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-07-28 to 2025-10-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 874 | [218](#flutter-flutter-101479-graph)
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 142 | [129](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 149 | [136](#flutter-flutter-138627-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 662 | [104](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 587 | [95](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
@@ -156,7 +156,7 @@ Downloading lines for flutter doctor should display information [flutter/flutter
 `team-engine` issues that received the most reactions from 2025-07-28 to 2025-10-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 142 | [129](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 149 | [136](#flutter-flutter-138627-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 85 | [44](#flutter-flutter-170820-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 19 | [19](#flutter-flutter-174980-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 47 | [15](#flutter-flutter-166248-graph)
@@ -202,7 +202,7 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 28 | [13](#flutter-flutter-168635-graph)
+App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 29 | [14](#flutter-flutter-168635-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 388 | [5](#flutter-flutter-83596-graph)
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 96 | [5](#flutter-flutter-109842-graph)
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | [5](#flutter-flutter-91247-graph)
@@ -231,8 +231,8 @@ Changes deployed on the `web-server` are not applied when the application’s en
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 207 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 94 | 4
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 56 | 4
-[Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 40 | 4
+[Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 3
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 3
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 174 | 3
@@ -275,8 +275,8 @@ Changes deployed on the `web-server` are not applied when the application’s en
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 207 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 94 | 4
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 56 | 4
-[Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 40 | 4
+[Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 3
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 3
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 174 | 3
@@ -300,11 +300,11 @@ Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk
 Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 6 | [6](#dart-lang-sdk-61366-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 70 | [5](#dart-lang-sdk-53884-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 49 | [5](#dart-lang-sdk-42855-graph)
-Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 5 | [5](#dart-lang-sdk-61579-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
+Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 5 | [5](#dart-lang-sdk-61579-graph)
 Need better warning message for `A value for optional parameter 'x' isn't ever given.` [dart-lang/sdk#52827](https://github.com/dart-lang/sdk/issues/52827) | 14 | 4
 `dart mcp-server` ouput is unintelligible [dart-lang/sdk#61365](https://github.com/dart-lang/sdk/issues/61365) | 4 | 4
-proposal: `prefer_named_function_parameters` [dart-lang/sdk#61391](https://github.com/dart-lang/sdk/issues/61391) | 4 | 4
+Make `WidgetCreatorTracker` reusable [dart-lang/sdk#61580](https://github.com/dart-lang/sdk/issues/61580) | 4 | 4
 
 ### Dart language
 
@@ -316,17 +316,17 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2279 | [24](#dart-lang-language-314-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 558 | [14](#dart-lang-language-83-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 203 | [14](#dart-lang-language-4271-graph)
-Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1103 | [12](#dart-lang-language-357-graph)
-Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
+Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1104 | [13](#dart-lang-language-357-graph)
 Enable a transistor-like behavior of a boolean value [dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) | 11 | [11](#dart-lang-language-4519-graph)
+Shorter constructor declarations [dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) | 11 | [11](#dart-lang-language-4485-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1699 | [10](#dart-lang-language-1482-graph)
 Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/language/issues/3192) | 77 | [10](#dart-lang-language-3192-graph)
 Dart treats a final nullable property as nullable even after checking that the property is not  null [dart-lang/language#1415](https://github.com/dart-lang/language/issues/1415) | 52 | [10](#dart-lang-language-1415-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1698 | [9](#dart-lang-language-1482-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 232 | [9](#dart-lang-language-399-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 30 | [9](#dart-lang-language-4462-graph)
+Pattern-esque syntax for terser named arguments/record fields [dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) | 26 | [9](#dart-lang-language-3102-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1266 | [7](#dart-lang-language-69-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 84 | [7](#dart-lang-language-2128-graph)
-if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/issues/3374) | 67 | [7](#dart-lang-language-3374-graph)
 
 ## Graphs
 
@@ -349,7 +349,7 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
 <a name="flutter-flutter-138627-graph"></a>
 ### toImageSync retains display list which can lead to surprising memory retention.
-  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 142 total reactions, 129 recent reactions</sub><br />
+  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 149 total reactions, 136 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   xychart-beta
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
-    line [14, 14, 14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 142]
+    line [14, 14, 14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 149]
   ```
 
   </details>
@@ -823,6 +823,40 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-168635-graph"></a>
+### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
+  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 29 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
+    y-axis "Reactions"
+    line [17, 19, 19, 21, 21, 21, 21, 22, 22, 22, 23, 25, 27, 29]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-357-graph"></a>
+### Dot shorthands: Allow for shorter dot syntax to access enum values
+  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1104 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
+    y-axis "Reactions"
+    line [1094, 1095, 1097, 1098, 1098, 1098, 1098, 1098, 1099, 1102, 1102, 1103, 1103, 1104]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-53059-graph"></a>
 ### ☂️ Reinforcement: Refactor widgets from design into the core before decoupling
   <sub>[flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) &mdash; 64 total reactions, 13 recent reactions</sub><br />
@@ -835,40 +869,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
     line [58, 59, 60, 60, 61, 64, 64, 64, 64, 64, 64, 64, 64, 64]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168635-graph"></a>
-### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
-  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 28 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
-    y-axis "Reactions"
-    line [17, 19, 19, 21, 21, 21, 21, 22, 22, 22, 23, 25, 27, 28]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-357-graph"></a>
-### Dot shorthands: Allow for shorter dot syntax to access enum values
-  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1103 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
-    y-axis "Reactions"
-    line [1094, 1095, 1097, 1098, 1098, 1098, 1098, 1098, 1099, 1102, 1102, 1103, 1103, 1103]
   ```
 
   </details>
@@ -959,6 +959,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="dart-lang-language-4519-graph"></a>
+### Enable a transistor-like behavior of a boolean value
+  <sub>[dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 7, 10, 10, 11, 11, 11]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4485-graph"></a>
 ### Shorter constructor declarations
   <sub>[dart-lang/language#4485](https://github.com/dart-lang/language/issues/4485) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -976,9 +993,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="dart-lang-language-4519-graph"></a>
-### Enable a transistor-like behavior of a boolean value
-  <sub>[dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+<a name="dart-lang-language-1482-graph"></a>
+### Static Metaprogramming
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1699 total reactions, 10 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -986,8 +1003,8 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   ```mermaid
   xychart-beta
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 7, 10, 10, 11, 11, 11]
+    y-axis "Reactions"
+    line [1690, 1690, 1689, 1691, 1691, 1691, 1691, 1691, 1698, 1698, 1698, 1697, 1698, 1699]
   ```
 
   </details>
@@ -1022,23 +1039,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
     line [42, 42, 42, 42, 42, 42, 42, 42, 47, 48, 48, 48, 51, 52]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1482-graph"></a>
-### Static Metaprogramming
-  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1698 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
-    y-axis "Reactions"
-    line [1690, 1690, 1689, 1691, 1691, 1691, 1691, 1691, 1698, 1698, 1698, 1697, 1698, 1698]
   ```
 
   </details>
@@ -1124,6 +1124,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
     line [21, 22, 25, 26, 27, 27, 27, 27, 27, 27, 29, 29, 30, 30]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-3102-graph"></a>
+### Pattern-esque syntax for terser named arguments/record fields
+  <sub>[dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) &mdash; 26 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
+    y-axis "Reactions"
+    line [17, 17, 17, 17, 17, 17, 17, 17, 20, 21, 21, 21, 22, 26]
   ```
 
   </details>
@@ -1260,23 +1277,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
     line [77, 77, 79, 79, 79, 80, 81, 81, 81, 82, 84, 84, 84, 84]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-3374-graph"></a>
-### if expressions
-  <sub>[dart-lang/language#3374](https://github.com/dart-lang/language/issues/3374) &mdash; 67 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
-    y-axis "Reactions"
-    line [61, 61, 61, 61, 63, 63, 63, 63, 63, 66, 66, 67, 67, 67]
   ```
 
   </details>
@@ -1673,23 +1673,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61579-graph"></a>
-### Add more information to `InvalidType`
-  <sub>[dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61433-graph"></a>
 ### Implicit closure-objects creation performance impact
   <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1702,6 +1685,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61579-graph"></a>
+### Add more information to `InvalidType`
+  <sub>[dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 5]
   ```
 
   </details>
