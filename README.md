@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-07-28 to 2025-10-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [221](#flutter-flutter-101479-graph)
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 158 | [145](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 159 | [146](#flutter-flutter-138627-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 664 | [106](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 587 | [95](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
@@ -156,7 +156,7 @@ Downloading lines for flutter doctor should display information [flutter/flutter
 `team-engine` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 158 | [145](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 159 | [146](#flutter-flutter-138627-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 85 | [44](#flutter-flutter-170820-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 19 | [19](#flutter-flutter-174980-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 47 | [15](#flutter-flutter-166248-graph)
@@ -349,7 +349,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-138627-graph"></a>
 ### toImageSync retains display list which can lead to surprising memory retention.
-  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 158 total reactions, 145 recent reactions</sub><br />
+  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 159 total reactions, 146 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
-    line [14, 14, 14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 158]
+    line [14, 14, 14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 159]
   ```
 
   </details>
