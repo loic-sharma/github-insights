@@ -2,13 +2,13 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-28 to 2025-10-29.
+Issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 874 | [218](#flutter-flutter-101479-graph)
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 149 | [136](#flutter-flutter-138627-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 662 | [104](#flutter-flutter-168813-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 152 | [139](#flutter-flutter-138627-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 663 | [105](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 587 | [95](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 103 | [78](#flutter-flutter-69949-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 114 | [60](#flutter-flutter-172561-graph)
@@ -28,7 +28,7 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-framework` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,12 +50,12 @@ PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set t
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-design` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 874 | [218](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 662 | [104](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 663 | [105](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 587 | [95](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 64 | [13](#flutter-flutter-53059-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 143 | [9](#flutter-flutter-102560-graph)
@@ -72,7 +72,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`f: cupertino` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 874 | [218](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 133 | 3
@@ -114,7 +114,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-accessibility` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-go_router` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-tool` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,10 +153,10 @@ Downloading lines for flutter doctor should display information [flutter/flutter
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-engine` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 149 | [136](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 152 | [139](#flutter-flutter-138627-graph)
 `ImageFilter.blur` breaks `ImageFilter.shader` in a `BackdropFilter` together [flutter/flutter#170820](https://github.com/flutter/flutter/issues/170820) | 85 | [44](#flutter-flutter-170820-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 19 | [19](#flutter-flutter-174980-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 47 | [15](#flutter-flutter-166248-graph)
@@ -176,7 +176,7 @@ App ignores proxy settings [flutter/flutter#26359](https://github.com/flutter/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-ios` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-android` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-web` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`team-ecosystem` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Make `WidgetCreatorTracker` reusable [dart-lang/sdk#61580](https://github.com/da
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-28 to 2025-10-29.
+`dart-lang/language` issues that received the most reactions from 2025-07-28 to 2025-10-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -349,7 +349,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-138627-graph"></a>
 ### toImageSync retains display list which can lead to surprising memory retention.
-  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 149 total reactions, 136 recent reactions</sub><br />
+  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 152 total reactions, 139 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
-    line [14, 14, 14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 149]
+    line [14, 14, 14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 152]
   ```
 
   </details>
@@ -366,7 +366,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 662 total reactions, 104 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 663 total reactions, 105 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -375,7 +375,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jul 28, Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27]
     y-axis "Reactions"
-    line [588, 591, 601, 605, 614, 625, 636, 643, 645, 654, 658, 659, 661, 662]
+    line [588, 591, 601, 605, 614, 625, 636, 643, 645, 654, 658, 659, 661, 663]
   ```
 
   </details>
