@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-07-28 to 2025-10-30.
+Issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-framework` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set t
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-design` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`f: cupertino` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [221](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 133 | 3
@@ -114,7 +114,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-accessibility` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-go_router` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-tool` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Downloading lines for flutter doctor should display information [flutter/flutter
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-engine` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 159 | [146](#flutter-flutter-138627-graph)
@@ -176,7 +176,7 @@ App ignores proxy settings [flutter/flutter#26359](https://github.com/flutter/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-ios` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-android` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-web` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`team-ecosystem` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`dart-lang/sdk` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ proposal: `prefer_named_function_parameters` [dart-lang/sdk#61391](https://githu
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-07-28 to 2025-10-30.
+`dart-lang/language` issues that received the most reactions from 2025-07-28 to 2025-10-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
