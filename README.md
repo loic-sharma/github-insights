@@ -16,8 +16,8 @@ in app purchase in iOS always return status == PurchaseStatus.restored when purc
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1207 | [31](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2284 | [29](#dart-lang-language-314-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
-RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 26 | [26](#flutter-flutter-175962-graph)
+RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 478 | [25](#flutter-flutter-31713-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 122 | [24](#dart-lang-sdk-53402-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
@@ -67,8 +67,8 @@ Use a system default font on flutter [flutter/flutter#48381](https://github.com/
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 77 | 3
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 273 | 2
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 93 | 2
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 [ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
+Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 
 #### Cupertino
 
@@ -208,8 +208,8 @@ Add support for Android 13 per-app language preferences  [flutter/flutter#109842
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | 4
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 17 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 72 | 3
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 71 | 3
 Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/flutter/flutter/issues/36681) | 189 | 2
@@ -234,11 +234,11 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 [Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 3
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 3
+[Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 61 | 3
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 26 | 3
 [Web] [CanvasKit][Feature Request]: Load fonts as soon as detecting browser locale [flutter/flutter#77023](https://github.com/flutter/flutter/issues/77023) | 21 | 3
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 660 | 2
 New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292) | 93 | 2
-[web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 74 | 2
 
 #### Desktop
 
@@ -278,11 +278,11 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 [Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 4
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 3
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 3
+[Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 61 | 3
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 26 | 3
 [Web] [CanvasKit][Feature Request]: Load fonts as soon as detecting browser locale [flutter/flutter#77023](https://github.com/flutter/flutter/issues/77023) | 21 | 3
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 660 | 2
 New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292) | 93 | 2
-[web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 74 | 2
 
 ### Dart SDK
 
@@ -304,7 +304,7 @@ Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/d
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 61 | 4
 Need better warning message for `A value for optional parameter 'x' isn't ever given.` [dart-lang/sdk#52827](https://github.com/dart-lang/sdk/issues/52827) | 14 | 4
-`dart mcp-server` ouput is unintelligible [dart-lang/sdk#61365](https://github.com/dart-lang/sdk/issues/61365) | 4 | 4
+Make `WidgetCreatorTracker` reusable [dart-lang/sdk#61580](https://github.com/dart-lang/sdk/issues/61580) | 4 | 4
 
 ### Dart language
 
@@ -500,23 +500,6 @@ Let redirecting factory constructors specify default values [dart-lang/language#
   </details>
   </sub>
 
-<a name="flutter-flutter-176237-graph"></a>
-### RFC: Seeking feedback on improving dev experience when working on accessibility
-  <sub>[flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 15, 22, 24, 24, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-175962-graph"></a>
 ### Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26
   <sub>[flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) &mdash; 26 total reactions, 26 recent reactions</sub><br />
@@ -529,6 +512,23 @@ Let redirecting factory constructors specify default values [dart-lang/language#
     x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 19, 24, 26, 26]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-176237-graph"></a>
+### RFC: Seeking feedback on improving dev experience when working on accessibility
+  <sub>[flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) &mdash; 26 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 15, 22, 24, 24, 26, 26]
   ```
 
   </details>
@@ -1350,23 +1350,6 @@ Let redirecting factory constructors specify default values [dart-lang/language#
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61366-graph"></a>
-### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
-  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4499-graph"></a>
 ### Let redirecting factory constructors specify default values
   <sub>[dart-lang/language#4499](https://github.com/dart-lang/language/issues/4499) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -1379,6 +1362,23 @@ Let redirecting factory constructors specify default values [dart-lang/language#
     x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 3, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61366-graph"></a>
+### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
+  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6]
   ```
 
   </details>
