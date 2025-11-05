@@ -20,7 +20,7 @@ Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 v
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 478 | [25](#flutter-flutter-31713-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 122 | [24](#dart-lang-sdk-53402-graph)
-Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 22 | [22](#flutter-flutter-175099-graph)
 
 ## Trending issues by team
 
@@ -182,7 +182,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 63 | [39](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 26 | [26](#flutter-flutter-175962-graph)
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 21 | [21](#flutter-flutter-175099-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 22 | [22](#flutter-flutter-175099-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 369 | [11](#flutter-flutter-110431-graph)
 Xcode DerivedData causes unexpected behavior in Flutter project after adding the new iPhone 16e simulator [flutter/flutter#163845](https://github.com/flutter/flutter/issues/163845) | 62 | [8](#flutter-flutter-163845-graph)
@@ -568,6 +568,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-175099-graph"></a>
+### [iOS] Tap interactions not working on iOS 26 for webview_flutter
+  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 18, 22]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-175318-graph"></a>
 ### Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder.
   <sub>[flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -580,23 +597,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 22, 22, 22, 22, 22, 22, 22, 22]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-175099-graph"></a>
-### [iOS] Tap interactions not working on iOS 26 for webview_flutter
-  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 21 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 4, Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 18, 21]
   ```
 
   </details>
