@@ -6,7 +6,7 @@ Issues that received the most reactions from 2025-08-11 to 2025-11-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 174 | [160](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 175 | [161](#flutter-flutter-138627-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 588 | [81](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
@@ -136,8 +136,8 @@ Issue | Total reactions | Recent reactions
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Build hooks & Code assets [flutter/flutter#129757](https://github.com/flutter/flutter/issues/129757) | 101 | [11](#flutter-flutter-129757-graph)
+Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 171 | [8](#flutter-flutter-46979-graph)
 Bundling assets only on a specific platform (and remove assets on another platform) [flutter/flutter#65065](https://github.com/flutter/flutter/issues/65065) | 173 | [7](#flutter-flutter-65065-graph)
-Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 170 | [7](#flutter-flutter-46979-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 191 | [5](#flutter-flutter-139289-graph)
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 158 | [5](#flutter-flutter-115704-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 124 | 3
@@ -156,7 +156,7 @@ Downloading lines for flutter doctor should display information [flutter/flutter
 `team-engine` issues that received the most reactions from 2025-08-11 to 2025-11-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 174 | [160](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 175 | [161](#flutter-flutter-138627-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 20 | [20](#flutter-flutter-174980-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 549 | [15](#flutter-flutter-26801-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 48 | [14](#flutter-flutter-166248-graph)
@@ -332,7 +332,7 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
 <a name="flutter-flutter-138627-graph"></a>
 ### toImageSync retains display list which can lead to surprising memory retention.
-  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 174 total reactions, 160 recent reactions</sub><br />
+  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 175 total reactions, 161 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -341,7 +341,7 @@ Let redirecting factory constructors specify default values [dart-lang/language#
   xychart-beta
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions"
-    line [14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 163, 174]
+    line [14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 163, 175]
   ```
 
   </details>
@@ -1027,6 +1027,23 @@ Let redirecting factory constructors specify default values [dart-lang/language#
   </details>
   </sub>
 
+<a name="flutter-flutter-46979-graph"></a>
+### Support different dependencies when using flavors
+  <sub>[flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) &mdash; 171 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    y-axis "Reactions"
+    line [163, 163, 163, 163, 164, 164, 164, 164, 165, 165, 165, 168, 171]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-150525-graph"></a>
 ### Merge the platform and UI threads
   <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 47 total reactions, 8 recent reactions</sub><br />
@@ -1107,23 +1124,6 @@ Let redirecting factory constructors specify default values [dart-lang/language#
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions"
     line [168, 168, 169, 169, 169, 170, 171, 173, 173, 173, 173, 173, 173]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-46979-graph"></a>
-### Support different dependencies when using flavors
-  <sub>[flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) &mdash; 170 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions"
-    line [163, 163, 163, 163, 164, 164, 164, 164, 165, 165, 165, 168, 170]
   ```
 
   </details>
@@ -1384,23 +1384,6 @@ Let redirecting factory constructors specify default values [dart-lang/language#
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61366-graph"></a>
-### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
-  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4499-graph"></a>
 ### Let redirecting factory constructors specify default values
   <sub>[dart-lang/language#4499](https://github.com/dart-lang/language/issues/4499) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -1413,6 +1396,23 @@ Let redirecting factory constructors specify default values [dart-lang/language#
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions" 0 --> 20
     line [0, 3, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61366-graph"></a>
+### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
+  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6]
   ```
 
   </details>
