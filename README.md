@@ -320,8 +320,8 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 235 | [10](#dart-lang-language-399-graph)
 Dart treats a final nullable property as nullable even after checking that the property is not  null [dart-lang/language#1415](https://github.com/dart-lang/language/issues/1415) | 52 | [10](#dart-lang-language-1415-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 32 | [10](#dart-lang-language-4462-graph)
-Pattern-esque syntax for terser named arguments/record fields [dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) | 27 | [10](#dart-lang-language-3102-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1104 | [9](#dart-lang-language-357-graph)
+Pattern-esque syntax for terser named arguments/record fields [dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) | 26 | [9](#dart-lang-language-3102-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 558 | [7](#dart-lang-language-83-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 203 | [7](#dart-lang-language-4271-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 84 | [7](#dart-lang-language-2128-graph)
@@ -976,23 +976,6 @@ Let redirecting factory constructors specify default values [dart-lang/language#
   </details>
   </sub>
 
-<a name="dart-lang-language-3102-graph"></a>
-### Pattern-esque syntax for terser named arguments/record fields
-  <sub>[dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) &mdash; 27 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions"
-    line [17, 17, 17, 17, 17, 17, 20, 21, 21, 21, 22, 26, 27]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-357-graph"></a>
 ### Dot shorthands: Allow for shorter dot syntax to access enum values
   <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1104 total reactions, 9 recent reactions</sub><br />
@@ -1005,6 +988,23 @@ Let redirecting factory constructors specify default values [dart-lang/language#
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions"
     line [1097, 1098, 1098, 1098, 1098, 1098, 1099, 1102, 1102, 1103, 1103, 1103, 1104]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-3102-graph"></a>
+### Pattern-esque syntax for terser named arguments/record fields
+  <sub>[dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) &mdash; 26 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    y-axis "Reactions"
+    line [17, 17, 17, 17, 17, 17, 20, 21, 21, 21, 22, 26, 26]
   ```
 
   </details>
