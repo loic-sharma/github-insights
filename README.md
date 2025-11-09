@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-08-11 to 2025-11-08.
+Issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-framework` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -40,8 +40,8 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 199 | [5](#flutter-flutter-45336-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 139 | [5](#flutter-flutter-63323-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 58 | [5](#flutter-flutter-81005-graph)
-[Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 121 | 4
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 121 | 4
+[Proposal] Access l18n Translations with Dynamic Keys [flutter/flutter#105672](https://github.com/flutter/flutter/issues/105672) | 121 | 4
 add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flutter/issues/127409) | 118 | 4
 Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 108 | 4
 Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.com/flutter/flutter/issues/50763) | 92 | 4
@@ -50,7 +50,7 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-design` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -62,17 +62,17 @@ Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/fl
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 309 | [5](#flutter-flutter-21594-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 71 | [5](#flutter-flutter-97496-graph)
 Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 100 | 4
-Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 101 | 3
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 273 | 2
+Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 100 | 2
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 93 | 2
 Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter/flutter#40601](https://github.com/flutter/flutter/issues/40601) | 82 | 2
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 77 | 2
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 [ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
+Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`f: cupertino` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 29 | 4
@@ -114,7 +114,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-accessibility` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-go_router` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-tool` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,13 +153,13 @@ Downloading lines for flutter doctor should display information [flutter/flutter
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-engine` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 176 | [162](#flutter-flutter-138627-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 20 | [20](#flutter-flutter-174980-graph)
-Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 549 | [15](#flutter-flutter-26801-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 48 | [14](#flutter-flutter-166248-graph)
+Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 547 | [13](#flutter-flutter-26801-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 331 | [12](#flutter-flutter-18443-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 36 | [11](#flutter-flutter-148026-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 214 | [8](#flutter-flutter-11754-graph)
@@ -176,7 +176,7 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-ios` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-android` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -207,8 +207,8 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 75 | [6](#flutter-flutter-105395-graph)
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 96 | 4
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 17 | 4
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 71 | 3
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 3
@@ -220,7 +220,7 @@ Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/f
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-web` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,17 +232,17 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 208 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 94 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 62 | 4
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 3
 [Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 3
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 26 | 3
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 2
+Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 225 | 2
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 175 | 2
 New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292) | 93 | 2
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 74 | 2
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -252,8 +252,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 219 | [5](#flutter-flutter-41980-graph)
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 21 | [5](#flutter-flutter-110585-graph)
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 225 | 4
-Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 141 | 4
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 340 | 3
+Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 140 | 3
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 84 | 3
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 72 | 3
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 20 | 3
@@ -264,7 +264,7 @@ Wayland: support the xdg-decoration protocol to use server-side decorations when
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`team-ecosystem` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,17 +276,17 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 208 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 94 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 62 | 4
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 3
 [Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 3
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 26 | 3
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 2
+Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 225 | 2
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 175 | 2
 New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292) | 93 | 2
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 74 | 2
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`dart-lang/sdk` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -299,16 +299,16 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 14 | [6](#dart-lang-sdk-46943-graph)
 Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 6 | [6](#dart-lang-sdk-61366-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 49 | [5](#dart-lang-sdk-42855-graph)
-Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 5 | [5](#dart-lang-sdk-61579-graph)
+Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 61 | 4
 [vm/ffi] Static `@NativeCallback`s API [dart-lang/sdk#51383](https://github.com/dart-lang/sdk/issues/51383) | 9 | 4
-proposal: `prefer_named_function_parameters` [dart-lang/sdk#61391](https://github.com/dart-lang/sdk/issues/61391) | 4 | 4
 `dart mcp-server` ouput is unintelligible [dart-lang/sdk#61365](https://github.com/dart-lang/sdk/issues/61365) | 4 | 4
+Support using Dart embeded into other executables [dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) | 4 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-08-11 to 2025-11-08.
+`dart-lang/language` issues that received the most reactions from 2025-08-11 to 2025-11-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -687,23 +687,6 @@ Let redirecting factory constructors specify default values [dart-lang/language#
   </details>
   </sub>
 
-<a name="flutter-flutter-26801-graph"></a>
-### Apple CarPlay / Android Auto support?
-  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 549 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions"
-    line [535, 535, 536, 539, 541, 541, 541, 542, 542, 548, 548, 548, 549]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-55281-graph"></a>
 ### Dart Analyzer very slow/stuck
   <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 212 total reactions, 15 recent reactions</sub><br />
@@ -767,6 +750,23 @@ Let redirecting factory constructors specify default values [dart-lang/language#
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions"
     line [0, 15, 15, 15, 20, 21, 26, 27, 27, 27, 28, 29, 29]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-26801-graph"></a>
+### Apple CarPlay / Android Auto support?
+  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 547 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    y-axis "Reactions"
+    line [535, 535, 536, 539, 541, 541, 541, 542, 542, 548, 548, 548, 547]
   ```
 
   </details>
@@ -1690,23 +1690,6 @@ Let redirecting factory constructors specify default values [dart-lang/language#
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61433-graph"></a>
-### Implicit closure-objects creation performance impact
-  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61579-graph"></a>
 ### Add more information to `InvalidType`
   <sub>[dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1719,6 +1702,23 @@ Let redirecting factory constructors specify default values [dart-lang/language#
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61433-graph"></a>
+### Implicit closure-objects creation performance impact
+  <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
