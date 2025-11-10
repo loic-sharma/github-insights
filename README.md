@@ -2,11 +2,11 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-08-11 to 2025-11-09.
+Issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 177 | [163](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 178 | [164](#flutter-flutter-138627-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 588 | [81](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
@@ -28,7 +28,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-framework` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-design` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -62,17 +62,17 @@ Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/fl
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 309 | [5](#flutter-flutter-21594-graph)
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 71 | [5](#flutter-flutter-97496-graph)
 Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 100 | 4
+Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 101 | 3
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 273 | 2
-Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 100 | 2
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 93 | 2
 Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter/flutter#40601](https://github.com/flutter/flutter/issues/40601) | 82 | 2
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 77 | 2
-[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
+[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`f: cupertino` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 29 | 4
@@ -114,7 +114,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-accessibility` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-go_router` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-tool` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,13 +153,13 @@ Downloading lines for flutter doctor should display information [flutter/flutter
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-engine` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 177 | [163](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 178 | [164](#flutter-flutter-138627-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 20 | [20](#flutter-flutter-174980-graph)
+Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 549 | [15](#flutter-flutter-26801-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 48 | [14](#flutter-flutter-166248-graph)
-Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 547 | [13](#flutter-flutter-26801-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 331 | [12](#flutter-flutter-18443-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 36 | [11](#flutter-flutter-148026-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 214 | [8](#flutter-flutter-11754-graph)
@@ -176,7 +176,7 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-ios` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-android` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -207,9 +207,9 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 75 | [6](#flutter-flutter-105395-graph)
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 96 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
-systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 17 | 4
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
+systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 17 | 4
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 71 | 3
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 3
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 51 | 2
@@ -220,7 +220,7 @@ Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/f
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-web` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -232,17 +232,17 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 208 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 94 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 62 | 4
+Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 3
 [Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 3
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 26 | 3
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 2
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 225 | 2
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 175 | 2
 New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292) | 93 | 2
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 74 | 2
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -251,10 +251,10 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 63 | [6](#flutter-flutter-62597-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 219 | [5](#flutter-flutter-41980-graph)
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 21 | [5](#flutter-flutter-110585-graph)
+[webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 341 | 4
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 225 | 4
+Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 141 | 4
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 85 | 4
-[webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 340 | 3
-Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 140 | 3
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 72 | 3
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 20 | 3
 Wayland: support the xdg-decoration protocol to use server-side decorations when available [flutter/flutter#94381](https://github.com/flutter/flutter/issues/94381) | 18 | 3
@@ -264,7 +264,7 @@ Wayland: support the xdg-decoration protocol to use server-side decorations when
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`team-ecosystem` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -276,17 +276,17 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 208 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 94 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 62 | 4
+Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 226 | 3
 [Flutter drive] cannot find relative imports to parent directory when running on web [flutter/flutter#102469](https://github.com/flutter/flutter/issues/102469) | 40 | 3
 Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flutter/issues/154344) | 26 | 3
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 343 | 2
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 225 | 2
  main.dart.js is too large [flutter/flutter#46589](https://github.com/flutter/flutter/issues/46589) | 175 | 2
 New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flutter/flutter/issues/139292) | 93 | 2
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 74 | 2
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`dart-lang/sdk` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -303,12 +303,12 @@ Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https
 Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 5 | [5](#dart-lang-sdk-61579-graph)
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 61 | 4
 [vm/ffi] Static `@NativeCallback`s API [dart-lang/sdk#51383](https://github.com/dart-lang/sdk/issues/51383) | 9 | 4
+Make `WidgetCreatorTracker` reusable [dart-lang/sdk#61580](https://github.com/dart-lang/sdk/issues/61580) | 4 | 4
 proposal: `prefer_named_function_parameters` [dart-lang/sdk#61391](https://github.com/dart-lang/sdk/issues/61391) | 4 | 4
-Support using Dart embeded into other executables [dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) | 4 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-08-11 to 2025-11-09.
+`dart-lang/language` issues that received the most reactions from 2025-08-11 to 2025-11-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -332,16 +332,16 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
 <a name="flutter-flutter-138627-graph"></a>
 ### toImageSync retains display list which can lead to surprising memory retention.
-  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 177 total reactions, 163 recent reactions</sub><br />
+  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 178 total reactions, 164 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 163, 177]
+    line [14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 163, 177, 178]
   ```
 
   </details>
@@ -356,9 +356,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [798, 804, 809, 824, 826, 848, 857, 862, 863, 871, 872, 877, 877]
+    line [798, 804, 809, 824, 826, 848, 857, 862, 863, 871, 872, 877, 877, 877]
   ```
 
   </details>
@@ -373,9 +373,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [511, 515, 518, 525, 528, 547, 557, 562, 569, 573, 583, 587, 588]
+    line [511, 515, 518, 525, 528, 547, 557, 562, 569, 573, 583, 587, 588, 588]
   ```
 
   </details>
@@ -390,9 +390,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [25, 25, 26, 90, 97, 99, 100, 102, 103, 103, 103, 103, 104]
+    line [25, 25, 26, 90, 97, 99, 100, 102, 103, 103, 103, 103, 104, 104]
   ```
 
   </details>
@@ -407,9 +407,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [601, 605, 614, 625, 636, 643, 645, 654, 658, 659, 661, 666, 671]
+    line [601, 605, 614, 625, 636, 643, 645, 654, 658, 659, 661, 666, 671, 671]
   ```
 
   </details>
@@ -424,9 +424,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [29, 31, 34, 35, 38, 41, 41, 43, 50, 56, 59, 63, 64]
+    line [29, 31, 34, 35, 38, 41, 41, 43, 50, 56, 59, 63, 64, 64]
   ```
 
   </details>
@@ -441,9 +441,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [79, 84, 93, 93, 93, 94, 95, 99, 100, 107, 113, 114, 115]
+    line [79, 84, 93, 93, 93, 94, 95, 99, 100, 107, 113, 114, 115, 115]
   ```
 
   </details>
@@ -458,9 +458,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [1196, 1198, 1200, 1204, 1204, 1204, 1204, 1205, 1207, 1207, 1207, 1206, 1207]
+    line [1196, 1198, 1200, 1204, 1204, 1204, 1204, 1205, 1207, 1207, 1207, 1206, 1207, 1207]
   ```
 
   </details>
@@ -475,9 +475,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 28, 28]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 28, 28, 28]
   ```
 
   </details>
@@ -492,9 +492,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 19, 24, 26, 28]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 19, 24, 26, 28, 28]
   ```
 
   </details>
@@ -509,9 +509,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 15, 22, 24, 24, 26, 26]
+    line [0, 0, 0, 0, 0, 0, 0, 15, 22, 24, 24, 26, 26, 26]
   ```
 
   </details>
@@ -526,9 +526,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 18, 25]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 18, 25, 25]
   ```
 
   </details>
@@ -543,9 +543,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [2259, 2265, 2266, 2267, 2267, 2268, 2273, 2275, 2278, 2278, 2279, 2280, 2285]
+    line [2259, 2265, 2266, 2267, 2267, 2268, 2273, 2275, 2278, 2278, 2279, 2280, 2285, 2285]
   ```
 
   </details>
@@ -560,9 +560,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [98, 98, 98, 102, 102, 102, 106, 109, 109, 109, 116, 122, 122]
+    line [98, 98, 98, 102, 102, 102, 106, 109, 109, 109, 116, 122, 122, 122]
   ```
 
   </details>
@@ -577,9 +577,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [456, 461, 462, 463, 465, 466, 466, 471, 471, 473, 473, 478, 478]
+    line [456, 461, 462, 463, 465, 466, 466, 471, 471, 473, 473, 478, 478, 478]
   ```
 
   </details>
@@ -594,9 +594,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 22, 22, 22, 22, 22, 22, 22, 22]
+    line [0, 0, 0, 0, 0, 22, 22, 22, 22, 22, 22, 22, 22, 22]
   ```
 
   </details>
@@ -611,9 +611,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 14, 15, 18, 19, 19, 19, 19, 20]
+    line [0, 0, 0, 0, 0, 14, 15, 18, 19, 19, 19, 19, 20, 20]
   ```
 
   </details>
@@ -628,9 +628,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [204, 204, 205, 206, 206, 207, 207, 207, 207, 210, 212, 215, 223]
+    line [204, 204, 205, 206, 206, 207, 207, 207, 207, 210, 212, 215, 223, 223]
   ```
 
   </details>
@@ -645,9 +645,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [208, 208, 208, 208, 214, 214, 215, 216, 216, 218, 218, 224, 225]
+    line [208, 208, 208, 208, 214, 214, 215, 216, 216, 218, 218, 224, 225, 225]
   ```
 
   </details>
@@ -662,9 +662,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [77, 81, 81, 81, 81, 81, 82, 87, 87, 88, 90, 90, 91]
+    line [77, 81, 81, 81, 81, 81, 82, 87, 87, 88, 90, 90, 91, 91]
   ```
 
   </details>
@@ -679,9 +679,26 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions" 0 --> 20
-    line [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 17]
+    line [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 17, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-26801-graph"></a>
+### Apple CarPlay / Android Auto support?
+  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 549 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
+    y-axis "Reactions"
+    line [535, 535, 536, 539, 541, 541, 541, 542, 542, 548, 548, 548, 547, 549]
   ```
 
   </details>
@@ -696,9 +713,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [198, 201, 201, 201, 201, 204, 204, 204, 205, 208, 212, 212, 212]
+    line [198, 201, 201, 201, 201, 204, 204, 204, 205, 208, 212, 212, 212, 212]
   ```
 
   </details>
@@ -713,9 +730,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [694, 694, 695, 696, 702, 702, 702, 703, 704, 704, 704, 708, 708]
+    line [694, 694, 695, 696, 702, 702, 702, 703, 704, 704, 704, 708, 708, 708]
   ```
 
   </details>
@@ -730,9 +747,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [35, 41, 41, 42, 42, 42, 44, 46, 46, 46, 46, 47, 48]
+    line [35, 41, 41, 42, 42, 42, 44, 46, 46, 46, 46, 47, 48, 48]
   ```
 
   </details>
@@ -747,26 +764,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 15, 15, 15, 20, 21, 26, 27, 27, 27, 28, 29, 29]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-26801-graph"></a>
-### Apple CarPlay / Android Auto support?
-  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 547 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions"
-    line [535, 535, 536, 539, 541, 541, 541, 542, 542, 548, 548, 548, 547]
+    line [0, 15, 15, 15, 20, 21, 26, 27, 27, 27, 28, 29, 29, 29]
   ```
 
   </details>
@@ -781,9 +781,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [319, 319, 321, 321, 321, 321, 325, 326, 329, 329, 331, 331, 331]
+    line [319, 319, 321, 321, 321, 321, 325, 326, 329, 329, 331, 331, 331, 331]
   ```
 
   </details>
@@ -798,9 +798,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [358, 358, 358, 359, 359, 361, 361, 362, 363, 363, 369, 369, 369]
+    line [358, 358, 358, 359, 359, 361, 361, 362, 363, 363, 369, 369, 369, 369]
   ```
 
   </details>
@@ -815,9 +815,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [209, 210, 211, 212, 213, 213, 213, 213, 219, 219, 219, 220, 220]
+    line [209, 210, 211, 212, 213, 213, 213, 213, 219, 219, 219, 220, 220, 220]
   ```
 
   </details>
@@ -832,9 +832,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [95, 95, 95, 96, 96, 96, 96, 96, 96, 96, 96, 101, 101]
+    line [95, 95, 95, 96, 96, 96, 96, 96, 96, 96, 96, 101, 101, 101]
   ```
 
   </details>
@@ -849,9 +849,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [25, 25, 27, 27, 27, 29, 30, 30, 32, 34, 34, 35, 36]
+    line [25, 25, 27, 27, 27, 29, 30, 30, 32, 34, 34, 35, 36, 36]
   ```
 
   </details>
@@ -866,9 +866,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 7, 10, 10, 11, 11, 11, 11]
+    line [0, 0, 0, 0, 0, 0, 7, 10, 10, 11, 11, 11, 11, 11]
   ```
 
   </details>
@@ -883,9 +883,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [1689, 1691, 1691, 1691, 1691, 1691, 1698, 1698, 1698, 1697, 1698, 1699, 1700]
+    line [1689, 1691, 1691, 1691, 1691, 1691, 1698, 1698, 1698, 1697, 1698, 1699, 1700, 1700]
   ```
 
   </details>
@@ -900,9 +900,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [225, 231, 231, 232, 232, 232, 232, 232, 232, 232, 232, 233, 235]
+    line [225, 231, 231, 232, 232, 232, 232, 232, 232, 232, 232, 233, 235, 235]
   ```
 
   </details>
@@ -917,9 +917,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [54, 54, 55, 55, 55, 56, 57, 57, 57, 57, 59, 59, 59]
+    line [54, 54, 55, 55, 55, 56, 57, 57, 57, 57, 59, 59, 59, 59]
   ```
 
   </details>
@@ -934,9 +934,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 42, 47, 48, 48, 48, 51, 52, 52]
+    line [42, 42, 42, 42, 42, 42, 47, 48, 48, 48, 51, 52, 52, 52]
   ```
 
   </details>
@@ -951,9 +951,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [25, 26, 27, 27, 27, 27, 27, 27, 29, 29, 30, 30, 32]
+    line [25, 26, 27, 27, 27, 27, 27, 27, 29, 29, 30, 30, 32, 32]
   ```
 
   </details>
@@ -968,9 +968,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [19, 21, 21, 21, 21, 22, 22, 22, 23, 25, 27, 29, 29]
+    line [19, 21, 21, 21, 21, 22, 22, 22, 23, 25, 27, 29, 29, 29]
   ```
 
   </details>
@@ -985,9 +985,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [1097, 1098, 1098, 1098, 1098, 1098, 1099, 1102, 1102, 1103, 1103, 1103, 1104]
+    line [1097, 1098, 1098, 1098, 1098, 1098, 1099, 1102, 1102, 1103, 1103, 1103, 1104, 1104]
   ```
 
   </details>
@@ -1002,9 +1002,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [17, 17, 17, 17, 17, 17, 20, 21, 21, 21, 22, 26, 26]
+    line [17, 17, 17, 17, 17, 17, 20, 21, 21, 21, 22, 26, 26, 26]
   ```
 
   </details>
@@ -1019,9 +1019,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [206, 206, 206, 207, 207, 207, 207, 207, 209, 211, 211, 214, 214]
+    line [206, 206, 206, 207, 207, 207, 207, 207, 209, 211, 211, 214, 214, 214]
   ```
 
   </details>
@@ -1036,9 +1036,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [163, 163, 163, 163, 164, 164, 164, 164, 165, 165, 165, 168, 171]
+    line [163, 163, 163, 163, 164, 164, 164, 164, 165, 165, 165, 168, 171, 171]
   ```
 
   </details>
@@ -1053,9 +1053,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [39, 40, 42, 42, 42, 42, 42, 42, 42, 43, 45, 46, 47]
+    line [39, 40, 42, 42, 42, 42, 42, 42, 42, 43, 45, 46, 47, 47]
   ```
 
   </details>
@@ -1070,9 +1070,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [551, 551, 552, 552, 552, 552, 553, 553, 553, 553, 553, 557, 558]
+    line [551, 551, 552, 552, 552, 552, 553, 553, 553, 553, 553, 557, 558, 558]
   ```
 
   </details>
@@ -1087,9 +1087,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [383, 383, 384, 384, 387, 387, 387, 387, 387, 388, 388, 389, 390]
+    line [383, 383, 384, 384, 387, 387, 387, 387, 387, 388, 388, 389, 390, 390]
   ```
 
   </details>
@@ -1104,9 +1104,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [196, 197, 197, 198, 198, 198, 198, 199, 199, 199, 199, 202, 203]
+    line [196, 197, 197, 198, 198, 198, 198, 199, 199, 199, 199, 202, 203, 203]
   ```
 
   </details>
@@ -1121,9 +1121,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [168, 168, 169, 169, 169, 170, 171, 173, 173, 173, 173, 173, 173]
+    line [168, 168, 169, 169, 169, 170, 171, 173, 173, 173, 173, 173, 173, 173]
   ```
 
   </details>
@@ -1138,9 +1138,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [138, 138, 138, 138, 138, 138, 138, 141, 141, 142, 143, 143, 143]
+    line [138, 138, 138, 138, 138, 138, 138, 141, 141, 142, 143, 143, 143, 143]
   ```
 
   </details>
@@ -1155,9 +1155,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [79, 79, 79, 80, 81, 81, 81, 82, 84, 84, 84, 84, 84]
+    line [79, 79, 79, 80, 81, 81, 81, 82, 84, 84, 84, 84, 84, 84]
   ```
 
   </details>
@@ -1172,9 +1172,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [60, 60, 61, 64, 64, 64, 64, 64, 64, 64, 64, 64, 66]
+    line [60, 60, 61, 64, 64, 64, 64, 64, 64, 64, 64, 64, 66, 66]
   ```
 
   </details>
@@ -1189,9 +1189,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [56, 56, 57, 57, 57, 61, 61, 61, 61, 61, 62, 62, 62]
+    line [56, 56, 57, 57, 57, 61, 61, 61, 61, 61, 62, 62, 62, 62]
   ```
 
   </details>
@@ -1206,9 +1206,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [54, 54, 54, 54, 56, 56, 56, 57, 59, 59, 60, 60, 61]
+    line [54, 54, 54, 54, 56, 56, 56, 57, 59, 59, 60, 60, 61, 61]
   ```
 
   </details>
@@ -1223,9 +1223,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [52, 52, 53, 53, 53, 54, 54, 54, 54, 54, 54, 56, 59]
+    line [52, 52, 53, 53, 53, 54, 54, 54, 54, 54, 54, 56, 59, 59]
   ```
 
   </details>
@@ -1240,9 +1240,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [49, 50, 51, 51, 51, 51, 51, 51, 51, 52, 52, 52, 56]
+    line [49, 50, 51, 51, 51, 51, 51, 51, 51, 52, 52, 52, 56, 56]
   ```
 
   </details>
@@ -1257,9 +1257,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [45, 47, 47, 47, 47, 48, 49, 49, 50, 50, 50, 51, 52]
+    line [45, 47, 47, 47, 47, 48, 49, 49, 50, 50, 50, 51, 52, 52]
   ```
 
   </details>
@@ -1274,9 +1274,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
   ```
 
   </details>
@@ -1291,9 +1291,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [219, 219, 221, 223, 223, 223, 224, 224, 224, 224, 224, 225, 225]
+    line [219, 219, 221, 223, 223, 223, 224, 224, 224, 224, 224, 225, 225, 225]
   ```
 
   </details>
@@ -1308,9 +1308,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [118, 118, 119, 119, 120, 120, 120, 120, 120, 120, 120, 120, 124]
+    line [118, 118, 119, 119, 120, 120, 120, 120, 120, 120, 120, 120, 124, 124]
   ```
 
   </details>
@@ -1325,9 +1325,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [95, 95, 96, 96, 97, 97, 99, 100, 100, 100, 100, 100, 100]
+    line [95, 95, 96, 96, 97, 97, 99, 100, 100, 100, 100, 100, 100, 100]
   ```
 
   </details>
@@ -1342,9 +1342,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 72, 75]
+    line [71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 71, 72, 75, 75]
   ```
 
   </details>
@@ -1359,9 +1359,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [61, 61, 63, 63, 63, 63, 63, 66, 66, 67, 67, 67, 67]
+    line [61, 61, 63, 63, 63, 63, 63, 66, 66, 67, 67, 67, 67, 67]
   ```
 
   </details>
@@ -1376,9 +1376,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [57, 60, 60, 60, 60, 60, 60, 61, 63, 63, 63, 63, 63]
+    line [57, 60, 60, 60, 60, 60, 60, 61, 63, 63, 63, 63, 63, 63]
   ```
 
   </details>
@@ -1393,26 +1393,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions" 0 --> 20
-    line [8, 8, 8, 8, 8, 8, 11, 13, 13, 13, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-61366-graph"></a>
-### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
-  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6]
+    line [8, 8, 8, 8, 8, 8, 11, 13, 13, 13, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1427,9 +1410,26 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions" 0 --> 20
-    line [0, 3, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [0, 3, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61366-graph"></a>
+### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
+  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6]
   ```
 
   </details>
@@ -1444,9 +1444,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [2026, 2026, 2026, 2026, 2026, 2027, 2028, 2028, 2029, 2029, 2030, 2030, 2030]
+    line [2026, 2026, 2026, 2026, 2026, 2027, 2028, 2028, 2029, 2029, 2030, 2030, 2030, 2030]
   ```
 
   </details>
@@ -1461,9 +1461,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [304, 305, 305, 306, 306, 308, 308, 308, 308, 308, 309, 309, 309]
+    line [304, 305, 305, 306, 306, 308, 308, 308, 308, 308, 309, 309, 309, 309]
   ```
 
   </details>
@@ -1478,9 +1478,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [290, 290, 290, 291, 291, 293, 293, 293, 293, 293, 293, 293, 293]
+    line [290, 290, 290, 291, 291, 293, 293, 293, 293, 293, 293, 293, 293, 293]
   ```
 
   </details>
@@ -1495,9 +1495,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [216, 216, 216, 216, 217, 217, 217, 217, 217, 218, 218, 219, 219]
+    line [216, 216, 216, 216, 217, 217, 217, 217, 217, 218, 218, 219, 219, 219]
   ```
 
   </details>
@@ -1512,9 +1512,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [194, 194, 194, 194, 194, 195, 195, 196, 197, 197, 199, 199, 199]
+    line [194, 194, 194, 194, 194, 195, 195, 196, 197, 197, 199, 199, 199, 199]
   ```
 
   </details>
@@ -1529,9 +1529,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [190, 190, 191, 191, 191, 195, 195, 195, 195, 195, 195, 195, 195]
+    line [190, 190, 191, 191, 191, 195, 195, 195, 195, 195, 195, 195, 195, 195]
   ```
 
   </details>
@@ -1546,9 +1546,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [186, 189, 189, 189, 189, 189, 190, 190, 190, 190, 190, 190, 191]
+    line [186, 189, 189, 189, 189, 189, 190, 190, 190, 190, 190, 190, 191, 191]
   ```
 
   </details>
@@ -1563,9 +1563,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [157, 157, 157, 157, 157, 157, 157, 157, 157, 158, 158, 158, 158]
+    line [157, 157, 157, 157, 157, 157, 157, 157, 157, 158, 158, 158, 158, 158]
   ```
 
   </details>
@@ -1580,9 +1580,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [134, 134, 134, 134, 135, 135, 136, 138, 138, 138, 138, 139, 139]
+    line [134, 134, 134, 134, 135, 135, 136, 138, 138, 138, 138, 139, 139, 139]
   ```
 
   </details>
@@ -1597,9 +1597,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [114, 115, 115, 115, 118, 118, 118, 118, 118, 118, 118, 118, 119]
+    line [114, 115, 115, 115, 118, 118, 118, 118, 118, 118, 118, 118, 119, 119]
   ```
 
   </details>
@@ -1614,9 +1614,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [86, 87, 87, 87, 87, 87, 87, 87, 87, 89, 89, 89, 89]
+    line [86, 87, 87, 87, 87, 87, 87, 87, 87, 89, 89, 89, 89, 89]
   ```
 
   </details>
@@ -1631,9 +1631,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [69, 69, 69, 69, 69, 70, 70, 70, 70, 70, 70, 70, 71]
+    line [69, 69, 69, 69, 69, 70, 70, 70, 70, 70, 70, 70, 71, 71]
   ```
 
   </details>
@@ -1648,9 +1648,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [57, 57, 58, 58, 58, 58, 58, 58, 58, 59, 61, 61, 62]
+    line [57, 57, 58, 58, 58, 58, 58, 58, 58, 59, 61, 61, 62, 62]
   ```
 
   </details>
@@ -1665,9 +1665,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [53, 54, 55, 55, 55, 55, 57, 57, 57, 57, 58, 58, 58]
+    line [53, 54, 55, 55, 55, 55, 57, 57, 57, 57, 58, 58, 58, 58]
   ```
 
   </details>
@@ -1682,9 +1682,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [44, 45, 45, 45, 47, 47, 48, 48, 48, 48, 48, 49, 49]
+    line [44, 45, 45, 45, 47, 47, 48, 48, 48, 48, 48, 49, 49, 49]
   ```
 
   </details>
@@ -1699,9 +1699,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [16, 16, 17, 17, 17, 17, 17, 17, 17, 18, 20, 20, 21]
+    line [16, 16, 17, 17, 17, 17, 17, 17, 17, 18, 20, 20, 21, 21]
   ```
 
   </details>
@@ -1716,9 +1716,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
@@ -1733,9 +1733,9 @@ Let redirecting factory constructors specify default values [dart-lang/language#
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3]
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 5, 5, 5]
   ```
 
   </details>
