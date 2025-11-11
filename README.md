@@ -7,8 +7,8 @@ Issues that received the most reactions from 2025-08-11 to 2025-11-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 178 | [164](#flutter-flutter-138627-graph)
+[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 99 | [99](#flutter-flutter-178236-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
-[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 83 | [83](#flutter-flutter-178236-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 589 | [82](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 671 | [75](#flutter-flutter-168813-graph)
@@ -322,11 +322,11 @@ Dart treats a final nullable property as nullable even after checking that the p
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 32 | [10](#dart-lang-language-4462-graph)
 Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1104 | [9](#dart-lang-language-357-graph)
 Pattern-esque syntax for terser named arguments/record fields [dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) | 26 | [9](#dart-lang-language-3102-graph)
+Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 14 | [9](#dart-lang-language-4185-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 558 | [7](#dart-lang-language-83-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 203 | [7](#dart-lang-language-4271-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 84 | [7](#dart-lang-language-2128-graph)
-Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 12 | [7](#dart-lang-language-4185-graph)
-Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 207 | [6](#dart-lang-language-4211-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 264 | [6](#dart-lang-language-2364-graph)
 
 ## Graphs
 
@@ -347,6 +347,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-178236-graph"></a>
+### [breaking] make child positional
+  <sub>[flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) &mdash; 99 total reactions, 99 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 99]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
   <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 877 total reactions, 88 recent reactions</sub><br />
@@ -359,23 +376,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
     line [798, 804, 809, 824, 826, 848, 857, 862, 863, 871, 872, 877, 877, 877]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-178236-graph"></a>
-### [breaking] make child positional
-  <sub>[flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) &mdash; 83 total reactions, 83 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 83]
   ```
 
   </details>
@@ -1044,6 +1044,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="dart-lang-language-4185-graph"></a>
+### Named arguments
+  <sub>[dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) &mdash; 14 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-11754-graph"></a>
 ### Allow release mode builds to run on simulators
   <sub>[flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) &mdash; 214 total reactions, 8 recent reactions</sub><br />
@@ -1282,23 +1299,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-language-4185-graph"></a>
-### Named arguments
-  <sub>[dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) &mdash; 12 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61755-graph"></a>
 ### [analysis_server_plugin] Access analysis_options.yaml in plugins
   <sub>[dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -1316,6 +1316,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="dart-lang-language-2364-graph"></a>
+### Primary constructor on classes
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 264 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
+    y-axis "Reactions"
+    line [258, 258, 258, 258, 258, 259, 259, 259, 259, 260, 261, 260, 261, 264]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 225 total reactions, 6 recent reactions</sub><br />
@@ -1328,23 +1345,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
     line [219, 219, 221, 223, 223, 223, 224, 224, 224, 224, 224, 225, 225, 225]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4211-graph"></a>
-### Proposal for a pipe-like operator to chain constructor/method invocations without nesting
-  <sub>[dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) &mdash; 207 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
-    y-axis "Reactions"
-    line [201, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 202, 207]
   ```
 
   </details>
