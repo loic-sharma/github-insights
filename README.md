@@ -2,11 +2,11 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-08-11 to 2025-11-12.
+Issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 173 | [173](#flutter-flutter-178236-graph)
+[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 174 | [174](#flutter-flutter-178236-graph)
 toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 183 | [169](#flutter-flutter-138627-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 590 | [83](#flutter-flutter-170310-graph)
@@ -15,12 +15,12 @@ Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/fl
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 65 | [38](#flutter-flutter-172434-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [37](#flutter-flutter-172561-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1209 | [33](#dart-lang-language-723-graph)
+Flutter 3.38 was released with Dart 3.10.0-290.4.beta instead of Dart stable channel [flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) | 31 | [31](#flutter-flutter-178400-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 28 | [28](#flutter-flutter-175962-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 124 | [26](#dart-lang-sdk-53402-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 26 | [26](#flutter-flutter-175099-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2286 | [25](#dart-lang-language-314-graph)
 
 ## Trending issues by team
 
@@ -28,11 +28,11 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-framework` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 173 | [173](#flutter-flutter-178236-graph)
+[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 174 | [174](#flutter-flutter-178236-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 223 | [19](#flutter-flutter-142845-graph)
@@ -50,7 +50,7 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-design` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -67,12 +67,12 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 93 | 2
 Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter/flutter#40601](https://github.com/flutter/flutter/issues/40601) | 82 | 2
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 77 | 2
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 [ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
+Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`f: cupertino` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 29 | 4
@@ -114,7 +114,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-accessibility` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-go_router` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-tool` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Investigate running test suites in a single isolate [flutter/flutter#90225](http
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-engine` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 183 | [169](#flutter-flutter-138627-graph)
@@ -176,7 +176,7 @@ Do plugins need to know about hot reload and hot restart? [flutter/flutter#10437
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-ios` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-android` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -206,9 +206,9 @@ App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [f
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 390 | [7](#flutter-flutter-83596-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 75 | [6](#flutter-flutter-105395-graph)
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 96 | 4
-[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 17 | 4
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 17 | 4
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 71 | 3
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 47 | 3
@@ -220,7 +220,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-web` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591]
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`team-ecosystem` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`dart-lang/sdk` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-08-11 to 2025-11-12.
+`dart-lang/language` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -332,7 +332,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-178236-graph"></a>
 ### [breaking] make child positional
-  <sub>[flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) &mdash; 173 total reactions, 173 recent reactions</sub><br />
+  <sub>[flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) &mdash; 174 total reactions, 174 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -341,7 +341,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 173]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 174]
   ```
 
   </details>
@@ -478,6 +478,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
     line [1196, 1198, 1200, 1204, 1204, 1204, 1204, 1205, 1207, 1207, 1207, 1206, 1207, 1209]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-178400-graph"></a>
+### Flutter 3.38 was released with Dart 3.10.0-290.4.beta instead of Dart stable channel
+  <sub>[flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) &mdash; 31 total reactions, 31 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31]
   ```
 
   </details>
