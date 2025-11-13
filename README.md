@@ -7,12 +7,12 @@ Issues that received the most reactions from 2025-08-11 to 2025-11-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 174 | [174](#flutter-flutter-178236-graph)
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 183 | [169](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 184 | [170](#flutter-flutter-138627-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 591 | [84](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 671 | [75](#flutter-flutter-168813-graph)
-Flutter 3.38 was released with Dart 3.10.0-290.4.beta instead of Dart stable channel [flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) | 55 | [55](#flutter-flutter-178400-graph)
+Flutter 3.38 was released with Dart 3.10.0-290.4.beta instead of Dart stable channel [flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) | 66 | [66](#flutter-flutter-178400-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 65 | [38](#flutter-flutter-172434-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [37](#flutter-flutter-172561-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1209 | [33](#dart-lang-language-723-graph)
@@ -156,7 +156,7 @@ Investigate running test suites in a single isolate [flutter/flutter#90225](http
 `team-engine` issues that received the most reactions from 2025-08-11 to 2025-11-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 183 | [169](#flutter-flutter-138627-graph)
+toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 184 | [170](#flutter-flutter-138627-graph)
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 22 | [22](#flutter-flutter-174980-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 549 | [15](#flutter-flutter-26801-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 48 | [14](#flutter-flutter-166248-graph)
@@ -349,7 +349,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-138627-graph"></a>
 ### toImageSync retains display list which can lead to surprising memory retention.
-  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 183 total reactions, 169 recent reactions</sub><br />
+  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 184 total reactions, 170 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 163, 177, 183]
+    line [14, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 163, 177, 184]
   ```
 
   </details>
@@ -434,7 +434,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-178400-graph"></a>
 ### Flutter 3.38 was released with Dart 3.10.0-290.4.beta instead of Dart stable channel
-  <sub>[flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) &mdash; 55 total reactions, 55 recent reactions</sub><br />
+  <sub>[flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) &mdash; 66 total reactions, 66 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -443,7 +443,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 55]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 66]
   ```
 
   </details>
