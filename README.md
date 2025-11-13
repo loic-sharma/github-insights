@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 176 | [176](#flutter-flutter-178236-graph)
 toImageSync retains display list which can lead to surprising memory retention. [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 184 | [170](#flutter-flutter-138627-graph)
-Flutter 3.38 was released with Dart 3.10.0-290.4.beta instead of Dart stable channel [flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) | 95 | [95](#flutter-flutter-178400-graph)
+Flutter 3.38 was released with Dart 3.10.0-290.4.beta instead of Dart stable channel [flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) | 100 | [100](#flutter-flutter-178400-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 877 | [88](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 591 | [84](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
@@ -366,7 +366,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-178400-graph"></a>
 ### Flutter 3.38 was released with Dart 3.10.0-290.4.beta instead of Dart stable channel
-  <sub>[flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) &mdash; 95 total reactions, 95 recent reactions</sub><br />
+  <sub>[flutter/flutter#178400](https://github.com/flutter/flutter/issues/178400) &mdash; 100 total reactions, 100 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -375,7 +375,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Aug 11, Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 95]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100]
   ```
 
   </details>
