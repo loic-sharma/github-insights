@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-08-18 to 2025-11-18.
+Issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -12,7 +12,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 673 | [72](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [37](#flutter-flutter-172561-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 66 | [36](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 67 | [37](#flutter-flutter-172434-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 34 | [34](#flutter-flutter-175099-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2287 | [28](#dart-lang-language-314-graph)
@@ -28,7 +28,7 @@ Implicit coercion through implicit constructors. [dart-lang/language#3704](https
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-framework` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -38,6 +38,7 @@ Android's predictive back feature doesn't use the device's corner radius [flutte
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 223 | [19](#flutter-flutter-142845-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 708 | [14](#flutter-flutter-30701-graph)
+[Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 13 | [13](#flutter-flutter-178570-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 220 | [11](#flutter-flutter-65504-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 200 | [6](#flutter-flutter-45336-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 59 | [6](#flutter-flutter-81005-graph)
@@ -46,11 +47,10 @@ add restartApp() method [flutter/flutter#127409](https://github.com/flutter/flut
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 245 | 4
 Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 108 | 4
 [go_router] Unwanted black screen when using async redirect. [flutter/flutter#133746](https://github.com/flutter/flutter/issues/133746) | 45 | 4
-App Exits Instead of Navigating Back with StatefullShellRoute in go_router on Android (flutter >= 3.24) [flutter/flutter#153672](https://github.com/flutter/flutter/issues/153672) | 25 | 4
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-design` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -65,14 +65,14 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 93 | 2
 Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter/flutter#40601](https://github.com/flutter/flutter/issues/40601) | 82 | 2
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 71 | 2
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 [ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
+Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 Feature: allow BottomNavigation to float above keyboard [flutter/flutter#26499](https://github.com/flutter/flutter/issues/26499) | 34 | 2
 Date Time Picker needs seconds picker [flutter/flutter#23764](https://github.com/flutter/flutter/issues/23764) | 33 | 2
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`f: cupertino` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 880 | [80](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 30 | [5](#flutter-flutter-149753-graph)
@@ -114,7 +114,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-accessibility` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-go_router` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-tool` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-engine` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 22 | [22](#flutter-flutter-174980-graph)
@@ -176,11 +176,11 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-ios` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 66 | [36](#flutter-flutter-172434-graph)
+in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 67 | [37](#flutter-flutter-172434-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 34 | [34](#flutter-flutter-175099-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 28 | [28](#flutter-flutter-175962-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
@@ -198,19 +198,19 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-android` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 29 | [10](#flutter-flutter-168635-graph)
+App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 30 | [11](#flutter-flutter-168635-graph)
 Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.ExecutionException: java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/org.apache.http.legacy.boot.jar"........ [flutter/flutter#83596](https://github.com/flutter/flutter/issues/83596) | 390 | [7](#flutter-flutter-83596-graph)
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 19 | [6](#flutter-flutter-169746-graph)
 [Proposal][Android] Add ability to get device RoundedCorner [flutter/flutter#97349](https://github.com/flutter/flutter/issues/97349) | 20 | [5](#flutter-flutter-97349-graph)
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 18 | [5](#flutter-flutter-154613-graph)
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 96 | 4
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 75 | 4
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 4
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 4
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 72 | 3
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 47 | 3
 Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 3
@@ -220,7 +220,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-web` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591]
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`team-ecosystem` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Support WasmGC on Safari [flutter/flutter#154344](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`dart-lang/sdk` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -298,8 +298,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 10 | [10](#dart-lang-sdk-61635-graph)
 [analysis_server_plugin] Access analysis_options.yaml in plugins [dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) | 8 | [8](#dart-lang-sdk-61755-graph)
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 14 | [6](#dart-lang-sdk-46943-graph)
-Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 6 | [6](#dart-lang-sdk-61366-graph)
 Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 6 | [6](#dart-lang-sdk-61579-graph)
+Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 6 | [6](#dart-lang-sdk-61366-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 59 | [5](#dart-lang-sdk-56841-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 49 | [5](#dart-lang-sdk-42855-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 18 | [5](#dart-lang-sdk-45307-graph)
@@ -308,7 +308,7 @@ Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-08-18 to 2025-11-18.
+`dart-lang/language` issues that received the most reactions from 2025-08-18 to 2025-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -434,7 +434,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 66 total reactions, 36 recent reactions</sub><br />
+  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 67 total reactions, 37 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -443,7 +443,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   xychart-beta
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
-    line [31, 34, 35, 38, 41, 41, 43, 50, 56, 59, 63, 64, 65, 66]
+    line [31, 34, 35, 38, 41, 41, 43, 50, 56, 59, 63, 64, 65, 67]
   ```
 
   </details>
@@ -823,6 +823,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="flutter-flutter-178570-graph"></a>
+### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
+  <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-178529-graph"></a>
 ### Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode
   <sub>[flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -942,6 +959,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="flutter-flutter-168635-graph"></a>
+### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
+  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 30 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions"
+    line [21, 21, 21, 21, 22, 22, 22, 23, 25, 27, 29, 29, 29, 30]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-61969-graph"></a>
 ### [Dot shorthands] Dot shorthands break constructor references and completions
   <sub>[dart-lang/sdk#61969](https://github.com/dart-lang/sdk/issues/61969) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -1039,23 +1073,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
     line [41, 41, 42, 42, 42, 44, 46, 46, 46, 46, 47, 48, 48, 48]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168635-graph"></a>
-### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
-  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 29 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
-    y-axis "Reactions"
-    line [21, 21, 21, 21, 22, 22, 22, 23, 25, 27, 29, 29, 29, 29]
   ```
 
   </details>
@@ -1452,23 +1469,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61366-graph"></a>
-### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
-  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
-    y-axis "Reactions" 0 --> 20
-    line [0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61579-graph"></a>
 ### Add more information to `InvalidType`
   <sub>[dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -1481,6 +1481,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 5, 5, 5, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61366-graph"></a>
+### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
+  <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions" 0 --> 20
+    line [0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1741,23 +1758,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="flutter-flutter-154613-graph"></a>
-### Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash
-  <sub>[flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
-    y-axis "Reactions" 0 --> 20
-    line [14, 14, 16, 16, 16, 17, 17, 17, 17, 17, 17, 17, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-45307-graph"></a>
 ### Add --no-pub flag
   <sub>[dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) &mdash; 18 total reactions, 5 recent reactions</sub><br />
@@ -1770,6 +1770,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions" 0 --> 20
     line [15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16, 17, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-154613-graph"></a>
+### Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash
+  <sub>[flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions" 0 --> 20
+    line [14, 14, 16, 16, 16, 17, 17, 17, 17, 17, 17, 17, 18, 18]
   ```
 
   </details>
