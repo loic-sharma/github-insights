@@ -183,18 +183,18 @@ Issue | Total reactions | Recent reactions
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 67 | [37](#flutter-flutter-172434-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 34 | [34](#flutter-flutter-175099-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 28 | [28](#flutter-flutter-175962-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 23 | [23](#flutter-flutter-177992-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 371 | [13](#flutter-flutter-110431-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 54 | [8](#flutter-flutter-20663-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 61 | [7](#flutter-flutter-115926-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 155 | 4
+[video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 66 | 4
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 31 | 4
 [iOS] VoiceOver does NOT work after a hot-restart on iOS [flutter/flutter#109391](https://github.com/flutter/flutter/issues/109391) | 18 | 4
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 16 | 4
 Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) | 226 | 3
 Build Flutter macOS artifacts with ARM architecture slice [flutter/flutter#69157](https://github.com/flutter/flutter/issues/69157) | 89 | 3
-☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 30 | 3
-iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 24 | 3
 
 #### Android
 
@@ -298,8 +298,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 10 | [10](#dart-lang-sdk-61957-graph)
 [analysis_server_plugin] Access analysis_options.yaml in plugins [dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) | 8 | [8](#dart-lang-sdk-61755-graph)
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 14 | [6](#dart-lang-sdk-46943-graph)
-Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 6 | [6](#dart-lang-sdk-61579-graph)
 Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)` [dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) | 6 | [6](#dart-lang-sdk-61366-graph)
+Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 6 | [6](#dart-lang-sdk-61579-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 59 | [5](#dart-lang-sdk-56841-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 49 | [5](#dart-lang-sdk-42855-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 18 | [5](#dart-lang-sdk-45307-graph)
@@ -580,6 +580,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
     line [12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 34, 35]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-177992-graph"></a>
+### Overlays close immediately after opening on iPadOS 26.1
+  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 23 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23]
   ```
 
   </details>
@@ -1469,23 +1486,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61579-graph"></a>
-### Add more information to `InvalidType`
-  <sub>[dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 5, 5, 5, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61366-graph"></a>
 ### Dart MCP is not working in Dart version `3.9.0`, and even with `Dart version 3.10.0 (build 3.10.0-116.0.dev)`
   <sub>[dart-lang/sdk#61366](https://github.com/dart-lang/sdk/issues/61366) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -1498,6 +1498,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions" 0 --> 20
     line [0, 4, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61579-graph"></a>
+### Add more information to `InvalidType`
+  <sub>[dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 4, 4, 4, 5, 5, 5, 5, 6]
   ```
 
   </details>
