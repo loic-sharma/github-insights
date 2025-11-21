@@ -12,9 +12,9 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 593 | [81](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 676 | [75](#flutter-flutter-168813-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 38 | [38](#flutter-flutter-175099-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [37](#flutter-flutter-172561-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 67 | [37](#flutter-flutter-172434-graph)
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 37 | [37](#flutter-flutter-175099-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2287 | [28](#dart-lang-language-314-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
@@ -37,7 +37,7 @@ Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/fl
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 223 | [19](#flutter-flutter-142845-graph)
-[Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 17 | [17](#flutter-flutter-178570-graph)
+[Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 18 | [18](#flutter-flutter-178570-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 708 | [14](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 221 | [12](#flutter-flutter-65504-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 200 | [6](#flutter-flutter-45336-graph)
@@ -66,8 +66,8 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 93 | 2
 Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter/flutter#40601](https://github.com/flutter/flutter/issues/40601) | 82 | 2
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 71 | 2
-[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
+[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
 Feature: allow BottomNavigation to float above keyboard [flutter/flutter#26499](https://github.com/flutter/flutter/issues/26499) | 34 | 2
 
 #### Cupertino
@@ -180,8 +180,8 @@ App ignores proxy settings [flutter/flutter#26359](https://github.com/flutter/fl
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 38 | [38](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 67 | [37](#flutter-flutter-172434-graph)
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 37 | [37](#flutter-flutter-175099-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 28 | [28](#flutter-flutter-175962-graph)
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 27 | [27](#flutter-flutter-177992-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
@@ -432,6 +432,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="flutter-flutter-175099-graph"></a>
+### [iOS] Tap interactions not working on iOS 26 for webview_flutter
+  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 38 total reactions, 38 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 18, 25, 33, 38]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
   <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 116 total reactions, 37 recent reactions</sub><br />
@@ -461,23 +478,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
     line [31, 34, 35, 38, 41, 41, 43, 50, 56, 59, 63, 64, 65, 67]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-175099-graph"></a>
-### [iOS] Tap interactions not working on iOS 26 for webview_flutter
-  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 37 total reactions, 37 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 18, 25, 33, 37]
   ```
 
   </details>
@@ -706,7 +706,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 <a name="flutter-flutter-178570-graph"></a>
 ### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
-  <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 18 total reactions, 18 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -715,7 +715,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   xychart-beta
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
   ```
 
   </details>
