@@ -23,6 +23,31 @@
 > [!TIP]
 > Use `git pull` once a day to get the latest data!
 
+## Find how many reactions and comments an issue had in the last 100 days
+
+Find how many reactions and comments https://github.com/flutter/flutter/issues/158050 received in the last 100 days:
+
+```sql
+SELECT
+  repository || '#' || id  AS issue_id,
+  any_value(title) AS title,
+  min(date) AS start,
+  max(date) AS end,
+  max(reactions) AS total_reactions,
+  max(comments) AS total_comments,
+  max(reactions) - min(reactions) AS new_reactions,
+  max(comments) - min(comments) AS new_comments,
+  'https://github.com/' || repository || '/issues/' || id AS issue_url,
+FROM 'top_issues/flutter/flutter/*.jsonl'
+WHERE
+  date_diff('day', "date", today()) <= 100 AND
+  issue_id = 'flutter/flutter#158050' -- Edit this to your issue ID!
+GROUP BY repository, issue_id, id
+HAVING new_reactions > 0 OR new_comments > 0
+ORDER BY new_reactions DESC
+;
+```
+
 ## Issue delta reports
 
 Find how many new reactions and comments each issue received each day:
