@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-08-18 to 2025-11-21.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 178 | [178](#flutter-flutter-178236-graph)
-[desktop] toImageSync retains display list which can lead to surprising memory retention [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 189 | [175](#flutter-flutter-138627-graph)
+[desktop] toImageSync retains display list which can lead to surprising memory retention [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 190 | [176](#flutter-flutter-138627-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 881 | [81](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 593 | [81](#flutter-flutter-170310-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
@@ -156,7 +156,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 `team-engine` issues that received the most reactions from 2025-08-18 to 2025-11-21.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[desktop] toImageSync retains display list which can lead to surprising memory retention [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 189 | [175](#flutter-flutter-138627-graph)
+[desktop] toImageSync retains display list which can lead to surprising memory retention [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 190 | [176](#flutter-flutter-138627-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 22 | [22](#flutter-flutter-174980-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 339 | [20](#flutter-flutter-18443-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 550 | [15](#flutter-flutter-26801-graph)
@@ -349,7 +349,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 <a name="flutter-flutter-138627-graph"></a>
 ### [desktop] toImageSync retains display list which can lead to surprising memory retention
-  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 189 total reactions, 175 recent reactions</sub><br />
+  <sub>[flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) &mdash; 190 total reactions, 176 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   xychart-beta
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
-    line [15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 163, 177, 184, 189]
+    line [15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 163, 177, 184, 190]
   ```
 
   </details>
