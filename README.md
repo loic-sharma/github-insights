@@ -66,8 +66,8 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 93 | 2
 Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter/flutter#40601](https://github.com/flutter/flutter/issues/40601) | 82 | 2
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 71 | 2
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 [ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 46 | 2
+Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 2
 Feature: allow BottomNavigation to float above keyboard [flutter/flutter#26499](https://github.com/flutter/flutter/issues/26499) | 34 | 2
 
 #### Cupertino
@@ -157,7 +157,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [desktop] toImageSync retains display list which can lead to surprising memory retention [flutter/flutter#138627](https://github.com/flutter/flutter/issues/138627) | 189 | [175](#flutter-flutter-138627-graph)
-Impeller for web [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 22 | [22](#flutter-flutter-174980-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 22 | [22](#flutter-flutter-174980-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 339 | [20](#flutter-flutter-18443-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 550 | [15](#flutter-flutter-26801-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 36 | [11](#flutter-flutter-148026-graph)
@@ -183,7 +183,7 @@ Issue | Total reactions | Recent reactions
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 67 | [37](#flutter-flutter-172434-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 37 | [37](#flutter-flutter-175099-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 28 | [28](#flutter-flutter-175962-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 24 | [24](#flutter-flutter-177992-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 25 | [25](#flutter-flutter-177992-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 371 | [13](#flutter-flutter-110431-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 54 | [8](#flutter-flutter-20663-graph)
@@ -294,7 +294,7 @@ Issue | Total reactions | Recent reactions
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 212 | [14](#dart-lang-sdk-55281-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 91 | [14](#dart-lang-sdk-57036-graph)
 [Dot shorthands] Dot shorthands break constructor references and completions [dart-lang/sdk#61969](https://github.com/dart-lang/sdk/issues/61969) | 13 | [13](#dart-lang-sdk-61969-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 11 | [11](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 12 | [12](#dart-lang-sdk-61957-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 10 | [10](#dart-lang-sdk-61635-graph)
 [analysis_server_plugin] Access analysis_options.yaml in plugins [dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) | 8 | [8](#dart-lang-sdk-61755-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 19 | [6](#dart-lang-sdk-45307-graph)
@@ -304,7 +304,7 @@ Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/d
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 59 | [5](#dart-lang-sdk-56841-graph)
 Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 49 | [5](#dart-lang-sdk-42855-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
-☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 26 | 4
+[ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 66 | 4
 
 ### Dart language
 
@@ -587,7 +587,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 <a name="flutter-flutter-177992-graph"></a>
 ### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 24 total reactions, 24 recent reactions</sub><br />
+  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 25 total reactions, 25 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -596,7 +596,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   xychart-beta
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25]
   ```
 
   </details>
@@ -654,7 +654,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </sub>
 
 <a name="flutter-flutter-174980-graph"></a>
-### Impeller for web
+### [wimp] Impeller for web ☂️ 
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 22 total reactions, 22 recent reactions</sub><br />
   <sub>
   <details>
@@ -959,6 +959,23 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
   </details>
   </sub>
 
+<a name="dart-lang-sdk-61957-graph"></a>
+### [Dot shorthands] A new lint and fix to prefer dot shorthands
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 12 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 12]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-399-graph"></a>
 ### Add "Safe" (nullable) cast operator `as?`
   <sub>[dart-lang/language#399](https://github.com/dart-lang/language/issues/399) &mdash; 236 total reactions, 11 recent reactions</sub><br />
@@ -1022,23 +1039,6 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
     x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
     line [21, 21, 21, 21, 22, 22, 22, 23, 25, 27, 29, 29, 29, 30]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-61957-graph"></a>
-### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 18, Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 11]
   ```
 
   </details>
