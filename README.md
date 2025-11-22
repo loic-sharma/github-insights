@@ -135,7 +135,7 @@ Issue | Total reactions | Recent reactions
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode [flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) | 14 | [14](#flutter-flutter-178529-graph)
+Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode [flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) | 15 | [15](#flutter-flutter-178529-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 173 | [10](#flutter-flutter-46979-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 124 | 3
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 54 | 3
@@ -163,10 +163,10 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 36 | [11](#flutter-flutter-148026-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 215 | [9](#flutter-flutter-11754-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 48 | [7](#flutter-flutter-166248-graph)
+Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 48 | [7](#flutter-flutter-150525-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2032 | [6](#flutter-flutter-14330-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 225 | [6](#flutter-flutter-61229-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 56 | [6](#flutter-flutter-146860-graph)
-Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 47 | [6](#flutter-flutter-150525-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 195 | [5](#flutter-flutter-14288-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 62 | [5](#flutter-flutter-127852-graph)
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 52 | 4
@@ -258,8 +258,8 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 73 | 3
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 341 | 2
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 20 | 2
-Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 18 | 2
 Wayland: support the xdg-decoration protocol to use server-side decorations when available [flutter/flutter#94381](https://github.com/flutter/flutter/issues/94381) | 18 | 2
+Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 18 | 2
 Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 52 | 1
 
 ### Ecosystem
@@ -789,6 +789,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-178529-graph"></a>
+### Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode
+  <sub>[flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-164483-graph"></a>
 ### [iOS] Extra silent accessibility focus before first ListView item
   <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 29 total reactions, 14 recent reactions</sub><br />
@@ -801,23 +818,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
     line [15, 15, 20, 21, 26, 27, 27, 27, 28, 29, 29, 29, 29]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-178529-graph"></a>
-### Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode
-  <sub>[flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
@@ -1299,6 +1299,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-150525-graph"></a>
+### Merge the platform and UI threads
+  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 48 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
+    y-axis "Reactions"
+    line [42, 42, 42, 42, 42, 42, 42, 43, 45, 46, 47, 47, 48]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-14330-graph"></a>
 ### Code Push / Hot Update / out of band updates
   <sub>[flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) &mdash; 2032 total reactions, 6 recent reactions</sub><br />
@@ -1464,23 +1481,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
     y-axis "Reactions"
     line [51, 51, 51, 51, 51, 51, 51, 52, 52, 52, 56, 56, 56]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-150525-graph"></a>
-### Merge the platform and UI threads
-  <sub>[flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) &mdash; 47 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17]
-    y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 42, 42, 43, 45, 46, 47, 47, 47]
   ```
 
   </details>
