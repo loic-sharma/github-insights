@@ -39,7 +39,7 @@ Proposal: introduce Widget for infinite list from very_good_infinite_list packag
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 224 | [19](#flutter-flutter-142845-graph)
 [Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 19 | [19](#flutter-flutter-178570-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 708 | [13](#flutter-flutter-30701-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 221 | [10](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 222 | [11](#flutter-flutter-65504-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 200 | [6](#flutter-flutter-45336-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 60 | [6](#flutter-flutter-81005-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 139 | [5](#flutter-flutter-63323-graph)
@@ -942,6 +942,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 222 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [211, 212, 213, 213, 213, 213, 219, 219, 219, 220, 220, 220, 221, 222]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-148026-graph"></a>
 ### FontWeight should subsume `wght` in FontVariation
   <sub>[flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) &mdash; 36 total reactions, 11 recent reactions</sub><br />
@@ -988,23 +1005,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [1200, 1204, 1204, 1204, 1204, 1205, 1207, 1207, 1207, 1206, 1207, 1209, 1209, 1209]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 221 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions"
-    line [211, 212, 213, 213, 213, 213, 219, 219, 219, 220, 220, 220, 221, 221]
   ```
 
   </details>
