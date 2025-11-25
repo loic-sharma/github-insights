@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-08-25 to 2025-11-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 179 | [179](#flutter-flutter-178236-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 601 | [86](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 602 | [87](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 886 | [81](#flutter-flutter-101479-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 681 | [76](#flutter-flutter-168813-graph)
@@ -15,8 +15,8 @@ Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/fl
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 68 | [37](#flutter-flutter-172434-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [32](#flutter-flutter-172561-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 29 | [29](#flutter-flutter-177992-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 29 | [29](#flutter-flutter-175962-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 29 | [29](#flutter-flutter-177992-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 124 | [26](#dart-lang-sdk-53402-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
@@ -54,7 +54,7 @@ Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#17457
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 601 | [86](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 602 | [87](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 886 | [81](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 681 | [76](#flutter-flutter-168813-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | [7](#flutter-flutter-21594-graph)
@@ -75,7 +75,7 @@ Date Time Picker needs seconds picker [flutter/flutter#23764](https://github.com
 `f: cupertino` issues that received the most reactions from 2025-08-25 to 2025-11-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 601 | [86](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 602 | [87](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 886 | [81](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 66 | [6](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
@@ -182,8 +182,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 39 | [39](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 68 | [37](#flutter-flutter-172434-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 29 | [29](#flutter-flutter-177992-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 29 | [29](#flutter-flutter-175962-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 29 | [29](#flutter-flutter-177992-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 371 | [13](#flutter-flutter-110431-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 61 | [7](#flutter-flutter-115926-graph)
@@ -248,6 +248,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 478 | [17](#flutter-flutter-31713-graph)
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 130 | [12](#flutter-flutter-41726-graph)
+Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 672 | [6](#flutter-flutter-41722-graph)
 [in_app_purchase] Add support for Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 73 | [5](#flutter-flutter-97050-graph)
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 21 | [5](#flutter-flutter-110585-graph)
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 225 | 4
@@ -259,7 +260,6 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 341 | 2
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 26 | 2
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 20 | 2
-Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 18 | 2
 Wayland: support the xdg-decoration protocol to use server-side decorations when available [flutter/flutter#94381](https://github.com/flutter/flutter/issues/94381) | 18 | 2
 
 ### Ecosystem
@@ -349,7 +349,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 601 total reactions, 86 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 602 total reactions, 87 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   xychart-beta
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
-    line [518, 525, 528, 547, 557, 562, 569, 573, 583, 587, 588, 591, 595, 601]
+    line [518, 525, 528, 547, 557, 562, 569, 573, 583, 587, 588, 591, 595, 602]
   ```
 
   </details>
@@ -483,23 +483,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="flutter-flutter-177992-graph"></a>
-### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 29 total reactions, 29 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 29]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-175962-graph"></a>
 ### Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26
   <sub>[flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) &mdash; 29 total reactions, 29 recent reactions</sub><br />
@@ -512,6 +495,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 13, 19, 24, 26, 28, 28, 29, 29]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-177992-graph"></a>
+### Overlays close immediately after opening on iPadOS 26.1
+  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 29 total reactions, 29 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 29]
   ```
 
   </details>
@@ -1345,6 +1345,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [1098, 1098, 1098, 1098, 1099, 1102, 1102, 1103, 1103, 1103, 1104, 1104, 1104, 1104]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-41722-graph"></a>
+### Implement PlatformView support on macOS
+  <sub>[flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) &mdash; 672 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 672]
   ```
 
   </details>
