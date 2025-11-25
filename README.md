@@ -6,15 +6,15 @@ Issues that received the most reactions from 2025-08-25 to 2025-11-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 179 | [179](#flutter-flutter-178236-graph)
+[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 180 | [180](#flutter-flutter-178236-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 602 | [87](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 886 | [81](#flutter-flutter-101479-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 681 | [76](#flutter-flutter-168813-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 40 | [40](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 68 | [37](#flutter-flutter-172434-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 33 | [33](#flutter-flutter-177992-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [32](#flutter-flutter-172561-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 31 | [31](#flutter-flutter-177992-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 29 | [29](#flutter-flutter-175962-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
@@ -32,7 +32,7 @@ Implicit coercion through implicit constructors. [dart-lang/language#3704](https
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 179 | [179](#flutter-flutter-178236-graph)
+[breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 180 | [180](#flutter-flutter-178236-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
@@ -135,7 +135,7 @@ Issue | Total reactions | Recent reactions
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode [flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) | 17 | [17](#flutter-flutter-178529-graph)
+Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode [flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) | 18 | [18](#flutter-flutter-178529-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 173 | [10](#flutter-flutter-46979-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 124 | 3
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 54 | 3
@@ -182,7 +182,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 40 | [40](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 68 | [37](#flutter-flutter-172434-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 31 | [31](#flutter-flutter-177992-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 33 | [33](#flutter-flutter-177992-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 29 | [29](#flutter-flutter-175962-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 372 | [14](#flutter-flutter-110431-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
@@ -314,8 +314,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Implicit coercion through implicit constructors. [dart-lang/language#3704](https://github.com/dart-lang/language/issues/3704) | 35 | [23](#dart-lang-language-3704-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2287 | [22](#dart-lang-language-314-graph)
+Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 21 | [16](#dart-lang-language-4185-graph)
 Enable functions to store data between calls / know from where they were called [dart-lang/language#1427](https://github.com/dart-lang/language/issues/1427) | 17 | [16](#dart-lang-language-1427-graph)
-Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 20 | [15](#dart-lang-language-4185-graph)
 Enable a transistor-like behavior of a boolean value [dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) | 12 | [12](#dart-lang-language-4519-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1209 | [10](#dart-lang-language-723-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 207 | [10](#dart-lang-language-4271-graph)
@@ -332,7 +332,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
 <a name="flutter-flutter-178236-graph"></a>
 ### [breaking] make child positional
-  <sub>[flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) &mdash; 179 total reactions, 179 recent reactions</sub><br />
+  <sub>[flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) &mdash; 180 total reactions, 180 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -341,7 +341,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   xychart-beta
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 179, 179]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 177, 179, 180]
   ```
 
   </details>
@@ -449,6 +449,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-177992-graph"></a>
+### Overlays close immediately after opening on iPadOS 26.1
+  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 33 total reactions, 33 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 33]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
   <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 116 total reactions, 32 recent reactions</sub><br />
@@ -461,23 +478,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [93, 93, 93, 94, 95, 99, 100, 107, 113, 114, 115, 116, 116, 116]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-177992-graph"></a>
-### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 31 total reactions, 31 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 31]
   ```
 
   </details>
@@ -687,6 +687,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-178529-graph"></a>
+### Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode
+  <sub>[flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 18]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-178549-graph"></a>
 ### [tool_crash] web-server crashing after repeated "reopens"
   <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -721,9 +738,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="flutter-flutter-178529-graph"></a>
-### Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode
-  <sub>[flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+<a name="dart-lang-language-4185-graph"></a>
+### Named arguments
+  <sub>[dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) &mdash; 21 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -731,8 +748,8 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   ```mermaid
   xychart-beta
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 17]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20, 21]
   ```
 
   </details>
@@ -784,23 +801,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [536, 539, 541, 541, 541, 542, 542, 548, 548, 548, 547, 550, 550, 550]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4185-graph"></a>
-### Named arguments
-  <sub>[dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) &mdash; 20 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20, 20]
   ```
 
   </details>
