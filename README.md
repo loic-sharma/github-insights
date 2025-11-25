@@ -135,7 +135,7 @@ Issue | Total reactions | Recent reactions
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode [flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) | 18 | [18](#flutter-flutter-178529-graph)
+Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode [flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) | 17 | [17](#flutter-flutter-178529-graph)
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 173 | [10](#flutter-flutter-46979-graph)
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 124 | 3
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 54 | 3
@@ -186,7 +186,7 @@ Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992]
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 29 | [29](#flutter-flutter-175962-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 372 | [14](#flutter-flutter-110431-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
-Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 61 | [7](#flutter-flutter-115926-graph)
+Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 64 | [10](#flutter-flutter-115926-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 54 | [7](#flutter-flutter-20663-graph)
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 67 | [5](#flutter-flutter-91241-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 155 | 4
@@ -260,7 +260,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 341 | 2
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 26 | 2
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 20 | 2
-Wayland: support the xdg-decoration protocol to use server-side decorations when available [flutter/flutter#94381](https://github.com/flutter/flutter/issues/94381) | 18 | 2
+Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 18 | 2
 
 ### Ecosystem
 
@@ -687,23 +687,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="flutter-flutter-178529-graph"></a>
-### Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode
-  <sub>[flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-178549-graph"></a>
 ### [tool_crash] web-server crashing after repeated "reopens"
   <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -733,6 +716,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [462, 463, 465, 466, 466, 471, 471, 473, 473, 478, 478, 478, 478, 478]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-178529-graph"></a>
+### Flutter 3.38.1 - AppLocalizations are getting deleted every time on web in debug mode
+  <sub>[flutter/flutter#178529](https://github.com/flutter/flutter/issues/178529) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 17]
   ```
 
   </details>
@@ -1044,6 +1044,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-115926-graph"></a>
+### Blur filter isn't clipped when using border radius
+  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 64 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [54, 54, 56, 56, 56, 57, 59, 59, 60, 60, 61, 61, 61, 64]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-1415-graph"></a>
 ### Dart treats a final nullable property as nullable even after checking that the property is not  null
   <sub>[dart-lang/language#1415](https://github.com/dart-lang/language/issues/1415) &mdash; 52 total reactions, 10 recent reactions</sub><br />
@@ -1226,23 +1243,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [258, 258, 258, 259, 259, 259, 259, 260, 261, 260, 261, 265, 265, 265]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-115926-graph"></a>
-### Blur filter isn't clipped when using border radius
-  <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 61 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions"
-    line [54, 54, 56, 56, 56, 57, 59, 59, 60, 60, 61, 61, 61, 61]
   ```
 
   </details>
