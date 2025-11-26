@@ -13,7 +13,7 @@ Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/fl
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 681 | [76](#flutter-flutter-168813-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 41 | [41](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 69 | [38](#flutter-flutter-172434-graph)
-Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 37 | [37](#flutter-flutter-179012-graph)
+Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 38 | [38](#flutter-flutter-179012-graph)
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 34 | [34](#flutter-flutter-177992-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [32](#flutter-flutter-172561-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
@@ -34,7 +34,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 180 | [180](#flutter-flutter-178236-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
-Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 37 | [37](#flutter-flutter-179012-graph)
+Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 38 | [38](#flutter-flutter-179012-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 224 | [19](#flutter-flutter-142845-graph)
@@ -96,8 +96,8 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 `team-text-input` and `a: text input` issues that received the most reactions from 2025-08-25 to 2025-11-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 30 | [5](#flutter-flutter-149753-graph)
-[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 94 | 4
+FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 32 | [7](#flutter-flutter-149753-graph)
+[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 95 | [5](#flutter-flutter-124205-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 16 | 4
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 182 | 3
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 133 | 2
@@ -160,11 +160,11 @@ Issue | Total reactions | Recent reactions
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 339 | [18](#flutter-flutter-18443-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 550 | [15](#flutter-flutter-26801-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 36 | [11](#flutter-flutter-148026-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 228 | [9](#flutter-flutter-61229-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 215 | [9](#flutter-flutter-11754-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 48 | [7](#flutter-flutter-166248-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 48 | [7](#flutter-flutter-150525-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2032 | [6](#flutter-flutter-14330-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 225 | [6](#flutter-flutter-61229-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 56 | [6](#flutter-flutter-146860-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 195 | [5](#flutter-flutter-14288-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 62 | [5](#flutter-flutter-127852-graph)
@@ -230,8 +230,8 @@ Changes deployed on the `web-server` are not applied when the application’s en
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [7](#flutter-flutter-152588-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 101 | [6](#flutter-flutter-149031-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
+[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 95 | [5](#flutter-flutter-124205-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 227 | 4
-[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 94 | 4
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 76 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 62 | 4
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 293 | 3
@@ -274,8 +274,8 @@ Changes deployed on the `web-server` are not applied when the application’s en
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [7](#flutter-flutter-152588-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 101 | [6](#flutter-flutter-149031-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
+[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 95 | [5](#flutter-flutter-124205-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 227 | 4
-[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 94 | 4
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 76 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 62 | 4
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 293 | 3
@@ -300,8 +300,8 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 15 | [7](#dart-lang-sdk-46943-graph)
 Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 6 | [6](#dart-lang-sdk-61579-graph)
 Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) | 14 | [5](#dart-lang-sdk-53906-graph)
-analysis_options.yaml behaves differently when using workspaces [dart-lang/sdk#61565](https://github.com/dart-lang/sdk/issues/61565) | 5 | [5](#dart-lang-sdk-61565-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
+analysis_options.yaml behaves differently when using workspaces [dart-lang/sdk#61565](https://github.com/dart-lang/sdk/issues/61565) | 5 | [5](#dart-lang-sdk-61565-graph)
 [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 66 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 62 | 4
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 58 | 4
@@ -451,7 +451,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
 <a name="flutter-flutter-179012-graph"></a>
 ### Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter
-  <sub>[flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) &mdash; 37 total reactions, 37 recent reactions</sub><br />
+  <sub>[flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) &mdash; 38 total reactions, 38 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -460,7 +460,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   xychart-beta
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 37]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38]
   ```
 
   </details>
@@ -1129,6 +1129,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 228 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [221, 223, 223, 223, 224, 224, 224, 224, 224, 225, 225, 225, 225, 228]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-11754-graph"></a>
 ### Allow release mode builds to run on simulators
   <sub>[flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) &mdash; 215 total reactions, 9 recent reactions</sub><br />
@@ -1333,6 +1350,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-149753-graph"></a>
+### FlutterFragmentActivity support for predictive back
+  <sub>[flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) &mdash; 32 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [25, 25, 26, 26, 27, 27, 27, 27, 27, 28, 29, 29, 30, 32]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-46943-graph"></a>
 ### Feature request: API to allow setting thread pinning for Isolates
   <sub>[dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) &mdash; 15 total reactions, 7 recent reactions</sub><br />
@@ -1396,23 +1430,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 672]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 225 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions"
-    line [221, 223, 223, 223, 224, 224, 224, 224, 224, 225, 225, 225, 225, 225]
   ```
 
   </details>
@@ -1639,6 +1656,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-124205-graph"></a>
+### [Web] Textinput is placed with offset above the keyboard when focused
+  <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 95 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [90, 91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 92, 94, 95]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-97050-graph"></a>
 ### [in_app_purchase] Add support for Windows Store
   <sub>[flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) &mdash; 73 total reactions, 5 recent reactions</sub><br />
@@ -1707,23 +1741,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="flutter-flutter-149753-graph"></a>
-### FlutterFragmentActivity support for predictive back
-  <sub>[flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) &mdash; 30 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions"
-    line [25, 25, 26, 26, 27, 27, 27, 27, 27, 28, 29, 29, 30, 30]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-110585-graph"></a>
 ### Support building Windows apps from Linux
   <sub>[flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) &mdash; 21 total reactions, 5 recent reactions</sub><br />
@@ -1758,23 +1775,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61565-graph"></a>
-### analysis_options.yaml behaves differently when using workspaces
-  <sub>[dart-lang/sdk#61565](https://github.com/dart-lang/sdk/issues/61565) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61433-graph"></a>
 ### Implicit closure-objects creation performance impact
   <sub>[dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1787,6 +1787,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions" 0 --> 20
     line [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61565-graph"></a>
+### analysis_options.yaml behaves differently when using workspaces
+  <sub>[dart-lang/sdk#61565](https://github.com/dart-lang/sdk/issues/61565) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5]
   ```
 
   </details>
