@@ -7,15 +7,15 @@ Issues that received the most reactions from 2025-08-25 to 2025-11-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 180 | [180](#flutter-flutter-178236-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 603 | [88](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 604 | [89](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 887 | [82](#flutter-flutter-101479-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 681 | [76](#flutter-flutter-168813-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 41 | [41](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 68 | [37](#flutter-flutter-172434-graph)
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 34 | [34](#flutter-flutter-177992-graph)
+Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 33 | [33](#flutter-flutter-179012-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [32](#flutter-flutter-172561-graph)
-Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 31 | [31](#flutter-flutter-179012-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 29 | [29](#flutter-flutter-175962-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
@@ -34,7 +34,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 180 | [180](#flutter-flutter-178236-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [79](#flutter-flutter-69949-graph)
-Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 31 | [31](#flutter-flutter-179012-graph)
+Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 33 | [33](#flutter-flutter-179012-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 224 | [19](#flutter-flutter-142845-graph)
@@ -54,7 +54,7 @@ Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#17457
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 603 | [88](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 604 | [89](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 887 | [82](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 681 | [76](#flutter-flutter-168813-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | [7](#flutter-flutter-21594-graph)
@@ -75,7 +75,7 @@ Date Time Picker needs seconds picker [flutter/flutter#23764](https://github.com
 `f: cupertino` issues that received the most reactions from 2025-08-25 to 2025-11-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 603 | [88](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 604 | [89](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 887 | [82](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 66 | [6](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
@@ -255,8 +255,8 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 220 | 4
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 141 | 4
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 85 | 4
-[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 64 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 73 | 3
+[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 63 | 3
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 341 | 2
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 26 | 2
 App freezes when GPU is disabled while the app is running [flutter/flutter#124194](https://github.com/flutter/flutter/issues/124194) | 20 | 2
@@ -300,11 +300,11 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 15 | [7](#dart-lang-sdk-46943-graph)
 Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 6 | [6](#dart-lang-sdk-61579-graph)
 Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) | 14 | [5](#dart-lang-sdk-53906-graph)
+analysis_options.yaml behaves differently when using workspaces [dart-lang/sdk#61565](https://github.com/dart-lang/sdk/issues/61565) | 5 | [5](#dart-lang-sdk-61565-graph)
 Implicit closure-objects creation performance impact [dart-lang/sdk#61433](https://github.com/dart-lang/sdk/issues/61433) | 5 | [5](#dart-lang-sdk-61433-graph)
 [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 66 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 62 | 4
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 58 | 4
-Add possibility to truly cancel/dispose Fututre [dart-lang/sdk#42855](https://github.com/dart-lang/sdk/issues/42855) | 49 | 4
 
 ### Dart language
 
@@ -349,7 +349,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 603 total reactions, 88 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 604 total reactions, 89 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   xychart-beta
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
-    line [518, 525, 528, 547, 557, 562, 569, 573, 583, 587, 588, 591, 595, 603]
+    line [518, 525, 528, 547, 557, 562, 569, 573, 583, 587, 588, 591, 595, 604]
   ```
 
   </details>
@@ -466,6 +466,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-179012-graph"></a>
+### Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter
+  <sub>[flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) &mdash; 33 total reactions, 33 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 33]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
   <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 116 total reactions, 32 recent reactions</sub><br />
@@ -478,23 +495,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [93, 93, 93, 94, 95, 99, 100, 107, 113, 114, 115, 116, 116, 116]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-179012-graph"></a>
-### Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter
-  <sub>[flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) &mdash; 31 total reactions, 31 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 31]
   ```
 
   </details>
@@ -1753,6 +1753,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions" 0 --> 20
     line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10, 13, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61565-graph"></a>
+### analysis_options.yaml behaves differently when using workspaces
+  <sub>[dart-lang/sdk#61565](https://github.com/dart-lang/sdk/issues/61565) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 25, Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5]
   ```
 
   </details>
