@@ -20,7 +20,7 @@ Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 v
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 ☂️ New analyzer plugin system [dart-lang/sdk#53402](https://github.com/dart-lang/sdk/issues/53402) | 124 | [26](#dart-lang-sdk-53402-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 24 | [24](#flutter-flutter-174980-graph)
+[google_maps_flutter] Add support for custom cluster icon [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 133 | [24](#flutter-flutter-153092-graph)
 
 ## Trending issues by team
 
@@ -563,6 +563,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
     y-axis "Reactions"
     line [0, 0, 0, 0, 15, 22, 24, 24, 26, 26, 26, 26, 26]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-153092-graph"></a>
+### [google_maps_flutter] Add support for custom cluster icon
+  <sub>[flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) &mdash; 133 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24]
+    y-axis "Reactions"
+    line [110, 110, 111, 112, 113, 117, 122, 123, 127, 128, 129, 129, 133]
   ```
 
   </details>
