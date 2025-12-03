@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-09-01 to 2025-12-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 608 | [89](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 609 | [90](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 888 | [79](#flutter-flutter-101479-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [78](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 685 | [71](#flutter-flutter-168813-graph)
@@ -54,7 +54,7 @@ Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#17457
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 608 | [89](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 609 | [90](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 888 | [79](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 685 | [71](#flutter-flutter-168813-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | [7](#flutter-flutter-21594-graph)
@@ -75,7 +75,7 @@ Cupertino Sheet should have drag to dismiss and nested scrolling work together [
 `f: cupertino` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 608 | [89](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 609 | [90](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 888 | [79](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | [6](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
@@ -349,7 +349,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 608 total reactions, 89 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 609 total reactions, 90 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
-    line [525, 528, 547, 557, 562, 569, 573, 583, 587, 588, 591, 595, 608, 608]
+    line [525, 528, 547, 557, 562, 569, 573, 583, 587, 588, 591, 595, 608, 609]
   ```
 
   </details>
