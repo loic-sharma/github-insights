@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-09-01 to 2025-12-02.
+Issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -13,7 +13,7 @@ Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/fl
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 684 | [70](#flutter-flutter-168813-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 46 | [46](#flutter-flutter-175099-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 42 | [42](#flutter-flutter-179012-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 39 | [39](#flutter-flutter-177992-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 40 | [40](#flutter-flutter-177992-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 70 | [35](#flutter-flutter-172434-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 29 | [29](#flutter-flutter-175962-graph)
@@ -28,7 +28,7 @@ RFC: Seeking feedback on improving dev experience when working on accessibility 
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-framework` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -45,12 +45,12 @@ Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutte
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 246 | [5](#flutter-flutter-138614-graph)
 Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](https://github.com/flutter/flutter/issues/31134) | 158 | [5](#flutter-flutter-31134-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 139 | [5](#flutter-flutter-63323-graph)
-Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 60 | [5](#flutter-flutter-81005-graph)
-ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 124 | 4
+ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 125 | [5](#flutter-flutter-18636-graph)
+Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 109 | [5](#flutter-flutter-174576-graph)
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-design` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Cupertino Sheet should have drag to dismiss and nested scrolling work together [
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`f: cupertino` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 608 | [89](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 32 | [7](#flutter-flutter-149753-graph)
@@ -114,7 +114,7 @@ Make "fields" in FormState not a private member [flutter/flutter#67283](https://
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-accessibility` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-go_router` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-tool` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-engine` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 26 | [26](#flutter-flutter-174980-graph)
@@ -176,12 +176,12 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-ios` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 46 | [46](#flutter-flutter-175099-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 39 | [39](#flutter-flutter-177992-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 40 | [40](#flutter-flutter-177992-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 70 | [35](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 29 | [29](#flutter-flutter-175962-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 372 | [14](#flutter-flutter-110431-graph)
@@ -198,7 +198,7 @@ Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](http
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-android` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,15 +220,15 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-web` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 18 | [18](#flutter-flutter-178549-graph)
-Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 96 | [6](#flutter-flutter-124205-graph)
+Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [6](#flutter-flutter-152588-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 101 | [5](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 294 | 4
@@ -242,7 +242,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,15 +264,15 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`team-ecosystem` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 18 | [18](#flutter-flutter-178549-graph)
-Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 96 | [6](#flutter-flutter-124205-graph)
+Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [6](#flutter-flutter-152588-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 101 | [5](#flutter-flutter-149031-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 294 | 4
@@ -286,7 +286,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`dart-lang/sdk` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-09-01 to 2025-12-02.
+`dart-lang/language` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -451,7 +451,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
 <a name="flutter-flutter-177992-graph"></a>
 ### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 39 total reactions, 39 recent reactions</sub><br />
+  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 40 total reactions, 40 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -460,7 +460,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 38, 39]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 38, 40]
   ```
 
   </details>
@@ -1401,23 +1401,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-104509-graph"></a>
-### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
-  <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 96 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [90, 90, 90, 93, 93, 93, 94, 94, 94, 94, 95, 96, 96, 96]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-124205-graph"></a>
 ### [Web] Textinput is placed with offset above the keyboard when focused
   <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 96 total reactions, 6 recent reactions</sub><br />
@@ -1430,6 +1413,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 92, 94, 96, 96]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-104509-graph"></a>
+### Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production.
+  <sub>[flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) &mdash; 96 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [90, 90, 90, 93, 93, 93, 94, 94, 94, 94, 95, 96, 96, 96]
   ```
 
   </details>
@@ -1639,6 +1639,40 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="flutter-flutter-18636-graph"></a>
+### ShadowBox inset attribute? Inner shadow
+  <sub>[flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) &mdash; 125 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [120, 120, 120, 120, 120, 120, 121, 121, 121, 121, 121, 121, 123, 125]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-174576-graph"></a>
+### Bug with font weight when using GoogleFonts.xxxTextTheme?
+  <sub>[flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) &mdash; 109 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [104, 104, 105, 106, 106, 106, 106, 106, 108, 108, 108, 108, 108, 109]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-149031-graph"></a>
 ### [WEB] Web Cache invalidation based on pubspec.yaml version
   <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 101 total reactions, 5 recent reactions</sub><br />
@@ -1668,23 +1702,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 68, 73, 73, 73]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-81005-graph"></a>
-### Jump to index in sliver world
-  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 60 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [55, 55, 55, 57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 60]
   ```
 
   </details>
