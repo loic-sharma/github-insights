@@ -39,14 +39,14 @@ Android's predictive back feature doesn't use the device's corner radius [flutte
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 [Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 20 | [20](#flutter-flutter-178570-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 224 | [19](#flutter-flutter-142845-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 227 | [16](#flutter-flutter-65504-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 708 | [13](#flutter-flutter-30701-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 223 | [12](#flutter-flutter-65504-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 200 | [6](#flutter-flutter-45336-graph)
+Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 110 | [6](#flutter-flutter-174576-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 246 | [5](#flutter-flutter-138614-graph)
 Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](https://github.com/flutter/flutter/issues/31134) | 158 | [5](#flutter-flutter-31134-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 139 | [5](#flutter-flutter-63323-graph)
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 125 | [5](#flutter-flutter-18636-graph)
-Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 109 | [5](#flutter-flutter-174576-graph)
 
 #### Design
 
@@ -96,8 +96,8 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 `team-text-input` and `a: text input` issues that received the most reactions from 2025-09-01 to 2025-12-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 16 | [16](#flutter-flutter-175074-graph)
-[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 100 | [10](#flutter-flutter-124205-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 17 | [17](#flutter-flutter-175074-graph)
+[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 101 | [11](#flutter-flutter-124205-graph)
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 32 | [7](#flutter-flutter-149753-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 18 | [6](#flutter-flutter-160725-graph)
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 46 | 3
@@ -211,8 +211,8 @@ Calling VirtualDisplayController::resize() just before VirtualDisplayController:
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 96 | 3
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 72 | 3
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 47 | 3
-[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 3
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 3
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 3
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 85 | 2
 [camera] `java.lang.NullPointerException ` calling CameraCaptureSession.close() [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 54 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 53 | 2
@@ -226,9 +226,9 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
-[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 18 | [18](#flutter-flutter-178549-graph)
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 16 | [16](#flutter-flutter-175074-graph)
-[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 100 | [10](#flutter-flutter-124205-graph)
+[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 19 | [19](#flutter-flutter-178549-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 17 | [17](#flutter-flutter-175074-graph)
+[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 101 | [11](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [6](#flutter-flutter-152588-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 101 | [5](#flutter-flutter-149031-graph)
@@ -270,9 +270,9 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
-[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 18 | [18](#flutter-flutter-178549-graph)
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 16 | [16](#flutter-flutter-175074-graph)
-[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 100 | [10](#flutter-flutter-124205-graph)
+[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 19 | [19](#flutter-flutter-178549-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 17 | [17](#flutter-flutter-175074-graph)
+[Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 101 | [11](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [6](#flutter-flutter-152588-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 101 | [5](#flutter-flutter-149031-graph)
@@ -325,8 +325,8 @@ Pattern-esque syntax for terser named arguments/record fields [dart-lang/languag
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1270 | [8](#dart-lang-language-69-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 265 | [7](#dart-lang-language-2364-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 238 | [7](#dart-lang-language-399-graph)
+Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 86 | [7](#dart-lang-language-2128-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
-Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1104 | [6](#dart-lang-language-357-graph)
 
 ## Graphs
 
@@ -706,7 +706,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 <a name="flutter-flutter-178549-graph"></a>
 ### [tool_crash] web-server crashing after repeated "reopens"
-  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 19 total reactions, 19 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -715,7 +715,24 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   xychart-beta
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 19]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-175074-graph"></a>
+### [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout.
+  <sub>[flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
   ```
 
   </details>
@@ -733,6 +750,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [463, 465, 466, 466, 471, 471, 473, 473, 478, 478, 478, 478, 478, 478]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 227 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [212, 213, 213, 213, 213, 219, 219, 219, 220, 220, 220, 221, 223, 227]
   ```
 
   </details>
@@ -767,23 +801,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions" 0 --> 20
     line [1, 1, 1, 1, 1, 1, 1, 1, 1, 17, 17, 17, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-175074-graph"></a>
-### [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout.
-  <sub>[flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16]
   ```
 
   </details>
@@ -891,23 +908,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 223 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [212, 213, 213, 213, 213, 219, 219, 219, 220, 220, 220, 221, 223, 223]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4519-graph"></a>
 ### Enable a transistor-like behavior of a boolean value
   <sub>[dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) &mdash; 12 total reactions, 12 recent reactions</sub><br />
@@ -937,6 +937,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [119, 120, 120, 120, 120, 120, 120, 120, 120, 124, 130, 130, 130, 130]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-124205-graph"></a>
+### [Web] Textinput is placed with offset above the keyboard when focused
+  <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 101 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 92, 94, 96, 101]
   ```
 
   </details>
@@ -1005,23 +1022,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [163, 164, 164, 164, 164, 165, 165, 165, 168, 171, 173, 173, 173, 173]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-124205-graph"></a>
-### [Web] Textinput is placed with offset above the keyboard when focused
-  <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 100 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [91, 91, 91, 91, 91, 91, 91, 91, 91, 91, 92, 94, 96, 100]
   ```
 
   </details>
@@ -1265,6 +1265,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-2128-graph"></a>
+### Record spreading
+  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 86 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [80, 81, 81, 81, 82, 84, 84, 84, 84, 84, 84, 84, 85, 86]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-20663-graph"></a>
 ### Color codes in error messages are probably escaped when using the iOS simulator
   <sub>[flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) &mdash; 54 total reactions, 7 recent reactions</sub><br />
@@ -1350,23 +1367,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-357-graph"></a>
-### Dot shorthands: Allow for shorter dot syntax to access enum values
-  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1104 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [1098, 1098, 1098, 1099, 1102, 1102, 1103, 1103, 1103, 1104, 1104, 1104, 1104, 1104]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-41722-graph"></a>
 ### Implement PlatformView support on macOS
   <sub>[flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) &mdash; 672 total reactions, 6 recent reactions</sub><br />
@@ -1430,6 +1430,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [194, 194, 195, 195, 196, 197, 197, 199, 199, 199, 200, 200, 200, 200]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-174576-graph"></a>
+### Bug with font weight when using GoogleFonts.xxxTextTheme?
+  <sub>[flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) &mdash; 110 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [104, 104, 105, 106, 106, 106, 106, 106, 108, 108, 108, 108, 108, 110]
   ```
 
   </details>
@@ -1668,23 +1685,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [120, 120, 120, 120, 120, 120, 121, 121, 121, 121, 121, 121, 123, 125]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174576-graph"></a>
-### Bug with font weight when using GoogleFonts.xxxTextTheme?
-  <sub>[flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) &mdash; 109 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [104, 104, 105, 106, 106, 106, 106, 106, 108, 108, 108, 108, 108, 109]
   ```
 
   </details>
