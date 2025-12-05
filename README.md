@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 609 | [90](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 890 | [81](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 892 | [83](#flutter-flutter-101479-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 104 | [78](#flutter-flutter-69949-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 685 | [71](#flutter-flutter-168813-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 48 | [48](#flutter-flutter-175099-graph)
@@ -19,8 +19,8 @@ in app purchase in iOS always return status == PurchaseStatus.restored when purc
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 30 | [30](#flutter-flutter-175962-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 26 | [26](#flutter-flutter-174980-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 26 | [26](#flutter-flutter-174980-graph)
 
 ## Trending issues by team
 
@@ -55,7 +55,7 @@ Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](ht
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 609 | [90](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 890 | [81](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 892 | [83](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 685 | [71](#flutter-flutter-168813-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | [7](#flutter-flutter-21594-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 145 | [7](#flutter-flutter-102560-graph)
@@ -76,7 +76,7 @@ Cupertino Sheet should have drag to dismiss and nested scrolling work together [
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 609 | [90](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 890 | [81](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 892 | [83](#flutter-flutter-101479-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | [6](#flutter-flutter-53059-graph)
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 31 | 2
@@ -96,7 +96,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 `team-text-input` and `a: text input` issues that received the most reactions from 2025-09-01 to 2025-12-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 19 | [19](#flutter-flutter-175074-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 20 | [20](#flutter-flutter-175074-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 102 | [12](#flutter-flutter-124205-graph)
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 32 | [7](#flutter-flutter-149753-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 18 | [6](#flutter-flutter-160725-graph)
@@ -161,8 +161,8 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 551 | [14](#flutter-flutter-26801-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 215 | [9](#flutter-flutter-11754-graph)
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 36 | [9](#flutter-flutter-148026-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 230 | [7](#flutter-flutter-61229-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 48 | [7](#flutter-flutter-166248-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 229 | [6](#flutter-flutter-61229-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 48 | [6](#flutter-flutter-150525-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2032 | [5](#flutter-flutter-14330-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 56 | [5](#flutter-flutter-146860-graph)
@@ -227,7 +227,7 @@ Issue | Total reactions | Recent reactions
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 20 | [20](#flutter-flutter-178549-graph)
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 19 | [19](#flutter-flutter-175074-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 20 | [20](#flutter-flutter-175074-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 102 | [12](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [6](#flutter-flutter-152588-graph)
@@ -271,7 +271,7 @@ Issue | Total reactions | Recent reactions
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 20 | [20](#flutter-flutter-178549-graph)
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 19 | [19](#flutter-flutter-175074-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 20 | [20](#flutter-flutter-175074-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 102 | [12](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [6](#flutter-flutter-152588-graph)
@@ -366,7 +366,7 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 890 total reactions, 81 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 892 total reactions, 83 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -375,7 +375,7 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   xychart-beta
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
-    line [824, 826, 848, 857, 862, 863, 871, 872, 877, 877, 879, 886, 888, 890]
+    line [824, 826, 848, 857, 862, 863, 871, 872, 877, 877, 879, 886, 888, 892]
   ```
 
   </details>
@@ -551,23 +551,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
-<a name="flutter-flutter-174980-graph"></a>
-### [wimp] Impeller for web ☂️ 
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [0, 0, 14, 15, 18, 19, 19, 19, 19, 20, 22, 23, 25, 26]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-176237-graph"></a>
 ### RFC: Seeking feedback on improving dev experience when working on accessibility
   <sub>[flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) &mdash; 26 total reactions, 26 recent reactions</sub><br />
@@ -580,6 +563,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [0, 0, 0, 0, 15, 22, 24, 24, 26, 26, 26, 26, 26, 26]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-174980-graph"></a>
+### [wimp] Impeller for web ☂️ 
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 26 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [0, 0, 14, 15, 18, 19, 19, 19, 19, 20, 22, 23, 25, 26]
   ```
 
   </details>
@@ -670,23 +670,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
-<a name="flutter-flutter-178570-graph"></a>
-### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
-  <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-178549-graph"></a>
 ### [tool_crash] web-server crashing after repeated "reopens"
   <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -704,6 +687,40 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
+<a name="flutter-flutter-178570-graph"></a>
+### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
+  <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-175074-graph"></a>
+### [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout.
+  <sub>[flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-18443-graph"></a>
 ### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
   <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 340 total reactions, 19 recent reactions</sub><br />
@@ -716,23 +733,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [321, 321, 321, 325, 326, 329, 329, 331, 331, 331, 336, 339, 339, 340]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-175074-graph"></a>
-### [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout.
-  <sub>[flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) &mdash; 19 total reactions, 19 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19]
   ```
 
   </details>
@@ -1265,6 +1265,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 230 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [223, 223, 223, 224, 224, 224, 224, 224, 225, 225, 225, 225, 228, 230]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-102560-graph"></a>
 ### Support Material Symbols 
   <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 145 total reactions, 7 recent reactions</sub><br />
@@ -1413,23 +1430,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [384, 387, 387, 387, 387, 387, 388, 388, 389, 390, 390, 390, 390, 390]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 229 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [223, 223, 223, 224, 224, 224, 224, 224, 225, 225, 225, 225, 228, 229]
   ```
 
   </details>
