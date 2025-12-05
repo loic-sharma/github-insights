@@ -19,8 +19,8 @@ in app purchase in iOS always return status == PurchaseStatus.restored when purc
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 30 | [30](#flutter-flutter-175962-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
-RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 26 | [26](#flutter-flutter-174980-graph)
+RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
 
 ## Trending issues by team
 
@@ -167,10 +167,10 @@ Merge the platform and UI threads [flutter/flutter#150525](https://github.com/fl
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2032 | [5](#flutter-flutter-14330-graph)
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 56 | [5](#flutter-flutter-146860-graph)
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 53 | [5](#flutter-flutter-61081-graph)
+[linux] Do not use header bar by default on Wayland [flutter/flutter#111453](https://github.com/flutter/flutter/issues/111453) | 20 | [5](#flutter-flutter-111453-graph)
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 195 | 4
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 62 | 4
 Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://github.com/flutter/flutter/issues/13343) | 33 | 4
-[Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 4
 
 ### Platforms
 
@@ -551,23 +551,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
-<a name="flutter-flutter-176237-graph"></a>
-### RFC: Seeking feedback on improving dev experience when working on accessibility
-  <sub>[flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 15, 22, 24, 24, 26, 26, 26, 26, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-174980-graph"></a>
 ### [wimp] Impeller for web ☂️ 
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 26 total reactions, 26 recent reactions</sub><br />
@@ -580,6 +563,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [0, 0, 14, 15, 18, 19, 19, 19, 19, 20, 22, 23, 25, 26]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-176237-graph"></a>
+### RFC: Seeking feedback on improving dev experience when working on accessibility
+  <sub>[flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) &mdash; 26 total reactions, 26 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 15, 22, 24, 24, 26, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -670,23 +670,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
-<a name="flutter-flutter-178549-graph"></a>
-### [tool_crash] web-server crashing after repeated "reopens"
-  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-178570-graph"></a>
 ### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
   <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -699,6 +682,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-178549-graph"></a>
+### [tool_crash] web-server crashing after repeated "reopens"
+  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 20]
   ```
 
   </details>
@@ -1503,23 +1503,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
-<a name="flutter-flutter-81005-graph"></a>
-### Jump to index in sliver world
-  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 61 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [55, 55, 55, 57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 61]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 61 total reactions, 6 recent reactions</sub><br />
@@ -1532,6 +1515,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [55, 55, 56, 57, 57, 57, 57, 59, 59, 59, 59, 59, 58, 61]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-81005-graph"></a>
+### Jump to index in sliver world
+  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 61 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [55, 55, 55, 57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 61]
   ```
 
   </details>
@@ -1770,6 +1770,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [48, 48, 49, 49, 49, 50, 51, 51, 51, 51, 52, 52, 53, 53]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-111453-graph"></a>
+### [linux] Do not use header bar by default on Wayland
+  <sub>[flutter/flutter#111453](https://github.com/flutter/flutter/issues/111453) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 1, Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions" 0 --> 20
+    line [16, 16, 16, 17, 18, 18, 18, 18, 18, 19, 19, 19, 19, 20]
   ```
 
   </details>
