@@ -96,7 +96,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 `team-text-input` and `a: text input` issues that received the most reactions from 2025-09-08 to 2025-12-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 20 | [20](#flutter-flutter-175074-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 21 | [21](#flutter-flutter-175074-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 102 | [11](#flutter-flutter-124205-graph)
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 32 | [7](#flutter-flutter-149753-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 18 | [5](#flutter-flutter-160725-graph)
@@ -226,7 +226,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 20 | [20](#flutter-flutter-175074-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 21 | [21](#flutter-flutter-175074-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 20 | [20](#flutter-flutter-178549-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 102 | [11](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
@@ -270,7 +270,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
-[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 20 | [20](#flutter-flutter-175074-graph)
+[Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 21 | [21](#flutter-flutter-175074-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 20 | [20](#flutter-flutter-178549-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 102 | [11](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
@@ -619,6 +619,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-175074-graph"></a>
+### [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout.
+  <sub>[flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) &mdash; 21 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
   <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2287 total reactions, 20 recent reactions</sub><br />
@@ -631,23 +648,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [2267, 2268, 2273, 2275, 2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-175074-graph"></a>
-### [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout.
-  <sub>[flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20]
   ```
 
   </details>
