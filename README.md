@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 609 | [83](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 892 | [68](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 685 | [58](#flutter-flutter-168813-graph)
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 48 | [48](#flutter-flutter-175099-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 49 | [49](#flutter-flutter-175099-graph)
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 43 | [43](#flutter-flutter-177992-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 42 | [42](#flutter-flutter-179012-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 70 | [35](#flutter-flutter-172434-graph)
@@ -19,8 +19,8 @@ Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 v
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 117 | [24](#flutter-flutter-172561-graph)
 [google_maps_flutter] Add support for custom cluster icon [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 133 | [23](#flutter-flutter-153092-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
 
 ## Trending issues by team
 
@@ -180,7 +180,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 48 | [48](#flutter-flutter-175099-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 49 | [49](#flutter-flutter-175099-graph)
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 43 | [43](#flutter-flutter-177992-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 70 | [35](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 30 | [30](#flutter-flutter-175962-graph)
@@ -224,7 +224,7 @@ Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flu
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 117 | [24](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 21 | [21](#flutter-flutter-175074-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 20 | [20](#flutter-flutter-178549-graph)
@@ -268,7 +268,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 116 | [23](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 117 | [24](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 21 | [21](#flutter-flutter-175074-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 20 | [20](#flutter-flutter-178549-graph)
@@ -400,7 +400,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 <a name="flutter-flutter-175099-graph"></a>
 ### [iOS] Tap interactions not working on iOS 26 for webview_flutter
-  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 48 total reactions, 48 recent reactions</sub><br />
+  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 49 total reactions, 49 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -409,7 +409,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   xychart-beta
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 14, 14, 18, 25, 33, 38, 45, 48]
+    line [0, 0, 0, 0, 0, 14, 14, 18, 25, 33, 38, 45, 49]
   ```
 
   </details>
@@ -551,6 +551,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-172561-graph"></a>
+### [web] ☂️ WebParagraph
+  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 117 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions"
+    line [93, 94, 95, 99, 100, 107, 113, 114, 115, 116, 116, 116, 117]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-153092-graph"></a>
 ### [google_maps_flutter] Add support for custom cluster icon
   <sub>[flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) &mdash; 133 total reactions, 23 recent reactions</sub><br />
@@ -563,23 +580,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions"
     line [110, 111, 112, 113, 117, 122, 123, 127, 128, 129, 129, 133, 133]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-172561-graph"></a>
-### [web] ☂️ WebParagraph
-  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 116 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions"
-    line [93, 94, 95, 99, 100, 107, 113, 114, 115, 116, 116, 116, 116]
   ```
 
   </details>
