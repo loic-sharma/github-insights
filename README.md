@@ -216,7 +216,7 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 [camera] `java.lang.NullPointerException ` calling CameraCaptureSession.close() [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 54 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 53 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 31 | 2
-Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 20 | 2
+Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 2
 
 #### Web
 
@@ -653,23 +653,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-178549-graph"></a>
-### [tool_crash] web-server crashing after repeated "reopens"
-  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-178570-graph"></a>
 ### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
   <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -682,6 +665,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-178549-graph"></a>
+### [tool_crash] web-server crashing after repeated "reopens"
+  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 20]
   ```
 
   </details>
