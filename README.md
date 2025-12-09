@@ -249,9 +249,9 @@ Issue | Total reactions | Recent reactions
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 479 | [16](#flutter-flutter-31713-graph)
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 130 | [10](#flutter-flutter-41726-graph)
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 672 | [6](#flutter-flutter-41722-graph)
+Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 143 | [5](#flutter-flutter-41724-graph)
 [in_app_purchase] Add support for Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 73 | [5](#flutter-flutter-97050-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 220 | 4
-Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 142 | 4
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 21 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 73 | 3
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 63 | 3
@@ -1685,6 +1685,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions"
     line [153, 153, 153, 153, 153, 153, 154, 154, 155, 155, 155, 155, 156, 156]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-41724-graph"></a>
+### Implement PlatformView support on Linux
+  <sub>[flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) &mdash; 143 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    y-axis "Reactions"
+    line [138, 138, 139, 139, 139, 139, 139, 139, 140, 141, 141, 142, 142, 143]
   ```
 
   </details>
