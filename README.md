@@ -11,6 +11,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 893 | [69](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 686 | [59](#flutter-flutter-168813-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 51 | [51](#flutter-flutter-175099-graph)
+[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 46 | [46](#flutter-flutter-178549-graph)
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 45 | [45](#flutter-flutter-177992-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 42 | [42](#flutter-flutter-179012-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 71 | [36](#flutter-flutter-172434-graph)
@@ -20,7 +21,6 @@ Android's predictive back feature doesn't use the device's corner radius [flutte
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 117 | [24](#flutter-flutter-172561-graph)
-[google_maps_flutter] Add support for custom cluster icon [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 133 | [23](#flutter-flutter-153092-graph)
 
 ## Trending issues by team
 
@@ -194,7 +194,7 @@ Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flut
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 31 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 26 | 4
 ☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 30 | 3
-[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 3
+Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 
 #### Android
 
@@ -216,7 +216,7 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 [camera] `java.lang.NullPointerException ` calling CameraCaptureSession.close() [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 54 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 53 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 31 | 2
-Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 20 | 2
+Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 2
 
 #### Web
 
@@ -224,10 +224,10 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 46 | [46](#flutter-flutter-178549-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 117 | [24](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 21 | [21](#flutter-flutter-175074-graph)
-[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 20 | [20](#flutter-flutter-178549-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 102 | [11](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [6](#flutter-flutter-152588-graph)
@@ -235,10 +235,10 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 77 | [5](#flutter-flutter-60069-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 294 | 3
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 227 | 3
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 209 | 3
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 46 | 3
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 24 | 3
 [Proposal] Disable the browser navigation stack in the Flutter web app  [flutter/flutter#108114](https://github.com/flutter/flutter/issues/108114) | 21 | 3
-Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 661 | 2
 
 #### Desktop
 
@@ -268,10 +268,10 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 46 | [46](#flutter-flutter-178549-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 117 | [24](#flutter-flutter-172561-graph)
 Changes deployed on the `web-server` are not applied when the application’s entry point is located outside the `lib` folder. [flutter/flutter#175318](https://github.com/flutter/flutter/issues/175318) | 22 | [22](#flutter-flutter-175318-graph)
 [Android Web] resizeToAvoidBottomInset broken on Android. Keyboard breaks layout. [flutter/flutter#175074](https://github.com/flutter/flutter/issues/175074) | 21 | [21](#flutter-flutter-175074-graph)
-[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 20 | [20](#flutter-flutter-178549-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 102 | [11](#flutter-flutter-124205-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 59 | [6](#flutter-flutter-152588-graph)
@@ -279,10 +279,10 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 77 | [5](#flutter-flutter-60069-graph)
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 294 | 3
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 227 | 3
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 209 | 3
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 46 | 3
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 24 | 3
 [Proposal] Disable the browser navigation stack in the Flutter web app  [flutter/flutter#108114](https://github.com/flutter/flutter/issues/108114) | 21 | 3
-Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 661 | 2
 
 ### Dart SDK
 
@@ -410,6 +410,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 14, 14, 18, 25, 33, 38, 45, 49, 51]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-178549-graph"></a>
+### [tool_crash] web-server crashing after repeated "reopens"
+  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 46 total reactions, 46 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 20, 46]
   ```
 
   </details>
@@ -568,23 +585,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-153092-graph"></a>
-### [google_maps_flutter] Add support for custom cluster icon
-  <sub>[flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) &mdash; 133 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions"
-    line [110, 111, 112, 113, 117, 122, 123, 127, 128, 129, 129, 133, 133, 133]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-3704-graph"></a>
 ### Implicit coercion through implicit constructors.
   <sub>[dart-lang/language#3704](https://github.com/dart-lang/language/issues/3704) &mdash; 35 total reactions, 23 recent reactions</sub><br />
@@ -682,23 +682,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-178549-graph"></a>
-### [tool_crash] web-server crashing after repeated "reopens"
-  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 20, 20]
   ```
 
   </details>
