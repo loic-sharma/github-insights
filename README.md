@@ -194,7 +194,7 @@ Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flut
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 31 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 26 | 4
 ☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 30 | 3
-[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 3
+Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 
 #### Android
 
@@ -211,12 +211,12 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 96 | 3
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 86 | 3
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 47 | 3
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 3
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 3
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 3
 [camera] `java.lang.NullPointerException ` calling CameraCaptureSession.close() [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 54 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 53 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 31 | 2
-Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 20 | 2
+Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 2
 
 #### Web
 
@@ -292,8 +292,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 32 | [32](#dart-lang-sdk-61957-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 216 | [15](#dart-lang-sdk-55281-graph)
-[Dot shorthands] Dot shorthands break constructor references and completions [dart-lang/sdk#61969](https://github.com/dart-lang/sdk/issues/61969) | 13 | [13](#dart-lang-sdk-61969-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 13 | [13](#dart-lang-sdk-61635-graph)
+[Dot shorthands] Dot shorthands break constructor references and completions [dart-lang/sdk#61969](https://github.com/dart-lang/sdk/issues/61969) | 13 | [13](#dart-lang-sdk-61969-graph)
 [Dot Shorthands][meta] Dot shorthands implementation [dart-lang/sdk#57036](https://github.com/dart-lang/sdk/issues/57036) | 91 | [10](#dart-lang-sdk-57036-graph)
 [analysis_server_plugin] Access analysis_options.yaml in plugins [dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) | 9 | [9](#dart-lang-sdk-61755-graph)
 Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk#46943](https://github.com/dart-lang/sdk/issues/46943) | 15 | [7](#dart-lang-sdk-46943-graph)
@@ -891,23 +891,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61969-graph"></a>
-### [Dot shorthands] Dot shorthands break constructor references and completions
-  <sub>[dart-lang/sdk#61969](https://github.com/dart-lang/sdk/issues/61969) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 13, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61635-graph"></a>
 ### ☂️ Development modular AOT compiler targeting iOS/arm64
   <sub>[dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) &mdash; 13 total reactions, 13 recent reactions</sub><br />
@@ -920,6 +903,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 3, 3, 5, 11, 11, 11, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61969-graph"></a>
+### [Dot shorthands] Dot shorthands break constructor references and completions
+  <sub>[dart-lang/sdk#61969](https://github.com/dart-lang/sdk/issues/61969) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 13, 13, 13]
   ```
 
   </details>
