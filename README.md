@@ -41,8 +41,8 @@ Proposal: introduce Widget for infinite list from very_good_infinite_list packag
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 228 | [16](#flutter-flutter-65504-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 106 | [15](#flutter-flutter-69949-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 709 | [13](#flutter-flutter-30701-graph)
+Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 64 | [9](#flutter-flutter-81005-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 142 | [8](#flutter-flutter-63323-graph)
-Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 63 | [8](#flutter-flutter-81005-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 201 | [7](#flutter-flutter-45336-graph)
 Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](https://github.com/flutter/flutter/issues/31134) | 159 | [6](#flutter-flutter-31134-graph)
 Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 110 | [6](#flutter-flutter-174576-graph)
@@ -216,7 +216,7 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 [camera] `java.lang.NullPointerException ` calling CameraCaptureSession.close() [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 54 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 53 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 31 | 2
-Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 2
+Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 20 | 2
 
 #### Web
 
@@ -1146,6 +1146,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-81005-graph"></a>
+### Jump to index in sliver world
+  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 64 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    y-axis "Reactions"
+    line [55, 55, 57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 62, 64]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-148026-graph"></a>
 ### FontWeight should subsume `wght` in FontVariation
   <sub>[flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) &mdash; 36 total reactions, 9 recent reactions</sub><br />
@@ -1260,23 +1277,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions"
     line [135, 135, 136, 138, 138, 138, 138, 139, 139, 139, 139, 139, 142, 142]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-81005-graph"></a>
-### Jump to index in sliver world
-  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 63 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions"
-    line [55, 55, 57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 62, 63]
   ```
 
   </details>
