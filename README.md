@@ -185,7 +185,7 @@ Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992]
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 71 | [36](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 31 | [31](#flutter-flutter-175962-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 375 | [16](#flutter-flutter-110431-graph)
-[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 29 | [14](#flutter-flutter-164483-graph)
+[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 30 | [15](#flutter-flutter-164483-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 64 | [10](#flutter-flutter-115926-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 55 | [8](#flutter-flutter-20663-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 19 | [6](#flutter-flutter-160725-graph)
@@ -317,7 +317,7 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 21 | [16](#dart-lang-language-4185-graph)
 Enable functions to store data between calls / know from where they were called [dart-lang/language#1427](https://github.com/dart-lang/language/issues/1427) | 17 | [16](#dart-lang-language-1427-graph)
 Enable a transistor-like behavior of a boolean value [dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) | 12 | [12](#dart-lang-language-4519-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1214 | [10](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1215 | [11](#dart-lang-language-723-graph)
 Dart treats a final nullable property as nullable even after checking that the property is not  null [dart-lang/language#1415](https://github.com/dart-lang/language/issues/1415) | 52 | [10](#dart-lang-language-1415-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1700 | [9](#dart-lang-language-1482-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 207 | [9](#dart-lang-language-4271-graph)
@@ -859,7 +859,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
 <a name="flutter-flutter-164483-graph"></a>
 ### [iOS] Extra silent accessibility focus before first ListView item
-  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 29 total reactions, 14 recent reactions</sub><br />
+  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 30 total reactions, 15 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -868,7 +868,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   xychart-beta
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions"
-    line [20, 21, 26, 27, 27, 27, 28, 29, 29, 29, 29, 29, 29, 29]
+    line [20, 21, 26, 27, 27, 27, 28, 29, 29, 29, 29, 29, 29, 30]
   ```
 
   </details>
@@ -959,6 +959,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1215 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    y-axis "Reactions"
+    line [1204, 1204, 1204, 1205, 1207, 1207, 1207, 1206, 1207, 1209, 1209, 1210, 1211, 1215]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-41726-graph"></a>
 ### [webview_flutter] Add Linux support
   <sub>[flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) &mdash; 131 total reactions, 11 recent reactions</sub><br />
@@ -988,23 +1005,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions"
     line [91, 91, 91, 91, 91, 91, 91, 91, 91, 92, 94, 96, 102, 102]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1214 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 8, Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions"
-    line [1204, 1204, 1204, 1205, 1207, 1207, 1207, 1206, 1207, 1209, 1209, 1210, 1211, 1214]
   ```
 
   </details>
