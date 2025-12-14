@@ -20,7 +20,7 @@ Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 v
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Proposal: introduce Widget for infinite list from very_good_infinite_list package [flutter/flutter#177451](https://github.com/flutter/flutter/issues/177451) | 28 | [28](#flutter-flutter-177451-graph)
 RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | [26](#flutter-flutter-176237-graph)
-[google_maps_flutter] Add support for custom cluster icon [flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) | 134 | [24](#flutter-flutter-153092-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 118 | [25](#flutter-flutter-172561-graph)
 
 ## Trending issues by team
 
@@ -89,7 +89,7 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
@@ -211,12 +211,12 @@ Android crash: Fatal Exception: java.lang.RuntimeException java.util.concurrent.
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 96 | 3
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 86 | 3
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 47 | 3
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 3
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 17 | 3
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 17 | 3
 [camera] `java.lang.NullPointerException ` calling CameraCaptureSession.close() [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 54 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 53 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 31 | 2
-Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 2
+Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 20 | 2
 
 #### Web
 
@@ -225,7 +225,7 @@ Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 60 | [60](#flutter-flutter-178549-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 117 | [24](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 118 | [25](#flutter-flutter-172561-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 104 | [13](#flutter-flutter-124205-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 60 | [7](#flutter-flutter-152588-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
@@ -269,7 +269,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 60 | [60](#flutter-flutter-178549-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 117 | [24](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 118 | [25](#flutter-flutter-172561-graph)
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 104 | [13](#flutter-flutter-124205-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 60 | [7](#flutter-flutter-152588-graph)
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 96 | [6](#flutter-flutter-104509-graph)
@@ -320,9 +320,9 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Enable a transistor-like behavior of a boolean value [dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) | 12 | [12](#dart-lang-language-4519-graph)
 Dart treats a final nullable property as nullable even after checking that the property is not  null [dart-lang/language#1415](https://github.com/dart-lang/language/issues/1415) | 52 | [10](#dart-lang-language-1415-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1700 | [9](#dart-lang-language-1482-graph)
+Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1271 | [9](#dart-lang-language-69-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 207 | [9](#dart-lang-language-4271-graph)
 Pattern-esque syntax for terser named arguments/record fields [dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) | 26 | [9](#dart-lang-language-3102-graph)
-Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1270 | [8](#dart-lang-language-69-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 266 | [8](#dart-lang-language-2364-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 26 | [8](#dart-lang-language-4154-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
@@ -568,26 +568,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-153092-graph"></a>
-### [google_maps_flutter] Add support for custom cluster icon
-  <sub>[flutter/flutter#153092](https://github.com/flutter/flutter/issues/153092) &mdash; 134 total reactions, 24 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions"
-    line [111, 112, 113, 117, 122, 123, 127, 128, 129, 129, 133, 133, 134]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
-  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 117 total reactions, 24 recent reactions</sub><br />
+  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 118 total reactions, 25 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -596,7 +579,7 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   xychart-beta
     x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions"
-    line [94, 95, 99, 100, 107, 113, 114, 115, 116, 116, 116, 117, 117]
+    line [94, 95, 99, 100, 107, 113, 114, 115, 116, 116, 116, 117, 118]
   ```
 
   </details>
@@ -1027,6 +1010,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-69-graph"></a>
+### Optional Semicolons
+  <sub>[dart-lang/language#69](https://github.com/dart-lang/language/issues/69) &mdash; 1271 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    y-axis "Reactions"
+    line [1262, 1264, 1264, 1264, 1265, 1265, 1266, 1266, 1269, 1269, 1270, 1270, 1271]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4271-graph"></a>
 ### static enough metaprogramming
   <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 207 total reactions, 9 recent reactions</sub><br />
@@ -1141,23 +1141,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 7, 7, 7, 8, 8, 9, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-69-graph"></a>
-### Optional Semicolons
-  <sub>[dart-lang/language#69](https://github.com/dart-lang/language/issues/69) &mdash; 1270 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions"
-    line [1262, 1264, 1264, 1264, 1265, 1265, 1266, 1266, 1269, 1269, 1270, 1270, 1270]
   ```
 
   </details>
@@ -1520,23 +1503,6 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-169746-graph"></a>
-### systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1
-  <sub>[flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) &mdash; 19 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions" 0 --> 20
-    line [13, 15, 16, 16, 16, 16, 16, 17, 19, 19, 19, 19, 19]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160725-graph"></a>
 ### Laggy First Keyboard Open (Physical iOS Device)
   <sub>[flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) &mdash; 19 total reactions, 6 recent reactions</sub><br />
@@ -1549,6 +1515,23 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
     x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 13, 13, 13, 14, 14, 16, 16, 16, 16, 18, 19]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-169746-graph"></a>
+### systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1
+  <sub>[flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) &mdash; 19 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    y-axis "Reactions" 0 --> 20
+    line [13, 15, 16, 16, 16, 16, 16, 17, 19, 19, 19, 19, 19]
   ```
 
   </details>
