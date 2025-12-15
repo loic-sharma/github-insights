@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-09-15 to 2025-12-14.
+Issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ RFC: Seeking feedback on improving dev experience when working on accessibility 
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-framework` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#17457
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-design` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`f: cupertino` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 612 | [83](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 104 | [13](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-accessibility` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-go_router` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-tool` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-engine` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 340 | [19](#flutter-flutter-18443-graph)
@@ -176,7 +176,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-ios` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -192,13 +192,13 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 67 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 26 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 156 | 3
-Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 3
+Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 webview response to gesture from the widget above it  [flutter/flutter#58659](https://github.com/flutter/flutter/issues/58659) | 20 | 3
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-android` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -216,11 +216,11 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 [camera] `java.lang.NullPointerException ` calling CameraCaptureSession.close() [flutter/flutter#114012](https://github.com/flutter/flutter/issues/114012) | 54 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 53 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 31 | 2
-Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 2
+Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 20 | 2
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-web` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`team-ecosystem` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`dart-lang/sdk` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-09-15 to 2025-12-14.
+`dart-lang/language` issues that received the most reactions from 2025-09-15 to 2025-12-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -326,7 +326,7 @@ Pattern-esque syntax for terser named arguments/record fields [dart-lang/languag
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 266 | [8](#dart-lang-language-2364-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 26 | [8](#dart-lang-language-4154-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
-Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/language#357](https://github.com/dart-lang/language/issues/357) | 1104 | [6](#dart-lang-language-357-graph)
+Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 558 | [6](#dart-lang-language-83-graph)
 
 ## Graphs
 
@@ -339,9 +339,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 177, 179, 180, 182, 182]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 177, 179, 180, 182, 182, 182]
   ```
 
   </details>
@@ -356,9 +356,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [547, 557, 562, 569, 573, 583, 587, 588, 591, 595, 608, 609, 612]
+    line [547, 557, 562, 569, 573, 583, 587, 588, 591, 595, 608, 609, 612, 612]
   ```
 
   </details>
@@ -373,9 +373,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [848, 857, 862, 863, 871, 872, 877, 877, 879, 886, 888, 892, 894]
+    line [848, 857, 862, 863, 871, 872, 877, 877, 879, 886, 888, 892, 894, 894]
   ```
 
   </details>
@@ -390,9 +390,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 20, 60]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 15, 18, 18, 20, 60, 60]
   ```
 
   </details>
@@ -407,9 +407,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [643, 645, 654, 658, 659, 661, 666, 671, 672, 676, 684, 685, 687]
+    line [643, 645, 654, 658, 659, 661, 666, 671, 672, 676, 684, 685, 687, 687]
   ```
 
   </details>
@@ -424,9 +424,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 38, 43, 48]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 28, 38, 43, 48, 48]
   ```
 
   </details>
@@ -441,9 +441,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 42, 42, 42]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 42, 42, 42, 42]
   ```
 
   </details>
@@ -458,9 +458,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 14, 14, 18, 25, 33, 38, 45, 49, 51]
+    line [0, 0, 0, 0, 14, 14, 18, 25, 33, 38, 45, 49, 51, 51]
   ```
 
   </details>
@@ -475,9 +475,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 8, 15, 23, 31, 34]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 8, 15, 23, 31, 34, 34]
   ```
 
   </details>
@@ -492,9 +492,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [41, 41, 43, 50, 56, 59, 63, 64, 65, 68, 70, 70, 71]
+    line [41, 41, 43, 50, 56, 59, 63, 64, 65, 68, 70, 70, 71, 71]
   ```
 
   </details>
@@ -509,9 +509,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 13, 19, 24, 26, 28, 28, 29, 29, 31, 31]
+    line [0, 0, 0, 13, 19, 24, 26, 28, 28, 29, 29, 31, 31, 31]
   ```
 
   </details>
@@ -526,9 +526,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 30]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 30, 30, 30, 30, 30, 30]
   ```
 
   </details>
@@ -543,9 +543,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 27, 28, 28, 28, 28, 28, 28, 28]
+    line [0, 0, 0, 0, 0, 27, 28, 28, 28, 28, 28, 28, 28, 28]
   ```
 
   </details>
@@ -560,9 +560,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 15, 22, 24, 24, 26, 26, 26, 26, 26, 26, 26]
+    line [0, 0, 15, 22, 24, 24, 26, 26, 26, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -577,9 +577,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [94, 95, 99, 100, 107, 113, 114, 115, 116, 116, 116, 117, 118]
+    line [94, 95, 99, 100, 107, 113, 114, 115, 116, 116, 116, 117, 118, 118]
   ```
 
   </details>
@@ -594,9 +594,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [12, 12, 12, 12, 12, 12, 12, 12, 34, 35, 35, 35, 36]
+    line [12, 12, 12, 12, 12, 12, 12, 12, 34, 35, 35, 35, 36, 36]
   ```
 
   </details>
@@ -611,9 +611,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [2268, 2273, 2275, 2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287, 2290]
+    line [2268, 2273, 2275, 2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287, 2290, 2290]
   ```
 
   </details>
@@ -628,9 +628,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [207, 207, 207, 207, 210, 212, 215, 223, 223, 224, 224, 225, 227]
+    line [207, 207, 207, 207, 210, 212, 215, 223, 223, 224, 224, 225, 227, 227]
   ```
 
   </details>
@@ -645,9 +645,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19, 20, 20]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19, 20, 20, 20]
   ```
 
   </details>
@@ -662,9 +662,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [321, 325, 326, 329, 329, 331, 331, 331, 336, 339, 339, 340, 340]
+    line [321, 325, 326, 329, 329, 331, 331, 331, 336, 339, 339, 340, 340, 340]
   ```
 
   </details>
@@ -679,9 +679,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [14, 15, 18, 19, 19, 19, 19, 20, 22, 23, 25, 26, 32]
+    line [14, 15, 18, 19, 19, 19, 19, 20, 22, 23, 25, 26, 32, 32]
   ```
 
   </details>
@@ -696,9 +696,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [361, 361, 362, 363, 363, 369, 369, 369, 371, 371, 372, 372, 375]
+    line [361, 361, 362, 363, 363, 369, 369, 369, 371, 371, 372, 372, 375, 375]
   ```
 
   </details>
@@ -713,9 +713,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 20, 20, 21, 21, 21]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 20, 20, 21, 21, 21, 21]
   ```
 
   </details>
@@ -730,9 +730,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [1, 1, 1, 1, 1, 1, 1, 17, 17, 17, 17, 17, 17]
+    line [1, 1, 1, 1, 1, 1, 1, 17, 17, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -747,9 +747,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [213, 213, 213, 219, 219, 219, 220, 220, 220, 221, 223, 228, 228]
+    line [213, 213, 213, 219, 219, 219, 220, 220, 220, 221, 223, 228, 228, 228]
   ```
 
   </details>
@@ -764,9 +764,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [204, 204, 204, 205, 208, 212, 212, 212, 212, 214, 215, 216, 216]
+    line [204, 204, 204, 205, 208, 212, 212, 212, 212, 214, 215, 216, 216, 216]
   ```
 
   </details>
@@ -781,9 +781,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 3, 3, 5, 11, 11, 11, 15]
+    line [0, 0, 0, 0, 0, 0, 3, 3, 5, 11, 11, 11, 15, 15]
   ```
 
   </details>
@@ -798,9 +798,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [466, 466, 471, 471, 473, 473, 478, 478, 478, 478, 478, 478, 479]
+    line [466, 466, 471, 471, 473, 473, 478, 478, 478, 478, 478, 478, 479, 479]
   ```
 
   </details>
@@ -815,9 +815,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 13, 13, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 13, 13, 14, 14]
   ```
 
   </details>
@@ -832,9 +832,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [91, 91, 91, 91, 91, 91, 91, 91, 92, 94, 96, 102, 104]
+    line [91, 91, 91, 91, 91, 91, 91, 91, 92, 94, 96, 102, 104, 104]
   ```
 
   </details>
@@ -849,9 +849,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [21, 26, 27, 27, 27, 28, 29, 29, 29, 29, 29, 29, 33]
+    line [21, 26, 27, 27, 27, 28, 29, 29, 29, 29, 29, 29, 33, 33]
   ```
 
   </details>
@@ -866,9 +866,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [1204, 1204, 1205, 1207, 1207, 1207, 1206, 1207, 1209, 1209, 1210, 1211, 1216]
+    line [1204, 1204, 1205, 1207, 1207, 1207, 1206, 1207, 1209, 1209, 1210, 1211, 1216, 1216]
   ```
 
   </details>
@@ -883,9 +883,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [541, 541, 542, 542, 548, 548, 548, 547, 550, 550, 551, 552, 553]
+    line [541, 541, 542, 542, 548, 548, 548, 547, 550, 550, 551, 552, 553, 553]
   ```
 
   </details>
@@ -900,9 +900,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 7, 10, 10, 11, 11, 11, 11, 11, 12, 12, 12, 12]
+    line [0, 7, 10, 10, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12]
   ```
 
   </details>
@@ -917,9 +917,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [120, 120, 120, 120, 120, 120, 120, 124, 130, 130, 130, 130, 131]
+    line [120, 120, 120, 120, 120, 120, 120, 124, 130, 130, 130, 130, 131, 131]
   ```
 
   </details>
@@ -934,9 +934,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [223, 224, 224, 224, 224, 224, 225, 225, 225, 225, 228, 230, 233]
+    line [223, 224, 224, 224, 224, 224, 225, 225, 225, 225, 228, 230, 233, 233]
   ```
 
   </details>
@@ -951,9 +951,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [81, 82, 87, 87, 88, 90, 90, 91, 91, 91, 91, 91, 91]
+    line [81, 82, 87, 87, 88, 90, 90, 91, 91, 91, 91, 91, 91, 91]
   ```
 
   </details>
@@ -968,9 +968,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [42, 47, 48, 48, 48, 51, 52, 52, 52, 52, 52, 52, 52]
+    line [42, 47, 48, 48, 48, 51, 52, 52, 52, 52, 52, 52, 52, 52]
   ```
 
   </details>
@@ -985,9 +985,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [22, 22, 22, 23, 25, 27, 29, 29, 29, 30, 31, 31, 31]
+    line [22, 22, 22, 23, 25, 27, 29, 29, 29, 30, 31, 31, 31, 31]
   ```
 
   </details>
@@ -1002,9 +1002,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [1691, 1698, 1698, 1698, 1697, 1698, 1699, 1700, 1700, 1700, 1700, 1700, 1700]
+    line [1691, 1698, 1698, 1698, 1697, 1698, 1699, 1700, 1700, 1700, 1700, 1700, 1700, 1700]
   ```
 
   </details>
@@ -1019,9 +1019,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [1262, 1264, 1264, 1264, 1265, 1265, 1266, 1266, 1269, 1269, 1270, 1270, 1271]
+    line [1262, 1264, 1264, 1264, 1265, 1265, 1266, 1266, 1269, 1269, 1270, 1270, 1271, 1271]
   ```
 
   </details>
@@ -1036,9 +1036,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [198, 198, 199, 199, 199, 199, 202, 203, 207, 207, 207, 207, 207]
+    line [198, 198, 199, 199, 199, 199, 202, 203, 207, 207, 207, 207, 207, 207]
   ```
 
   </details>
@@ -1053,9 +1053,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [164, 164, 164, 165, 165, 165, 168, 171, 173, 173, 173, 173, 173]
+    line [164, 164, 164, 165, 165, 165, 168, 171, 173, 173, 173, 173, 173, 173]
   ```
 
   </details>
@@ -1070,9 +1070,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [99, 100, 102, 103, 103, 103, 103, 104, 104, 104, 104, 104, 106]
+    line [99, 100, 102, 103, 103, 103, 103, 104, 104, 104, 104, 104, 106, 106]
   ```
 
   </details>
@@ -1087,9 +1087,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [55, 57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 62, 64]
+    line [55, 57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 62, 64, 64]
   ```
 
   </details>
@@ -1104,9 +1104,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [29, 30, 30, 32, 34, 34, 35, 36, 36, 36, 36, 36, 36]
+    line [29, 30, 30, 32, 34, 34, 35, 36, 36, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -1121,9 +1121,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [17, 20, 21, 21, 21, 22, 26, 26, 26, 26, 26, 26, 26]
+    line [17, 20, 21, 21, 21, 22, 26, 26, 26, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -1138,9 +1138,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 7, 7, 7, 8, 8, 9, 9, 9]
+    line [0, 0, 0, 0, 0, 7, 7, 7, 8, 8, 9, 9, 9, 9]
   ```
 
   </details>
@@ -1155,9 +1155,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [259, 259, 259, 259, 260, 261, 260, 261, 265, 265, 265, 265, 266]
+    line [259, 259, 259, 259, 260, 261, 260, 261, 265, 265, 265, 265, 266, 266]
   ```
 
   </details>
@@ -1172,9 +1172,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [207, 207, 207, 209, 211, 211, 214, 214, 215, 215, 215, 215, 215]
+    line [207, 207, 207, 209, 211, 211, 214, 214, 215, 215, 215, 215, 215, 215]
   ```
 
   </details>
@@ -1189,9 +1189,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [56, 56, 57, 59, 59, 60, 60, 61, 61, 61, 64, 64, 64]
+    line [56, 56, 57, 59, 59, 60, 60, 61, 61, 61, 64, 64, 64, 64]
   ```
 
   </details>
@@ -1206,9 +1206,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [48, 49, 49, 50, 50, 50, 51, 52, 53, 54, 54, 55, 55]
+    line [48, 49, 49, 50, 50, 50, 51, 52, 53, 54, 54, 55, 55, 55]
   ```
 
   </details>
@@ -1223,9 +1223,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [19, 20, 20, 20, 20, 21, 21, 21, 23, 23, 23, 25, 26]
+    line [19, 20, 20, 20, 20, 21, 21, 21, 23, 23, 23, 25, 26, 26]
   ```
 
   </details>
@@ -1240,9 +1240,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [702, 702, 703, 704, 704, 704, 708, 708, 708, 708, 708, 708, 709]
+    line [702, 702, 703, 704, 704, 704, 708, 708, 708, 708, 708, 708, 709, 709]
   ```
 
   </details>
@@ -1257,9 +1257,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [195, 195, 196, 197, 197, 199, 199, 199, 200, 200, 200, 200, 201]
+    line [195, 195, 196, 197, 197, 199, 199, 199, 200, 200, 200, 200, 201, 201]
   ```
 
   </details>
@@ -1274,9 +1274,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [138, 138, 141, 141, 142, 143, 143, 143, 143, 143, 145, 145, 145]
+    line [138, 138, 141, 141, 142, 143, 143, 143, 143, 143, 145, 145, 145, 145]
   ```
 
   </details>
@@ -1291,9 +1291,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [135, 136, 138, 138, 138, 138, 139, 139, 139, 139, 139, 142, 142]
+    line [135, 136, 138, 138, 138, 138, 139, 139, 139, 139, 139, 142, 142, 142]
   ```
 
   </details>
@@ -1308,9 +1308,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [54, 54, 54, 54, 54, 54, 56, 59, 59, 59, 59, 59, 60]
+    line [54, 54, 54, 54, 54, 54, 56, 59, 59, 59, 59, 59, 60, 60]
   ```
 
   </details>
@@ -1325,9 +1325,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [42, 44, 46, 46, 46, 46, 47, 48, 48, 48, 48, 48, 49]
+    line [42, 44, 46, 46, 46, 46, 47, 48, 48, 48, 48, 48, 49, 49]
   ```
 
   </details>
@@ -1342,9 +1342,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [8, 11, 13, 13, 13, 14, 14, 14, 14, 14, 15, 15, 15]
+    line [8, 11, 13, 13, 13, 14, 14, 14, 14, 14, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1359,9 +1359,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 5, 7, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 2, 4, 5, 7, 7, 7]
   ```
 
   </details>
@@ -1376,26 +1376,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [2027, 2028, 2028, 2029, 2029, 2030, 2030, 2030, 2031, 2032, 2032, 2032, 2032]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-357-graph"></a>
-### Dot shorthands: Allow for shorter dot syntax to access enum values
-  <sub>[dart-lang/language#357](https://github.com/dart-lang/language/issues/357) &mdash; 1104 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
-    y-axis "Reactions"
-    line [1098, 1099, 1102, 1102, 1103, 1103, 1103, 1104, 1104, 1104, 1104, 1104, 1104]
+    line [2027, 2028, 2028, 2029, 2029, 2030, 2030, 2030, 2031, 2032, 2032, 2032, 2032, 2032]
   ```
 
   </details>
@@ -1410,9 +1393,26 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 672, 672, 672]
+    line [666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 672, 672, 672, 672]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-83-graph"></a>
+### Sum/union types and type matching
+  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 558 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
+    y-axis "Reactions"
+    line [552, 553, 553, 553, 553, 553, 557, 558, 558, 558, 558, 558, 558, 558]
   ```
 
   </details>
@@ -1427,9 +1427,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [90, 93, 93, 93, 94, 94, 94, 94, 95, 96, 96, 96, 96]
+    line [90, 93, 93, 93, 94, 94, 94, 94, 95, 96, 96, 96, 96, 96]
   ```
 
   </details>
@@ -1444,9 +1444,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [56, 57, 57, 57, 57, 59, 59, 59, 59, 59, 58, 61, 61]
+    line [56, 57, 57, 57, 57, 59, 59, 59, 59, 59, 58, 61, 61, 61]
   ```
 
   </details>
@@ -1461,9 +1461,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 43, 45, 46, 47, 47, 48, 48, 48, 48]
+    line [42, 42, 42, 42, 43, 45, 46, 47, 47, 48, 48, 48, 48, 48]
   ```
 
   </details>
@@ -1478,9 +1478,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [26, 27, 27, 27, 27, 27, 28, 29, 29, 30, 32, 32, 32]
+    line [26, 27, 27, 27, 27, 27, 28, 29, 29, 30, 32, 32, 32, 32]
   ```
 
   </details>
@@ -1495,9 +1495,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [15, 15, 15, 16, 16, 16, 16, 16, 20, 21, 21, 21, 21]
+    line [15, 15, 15, 16, 16, 16, 16, 16, 20, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1512,9 +1512,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [13, 15, 16, 16, 16, 16, 16, 17, 19, 19, 19, 19, 19]
+    line [13, 15, 16, 16, 16, 16, 16, 17, 19, 19, 19, 19, 19, 19]
   ```
 
   </details>
@@ -1529,9 +1529,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 13, 13, 13, 14, 14, 16, 16, 16, 16, 18, 19]
+    line [0, 0, 13, 13, 13, 14, 14, 16, 16, 16, 16, 18, 19, 19]
   ```
 
   </details>
@@ -1546,9 +1546,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6]
+    line [0, 0, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1563,9 +1563,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [308, 308, 308, 308, 308, 309, 309, 309, 309, 312, 312, 312, 312]
+    line [308, 308, 308, 308, 308, 309, 309, 309, 309, 312, 312, 312, 312, 312]
   ```
 
   </details>
@@ -1580,9 +1580,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [241, 241, 241, 241, 241, 242, 242, 242, 245, 245, 245, 246, 246]
+    line [241, 241, 241, 241, 241, 242, 242, 242, 245, 245, 245, 246, 246, 246]
   ```
 
   </details>
@@ -1597,9 +1597,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [138, 139, 139, 139, 139, 139, 139, 140, 141, 141, 142, 142, 143]
+    line [138, 139, 139, 139, 139, 139, 139, 140, 141, 141, 142, 142, 143, 143]
   ```
 
   </details>
@@ -1614,9 +1614,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [120, 120, 120, 120, 121, 121, 121, 121, 121, 121, 123, 125, 125]
+    line [120, 120, 120, 120, 121, 121, 121, 121, 121, 121, 123, 125, 125, 125]
   ```
 
   </details>
@@ -1631,9 +1631,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [105, 106, 106, 106, 106, 106, 108, 108, 108, 108, 108, 110, 110]
+    line [105, 106, 106, 106, 106, 106, 108, 108, 108, 108, 108, 110, 110, 110]
   ```
 
   </details>
@@ -1648,9 +1648,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [97, 99, 100, 100, 100, 100, 100, 100, 100, 101, 101, 101, 102]
+    line [97, 99, 100, 100, 100, 100, 100, 100, 100, 101, 101, 101, 102, 102]
   ```
 
   </details>
@@ -1665,9 +1665,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [68, 68, 68, 68, 68, 68, 68, 68, 68, 73, 73, 73, 73]
+    line [68, 68, 68, 68, 68, 68, 68, 68, 68, 73, 73, 73, 73, 73]
   ```
 
   </details>
@@ -1682,9 +1682,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [58, 58, 58, 58, 59, 61, 61, 62, 62, 62, 62, 62, 63]
+    line [58, 58, 58, 58, 59, 61, 61, 62, 62, 62, 62, 62, 63, 63]
   ```
 
   </details>
@@ -1699,9 +1699,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [51, 51, 51, 51, 52, 52, 52, 56, 56, 56, 56, 56, 56]
+    line [51, 51, 51, 51, 52, 52, 52, 56, 56, 56, 56, 56, 56, 56]
   ```
 
   </details>
@@ -1716,9 +1716,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
-    line [49, 49, 49, 50, 51, 51, 51, 51, 52, 52, 53, 53, 53]
+    line [49, 49, 49, 50, 51, 51, 51, 51, 52, 52, 53, 53, 53, 53]
   ```
 
   </details>
@@ -1733,9 +1733,9 @@ Dot shorthands: Allow for shorter dot syntax to access enum values [dart-lang/la
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8]
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 9, 9, 9, 10, 13, 14, 14, 14, 14]
+    line [9, 9, 9, 9, 9, 9, 9, 10, 13, 14, 14, 14, 14, 14]
   ```
 
   </details>
