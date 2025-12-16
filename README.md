@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-09-15 to 2025-12-15.
+Issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ RFC: Seeking feedback on improving dev experience when working on accessibility 
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-framework` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#17457
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-design` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`f: cupertino` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 612 | [83](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 104 | [13](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-accessibility` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-go_router` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-tool` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-engine` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 340 | [19](#flutter-flutter-18443-graph)
@@ -176,7 +176,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-ios` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -192,13 +192,13 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 67 | 4
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 26 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 156 | 3
-[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 3
 Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
+[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 3
 webview response to gesture from the widget above it  [flutter/flutter#58659](https://github.com/flutter/flutter/issues/58659) | 20 | 3
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-android` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-web` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -251,10 +251,10 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 672 | [6](#flutter-flutter-41722-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 143 | [5](#flutter-flutter-41724-graph)
 [in_app_purchase] Add support for Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 73 | [5](#flutter-flutter-97050-graph)
+[Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 221 | 4
 [video_player] add Linux support [flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) | 55 | 4
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 28 | 4
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 21 | 4
-[Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 220 | 3
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 63 | 3
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 342 | 2
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 86 | 2
@@ -264,7 +264,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`team-ecosystem` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`dart-lang/sdk` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -300,15 +300,15 @@ Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 61 | [6](#dart-lang-sdk-56841-graph)
 Add more information to `InvalidType` [dart-lang/sdk#61579](https://github.com/dart-lang/sdk/issues/61579) | 6 | [6](#dart-lang-sdk-61579-graph)
 Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) | 14 | [5](#dart-lang-sdk-53906-graph)
+Support using Dart embeded into other executables [dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) | 5 | [5](#dart-lang-sdk-61824-graph)
 [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 66 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 62 | 4
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 33 | 4
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 26 | 4
-Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 19 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-09-15 to 2025-12-15.
+`dart-lang/language` issues that received the most reactions from 2025-09-15 to 2025-12-16.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -325,8 +325,8 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 207 | [9](#dart-lang-language-4271-graph)
 Pattern-esque syntax for terser named arguments/record fields [dart-lang/language#3102](https://github.com/dart-lang/language/issues/3102) | 26 | [9](#dart-lang-language-3102-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 26 | [8](#dart-lang-language-4154-graph)
+Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 559 | [7](#dart-lang-language-83-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
-Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 558 | [6](#dart-lang-language-83-graph)
 
 ## Graphs
 
@@ -1248,6 +1248,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="dart-lang-language-83-graph"></a>
+### Sum/union types and type matching
+  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 559 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
+    y-axis "Reactions"
+    line [552, 553, 553, 553, 553, 553, 557, 558, 558, 558, 558, 558, 558, 559]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-45336-graph"></a>
 ### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
   <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 201 total reactions, 7 recent reactions</sub><br />
@@ -1396,23 +1413,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
     line [666, 666, 666, 666, 666, 666, 666, 666, 666, 666, 672, 672, 672, 672]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-83-graph"></a>
-### Sum/union types and type matching
-  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 558 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
-    y-axis "Reactions"
-    line [552, 553, 553, 553, 553, 553, 557, 558, 558, 558, 558, 558, 558, 558]
   ```
 
   </details>
@@ -1736,6 +1736,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
     line [9, 9, 9, 9, 9, 9, 9, 10, 13, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61824-graph"></a>
+### Support using Dart embeded into other executables
+  <sub>[dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 15, Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 5]
   ```
 
   </details>
