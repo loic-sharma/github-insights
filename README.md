@@ -89,7 +89,7 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
@@ -193,8 +193,8 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 26 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 156 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 117 | 3
-Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 3
+Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 
 #### Android
 
@@ -316,7 +316,7 @@ Implicit coercion through implicit constructors. [dart-lang/language#3704](https
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2290 | [20](#dart-lang-language-314-graph)
 Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 21 | [16](#dart-lang-language-4185-graph)
 Enable functions to store data between calls / know from where they were called [dart-lang/language#1427](https://github.com/dart-lang/language/issues/1427) | 17 | [16](#dart-lang-language-1427-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1216 | [12](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1217 | [13](#dart-lang-language-723-graph)
 Enable a transistor-like behavior of a boolean value [dart-lang/language#4519](https://github.com/dart-lang/language/issues/4519) | 12 | [12](#dart-lang-language-4519-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1701 | [10](#dart-lang-language-1482-graph)
 Dart treats a final nullable property as nullable even after checking that the property is not  null [dart-lang/language#1415](https://github.com/dart-lang/language/issues/1415) | 52 | [10](#dart-lang-language-1415-graph)
@@ -823,6 +823,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
+<a name="dart-lang-language-723-graph"></a>
+### Static extension methods
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1217 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
+    y-axis "Reactions"
+    line [1204, 1205, 1207, 1207, 1207, 1206, 1207, 1209, 1209, 1210, 1211, 1216, 1217]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-31713-graph"></a>
 ### Implement PlatformView support on Windows
   <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 479 total reactions, 13 recent reactions</sub><br />
@@ -835,23 +852,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions"
     line [466, 471, 471, 473, 473, 478, 478, 478, 478, 478, 478, 479, 479]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-723-graph"></a>
-### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1216 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
-    y-axis "Reactions"
-    line [1204, 1205, 1207, 1207, 1207, 1206, 1207, 1209, 1209, 1210, 1211, 1216, 1216]
   ```
 
   </details>
