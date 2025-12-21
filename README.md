@@ -215,8 +215,8 @@ Add support for Android 13 per-app language preferences  [flutter/flutter#109842
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 19 | 3
 App crash on Android device with type FlutterJNI.nativeUpdateRefreshRate [flutter/flutter#123095](https://github.com/flutter/flutter/issues/123095) | 62 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 31 | 2
-Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 2
 Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 20 | 2
+Cannot use `applicationIdSuffix` in the profile mode (Flutter 3.32) [flutter/flutter#169215](https://github.com/flutter/flutter/issues/169215) | 20 | 2
 
 #### Web
 
@@ -1554,23 +1554,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
-<a name="flutter-flutter-169746-graph"></a>
-### systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1
-  <sub>[flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) &mdash; 19 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
-    y-axis "Reactions" 0 --> 20
-    line [15, 16, 16, 16, 16, 16, 17, 19, 19, 19, 19, 19, 19]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160725-graph"></a>
 ### Laggy First Keyboard Open (Physical iOS Device)
   <sub>[flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) &mdash; 19 total reactions, 6 recent reactions</sub><br />
@@ -1583,6 +1566,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
     y-axis "Reactions" 0 --> 20
     line [0, 13, 13, 13, 14, 14, 16, 16, 16, 16, 18, 19, 19]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-169746-graph"></a>
+### systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1
+  <sub>[flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) &mdash; 19 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15]
+    y-axis "Reactions" 0 --> 20
+    line [15, 16, 16, 16, 16, 16, 17, 19, 19, 19, 19, 19, 19]
   ```
 
   </details>
