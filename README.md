@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-09-22 to 2025-12-22.
+Issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ RFC: Seeking feedback on improving dev experience when working on accessibility 
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-framework` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#17457
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-design` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`f: cupertino` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 927 | [78](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 105 | [14](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ When popping a route, controls should reacquire focus without opening the keyboa
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-accessibility` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-go_router` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-tool` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-engine` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 340 | [19](#flutter-flutter-18443-graph)
@@ -176,7 +176,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-ios` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-android` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-web` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`team-ecosystem` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`dart-lang/sdk` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-09-22 to 2025-12-22.
+`dart-lang/language` issues that received the most reactions from 2025-09-22 to 2025-12-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
