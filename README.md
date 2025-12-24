@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-09-22 to 2025-12-23.
+Issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ RFC: Seeking feedback on improving dev experience when working on accessibility 
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-framework` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -39,7 +39,7 @@ Proposal: introduce Widget for infinite list from very_good_infinite_list packag
 [Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 233 | [20](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 227 | [20](#flutter-flutter-142845-graph)
-Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 64 | [9](#flutter-flutter-81005-graph)
+Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 65 | [10](#flutter-flutter-81005-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 709 | [7](#flutter-flutter-30701-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 202 | [7](#flutter-flutter-45336-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 142 | [7](#flutter-flutter-63323-graph)
@@ -50,7 +50,7 @@ Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#17457
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-design` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`f: cupertino` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 927 | [78](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 105 | [14](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ When popping a route, controls should reacquire focus without opening the keyboa
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-accessibility` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-go_router` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-tool` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-engine` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 340 | [19](#flutter-flutter-18443-graph)
@@ -176,7 +176,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-ios` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-android` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-web` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`team-ecosystem` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`dart-lang/sdk` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-09-22 to 2025-12-23.
+`dart-lang/language` issues that received the most reactions from 2025-09-22 to 2025-12-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -993,6 +993,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-81005-graph"></a>
+### Jump to index in sliver world
+  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 65 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22]
+    y-axis "Reactions"
+    line [57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 62, 64, 64, 65]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-1415-graph"></a>
 ### Dart treats a final nullable property as nullable even after checking that the property is not  null
   <sub>[dart-lang/language#1415](https://github.com/dart-lang/language/issues/1415) &mdash; 52 total reactions, 10 recent reactions</sub><br />
@@ -1056,23 +1073,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22]
     y-axis "Reactions"
     line [164, 164, 165, 165, 165, 168, 171, 173, 173, 173, 173, 173, 173, 173]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-81005-graph"></a>
-### Jump to index in sliver world
-  <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 64 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 22, Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22]
-    y-axis "Reactions"
-    line [57, 57, 57, 57, 58, 58, 58, 59, 60, 60, 62, 64, 64, 64]
   ```
 
   </details>
