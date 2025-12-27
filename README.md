@@ -10,8 +10,8 @@ Issue | Total reactions | Recent reactions
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 933 | [76](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 619 | [62](#flutter-flutter-170310-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 62 | [62](#flutter-flutter-178549-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 49 | [49](#flutter-flutter-177992-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 61 | [48](#flutter-flutter-175099-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 48 | [48](#flutter-flutter-177992-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 692 | [45](#flutter-flutter-168813-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 42 | [42](#flutter-flutter-179012-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 37 | [37](#dart-lang-sdk-61957-graph)
@@ -169,8 +169,8 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2032 | 4
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 333 | 4
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 53 | 4
+[linux] Do not use header bar by default on Wayland [flutter/flutter#111453](https://github.com/flutter/flutter/issues/111453) | 21 | 4
 [Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 4
-Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 57 | 3
 
 ### Platforms
 
@@ -180,8 +180,8 @@ Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [f
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 49 | [49](#flutter-flutter-177992-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 61 | [48](#flutter-flutter-175099-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 48 | [48](#flutter-flutter-177992-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 72 | [31](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 32 | [19](#flutter-flutter-175962-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 375 | [13](#flutter-flutter-110431-graph)
@@ -398,6 +398,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-177992-graph"></a>
+### Overlays close immediately after opening on iPadOS 26.1
+  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 49 total reactions, 49 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 28, 38, 43, 48, 48, 49]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-175099-graph"></a>
 ### [iOS] Tap interactions not working on iOS 26 for webview_flutter
   <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 61 total reactions, 48 recent reactions</sub><br />
@@ -410,23 +427,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22]
     y-axis "Reactions"
     line [0, 0, 14, 14, 18, 25, 33, 38, 45, 49, 51, 60, 61]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-177992-graph"></a>
-### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 48 total reactions, 48 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 28, 38, 43, 48, 48, 48]
   ```
 
   </details>
