@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-09-29 to 2025-12-27.
+Issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implicit coercion through implicit constructors. [dart-lang/language#3704](https
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-framework` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-design` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`f: cupertino` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 933 | [76](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 105 | [14](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-accessibility` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-go_router` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-tool` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-engine` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 34 | [19](#flutter-flutter-174980-graph)
@@ -176,7 +176,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-ios` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-android` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Support to manually dispose a `WebViewController` [flutter/flutter#119616](https
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-web` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`team-ecosystem` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`dart-lang/sdk` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-09-29 to 2025-12-27.
+`dart-lang/language` issues that received the most reactions from 2025-09-29 to 2025-12-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
