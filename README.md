@@ -7,12 +7,12 @@ Issues that received the most reactions from 2025-09-29 to 2025-12-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 935 | [78](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 621 | [64](#flutter-flutter-170310-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 933 | [76](#flutter-flutter-101479-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 623 | [66](#flutter-flutter-170310-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 62 | [62](#flutter-flutter-178549-graph)
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 52 | [52](#flutter-flutter-177992-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 61 | [48](#flutter-flutter-175099-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 693 | [46](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 689 | [42](#flutter-flutter-168813-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 42 | [42](#flutter-flutter-179012-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 38 | [38](#dart-lang-sdk-61957-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 72 | [31](#flutter-flutter-172434-graph)
@@ -39,9 +39,9 @@ Proposal: introduce Widget for infinite list from very_good_infinite_list packag
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 234 | [21](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 228 | [21](#flutter-flutter-142845-graph)
 [Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
+Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 203 | [8](#flutter-flutter-45336-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 65 | [8](#flutter-flutter-81005-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 709 | [7](#flutter-flutter-30701-graph)
-Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 202 | [7](#flutter-flutter-45336-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 142 | [6](#flutter-flutter-63323-graph)
 Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/flutter/flutter/issues/69949) | 106 | [6](#flutter-flutter-69949-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 246 | [5](#flutter-flutter-138614-graph)
@@ -54,34 +54,33 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 935 | [78](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 621 | [64](#flutter-flutter-170310-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 693 | [46](#flutter-flutter-168813-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 933 | [76](#flutter-flutter-101479-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 623 | [66](#flutter-flutter-170310-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 689 | [42](#flutter-flutter-168813-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 146 | [8](#flutter-flutter-102560-graph)
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 25 | [7](#flutter-flutter-42588-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | 4
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
 Date Time Picker needs seconds picker [flutter/flutter#23764](https://github.com/flutter/flutter/issues/23764) | 34 | 3
 Background Clipping in Dismissible [flutter/flutter#56812](https://github.com/flutter/flutter/issues/56812) | 19 | 3
-Support Material 3 motion - Transitions [flutter/flutter#116526](https://github.com/flutter/flutter/issues/116526) | 100 | 2
 Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter/flutter#40601](https://github.com/flutter/flutter/issues/40601) | 82 | 2
-(Material3) Cannot Theme `FilledButton` and `FilledButton.tonal` Variants Separately [flutter/flutter#118063](https://github.com/flutter/flutter/issues/118063) | 32 | 2
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 2
+(Material3) Cannot Theme `FilledButton` and `FilledButton.tonal` Variants Separately [flutter/flutter#118063](https://github.com/flutter/flutter/issues/118063) | 32 | 2
 Add open and close animations for MenuAnchor [flutter/flutter#135025](https://github.com/flutter/flutter/issues/135025) | 18 | 2
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 273 | 1
+[proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 119 | 1
 
 #### Cupertino
 
 `f: cupertino` issues that received the most reactions from 2025-09-29 to 2025-12-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 935 | [78](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 621 | [64](#flutter-flutter-170310-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 933 | [76](#flutter-flutter-101479-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 623 | [66](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
-Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 2
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
+Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 2
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 119 | 1
-Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 46 | 1
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 17 | 1
 CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flutter#46598](https://github.com/flutter/flutter/issues/46598) | 14 | 1
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 79 | 0
@@ -89,7 +88,8 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
-Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
@@ -192,8 +192,8 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 156 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 117 | 3
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 67 | 3
-Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 3
+Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 [iOS] VoiceOver does NOT work after a hot-restart on iOS [flutter/flutter#109391](https://github.com/flutter/flutter/issues/109391) | 18 | 3
 
 #### Android
@@ -216,7 +216,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 App crash on Android device with type FlutterJNI.nativeUpdateRefreshRate [flutter/flutter#123095](https://github.com/flutter/flutter/issues/123095) | 62 | 2
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 45 | 2
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 31 | 2
-Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 20 | 2
+Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 29 | 2
 
 #### Web
 
@@ -313,11 +313,11 @@ Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Implicit coercion through implicit constructors. [dart-lang/language#3704](https://github.com/dart-lang/language/issues/3704) | 36 | [24](#dart-lang-language-3704-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2290 | [17](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2289 | [16](#dart-lang-language-314-graph)
 Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 21 | [16](#dart-lang-language-4185-graph)
 Enable functions to store data between calls / know from where they were called [dart-lang/language#1427](https://github.com/dart-lang/language/issues/1427) | 17 | [16](#dart-lang-language-1427-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1218 | [14](#dart-lang-language-723-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 269 | [10](#dart-lang-language-2364-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 268 | [9](#dart-lang-language-2364-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 207 | [9](#dart-lang-language-4271-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 257 | [8](#dart-lang-language-524-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1271 | [7](#dart-lang-language-69-graph)
@@ -349,7 +349,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 935 total reactions, 78 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 933 total reactions, 76 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -358,7 +358,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
-    line [862, 863, 871, 872, 877, 877, 879, 886, 888, 892, 894, 925, 934, 935]
+    line [862, 863, 871, 872, 877, 877, 879, 886, 888, 892, 894, 925, 934, 933]
   ```
 
   </details>
@@ -366,7 +366,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 621 total reactions, 64 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 623 total reactions, 66 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -375,7 +375,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
-    line [562, 569, 573, 583, 587, 588, 591, 595, 608, 609, 612, 617, 620, 621]
+    line [562, 569, 573, 583, 587, 588, 591, 595, 608, 609, 612, 617, 620, 623]
   ```
 
   </details>
@@ -434,7 +434,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 693 total reactions, 46 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 689 total reactions, 42 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -443,7 +443,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
-    line [654, 658, 659, 661, 666, 671, 672, 676, 684, 685, 687, 691, 692, 693]
+    line [654, 658, 659, 661, 666, 671, 672, 676, 684, 685, 687, 691, 692, 689]
   ```
 
   </details>
@@ -670,23 +670,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-314-graph"></a>
-### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2290 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
-    y-axis "Reactions"
-    line [2275, 2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2290]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61822-graph"></a>
 ### `dart fix` should apply fixes from plugins
   <sub>[dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -699,6 +682,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 17, 17, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-314-graph"></a>
+### Add data classes
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2289 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    y-axis "Reactions"
+    line [2275, 2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2289]
   ```
 
   </details>
@@ -927,7 +927,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="dart-lang-language-2364-graph"></a>
 ### Primary constructor on classes
-  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 269 total reactions, 10 recent reactions</sub><br />
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 268 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -936,7 +936,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
-    line [259, 259, 260, 261, 260, 261, 265, 265, 265, 265, 266, 267, 269, 269]
+    line [259, 259, 260, 261, 260, 261, 265, 265, 265, 265, 266, 267, 269, 268]
   ```
 
   </details>
@@ -1022,6 +1022,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
     line [207, 209, 211, 211, 214, 214, 215, 215, 215, 215, 215, 215, 215, 215]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-45336-graph"></a>
+### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
+  <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 203 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    y-axis "Reactions"
+    line [196, 197, 197, 199, 199, 199, 200, 200, 200, 200, 201, 202, 202, 203]
   ```
 
   </details>
@@ -1141,23 +1158,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
     line [232, 232, 232, 232, 233, 235, 236, 236, 237, 238, 238, 238, 239, 239]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-45336-graph"></a>
-### Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd" 
-  <sub>[flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) &mdash; 202 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
-    y-axis "Reactions"
-    line [196, 197, 197, 199, 199, 199, 200, 200, 200, 200, 201, 202, 202, 202]
   ```
 
   </details>
