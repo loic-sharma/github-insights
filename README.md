@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-09-29 to 2025-12-30.
+Issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implicit coercion through implicit constructors. [dart-lang/language#3704](https
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-framework` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-design` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -64,22 +64,22 @@ Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/
 Date Time Picker needs seconds picker [flutter/flutter#23764](https://github.com/flutter/flutter/issues/23764) | 34 | 3
 Background Clipping in Dismissible [flutter/flutter#56812](https://github.com/flutter/flutter/issues/56812) | 19 | 3
 Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter/flutter#40601](https://github.com/flutter/flutter/issues/40601) | 82 | 2
-Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 2
 (Material3) Cannot Theme `FilledButton` and `FilledButton.tonal` Variants Separately [flutter/flutter#118063](https://github.com/flutter/flutter/issues/118063) | 32 | 2
+Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 2
 Add open and close animations for MenuAnchor [flutter/flutter#135025](https://github.com/flutter/flutter/issues/135025) | 18 | 2
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 273 | 1
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 119 | 1
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`f: cupertino` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 933 | [76](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 623 | [66](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
-Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 2
+Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 119 | 1
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 17 | 1
 CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flutter#46598](https://github.com/flutter/flutter/issues/46598) | 14 | 1
@@ -89,11 +89,11 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 105 | [14](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-accessibility` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-go_router` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-tool` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-engine` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 36 | [21](#flutter-flutter-174980-graph)
@@ -176,7 +176,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-ios` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -192,13 +192,13 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 156 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 117 | 3
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 67 | 3
-Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 3
+Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 24 | 3
 [iOS] VoiceOver does NOT work after a hot-restart on iOS [flutter/flutter#109391](https://github.com/flutter/flutter/issues/109391) | 18 | 3
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-android` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-web` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -252,19 +252,19 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 145 | [6](#flutter-flutter-41724-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 222 | [5](#flutter-flutter-41980-graph)
 [in_app_purchase] Add support for Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 73 | [5](#flutter-flutter-97050-graph)
+Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 22 | [5](#flutter-flutter-110585-graph)
 [video_player] add Linux support [flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) | 55 | 4
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 28 | 4
-Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 21 | 4
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 63 | 3
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 342 | 2
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 86 | 2
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 73 | 2
 Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 18 | 2
-Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 80 | 1
+Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 226 | 1
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`team-ecosystem` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`dart-lang/sdk` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-09-29 to 2025-12-30.
+`dart-lang/language` issues that received the most reactions from 2025-09-29 to 2025-12-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1634,6 +1634,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
     line [27, 27, 27, 27, 28, 29, 29, 30, 32, 32, 32, 32, 32, 32]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-110585-graph"></a>
+### Support building Windows apps from Linux
+  <sub>[flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) &mdash; 22 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    y-axis "Reactions"
+    line [17, 17, 18, 20, 20, 21, 21, 21, 21, 21, 21, 21, 21, 22]
   ```
 
   </details>
