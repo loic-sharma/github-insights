@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-09-29 to 2026-01-01.
+Issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implicit coercion through implicit constructors. [dart-lang/language#3704](https
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-framework` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-design` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,14 +72,14 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`f: cupertino` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 933 | [76](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 623 | [66](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
-Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 2
+Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 2
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 119 | 1
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 17 | 1
 CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flutter#46598](https://github.com/flutter/flutter/issues/46598) | 14 | 1
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 105 | [14](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-accessibility` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-go_router` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-tool` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-engine` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 36 | [21](#flutter-flutter-174980-graph)
@@ -169,14 +169,14 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2032 | 4
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 333 | 4
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 53 | 4
+Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 50 | 4
 [linux] Do not use header bar by default on Wayland [flutter/flutter#111453](https://github.com/flutter/flutter/issues/111453) | 21 | 4
-[Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 4
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-ios` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-android` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-web` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`team-ecosystem` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`dart-lang/sdk` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -296,8 +296,8 @@ Issue | Total reactions | Recent reactions
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 216 | [12](#dart-lang-sdk-55281-graph)
 [analysis_server_plugin] Access analysis_options.yaml in plugins [dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) | 9 | [9](#dart-lang-sdk-61755-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 63 | [6](#dart-lang-sdk-56841-graph)
+Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) | 15 | [6](#dart-lang-sdk-53906-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 75 | [5](#dart-lang-sdk-53884-graph)
-Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) | 14 | [5](#dart-lang-sdk-53906-graph)
 Support using Dart embeded into other executables [dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) | 5 | [5](#dart-lang-sdk-61824-graph)
 [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 66 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 62 | 4
@@ -308,7 +308,7 @@ Feature request: API to allow setting thread pinning for Isolates [dart-lang/sdk
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-09-29 to 2026-01-01.
+`dart-lang/language` issues that received the most reactions from 2025-09-29 to 2026-01-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1469,6 +1469,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="dart-lang-sdk-53906-graph"></a>
+### Add Brotli support
+  <sub>[dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) &mdash; 15 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    y-axis "Reactions" 0 --> 20
+    line [9, 9, 9, 9, 9, 10, 13, 14, 14, 14, 14, 14, 14, 15]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-138614-graph"></a>
 ### Preserve WillPopScope as an alternate for PopScope
   <sub>[flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) &mdash; 246 total reactions, 5 recent reactions</sub><br />
@@ -1651,23 +1668,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
     line [17, 17, 18, 20, 20, 21, 21, 21, 21, 21, 21, 21, 21, 22]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-53906-graph"></a>
-### Add Brotli support
-  <sub>[dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) &mdash; 14 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Sep 29, Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
-    y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 9, 10, 13, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
