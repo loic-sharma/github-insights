@@ -8,12 +8,12 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 934 | [72](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 625 | [63](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 626 | [64](#flutter-flutter-170310-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 62 | [62](#flutter-flutter-178549-graph)
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 54 | [54](#flutter-flutter-177992-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 61 | [48](#flutter-flutter-175099-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 38 | [38](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 39 | [39](#dart-lang-sdk-61957-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 691 | [37](#flutter-flutter-168813-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 74 | [31](#flutter-flutter-172434-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
@@ -55,7 +55,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 934 | [72](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 625 | [63](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 626 | [64](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 691 | [37](#flutter-flutter-168813-graph)
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 25 | [7](#flutter-flutter-42588-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 147 | [6](#flutter-flutter-102560-graph)
@@ -76,7 +76,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 934 | [72](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 625 | [63](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 626 | [64](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 119 | 1
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 1
@@ -290,9 +290,9 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 38 | [38](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 39 | [39](#dart-lang-sdk-61957-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [17](#dart-lang-sdk-61822-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 216 | [12](#dart-lang-sdk-55281-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 217 | [13](#dart-lang-sdk-55281-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 69 | [12](#dart-lang-sdk-56841-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 15 | [12](#dart-lang-sdk-61635-graph)
 [analysis_server_plugin] Access analysis_options.yaml in plugins [dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) | 9 | [9](#dart-lang-sdk-61755-graph)
@@ -304,7 +304,7 @@ dart compile exe support static linking of C code [dart-lang/sdk#47718](https://
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 33 | 4
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 26 | 4
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 19 | 4
-`dart analyze` should not spawn analyzer_plugins [dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) | 14 | 4
+Lightweight communication of typed data between long-lived isolates [dart-lang/sdk#52577](https://github.com/dart-lang/sdk/issues/52577) | 14 | 4
 
 ### Dart language
 
@@ -319,10 +319,10 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1218 | [13](#dart-lang-language-723-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 269 | [10](#dart-lang-language-2364-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 29 | [9](#dart-lang-language-4154-graph)
+Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 561 | [8](#dart-lang-language-83-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 257 | [8](#dart-lang-language-524-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 207 | [8](#dart-lang-language-4271-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1271 | [7](#dart-lang-language-69-graph)
-Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 560 | [7](#dart-lang-language-83-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 239 | [7](#dart-lang-language-399-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 34 | [7](#dart-lang-language-4462-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
@@ -366,7 +366,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 625 total reactions, 63 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 626 total reactions, 64 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -375,7 +375,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   xychart-beta
     x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
-    line [569, 573, 583, 587, 588, 591, 595, 608, 609, 612, 617, 620, 625]
+    line [569, 573, 583, 587, 588, 591, 595, 608, 609, 612, 617, 620, 626]
   ```
 
   </details>
@@ -451,7 +451,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
 <a name="dart-lang-sdk-61957-graph"></a>
 ### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 38 total reactions, 38 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 39 total reactions, 39 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -460,7 +460,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   xychart-beta
     x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 8, 15, 23, 31, 34, 36, 37, 38]
+    line [0, 0, 0, 0, 0, 8, 15, 23, 31, 34, 36, 37, 39]
   ```
 
   </details>
@@ -806,6 +806,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="dart-lang-sdk-55281-graph"></a>
+### Dart Analyzer very slow/stuck
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 217 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    y-axis "Reactions"
+    line [205, 208, 212, 212, 212, 212, 214, 215, 216, 216, 216, 216, 217]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-168635-graph"></a>
 ### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
   <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 35 total reactions, 13 recent reactions</sub><br />
@@ -835,23 +852,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
     line [224, 224, 224, 225, 225, 225, 225, 228, 230, 233, 235, 235, 236]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-55281-graph"></a>
-### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 216 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
-    y-axis "Reactions"
-    line [205, 208, 212, 212, 212, 212, 214, 215, 216, 216, 216, 216, 216]
   ```
 
   </details>
@@ -1027,6 +1027,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="dart-lang-language-83-graph"></a>
+### Sum/union types and type matching
+  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 561 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    y-axis "Reactions"
+    line [553, 553, 553, 557, 558, 558, 558, 558, 558, 558, 560, 560, 561]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-524-graph"></a>
 ### Feature: Statically checked declaration-site variance
   <sub>[dart-lang/language#524](https://github.com/dart-lang/language/issues/524) &mdash; 257 total reactions, 8 recent reactions</sub><br />
@@ -1124,23 +1141,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
     y-axis "Reactions"
     line [1264, 1265, 1265, 1266, 1266, 1269, 1269, 1270, 1270, 1271, 1271, 1271, 1271]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-83-graph"></a>
-### Sum/union types and type matching
-  <sub>[dart-lang/language#83](https://github.com/dart-lang/language/issues/83) &mdash; 560 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
-    y-axis "Reactions"
-    line [553, 553, 553, 557, 558, 558, 558, 558, 558, 558, 560, 560, 560]
   ```
 
   </details>
