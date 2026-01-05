@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-10-06 to 2026-01-04.
+Issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-framework` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-design` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,15 +72,15 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`f: cupertino` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 934 | [72](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 626 | [64](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 119 | 1
-Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 1
 Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 1
+Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 1
 Expose access to iOS's 'preferredScreenEdgesDeferringSystemGestures' [flutter/flutter#65146](https://github.com/flutter/flutter/issues/65146) | 17 | 1
 CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flutter#46598](https://github.com/flutter/flutter/issues/46598) | 14 | 1
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 79 | 0
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 105 | [14](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-accessibility` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-go_router` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-tool` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-engine` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 36 | [18](#flutter-flutter-174980-graph)
@@ -176,7 +176,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-ios` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-android` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-web` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://g
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`team-ecosystem` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`dart-lang/sdk` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -304,11 +304,11 @@ dart compile exe support static linking of C code [dart-lang/sdk#47718](https://
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 33 | 4
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 26 | 4
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 19 | 4
-Lightweight communication of typed data between long-lived isolates [dart-lang/sdk#52577](https://github.com/dart-lang/sdk/issues/52577) | 14 | 4
+`dart analyze` should not spawn analyzer_plugins [dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) | 14 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-10-06 to 2026-01-04.
+`dart-lang/language` issues that received the most reactions from 2025-10-06 to 2026-01-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -339,9 +339,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 177, 179, 180, 182, 182, 182, 182, 182]
+    line [0, 0, 0, 0, 0, 177, 179, 180, 182, 182, 182, 182, 182, 182]
   ```
 
   </details>
@@ -356,9 +356,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [863, 871, 872, 877, 877, 879, 886, 888, 892, 894, 925, 934, 934]
+    line [863, 871, 872, 877, 877, 879, 886, 888, 892, 894, 925, 934, 934, 934]
   ```
 
   </details>
@@ -373,9 +373,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [569, 573, 583, 587, 588, 591, 595, 608, 609, 612, 617, 620, 626]
+    line [569, 573, 583, 587, 588, 591, 595, 608, 609, 612, 617, 620, 626, 626]
   ```
 
   </details>
@@ -390,9 +390,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 15, 18, 18, 20, 60, 60, 62, 62]
+    line [0, 0, 0, 0, 0, 15, 18, 18, 20, 60, 60, 62, 62, 62]
   ```
 
   </details>
@@ -407,9 +407,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 28, 38, 43, 48, 48, 52, 54]
+    line [0, 0, 0, 0, 0, 0, 28, 38, 43, 48, 48, 52, 54, 54]
   ```
 
   </details>
@@ -424,9 +424,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 14, 14, 18, 25, 33, 38, 45, 49, 51, 60, 61, 61]
+    line [0, 14, 14, 18, 25, 33, 38, 45, 49, 51, 60, 61, 61, 61]
   ```
 
   </details>
@@ -441,9 +441,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 42, 42, 42, 42, 42, 43]
+    line [0, 0, 0, 0, 0, 0, 0, 42, 42, 42, 42, 42, 43, 43]
   ```
 
   </details>
@@ -458,9 +458,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 8, 15, 23, 31, 34, 36, 37, 39]
+    line [0, 0, 0, 0, 0, 8, 15, 23, 31, 34, 36, 37, 39, 39]
   ```
 
   </details>
@@ -475,9 +475,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [658, 659, 661, 666, 671, 672, 676, 684, 685, 687, 691, 692, 691]
+    line [658, 659, 661, 666, 671, 672, 676, 684, 685, 687, 691, 692, 691, 691]
   ```
 
   </details>
@@ -492,9 +492,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [50, 56, 59, 63, 64, 65, 68, 70, 70, 71, 71, 72, 74]
+    line [50, 56, 59, 63, 64, 65, 68, 70, 70, 71, 71, 72, 74, 74]
   ```
 
   </details>
@@ -509,9 +509,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 30, 30, 30, 30, 30, 30, 30, 30]
+    line [0, 0, 0, 0, 0, 30, 30, 30, 30, 30, 30, 30, 30, 30]
   ```
 
   </details>
@@ -526,9 +526,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 27, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28]
+    line [0, 0, 27, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28]
   ```
 
   </details>
@@ -543,9 +543,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [12, 12, 12, 12, 12, 34, 35, 35, 35, 36, 36, 36, 36]
+    line [12, 12, 12, 12, 12, 34, 35, 35, 35, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -560,9 +560,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [207, 210, 212, 215, 223, 223, 224, 224, 225, 227, 227, 228, 229]
+    line [207, 210, 212, 215, 223, 223, 224, 224, 225, 227, 227, 228, 229, 229]
   ```
 
   </details>
@@ -577,9 +577,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [219, 219, 219, 220, 220, 220, 221, 223, 228, 228, 230, 234, 234]
+    line [219, 219, 219, 220, 220, 220, 221, 223, 228, 228, 230, 234, 234, 234]
   ```
 
   </details>
@@ -594,9 +594,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 19, 19, 20, 20, 21, 21, 21]
+    line [0, 0, 0, 0, 0, 0, 19, 19, 20, 20, 21, 21, 21, 21]
   ```
 
   </details>
@@ -611,9 +611,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [100, 107, 113, 114, 115, 116, 116, 116, 117, 118, 118, 118, 118]
+    line [100, 107, 113, 114, 115, 116, 116, 116, 117, 118, 118, 118, 118, 118]
   ```
 
   </details>
@@ -628,9 +628,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [13, 19, 24, 26, 28, 28, 29, 29, 31, 31, 31, 32, 32]
+    line [13, 19, 24, 26, 28, 28, 29, 29, 31, 31, 31, 32, 32, 32]
   ```
 
   </details>
@@ -645,9 +645,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 20, 22, 23, 25, 26, 32, 33, 34, 36]
+    line [19, 19, 19, 19, 20, 22, 23, 25, 26, 32, 33, 34, 36, 36]
   ```
 
   </details>
@@ -662,9 +662,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 17, 17, 17]
+    line [0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 17, 17, 17, 17]
   ```
 
   </details>
@@ -679,9 +679,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [329, 329, 331, 331, 331, 336, 339, 339, 340, 340, 340, 340, 342]
+    line [329, 329, 331, 331, 331, 336, 339, 339, 340, 340, 340, 340, 342, 342]
   ```
 
   </details>
@@ -696,9 +696,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 20, 20, 21, 21, 21, 21, 21, 21]
+    line [0, 0, 0, 0, 0, 20, 20, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -713,9 +713,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [1, 1, 1, 1, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+    line [1, 1, 1, 1, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -730,9 +730,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16]
   ```
 
   </details>
@@ -747,9 +747,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2289]
+    line [2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2289, 2289]
   ```
 
   </details>
@@ -764,9 +764,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [91, 91, 91, 91, 91, 92, 94, 96, 102, 104, 105, 105, 105]
+    line [91, 91, 91, 91, 91, 92, 94, 96, 102, 104, 105, 105, 105, 105]
   ```
 
   </details>
@@ -781,9 +781,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [1207, 1207, 1207, 1206, 1207, 1209, 1209, 1210, 1211, 1216, 1217, 1218, 1218]
+    line [1207, 1207, 1207, 1206, 1207, 1209, 1209, 1210, 1211, 1216, 1217, 1218, 1218, 1218]
   ```
 
   </details>
@@ -798,9 +798,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [363, 363, 369, 369, 369, 371, 371, 372, 372, 375, 375, 375, 375]
+    line [363, 363, 369, 369, 369, 371, 371, 372, 372, 375, 375, 375, 375, 375]
   ```
 
   </details>
@@ -815,9 +815,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [205, 208, 212, 212, 212, 212, 214, 215, 216, 216, 216, 216, 217]
+    line [205, 208, 212, 212, 212, 212, 214, 215, 216, 216, 216, 216, 217, 217]
   ```
 
   </details>
@@ -832,9 +832,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [23, 25, 27, 29, 29, 29, 30, 31, 31, 31, 34, 34, 35]
+    line [23, 25, 27, 29, 29, 29, 30, 31, 31, 31, 34, 34, 35, 35]
   ```
 
   </details>
@@ -849,9 +849,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [224, 224, 224, 225, 225, 225, 225, 228, 230, 233, 235, 235, 236]
+    line [224, 224, 224, 225, 225, 225, 225, 228, 230, 233, 235, 235, 236, 236]
   ```
 
   </details>
@@ -866,9 +866,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [57, 57, 59, 59, 59, 59, 59, 58, 61, 61, 62, 62, 69]
+    line [57, 57, 59, 59, 59, 59, 59, 58, 61, 61, 62, 62, 69, 69]
   ```
 
   </details>
@@ -883,9 +883,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 3, 3, 5, 11, 11, 11, 15, 15, 15, 15]
+    line [0, 0, 0, 3, 3, 5, 11, 11, 11, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -900,9 +900,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [542, 548, 548, 548, 547, 550, 550, 551, 552, 553, 553, 553, 553]
+    line [542, 548, 548, 548, 547, 550, 550, 551, 552, 553, 553, 553, 553, 553]
   ```
 
   </details>
@@ -917,9 +917,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [120, 120, 120, 120, 124, 130, 130, 130, 130, 131, 131, 131, 131]
+    line [120, 120, 120, 120, 124, 130, 130, 130, 130, 131, 131, 131, 131, 131]
   ```
 
   </details>
@@ -934,9 +934,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [471, 473, 473, 478, 478, 478, 478, 478, 478, 479, 479, 481, 481]
+    line [471, 473, 473, 478, 478, 478, 478, 478, 478, 479, 479, 481, 481, 481]
   ```
 
   </details>
@@ -951,9 +951,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [259, 260, 261, 260, 261, 265, 265, 265, 265, 266, 267, 269, 269]
+    line [259, 260, 261, 260, 261, 265, 265, 265, 265, 266, 267, 269, 269, 269]
   ```
 
   </details>
@@ -968,9 +968,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [22, 24, 24, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26]
+    line [22, 24, 24, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -985,9 +985,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [165, 165, 165, 168, 171, 173, 173, 173, 173, 173, 173, 173, 173]
+    line [165, 165, 165, 168, 171, 173, 173, 173, 173, 173, 173, 173, 173, 173]
   ```
 
   </details>
@@ -1002,9 +1002,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [20, 20, 21, 21, 21, 23, 23, 23, 25, 26, 26, 26, 29]
+    line [20, 20, 21, 21, 21, 23, 23, 23, 25, 26, 26, 26, 29, 29]
   ```
 
   </details>
@@ -1019,9 +1019,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 7, 7, 7, 8, 8, 9, 9, 9, 9, 9, 9]
+    line [0, 0, 7, 7, 7, 8, 8, 9, 9, 9, 9, 9, 9, 9]
   ```
 
   </details>
@@ -1036,9 +1036,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [553, 553, 553, 557, 558, 558, 558, 558, 558, 558, 560, 560, 561]
+    line [553, 553, 553, 557, 558, 558, 558, 558, 558, 558, 560, 560, 561, 561]
   ```
 
   </details>
@@ -1053,9 +1053,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [249, 249, 249, 249, 250, 250, 252, 252, 252, 253, 253, 257, 257]
+    line [249, 249, 249, 249, 250, 250, 252, 252, 252, 253, 253, 257, 257, 257]
   ```
 
   </details>
@@ -1070,9 +1070,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [199, 199, 199, 202, 203, 207, 207, 207, 207, 207, 207, 207, 207]
+    line [199, 199, 199, 202, 203, 207, 207, 207, 207, 207, 207, 207, 207, 207]
   ```
 
   </details>
@@ -1087,9 +1087,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [58, 59, 61, 61, 62, 62, 62, 62, 62, 63, 64, 64, 66]
+    line [58, 59, 61, 61, 62, 62, 62, 62, 62, 63, 64, 64, 66, 66]
   ```
 
   </details>
@@ -1104,9 +1104,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [57, 57, 58, 58, 58, 59, 60, 60, 62, 64, 64, 65, 65]
+    line [57, 57, 58, 58, 58, 59, 60, 60, 62, 64, 64, 65, 65, 65]
   ```
 
   </details>
@@ -1121,9 +1121,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [54, 54, 54, 56, 59, 59, 59, 59, 59, 60, 62, 62, 62]
+    line [54, 54, 54, 56, 59, 59, 59, 59, 59, 60, 62, 62, 62, 62]
   ```
 
   </details>
@@ -1138,9 +1138,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [1264, 1265, 1265, 1266, 1266, 1269, 1269, 1270, 1270, 1271, 1271, 1271, 1271]
+    line [1264, 1265, 1265, 1266, 1266, 1269, 1269, 1270, 1270, 1271, 1271, 1271, 1271, 1271]
   ```
 
   </details>
@@ -1155,9 +1155,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [232, 232, 232, 233, 235, 236, 236, 237, 238, 238, 238, 239, 239]
+    line [232, 232, 232, 233, 235, 236, 236, 237, 238, 238, 238, 239, 239, 239]
   ```
 
   </details>
@@ -1172,9 +1172,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [209, 211, 211, 214, 214, 215, 215, 215, 215, 215, 215, 215, 215]
+    line [209, 211, 211, 214, 214, 215, 215, 215, 215, 215, 215, 215, 215, 215]
   ```
 
   </details>
@@ -1189,9 +1189,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [197, 197, 199, 199, 199, 200, 200, 200, 200, 201, 202, 202, 203]
+    line [197, 197, 199, 199, 199, 200, 200, 200, 200, 201, 202, 202, 203, 203]
   ```
 
   </details>
@@ -1206,9 +1206,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [59, 59, 60, 60, 61, 61, 61, 64, 64, 64, 64, 64, 64]
+    line [59, 59, 60, 60, 61, 61, 61, 64, 64, 64, 64, 64, 64, 64]
   ```
 
   </details>
@@ -1223,9 +1223,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [32, 34, 34, 35, 36, 36, 36, 36, 36, 36, 36, 37, 37]
+    line [32, 34, 34, 35, 36, 36, 36, 36, 36, 36, 36, 37, 37, 37]
   ```
 
   </details>
@@ -1240,9 +1240,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [29, 29, 30, 30, 32, 32, 32, 32, 32, 32, 33, 34, 34]
+    line [29, 29, 30, 30, 32, 32, 32, 32, 32, 32, 33, 34, 34, 34]
   ```
 
   </details>
@@ -1257,9 +1257,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 25, 25, 25]
+    line [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 25, 25, 25, 25]
   ```
 
   </details>
@@ -1274,9 +1274,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 2, 4, 5, 7, 7, 7, 7, 7]
+    line [0, 0, 0, 0, 0, 2, 4, 5, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -1291,9 +1291,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [704, 704, 704, 708, 708, 708, 708, 708, 708, 709, 709, 709, 709]
+    line [704, 704, 704, 708, 708, 708, 708, 708, 708, 709, 709, 709, 709, 709]
   ```
 
   </details>
@@ -1308,9 +1308,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [666, 666, 666, 666, 666, 666, 666, 672, 672, 672, 672, 672, 672]
+    line [666, 666, 666, 666, 666, 666, 666, 672, 672, 672, 672, 672, 672, 672]
   ```
 
   </details>
@@ -1325,9 +1325,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [202, 202, 202, 202, 202, 208, 208, 208, 208, 208, 208, 208, 208]
+    line [202, 202, 202, 202, 202, 208, 208, 208, 208, 208, 208, 208, 208, 208]
   ```
 
   </details>
@@ -1342,9 +1342,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [141, 142, 143, 143, 143, 143, 143, 145, 145, 145, 146, 146, 147]
+    line [141, 142, 143, 143, 143, 143, 143, 145, 145, 145, 146, 146, 147, 147]
   ```
 
   </details>
@@ -1359,9 +1359,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [139, 139, 139, 139, 140, 141, 141, 142, 142, 143, 144, 145, 145]
+    line [139, 139, 139, 139, 140, 141, 141, 142, 142, 143, 144, 145, 145, 145]
   ```
 
   </details>
@@ -1376,9 +1376,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [68, 68, 68, 68, 68, 68, 73, 73, 73, 73, 73, 73, 74]
+    line [68, 68, 68, 68, 68, 68, 73, 73, 73, 73, 73, 73, 74, 74]
   ```
 
   </details>
@@ -1393,9 +1393,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [42, 43, 45, 46, 47, 47, 48, 48, 48, 48, 48, 48, 48]
+    line [42, 43, 45, 46, 47, 47, 48, 48, 48, 48, 48, 48, 48, 48]
   ```
 
   </details>
@@ -1410,9 +1410,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [27, 27, 28, 29, 29, 29, 29, 29, 29, 33, 33, 33, 33]
+    line [27, 27, 28, 29, 29, 29, 29, 29, 29, 33, 33, 33, 33, 33]
   ```
 
   </details>
@@ -1427,9 +1427,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 20, 21, 21, 21, 21, 21, 21, 21]
+    line [16, 16, 16, 16, 16, 20, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1444,9 +1444,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [13, 13, 14, 14, 16, 16, 16, 16, 18, 19, 19, 19, 19]
+    line [13, 13, 14, 14, 16, 16, 16, 16, 18, 19, 19, 19, 19, 19]
   ```
 
   </details>
@@ -1461,9 +1461,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 10, 13, 14, 14, 14, 14, 14, 14, 15]
+    line [9, 9, 9, 9, 10, 13, 14, 14, 14, 14, 14, 14, 15, 15]
   ```
 
   </details>
@@ -1478,9 +1478,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [241, 241, 242, 242, 242, 245, 245, 245, 246, 246, 246, 246, 246]
+    line [241, 241, 242, 242, 242, 245, 245, 245, 246, 246, 246, 246, 246, 246]
   ```
 
   </details>
@@ -1495,9 +1495,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [217, 218, 218, 219, 219, 219, 220, 220, 220, 220, 222, 222, 222]
+    line [217, 218, 218, 219, 219, 219, 220, 220, 220, 220, 222, 222, 222, 222]
   ```
 
   </details>
@@ -1512,9 +1512,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [155, 155, 155, 155, 155, 156, 156, 158, 158, 159, 159, 160, 160]
+    line [155, 155, 155, 155, 155, 156, 156, 158, 158, 159, 159, 160, 160, 160]
   ```
 
   </details>
@@ -1529,9 +1529,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [120, 121, 121, 121, 121, 121, 121, 123, 125, 125, 125, 125, 125]
+    line [120, 121, 121, 121, 121, 121, 121, 123, 125, 125, 125, 125, 125, 125]
   ```
 
   </details>
@@ -1546,9 +1546,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [93, 94, 94, 94, 94, 95, 96, 96, 96, 96, 98, 98, 98]
+    line [93, 94, 94, 94, 94, 95, 96, 96, 96, 96, 98, 98, 98, 98]
   ```
 
   </details>
@@ -1563,9 +1563,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [71, 71, 71, 72, 75, 75, 75, 75, 75, 75, 75, 75, 76]
+    line [71, 71, 71, 72, 75, 75, 75, 75, 75, 75, 75, 75, 76, 76]
   ```
 
   </details>
@@ -1580,9 +1580,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [70, 70, 70, 70, 70, 70, 70, 70, 71, 71, 73, 75, 75]
+    line [70, 70, 70, 70, 70, 70, 70, 70, 71, 71, 73, 75, 75, 75]
   ```
 
   </details>
@@ -1597,9 +1597,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [51, 52, 52, 52, 56, 56, 56, 56, 56, 56, 56, 56, 56]
+    line [51, 52, 52, 52, 56, 56, 56, 56, 56, 56, 56, 56, 56, 56]
   ```
 
   </details>
@@ -1614,9 +1614,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [50, 50, 50, 51, 52, 53, 54, 54, 55, 55, 55, 55, 54]
+    line [50, 50, 50, 51, 52, 53, 54, 54, 55, 55, 55, 55, 54, 54]
   ```
 
   </details>
@@ -1631,9 +1631,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [46, 46, 46, 47, 48, 48, 48, 48, 48, 49, 49, 49, 51]
+    line [46, 46, 46, 47, 48, 48, 48, 48, 48, 49, 49, 49, 51, 51]
   ```
 
   </details>
@@ -1648,9 +1648,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [29, 29, 31, 33, 33, 33, 33, 33, 33, 33, 34, 34, 34]
+    line [29, 29, 31, 33, 33, 33, 33, 33, 33, 33, 34, 34, 34, 34]
   ```
 
   </details>
@@ -1665,9 +1665,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [27, 27, 27, 28, 29, 29, 30, 32, 32, 32, 32, 32, 32]
+    line [27, 27, 27, 28, 29, 29, 30, 32, 32, 32, 32, 32, 32, 32]
   ```
 
   </details>
@@ -1682,9 +1682,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [24, 24, 24, 24, 25, 25, 26, 26, 26, 28, 28, 28, 29]
+    line [24, 24, 24, 24, 25, 25, 26, 26, 26, 28, 28, 28, 29, 29]
   ```
 
   </details>
@@ -1699,9 +1699,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [17, 18, 20, 20, 21, 21, 21, 21, 21, 21, 21, 21, 22]
+    line [17, 18, 20, 20, 21, 21, 21, 21, 21, 21, 21, 21, 22, 22]
   ```
 
   </details>
@@ -1716,9 +1716,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29]
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5]
+    line [0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5]
   ```
 
   </details>
