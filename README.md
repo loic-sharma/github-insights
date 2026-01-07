@@ -89,7 +89,7 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
@@ -184,7 +184,7 @@ Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992]
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 62 | [49](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 74 | [31](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 32 | [19](#flutter-flutter-175962-graph)
-Flutter 3.38.1: Failed to Verify when Submitting to App Store Connect [flutter/flutter#178602](https://github.com/flutter/flutter/issues/178602) | 18 | [18](#flutter-flutter-178602-graph)
+Flutter 3.38.1: Failed to Verify when Submitting to App Store Connect [flutter/flutter#178602](https://github.com/flutter/flutter/issues/178602) | 19 | [19](#flutter-flutter-178602-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 375 | [13](#flutter-flutter-110431-graph)
 Blur filter isn't clipped when using border radius [flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) | 64 | [7](#flutter-flutter-115926-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 55 | [6](#flutter-flutter-20663-graph)
@@ -232,13 +232,13 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 78 | 4
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 25 | 4
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 662 | 3
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 3
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 209 | 3
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 103 | 3
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 46 | 3
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 42 | 3
 [Proposal] Disable the browser navigation stack in the Flutter web app  [flutter/flutter#108114](https://github.com/flutter/flutter/issues/108114) | 21 | 3
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 16 | 3
-[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 344 | 2
 
 #### Desktop
 
@@ -276,13 +276,13 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 78 | 4
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 25 | 4
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 662 | 3
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 3
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 209 | 3
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 103 | 3
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 46 | 3
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 42 | 3
 [Proposal] Disable the browser navigation stack in the Flutter web app  [flutter/flutter#108114](https://github.com/flutter/flutter/issues/108114) | 21 | 3
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 16 | 3
-[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 344 | 2
 
 ### Dart SDK
 
@@ -298,8 +298,8 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 [analysis_server_plugin] Access analysis_options.yaml in plugins [dart-lang/sdk#61755](https://github.com/dart-lang/sdk/issues/61755) | 9 | [9](#dart-lang-sdk-61755-graph)
 Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) | 15 | [6](#dart-lang-sdk-53906-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 75 | [5](#dart-lang-sdk-53884-graph)
-Support using Dart embeded into other executables [dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) | 5 | [5](#dart-lang-sdk-61824-graph)
 RegExp is deprecated in dart [dart-lang/sdk#62012](https://github.com/dart-lang/sdk/issues/62012) | 5 | [5](#dart-lang-sdk-62012-graph)
+Support using Dart embeded into other executables [dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) | 5 | [5](#dart-lang-sdk-61824-graph)
 [ffi/js-interop/wasm] Unified API for using dart:ffi and JS Interop with WASM [dart-lang/sdk#46690](https://github.com/dart-lang/sdk/issues/46690) | 66 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 62 | 4
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 33 | 4
@@ -313,9 +313,9 @@ Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Implicit coercion through implicit constructors. [dart-lang/language#3704](https://github.com/dart-lang/language/issues/3704) | 36 | [24](#dart-lang-language-3704-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2291 | [16](#dart-lang-language-314-graph)
 Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 21 | [16](#dart-lang-language-4185-graph)
 Enable functions to store data between calls / know from where they were called [dart-lang/language#1427](https://github.com/dart-lang/language/issues/1427) | 17 | [16](#dart-lang-language-1427-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2290 | [15](#dart-lang-language-314-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1218 | [13](#dart-lang-language-723-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 269 | [10](#dart-lang-language-2364-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 29 | [9](#dart-lang-language-4154-graph)
@@ -324,9 +324,9 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 207 | [8](#dart-lang-language-4271-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1271 | [7](#dart-lang-language-69-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 239 | [7](#dart-lang-language-399-graph)
+Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 89 | [7](#dart-lang-language-2128-graph)
 Private Named Parameters [dart-lang/language#4462](https://github.com/dart-lang/language/issues/4462) | 34 | [7](#dart-lang-language-4462-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
-Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 208 | [6](#dart-lang-language-4211-graph)
 
 ## Graphs
 
@@ -636,6 +636,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-178602-graph"></a>
+### Flutter 3.38.1: Failed to Verify when Submitting to App Store Connect
+  <sub>[flutter/flutter#178602](https://github.com/flutter/flutter/issues/178602) &mdash; 19 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 19]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-174980-graph"></a>
 ### [wimp] Impeller for web ☂️ 
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 36 total reactions, 18 recent reactions</sub><br />
@@ -653,23 +670,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="flutter-flutter-178602-graph"></a>
-### Flutter 3.38.1: Failed to Verify when Submitting to App Store Connect
-  <sub>[flutter/flutter#178602](https://github.com/flutter/flutter/issues/178602) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61822-graph"></a>
 ### `dart fix` should apply fixes from plugins
   <sub>[dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -682,6 +682,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 17, 17, 17, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-314-graph"></a>
+### Add data classes
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2291 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
+    y-axis "Reactions"
+    line [2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2289, 2291]
   ```
 
   </details>
@@ -733,23 +750,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
     line [1, 1, 1, 1, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-314-graph"></a>
-### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2290 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
-    y-axis "Reactions"
-    line [2278, 2278, 2279, 2280, 2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2289, 2290]
   ```
 
   </details>
@@ -1197,6 +1197,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="dart-lang-language-2128-graph"></a>
+### Record spreading
+  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 89 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
+    y-axis "Reactions"
+    line [84, 84, 84, 84, 84, 84, 84, 85, 86, 86, 88, 88, 88, 89]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-115926-graph"></a>
 ### Blur filter isn't clipped when using border radius
   <sub>[flutter/flutter#115926](https://github.com/flutter/flutter/issues/115926) &mdash; 64 total reactions, 7 recent reactions</sub><br />
@@ -1328,23 +1345,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
     line [666, 666, 666, 666, 666, 666, 666, 672, 672, 672, 672, 672, 672, 672]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4211-graph"></a>
-### Proposal for a pipe-like operator to chain constructor/method invocations without nesting
-  <sub>[dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) &mdash; 208 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
-    y-axis "Reactions"
-    line [202, 202, 202, 202, 202, 208, 208, 208, 208, 208, 208, 208, 208, 208]
   ```
 
   </details>
@@ -1724,23 +1724,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61824-graph"></a>
-### Support using Dart embeded into other executables
-  <sub>[dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-62012-graph"></a>
 ### RegExp is deprecated in dart
   <sub>[dart-lang/sdk#62012](https://github.com/dart-lang/sdk/issues/62012) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1753,6 +1736,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61824-graph"></a>
+### Support using Dart embeded into other executables
+  <sub>[dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 6, Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5]
   ```
 
   </details>
