@@ -11,7 +11,7 @@ Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992]
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 932 | [64](#flutter-flutter-101479-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 62 | [62](#flutter-flutter-178549-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 627 | [56](#flutter-flutter-170310-graph)
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 62 | [49](#flutter-flutter-175099-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 63 | [50](#flutter-flutter-175099-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 40 | [40](#dart-lang-sdk-61957-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 692 | [33](#flutter-flutter-168813-graph)
@@ -181,7 +181,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 66 | [66](#flutter-flutter-177992-graph)
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 62 | [49](#flutter-flutter-175099-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 63 | [50](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 74 | [22](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 33 | [20](#flutter-flutter-175962-graph)
 Flutter 3.38.1: Failed to Verify when Submitting to App Store Connect [flutter/flutter#178602](https://github.com/flutter/flutter/issues/178602) | 19 | [19](#flutter-flutter-178602-graph)
@@ -417,7 +417,7 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
 
 <a name="flutter-flutter-175099-graph"></a>
 ### [iOS] Tap interactions not working on iOS 26 for webview_flutter
-  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 62 total reactions, 49 recent reactions</sub><br />
+  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 63 total reactions, 50 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -426,7 +426,7 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
   xychart-beta
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
-    line [14, 14, 18, 25, 33, 38, 45, 49, 51, 60, 61, 61, 62]
+    line [14, 14, 18, 25, 33, 38, 45, 49, 51, 60, 61, 61, 63]
   ```
 
   </details>
