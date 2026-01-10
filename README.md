@@ -256,8 +256,8 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 29 | [5](#flutter-flutter-136417-graph)
 Support building Windows apps from Linux [flutter/flutter#110585](https://github.com/flutter/flutter/issues/110585) | 22 | [5](#flutter-flutter-110585-graph)
 [video_player] add Linux support [flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) | 55 | 4
+Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 74 | 3
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 86 | 2
-Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 73 | 2
 Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 18 | 2
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 226 | 1
 Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 80 | 1
@@ -325,8 +325,8 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1271 | [7](#dart-lang-language-69-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 239 | [7](#dart-lang-language-399-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
+Create extra instances of an inaccessible private class [dart-lang/language#4606](https://github.com/dart-lang/language/issues/4606) | 7 | [7](#dart-lang-language-4606-graph)
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 208 | [6](#dart-lang-language-4211-graph)
-Late parameters, late-init-query operator, parameter element [dart-lang/language#3680](https://github.com/dart-lang/language/issues/3680) | 27 | [6](#dart-lang-language-3680-graph)
 
 ## Graphs
 
@@ -1231,23 +1231,6 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61824-graph"></a>
-### Support using Dart embeded into other executables
-  <sub>[dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4567-graph"></a>
 ### Dot Shorthand for Object Destructuring
   <sub>[dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -1260,6 +1243,40 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 2, 4, 5, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4606-graph"></a>
+### Create extra instances of an inaccessible private class
+  <sub>[dart-lang/language#4606](https://github.com/dart-lang/language/issues/4606) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61824-graph"></a>
+### Support using Dart embeded into other executables
+  <sub>[dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 7]
   ```
 
   </details>
@@ -1413,23 +1430,6 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
     y-axis "Reactions"
     line [27, 28, 29, 29, 29, 29, 29, 29, 33, 33, 33, 33, 33]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-3680-graph"></a>
-### Late parameters, late-init-query operator, parameter element
-  <sub>[dart-lang/language#3680](https://github.com/dart-lang/language/issues/3680) &mdash; 27 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5]
-    y-axis "Reactions"
-    line [21, 21, 21, 21, 21, 21, 21, 21, 21, 26, 26, 26, 27]
   ```
 
   </details>
