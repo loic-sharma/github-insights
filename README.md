@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-10-13 to 2026-01-10.
+Issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ in app purchase in iOS always return status == PurchaseStatus.restored when purc
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-framework` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-design` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`f: cupertino` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 935 | [67](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](h
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 106 | [15](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ Missing default context menu buttons on each platform [flutter/flutter#107578](h
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-accessibility` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-go_router` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-tool` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-engine` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 36 | [17](#flutter-flutter-174980-graph)
@@ -176,7 +176,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-ios` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-android` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-web` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://g
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`team-ecosystem` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`dart-lang/sdk` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-10-13 to 2026-01-10.
+`dart-lang/language` issues that received the most reactions from 2025-10-13 to 2026-01-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
