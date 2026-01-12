@@ -41,8 +41,8 @@ Proposal: introduce Widget for infinite list from very_good_infinite_list packag
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 234 | [15](#flutter-flutter-65504-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 66 | [9](#flutter-flutter-81005-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 710 | [6](#flutter-flutter-30701-graph)
+Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 308 | [6](#flutter-flutter-51752-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 203 | [6](#flutter-flutter-45336-graph)
-Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 307 | [5](#flutter-flutter-51752-graph)
 Preserve WillPopScope as an alternate for PopScope [flutter/flutter#138614](https://github.com/flutter/flutter/issues/138614) | 246 | [5](#flutter-flutter-138614-graph)
 Feature Request: Add minLines to Text (Not TextField) [flutter/flutter#31134](https://github.com/flutter/flutter/issues/31134) | 160 | [5](#flutter-flutter-31134-graph)
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 143 | [5](#flutter-flutter-63323-graph)
@@ -137,9 +137,9 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 173 | [8](#flutter-flutter-46979-graph)
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 426 | 4
+[Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 4
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 193 | 3
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 160 | 3
-[Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 125 | 3
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 1
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 89 | 1
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 82 | 1
@@ -1299,6 +1299,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-51752-graph"></a>
+### Reusing state logic is either too verbose or too difficult
+  <sub>[flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) &mdash; 308 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
+    y-axis "Reactions"
+    line [302, 303, 303, 303, 303, 304, 305, 305, 305, 305, 306, 306, 307, 308]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-11754-graph"></a>
 ### Allow release mode builds to run on simulators
   <sub>[flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) &mdash; 215 total reactions, 6 recent reactions</sub><br />
@@ -1464,23 +1481,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
     y-axis "Reactions" 0 --> 20
     line [9, 9, 9, 10, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-51752-graph"></a>
-### Reusing state logic is either too verbose or too difficult
-  <sub>[flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) &mdash; 307 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
-    y-axis "Reactions"
-    line [302, 303, 303, 303, 303, 304, 305, 305, 305, 305, 306, 306, 307, 307]
   ```
 
   </details>
