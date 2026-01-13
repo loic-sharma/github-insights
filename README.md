@@ -39,7 +39,7 @@ Proposal: introduce Widget for infinite list from very_good_infinite_list packag
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 230 | [23](#flutter-flutter-142845-graph)
 [Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 234 | [15](#flutter-flutter-65504-graph)
-[go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 14 | [14](#flutter-flutter-180002-graph)
+[go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 15 | [15](#flutter-flutter-180002-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 66 | [9](#flutter-flutter-81005-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 710 | [6](#flutter-flutter-30701-graph)
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 308 | [6](#flutter-flutter-51752-graph)
@@ -704,6 +704,23 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-180002-graph"></a>
+### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
+  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-18443-graph"></a>
 ### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
   <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 343 total reactions, 14 recent reactions</sub><br />
@@ -733,23 +750,6 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
     y-axis "Reactions"
     line [25, 27, 29, 29, 29, 30, 31, 31, 31, 34, 34, 35, 37, 37]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-180002-graph"></a>
-### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
-  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
   ```
 
   </details>
