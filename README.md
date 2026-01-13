@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 937 | [69](#flutter-flutter-101479-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 66 | [66](#flutter-flutter-177992-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 67 | [67](#flutter-flutter-177992-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 62 | [62](#flutter-flutter-178549-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 628 | [57](#flutter-flutter-170310-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 63 | [50](#flutter-flutter-175099-graph)
@@ -180,7 +180,7 @@ Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 66 | [66](#flutter-flutter-177992-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 67 | [67](#flutter-flutter-177992-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 63 | [50](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 74 | [22](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 33 | [20](#flutter-flutter-175962-graph)
@@ -233,11 +233,11 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 78 | 4
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 47 | 4
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 25 | 4
+[Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 17 | 4
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 3
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 103 | 3
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 42 | 3
 [Proposal] Disable the browser navigation stack in the Flutter web app  [flutter/flutter#108114](https://github.com/flutter/flutter/issues/108114) | 21 | 3
-[Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 16 | 3
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 662 | 2
 
 #### Desktop
@@ -277,11 +277,11 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 78 | 4
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 47 | 4
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 25 | 4
+[Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 17 | 4
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 3
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 103 | 3
 [google_maps_web] Migrate legacy Markers to Advanced Markers. [flutter/flutter#130472](https://github.com/flutter/flutter/issues/130472) | 42 | 3
 [Proposal] Disable the browser navigation stack in the Flutter web app  [flutter/flutter#108114](https://github.com/flutter/flutter/issues/108114) | 21 | 3
-[Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 16 | 3
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 662 | 2
 
 ### Dart SDK
@@ -366,7 +366,7 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
 
 <a name="flutter-flutter-177992-graph"></a>
 ### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 66 total reactions, 66 recent reactions</sub><br />
+  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 67 total reactions, 67 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -375,7 +375,7 @@ Late parameters, late-init-query operator, parameter element [dart-lang/language
   xychart-beta
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 28, 38, 43, 48, 48, 52, 54, 66, 66]
+    line [0, 0, 0, 0, 0, 28, 38, 43, 48, 48, 52, 54, 66, 67]
   ```
 
   </details>
