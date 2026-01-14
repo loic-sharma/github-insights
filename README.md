@@ -109,8 +109,8 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 Make "fields" in FormState not a private member [flutter/flutter#67283](https://github.com/flutter/flutter/issues/67283) | 38 | 1
 A KeyRepeatEvent is dispatched, but the state shows that the physical key is not pressed [flutter/flutter#107972](https://github.com/flutter/flutter/issues/107972) | 31 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 25 | 1
-[Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 24 | 1
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 1
+[Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 24 | 1
 
 #### Accessibility
 
@@ -202,7 +202,7 @@ Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutt
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 37 | [14](#flutter-flutter-168635-graph)
+App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 38 | [15](#flutter-flutter-168635-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 76 | [6](#flutter-flutter-139427-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 76 | [5](#flutter-flutter-105395-graph)
 [Proposal][Android] Add ability to get device RoundedCorner [flutter/flutter#97349](https://github.com/flutter/flutter/issues/97349) | 21 | [5](#flutter-flutter-97349-graph)
@@ -619,23 +619,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61822-graph"></a>
-### `dart fix` should apply fixes from plugins
-  <sub>[dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 3, 4, 4, 4, 4, 17, 17, 17, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-180002-graph"></a>
 ### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
   <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -648,6 +631,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61822-graph"></a>
+### `dart fix` should apply fixes from plugins
+  <sub>[dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 3, 4, 4, 4, 4, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -721,6 +721,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-168635-graph"></a>
+### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
+  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 38 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
+    y-axis "Reactions"
+    line [25, 27, 29, 29, 29, 30, 31, 31, 31, 34, 34, 35, 37, 38]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-18443-graph"></a>
 ### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
   <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 343 total reactions, 14 recent reactions</sub><br />
@@ -733,23 +750,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
     y-axis "Reactions"
     line [329, 331, 331, 331, 336, 339, 339, 340, 340, 340, 340, 342, 343, 343]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168635-graph"></a>
-### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
-  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 37 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
-    y-axis "Reactions"
-    line [25, 27, 29, 29, 29, 30, 31, 31, 31, 34, 34, 35, 37, 37]
   ```
 
   </details>
@@ -1231,23 +1231,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61824-graph"></a>
-### Support using Dart embeded into other executables
-  <sub>[dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4567-graph"></a>
 ### Dot Shorthand for Object Destructuring
   <sub>[dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -1277,6 +1260,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61824-graph"></a>
+### Support using Dart embeded into other executables
+  <sub>[dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 13, Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 7, 7]
   ```
 
   </details>
