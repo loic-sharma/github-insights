@@ -164,9 +164,9 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 58 | [6](#flutter-flutter-146860-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 52 | [6](#flutter-flutter-166248-graph)
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 49 | [6](#flutter-flutter-150525-graph)
+Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2034 | [5](#flutter-flutter-14330-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 216 | [5](#flutter-flutter-11754-graph)
 Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://github.com/flutter/flutter/issues/13343) | 34 | [5](#flutter-flutter-13343-graph)
-Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2033 | 4
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 333 | 4
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 49 | 4
 FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https://github.com/flutter/flutter/issues/148026) | 37 | 3
@@ -1464,6 +1464,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
     y-axis "Reactions" 0 --> 20
     line [9, 9, 10, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-14330-graph"></a>
+### Code Push / Hot Update / out of band updates
+  <sub>[flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) &mdash; 2034 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12]
+    y-axis "Reactions"
+    line [2030, 2030, 2030, 2031, 2032, 2032, 2032, 2032, 2032, 2032, 2032, 2032, 2034]
   ```
 
   </details>
