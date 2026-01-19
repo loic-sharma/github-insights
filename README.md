@@ -57,8 +57,8 @@ Issue | Total reactions | Recent reactions
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 944 | [73](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 630 | [54](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 698 | [39](#flutter-flutter-168813-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 149 | [7](#flutter-flutter-102560-graph)
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 25 | [7](#flutter-flutter-42588-graph)
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 148 | [6](#flutter-flutter-102560-graph)
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | 4
 ☂️ Relocation: Establish new material and cupertino packages in flutter/packages [flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) | 29 | 4
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
@@ -97,8 +97,8 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 107 | [16](#flutter-flutter-124205-graph)
+Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 20 | [7](#flutter-flutter-160725-graph)
 FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 33 | [6](#flutter-flutter-149753-graph)
-Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 19 | [6](#flutter-flutter-160725-graph)
 [web] Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 47 | 3
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 21 | 3
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 134 | 2
@@ -185,7 +185,7 @@ Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992]
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 74 | [18](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 35 | [14](#flutter-flutter-175962-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 375 | [12](#flutter-flutter-110431-graph)
-Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 19 | [6](#flutter-flutter-160725-graph)
+Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 20 | [7](#flutter-flutter-160725-graph)
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 55 | [5](#flutter-flutter-20663-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 33 | [5](#flutter-flutter-164483-graph)
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 68 | 4
@@ -325,8 +325,8 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1704 | [7](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1272 | [7](#dart-lang-language-69-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 239 | [7](#dart-lang-language-399-graph)
-[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 7 | [7](#dart-lang-language-4599-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
+[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 7 | [7](#dart-lang-language-4599-graph)
 
 ## Graphs
 
@@ -1197,6 +1197,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 149 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
+    y-axis "Reactions"
+    line [143, 143, 143, 143, 143, 145, 145, 145, 146, 146, 147, 148, 148, 149]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-127852-graph"></a>
 ### [Impeller] Implement Wide Gamut colors for Vulkan
   <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 66 total reactions, 7 recent reactions</sub><br />
@@ -1231,9 +1248,9 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
-<a name="dart-lang-language-4599-graph"></a>
-### [Feature Request] Trailing Closure Syntax
-  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-160725-graph"></a>
+### Laggy First Keyboard Open (Physical iOS Device)
+  <sub>[flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) &mdash; 20 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1242,7 +1259,7 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   xychart-beta
     x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7]
+    line [14, 14, 16, 16, 16, 16, 18, 19, 19, 19, 19, 19, 19, 20]
   ```
 
   </details>
@@ -1260,6 +1277,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 2, 4, 5, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4599-graph"></a>
+### [Feature Request] Trailing Closure Syntax
+  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7]
   ```
 
   </details>
@@ -1328,23 +1362,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions"
     line [303, 303, 303, 303, 304, 305, 305, 305, 305, 306, 306, 307, 308, 308]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 148 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
-    y-axis "Reactions"
-    line [143, 143, 143, 143, 143, 145, 145, 145, 146, 146, 147, 148, 148, 148]
   ```
 
   </details>
@@ -1447,23 +1464,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions"
     line [27, 28, 29, 29, 30, 32, 32, 32, 32, 32, 32, 32, 33, 33]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-160725-graph"></a>
-### Laggy First Keyboard Open (Physical iOS Device)
-  <sub>[flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) &mdash; 19 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
-    y-axis "Reactions" 0 --> 20
-    line [14, 14, 16, 16, 16, 16, 18, 19, 19, 19, 19, 19, 19, 19]
   ```
 
   </details>
