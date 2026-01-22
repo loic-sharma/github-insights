@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-10-20 to 2026-01-21.
+Issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implicit coercion through implicit constructors. [dart-lang/language#3704](https
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-framework` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-design` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`f: cupertino` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 944 | [73](#flutter-flutter-101479-graph)
@@ -88,12 +88,12 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 107 | [16](#flutter-flutter-124205-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-accessibility` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-go_router` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-tool` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-engine` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 36 | [17](#flutter-flutter-174980-graph)
@@ -176,7 +176,7 @@ FontWeight should subsume `wght` in FontVariation [flutter/flutter#148026](https
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-ios` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-android` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-web` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`team-ecosystem` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`dart-lang/sdk` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-10-20 to 2026-01-21.
+`dart-lang/language` issues that received the most reactions from 2025-10-20 to 2026-01-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -325,8 +325,8 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1704 | [7](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1272 | [7](#dart-lang-language-69-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 239 | [7](#dart-lang-language-399-graph)
-[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 7 | [7](#dart-lang-language-4599-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
+[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 7 | [7](#dart-lang-language-4599-graph)
 
 ## Graphs
 
@@ -1299,23 +1299,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
-<a name="dart-lang-language-4599-graph"></a>
-### [Feature Request] Trailing Closure Syntax
-  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61824-graph"></a>
 ### Support using Dart embeded into other executables
   <sub>[dart-lang/sdk#61824](https://github.com/dart-lang/sdk/issues/61824) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -1345,6 +1328,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 2, 4, 5, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4599-graph"></a>
+### [Feature Request] Trailing Closure Syntax
+  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 20, Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7]
   ```
 
   </details>
