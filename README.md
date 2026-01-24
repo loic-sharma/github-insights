@@ -17,10 +17,10 @@ Proposal: Establish Standardized Primitives for Common Architectural Tasks in Fl
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 700 | [38](#flutter-flutter-168813-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Implicit coercion through implicit constructors. [dart-lang/language#3704](https://github.com/dart-lang/language/issues/3704) | 36 | [24](#dart-lang-language-3704-graph)
-[go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 [Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
+[go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 231 | [19](#flutter-flutter-142845-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1225 | [18](#dart-lang-language-723-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 230 | [18](#flutter-flutter-142845-graph)
 
 ## Trending issues by team
 
@@ -35,9 +35,9 @@ Issue | Total reactions | Recent reactions
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
-[go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 [Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 230 | [18](#flutter-flutter-142845-graph)
+[go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 231 | [19](#flutter-flutter-142845-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 234 | [15](#flutter-flutter-65504-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 67 | [9](#flutter-flutter-81005-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 710 | [6](#flutter-flutter-30701-graph)
@@ -79,16 +79,16 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 633 | [50](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 2
-Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 1
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 1
+Cupertino Sheet should have drag to dismiss and nested scrolling work together [flutter/flutter#161687](https://github.com/flutter/flutter/issues/161687) | 32 | 1
 Scrollbars and Safearea on iOS [flutter/flutter#25802](https://github.com/flutter/flutter/issues/25802) | 13 | 1
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 79 | 0
 Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/flutter/flutter/issues/55809) | 61 | 0
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 0
 
 #### Text input
@@ -228,7 +228,7 @@ Issue | Total reactions | Recent reactions
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 107 | [16](#flutter-flutter-124205-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 26 | [8](#flutter-flutter-87734-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | [7](#flutter-flutter-152588-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 119 | [5](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 120 | [6](#flutter-flutter-172561-graph)
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 18 | [5](#flutter-flutter-152709-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 883 | 4
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 210 | 4
@@ -246,7 +246,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Windows significant performance regression after update from 3.35.7 to 3.38.2 [flutter/flutter#178916](https://github.com/flutter/flutter/issues/178916) | 16 | [16](#flutter-flutter-178916-graph)
+Windows significant performance regression after update from 3.35.7 to 3.38.2 [flutter/flutter#178916](https://github.com/flutter/flutter/issues/178916) | 17 | [17](#flutter-flutter-178916-graph)
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 131 | [11](#flutter-flutter-41726-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 482 | [9](#flutter-flutter-31713-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 146 | [7](#flutter-flutter-41724-graph)
@@ -272,7 +272,7 @@ Issue | Total reactions | Recent reactions
 [Web] Textinput is placed with offset above the keyboard when focused [flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) | 107 | [16](#flutter-flutter-124205-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 26 | [8](#flutter-flutter-87734-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | [7](#flutter-flutter-152588-graph)
-[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 119 | [5](#flutter-flutter-172561-graph)
+[web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 120 | [6](#flutter-flutter-172561-graph)
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 18 | [5](#flutter-flutter-152709-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 883 | 4
 [web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 210 | 4
@@ -303,8 +303,8 @@ Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 62 | 4
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 33 | 4
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 26 | 4
-[proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 14 | 4
 Lightweight communication of typed data between long-lived isolates [dart-lang/sdk#52577](https://github.com/dart-lang/sdk/issues/52577) | 14 | 4
+[proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 14 | 4
 
 ### Dart language
 
@@ -324,8 +324,8 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 30 | [9](#dart-lang-language-4154-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1272 | [7](#dart-lang-language-69-graph)
 Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 239 | [7](#dart-lang-language-399-graph)
-[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 7 | [7](#dart-lang-language-4599-graph)
 Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
+[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 7 | [7](#dart-lang-language-4599-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1704 | [6](#dart-lang-language-1482-graph)
 
 ## Graphs
@@ -517,23 +517,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-180002-graph"></a>
-### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
-  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-178570-graph"></a>
 ### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
   <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 21 total reactions, 21 recent reactions</sub><br />
@@ -551,6 +534,40 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-180002-graph"></a>
+### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
+  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-142845-graph"></a>
+### ☂️ Multi View for Windows/MacOS
+  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 231 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
+    y-axis "Reactions"
+    line [215, 223, 223, 224, 224, 225, 227, 227, 228, 229, 230, 230, 231]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
   <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1225 total reactions, 18 recent reactions</sub><br />
@@ -563,23 +580,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions"
     line [1206, 1207, 1209, 1209, 1210, 1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-142845-graph"></a>
-### ☂️ Multi View for Windows/MacOS
-  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 230 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
-    y-axis "Reactions"
-    line [215, 223, 223, 224, 224, 225, 227, 227, 228, 229, 230, 230, 230]
   ```
 
   </details>
@@ -619,6 +619,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="flutter-flutter-178916-graph"></a>
+### Windows significant performance regression after update from 3.35.7 to 3.38.2
+  <sub>[flutter/flutter#178916](https://github.com/flutter/flutter/issues/178916) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 17]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-124205-graph"></a>
 ### [Web] Textinput is placed with offset above the keyboard when focused
   <sub>[flutter/flutter#124205](https://github.com/flutter/flutter/issues/124205) &mdash; 107 total reactions, 16 recent reactions</sub><br />
@@ -648,23 +665,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions"
     line [0, 0, 20, 20, 21, 21, 21, 21, 21, 21, 21, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-178916-graph"></a>
-### Windows significant performance regression after update from 3.35.7 to 3.38.2
-  <sub>[flutter/flutter#178916](https://github.com/flutter/flutter/issues/178916) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 16]
   ```
 
   </details>
@@ -1180,23 +1180,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4599-graph"></a>
-### [Feature Request] Trailing Closure Syntax
-  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4567-graph"></a>
 ### Dot Shorthand for Object Destructuring
   <sub>[dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -1209,6 +1192,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 2, 4, 5, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4599-graph"></a>
+### [Feature Request] Trailing Closure Syntax
+  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7]
   ```
 
   </details>
@@ -1311,6 +1311,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions"
     line [143, 143, 143, 143, 145, 145, 145, 146, 146, 147, 148, 148, 149]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-172561-graph"></a>
+### [web] ☂️ WebParagraph
+  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 120 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
+    y-axis "Reactions"
+    line [114, 115, 116, 116, 116, 117, 118, 118, 118, 118, 119, 119, 120]
   ```
 
   </details>
@@ -1447,23 +1464,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
     y-axis "Reactions"
     line [139, 139, 139, 139, 139, 142, 142, 142, 142, 142, 143, 143, 143]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-172561-graph"></a>
-### [web] ☂️ WebParagraph
-  <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 119 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19]
-    y-axis "Reactions"
-    line [114, 115, 116, 116, 116, 117, 118, 118, 118, 118, 119, 119, 119]
   ```
 
   </details>
