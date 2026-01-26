@@ -8,11 +8,11 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 947 | [74](#flutter-flutter-101479-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 72 | [72](#flutter-flutter-177992-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 74 | [74](#flutter-flutter-177992-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [63](#flutter-flutter-178549-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 634 | [51](#flutter-flutter-170310-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 65 | [49](#flutter-flutter-175099-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 47 | [47](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 48 | [48](#dart-lang-sdk-61957-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 701 | [39](#flutter-flutter-168813-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
@@ -180,7 +180,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 72 | [72](#flutter-flutter-177992-graph)
+Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 74 | [74](#flutter-flutter-177992-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 65 | [49](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 76 | [14](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 35 | [10](#flutter-flutter-175962-graph)
@@ -290,7 +290,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 47 | [47](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 48 | [48](#dart-lang-sdk-61957-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [14](#dart-lang-sdk-61822-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 15 | [12](#dart-lang-sdk-61635-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 70 | [11](#dart-lang-sdk-56841-graph)
@@ -366,7 +366,7 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
 
 <a name="flutter-flutter-177992-graph"></a>
 ### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 72 total reactions, 72 recent reactions</sub><br />
+  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 74 total reactions, 74 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -375,7 +375,7 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   xychart-beta
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
     y-axis "Reactions"
-    line [0, 0, 0, 28, 38, 43, 48, 48, 52, 54, 66, 68, 72, 72]
+    line [0, 0, 0, 28, 38, 43, 48, 48, 52, 54, 66, 68, 72, 74]
   ```
 
   </details>
@@ -434,7 +434,7 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
 
 <a name="dart-lang-sdk-61957-graph"></a>
 ### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 47 total reactions, 47 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 48 total reactions, 48 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -443,7 +443,7 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   xychart-beta
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
     y-axis "Reactions"
-    line [0, 0, 8, 15, 23, 31, 34, 36, 37, 39, 40, 45, 47, 47]
+    line [0, 0, 8, 15, 23, 31, 34, 36, 37, 39, 40, 45, 47, 48]
   ```
 
   </details>
