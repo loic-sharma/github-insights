@@ -292,7 +292,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 48 | [48](#dart-lang-sdk-61957-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [14](#dart-lang-sdk-61822-graph)
-☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 15 | [12](#dart-lang-sdk-61635-graph)
+☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 16 | [13](#dart-lang-sdk-61635-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 70 | [11](#dart-lang-sdk-56841-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 218 | [6](#dart-lang-sdk-55281-graph)
 Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) | 15 | [6](#dart-lang-sdk-53906-graph)
@@ -721,6 +721,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
+<a name="dart-lang-sdk-61635-graph"></a>
+### ☂️ Development modular AOT compiler targeting iOS/arm64
+  <sub>[dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) &mdash; 16 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    y-axis "Reactions" 0 --> 20
+    line [3, 3, 5, 11, 11, 11, 15, 15, 15, 15, 15, 15, 15, 16]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-314-graph"></a>
 ### Add data classes
   <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2291 total reactions, 12 recent reactions</sub><br />
@@ -767,23 +784,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
     y-axis "Reactions"
     line [202, 203, 207, 207, 207, 207, 207, 207, 207, 207, 207, 211, 211, 211]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-61635-graph"></a>
-### ☂️ Development modular AOT compiler targeting iOS/arm64
-  <sub>[dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) &mdash; 15 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions" 0 --> 20
-    line [3, 3, 5, 11, 11, 11, 15, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
