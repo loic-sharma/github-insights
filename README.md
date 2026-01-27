@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-10-27 to 2026-01-26.
+Issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-framework` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-design` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`f: cupertino` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 947 | [74](#flutter-flutter-101479-graph)
@@ -89,11 +89,11 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 0
-IOS back gesture dismisses top route instead of its own route [flutter/flutter#33875](https://github.com/flutter/flutter/issues/33875) | 22 | 0
+[Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [7](#flutter-flutter-160725-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-accessibility` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ RFC: Seeking feedback on improving dev experience when working on accessibility 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-go_router` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-tool` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,12 +153,12 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-engine` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 36 | [17](#flutter-flutter-174980-graph)
-Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 344 | [13](#flutter-flutter-18443-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 236 | [12](#flutter-flutter-61229-graph)
+Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 345 | [14](#flutter-flutter-18443-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 237 | [13](#flutter-flutter-61229-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 58 | [11](#flutter-flutter-166248-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 557 | [9](#flutter-flutter-26801-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 218 | [7](#flutter-flutter-11754-graph)
@@ -170,13 +170,13 @@ Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 49 | 4
 Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://github.com/flutter/flutter/issues/13343) | 34 | 3
 [linux] Do not use header bar by default on Wayland [flutter/flutter#111453](https://github.com/flutter/flutter/issues/111453) | 21 | 3
-Emojis render no color on macOS Desktop [flutter/flutter#100964](https://github.com/flutter/flutter/issues/100964) | 19 | 3
+[Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 3
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-ios` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](http
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-android` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Calling VirtualDisplayController::resize() just before VirtualDisplayController:
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-web` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`team-ecosystem` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`dart-lang/sdk` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Lightweight communication of typed data between long-lived isolates [dart-lang/s
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-10-27 to 2026-01-26.
+`dart-lang/language` issues that received the most reactions from 2025-10-27 to 2026-01-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -670,6 +670,23 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
+<a name="flutter-flutter-18443-graph"></a>
+### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
+  <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 345 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    y-axis "Reactions"
+    line [331, 331, 336, 339, 339, 340, 340, 340, 340, 342, 343, 343, 344, 345]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
   <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 76 total reactions, 14 recent reactions</sub><br />
@@ -704,9 +721,9 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   </details>
   </sub>
 
-<a name="flutter-flutter-18443-graph"></a>
-### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
-  <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 344 total reactions, 13 recent reactions</sub><br />
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 237 total reactions, 13 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -715,7 +732,7 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
   xychart-beta
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
     y-axis "Reactions"
-    line [331, 331, 336, 339, 339, 340, 340, 340, 340, 342, 343, 343, 344, 344]
+    line [225, 225, 225, 225, 228, 230, 233, 235, 235, 236, 236, 236, 236, 237]
   ```
 
   </details>
@@ -750,23 +767,6 @@ Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.
     x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
     y-axis "Reactions"
     line [2280, 2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2291]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 236 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Oct 27, Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [225, 225, 225, 225, 228, 230, 233, 235, 235, 236, 236, 236, 236, 236]
   ```
 
   </details>
