@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-10-27 to 2026-01-28.
+Issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-framework` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-design` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`f: cupertino` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 947 | [74](#flutter-flutter-101479-graph)
@@ -89,11 +89,11 @@ Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https
 add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 0
-[Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
+IOS back gesture dismisses top route instead of its own route [flutter/flutter#33875](https://github.com/flutter/flutter/issues/33875) | 22 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [7](#flutter-flutter-160725-graph)
@@ -114,7 +114,7 @@ Make "fields" in FormState not a private member [flutter/flutter#67283](https://
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-accessibility` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -124,14 +124,14 @@ RFC: Seeking feedback on improving dev experience when working on accessibility 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-go_router` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-tool` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,7 +153,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-engine` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 36 | [17](#flutter-flutter-174980-graph)
@@ -176,7 +176,7 @@ Emojis render no color on macOS Desktop [flutter/flutter#100964](https://github.
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-ios` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -198,7 +198,7 @@ Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](http
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-android` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,7 +220,7 @@ Calling VirtualDisplayController::resize() just before VirtualDisplayController:
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-web` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -242,7 +242,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,7 +264,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`team-ecosystem` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -286,7 +286,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`dart-lang/sdk` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -308,7 +308,7 @@ Lightweight communication of typed data between long-lived isolates [dart-lang/s
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-10-27 to 2026-01-28.
+`dart-lang/language` issues that received the most reactions from 2025-10-27 to 2026-01-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
