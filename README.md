@@ -2,25 +2,25 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-11-03 to 2026-01-31.
+Issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 76 | [76](#flutter-flutter-177992-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 949 | [72](#flutter-flutter-101479-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [63](#flutter-flutter-178549-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 48 | [48](#dart-lang-sdk-61957-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 635 | [47](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 639 | [51](#flutter-flutter-170310-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 50 | [50](#dart-lang-sdk-61957-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 65 | [45](#flutter-flutter-175099-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 702 | [35](#flutter-flutter-168813-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Implicit coercion through implicit constructors. [dart-lang/language#3704](https://github.com/dart-lang/language/issues/3704) | 36 | [24](#dart-lang-language-3704-graph)
-[Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
+[Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1225 | [18](#dart-lang-language-723-graph)
 Windows significant performance regression after update from 3.35.7 to 3.38.2 [flutter/flutter#178916](https://github.com/flutter/flutter/issues/178916) | 18 | [18](#flutter-flutter-178916-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 37 | [17](#flutter-flutter-174980-graph)
 
 ## Trending issues by team
 
@@ -28,17 +28,17 @@ Windows significant performance regression after update from 3.35.7 to 3.38.2 [f
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-framework` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 182 | [182](#flutter-flutter-178236-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
-[Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
+[Navigation] Popping a nested route while the parent is rebuilding causes a flicker [flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) | 21 | [21](#flutter-flutter-178570-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 231 | [16](#flutter-flutter-142845-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 234 | [14](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 235 | [15](#flutter-flutter-65504-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 67 | [9](#flutter-flutter-81005-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 205 | [6](#flutter-flutter-45336-graph)
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 308 | [5](#flutter-flutter-51752-graph)
@@ -50,12 +50,12 @@ Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/fl
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-design` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 949 | [72](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 635 | [47](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 639 | [51](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 702 | [35](#flutter-flutter-168813-graph)
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 25 | [7](#flutter-flutter-42588-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 149 | [6](#flutter-flutter-102560-graph)
@@ -72,11 +72,11 @@ Horizontal Stepper Overflows Title (with no way to allow for scrolling) [flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`f: cupertino` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 949 | [72](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 635 | [47](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 639 | [51](#flutter-flutter-170310-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 67 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 2
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 1
@@ -86,18 +86,17 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
-Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 0
 [Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [7](#flutter-flutter-160725-graph)
-FlutterFragmentActivity support for predictive back [flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) | 33 | [5](#flutter-flutter-149753-graph)
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 47 | 3
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 21 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 118 | 2
@@ -110,28 +109,28 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 Make "fields" in FormState not a private member [flutter/flutter#67283](https://github.com/flutter/flutter/issues/67283) | 38 | 1
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 25 | 1
+[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 24 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-accessibility` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up in a listview [flutter/flutter#98572](https://github.com/flutter/flutter/issues/98572) | 64 | 0
-RFC: Seeking feedback on improving dev experience when working on accessibility [flutter/flutter#176237](https://github.com/flutter/flutter/issues/176237) | 26 | 0
 [google_maps_flutter] In Google Maps Flutter, markers are not recognized by accessibility tools when running on an Android Emulator with a Google APIs image. [flutter/flutter#163392](https://github.com/flutter/flutter/issues/163392) | 13 | 0
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-go_router` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-tool` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -153,62 +152,62 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-engine` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 36 | [16](#flutter-flutter-174980-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 37 | [17](#flutter-flutter-174980-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 345 | [14](#flutter-flutter-18443-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 237 | [12](#flutter-flutter-61229-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 58 | [11](#flutter-flutter-166248-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 557 | [9](#flutter-flutter-26801-graph)
-TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 58 | [6](#flutter-flutter-146860-graph)
+Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 357 | [7](#flutter-flutter-128313-graph)
+TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 59 | [7](#flutter-flutter-146860-graph)
+Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 52 | [6](#flutter-flutter-47928-graph)
+Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 219 | [5](#flutter-flutter-11754-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 66 | [5](#flutter-flutter-127852-graph)
-Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 51 | [5](#flutter-flutter-47928-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2034 | 4
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 333 | 4
-Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 218 | 4
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 49 | 3
 Emojis render no color on macOS Desktop [flutter/flutter#100964](https://github.com/flutter/flutter/issues/100964) | 19 | 3
 [Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 3
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 446 | 2
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-ios` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 76 | [76](#flutter-flutter-177992-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 65 | [45](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 79 | [16](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 35 | [9](#flutter-flutter-175962-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [7](#flutter-flutter-160725-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 375 | [6](#flutter-flutter-110431-graph)
+[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 34 | [5](#flutter-flutter-164483-graph)
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 68 | 4
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 55 | 4
-[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 33 | 4
 Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 25 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 157 | 3
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 33 | 3
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 27 | 3
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 292 | 2
 Investigate Swift Package Manager for Swift plugins [flutter/flutter#33850](https://github.com/flutter/flutter/issues/33850) | 227 | 2
+Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 118 | 2
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-android` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 38 | [9](#flutter-flutter-168635-graph)
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 76 | [5](#flutter-flutter-139427-graph)
+Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 33 | [5](#flutter-flutter-151638-graph)
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 90 | 4
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 76 | 4
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 55 | 4
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 49 | 4
-Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 32 | 4
 Video player on Android 29 device does not play media [flutter/flutter#166481](https://github.com/flutter/flutter/issues/166481) | 22 | 4
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 86 | 3
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 19 | 3
@@ -220,7 +219,7 @@ Add support for Android 13 per-app language preferences  [flutter/flutter#109842
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-web` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -229,10 +228,10 @@ Issue | Total reactions | Recent reactions
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 883 | [6](#flutter-flutter-46789-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [6](#flutter-flutter-172561-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | [6](#flutter-flutter-152588-graph)
+[web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 79 | [5](#flutter-flutter-60069-graph)
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 18 | [5](#flutter-flutter-152709-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 104 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 98 | 4
-[web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 78 | 4
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 4
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 25 | 4
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 4
@@ -242,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -256,15 +255,15 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 482 | 4
 [video_player] add Linux support [flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) | 55 | 4
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 222 | 3
-Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 86 | 2
+Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 87 | 3
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 74 | 2
 A KeyRepeatEvent is dispatched, but the state shows that the physical key is not pressed [flutter/flutter#107972](https://github.com/flutter/flutter/issues/107972) | 32 | 2
+Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 27 | 2
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 226 | 1
-[video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 199 | 1
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`team-ecosystem` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -273,10 +272,10 @@ Issue | Total reactions | Recent reactions
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 883 | [6](#flutter-flutter-46789-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [6](#flutter-flutter-172561-graph)
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | [6](#flutter-flutter-152588-graph)
+[web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 79 | [5](#flutter-flutter-60069-graph)
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 18 | [5](#flutter-flutter-152709-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 104 | 4
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 98 | 4
-[web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 78 | 4
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 4
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 25 | 4
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 4
@@ -286,29 +285,29 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`dart-lang/sdk` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 48 | [48](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 50 | [50](#dart-lang-sdk-61957-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [14](#dart-lang-sdk-61822-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 16 | [13](#dart-lang-sdk-61635-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 71 | [12](#dart-lang-sdk-56841-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 219 | [7](#dart-lang-sdk-55281-graph)
 Add Brotli support [dart-lang/sdk#53906](https://github.com/dart-lang/sdk/issues/53906) | 15 | [6](#dart-lang-sdk-53906-graph)
+`// ignore: plugin/code` not working in some scenarios [dart-lang/sdk#62173](https://github.com/dart-lang/sdk/issues/62173) | 6 | [6](#dart-lang-sdk-62173-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 75 | [5](#dart-lang-sdk-53884-graph)
 `dart analyze` should not spawn analyzer_plugins [dart-lang/sdk#56667](https://github.com/dart-lang/sdk/issues/56667) | 15 | [5](#dart-lang-sdk-56667-graph)
-`// ignore: plugin/code` not working in some scenarios [dart-lang/sdk#62173](https://github.com/dart-lang/sdk/issues/62173) | 5 | [5](#dart-lang-sdk-62173-graph)
+dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 65 | 4
+Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 64 | 4
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 26 | 4
+Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 20 | 4
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 14 | 4
-Deprecating the legacy analyzer plugin system [dart-lang/sdk#62164](https://github.com/dart-lang/sdk/issues/62164) | 4 | 4
 Support for prefer_inline_return [dart-lang/sdk#62078](https://github.com/dart-lang/sdk/issues/62078) | 4 | 4
-[feature request] Extract class to a new file [dart-lang/sdk#30310](https://github.com/dart-lang/sdk/issues/30310) | 326 | 3
-Code that uses DateTime.now is untestable [dart-lang/sdk#28985](https://github.com/dart-lang/sdk/issues/28985) | 80 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-11-03 to 2026-01-31.
+`dart-lang/language` issues that received the most reactions from 2025-11-03 to 2026-02-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -317,16 +316,16 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Enable functions to store data between calls / know from where they were called [dart-lang/language#1427](https://github.com/dart-lang/language/issues/1427) | 18 | [17](#dart-lang-language-1427-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2297 | [16](#dart-lang-language-314-graph)
 Named arguments [dart-lang/language#4185](https://github.com/dart-lang/language/issues/4185) | 21 | [16](#dart-lang-language-4185-graph)
+Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 11 | [11](#dart-lang-language-4630-graph)
+Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 31 | [10](#dart-lang-language-4154-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 270 | [9](#dart-lang-language-2364-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 258 | [9](#dart-lang-language-524-graph)
-Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 30 | [9](#dart-lang-language-4154-graph)
 [Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 9 | [9](#dart-lang-language-4599-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 211 | [8](#dart-lang-language-4271-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 92 | [8](#dart-lang-language-2128-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1273 | [7](#dart-lang-language-69-graph)
-Dot Shorthand for Object Destructuring [dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) | 7 | [7](#dart-lang-language-4567-graph)
-Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 239 | [6](#dart-lang-language-399-graph)
-Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 208 | [6](#dart-lang-language-4211-graph)
+Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 240 | [7](#dart-lang-language-399-graph)
+Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 209 | [7](#dart-lang-language-4211-graph)
 
 ## Graphs
 
@@ -339,26 +338,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [0, 177, 179, 180, 182, 182, 182, 182, 182, 182, 182, 182, 182]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-177992-graph"></a>
-### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 76 total reactions, 76 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [0, 0, 28, 38, 43, 48, 48, 52, 54, 66, 68, 72, 76]
+    line [0, 177, 179, 180, 182, 182, 182, 182, 182, 182, 182, 182, 182, 182]
   ```
 
   </details>
@@ -373,9 +355,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [877, 879, 886, 888, 892, 894, 925, 934, 934, 935, 943, 946, 949]
+    line [877, 879, 886, 888, 892, 894, 925, 934, 934, 935, 943, 946, 949, 949]
   ```
 
   </details>
@@ -390,26 +372,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [0, 15, 18, 18, 20, 60, 60, 62, 62, 62, 63, 63, 63]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-61957-graph"></a>
-### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 48 total reactions, 48 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [0, 8, 15, 23, 31, 34, 36, 37, 39, 40, 45, 47, 48]
+    line [0, 15, 18, 18, 20, 60, 60, 62, 62, 62, 63, 63, 63, 63]
   ```
 
   </details>
@@ -417,16 +382,33 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 635 total reactions, 47 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 639 total reactions, 51 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [588, 591, 595, 608, 609, 612, 617, 620, 626, 628, 630, 634, 635]
+    line [588, 591, 595, 608, 609, 612, 617, 620, 626, 628, 630, 634, 635, 639]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61957-graph"></a>
+### [Dot shorthands] A new lint and fix to prefer dot shorthands
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 50 total reactions, 50 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [0, 8, 15, 23, 31, 34, 36, 37, 39, 40, 45, 47, 48, 50]
   ```
 
   </details>
@@ -441,9 +423,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [25, 33, 38, 45, 49, 51, 60, 61, 61, 63, 65, 65, 65]
+    line [25, 33, 38, 45, 49, 51, 60, 61, 61, 63, 65, 65, 65, 65]
   ```
 
   </details>
@@ -458,9 +440,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [0, 0, 0, 42, 42, 42, 42, 42, 43, 43, 43, 43, 43]
+    line [0, 0, 0, 42, 42, 42, 42, 42, 43, 43, 43, 43, 43, 43]
   ```
 
   </details>
@@ -475,9 +457,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [671, 672, 676, 684, 685, 687, 691, 692, 691, 694, 698, 701, 702]
+    line [671, 672, 676, 684, 685, 687, 691, 692, 691, 694, 698, 701, 702, 702]
   ```
 
   </details>
@@ -492,9 +474,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [0, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30]
+    line [0, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30]
   ```
 
   </details>
@@ -509,26 +491,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [12, 34, 35, 35, 35, 36, 36, 36, 36, 36, 36, 36, 36]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-178570-graph"></a>
-### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
-  <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 21 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [0, 0, 19, 19, 20, 20, 21, 21, 21, 21, 21, 21, 21]
+    line [12, 34, 35, 35, 35, 36, 36, 36, 36, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -543,9 +508,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 21, 21]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-178570-graph"></a>
+### [Navigation] Popping a nested route while the parent is rebuilding causes a flicker
+  <sub>[flutter/flutter#178570](https://github.com/flutter/flutter/issues/178570) &mdash; 21 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [0, 0, 19, 19, 20, 20, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -560,9 +542,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [1207, 1209, 1209, 1210, 1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225]
+    line [1207, 1209, 1209, 1210, 1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225]
   ```
 
   </details>
@@ -577,9 +559,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 17, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15, 17, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-174980-graph"></a>
+### [wimp] Impeller for web ☂️ 
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 37 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [20, 22, 23, 25, 26, 32, 33, 34, 36, 36, 36, 36, 36, 37]
   ```
 
   </details>
@@ -594,9 +593,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions" 0 --> 20
-    line [17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 18, 18, 18]
+    line [17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 18, 18, 18, 18]
   ```
 
   </details>
@@ -611,9 +610,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297]
+    line [2285, 2286, 2287, 2287, 2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297]
   ```
 
   </details>
@@ -628,9 +627,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [223, 223, 224, 224, 225, 227, 227, 228, 229, 230, 230, 231, 231]
+    line [223, 223, 224, 224, 225, 227, 227, 228, 229, 230, 230, 231, 231, 231]
   ```
 
   </details>
@@ -645,26 +644,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [64, 65, 68, 70, 70, 71, 71, 72, 74, 74, 74, 76, 79]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174980-graph"></a>
-### [wimp] Impeller for web ☂️ 
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 36 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [20, 22, 23, 25, 26, 32, 33, 34, 36, 36, 36, 36, 36]
+    line [64, 65, 68, 70, 70, 71, 71, 72, 74, 74, 74, 76, 79, 79]
   ```
 
   </details>
@@ -679,9 +661,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [0, 20, 20, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
+    line [0, 20, 20, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 235 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [220, 220, 221, 223, 228, 228, 230, 234, 234, 234, 234, 234, 234, 235]
   ```
 
   </details>
@@ -696,26 +695,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [331, 336, 339, 339, 340, 340, 340, 340, 342, 343, 343, 344, 345]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 234 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [220, 220, 221, 223, 228, 228, 230, 234, 234, 234, 234, 234, 234]
+    line [331, 336, 339, 339, 340, 340, 340, 340, 342, 343, 343, 344, 345, 345]
   ```
 
   </details>
@@ -730,9 +712,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 3, 4, 4, 4, 4, 17, 17, 17, 17, 17, 17, 17]
+    line [0, 3, 4, 4, 4, 4, 17, 17, 17, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -747,9 +729,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions" 0 --> 20
-    line [3, 5, 11, 11, 11, 15, 15, 15, 15, 15, 15, 15, 16]
+    line [3, 5, 11, 11, 11, 15, 15, 15, 15, 15, 15, 15, 16, 16]
   ```
 
   </details>
@@ -764,9 +746,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [225, 225, 225, 228, 230, 233, 235, 235, 236, 236, 236, 236, 237]
+    line [225, 225, 225, 228, 230, 233, 235, 235, 236, 236, 236, 236, 237, 237]
   ```
 
   </details>
@@ -781,9 +763,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [59, 59, 59, 58, 61, 61, 62, 62, 69, 69, 69, 70, 71]
+    line [59, 59, 59, 58, 61, 61, 62, 62, 69, 69, 69, 70, 71, 71]
   ```
 
   </details>
@@ -798,9 +780,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [124, 130, 130, 130, 130, 131, 131, 131, 131, 131, 131, 131, 131]
+    line [124, 130, 130, 130, 130, 131, 131, 131, 131, 131, 131, 131, 131, 131]
   ```
 
   </details>
@@ -815,9 +797,43 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [48, 48, 48, 48, 48, 49, 49, 49, 51, 52, 55, 58, 58]
+    line [48, 48, 48, 48, 48, 49, 49, 49, 51, 52, 55, 58, 58, 58]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4630-graph"></a>
+### Explicit Error Propagation (Zig-Inspired)
+  <sub>[dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4154-graph"></a>
+### Augmentations
+  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 31 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [21, 23, 23, 23, 25, 26, 26, 26, 29, 30, 30, 30, 30, 31]
   ```
 
   </details>
@@ -832,9 +848,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [547, 550, 550, 551, 552, 553, 553, 553, 553, 554, 555, 557, 557]
+    line [547, 550, 550, 551, 552, 553, 553, 553, 553, 554, 555, 557, 557, 557]
   ```
 
   </details>
@@ -849,9 +865,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [261, 265, 265, 265, 265, 266, 267, 269, 269, 269, 269, 270, 270]
+    line [261, 265, 265, 265, 265, 266, 267, 269, 269, 269, 269, 270, 270, 270]
   ```
 
   </details>
@@ -866,9 +882,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [250, 250, 252, 252, 252, 253, 253, 257, 257, 257, 258, 258, 258]
+    line [250, 250, 252, 252, 252, 253, 253, 257, 257, 257, 258, 258, 258, 258]
   ```
 
   </details>
@@ -883,9 +899,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [58, 59, 60, 60, 62, 64, 64, 65, 65, 66, 67, 67, 67]
+    line [58, 59, 60, 60, 62, 64, 64, 65, 65, 66, 67, 67, 67, 67]
   ```
 
   </details>
@@ -900,9 +916,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [29, 29, 30, 31, 31, 31, 34, 34, 35, 37, 38, 38, 38]
+    line [29, 29, 30, 31, 31, 31, 34, 34, 35, 37, 38, 38, 38, 38]
   ```
 
   </details>
@@ -917,26 +933,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [28, 28, 29, 29, 31, 31, 31, 32, 32, 33, 35, 35, 35]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4154-graph"></a>
-### Augmentations
-  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 30 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [21, 23, 23, 23, 25, 26, 26, 26, 29, 30, 30, 30, 30]
+    line [28, 28, 29, 29, 31, 31, 31, 32, 32, 33, 35, 35, 35, 35]
   ```
 
   </details>
@@ -951,9 +950,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7, 9]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7, 9, 9]
   ```
 
   </details>
@@ -968,9 +967,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [203, 207, 207, 207, 207, 207, 207, 207, 207, 207, 211, 211, 211]
+    line [203, 207, 207, 207, 207, 207, 207, 207, 207, 207, 211, 211, 211, 211]
   ```
 
   </details>
@@ -985,9 +984,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [84, 84, 84, 85, 86, 86, 88, 88, 88, 89, 90, 91, 92]
+    line [84, 84, 84, 85, 86, 86, 88, 88, 88, 89, 90, 91, 92, 92]
   ```
 
   </details>
@@ -1002,9 +1001,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [18, 18, 18, 18, 18, 18, 19, 19, 19, 19, 19, 26, 26]
+    line [18, 18, 18, 18, 18, 18, 19, 19, 19, 19, 19, 26, 26, 26]
   ```
 
   </details>
@@ -1019,9 +1018,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [1266, 1269, 1269, 1270, 1270, 1271, 1271, 1271, 1271, 1271, 1272, 1272, 1273]
+    line [1266, 1269, 1269, 1270, 1270, 1271, 1271, 1271, 1271, 1271, 1272, 1272, 1273, 1273]
   ```
 
   </details>
@@ -1036,9 +1035,43 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [422, 423, 423, 423, 424, 426, 426, 426, 426, 426, 426, 429, 429]
+    line [422, 423, 423, 423, 424, 426, 426, 426, 426, 426, 426, 429, 429, 429]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-128313-graph"></a>
+### Add support for visionOS
+  <sub>[flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) &mdash; 357 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [350, 350, 350, 350, 350, 350, 350, 350, 351, 352, 352, 352, 352, 357]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-399-graph"></a>
+### Add "Safe" (nullable) cast operator `as?`
+  <sub>[dart-lang/language#399](https://github.com/dart-lang/language/issues/399) &mdash; 240 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [235, 236, 236, 237, 238, 238, 238, 239, 239, 239, 239, 239, 239, 240]
   ```
 
   </details>
@@ -1053,9 +1086,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [212, 212, 214, 215, 216, 216, 216, 216, 217, 218, 218, 218, 219]
+    line [212, 212, 214, 215, 216, 216, 216, 216, 217, 218, 218, 218, 219, 219]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4211-graph"></a>
+### Proposal for a pipe-like operator to chain constructor/method invocations without nesting
+  <sub>[dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) &mdash; 209 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [202, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 209]
   ```
 
   </details>
@@ -1070,9 +1120,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [140, 141, 141, 142, 142, 143, 144, 145, 145, 145, 145, 146, 146]
+    line [140, 141, 141, 142, 142, 143, 144, 145, 145, 145, 145, 146, 146, 146]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-146860-graph"></a>
+### TextHeightBehaviour should allow more tightly-wrapped text
+  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 59 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [56, 56, 56, 56, 56, 56, 56, 56, 56, 58, 58, 58, 58, 59]
   ```
 
   </details>
@@ -1087,9 +1154,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [18, 18, 18, 18, 18, 18, 25, 25, 25, 25, 25, 25, 25]
+    line [18, 18, 18, 18, 18, 18, 25, 25, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -1104,26 +1171,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 18, 19, 19, 19, 19, 19, 19, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4567-graph"></a>
-### Dot Shorthand for Object Destructuring
-  <sub>[dart-lang/language#4567](https://github.com/dart-lang/language/issues/4567) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 2, 4, 5, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+    line [16, 16, 16, 16, 18, 19, 19, 19, 19, 19, 19, 21, 21, 21]
   ```
 
   </details>
@@ -1138,9 +1188,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [876, 878, 878, 878, 878, 878, 878, 878, 878, 879, 883, 883, 883]
+    line [876, 878, 878, 878, 878, 878, 878, 878, 878, 879, 883, 883, 883, 883]
   ```
 
   </details>
@@ -1155,9 +1205,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [666, 666, 666, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672]
+    line [666, 666, 666, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672]
   ```
 
   </details>
@@ -1172,43 +1222,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [369, 371, 371, 372, 372, 375, 375, 375, 375, 375, 375, 375, 375]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-399-graph"></a>
-### Add "Safe" (nullable) cast operator `as?`
-  <sub>[dart-lang/language#399](https://github.com/dart-lang/language/issues/399) &mdash; 239 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [235, 236, 236, 237, 238, 238, 238, 239, 239, 239, 239, 239, 239]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4211-graph"></a>
-### Proposal for a pipe-like operator to chain constructor/method invocations without nesting
-  <sub>[dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) &mdash; 208 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions"
-    line [202, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208, 208]
+    line [369, 371, 371, 372, 372, 375, 375, 375, 375, 375, 375, 375, 375, 375]
   ```
 
   </details>
@@ -1223,9 +1239,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [199, 200, 200, 200, 200, 201, 202, 202, 203, 203, 203, 203, 205]
+    line [199, 200, 200, 200, 200, 201, 202, 202, 203, 203, 203, 203, 205, 205]
   ```
 
   </details>
@@ -1240,9 +1256,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [143, 143, 143, 145, 145, 145, 146, 146, 147, 148, 148, 149, 149]
+    line [143, 143, 143, 145, 145, 145, 146, 146, 147, 148, 148, 149, 149, 149]
   ```
 
   </details>
@@ -1257,9 +1273,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [115, 116, 116, 116, 117, 118, 118, 118, 118, 119, 119, 120, 121]
+    line [115, 116, 116, 116, 117, 118, 118, 118, 118, 119, 119, 120, 121, 121]
   ```
 
   </details>
@@ -1274,9 +1290,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [68, 68, 73, 73, 73, 73, 73, 73, 74, 74, 74, 74, 74]
+    line [68, 68, 73, 73, 73, 73, 73, 73, 74, 74, 74, 74, 74, 74]
   ```
 
   </details>
@@ -1291,26 +1307,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [59, 59, 59, 59, 59, 60, 62, 62, 62, 62, 62, 62, 62]
+    line [59, 59, 59, 59, 59, 60, 62, 62, 62, 62, 62, 62, 62, 62]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-146860-graph"></a>
-### TextHeightBehaviour should allow more tightly-wrapped text
-  <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 58 total reactions, 6 recent reactions</sub><br />
+<a name="flutter-flutter-47928-graph"></a>
+### Add Support for tvOS
+  <sub>[flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) &mdash; 52 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [56, 56, 56, 56, 56, 56, 56, 56, 56, 58, 58, 58, 58]
+    line [46, 46, 46, 46, 46, 46, 47, 47, 47, 47, 49, 50, 51, 52]
   ```
 
   </details>
@@ -1325,9 +1341,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions" 0 --> 20
-    line [10, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15]
+    line [10, 13, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62173-graph"></a>
+### `// ignore: plugin/code` not working in some scenarios
+  <sub>[dart-lang/sdk#62173](https://github.com/dart-lang/sdk/issues/62173) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 3, 3, 4, 5, 5, 5, 6]
   ```
 
   </details>
@@ -1342,9 +1375,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [340, 341, 341, 341, 341, 342, 342, 342, 342, 342, 342, 343, 345]
+    line [340, 341, 341, 341, 341, 342, 342, 342, 342, 342, 342, 343, 345, 345]
   ```
 
   </details>
@@ -1359,9 +1392,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [303, 303, 304, 305, 305, 305, 305, 306, 306, 307, 308, 308, 308]
+    line [303, 303, 304, 305, 305, 305, 305, 306, 306, 307, 308, 308, 308, 308]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-11754-graph"></a>
+### Allow release mode builds to run on simulators
+  <sub>[flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) &mdash; 219 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [214, 215, 215, 215, 215, 215, 215, 215, 215, 215, 216, 218, 218, 219]
   ```
 
   </details>
@@ -1376,9 +1426,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [171, 173, 173, 173, 173, 173, 173, 173, 173, 173, 173, 173, 173]
+    line [171, 173, 173, 173, 173, 173, 173, 173, 173, 173, 173, 173, 173, 173]
   ```
 
   </details>
@@ -1393,9 +1443,26 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [155, 156, 156, 158, 158, 159, 159, 160, 160, 160, 160, 160, 160]
+    line [155, 156, 156, 158, 158, 159, 159, 160, 160, 160, 160, 160, 160, 160]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-60069-graph"></a>
+### [web] support offline PWA
+  <sub>[flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) &mdash; 79 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [74, 76, 76, 76, 76, 77, 77, 78, 78, 78, 78, 78, 78, 79]
   ```
 
   </details>
@@ -1410,9 +1477,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [71, 72, 72, 72, 72, 73, 73, 73, 73, 76, 76, 76, 76]
+    line [71, 72, 72, 72, 72, 73, 73, 73, 73, 76, 76, 76, 76, 76]
   ```
 
   </details>
@@ -1427,9 +1494,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [70, 70, 70, 70, 71, 71, 73, 75, 75, 75, 75, 75, 75]
+    line [70, 70, 70, 70, 71, 71, 73, 75, 75, 75, 75, 75, 75, 75]
   ```
 
   </details>
@@ -1444,43 +1511,43 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [62, 62, 62, 62, 62, 63, 64, 64, 66, 66, 66, 66, 66]
+    line [62, 62, 62, 62, 62, 63, 64, 64, 66, 66, 66, 66, 66, 66]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-47928-graph"></a>
-### Add Support for tvOS
-  <sub>[flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) &mdash; 51 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-164483-graph"></a>
+### [iOS] Extra silent accessibility focus before first ListView item
+  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 34 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [46, 46, 46, 46, 46, 46, 47, 47, 47, 47, 49, 50, 51]
+    line [29, 29, 29, 29, 29, 33, 33, 33, 33, 33, 33, 33, 33, 34]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-149753-graph"></a>
-### FlutterFragmentActivity support for predictive back
-  <sub>[flutter/flutter#149753](https://github.com/flutter/flutter/issues/149753) &mdash; 33 total reactions, 5 recent reactions</sub><br />
+<a name="flutter-flutter-151638-graph"></a>
+### Investigate path resolution for "libflutter.so" binary
+  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 33 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [29, 29, 30, 32, 32, 32, 32, 32, 32, 32, 33, 33, 33]
+    line [28, 28, 28, 28, 28, 28, 28, 28, 31, 32, 32, 32, 32, 33]
   ```
 
   </details>
@@ -1495,9 +1562,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
-    line [25, 25, 26, 26, 26, 28, 28, 28, 29, 29, 29, 29, 29]
+    line [25, 25, 26, 26, 26, 28, 28, 28, 29, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -1512,9 +1579,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions" 0 --> 20
-    line [13, 13, 14, 14, 15, 16, 16, 16, 16, 16, 18, 18, 18]
+    line [13, 13, 14, 14, 15, 16, 16, 16, 16, 16, 18, 18, 18, 18]
   ```
 
   </details>
@@ -1529,26 +1596,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions" 0 --> 20
-    line [10, 10, 10, 10, 10, 10, 10, 11, 14, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62173-graph"></a>
-### `// ignore: plugin/code` not working in some scenarios
-  <sub>[dart-lang/sdk#62173](https://github.com/dart-lang/sdk/issues/62173) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 3, 3, 4, 5, 5, 5]
+    line [10, 10, 10, 10, 10, 10, 10, 11, 14, 15, 15, 15, 15, 15]
   ```
 
   </details>
