@@ -59,8 +59,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 703 | [36](#flutter-flutter-168813-graph)
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 25 | [7](#flutter-flutter-42588-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 149 | [6](#flutter-flutter-102560-graph)
+☂️ Relocation: Establish new material and cupertino packages in flutter/packages [flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) | 30 | [5](#flutter-flutter-172932-graph)
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 68 | 4
-☂️ Relocation: Establish new material and cupertino packages in flutter/packages [flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) | 29 | 4
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | 3
 Add support for preferredSize with context  in `PreferredSizeWidget` [flutter/flutter#116136](https://github.com/flutter/flutter/issues/116136) | 19 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 2
@@ -168,8 +168,8 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2034 | 4
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 333 | 4
 Merge the platform and UI threads [flutter/flutter#150525](https://github.com/flutter/flutter/issues/150525) | 49 | 3
+Pressing and releasing a key before the framework has started throws [flutter/flutter#125975](https://github.com/flutter/flutter/issues/125975) | 21 | 3
 [Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 3
-Emojis render no color on macOS Desktop [flutter/flutter#100964](https://github.com/flutter/flutter/issues/100964) | 19 | 3
 
 ### Platforms
 
@@ -303,7 +303,7 @@ Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) 
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 26 | 4
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 20 | 4
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 14 | 4
-Deprecating the legacy analyzer plugin system [dart-lang/sdk#62164](https://github.com/dart-lang/sdk/issues/62164) | 4 | 4
+Support for prefer_inline_return [dart-lang/sdk#62078](https://github.com/dart-lang/sdk/issues/62078) | 4 | 4
 
 ### Dart language
 
@@ -1565,6 +1565,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
     y-axis "Reactions"
     line [29, 29, 29, 29, 29, 33, 33, 33, 33, 33, 33, 33, 33, 34]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-172932-graph"></a>
+### ☂️ Relocation: Establish new material and cupertino packages in flutter/packages
+  <sub>[flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) &mdash; 30 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 3, Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2]
+    y-axis "Reactions"
+    line [25, 25, 25, 25, 26, 26, 26, 26, 26, 26, 29, 29, 29, 30]
   ```
 
   </details>
