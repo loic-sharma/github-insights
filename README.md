@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-11-10 to 2026-02-09.
+Issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -11,8 +11,8 @@ Issue | Total reactions | Recent reactions
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [63](#flutter-flutter-178549-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 640 | [51](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 51 | [51](#dart-lang-sdk-61957-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 69 | [44](#flutter-flutter-175099-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 66 | [41](#flutter-flutter-175099-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 704 | [33](#flutter-flutter-168813-graph)
 Android's predictive back feature doesn't use the device's corner radius [flutter/flutter#178463](https://github.com/flutter/flutter/issues/178463) | 30 | [30](#flutter-flutter-178463-graph)
 Implicit coercion through implicit constructors. [dart-lang/language#3704](https://github.com/dart-lang/language/issues/3704) | 36 | [24](#dart-lang-language-3704-graph)
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-framework` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter clipboard should support images [flutter/flutter#32045](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-design` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -63,8 +63,8 @@ Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/fl
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | 3
 Add support for preferredSize with context  in `PreferredSizeWidget` [flutter/flutter#116136](https://github.com/flutter/flutter/issues/116136) | 19 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 2
-Decoration for unselected tabs in TabBar [flutter/flutter#75588](https://github.com/flutter/flutter/issues/75588) | 68 | 2
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 68 | 2
+Decoration for unselected tabs in TabBar [flutter/flutter#75588](https://github.com/flutter/flutter/issues/75588) | 68 | 2
 Add support for RefreshIndicator to be used with SliverAppBar [flutter/flutter#54272](https://github.com/flutter/flutter/issues/54272) | 39 | 2
 (Material3) Cannot Theme `FilledButton` and `FilledButton.tonal` Variants Separately [flutter/flutter#118063](https://github.com/flutter/flutter/issues/118063) | 33 | 2
 Missing default context menu buttons on each platform [flutter/flutter#107578](https://github.com/flutter/flutter/issues/107578) | 24 | 2
@@ -72,7 +72,7 @@ Background Clipping in Dismissible [flutter/flutter#56812](https://github.com/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`f: cupertino` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 949 | [72](#flutter-flutter-101479-graph)
@@ -86,18 +86,19 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 0
-IOS back gesture dismisses top route instead of its own route [flutter/flutter#33875](https://github.com/flutter/flutter/issues/33875) | 22 | 0
+[Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [5](#flutter-flutter-160725-graph)
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 47 | 3
+TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 25 | 3
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 21 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 118 | 2
 A KeyRepeatEvent is dispatched, but the state shows that the physical key is not pressed [flutter/flutter#107972](https://github.com/flutter/flutter/issues/107972) | 32 | 2
@@ -109,12 +110,11 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 24 | 1
-LastPass doesn't support text fields in Flutter apps [flutter/flutter#27918](https://github.com/flutter/flutter/issues/27918) | 22 | 1
 iOS Keyboard flickers when switching the TextFields which have obscureText set to true [flutter/flutter#88354](https://github.com/flutter/flutter/issues/88354) | 22 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-accessibility` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-go_router` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-tool` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,14 +152,14 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-engine` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 346 | [15](#flutter-flutter-18443-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 37 | [15](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 237 | [12](#flutter-flutter-61229-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 58 | [10](#flutter-flutter-166248-graph)
-Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 557 | [8](#flutter-flutter-26801-graph)
+Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 558 | [9](#flutter-flutter-26801-graph)
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 357 | [7](#flutter-flutter-128313-graph)
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 53 | [7](#flutter-flutter-47928-graph)
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 219 | [5](#flutter-flutter-11754-graph)
@@ -168,18 +168,18 @@ Support home and lock screen widgets [flutter/flutter#26134](https://github.com/
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 66 | 4
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 60 | 4
 Pressing and releasing a key before the framework has started throws [flutter/flutter#125975](https://github.com/flutter/flutter/issues/125975) | 21 | 3
-Emojis render no color on macOS Desktop [flutter/flutter#100964](https://github.com/flutter/flutter/issues/100964) | 19 | 3
 [Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 3
+Emojis render no color on macOS Desktop [flutter/flutter#100964](https://github.com/flutter/flutter/issues/100964) | 19 | 3
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-ios` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 66 | [41](#flutter-flutter-175099-graph)
+[iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 69 | [44](#flutter-flutter-175099-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 80 | [16](#flutter-flutter-172434-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 35 | [7](#flutter-flutter-175962-graph)
 [iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 34 | [5](#flutter-flutter-164483-graph)
@@ -190,14 +190,14 @@ Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/f
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 55 | 3
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 33 | 3
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 27 | 3
+TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 25 | 3
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 292 | 2
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 157 | 2
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 118 | 2
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 20 | 2
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-android` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -215,11 +215,11 @@ App crash on Android device with type FlutterJNI.nativeUpdateRefreshRate [flutte
 Filtering `updateAcquireFence: Did not find frame.` out from flutter run output [flutter/flutter#104268](https://github.com/flutter/flutter/issues/104268) | 49 | 2
 Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 45 | 2
 Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error when using `flutter run` [flutter/flutter#38965](https://github.com/flutter/flutter/issues/38965) | 44 | 2
-Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 19 | 2
+systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 19 | 2
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-web` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`team-ecosystem` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`dart-lang/sdk` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -303,11 +303,11 @@ dart compile exe support static linking of C code [dart-lang/sdk#47718](https://
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 64 | 4
 ☂️ Documentation imports [dart-lang/sdk#56186](https://github.com/dart-lang/sdk/issues/56186) | 26 | 4
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 14 | 4
-Deprecating the legacy analyzer plugin system [dart-lang/sdk#62164](https://github.com/dart-lang/sdk/issues/62164) | 4 | 4
+Support for prefer_inline_return [dart-lang/sdk#62078](https://github.com/dart-lang/sdk/issues/62078) | 4 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-11-10 to 2026-02-09.
+`dart-lang/language` issues that received the most reactions from 2025-11-10 to 2026-02-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -414,6 +414,23 @@ Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang
   </details>
   </sub>
 
+<a name="flutter-flutter-175099-graph"></a>
+### [iOS] Tap interactions not working on iOS 26 for webview_flutter
+  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 69 total reactions, 44 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
+    y-axis "Reactions"
+    line [33, 38, 45, 49, 51, 60, 61, 61, 63, 65, 65, 65, 66, 69]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-179012-graph"></a>
 ### Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter
   <sub>[flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) &mdash; 43 total reactions, 43 recent reactions</sub><br />
@@ -426,23 +443,6 @@ Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang
     x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
     y-axis "Reactions"
     line [0, 0, 42, 42, 42, 42, 42, 43, 43, 43, 43, 43, 43, 43]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-175099-graph"></a>
-### [iOS] Tap interactions not working on iOS 26 for webview_flutter
-  <sub>[flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) &mdash; 66 total reactions, 41 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
-    y-axis "Reactions"
-    line [33, 38, 45, 49, 51, 60, 61, 61, 63, 65, 65, 65, 66, 66]
   ```
 
   </details>
@@ -839,6 +839,23 @@ Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang
   </details>
   </sub>
 
+<a name="flutter-flutter-26801-graph"></a>
+### Apple CarPlay / Android Auto support?
+  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 558 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
+    y-axis "Reactions"
+    line [550, 550, 551, 552, 553, 553, 553, 553, 554, 555, 557, 557, 557, 558]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-524-graph"></a>
 ### Feature: Statically checked declaration-site variance
   <sub>[dart-lang/language#524](https://github.com/dart-lang/language/issues/524) &mdash; 259 total reactions, 9 recent reactions</sub><br />
@@ -919,23 +936,6 @@ Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang
     x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 4, 6, 7, 7, 9, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-26801-graph"></a>
-### Apple CarPlay / Android Auto support?
-  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 557 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
-    y-axis "Reactions"
-    line [550, 550, 551, 552, 553, 553, 553, 553, 554, 555, 557, 557, 557, 557]
   ```
 
   </details>
