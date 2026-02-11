@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-11-10 to 2026-02-10.
+Issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-framework` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter clipboard should support images [flutter/flutter#32045](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-design` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -64,15 +64,15 @@ Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutte
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 312 | 3
 Add support for preferredSize with context  in `PreferredSizeWidget` [flutter/flutter#116136](https://github.com/flutter/flutter/issues/116136) | 19 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 2
-Decoration for unselected tabs in TabBar [flutter/flutter#75588](https://github.com/flutter/flutter/issues/75588) | 68 | 2
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 68 | 2
+Decoration for unselected tabs in TabBar [flutter/flutter#75588](https://github.com/flutter/flutter/issues/75588) | 68 | 2
 Add support for RefreshIndicator to be used with SliverAppBar [flutter/flutter#54272](https://github.com/flutter/flutter/issues/54272) | 39 | 2
 (Material3) Cannot Theme `FilledButton` and `FilledButton.tonal` Variants Separately [flutter/flutter#118063](https://github.com/flutter/flutter/issues/118063) | 33 | 2
 Missing default context menu buttons on each platform [flutter/flutter#107578](https://github.com/flutter/flutter/issues/107578) | 24 | 2
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`f: cupertino` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 950 | [73](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [5](#flutter-flutter-160725-graph)
@@ -110,11 +110,11 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 24 | 1
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 1
-LastPass doesn't support text fields in Flutter apps [flutter/flutter#27918](https://github.com/flutter/flutter/issues/27918) | 22 | 1
+iOS Keyboard flickers when switching the TextFields which have obscureText set to true [flutter/flutter#88354](https://github.com/flutter/flutter/issues/88354) | 22 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-accessibility` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-go_router` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-tool` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-engine` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 346 | [15](#flutter-flutter-18443-graph)
@@ -168,14 +168,14 @@ Support home and lock screen widgets [flutter/flutter#26134](https://github.com/
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 66 | 4
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 60 | 4
 Pressing and releasing a key before the framework has started throws [flutter/flutter#125975](https://github.com/flutter/flutter/issues/125975) | 21 | 3
-[Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 3
 Emojis render no color on macOS Desktop [flutter/flutter#100964](https://github.com/flutter/flutter/issues/100964) | 19 | 3
+[Text widget] Emojis do not center correctly [flutter/flutter#119623](https://github.com/flutter/flutter/issues/119623) | 19 | 3
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-ios` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-android` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error whe
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-web` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`team-ecosystem` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`dart-lang/sdk` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Support for prefer_inline_return [dart-lang/sdk#62078](https://github.com/dart-l
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-11-10 to 2026-02-10.
+`dart-lang/language` issues that received the most reactions from 2025-11-10 to 2026-02-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1485,23 +1485,6 @@ Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-39091-graph"></a>
-### [video_player] add Linux support
-  <sub>[flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) &mdash; 56 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
-    y-axis "Reactions"
-    line [51, 51, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-91247-graph"></a>
 ### [camera] Support choosing lenses
   <sub>[flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) &mdash; 56 total reactions, 5 recent reactions</sub><br />
@@ -1514,6 +1497,23 @@ Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang
     x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
     y-axis "Reactions"
     line [52, 52, 53, 53, 53, 55, 55, 55, 55, 55, 55, 55, 55, 56]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-39091-graph"></a>
+### [video_player] add Linux support
+  <sub>[flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) &mdash; 56 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
+    y-axis "Reactions"
+    line [51, 51, 51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56]
   ```
 
   </details>
@@ -1570,23 +1570,6 @@ Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-124595-graph"></a>
-### flutter image picker is slow to pick larger files
-  <sub>[flutter/flutter#124595](https://github.com/flutter/flutter/issues/124595) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-152709-graph"></a>
 ### [Web] App crashes on safari on iOS when loading large images
   <sub>[flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) &mdash; 18 total reactions, 5 recent reactions</sub><br />
@@ -1599,6 +1582,23 @@ Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang
     x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
     y-axis "Reactions" 0 --> 20
     line [13, 14, 14, 15, 16, 16, 16, 16, 16, 18, 18, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-124595-graph"></a>
+### flutter image picker is slow to pick larger files
+  <sub>[flutter/flutter#124595](https://github.com/flutter/flutter/issues/124595) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 10, Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 18]
   ```
 
   </details>
