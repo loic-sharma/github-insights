@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-11-17 to 2026-02-14.
+Issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/is
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-framework` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ StackOverflowError when building too many widgets [flutter/flutter#85026](https:
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-design` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Background Clipping in Dismissible [flutter/flutter#56812](https://github.com/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`f: cupertino` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 972 | [93](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 27 | [5](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ iOS Keyboard flickers when switching the TextFields which have obscureText set t
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-accessibility` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-go_router` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-tool` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-engine` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 38 | [16](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ Emojis render no color on macOS Desktop [flutter/flutter#100964](https://github.
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-ios` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-android` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Add support for Android 13 per-app language preferences  [flutter/flutter#109842
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-web` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`team-ecosystem` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`dart-lang/sdk` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](htt
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-11-17 to 2026-02-14.
+`dart-lang/language` issues that received the most reactions from 2025-11-17 to 2026-02-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
