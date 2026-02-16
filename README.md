@@ -17,10 +17,10 @@ Proposal: Establish Standardized Primitives for Common Architectural Tasks in Fl
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 Windows significant performance regression after update from 3.35.7 to 3.38.2 [flutter/flutter#178916](https://github.com/flutter/flutter/issues/178916) | 20 | [20](#flutter-flutter-178916-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1228 | [19](#dart-lang-language-723-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2302 | [16](#dart-lang-language-314-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 81 | [16](#flutter-flutter-172434-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 38 | [16](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 240 | [15](#flutter-flutter-61229-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 235 | [15](#flutter-flutter-65504-graph)
 
 ## Trending issues by team
 
@@ -312,8 +312,8 @@ Support for prefer_inline_return [dart-lang/sdk#62078](https://github.com/dart-l
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1228 | [19](#dart-lang-language-723-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2302 | [16](#dart-lang-language-314-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 15 | [15](#dart-lang-language-4630-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2300 | [14](#dart-lang-language-314-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 94 | [10](#dart-lang-language-2128-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 32 | [9](#dart-lang-language-4154-graph)
 [Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 9 | [9](#dart-lang-language-4599-graph)
@@ -516,6 +516,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
+<a name="dart-lang-language-314-graph"></a>
+### Add data classes
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2302 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    y-axis "Reactions"
+    line [2287, 2287, 2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2302]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
   <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 81 total reactions, 16 recent reactions</sub><br />
@@ -596,23 +613,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-314-graph"></a>
-### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2300 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
-    y-axis "Reactions"
-    line [2287, 2287, 2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2300]
   ```
 
   </details>
