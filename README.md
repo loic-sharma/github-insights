@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 83 | [60](#flutter-flutter-177992-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 644 | [52](#flutter-flutter-170310-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [48](#flutter-flutter-178549-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 56 | [47](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 57 | [48](#dart-lang-sdk-61957-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 707 | [35](#flutter-flutter-168813-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 69 | [35](#flutter-flutter-175099-graph)
@@ -19,8 +19,8 @@ Windows significant performance regression after update from 3.35.7 to 3.38.2 [f
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1228 | [19](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2303 | [17](#dart-lang-language-314-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 17 | [17](#flutter-flutter-182244-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 236 | [16](#flutter-flutter-65504-graph)
 in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 81 | [16](#flutter-flutter-172434-graph)
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 38 | [16](#flutter-flutter-174980-graph)
 
 ## Trending issues by team
 
@@ -34,7 +34,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 235 | [15](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 236 | [16](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 234 | [11](#flutter-flutter-142845-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 68 | [9](#flutter-flutter-81005-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 207 | [7](#flutter-flutter-45336-graph)
@@ -289,7 +289,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 56 | [47](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 57 | [48](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 73 | [14](#dart-lang-sdk-56841-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [14](#dart-lang-sdk-61822-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [8](#dart-lang-sdk-45307-graph)
@@ -399,7 +399,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
 
 <a name="dart-lang-sdk-61957-graph"></a>
 ### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 56 total reactions, 47 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 57 total reactions, 48 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -408,7 +408,7 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   xychart-beta
     x-axis "Week" [Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
     y-axis "Reactions"
-    line [15, 23, 31, 34, 36, 37, 39, 40, 45, 47, 48, 51, 53, 56]
+    line [15, 23, 31, 34, 36, 37, 39, 40, 45, 47, 48, 51, 53, 57]
   ```
 
   </details>
@@ -550,6 +550,23 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 236 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    y-axis "Reactions"
+    line [221, 223, 228, 228, 230, 234, 234, 234, 234, 234, 234, 235, 235, 236]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-172434-graph"></a>
 ### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
   <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 81 total reactions, 16 recent reactions</sub><br />
@@ -601,9 +618,9 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   </details>
   </sub>
 
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 235 total reactions, 15 recent reactions</sub><br />
+<a name="flutter-flutter-180842-graph"></a>
+### iOS 18.x ,TextField next focus keyboard disappears and appears again
+  <sub>[flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) &mdash; 15 total reactions, 15 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -611,8 +628,8 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
   ```mermaid
   xychart-beta
     x-axis "Week" [Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
-    y-axis "Reactions"
-    line [221, 223, 228, 228, 230, 234, 234, 234, 234, 234, 234, 235, 235, 235]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
   ```
 
   </details>
@@ -630,23 +647,6 @@ More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-la
     x-axis "Week" [Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-180842-graph"></a>
-### iOS 18.x ,TextField next focus keyboard disappears and appears again
-  <sub>[flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 17, Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
   ```
 
   </details>
