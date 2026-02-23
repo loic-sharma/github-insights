@@ -2,13 +2,12 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-11-24 to 2026-02-22.
+Issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 977 | [91](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 736 | [55](#flutter-flutter-168813-graph)
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 84 | [55](#flutter-flutter-177992-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 646 | [45](#flutter-flutter-170310-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
@@ -17,10 +16,11 @@ Proposal: Establish Standardized Primitives for Common Architectural Tasks in Fl
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 20 | [20](#flutter-flutter-180842-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1228 | [19](#dart-lang-language-723-graph)
-`flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 18 | [18](#flutter-flutter-182244-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
+`flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 18 | [18](#flutter-flutter-182244-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2303 | [16](#dart-lang-language-314-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 240 | [15](#flutter-flutter-61229-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 38 | [15](#flutter-flutter-174980-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/is
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-framework` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-design` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Background Clipping in Dismissible [flutter/flutter#56812](https://github.com/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`f: cupertino` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 977 | [91](#flutter-flutter-101479-graph)
@@ -88,12 +88,12 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 0
-[Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
 IOS back gesture dismisses top route instead of its own route [flutter/flutter#33875](https://github.com/flutter/flutter/issues/33875) | 22 | 0
+[Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 20 | [20](#flutter-flutter-180842-graph)
@@ -109,12 +109,12 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 64 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
-[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 1
+Missing default context menu buttons on each platform [flutter/flutter#107578](https://github.com/flutter/flutter/issues/107578) | 24 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 24 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-accessibility` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-go_router` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-tool` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Multiplatform tooling: A way to store and update app properties, like name, desc
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-engine` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 240 | [15](#flutter-flutter-61229-graph)
@@ -175,15 +175,13 @@ Pressing and releasing a key before the framework has started throws [flutter/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-ios` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Overlays close immediately after opening on iPadOS 26.1 [flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) | 84 | [55](#flutter-flutter-177992-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 69 | [31](#flutter-flutter-175099-graph)
-in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product [flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) | 81 | [13](#flutter-flutter-172434-graph)
-[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 35 | [6](#flutter-flutter-164483-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 35 | [6](#flutter-flutter-175962-graph)
+[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 35 | [6](#flutter-flutter-164483-graph)
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 28 | [6](#flutter-flutter-113192-graph)
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 29 | [5](#flutter-flutter-130492-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [5](#flutter-flutter-160725-graph)
@@ -194,10 +192,12 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 292 | 2
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 158 | 2
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 157 | 2
+Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 118 | 2
+Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 33 | 2
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-android` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-web` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,13 +241,12 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 672 | [6](#flutter-flutter-41722-graph)
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 226 | [6](#flutter-flutter-41980-graph)
-Windows significant performance regression after update from 3.35.7 to 3.38.2 [flutter/flutter#178916](https://github.com/flutter/flutter/issues/178916) | 20 | [6](#flutter-flutter-178916-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 483 | [5](#flutter-flutter-31713-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 146 | [5](#flutter-flutter-41724-graph)
 [video_player] add Linux support [flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) | 56 | [5](#flutter-flutter-39091-graph)
@@ -260,10 +259,11 @@ Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 49 | 2
 A KeyRepeatEvent is dispatched, but the state shows that the physical key is not pressed [flutter/flutter#107972](https://github.com/flutter/flutter/issues/107972) | 32 | 2
 Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://github.com/flutter/flutter/issues/64958) | 226 | 1
+[video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 199 | 1
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`team-ecosystem` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`dart-lang/sdk` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Support using Dart embeded into other executables [dart-lang/sdk#61824](https://
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-11-24 to 2026-02-22.
+`dart-lang/language` issues that received the most reactions from 2025-11-24 to 2026-02-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -338,9 +338,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [888, 892, 894, 925, 934, 934, 935, 943, 946, 949, 949, 973, 977]
+    line [888, 892, 894, 925, 934, 934, 935, 943, 946, 949, 949, 973, 977, 977]
   ```
 
   </details>
@@ -355,26 +355,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [684, 685, 687, 691, 692, 691, 694, 698, 701, 702, 703, 706, 736]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-177992-graph"></a>
-### Overlays close immediately after opening on iPadOS 26.1
-  <sub>[flutter/flutter#177992](https://github.com/flutter/flutter/issues/177992) &mdash; 84 total reactions, 55 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
-    y-axis "Reactions"
-    line [38, 43, 48, 48, 52, 54, 66, 68, 72, 76, 76, 82, 84]
+    line [684, 685, 687, 691, 692, 691, 694, 698, 701, 702, 703, 706, 736, 736]
   ```
 
   </details>
@@ -389,9 +372,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [608, 609, 612, 617, 620, 626, 628, 630, 634, 635, 640, 643, 646]
+    line [608, 609, 612, 617, 620, 626, 628, 630, 634, 635, 640, 643, 646, 646]
   ```
 
   </details>
@@ -406,9 +389,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [18, 20, 60, 60, 62, 62, 62, 63, 63, 63, 63, 63, 63]
+    line [18, 20, 60, 60, 62, 62, 62, 63, 63, 63, 63, 63, 63, 63]
   ```
 
   </details>
@@ -423,9 +406,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [42, 42, 42, 42, 42, 43, 43, 43, 43, 43, 43, 43, 43]
+    line [42, 42, 42, 42, 42, 43, 43, 43, 43, 43, 43, 43, 43, 43]
   ```
 
   </details>
@@ -440,9 +423,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [23, 31, 34, 36, 37, 39, 40, 45, 47, 48, 51, 53, 57]
+    line [23, 31, 34, 36, 37, 39, 40, 45, 47, 48, 51, 53, 57, 57]
   ```
 
   </details>
@@ -457,9 +440,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [45, 49, 51, 60, 61, 61, 63, 65, 65, 65, 66, 69, 69]
+    line [45, 49, 51, 60, 61, 61, 63, 65, 65, 65, 66, 69, 69, 69]
   ```
 
   </details>
@@ -474,9 +457,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 19, 21, 21, 21, 21, 21]
+    line [0, 0, 0, 0, 0, 0, 0, 19, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -491,9 +474,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20]
   ```
 
   </details>
@@ -508,26 +491,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [1210, 1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-182244-graph"></a>
-### `flutter pub get` fails to get new Git Tags
-  <sub>[flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
+    line [1210, 1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1228]
   ```
 
   </details>
@@ -542,9 +508,26 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-182244-graph"></a>
+### `flutter pub get` fails to get new Git Tags
+  <sub>[flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 18]
   ```
 
   </details>
@@ -559,9 +542,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [2287, 2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303]
+    line [2287, 2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303]
   ```
 
   </details>
@@ -576,9 +559,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [228, 230, 233, 235, 235, 236, 236, 236, 236, 237, 237, 240, 240]
+    line [228, 230, 233, 235, 235, 236, 236, 236, 236, 237, 237, 240, 240, 240]
   ```
 
   </details>
@@ -593,9 +576,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [25, 26, 32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38]
+    line [25, 26, 32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38, 38]
   ```
 
   </details>
@@ -610,9 +593,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [223, 228, 228, 230, 234, 234, 234, 234, 234, 234, 235, 235, 236]
+    line [223, 228, 228, 230, 234, 234, 234, 234, 234, 234, 235, 235, 236, 236]
   ```
 
   </details>
@@ -627,26 +610,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [58, 61, 61, 62, 62, 69, 69, 69, 70, 71, 71, 72, 73]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-172434-graph"></a>
-### in app purchase in iOS always return status == PurchaseStatus.restored when purchasing product
-  <sub>[flutter/flutter#172434](https://github.com/flutter/flutter/issues/172434) &mdash; 81 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
-    y-axis "Reactions"
-    line [70, 70, 71, 71, 72, 74, 74, 74, 76, 79, 80, 81, 81]
+    line [58, 61, 61, 62, 62, 69, 69, 69, 70, 71, 71, 72, 73, 73]
   ```
 
   </details>
@@ -661,9 +627,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [4, 4, 4, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+    line [4, 4, 4, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -678,9 +644,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
   ```
 
   </details>
@@ -695,9 +661,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [85, 86, 86, 88, 88, 88, 89, 90, 91, 92, 92, 94, 95]
+    line [85, 86, 86, 88, 88, 88, 89, 90, 91, 92, 92, 94, 95, 95]
   ```
 
   </details>
@@ -712,9 +678,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [224, 225, 227, 227, 228, 229, 230, 230, 231, 231, 231, 234, 234]
+    line [224, 225, 227, 227, 228, 229, 230, 230, 231, 231, 231, 234, 234, 234]
   ```
 
   </details>
@@ -729,9 +695,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [48, 48, 49, 49, 49, 51, 52, 55, 58, 58, 58, 58, 58]
+    line [48, 48, 49, 49, 49, 51, 52, 55, 58, 58, 58, 58, 58, 58]
   ```
 
   </details>
@@ -746,9 +712,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10]
+    line [0, 0, 0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10, 10]
   ```
 
   </details>
@@ -763,9 +729,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [23, 25, 26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32]
+    line [23, 25, 26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32, 32]
   ```
 
   </details>
@@ -780,9 +746,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [551, 552, 553, 553, 553, 553, 554, 555, 557, 557, 557, 558, 558]
+    line [551, 552, 553, 553, 553, 553, 554, 555, 557, 557, 557, 558, 558, 558]
   ```
 
   </details>
@@ -797,9 +763,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [60, 62, 64, 64, 65, 65, 66, 67, 67, 67, 67, 68, 68]
+    line [60, 62, 64, 64, 65, 65, 66, 67, 67, 67, 67, 68, 68, 68]
   ```
 
   </details>
@@ -814,9 +780,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [31, 31, 31, 34, 34, 35, 37, 38, 38, 38, 38, 38, 39]
+    line [31, 31, 31, 34, 34, 35, 37, 38, 38, 38, 38, 38, 39, 39]
   ```
 
   </details>
@@ -831,9 +797,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [28, 28, 28, 28, 28, 31, 32, 32, 32, 32, 34, 36, 36]
+    line [28, 28, 28, 28, 28, 31, 32, 32, 32, 32, 34, 36, 36, 36]
   ```
 
   </details>
@@ -848,9 +814,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [18, 18, 18, 19, 19, 19, 19, 19, 26, 26, 26, 26, 26]
+    line [18, 18, 18, 19, 19, 19, 19, 19, 26, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -865,9 +831,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [339, 340, 340, 340, 340, 342, 343, 343, 344, 345, 346, 346, 346]
+    line [339, 340, 340, 340, 340, 342, 343, 343, 344, 345, 346, 346, 346, 346]
   ```
 
   </details>
@@ -882,9 +848,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [265, 265, 266, 267, 269, 269, 269, 269, 270, 270, 270, 270, 272]
+    line [265, 265, 266, 267, 269, 269, 269, 269, 270, 270, 270, 270, 272, 272]
   ```
 
   </details>
@@ -899,9 +865,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [252, 252, 253, 253, 257, 257, 257, 258, 258, 258, 259, 259, 259]
+    line [252, 252, 253, 253, 257, 257, 257, 258, 258, 258, 259, 259, 259, 259]
   ```
 
   </details>
@@ -916,9 +882,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [200, 200, 201, 202, 202, 203, 203, 203, 203, 205, 207, 207, 207]
+    line [200, 200, 201, 202, 202, 203, 203, 203, 203, 205, 207, 207, 207, 207]
   ```
 
   </details>
@@ -933,9 +899,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [46, 46, 46, 47, 47, 47, 47, 49, 50, 51, 53, 53, 53]
+    line [46, 46, 46, 47, 47, 47, 47, 49, 50, 51, 53, 53, 53, 53]
   ```
 
   </details>
@@ -950,9 +916,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [18, 18, 18, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25]
+    line [18, 18, 18, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -967,9 +933,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 7]
   ```
 
   </details>
@@ -984,9 +950,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [1700, 1700, 1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706]
+    line [1700, 1700, 1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1706]
   ```
 
   </details>
@@ -1001,9 +967,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [672, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672]
+    line [672, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672, 672]
   ```
 
   </details>
@@ -1018,9 +984,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [558, 558, 558, 560, 560, 561, 561, 561, 562, 562, 562, 562, 564]
+    line [558, 558, 558, 560, 560, 561, 561, 561, 562, 562, 562, 562, 564, 564]
   ```
 
   </details>
@@ -1035,9 +1001,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [423, 424, 426, 426, 426, 426, 426, 426, 429, 429, 429, 429, 429]
+    line [423, 424, 426, 426, 426, 426, 426, 426, 429, 429, 429, 429, 429, 429]
   ```
 
   </details>
@@ -1052,9 +1018,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [220, 220, 220, 222, 222, 222, 222, 222, 222, 222, 222, 226, 226]
+    line [220, 220, 220, 222, 222, 222, 222, 222, 222, 222, 222, 226, 226, 226]
   ```
 
   </details>
@@ -1069,26 +1035,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [145, 145, 145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-164483-graph"></a>
-### [iOS] Extra silent accessibility focus before first ListView item
-  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 35 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
-    y-axis "Reactions"
-    line [29, 29, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35]
+    line [145, 145, 145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 149]
   ```
 
   </details>
@@ -1103,9 +1052,26 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [29, 31, 31, 31, 32, 32, 33, 35, 35, 35, 35, 35, 35]
+    line [29, 31, 31, 31, 32, 32, 33, 35, 35, 35, 35, 35, 35, 35]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-164483-graph"></a>
+### [iOS] Extra silent accessibility focus before first ListView item
+  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 35 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [29, 29, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 35]
   ```
 
   </details>
@@ -1120,9 +1086,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 28]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 28, 28]
   ```
 
   </details>
@@ -1137,9 +1103,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [21, 21, 21, 26, 26, 26, 27, 27, 27, 27, 27, 27, 27]
+    line [21, 21, 21, 26, 26, 26, 27, 27, 27, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -1154,26 +1120,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 20, 25, 25]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-178916-graph"></a>
-### Windows significant performance regression after update from 3.35.7 to 3.38.2
-  <sub>[flutter/flutter#178916](https://github.com/flutter/flutter/issues/178916) &mdash; 20 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 14, 15, 17, 18, 20, 20, 20]
+    line [19, 19, 19, 19, 19, 19, 19, 19, 19, 19, 20, 25, 25, 25]
   ```
 
   </details>
@@ -1188,9 +1137,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 15]
+    line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 15, 15]
   ```
 
   </details>
@@ -1205,9 +1154,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1222,9 +1171,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [478, 478, 479, 479, 481, 481, 482, 482, 482, 482, 482, 482, 483]
+    line [478, 478, 479, 479, 481, 481, 482, 482, 482, 482, 482, 482, 483, 483]
   ```
 
   </details>
@@ -1239,9 +1188,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [329, 329, 329, 329, 333, 333, 333, 333, 333, 333, 333, 333, 334]
+    line [329, 329, 329, 329, 333, 333, 333, 333, 333, 333, 333, 333, 334, 334]
   ```
 
   </details>
@@ -1256,9 +1205,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [305, 305, 305, 305, 306, 306, 307, 308, 308, 308, 309, 309, 309]
+    line [305, 305, 305, 305, 306, 306, 307, 308, 308, 308, 309, 309, 309, 309]
   ```
 
   </details>
@@ -1273,9 +1222,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [215, 216, 216, 216, 216, 217, 218, 218, 218, 219, 219, 219, 219]
+    line [215, 216, 216, 216, 216, 217, 218, 218, 218, 219, 219, 219, 219, 219]
   ```
 
   </details>
@@ -1290,9 +1239,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [142, 142, 143, 144, 145, 145, 145, 145, 146, 146, 146, 146, 146]
+    line [142, 142, 143, 144, 145, 145, 145, 145, 146, 146, 146, 146, 146, 146]
   ```
 
   </details>
@@ -1307,9 +1256,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [116, 117, 118, 118, 118, 118, 119, 119, 120, 121, 121, 121, 121]
+    line [116, 117, 118, 118, 118, 118, 119, 119, 120, 121, 121, 121, 121, 121]
   ```
 
   </details>
@@ -1324,9 +1273,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99]
+    line [94, 94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99]
   ```
 
   </details>
@@ -1341,9 +1290,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99]
+    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99]
   ```
 
   </details>
@@ -1358,9 +1307,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [86, 88, 88, 88, 88, 89, 89, 89, 90, 90, 90, 90, 90]
+    line [86, 88, 88, 88, 88, 89, 89, 89, 90, 90, 90, 90, 90, 90]
   ```
 
   </details>
@@ -1375,9 +1324,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [70, 71, 71, 73, 75, 75, 75, 75, 75, 75, 75, 75, 75]
+    line [70, 71, 71, 73, 75, 75, 75, 75, 75, 75, 75, 75, 75, 75]
   ```
 
   </details>
@@ -1392,9 +1341,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [62, 62, 63, 64, 64, 66, 66, 66, 66, 66, 66, 67, 67]
+    line [62, 62, 63, 64, 64, 66, 66, 66, 66, 66, 66, 67, 67, 67]
   ```
 
   </details>
@@ -1409,9 +1358,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [60, 60, 61, 62, 62, 62, 62, 63, 63, 63, 64, 64, 65]
+    line [60, 60, 61, 62, 62, 62, 62, 63, 63, 63, 64, 64, 65, 65]
   ```
 
   </details>
@@ -1426,9 +1375,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56]
+    line [51, 51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56, 56]
   ```
 
   </details>
@@ -1443,9 +1392,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52]
+    line [47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52, 52]
   ```
 
   </details>
@@ -1460,9 +1409,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [35, 35, 35, 37, 38, 38, 38, 38, 38, 40, 40, 40, 40]
+    line [35, 35, 35, 37, 38, 38, 38, 38, 38, 40, 40, 40, 40, 40]
   ```
 
   </details>
@@ -1477,9 +1426,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 34, 38, 38]
+    line [33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 34, 38, 38, 38]
   ```
 
   </details>
@@ -1494,9 +1443,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [25, 26, 26, 26, 26, 26, 26, 29, 29, 29, 30, 30, 30]
+    line [25, 26, 26, 26, 26, 26, 26, 29, 29, 29, 30, 30, 30, 30]
   ```
 
   </details>
@@ -1511,9 +1460,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [25, 26, 26, 26, 26, 26, 26, 26, 26, 27, 27, 29, 29]
+    line [25, 26, 26, 26, 26, 26, 26, 26, 26, 27, 27, 29, 29, 29]
   ```
 
   </details>
@@ -1528,9 +1477,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21]
+    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21, 21]
   ```
 
   </details>
@@ -1545,9 +1494,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [16, 18, 19, 19, 19, 19, 19, 19, 21, 21, 21, 21, 21]
+    line [16, 18, 19, 19, 19, 19, 19, 19, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1562,9 +1511,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [14, 15, 16, 16, 16, 16, 16, 18, 18, 18, 18, 18, 19]
+    line [14, 15, 16, 16, 16, 16, 16, 18, 18, 18, 18, 18, 19, 19]
   ```
 
   </details>
@@ -1579,9 +1528,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 18, 18, 18]
   ```
 
   </details>
@@ -1596,9 +1545,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [11, 11, 15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16]
+    line [11, 11, 15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16]
   ```
 
   </details>
@@ -1613,9 +1562,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [10, 10, 10, 10, 11, 14, 15, 15, 15, 15, 15, 15, 15]
+    line [10, 10, 10, 10, 11, 14, 15, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1630,9 +1579,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16]
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 10, 10, 10, 10, 11, 12, 12, 12, 12, 12, 14]
+    line [9, 9, 10, 10, 10, 10, 11, 12, 12, 12, 12, 12, 14, 14]
   ```
 
   </details>
