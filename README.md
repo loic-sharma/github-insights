@@ -292,7 +292,7 @@ Issue | Total reactions | Recent reactions
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 59 | [43](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 73 | [14](#dart-lang-sdk-56841-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [13](#dart-lang-sdk-61822-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 11 | [11](#dart-lang-sdk-62661-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 12 | [12](#dart-lang-sdk-62661-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 219 | [5](#dart-lang-sdk-55281-graph)
@@ -652,6 +652,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
+<a name="dart-lang-sdk-62661-graph"></a>
+### bug: glob workspace pattern reports `dart(path_does_not_exist)`
+  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 12 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 12]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-2128-graph"></a>
 ### Record spreading
   <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 95 total reactions, 11 recent reactions</sub><br />
@@ -681,23 +698,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [23, 25, 26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32, 34]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62661-graph"></a>
-### bug: glob workspace pattern reports `dart(path_does_not_exist)`
-  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 11]
   ```
 
   </details>
