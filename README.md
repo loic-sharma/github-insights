@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-11-24 to 2026-02-24.
+Issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-framework` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ StackOverflowError when building too many widgets [flutter/flutter#85026](https:
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-design` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ RefreshIndicator cannot be canceled on Android [flutter/flutter#36158](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`f: cupertino` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 979 | [93](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 20 | [20](#flutter-flutter-180842-graph)
@@ -109,12 +109,12 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 64 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
-Missing default context menu buttons on each platform [flutter/flutter#107578](https://github.com/flutter/flutter/issues/107578) | 24 | 1
 [Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 1
+Missing default context menu buttons on each platform [flutter/flutter#107578](https://github.com/flutter/flutter/issues/107578) | 24 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-accessibility` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-go_router` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-tool` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -144,15 +144,15 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 82 | 1
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 60 | 1
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 1
-Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
+Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
 Flutter 3.32.0 cannot find package:integration_test when building with --no-pub flag [flutter/flutter#169336](https://github.com/flutter/flutter/issues/169336) | 14 | 1
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 173 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-engine` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 240 | [15](#flutter-flutter-61229-graph)
@@ -175,13 +175,13 @@ Pressing and releasing a key before the framework has started throws [flutter/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-ios` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 69 | [31](#flutter-flutter-175099-graph)
-[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 35 | [6](#flutter-flutter-164483-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 35 | [6](#flutter-flutter-175962-graph)
+[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 35 | [6](#flutter-flutter-164483-graph)
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 28 | [6](#flutter-flutter-113192-graph)
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 29 | [5](#flutter-flutter-130492-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [5](#flutter-flutter-160725-graph)
@@ -197,7 +197,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-android` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,12 +219,12 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-web` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
-SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 14 | [14](#flutter-flutter-182367-graph)
+SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 15 | [15](#flutter-flutter-182367-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 26 | [8](#flutter-flutter-87734-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [5](#flutter-flutter-172561-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 52 | [5](#flutter-flutter-156910-graph)
@@ -241,7 +241,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,12 +263,12 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`team-ecosystem` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
-SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 14 | [14](#flutter-flutter-182367-graph)
+SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 15 | [15](#flutter-flutter-182367-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 26 | [8](#flutter-flutter-87734-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [5](#flutter-flutter-172561-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 52 | [5](#flutter-flutter-156910-graph)
@@ -285,14 +285,14 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`dart-lang/sdk` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 59 | [43](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 73 | [14](#dart-lang-sdk-56841-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [13](#dart-lang-sdk-61822-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 9 | [9](#dart-lang-sdk-62661-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 11 | [11](#dart-lang-sdk-62661-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 219 | [5](#dart-lang-sdk-55281-graph)
@@ -307,7 +307,7 @@ Support using Dart embeded into other executables [dart-lang/sdk#61824](https://
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-11-24 to 2026-02-24.
+`dart-lang/language` issues that received the most reactions from 2025-11-24 to 2026-02-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -315,17 +315,17 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2303 | [16](#dart-lang-language-314-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 95 | [11](#dart-lang-language-2128-graph)
+Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 34 | [11](#dart-lang-language-4154-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 275 | [10](#dart-lang-language-2364-graph)
-Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 33 | [10](#dart-lang-language-4154-graph)
 [Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [10](#dart-lang-language-4599-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1707 | [7](#dart-lang-language-1482-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 259 | [7](#dart-lang-language-524-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1706 | [6](#dart-lang-language-1482-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 564 | [6](#dart-lang-language-83-graph)
 Late parameters, late-init-query operator, parameter element [dart-lang/language#3680](https://github.com/dart-lang/language/issues/3680) | 27 | [6](#dart-lang-language-3680-graph)
 Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://github.com/dart-lang/language/issues/783) | 99 | [5](#dart-lang-language-783-graph)
 More capable `Type` objects [dart-lang/language#4200](https://github.com/dart-lang/language/issues/4200) | 40 | [5](#dart-lang-language-4200-graph)
-Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://github.com/dart-lang/language/issues/399) | 240 | 4
+Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 27 | [5](#dart-lang-language-4321-graph)
 
 ## Graphs
 
@@ -601,6 +601,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="flutter-flutter-182367-graph"></a>
+### SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome
+  <sub>[flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 15]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 73 total reactions, 14 recent reactions</sub><br />
@@ -613,23 +630,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [58, 61, 61, 62, 62, 69, 69, 69, 70, 71, 71, 72, 73, 73]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-182367-graph"></a>
-### SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome
-  <sub>[flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14]
   ```
 
   </details>
@@ -664,6 +664,40 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [85, 86, 86, 88, 88, 88, 89, 90, 91, 92, 92, 94, 95, 95]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4154-graph"></a>
+### Augmentations
+  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 34 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [23, 25, 26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32, 34]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62661-graph"></a>
+### bug: glob workspace pattern reports `dart(path_does_not_exist)`
+  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 11]
   ```
 
   </details>
@@ -720,23 +754,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="dart-lang-language-4154-graph"></a>
-### Augmentations
-  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 33 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [23, 25, 26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32, 33]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4599-graph"></a>
 ### [Feature Request] Trailing Closure Syntax
   <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -749,23 +766,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62661-graph"></a>
-### bug: glob workspace pattern reports `dart(path_does_not_exist)`
-  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 9]
   ```
 
   </details>
@@ -856,6 +856,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
+<a name="dart-lang-language-1482-graph"></a>
+### Static Metaprogramming
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1707 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [1700, 1700, 1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-18443-graph"></a>
 ### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
   <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 346 total reactions, 7 recent reactions</sub><br />
@@ -936,23 +953,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [18, 18, 18, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1482-graph"></a>
-### Static Metaprogramming
-  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1706 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [1700, 1700, 1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1706]
   ```
 
   </details>
@@ -1043,23 +1043,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="flutter-flutter-164483-graph"></a>
-### [iOS] Extra silent accessibility focus before first ListView item
-  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 35 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [29, 29, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 35]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-175962-graph"></a>
 ### Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26
   <sub>[flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) &mdash; 35 total reactions, 6 recent reactions</sub><br />
@@ -1072,6 +1055,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [29, 31, 31, 31, 32, 32, 33, 35, 35, 35, 35, 35, 35, 35]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-164483-graph"></a>
+### [iOS] Extra silent accessibility focus before first ListView item
+  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 35 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [29, 29, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 35]
   ```
 
   </details>
@@ -1264,23 +1264,6 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="flutter-flutter-119328-graph"></a>
-### Introduce side sheets
-  <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-783-graph"></a>
 ### Typed Maps - like interfaces in TypeScript
   <sub>[dart-lang/language#783](https://github.com/dart-lang/language/issues/783) &mdash; 99 total reactions, 5 recent reactions</sub><br />
@@ -1293,6 +1276,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [94, 94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-119328-graph"></a>
+### Introduce side sheets
+  <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99]
   ```
 
   </details>
@@ -1468,9 +1468,9 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   </details>
   </sub>
 
-<a name="flutter-flutter-160725-graph"></a>
-### Laggy First Keyboard Open (Physical iOS Device)
-  <sub>[flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-language-4321-graph"></a>
+### Introduce throws keyword (like Swift) for marking throwable functions
+  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 27 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1479,7 +1479,7 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
   xychart-beta
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
-    line [16, 18, 19, 19, 19, 19, 19, 19, 21, 21, 21, 21, 21, 21]
+    line [22, 22, 22, 22, 22, 22, 23, 24, 24, 24, 24, 24, 25, 27]
   ```
 
   </details>
@@ -1497,6 +1497,23 @@ Add "Safe" (nullable) cast operator `as?` [dart-lang/language#399](https://githu
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-160725-graph"></a>
+### Laggy First Keyboard Open (Physical iOS Device)
+  <sub>[flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [16, 18, 19, 19, 19, 19, 19, 19, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
