@@ -19,8 +19,8 @@ iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/fl
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1228 | [19](#dart-lang-language-723-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2303 | [16](#dart-lang-language-314-graph)
+SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 16 | [16](#flutter-flutter-182367-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 240 | [15](#flutter-flutter-61229-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 237 | [15](#flutter-flutter-65504-graph)
 
 ## Trending issues by team
 
@@ -224,7 +224,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
-SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 15 | [15](#flutter-flutter-182367-graph)
+SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 16 | [16](#flutter-flutter-182367-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 26 | [8](#flutter-flutter-87734-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [5](#flutter-flutter-172561-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 52 | [5](#flutter-flutter-156910-graph)
@@ -268,7 +268,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
-SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 15 | [15](#flutter-flutter-182367-graph)
+SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 16 | [16](#flutter-flutter-182367-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 26 | [8](#flutter-flutter-87734-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [5](#flutter-flutter-172561-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 52 | [5](#flutter-flutter-156910-graph)
@@ -550,6 +550,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
+<a name="flutter-flutter-182367-graph"></a>
+### SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome
+  <sub>[flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 16]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 240 total reactions, 15 recent reactions</sub><br />
@@ -596,23 +613,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [25, 26, 32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38, 38]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-182367-graph"></a>
-### SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome
-  <sub>[flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) &mdash; 15 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 15]
   ```
 
   </details>
