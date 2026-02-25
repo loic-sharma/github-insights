@@ -236,8 +236,8 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 4
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 3
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 3
+Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 148 | 3
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | 3
-[web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 3
 
 #### Desktop
 
@@ -280,8 +280,8 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 4
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 3
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 3
+Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 148 | 3
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | 3
-[web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 3
 
 ### Dart SDK
 
@@ -1281,23 +1281,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-language-783-graph"></a>
-### Typed Maps - like interfaces in TypeScript
-  <sub>[dart-lang/language#783](https://github.com/dart-lang/language/issues/783) &mdash; 99 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-119328-graph"></a>
 ### Introduce side sheets
   <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
@@ -1310,6 +1293,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-783-graph"></a>
+### Typed Maps - like interfaces in TypeScript
+  <sub>[dart-lang/language#783](https://github.com/dart-lang/language/issues/783) &mdash; 99 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [94, 94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99]
   ```
 
   </details>
