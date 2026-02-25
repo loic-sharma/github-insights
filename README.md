@@ -14,8 +14,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 69 | [31](#flutter-flutter-175099-graph)
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
-`flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 20 | [20](#flutter-flutter-180842-graph)
+`flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1228 | [19](#dart-lang-language-723-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2303 | [16](#dart-lang-language-314-graph)
@@ -109,7 +109,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 64 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
-[Autofill] TextInput.finishAutofillContext() doesn't bring up the system prompt [flutter/flutter#116889](https://github.com/flutter/flutter/issues/116889) | 24 | 1
+[Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 24 | 1
 Missing default context menu buttons on each platform [flutter/flutter#107578](https://github.com/flutter/flutter/issues/107578) | 24 | 1
 
 #### Accessibility
@@ -144,8 +144,8 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 82 | 1
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 60 | 1
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 1
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
 Flutter 3.32.0 cannot find package:integration_test when building with --no-pub flag [flutter/flutter#169336](https://github.com/flutter/flutter/issues/169336) | 14 | 1
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 173 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
@@ -180,8 +180,8 @@ Pressing and releasing a key before the framework has started throws [flutter/fl
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 69 | [31](#flutter-flutter-175099-graph)
-[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 35 | [6](#flutter-flutter-164483-graph)
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 35 | [6](#flutter-flutter-175962-graph)
+[iOS] Extra silent accessibility focus before first ListView item [flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) | 35 | [6](#flutter-flutter-164483-graph)
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 28 | [6](#flutter-flutter-113192-graph)
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 29 | [5](#flutter-flutter-130492-graph)
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | [5](#flutter-flutter-160725-graph)
@@ -465,23 +465,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-182244-graph"></a>
-### `flutter pub get` fails to get new Git Tags
-  <sub>[flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-180842-graph"></a>
 ### iOS 18.x ,TextField next focus keyboard disappears and appears again
   <sub>[flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -494,6 +477,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-182244-graph"></a>
+### `flutter pub get` fails to get new Git Tags
+  <sub>[flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20]
   ```
 
   </details>
@@ -1043,23 +1043,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-164483-graph"></a>
-### [iOS] Extra silent accessibility focus before first ListView item
-  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 35 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [29, 29, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 35]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-175962-graph"></a>
 ### Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26
   <sub>[flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) &mdash; 35 total reactions, 6 recent reactions</sub><br />
@@ -1072,6 +1055,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [29, 31, 31, 31, 32, 32, 33, 35, 35, 35, 35, 35, 35, 35]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-164483-graph"></a>
+### [iOS] Extra silent accessibility focus before first ListView item
+  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 35 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [29, 29, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 35]
   ```
 
   </details>
@@ -1281,23 +1281,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-119328-graph"></a>
-### Introduce side sheets
-  <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-783-graph"></a>
 ### Typed Maps - like interfaces in TypeScript
   <sub>[dart-lang/language#783](https://github.com/dart-lang/language/issues/783) &mdash; 99 total reactions, 5 recent reactions</sub><br />
@@ -1310,6 +1293,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [94, 94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-119328-graph"></a>
+### Introduce side sheets
+  <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99]
   ```
 
   </details>
@@ -1502,23 +1502,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59988-graph"></a>
-### "Find usages" finds unrelated "call" method usages.
-  <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-160725-graph"></a>
 ### Laggy First Keyboard Open (Physical iOS Device)
   <sub>[flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) &mdash; 21 total reactions, 5 recent reactions</sub><br />
@@ -1531,6 +1514,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [16, 18, 19, 19, 19, 19, 19, 19, 21, 21, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-59988-graph"></a>
+### "Find usages" finds unrelated "call" method usages.
+  <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21, 21]
   ```
 
   </details>
