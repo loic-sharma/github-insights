@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-11-24 to 2026-02-26.
+Issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -13,8 +13,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 60 | [44](#dart-lang-sdk-61957-graph)
 Proposal: Establish Standardized Primitives for Common Architectural Tasks in Flutter [flutter/flutter#179012](https://github.com/flutter/flutter/issues/179012) | 43 | [43](#flutter-flutter-179012-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 69 | [31](#flutter-flutter-175099-graph)
-[go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 21 | [21](#flutter-flutter-180842-graph)
+[go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1229 | [20](#dart-lang-language-723-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
@@ -28,7 +28,7 @@ SKWasm renderer. Low-level Runtime Error. The interface blocked completely after
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-framework` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Move useful Flutter types out of Flutter [flutter/flutter#149466](https://github
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-design` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ RefreshIndicator cannot be canceled on Android [flutter/flutter#36158](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`f: cupertino` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 979 | [93](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 21 | [21](#flutter-flutter-180842-graph)
@@ -102,19 +102,19 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 48 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 119 | 3
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 22 | 3
+[proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 65 | 2
 A KeyRepeatEvent is dispatched, but the state shows that the physical key is not pressed [flutter/flutter#107972](https://github.com/flutter/flutter/issues/107972) | 32 | 2
 FocusNode does not auto scroll to TextFormField when item already selected [flutter/flutter#58877](https://github.com/flutter/flutter/issues/58877) | 16 | 2
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 134 | 1
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 125 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 114 | 1
-[proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 64 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 24 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-accessibility` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-go_router` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-tool` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -146,13 +146,13 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 82 | 1
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 60 | 1
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 1
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-engine` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 240 | [15](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Pressing and releasing a key before the framework has started throws [flutter/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-ios` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-android` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-web` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`team-ecosystem` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,14 +285,14 @@ Scroll "back" on web causes browser back action (unless perfectly horizontal) [f
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`dart-lang/sdk` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 60 | [44](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 73 | [14](#dart-lang-sdk-56841-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [13](#dart-lang-sdk-61822-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 12 | [12](#dart-lang-sdk-62661-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 13 | [13](#dart-lang-sdk-62661-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 219 | [5](#dart-lang-sdk-55281-graph)
@@ -307,7 +307,7 @@ Support using Dart embeded into other executables [dart-lang/sdk#61824](https://
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-11-24 to 2026-02-26.
+`dart-lang/language` issues that received the most reactions from 2025-11-24 to 2026-02-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -448,23 +448,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-180002-graph"></a>
-### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
-  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 19, 21, 21, 21, 21, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-180842-graph"></a>
 ### iOS 18.x ,TextField next focus keyboard disappears and appears again
   <sub>[flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) &mdash; 21 total reactions, 21 recent reactions</sub><br />
@@ -477,6 +460,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-180002-graph"></a>
+### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
+  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 19, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -671,7 +671,7 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
 
 <a name="dart-lang-sdk-62661-graph"></a>
 ### bug: glob workspace pattern reports `dart(path_does_not_exist)`
-  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 12 total reactions, 12 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 13 total reactions, 13 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -680,7 +680,7 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   xychart-beta
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 12]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 13]
   ```
 
   </details>
@@ -1281,23 +1281,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-language-783-graph"></a>
-### Typed Maps - like interfaces in TypeScript
-  <sub>[dart-lang/language#783](https://github.com/dart-lang/language/issues/783) &mdash; 99 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-119328-graph"></a>
 ### Introduce side sheets
   <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
@@ -1310,6 +1293,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
     y-axis "Reactions"
     line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-783-graph"></a>
+### Typed Maps - like interfaces in TypeScript
+  <sub>[dart-lang/language#783](https://github.com/dart-lang/language/issues/783) &mdash; 99 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Nov 24, Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    y-axis "Reactions"
+    line [94, 94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99]
   ```
 
   </details>
