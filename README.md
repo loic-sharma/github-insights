@@ -252,10 +252,10 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 345 | 4
 Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 83 | 4
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 88 | 3
+Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 58 | 3
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 29 | 3
 Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 28 | 3
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 65 | 2
-Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 57 | 2
 Support stylus input on Windows 10 devices [flutter/flutter#65248](https://github.com/flutter/flutter/issues/65248) | 49 | 2
 A KeyRepeatEvent is dispatched, but the state shows that the physical key is not pressed [flutter/flutter#107972](https://github.com/flutter/flutter/issues/107972) | 32 | 2
 Consider hiding windows until the engine is active in the desktop runner templates [flutter/flutter#55427](https://github.com/flutter/flutter/issues/55427) | 15 | 2
