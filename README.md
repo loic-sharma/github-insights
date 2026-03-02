@@ -303,7 +303,7 @@ Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) 
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 14 | [5](#dart-lang-sdk-56573-graph)
 Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 219 | 4
-[proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 14 | 4
+Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](https://github.com/dart-lang/sdk/issues/52947) | 42 | 4
 
 ### Dart language
 
