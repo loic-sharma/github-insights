@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-01 to 2026-03-01.
+Issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -19,7 +19,7 @@ iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/fl
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2303 | [16](#dart-lang-language-314-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [16](#flutter-flutter-87734-graph)
-SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 16 | [16](#flutter-flutter-182367-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 238 | [15](#flutter-flutter-65504-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 73 | [15](#dart-lang-sdk-56841-graph)
 
 ## Trending issues by team
@@ -28,12 +28,12 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-framework` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 237 | [14](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 238 | [15](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 234 | [10](#flutter-flutter-142845-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 68 | [8](#flutter-flutter-81005-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 207 | [7](#flutter-flutter-45336-graph)
@@ -50,7 +50,7 @@ Desktop Client Side Decoration support [flutter/flutter#31373](https://github.co
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-design` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Background Clipping in Dismissible [flutter/flutter#56812](https://github.com/fl
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`f: cupertino` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 980 | [92](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 21 | [21](#flutter-flutter-180842-graph)
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-accessibility` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-go_router` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-tool` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -144,15 +144,15 @@ Support different dependencies when using flavors [flutter/flutter#46979](https:
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 82 | 1
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 60 | 1
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 1
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 160 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-engine` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 241 | [13](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Pressing and releasing a key before the framework has started throws [flutter/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-ios` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutt
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-android` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -206,7 +206,6 @@ Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 38 | [5](#flutter-flutter-104219-graph)
 flutter image picker is slow to pick larger files [flutter/flutter#124595](https://github.com/flutter/flutter/issues/124595) | 18 | [5](#flutter-flutter-124595-graph)
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 90 | 4
-Video player on Android 29 device does not play media [flutter/flutter#166481](https://github.com/flutter/flutter/issues/166481) | 22 | 4
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 75 | 3
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 56 | 3
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 67 | 2
@@ -216,16 +215,16 @@ Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error whe
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 97 | 1
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 86 | 1
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 76 | 1
+[integration_test] Enable sharding of integration test suites [flutter/flutter#101296](https://github.com/flutter/flutter/issues/101296) | 54 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-web` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [16](#flutter-flutter-87734-graph)
-SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 16 | [16](#flutter-flutter-182367-graph)
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 20 | [6](#flutter-flutter-152709-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [5](#flutter-flutter-172561-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 52 | [5](#flutter-flutter-156910-graph)
@@ -238,10 +237,11 @@ Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | 3
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 3
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 2
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 2
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,13 +263,12 @@ Make it easy to use C# for Windows plugins [flutter/flutter#64958](https://githu
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`team-ecosystem` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [16](#flutter-flutter-87734-graph)
-SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome [flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) | 16 | [16](#flutter-flutter-182367-graph)
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 20 | [6](#flutter-flutter-152709-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [5](#flutter-flutter-172561-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 52 | [5](#flutter-flutter-156910-graph)
@@ -282,10 +281,11 @@ Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | 3
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 3
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 2
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 2
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Support using Dart embeded into other executables [dart-lang/sdk#61824](https://
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-01 to 2026-03-01.
+`dart-lang/language` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -338,9 +338,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [892, 894, 925, 934, 934, 935, 943, 946, 949, 949, 973, 977, 980]
+    line [892, 894, 925, 934, 934, 935, 943, 946, 949, 949, 973, 977, 980, 980]
   ```
 
   </details>
@@ -355,9 +355,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [685, 687, 691, 692, 691, 694, 698, 701, 702, 703, 706, 736, 739]
+    line [685, 687, 691, 692, 691, 694, 698, 701, 702, 703, 706, 736, 739, 739]
   ```
 
   </details>
@@ -372,9 +372,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [20, 60, 60, 62, 62, 62, 63, 63, 63, 63, 63, 63, 63]
+    line [20, 60, 60, 62, 62, 62, 63, 63, 63, 63, 63, 63, 63, 63]
   ```
 
   </details>
@@ -389,9 +389,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [609, 612, 617, 620, 626, 628, 630, 634, 635, 640, 643, 646, 648]
+    line [609, 612, 617, 620, 626, 628, 630, 634, 635, 640, 643, 646, 648, 648]
   ```
 
   </details>
@@ -406,9 +406,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [31, 34, 36, 37, 39, 40, 45, 47, 48, 51, 53, 57, 61]
+    line [31, 34, 36, 37, 39, 40, 45, 47, 48, 51, 53, 57, 61, 61]
   ```
 
   </details>
@@ -423,9 +423,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [49, 51, 60, 61, 61, 63, 65, 65, 65, 66, 69, 69, 69]
+    line [49, 51, 60, 61, 61, 63, 65, 65, 65, 66, 69, 69, 69, 69]
   ```
 
   </details>
@@ -440,9 +440,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231]
+    line [1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1231]
   ```
 
   </details>
@@ -457,9 +457,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 21]
   ```
 
   </details>
@@ -474,9 +474,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 19, 21, 21, 21, 21, 21, 21]
+    line [0, 0, 0, 0, 0, 0, 19, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -491,9 +491,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20, 20]
   ```
 
   </details>
@@ -508,9 +508,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 18, 18, 18]
   ```
 
   </details>
@@ -525,9 +525,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303]
+    line [2287, 2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2303]
   ```
 
   </details>
@@ -542,26 +542,26 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [18, 18, 19, 19, 19, 19, 19, 26, 26, 26, 26, 26, 34]
+    line [18, 18, 19, 19, 19, 19, 19, 26, 26, 26, 26, 26, 34, 34]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-182367-graph"></a>
-### SKWasm renderer. Low-level Runtime Error. The interface blocked completely after 1-2 min on mobile Chrome
-  <sub>[flutter/flutter#182367](https://github.com/flutter/flutter/issues/182367) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 238 total reactions, 15 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 16]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [228, 228, 230, 234, 234, 234, 234, 234, 234, 235, 235, 236, 237, 238]
   ```
 
   </details>
@@ -576,26 +576,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [61, 61, 62, 62, 69, 69, 69, 70, 71, 71, 72, 73, 73]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 237 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [228, 228, 230, 234, 234, 234, 234, 234, 234, 235, 235, 236, 237]
+    line [61, 61, 62, 62, 69, 69, 69, 70, 71, 71, 72, 73, 73, 73]
   ```
 
   </details>
@@ -610,9 +593,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [230, 233, 235, 235, 236, 236, 236, 236, 237, 237, 240, 240, 241]
+    line [230, 233, 235, 235, 236, 236, 236, 236, 237, 237, 240, 240, 241, 241]
   ```
 
   </details>
@@ -627,9 +610,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [4, 4, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+    line [4, 4, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -644,9 +627,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 13, 13]
   ```
 
   </details>
@@ -661,9 +644,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [265, 266, 267, 269, 269, 269, 269, 270, 270, 270, 270, 272, 277]
+    line [265, 266, 267, 269, 269, 269, 269, 270, 270, 270, 270, 272, 277, 277]
   ```
 
   </details>
@@ -678,9 +661,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [26, 32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38, 38]
+    line [26, 32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38, 38, 38]
   ```
 
   </details>
@@ -695,9 +678,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [25, 26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32, 35]
+    line [25, 26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32, 35, 35]
   ```
 
   </details>
@@ -712,9 +695,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [225, 227, 227, 228, 229, 230, 230, 231, 231, 231, 234, 234, 234]
+    line [225, 227, 227, 228, 229, 230, 230, 231, 231, 231, 234, 234, 234, 234]
   ```
 
   </details>
@@ -729,9 +712,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [86, 86, 88, 88, 88, 89, 90, 91, 92, 92, 94, 95, 95]
+    line [86, 86, 88, 88, 88, 89, 90, 91, 92, 92, 94, 95, 95, 95]
   ```
 
   </details>
@@ -746,9 +729,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [48, 49, 49, 49, 51, 52, 55, 58, 58, 58, 58, 58, 58]
+    line [48, 49, 49, 49, 51, 52, 55, 58, 58, 58, 58, 58, 58, 58]
   ```
 
   </details>
@@ -763,9 +746,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10, 10]
+    line [0, 0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10, 10, 10]
   ```
 
   </details>
@@ -780,9 +763,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [552, 553, 553, 553, 553, 554, 555, 557, 557, 557, 558, 558, 559]
+    line [552, 553, 553, 553, 553, 554, 555, 557, 557, 557, 558, 558, 559, 559]
   ```
 
   </details>
@@ -797,9 +780,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [62, 64, 64, 65, 65, 66, 67, 67, 67, 67, 68, 68, 68]
+    line [62, 64, 64, 65, 65, 66, 67, 67, 67, 67, 68, 68, 68, 68]
   ```
 
   </details>
@@ -814,9 +797,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [31, 31, 34, 34, 35, 37, 38, 38, 38, 38, 38, 39, 39]
+    line [31, 31, 34, 34, 35, 37, 38, 38, 38, 38, 38, 39, 39, 39]
   ```
 
   </details>
@@ -831,9 +814,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [29, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 37]
+    line [29, 33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 37, 37]
   ```
 
   </details>
@@ -848,9 +831,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [28, 28, 28, 28, 31, 32, 32, 32, 32, 34, 36, 36, 36]
+    line [28, 28, 28, 28, 31, 32, 32, 32, 32, 34, 36, 36, 36, 36]
   ```
 
   </details>
@@ -865,9 +848,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [1700, 1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707]
+    line [1700, 1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1707]
   ```
 
   </details>
@@ -882,9 +865,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [340, 340, 340, 340, 342, 343, 343, 344, 345, 346, 346, 346, 346]
+    line [340, 340, 340, 340, 342, 343, 343, 344, 345, 346, 346, 346, 346, 346]
   ```
 
   </details>
@@ -899,9 +882,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [252, 253, 253, 257, 257, 257, 258, 258, 258, 259, 259, 259, 259]
+    line [252, 253, 253, 257, 257, 257, 258, 258, 258, 259, 259, 259, 259, 259]
   ```
 
   </details>
@@ -916,9 +899,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [200, 201, 202, 202, 203, 203, 203, 203, 205, 207, 207, 207, 207]
+    line [200, 201, 202, 202, 203, 203, 203, 203, 205, 207, 207, 207, 207, 207]
   ```
 
   </details>
@@ -933,9 +916,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [46, 46, 47, 47, 47, 47, 49, 50, 51, 53, 53, 53, 53]
+    line [46, 46, 47, 47, 47, 47, 49, 50, 51, 53, 53, 53, 53, 53]
   ```
 
   </details>
@@ -950,9 +933,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [18, 18, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25]
+    line [18, 18, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -967,9 +950,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [558, 558, 560, 560, 561, 561, 561, 562, 562, 562, 562, 564, 564]
+    line [558, 558, 560, 560, 561, 561, 561, 562, 562, 562, 562, 564, 564, 564]
   ```
 
   </details>
@@ -984,9 +967,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [478, 479, 479, 481, 481, 482, 482, 482, 482, 482, 482, 483, 484]
+    line [478, 479, 479, 481, 481, 482, 482, 482, 482, 482, 482, 483, 484, 484]
   ```
 
   </details>
@@ -1001,9 +984,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [220, 220, 222, 222, 222, 222, 222, 222, 222, 222, 226, 226, 226]
+    line [220, 220, 222, 222, 222, 222, 222, 222, 222, 222, 226, 226, 226, 226]
   ```
 
   </details>
@@ -1018,9 +1001,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [31, 31, 31, 32, 32, 33, 35, 35, 35, 35, 35, 35, 35]
+    line [31, 31, 31, 32, 32, 33, 35, 35, 35, 35, 35, 35, 35, 35]
   ```
 
   </details>
@@ -1035,9 +1018,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 28, 28]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 28, 28, 28]
   ```
 
   </details>
@@ -1052,9 +1035,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [21, 21, 26, 26, 26, 27, 27, 27, 27, 27, 27, 27, 27]
+    line [21, 21, 26, 26, 26, 27, 27, 27, 27, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -1069,9 +1052,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 19, 19, 19, 19, 19, 20, 25, 25, 25]
+    line [19, 19, 19, 19, 19, 19, 19, 19, 19, 20, 25, 25, 25, 25]
   ```
 
   </details>
@@ -1086,9 +1069,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [15, 16, 16, 16, 16, 16, 18, 18, 18, 18, 18, 19, 20]
+    line [15, 16, 16, 16, 16, 16, 18, 18, 18, 18, 18, 19, 20, 20]
   ```
 
   </details>
@@ -1103,9 +1086,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 15, 15]
+    line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 15, 15, 15]
   ```
 
   </details>
@@ -1120,9 +1103,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 4, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 4, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1137,9 +1120,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [424, 426, 426, 426, 426, 426, 426, 429, 429, 429, 429, 429, 429]
+    line [424, 426, 426, 426, 426, 426, 426, 429, 429, 429, 429, 429, 429, 429]
   ```
 
   </details>
@@ -1154,9 +1137,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [329, 329, 329, 333, 333, 333, 333, 333, 333, 333, 333, 334, 334]
+    line [329, 329, 329, 333, 333, 333, 333, 333, 333, 333, 333, 334, 334, 334]
   ```
 
   </details>
@@ -1171,9 +1154,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [145, 145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150]
+    line [145, 145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150, 150]
   ```
 
   </details>
@@ -1188,9 +1171,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [142, 143, 144, 145, 145, 145, 145, 146, 146, 146, 146, 146, 147]
+    line [142, 143, 144, 145, 145, 145, 145, 146, 146, 146, 146, 146, 147, 147]
   ```
 
   </details>
@@ -1205,9 +1188,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [117, 118, 118, 118, 118, 119, 119, 120, 121, 121, 121, 121, 121]
+    line [117, 118, 118, 118, 118, 119, 119, 120, 121, 121, 121, 121, 121, 121]
   ```
 
   </details>
@@ -1222,26 +1205,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [110, 110, 110, 110, 110, 110, 110, 110, 110, 110, 111, 111, 113]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-119328-graph"></a>
-### Introduce side sheets
-  <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
-    y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99]
+    line [110, 110, 110, 110, 110, 110, 110, 110, 110, 110, 111, 111, 113, 113]
   ```
 
   </details>
@@ -1256,9 +1222,26 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99]
+    line [94, 94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99, 99]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-119328-graph"></a>
+### Introduce side sheets
+  <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99, 99]
   ```
 
   </details>
@@ -1273,9 +1256,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [89, 89, 89, 89, 90, 90, 91, 91, 91, 92, 92, 92, 93]
+    line [89, 89, 89, 89, 90, 90, 91, 91, 91, 92, 92, 92, 93, 93]
   ```
 
   </details>
@@ -1290,9 +1273,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [71, 71, 73, 75, 75, 75, 75, 75, 75, 75, 75, 75, 75]
+    line [71, 71, 73, 75, 75, 75, 75, 75, 75, 75, 75, 75, 75, 75]
   ```
 
   </details>
@@ -1307,9 +1290,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [66, 66, 66, 66, 67, 67, 67, 69, 70, 71, 71, 71, 71]
+    line [66, 66, 66, 66, 67, 67, 67, 69, 70, 71, 71, 71, 71, 71]
   ```
 
   </details>
@@ -1324,9 +1307,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [62, 63, 64, 64, 66, 66, 66, 66, 66, 66, 67, 67, 67]
+    line [62, 63, 64, 64, 66, 66, 66, 66, 66, 66, 67, 67, 67, 67]
   ```
 
   </details>
@@ -1341,9 +1324,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [60, 61, 62, 62, 62, 62, 63, 63, 63, 64, 64, 65, 65]
+    line [60, 61, 62, 62, 62, 62, 63, 63, 63, 64, 64, 65, 65, 65]
   ```
 
   </details>
@@ -1358,9 +1341,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56, 56]
+    line [51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56, 56, 56]
   ```
 
   </details>
@@ -1375,9 +1358,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52, 52]
+    line [47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52, 52, 52]
   ```
 
   </details>
@@ -1392,9 +1375,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [33, 33, 33, 33, 33, 33, 33, 34, 34, 34, 38, 38, 38]
+    line [33, 33, 33, 33, 33, 33, 33, 34, 34, 34, 38, 38, 38, 38]
   ```
 
   </details>
@@ -1409,9 +1392,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [26, 26, 26, 26, 26, 26, 29, 29, 29, 30, 30, 30, 30]
+    line [26, 26, 26, 26, 26, 26, 29, 29, 29, 30, 30, 30, 30, 30]
   ```
 
   </details>
@@ -1426,9 +1409,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21, 21]
+    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21, 21, 21]
   ```
 
   </details>
@@ -1443,9 +1426,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 18, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 18, 18, 18, 18]
   ```
 
   </details>
@@ -1460,9 +1443,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [11, 15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16]
+    line [11, 15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16, 16]
   ```
 
   </details>
@@ -1477,9 +1460,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [10, 10, 10, 11, 14, 15, 15, 15, 15, 15, 15, 15, 15]
+    line [10, 10, 10, 11, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1494,9 +1477,9 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23]
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
-    line [9, 10, 10, 10, 10, 11, 12, 12, 12, 12, 12, 14, 14]
+    line [9, 10, 10, 10, 10, 11, 12, 12, 12, 12, 12, 14, 14, 14]
   ```
 
   </details>
