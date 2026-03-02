@@ -6,7 +6,7 @@ Issues that received the most reactions from 2025-12-01 to 2026-03-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 980 | [92](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 981 | [93](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 740 | [56](#flutter-flutter-168813-graph)
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 648 | [40](#flutter-flutter-170310-graph)
@@ -54,7 +54,7 @@ Desktop Client Side Decoration support [flutter/flutter#31373](https://github.co
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 980 | [92](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 981 | [93](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 740 | [56](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 648 | [40](#flutter-flutter-170310-graph)
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 25 | [7](#flutter-flutter-42588-graph)
@@ -75,7 +75,7 @@ Background Clipping in Dismissible [flutter/flutter#56812](https://github.com/fl
 `f: cupertino` issues that received the most reactions from 2025-12-01 to 2026-03-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 980 | [92](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 981 | [93](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 648 | [40](#flutter-flutter-170310-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 1
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 68 | 1
@@ -314,7 +314,7 @@ Issue | Total reactions | Recent reactions
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1231 | [21](#dart-lang-language-723-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2303 | [16](#dart-lang-language-314-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 277 | [12](#dart-lang-language-2364-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 278 | [13](#dart-lang-language-2364-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 35 | [12](#dart-lang-language-4154-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 95 | [10](#dart-lang-language-2128-graph)
 [Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [10](#dart-lang-language-4599-graph)
@@ -331,7 +331,7 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 980 total reactions, 92 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 981 total reactions, 93 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -340,7 +340,7 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   xychart-beta
     x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [892, 894, 925, 934, 934, 935, 943, 946, 949, 949, 973, 977, 980, 980]
+    line [892, 894, 925, 934, 934, 935, 943, 946, 949, 949, 973, 977, 980, 981]
   ```
 
   </details>
@@ -584,6 +584,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="dart-lang-language-2364-graph"></a>
+### Primary constructor on classes
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 278 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [265, 266, 267, 269, 269, 269, 269, 270, 270, 270, 270, 272, 277, 278]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 241 total reactions, 13 recent reactions</sub><br />
@@ -630,23 +647,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 13, 13]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-2364-graph"></a>
-### Primary constructor on classes
-  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 277 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions"
-    line [265, 266, 267, 269, 269, 269, 269, 270, 270, 270, 270, 272, 277, 277]
   ```
 
   </details>
