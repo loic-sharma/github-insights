@@ -13,7 +13,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 61 | [37](#dart-lang-sdk-61957-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 71 | [26](#flutter-flutter-175099-graph)
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 23 | [23](#flutter-flutter-180842-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1231 | [21](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1232 | [22](#dart-lang-language-723-graph)
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2307 | [20](#dart-lang-language-314-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
@@ -190,8 +190,8 @@ Blinking cursor should use less CPU [flutter/flutter#59327](https://github.com/f
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 29 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 119 | 3
 Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 25 | 3
-Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | 3
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 21 | 3
+Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | 3
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 292 | 2
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 69 | 2
 
@@ -311,7 +311,7 @@ Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](htt
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1231 | [21](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1232 | [22](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2307 | [20](#dart-lang-language-314-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 280 | [15](#dart-lang-language-2364-graph)
@@ -450,7 +450,7 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
 
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1231 total reactions, 21 recent reactions</sub><br />
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1232 total reactions, 22 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -459,7 +459,7 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
   xychart-beta
     x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
-    line [1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1231]
+    line [1211, 1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1232]
   ```
 
   </details>
