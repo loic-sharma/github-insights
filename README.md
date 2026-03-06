@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-01 to 2026-03-05.
+Issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-framework` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Hot restart should dispose widgets [flutter/flutter#69949](https://github.com/fl
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-design` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ RefreshIndicator cannot be canceled on Android [flutter/flutter#36158](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`f: cupertino` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 981 | [93](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 23 | [23](#flutter-flutter-180842-graph)
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-accessibility` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-go_router` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-tool` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-engine` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 241 | [13](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Pressing and releasing a key before the framework has started throws [flutter/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-ios` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -190,14 +190,14 @@ Blinking cursor should use less CPU [flutter/flutter#59327](https://github.com/f
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 29 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 119 | 3
 Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 25 | 3
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 21 | 3
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | 3
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 21 | 3
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 292 | 2
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 69 | 2
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-android` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,19 +219,19 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-web` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [16](#flutter-flutter-87734-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | [6](#flutter-flutter-55324-graph)
+[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 53 | [6](#flutter-flutter-156910-graph)
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 20 | [6](#flutter-flutter-152709-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 883 | [5](#flutter-flutter-46789-graph)
 Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 150 | [5](#flutter-flutter-40376-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [5](#flutter-flutter-172561-graph)
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 81 | [5](#flutter-flutter-60069-graph)
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 52 | [5](#flutter-flutter-156910-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 105 | 4
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 65 | 3
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,19 +263,19 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`team-ecosystem` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [45](#flutter-flutter-178549-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [16](#flutter-flutter-87734-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | [6](#flutter-flutter-55324-graph)
+[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 53 | [6](#flutter-flutter-156910-graph)
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 20 | [6](#flutter-flutter-152709-graph)
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 883 | [5](#flutter-flutter-46789-graph)
 Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 150 | [5](#flutter-flutter-40376-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | [5](#flutter-flutter-172561-graph)
 [web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 81 | [5](#flutter-flutter-60069-graph)
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 52 | [5](#flutter-flutter-156910-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 105 | 4
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 65 | 3
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](htt
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-01 to 2026-03-05.
+`dart-lang/language` issues that received the most reactions from 2025-12-01 to 2026-03-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -1060,6 +1060,23 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
   </details>
   </sub>
 
+<a name="flutter-flutter-156910-graph"></a>
+### [web] Deprecate and remove `flutter_service_worker.js`
+  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 53 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52, 52, 53]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-175962-graph"></a>
 ### Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26
   <sub>[flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) &mdash; 35 total reactions, 6 recent reactions</sub><br />
@@ -1247,23 +1264,6 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
   </details>
   </sub>
 
-<a name="flutter-flutter-102560-graph"></a>
-### Support Material Symbols 
-  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 150 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions"
-    line [145, 145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150, 150]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-40376-graph"></a>
 ### Support Google AdSense in Flutter Web applications
   <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
@@ -1276,6 +1276,23 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
     x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
     line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-102560-graph"></a>
+### Support Material Symbols 
+  <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 150 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [145, 145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150, 150]
   ```
 
   </details>
@@ -1463,23 +1480,6 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
     x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
     line [51, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56, 56, 56]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156910-graph"></a>
-### [web] Deprecate and remove `flutter_service_worker.js`
-  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 52 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions"
-    line [47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52, 52, 52]
   ```
 
   </details>
