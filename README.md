@@ -88,8 +88,8 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 0
-IOS back gesture dismisses top route instead of its own route [flutter/flutter#33875](https://github.com/flutter/flutter/issues/33875) | 22 | 0
 [Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
+IOS back gesture dismisses top route instead of its own route [flutter/flutter#33875](https://github.com/flutter/flutter/issues/33875) | 22 | 0
 
 #### Text input
 
@@ -144,8 +144,8 @@ Support different dependencies when using flavors [flutter/flutter#46979](https:
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 82 | 1
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 60 | 1
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 1
-Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
+Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 160 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
@@ -190,8 +190,8 @@ Blinking cursor should use less CPU [flutter/flutter#59327](https://github.com/f
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 29 | 4
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 119 | 3
 Unable to complete any iOS UI tests that lasts longer than ~6 minutes [flutter/flutter#145143](https://github.com/flutter/flutter/issues/145143) | 25 | 3
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 21 | 3
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | 3
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 21 | 3
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 292 | 2
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 69 | 2
 
@@ -1264,23 +1264,6 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
   </details>
   </sub>
 
-<a name="flutter-flutter-40376-graph"></a>
-### Support Google AdSense in Flutter Web applications
-  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions"
-    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-102560-graph"></a>
 ### Support Material Symbols 
   <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 150 total reactions, 5 recent reactions</sub><br />
@@ -1293,6 +1276,23 @@ Partial Classes and Methods feature request [dart-lang/language#252](https://git
     x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
     line [145, 145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150, 150]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-40376-graph"></a>
+### Support Google AdSense in Flutter Web applications
+  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 1, Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150]
   ```
 
   </details>
