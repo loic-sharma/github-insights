@@ -85,11 +85,11 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 23 | 0
-[Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
 IOS back gesture dismisses top route instead of its own route [flutter/flutter#33875](https://github.com/flutter/flutter/issues/33875) | 22 | 0
+[Cupertino] on iPad, modals are shown in a popover, no way to show Cupertino style modals on iPad [flutter/flutter#44120](https://github.com/flutter/flutter/issues/44120) | 22 | 0
 
 #### Text input
 
@@ -143,8 +143,8 @@ Support different dependencies when using flavors [flutter/flutter#46979](https:
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 1
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 60 | 1
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 1
-Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
+Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 160 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
@@ -249,8 +249,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 226 | [6](#flutter-flutter-41980-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 346 | [5](#flutter-flutter-37597-graph)
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 147 | [5](#flutter-flutter-41724-graph)
+Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 84 | [5](#flutter-flutter-49757-graph)
 [video_player] add Linux support [flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) | 56 | [5](#flutter-flutter-39091-graph)
-Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 83 | 4
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 88 | 3
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 58 | 3
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 51 | 3
@@ -316,8 +316,8 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 280 | [15](#dart-lang-language-2364-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 36 | [11](#dart-lang-language-4154-graph)
-[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [10](#dart-lang-language-4599-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 10 | [10](#dart-lang-language-4654-graph)
+[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [10](#dart-lang-language-4599-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 95 | [9](#dart-lang-language-2128-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1708 | [8](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1277 | [7](#dart-lang-language-69-graph)
@@ -686,23 +686,6 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
   </details>
   </sub>
 
-<a name="dart-lang-language-4599-graph"></a>
-### [Feature Request] Trailing Closure Syntax
-  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4654-graph"></a>
 ### Deprecate and remove "default constructors" feature.
   <sub>[dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -715,6 +698,23 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
     x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4599-graph"></a>
+### [Feature Request] Trailing Closure Syntax
+  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10, 10, 10]
   ```
 
   </details>
@@ -1247,23 +1247,6 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
   </details>
   </sub>
 
-<a name="flutter-flutter-40376-graph"></a>
-### Support Google AdSense in Flutter Web applications
-  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions"
-    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-102560-graph"></a>
 ### Support Material Symbols 
   <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 150 total reactions, 5 recent reactions</sub><br />
@@ -1276,6 +1259,23 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
     x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
     line [145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150, 150]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-40376-graph"></a>
+### Support Google AdSense in Flutter Web applications
+  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150]
   ```
 
   </details>
@@ -1327,6 +1327,23 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
     x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
     line [94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99, 99]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-49757-graph"></a>
+### Desktop app frame rate isn't synced to display
+  <sub>[flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) &mdash; 84 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [79, 79, 80, 80, 80, 80, 80, 80, 80, 80, 83, 83, 84]
   ```
 
   </details>
