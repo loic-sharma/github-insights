@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-08 to 2026-03-07.
+Issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-framework` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Locale parser [flutter/flutter#55720](https://github.com/flutter/flutter/issues/
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-design` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Update tooltips to support Material 3 [flutter/flutter#126069](https://github.co
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`f: cupertino` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 982 | [90](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 23 | [23](#flutter-flutter-180842-graph)
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-accessibility` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-go_router` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-tool` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,10 +152,10 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-engine` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 38 | [12](#flutter-flutter-174980-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 39 | [13](#flutter-flutter-174980-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 58 | [10](#flutter-flutter-166248-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 241 | [8](#flutter-flutter-61229-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 559 | [7](#flutter-flutter-26801-graph)
@@ -175,7 +175,7 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-ios` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-android` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-web` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`team-ecosystem` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](htt
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-08 to 2026-03-07.
+`dart-lang/language` issues that received the most reactions from 2025-12-08 to 2026-03-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -319,7 +319,7 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 [Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [10](#dart-lang-language-4599-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 95 | [9](#dart-lang-language-2128-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 9 | [9](#dart-lang-language-4654-graph)
-Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1707 | [7](#dart-lang-language-1482-graph)
+Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1708 | [8](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1277 | [7](#dart-lang-language-69-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 259 | [7](#dart-lang-language-524-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 564 | [6](#dart-lang-language-83-graph)
@@ -601,6 +601,23 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
   </details>
   </sub>
 
+<a name="flutter-flutter-174980-graph"></a>
+### [wimp] Impeller for web ☂️ 
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 39 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38, 38, 39]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-61822-graph"></a>
 ### `dart fix` should apply fixes from plugins
   <sub>[dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) &mdash; 17 total reactions, 13 recent reactions</sub><br />
@@ -613,23 +630,6 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
     x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions" 0 --> 20
     line [4, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174980-graph"></a>
-### [wimp] Impeller for web ☂️ 
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 38 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions"
-    line [32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38, 38, 38]
   ```
 
   </details>
@@ -771,6 +771,23 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
   </details>
   </sub>
 
+<a name="dart-lang-language-1482-graph"></a>
+### Static Metaprogramming
+  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1708 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    y-axis "Reactions"
+    line [1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1708]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-61229-graph"></a>
 ### AVIF codec support
   <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 241 total reactions, 8 recent reactions</sub><br />
@@ -817,23 +834,6 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
     x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
     y-axis "Reactions"
     line [33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 37, 37]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-1482-graph"></a>
-### Static Metaprogramming
-  <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1707 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions"
-    line [1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1707]
   ```
 
   </details>
