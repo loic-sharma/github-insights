@@ -325,7 +325,7 @@ Feature: Statically checked declaration-site variance [dart-lang/language#524](h
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 564 | [6](#dart-lang-language-83-graph)
 Late parameters, late-init-query operator, parameter element [dart-lang/language#3680](https://github.com/dart-lang/language/issues/3680) | 27 | [6](#dart-lang-language-3680-graph)
 Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
-Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://github.com/dart-lang/language/issues/783) | 99 | [5](#dart-lang-language-783-graph)
+static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 212 | [5](#dart-lang-language-4271-graph)
 
 ## Graphs
 
@@ -1247,9 +1247,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
   </details>
   </sub>
 
-<a name="flutter-flutter-40376-graph"></a>
-### Support Google AdSense in Flutter Web applications
-  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-language-4271-graph"></a>
+### static enough metaprogramming
+  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 212 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1258,7 +1258,7 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
   xychart-beta
     x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150, 150]
+    line [207, 207, 207, 207, 207, 211, 211, 211, 211, 211, 211, 211, 211, 212]
   ```
 
   </details>
@@ -1281,6 +1281,23 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
   </details>
   </sub>
 
+<a name="flutter-flutter-40376-graph"></a>
+### Support Google AdSense in Flutter Web applications
+  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
+    y-axis "Reactions"
+    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150, 150]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-41724-graph"></a>
 ### Implement PlatformView support on Linux
   <sub>[flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) &mdash; 147 total reactions, 5 recent reactions</sub><br />
@@ -1293,23 +1310,6 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
     x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
     line [143, 144, 145, 145, 145, 145, 146, 146, 146, 146, 146, 147, 147, 147]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-783-graph"></a>
-### Typed Maps - like interfaces in TypeScript
-  <sub>[dart-lang/language#783](https://github.com/dart-lang/language/issues/783) &mdash; 99 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
-    y-axis "Reactions"
-    line [94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99, 99, 99]
   ```
 
   </details>
