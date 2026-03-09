@@ -2,13 +2,12 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-08 to 2026-03-08.
+Issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 982 | [90](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 741 | [55](#flutter-flutter-168813-graph)
-[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [43](#flutter-flutter-178549-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 650 | [41](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 62 | [31](#dart-lang-sdk-61957-graph)
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 23 | [23](#flutter-flutter-180842-graph)
@@ -18,9 +17,10 @@ Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1232 | [18](#dart-lang-language-723-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 17 | [17](#dart-lang-sdk-62661-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [16](#flutter-flutter-87734-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 16 | [16](#dart-lang-sdk-62661-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 280 | [15](#dart-lang-language-2364-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 74 | [13](#dart-lang-sdk-56841-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-framework` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/f
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-design` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Update tooltips to support Material 3 [flutter/flutter#126069](https://github.co
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`f: cupertino` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 982 | [90](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 23 | [23](#flutter-flutter-180842-graph)
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-accessibility` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-go_router` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-tool` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -143,8 +143,8 @@ Support different dependencies when using flavors [flutter/flutter#46979](https:
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 1
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 60 | 1
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 1
-Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
+Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 25 | 1
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 160 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-engine` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 39 | [13](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-ios` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -189,15 +189,15 @@ Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 v
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 159 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 119 | 3
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 29 | 3
-Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | 3
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 21 | 3
+Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | 3
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 292 | 2
 [video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 69 | 2
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 33 | 2
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-android` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,11 +219,10 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-web` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [43](#flutter-flutter-178549-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [16](#flutter-flutter-87734-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 55 | [8](#flutter-flutter-156910-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | [6](#flutter-flutter-55324-graph)
@@ -232,16 +231,17 @@ Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 20 | [5](#flutter-flutter-152709-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | 4
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 105 | 4
-[web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 81 | 4
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 65 | 3
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | 3
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 3
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 2
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 2
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 210 | 2
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,11 +263,10 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`team-ecosystem` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[tool_crash] web-server crashing after repeated "reopens" [flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) | 63 | [43](#flutter-flutter-178549-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [16](#flutter-flutter-87734-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 55 | [8](#flutter-flutter-156910-graph)
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | [6](#flutter-flutter-55324-graph)
@@ -276,21 +275,22 @@ Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 20 | [5](#flutter-flutter-152709-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 121 | 4
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 105 | 4
-[web] support offline PWA [flutter/flutter#60069](https://github.com/flutter/flutter/issues/60069) | 81 | 4
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 65 | 3
 Scroll "back" on web causes browser back action (unless perfectly horizontal) [flutter/flutter#152588](https://github.com/flutter/flutter/issues/152588) | 62 | 3
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 3
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 2
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 2
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 210 | 2
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 62 | [31](#dart-lang-sdk-61957-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 16 | [16](#dart-lang-sdk-62661-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 17 | [17](#dart-lang-sdk-62661-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 74 | [13](#dart-lang-sdk-56841-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 17 | [13](#dart-lang-sdk-61822-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
@@ -307,7 +307,7 @@ Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](htt
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-08 to 2026-03-08.
+`dart-lang/language` issues that received the most reactions from 2025-12-08 to 2026-03-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -316,8 +316,8 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 280 | [15](#dart-lang-language-2364-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 36 | [11](#dart-lang-language-4154-graph)
-[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [10](#dart-lang-language-4599-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 10 | [10](#dart-lang-language-4654-graph)
+[Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [10](#dart-lang-language-4599-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 95 | [9](#dart-lang-language-2128-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1708 | [8](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1277 | [7](#dart-lang-language-69-graph)
@@ -338,9 +338,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [894, 925, 934, 934, 935, 943, 946, 949, 949, 973, 977, 980, 982]
+    line [894, 925, 934, 934, 935, 943, 946, 949, 949, 973, 977, 980, 982, 982]
   ```
 
   </details>
@@ -355,26 +355,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [687, 691, 692, 691, 694, 698, 701, 702, 703, 706, 736, 739, 741]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-178549-graph"></a>
-### [tool_crash] web-server crashing after repeated "reopens"
-  <sub>[flutter/flutter#178549](https://github.com/flutter/flutter/issues/178549) &mdash; 63 total reactions, 43 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions"
-    line [60, 60, 62, 62, 62, 63, 63, 63, 63, 63, 63, 63, 63]
+    line [687, 691, 692, 691, 694, 698, 701, 702, 703, 706, 736, 739, 741, 741]
   ```
 
   </details>
@@ -389,9 +372,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [612, 617, 620, 626, 628, 630, 634, 635, 640, 643, 646, 648, 650]
+    line [612, 617, 620, 626, 628, 630, 634, 635, 640, 643, 646, 648, 650, 650]
   ```
 
   </details>
@@ -406,9 +389,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [34, 36, 37, 39, 40, 45, 47, 48, 51, 53, 57, 61, 62]
+    line [34, 36, 37, 39, 40, 45, 47, 48, 51, 53, 57, 61, 62, 62]
   ```
 
   </details>
@@ -423,9 +406,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 23]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 23, 23]
   ```
 
   </details>
@@ -440,9 +423,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [51, 60, 61, 61, 63, 65, 65, 65, 66, 69, 69, 69, 71]
+    line [51, 60, 61, 61, 63, 65, 65, 65, 66, 69, 69, 69, 71, 71]
   ```
 
   </details>
@@ -457,9 +440,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 19, 21, 21, 21, 21, 21, 21, 21]
+    line [0, 0, 0, 0, 0, 19, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -474,9 +457,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2307]
+    line [2290, 2290, 2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2307, 2307]
   ```
 
   </details>
@@ -491,9 +474,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20, 20]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 20, 20, 20]
   ```
 
   </details>
@@ -508,9 +491,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1232]
+    line [1216, 1217, 1218, 1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1232, 1232]
   ```
 
   </details>
@@ -525,9 +508,26 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 18, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 18, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62661-graph"></a>
+### bug: glob workspace pattern reports `dart(path_does_not_exist)`
+  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 13, 16, 17]
   ```
 
   </details>
@@ -542,26 +542,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [18, 19, 19, 19, 19, 19, 26, 26, 26, 26, 26, 34, 34]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62661-graph"></a>
-### bug: glob workspace pattern reports `dart(path_does_not_exist)`
-  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 7, 13, 16]
+    line [18, 19, 19, 19, 19, 19, 26, 26, 26, 26, 26, 34, 34, 34]
   ```
 
   </details>
@@ -576,9 +559,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [266, 267, 269, 269, 269, 269, 270, 270, 270, 270, 272, 277, 280]
+    line [266, 267, 269, 269, 269, 269, 270, 270, 270, 270, 272, 277, 280, 280]
   ```
 
   </details>
@@ -593,9 +576,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [61, 62, 62, 69, 69, 69, 70, 71, 71, 72, 73, 73, 74]
+    line [61, 62, 62, 69, 69, 69, 70, 71, 71, 72, 73, 73, 74, 74]
   ```
 
   </details>
@@ -610,9 +593,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38, 38, 39]
+    line [32, 33, 34, 36, 36, 36, 36, 36, 37, 38, 38, 38, 39, 39]
   ```
 
   </details>
@@ -627,9 +610,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [4, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
+    line [4, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17]
   ```
 
   </details>
@@ -644,9 +627,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [228, 230, 234, 234, 234, 234, 234, 234, 235, 235, 236, 237, 239]
+    line [228, 230, 234, 234, 234, 234, 234, 234, 235, 235, 236, 237, 239, 239]
   ```
 
   </details>
@@ -661,9 +644,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32, 35, 36]
+    line [26, 26, 26, 29, 30, 30, 30, 30, 32, 32, 32, 35, 36, 36]
   ```
 
   </details>
@@ -678,26 +661,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [49, 49, 49, 51, 52, 55, 58, 58, 58, 58, 58, 58, 58]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4599-graph"></a>
-### [Feature Request] Trailing Closure Syntax
-  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10, 10, 10]
+    line [49, 49, 49, 51, 52, 55, 58, 58, 58, 58, 58, 58, 58, 58]
   ```
 
   </details>
@@ -712,9 +678,26 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4599-graph"></a>
+### [Feature Request] Trailing Closure Syntax
+  <sub>[dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 4, 6, 7, 7, 9, 9, 9, 10, 10, 10, 10]
   ```
 
   </details>
@@ -729,9 +712,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [227, 227, 228, 229, 230, 230, 231, 231, 231, 234, 234, 234, 234]
+    line [227, 227, 228, 229, 230, 230, 231, 231, 231, 234, 234, 234, 234, 234]
   ```
 
   </details>
@@ -746,9 +729,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [86, 88, 88, 88, 89, 90, 91, 92, 92, 94, 95, 95, 95]
+    line [86, 88, 88, 88, 89, 90, 91, 92, 92, 94, 95, 95, 95, 95]
   ```
 
   </details>
@@ -763,9 +746,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [28, 28, 28, 31, 32, 32, 32, 32, 34, 36, 36, 36, 37]
+    line [28, 28, 28, 31, 32, 32, 32, 32, 34, 36, 36, 36, 37, 37]
   ```
 
   </details>
@@ -780,9 +763,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1708]
+    line [1700, 1701, 1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1708, 1708]
   ```
 
   </details>
@@ -797,9 +780,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [233, 235, 235, 236, 236, 236, 236, 237, 237, 240, 240, 241, 241]
+    line [233, 235, 235, 236, 236, 236, 236, 237, 237, 240, 240, 241, 241, 241]
   ```
 
   </details>
@@ -814,9 +797,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52, 52, 55]
+    line [47, 47, 47, 47, 47, 47, 47, 47, 47, 47, 52, 52, 55, 55]
   ```
 
   </details>
@@ -831,9 +814,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [31, 34, 34, 35, 37, 38, 38, 38, 38, 38, 39, 39, 39]
+    line [31, 34, 34, 35, 37, 38, 38, 38, 38, 38, 39, 39, 39, 39]
   ```
 
   </details>
@@ -848,9 +831,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 37, 37]
+    line [33, 33, 33, 33, 33, 33, 33, 33, 34, 34, 35, 37, 37, 37]
   ```
 
   </details>
@@ -865,9 +848,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [1271, 1271, 1271, 1271, 1271, 1272, 1272, 1273, 1273, 1273, 1272, 1272, 1277]
+    line [1271, 1271, 1271, 1271, 1271, 1272, 1272, 1273, 1273, 1273, 1272, 1272, 1277, 1277]
   ```
 
   </details>
@@ -882,9 +865,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [553, 553, 553, 553, 554, 555, 557, 557, 557, 558, 558, 559, 559]
+    line [553, 553, 553, 553, 554, 555, 557, 557, 557, 558, 558, 559, 559, 559]
   ```
 
   </details>
@@ -899,9 +882,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [340, 340, 340, 342, 343, 343, 344, 345, 346, 346, 346, 346, 347]
+    line [340, 340, 340, 342, 343, 343, 344, 345, 346, 346, 346, 346, 347, 347]
   ```
 
   </details>
@@ -916,9 +899,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [253, 253, 257, 257, 257, 258, 258, 258, 259, 259, 259, 259, 259]
+    line [253, 253, 257, 257, 257, 258, 258, 258, 259, 259, 259, 259, 259, 259]
   ```
 
   </details>
@@ -933,9 +916,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [201, 202, 202, 203, 203, 203, 203, 205, 207, 207, 207, 207, 207]
+    line [201, 202, 202, 203, 203, 203, 203, 205, 207, 207, 207, 207, 207, 207]
   ```
 
   </details>
@@ -950,9 +933,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [157, 157, 157, 157, 157, 157, 157, 157, 157, 157, 158, 158, 163]
+    line [157, 157, 157, 157, 157, 157, 157, 157, 157, 157, 158, 158, 163, 163]
   ```
 
   </details>
@@ -967,9 +950,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [46, 47, 47, 47, 47, 49, 50, 51, 53, 53, 53, 53, 53]
+    line [46, 47, 47, 47, 47, 49, 50, 51, 53, 53, 53, 53, 53, 53]
   ```
 
   </details>
@@ -984,9 +967,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 28, 28, 29]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 28, 28, 29, 29]
   ```
 
   </details>
@@ -1001,9 +984,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [18, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25]
+    line [18, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -1018,9 +1001,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [558, 560, 560, 561, 561, 561, 562, 562, 562, 562, 564, 564, 564]
+    line [558, 560, 560, 561, 561, 561, 562, 562, 562, 562, 564, 564, 564, 564]
   ```
 
   </details>
@@ -1035,9 +1018,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [479, 479, 481, 481, 482, 482, 482, 482, 482, 482, 483, 484, 485]
+    line [479, 479, 481, 481, 482, 482, 482, 482, 482, 482, 483, 484, 485, 485]
   ```
 
   </details>
@@ -1052,9 +1035,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [227, 227, 227, 227, 227, 227, 227, 227, 227, 227, 228, 231, 233]
+    line [227, 227, 227, 227, 227, 227, 227, 227, 227, 227, 228, 231, 233, 233]
   ```
 
   </details>
@@ -1069,9 +1052,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [220, 222, 222, 222, 222, 222, 222, 222, 222, 226, 226, 226, 226]
+    line [220, 222, 222, 222, 222, 222, 222, 222, 222, 226, 226, 226, 226, 226]
   ```
 
   </details>
@@ -1086,9 +1069,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [64, 64, 65, 65, 66, 67, 67, 67, 67, 68, 68, 68, 68]
+    line [64, 64, 65, 65, 66, 67, 67, 67, 67, 68, 68, 68, 68, 68]
   ```
 
   </details>
@@ -1103,9 +1086,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [21, 26, 26, 26, 27, 27, 27, 27, 27, 27, 27, 27, 27]
+    line [21, 26, 26, 26, 27, 27, 27, 27, 27, 27, 27, 27, 27, 27]
   ```
 
   </details>
@@ -1120,9 +1103,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 19, 19, 19, 19, 20, 25, 25, 25, 25]
+    line [19, 19, 19, 19, 19, 19, 19, 19, 20, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -1137,9 +1120,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16, 17]
+    line [15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16, 17, 17]
   ```
 
   </details>
@@ -1154,9 +1137,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 15, 15, 15]
+    line [9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1171,9 +1154,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 4, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 4, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1188,9 +1171,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [878, 878, 878, 878, 879, 883, 883, 883, 883, 883, 882, 882, 883]
+    line [878, 878, 878, 878, 879, 883, 883, 883, 883, 883, 882, 882, 883, 883]
   ```
 
   </details>
@@ -1205,9 +1188,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [426, 426, 426, 426, 426, 426, 429, 429, 429, 429, 429, 429, 429]
+    line [426, 426, 426, 426, 426, 426, 429, 429, 429, 429, 429, 429, 429, 429]
   ```
 
   </details>
@@ -1222,9 +1205,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [342, 342, 342, 342, 342, 342, 343, 345, 345, 345, 345, 345, 346]
+    line [342, 342, 342, 342, 342, 342, 343, 345, 345, 345, 345, 345, 346, 346]
   ```
 
   </details>
@@ -1239,9 +1222,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [329, 329, 333, 333, 333, 333, 333, 333, 333, 333, 334, 334, 334]
+    line [329, 329, 333, 333, 333, 333, 333, 333, 333, 333, 334, 334, 334, 334]
   ```
 
   </details>
@@ -1256,9 +1239,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150]
+    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150, 150]
   ```
 
   </details>
@@ -1273,9 +1256,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150, 150]
+    line [145, 146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150, 150, 150]
   ```
 
   </details>
@@ -1290,9 +1273,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [143, 144, 145, 145, 145, 145, 146, 146, 146, 146, 146, 147, 147]
+    line [143, 144, 145, 145, 145, 145, 146, 146, 146, 146, 146, 147, 147, 147]
   ```
 
   </details>
@@ -1307,9 +1290,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99, 99]
+    line [94, 94, 94, 94, 94, 94, 94, 94, 94, 99, 99, 99, 99, 99]
   ```
 
   </details>
@@ -1324,9 +1307,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99, 99]
+    line [94, 94, 94, 94, 97, 97, 97, 97, 98, 98, 99, 99, 99, 99]
   ```
 
   </details>
@@ -1341,9 +1324,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [79, 79, 80, 80, 80, 80, 80, 80, 80, 80, 83, 83, 84]
+    line [79, 79, 80, 80, 80, 80, 80, 80, 80, 80, 83, 83, 84, 84]
   ```
 
   </details>
@@ -1358,9 +1341,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [63, 64, 64, 66, 66, 66, 66, 66, 66, 67, 67, 67, 67]
+    line [63, 64, 64, 66, 66, 66, 66, 66, 66, 67, 67, 67, 67, 67]
   ```
 
   </details>
@@ -1375,9 +1358,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [61, 62, 62, 62, 62, 63, 63, 63, 64, 64, 65, 65, 65]
+    line [61, 62, 62, 62, 62, 63, 63, 63, 64, 64, 65, 65, 65, 65]
   ```
 
   </details>
@@ -1392,9 +1375,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56, 56, 56]
+    line [55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56, 56, 56, 56]
   ```
 
   </details>
@@ -1409,9 +1392,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [33, 33, 33, 33, 33, 33, 34, 34, 34, 38, 38, 38, 38]
+    line [33, 33, 33, 33, 33, 33, 34, 34, 34, 38, 38, 38, 38, 38]
   ```
 
   </details>
@@ -1426,9 +1409,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21, 21, 21]
+    line [16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1443,9 +1426,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [16, 16, 16, 16, 16, 18, 18, 18, 18, 18, 19, 20, 20]
+    line [16, 16, 16, 16, 16, 18, 18, 18, 18, 18, 19, 20, 20, 20]
   ```
 
   </details>
@@ -1460,9 +1443,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 13, 13, 18, 18, 18, 18]
+    line [0, 0, 0, 0, 0, 0, 0, 13, 13, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -1477,9 +1460,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [10, 10, 11, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15]
+    line [10, 10, 11, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1494,9 +1477,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [10, 10, 10, 10, 11, 12, 12, 12, 12, 12, 14, 14, 14]
+    line [10, 10, 10, 10, 11, 12, 12, 12, 12, 12, 14, 14, 14, 14]
   ```
 
   </details>
@@ -1511,9 +1494,9 @@ Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://gith
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2]
+    x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
   ```
 
   </details>
