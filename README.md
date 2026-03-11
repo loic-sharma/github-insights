@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-08 to 2026-03-10.
+Issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 742 | [56](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 650 | [41](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 62 | [31](#dart-lang-sdk-61957-graph)
-iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 24 | [24](#flutter-flutter-180842-graph)
+iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 25 | [25](#flutter-flutter-180842-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 71 | [21](#flutter-flutter-175099-graph)
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2307 | [20](#dart-lang-language-314-graph)
@@ -28,7 +28,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-framework` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/f
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-design` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Update tooltips to support Material 3 [flutter/flutter#126069](https://github.co
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`f: cupertino` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 982 | [90](#flutter-flutter-101479-graph)
@@ -93,10 +93,10 @@ IOS back gesture dismisses top route instead of its own route [flutter/flutter#3
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 24 | [24](#flutter-flutter-180842-graph)
+iOS 18.x ,TextField next focus keyboard disappears and appears again [flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) | 25 | [25](#flutter-flutter-180842-graph)
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 119 | 3
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 65 | 3
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-accessibility` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-go_router` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-tool` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-engine` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 39 | [13](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-ios` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-android` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-web` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`team-ecosystem` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](htt
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-08 to 2026-03-10.
+`dart-lang/language` issues that received the most reactions from 2025-12-08 to 2026-03-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -399,7 +399,7 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 
 <a name="flutter-flutter-180842-graph"></a>
 ### iOS 18.x ,TextField next focus keyboard disappears and appears again
-  <sub>[flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) &mdash; 24 total reactions, 24 recent reactions</sub><br />
+  <sub>[flutter/flutter#180842](https://github.com/flutter/flutter/issues/180842) &mdash; 25 total reactions, 25 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -408,7 +408,7 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   xychart-beta
     x-axis "Week" [Dec 8, Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 23, 24]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 21, 23, 25]
   ```
 
   </details>
