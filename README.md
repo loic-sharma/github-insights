@@ -88,8 +88,8 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
@@ -155,6 +155,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 `team-engine` issues that received the most reactions from 2025-12-15 to 2026-03-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
+Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 242 | [9](#flutter-flutter-61229-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 58 | [9](#flutter-flutter-166248-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 40 | [8](#flutter-flutter-174980-graph)
@@ -169,7 +170,6 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 354 | 4
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 219 | 4
 [linux] Do not use header bar by default on Wayland [flutter/flutter#111453](https://github.com/flutter/flutter/issues/111453) | 23 | 3
-[Impeller] Unsharp circle border when using impeller [flutter/flutter#121696](https://github.com/flutter/flutter/issues/121696) | 20 | 3
 
 ### Platforms
 
@@ -201,7 +201,6 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 39 | [11](#flutter-flutter-151638-graph)
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 39 | [8](#flutter-flutter-168635-graph)
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 38 | [5](#flutter-flutter-104219-graph)
@@ -216,6 +215,7 @@ Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error whe
 How to use local aar inside flutter plugin? [flutter/flutter#28195](https://github.com/flutter/flutter/issues/28195) | 28 | 2
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 97 | 1
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 76 | 1
+App crash on Android device with type FlutterJNI.nativeUpdateRefreshRate [flutter/flutter#123095](https://github.com/flutter/flutter/issues/123095) | 62 | 1
 
 #### Web
 
@@ -303,7 +303,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 75 | 4
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 65 | 4
 Dart LSP slow startup/first response on large codebase [dart-lang/sdk#52947](https://github.com/dart-lang/sdk/issues/52947) | 42 | 4
-[proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 14 | 4
+Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 14 | 4
 
 ### Dart language
 
