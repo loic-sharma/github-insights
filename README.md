@@ -1162,23 +1162,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-40376-graph"></a>
-### Support Google AdSense in Flutter Web applications
-  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
-    y-axis "Reactions"
-    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150, 150, 150]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-102560-graph"></a>
 ### Support Material Symbols 
   <sub>[flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) &mdash; 150 total reactions, 5 recent reactions</sub><br />
@@ -1191,6 +1174,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
     y-axis "Reactions"
     line [146, 146, 147, 148, 148, 149, 149, 149, 149, 149, 150, 150, 150, 150]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-40376-graph"></a>
+### Support Google AdSense in Flutter Web applications
+  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 150 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
+    y-axis "Reactions"
+    line [145, 145, 145, 145, 145, 145, 145, 145, 145, 146, 148, 150, 150, 150]
   ```
 
   </details>
