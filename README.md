@@ -7,7 +7,7 @@ Issues that received the most reactions from 2025-12-15 to 2026-03-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 987 | [93](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 746 | [59](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 748 | [61](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 650 | [38](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 64 | [30](#dart-lang-sdk-61957-graph)
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
@@ -55,7 +55,7 @@ Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/f
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 987 | [93](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 746 | [59](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 748 | [61](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 650 | [38](#flutter-flutter-170310-graph)
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 25 | [7](#flutter-flutter-42588-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 150 | [5](#flutter-flutter-102560-graph)
@@ -322,10 +322,10 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1708 | [8](#dart-lang-language-1482-graph)
 Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 564 | [6](#dart-lang-language-83-graph)
 Feature: Statically checked declaration-site variance [dart-lang/language#524](https://github.com/dart-lang/language/issues/524) | 259 | [6](#dart-lang-language-524-graph)
+Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 28 | [6](#dart-lang-language-4321-graph)
 Late parameters, late-init-query operator, parameter element [dart-lang/language#3680](https://github.com/dart-lang/language/issues/3680) | 27 | [6](#dart-lang-language-3680-graph)
 Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1276 | [5](#dart-lang-language-69-graph)
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 212 | [5](#dart-lang-language-4271-graph)
 
 ## Graphs
 
@@ -348,7 +348,7 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 746 total reactions, 59 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 748 total reactions, 61 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -357,7 +357,7 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   xychart-beta
     x-axis "Week" [Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
     y-axis "Reactions"
-    line [691, 692, 691, 694, 698, 701, 702, 703, 706, 736, 739, 741, 744, 746]
+    line [691, 692, 691, 694, 698, 701, 702, 703, 706, 736, 739, 741, 744, 748]
   ```
 
   </details>
@@ -1026,6 +1026,23 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   </details>
   </sub>
 
+<a name="dart-lang-language-4321-graph"></a>
+### Introduce throws keyword (like Swift) for marking throwable functions
+  <sub>[dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) &mdash; 28 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
+    y-axis "Reactions"
+    line [22, 22, 22, 23, 24, 24, 24, 24, 24, 25, 27, 27, 27, 28]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-3680-graph"></a>
 ### Late parameters, late-init-query operator, parameter element
   <sub>[dart-lang/language#3680](https://github.com/dart-lang/language/issues/3680) &mdash; 27 total reactions, 6 recent reactions</sub><br />
@@ -1140,23 +1157,6 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
     x-axis "Week" [Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
     y-axis "Reactions"
     line [329, 333, 333, 333, 333, 333, 333, 333, 333, 334, 334, 334, 334, 334]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4271-graph"></a>
-### static enough metaprogramming
-  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 212 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
-    y-axis "Reactions"
-    line [207, 207, 207, 207, 211, 211, 211, 211, 211, 211, 211, 211, 212, 212]
   ```
 
   </details>
