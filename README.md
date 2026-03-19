@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-15 to 2026-03-18.
+Issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-framework` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/f
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-design` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ FocusNode does not auto scroll to TextFormField when item already selected [flut
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`f: cupertino` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 987 | [93](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-accessibility` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-go_router` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-tool` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-engine` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
@@ -175,7 +175,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-ios` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-android` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ App crash on Android device with type FlutterJNI.nativeUpdateRefreshRate [flutte
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-web` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://gi
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`team-ecosystem` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://gi
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-la
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-15 to 2026-03-18.
+`dart-lang/language` issues that received the most reactions from 2025-12-15 to 2026-03-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
