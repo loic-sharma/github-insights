@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 988 | [94](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 748 | [61](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 650 | [38](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 651 | [39](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 65 | [31](#dart-lang-sdk-61957-graph)
 [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback [flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) | 21 | [21](#flutter-flutter-180002-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
@@ -56,7 +56,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 988 | [94](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 748 | [61](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 650 | [38](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 651 | [39](#flutter-flutter-170310-graph)
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 13 | [13](#flutter-flutter-182466-graph)
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 25 | [7](#flutter-flutter-42588-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 150 | [5](#flutter-flutter-102560-graph)
@@ -76,7 +76,7 @@ Add support for RefreshIndicator to be used with SliverAppBar [flutter/flutter#5
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 988 | [94](#flutter-flutter-101479-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 650 | [38](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 651 | [39](#flutter-flutter-170310-graph)
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 1
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 68 | 1
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 60 | 1
@@ -365,7 +365,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 650 total reactions, 38 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 651 total reactions, 39 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -374,7 +374,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Dec 15, Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
     y-axis "Reactions"
-    line [617, 620, 626, 628, 630, 634, 635, 640, 643, 646, 648, 650, 650, 650]
+    line [617, 620, 626, 628, 630, 634, 635, 640, 643, 646, 648, 650, 650, 651]
   ```
 
   </details>
