@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-22 to 2026-03-21.
+Issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-framework` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PageView should preload pages [flutter/flutter#31191](https://github.com/flutter
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-design` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`f: cupertino` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 988 | [61](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ Missing default context menu buttons on each platform [flutter/flutter#107578](h
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-accessibility` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-go_router` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-tool` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,12 +152,12 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-engine` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 58 | [9](#flutter-flutter-166248-graph)
-Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 347 | [7](#flutter-flutter-18443-graph)
+Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 348 | [8](#flutter-flutter-18443-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 242 | [7](#flutter-flutter-61229-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 40 | [7](#flutter-flutter-174980-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 559 | [6](#flutter-flutter-26801-graph)
@@ -175,7 +175,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-ios` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-android` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Filtering `updateAcquireFence: Did not find frame.` out from flutter run output 
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-web` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://gi
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`team-ecosystem` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://gi
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) 
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-22 to 2026-03-21.
+`dart-lang/language` issues that received the most reactions from 2025-12-22 to 2026-03-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -686,6 +686,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-18443-graph"></a>
+### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
+  <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 348 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
+    y-axis "Reactions"
+    line [340, 342, 343, 343, 344, 345, 346, 346, 346, 346, 347, 347, 348]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-156910-graph"></a>
 ### [web] Deprecate and remove `flutter_service_worker.js`
   <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 55 total reactions, 8 recent reactions</sub><br />
@@ -715,23 +732,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
     y-axis "Reactions"
     line [1703, 1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1708, 1708, 1708]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-18443-graph"></a>
-### Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line)
-  <sub>[flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) &mdash; 347 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
-    y-axis "Reactions"
-    line [340, 342, 343, 343, 344, 345, 346, 346, 346, 346, 347, 347, 347]
   ```
 
   </details>
@@ -1213,23 +1213,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
-<a name="flutter-flutter-180002-graph"></a>
-### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
-  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
-    y-axis "Reactions"
-    line [0, 0, 0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
@@ -1242,6 +1225,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
     y-axis "Reactions"
     line [16, 16, 16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-180002-graph"></a>
+### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
+  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16]
+    y-axis "Reactions"
+    line [0, 0, 0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
