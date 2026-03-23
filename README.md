@@ -158,8 +158,8 @@ Issue | Total reactions | Recent reactions
 Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 58 | [9](#flutter-flutter-166248-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 348 | [8](#flutter-flutter-18443-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 41 | [8](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 242 | [7](#flutter-flutter-61229-graph)
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 40 | [7](#flutter-flutter-174980-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 559 | [6](#flutter-flutter-26801-graph)
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 53 | [6](#flutter-flutter-47928-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2037 | [5](#flutter-flutter-14330-graph)
@@ -720,6 +720,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="flutter-flutter-174980-graph"></a>
+### [wimp] Impeller for web ☂️ 
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 41 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    y-axis "Reactions"
+    line [34, 36, 36, 36, 36, 36, 37, 38, 38, 38, 39, 39, 40, 41]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-1482-graph"></a>
 ### Static Metaprogramming
   <sub>[dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) &mdash; 1708 total reactions, 7 recent reactions</sub><br />
@@ -783,23 +800,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
     y-axis "Reactions"
     line [88, 88, 89, 90, 91, 92, 92, 94, 95, 95, 95, 95, 95, 95]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174980-graph"></a>
-### [wimp] Impeller for web ☂️ 
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 40 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
-    y-axis "Reactions"
-    line [34, 36, 36, 36, 36, 36, 37, 38, 38, 38, 39, 39, 40, 40]
   ```
 
   </details>
