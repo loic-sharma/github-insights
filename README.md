@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-22 to 2026-03-23.
+Issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-framework` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PageView should preload pages [flutter/flutter#31191](https://github.com/flutter
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-design` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`f: cupertino` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 991 | [64](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-accessibility` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-go_router` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-tool` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-engine` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
@@ -175,7 +175,7 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-ios` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-android` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-web` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://gi
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`team-ecosystem` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://gi
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -301,13 +301,13 @@ Add named factory constructors to Duration for single-unit creation [dart-lang/s
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 220 | 4
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 14 | 4
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 14 | 4
+Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 4 | 4
 [Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 65 | 3
-dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 65 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-22 to 2026-03-23.
+`dart-lang/language` issues that received the most reactions from 2025-12-22 to 2026-03-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
