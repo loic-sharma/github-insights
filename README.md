@@ -11,11 +11,11 @@ Issue | Total reactions | Recent reactions
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 654 | [37](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 65 | [29](#dart-lang-sdk-61957-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [18](#dart-lang-language-314-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 80 | [18](#dart-lang-sdk-56841-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 18 | [18](#dart-lang-sdk-62661-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 18 | [18](#flutter-flutter-183554-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2307 | [17](#dart-lang-language-314-graph)
 Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1232 | [15](#dart-lang-language-723-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [15](#flutter-flutter-87734-graph)
@@ -311,8 +311,8 @@ Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter 
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [18](#dart-lang-language-314-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2307 | [17](#dart-lang-language-314-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1232 | [15](#dart-lang-language-723-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 280 | [13](#dart-lang-language-2364-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 12 | [12](#dart-lang-language-4654-graph)
@@ -414,6 +414,23 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
   </details>
   </sub>
 
+<a name="dart-lang-language-314-graph"></a>
+### Add data classes
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2308 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    y-axis "Reactions"
+    line [2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2307, 2307, 2307, 2308]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
   <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 80 total reactions, 18 recent reactions</sub><br />
@@ -477,23 +494,6 @@ if expressions [dart-lang/language#3374](https://github.com/dart-lang/language/i
     x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-314-graph"></a>
-### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2307 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 22, Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
-    y-axis "Reactions"
-    line [2290, 2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2307, 2307, 2307, 2307]
   ```
 
   </details>
