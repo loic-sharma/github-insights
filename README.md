@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-29 to 2026-03-29.
+Issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -10,17 +10,17 @@ Issue | Total reactions | Recent reactions
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 991 | [56](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 654 | [33](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 66 | [28](#dart-lang-sdk-61957-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 20 | [20](#dart-lang-sdk-62661-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 21 | [21](#dart-lang-sdk-62661-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [19](#dart-lang-sdk-56841-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 19 | [19](#flutter-flutter-183554-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [18](#dart-lang-language-314-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
-Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [15](#flutter-flutter-87734-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1232 | [14](#dart-lang-language-723-graph)
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 13 | [13](#flutter-flutter-182466-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 281 | [12](#dart-lang-language-2364-graph)
+Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 12 | [12](#dart-lang-language-4654-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-framework` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/f
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-design` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ FocusNode does not auto scroll to TextFormField when item already selected [flut
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`f: cupertino` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 991 | [56](#flutter-flutter-101479-graph)
@@ -88,12 +88,12 @@ Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://githu
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 54 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-accessibility` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-go_router` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-tool` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,10 +152,9 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-engine` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Tree shaking of icons breaks display of variable icons with fill [flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) | 16 | [16](#flutter-flutter-183381-graph)
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 60 | [11](#flutter-flutter-166248-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 348 | [8](#flutter-flutter-18443-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 242 | [7](#flutter-flutter-61229-graph)
@@ -170,12 +169,13 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 219 | 4
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 197 | 2
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 137 | 2
+Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 88 | 2
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-ios` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Flutter adds additional one frame touch latency compared to native [flutter/flut
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-android` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-web` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`team-ecosystem` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,12 +285,12 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 66 | [28](#dart-lang-sdk-61957-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 20 | [20](#dart-lang-sdk-62661-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 21 | [21](#dart-lang-sdk-62661-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [19](#dart-lang-sdk-56841-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
@@ -301,13 +301,13 @@ Add named factory constructors to Duration for single-unit creation [dart-lang/s
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 66 | 4
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 15 | 4
 Dart should have process for keeping VM RegExp up-to-date with Irregexp [dart-lang/sdk#56573](https://github.com/dart-lang/sdk/issues/56573) | 14 | 4
-Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 4 | 4
 [Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
+Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 4 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 65 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-29 to 2026-03-29.
+`dart-lang/language` issues that received the most reactions from 2025-12-29 to 2026-03-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -338,9 +338,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [691, 694, 698, 701, 702, 703, 706, 736, 739, 741, 744, 749, 751]
+    line [691, 694, 698, 701, 702, 703, 706, 736, 739, 741, 744, 749, 751, 751]
   ```
 
   </details>
@@ -355,9 +355,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [934, 935, 943, 946, 949, 949, 973, 977, 980, 982, 986, 989, 991]
+    line [934, 935, 943, 946, 949, 949, 973, 977, 980, 982, 986, 989, 991, 991]
   ```
 
   </details>
@@ -372,9 +372,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [626, 628, 630, 634, 635, 640, 643, 646, 648, 650, 650, 651, 654]
+    line [626, 628, 630, 634, 635, 640, 643, 646, 648, 650, 650, 651, 654, 654]
   ```
 
   </details>
@@ -389,9 +389,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [39, 40, 45, 47, 48, 51, 53, 57, 61, 62, 64, 65, 66]
+    line [39, 40, 45, 47, 48, 51, 53, 57, 61, 62, 64, 65, 66, 66]
   ```
 
   </details>
@@ -399,16 +399,16 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
 <a name="dart-lang-sdk-62661-graph"></a>
 ### bug: glob workspace pattern reports `dart(path_does_not_exist)`
-  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 21 total reactions, 21 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 3, 7, 13, 16, 18, 17, 20]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 3, 7, 13, 16, 18, 17, 20, 21]
   ```
 
   </details>
@@ -423,9 +423,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 18, 20, 20, 20, 20, 20]
+    line [0, 0, 0, 0, 0, 0, 0, 18, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -440,9 +440,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [69, 69, 69, 70, 71, 71, 72, 73, 73, 74, 79, 79, 81]
+    line [69, 69, 69, 70, 71, 71, 72, 73, 73, 74, 79, 79, 81, 81]
   ```
 
   </details>
@@ -457,9 +457,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 19]
   ```
 
   </details>
@@ -474,9 +474,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2307, 2307, 2307, 2308]
+    line [2289, 2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2307, 2307, 2307, 2308, 2308]
   ```
 
   </details>
@@ -491,26 +491,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 13, 14, 18, 18, 18, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-183381-graph"></a>
-### Tree shaking of icons breaks display of variable icons with fill
-  <sub>[flutter/flutter#183381](https://github.com/flutter/flutter/issues/183381) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 16]
+    line [0, 0, 0, 0, 0, 13, 14, 18, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -525,9 +508,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [19, 19, 19, 26, 26, 26, 26, 26, 34, 34, 34, 34, 34]
+    line [19, 19, 19, 26, 26, 26, 26, 26, 34, 34, 34, 34, 34, 34]
   ```
 
   </details>
@@ -542,9 +525,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232]
+    line [1218, 1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232, 1232]
   ```
 
   </details>
@@ -559,9 +542,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13]
   ```
 
   </details>
@@ -576,9 +559,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [269, 269, 269, 270, 270, 270, 270, 272, 277, 280, 280, 280, 281]
+    line [269, 269, 269, 270, 270, 270, 270, 272, 277, 280, 280, 280, 281, 281]
   ```
 
   </details>
@@ -593,9 +576,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 12, 12]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 12, 12, 12]
   ```
 
   </details>
@@ -610,9 +593,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [51, 52, 55, 58, 58, 58, 58, 58, 58, 58, 58, 58, 60]
+    line [51, 52, 55, 58, 58, 58, 58, 58, 58, 58, 58, 58, 60, 60]
   ```
 
   </details>
@@ -627,9 +610,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [31, 32, 32, 32, 32, 34, 36, 36, 36, 37, 39, 39, 39]
+    line [31, 32, 32, 32, 32, 34, 36, 36, 36, 37, 39, 39, 39, 39]
   ```
 
   </details>
@@ -644,9 +627,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [229, 230, 230, 231, 231, 231, 234, 234, 234, 234, 234, 234, 238]
+    line [229, 230, 230, 231, 231, 231, 234, 234, 234, 234, 234, 234, 238, 238]
   ```
 
   </details>
@@ -661,9 +644,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [61, 63, 65, 65, 65, 66, 69, 69, 69, 71, 71, 71, 71]
+    line [61, 63, 65, 65, 65, 66, 69, 69, 69, 71, 71, 71, 71, 71]
   ```
 
   </details>
@@ -678,9 +661,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [29, 30, 30, 30, 30, 32, 32, 32, 35, 36, 36, 36, 36]
+    line [29, 30, 30, 30, 30, 32, 32, 32, 35, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -695,9 +678,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [4, 6, 7, 7, 9, 9, 9, 10, 10, 10, 10, 10, 10]
+    line [4, 6, 7, 7, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -712,9 +695,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [342, 343, 343, 344, 345, 346, 346, 346, 346, 347, 347, 348, 348]
+    line [342, 343, 343, 344, 345, 346, 346, 346, 346, 347, 347, 348, 348, 348]
   ```
 
   </details>
@@ -729,9 +712,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [234, 234, 234, 234, 234, 235, 235, 236, 237, 239, 242, 242, 242]
+    line [234, 234, 234, 234, 234, 235, 235, 236, 237, 239, 242, 242, 242, 242]
   ```
 
   </details>
@@ -746,9 +729,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [47, 47, 47, 47, 47, 47, 47, 52, 52, 55, 55, 55, 55]
+    line [47, 47, 47, 47, 47, 47, 47, 52, 52, 55, 55, 55, 55, 55]
   ```
 
   </details>
@@ -763,9 +746,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [236, 236, 236, 236, 237, 237, 240, 240, 241, 241, 242, 242, 242]
+    line [236, 236, 236, 236, 237, 237, 240, 240, 241, 241, 242, 242, 242, 242]
   ```
 
   </details>
@@ -780,9 +763,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [88, 89, 90, 91, 92, 92, 94, 95, 95, 95, 95, 95, 95]
+    line [88, 89, 90, 91, 92, 92, 94, 95, 95, 95, 95, 95, 95, 95]
   ```
 
   </details>
@@ -797,9 +780,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [66, 66, 66, 66, 66, 66, 67, 67, 67, 67, 67, 68, 71]
+    line [66, 66, 66, 66, 66, 66, 67, 67, 67, 67, 67, 68, 71, 71]
   ```
 
   </details>
@@ -814,9 +797,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [47, 47, 49, 50, 51, 53, 53, 53, 53, 53, 53, 53, 54]
+    line [47, 47, 49, 50, 51, 53, 53, 53, 53, 53, 53, 53, 54, 54]
   ```
 
   </details>
@@ -831,9 +814,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [35, 37, 38, 38, 38, 38, 38, 39, 39, 39, 39, 40, 41]
+    line [35, 37, 38, 38, 38, 38, 38, 39, 39, 39, 39, 40, 41, 41]
   ```
 
   </details>
@@ -848,9 +831,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 27, 28, 28, 29, 29, 29, 29]
+    line [0, 0, 0, 0, 0, 0, 27, 28, 28, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -865,9 +848,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [553, 554, 555, 557, 557, 557, 558, 558, 559, 559, 559, 559, 559]
+    line [553, 554, 555, 557, 557, 557, 558, 558, 559, 559, 559, 559, 559, 559]
   ```
 
   </details>
@@ -882,9 +865,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [481, 482, 482, 482, 482, 482, 482, 483, 484, 485, 485, 485, 487]
+    line [481, 482, 482, 482, 482, 482, 482, 483, 484, 485, 485, 485, 487, 487]
   ```
 
   </details>
@@ -899,9 +882,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [227, 227, 227, 227, 227, 227, 227, 228, 231, 233, 233, 233, 233]
+    line [227, 227, 227, 227, 227, 227, 227, 228, 231, 233, 233, 233, 233, 233]
   ```
 
   </details>
@@ -916,9 +899,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [203, 203, 203, 203, 205, 207, 207, 207, 207, 207, 208, 208, 208]
+    line [203, 203, 203, 203, 205, 207, 207, 207, 207, 207, 208, 208, 208, 208]
   ```
 
   </details>
@@ -933,9 +916,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [157, 157, 157, 157, 157, 157, 157, 158, 158, 163, 163, 163, 163]
+    line [157, 157, 157, 157, 157, 157, 157, 158, 158, 163, 163, 163, 163, 163]
   ```
 
   </details>
@@ -950,9 +933,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [145, 145, 145, 145, 145, 145, 145, 146, 148, 150, 150, 150, 151]
+    line [145, 145, 145, 145, 145, 145, 145, 146, 148, 150, 150, 150, 151, 151]
   ```
 
   </details>
@@ -967,9 +950,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [101, 101, 101, 102, 102, 102, 102, 102, 102, 103, 103, 103, 107]
+    line [101, 101, 101, 102, 102, 102, 102, 102, 102, 103, 103, 103, 107, 107]
   ```
 
   </details>
@@ -984,9 +967,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [36, 36, 36, 36, 36, 37, 38, 38, 38, 39, 39, 40, 42]
+    line [36, 36, 36, 36, 36, 37, 38, 38, 38, 39, 39, 40, 42, 42]
   ```
 
   </details>
@@ -1001,9 +984,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [22, 23, 24, 24, 24, 24, 24, 25, 27, 27, 27, 28, 28]
+    line [22, 23, 24, 24, 24, 24, 24, 25, 27, 27, 27, 28, 28, 28]
   ```
 
   </details>
@@ -1018,9 +1001,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 19, 20, 25, 25, 25, 25, 25, 25, 25]
+    line [19, 19, 19, 19, 19, 20, 25, 25, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -1035,9 +1018,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 9, 9, 9, 15, 15, 15, 15, 15, 15]
+    line [9, 9, 9, 9, 9, 9, 9, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1052,9 +1035,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1069,9 +1052,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1708, 1708, 1708, 1708]
+    line [1703, 1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1708, 1708, 1708, 1708, 1708]
   ```
 
   </details>
@@ -1086,9 +1069,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [1271, 1271, 1272, 1272, 1273, 1273, 1273, 1272, 1272, 1277, 1276, 1276, 1276]
+    line [1271, 1271, 1272, 1272, 1273, 1273, 1273, 1272, 1272, 1277, 1276, 1276, 1276, 1276]
   ```
 
   </details>
@@ -1103,9 +1086,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [878, 879, 883, 883, 883, 883, 883, 882, 882, 883, 883, 883, 883]
+    line [878, 879, 883, 883, 883, 883, 883, 882, 882, 883, 883, 883, 883, 883]
   ```
 
   </details>
@@ -1120,9 +1103,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [217, 218, 218, 218, 219, 219, 219, 219, 219, 219, 220, 220, 221]
+    line [217, 218, 218, 218, 219, 219, 219, 219, 219, 219, 220, 220, 221, 221]
   ```
 
   </details>
@@ -1137,9 +1120,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [207, 207, 211, 211, 211, 211, 211, 211, 211, 211, 212, 212, 212]
+    line [207, 207, 211, 211, 211, 211, 211, 211, 211, 211, 212, 212, 212, 212]
   ```
 
   </details>
@@ -1154,9 +1137,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 99, 99, 99, 99, 99, 99, 99]
+    line [94, 94, 94, 94, 94, 94, 99, 99, 99, 99, 99, 99, 99, 99]
   ```
 
   </details>
@@ -1171,9 +1154,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [94, 97, 97, 97, 97, 98, 98, 99, 99, 99, 99, 99, 99]
+    line [94, 97, 97, 97, 97, 98, 98, 99, 99, 99, 99, 99, 99, 99]
   ```
 
   </details>
@@ -1188,9 +1171,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [56, 58, 58, 58, 58, 60, 60, 60, 60, 60, 61, 61, 61]
+    line [56, 58, 58, 58, 58, 60, 60, 60, 60, 60, 61, 61, 61, 61]
   ```
 
   </details>
@@ -1205,9 +1188,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [33, 33, 33, 34, 34, 34, 38, 38, 38, 38, 38, 38, 38]
+    line [33, 33, 33, 34, 34, 34, 38, 38, 38, 38, 38, 38, 38, 38]
   ```
 
   </details>
@@ -1222,9 +1205,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [33, 33, 33, 33, 33, 34, 34, 35, 37, 37, 37, 37, 38]
+    line [33, 33, 33, 33, 33, 34, 34, 35, 37, 37, 37, 37, 38, 38]
   ```
 
   </details>
@@ -1239,9 +1222,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [26, 26, 29, 29, 29, 30, 30, 30, 30, 30, 30, 30, 31]
+    line [26, 26, 29, 29, 29, 30, 30, 30, 30, 30, 30, 30, 31, 31]
   ```
 
   </details>
@@ -1256,9 +1239,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 21, 25, 25, 25, 26]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 21, 25, 25, 25, 26, 26]
   ```
 
   </details>
@@ -1273,9 +1256,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [0, 0, 0, 19, 20, 20, 20, 21, 21, 21, 23, 23, 23]
+    line [0, 0, 0, 19, 20, 20, 20, 21, 21, 21, 23, 23, 23, 23]
   ```
 
   </details>
@@ -1290,9 +1273,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [0, 0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
+    line [0, 0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1307,9 +1290,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21]
+    line [16, 16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1324,9 +1307,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 13, 13, 18, 18, 18, 18, 18, 18, 18]
+    line [0, 0, 0, 0, 13, 13, 18, 18, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -1341,9 +1324,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5, 5]
   ```
 
   </details>
@@ -1358,9 +1341,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23]
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
   ```
 
   </details>
