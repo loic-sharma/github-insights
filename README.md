@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2025-12-29 to 2026-03-30.
+Issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-framework` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/f
 
 #### Design
 
-`team-design` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-design` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ FocusNode does not auto scroll to TextFormField when item already selected [flut
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`f: cupertino` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 995 | [60](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-text-input` and `a: text input` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-accessibility` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-go_router` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-tool` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-engine` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 60 | [11](#flutter-flutter-166248-graph)
@@ -175,7 +175,7 @@ Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/3
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-ios` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-android` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-web` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`team-ecosystem` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`dart-lang/sdk` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ dart compile exe support static linking of C code [dart-lang/sdk#47718](https://
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2025-12-29 to 2026-03-30.
+`dart-lang/language` issues that received the most reactions from 2025-12-29 to 2026-03-31.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
