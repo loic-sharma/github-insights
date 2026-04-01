@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 997 | [62](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 655 | [34](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 66 | [28](#dart-lang-sdk-61957-graph)
-Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 25 | [25](#flutter-flutter-184254-graph)
+Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 27 | [27](#flutter-flutter-184254-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 21 | [21](#dart-lang-sdk-62661-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 20 | [20](#flutter-flutter-183554-graph)
@@ -179,7 +179,7 @@ Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/3
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 25 | [25](#flutter-flutter-184254-graph)
+Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 27 | [27](#flutter-flutter-184254-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 71 | [10](#flutter-flutter-175099-graph)
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 163 | [6](#flutter-flutter-126005-graph)
@@ -325,7 +325,7 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1276 | [5](#dart-lang-language-69-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 212 | [5](#dart-lang-language-4271-graph)
 Typed Maps - like interfaces in TypeScript [dart-lang/language#783](https://github.com/dart-lang/language/issues/783) | 99 | [5](#dart-lang-language-783-graph)
-Sum/union types and type matching [dart-lang/language#83](https://github.com/dart-lang/language/issues/83) | 564 | 4
+First-class, functional-style `Result<E, T>` types with built-in operators [dart-lang/language#3501](https://github.com/dart-lang/language/issues/3501) | 69 | [5](#dart-lang-language-3501-graph)
 
 ## Graphs
 
@@ -399,7 +399,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
 
 <a name="flutter-flutter-184254-graph"></a>
 ### Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices
-  <sub>[flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) &mdash; 25 total reactions, 25 recent reactions</sub><br />
+  <sub>[flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) &mdash; 27 total reactions, 27 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -408,7 +408,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27]
   ```
 
   </details>
@@ -1196,6 +1196,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
+<a name="flutter-flutter-119328-graph"></a>
+### Introduce side sheets
+  <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    y-axis "Reactions"
+    line [94, 94, 94, 94, 94, 94, 99, 99, 99, 99, 99, 99, 99, 99]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-783-graph"></a>
 ### Typed Maps - like interfaces in TypeScript
   <sub>[dart-lang/language#783](https://github.com/dart-lang/language/issues/783) &mdash; 99 total reactions, 5 recent reactions</sub><br />
@@ -1213,9 +1230,9 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-119328-graph"></a>
-### Introduce side sheets
-  <sub>[flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) &mdash; 99 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-language-3501-graph"></a>
+### First-class, functional-style `Result<E, T>` types with built-in operators
+  <sub>[dart-lang/language#3501](https://github.com/dart-lang/language/issues/3501) &mdash; 69 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1224,7 +1241,7 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   xychart-beta
     x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 94, 99, 99, 99, 99, 99, 99, 99, 99]
+    line [64, 64, 64, 64, 64, 64, 64, 64, 64, 65, 65, 65, 65, 69]
   ```
 
   </details>
@@ -1247,23 +1264,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-104219-graph"></a>
-### remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication
-  <sub>[flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) &mdash; 38 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions"
-    line [33, 33, 33, 34, 34, 34, 38, 38, 38, 38, 38, 38, 38, 38]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-164483-graph"></a>
 ### [iOS] Extra silent accessibility focus before first ListView item
   <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 38 total reactions, 5 recent reactions</sub><br />
@@ -1276,6 +1276,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
     line [33, 33, 33, 33, 33, 34, 34, 35, 37, 37, 37, 37, 38, 38]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-104219-graph"></a>
+### remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication
+  <sub>[flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) &mdash; 38 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    y-axis "Reactions"
+    line [33, 33, 33, 34, 34, 34, 38, 38, 38, 38, 38, 38, 38, 38]
   ```
 
   </details>
@@ -1315,23 +1332,6 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
   </details>
   </sub>
 
-<a name="flutter-flutter-180002-graph"></a>
-### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
-  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions"
-    line [0, 0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
@@ -1344,6 +1344,23 @@ Sum/union types and type matching [dart-lang/language#83](https://github.com/dar
     x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
     line [16, 16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-180002-graph"></a>
+### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
+  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Dec 29, Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    y-axis "Reactions"
+    line [0, 0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
