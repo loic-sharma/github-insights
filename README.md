@@ -6,7 +6,7 @@ Issues that received the most reactions from 2026-01-05 to 2026-04-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 757 | [66](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 758 | [67](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 997 | [62](#flutter-flutter-101479-graph)
 Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 36 | [36](#flutter-flutter-184254-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 655 | [29](#flutter-flutter-170310-graph)
@@ -54,7 +54,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 757 | [66](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 758 | [67](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 997 | [62](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 655 | [29](#flutter-flutter-170310-graph)
 [Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 17 | [17](#flutter-flutter-184093-graph)
@@ -110,7 +110,7 @@ FocusNode does not auto scroll to TextFormField when item already selected [flut
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 A KeyRepeatEvent is dispatched, but the state shows that the physical key is not pressed [flutter/flutter#107972](https://github.com/flutter/flutter/issues/107972) | 32 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
+[Selection] Reimplement SelectableText with SelectionArea [flutter/flutter#104547](https://github.com/flutter/flutter/issues/104547) | 25 | 1
 
 #### Accessibility
 
@@ -142,13 +142,13 @@ Flutter 3.32.0 cannot find package:integration_test when building with --no-pub 
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 193 | 1
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 25 | 1
+Warning about finding CupertinoIcons when building a web app with only material [flutter/flutter#119074](https://github.com/flutter/flutter/issues/119074) | 14 | 1
 Add support to define widget preview and see it in the IDE when developing [flutter/flutter#115704](https://github.com/flutter/flutter/issues/115704) | 160 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 91 | 0
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 89 | 0
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 82 | 0
-Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 59 | 0
 
 ### Engine
 
@@ -295,8 +295,8 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
-Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
+Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 5 | [5](#dart-lang-sdk-62952-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 221 | 4
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 66 | 4
@@ -317,21 +317,21 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 282 | [13](#dart-lang-language-2364-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 12 | [12](#dart-lang-language-4654-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | [9](#dart-lang-language-4271-graph)
-Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 96 | [8](#dart-lang-language-2128-graph)
+Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 97 | [9](#dart-lang-language-2128-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 36 | [7](#dart-lang-language-4154-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 28 | [6](#dart-lang-language-4321-graph)
 [Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [6](#dart-lang-language-4599-graph)
 Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
+Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 6 | [6](#dart-lang-language-4677-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1708 | [5](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1276 | [5](#dart-lang-language-69-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 249 | [5](#dart-lang-language-1076-graph)
-First-class, functional-style `Result<E, T>` types with built-in operators [dart-lang/language#3501](https://github.com/dart-lang/language/issues/3501) | 69 | [5](#dart-lang-language-3501-graph)
 
 ## Graphs
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 757 total reactions, 66 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 758 total reactions, 67 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -340,7 +340,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   xychart-beta
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
-    line [694, 698, 701, 702, 703, 706, 736, 739, 741, 744, 749, 751, 757]
+    line [694, 698, 701, 702, 703, 706, 736, 739, 741, 744, 749, 751, 758]
   ```
 
   </details>
@@ -703,6 +703,23 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   </details>
   </sub>
 
+<a name="dart-lang-language-2128-graph"></a>
+### Record spreading
+  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 97 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    y-axis "Reactions"
+    line [89, 90, 91, 92, 92, 94, 95, 95, 95, 95, 95, 95, 97]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-65504-graph"></a>
 ### Ctrl+F support, finding text on a page (even when scrolled off screen)
   <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 242 total reactions, 8 recent reactions</sub><br />
@@ -715,23 +732,6 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
     line [234, 234, 234, 234, 235, 235, 236, 237, 239, 242, 242, 242, 242]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-2128-graph"></a>
-### Record spreading
-  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 96 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions"
-    line [89, 90, 91, 92, 92, 94, 95, 95, 95, 95, 95, 95, 96]
   ```
 
   </details>
@@ -1077,6 +1077,23 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   </details>
   </sub>
 
+<a name="dart-lang-language-4677-graph"></a>
+### Setter functions, parameterized setters.
+  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-14330-graph"></a>
 ### Code Push / Hot Update / out of band updates
   <sub>[flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) &mdash; 2037 total reactions, 5 recent reactions</sub><br />
@@ -1247,23 +1264,6 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   </details>
   </sub>
 
-<a name="dart-lang-language-3501-graph"></a>
-### First-class, functional-style `Result<E, T>` types with built-in operators
-  <sub>[dart-lang/language#3501](https://github.com/dart-lang/language/issues/3501) &mdash; 69 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions"
-    line [64, 64, 64, 64, 64, 64, 64, 64, 65, 65, 65, 65, 69]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-146860-graph"></a>
 ### TextHeightBehaviour should allow more tightly-wrapped text
   <sub>[flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) &mdash; 61 total reactions, 5 recent reactions</sub><br />
@@ -1298,23 +1298,6 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   </details>
   </sub>
 
-<a name="flutter-flutter-104219-graph"></a>
-### remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication
-  <sub>[flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) &mdash; 38 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions"
-    line [33, 33, 34, 34, 34, 38, 38, 38, 38, 38, 38, 38, 38]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-164483-graph"></a>
 ### [iOS] Extra silent accessibility focus before first ListView item
   <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 38 total reactions, 5 recent reactions</sub><br />
@@ -1327,6 +1310,23 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions"
     line [33, 33, 33, 33, 34, 34, 35, 37, 37, 37, 37, 38, 38]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-104219-graph"></a>
+### remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication
+  <sub>[flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) &mdash; 38 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    y-axis "Reactions"
+    line [33, 33, 34, 34, 34, 38, 38, 38, 38, 38, 38, 38, 38]
   ```
 
   </details>
@@ -1434,23 +1434,6 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62796-graph"></a>
-### Add named factory constructors to Duration for single-unit creation
-  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-62649-graph"></a>
 ### Analyzer plugin performance: debounce/cancel requests, skip files
   <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1463,6 +1446,23 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62796-graph"></a>
+### Add named factory constructors to Duration for single-unit creation
+  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
   ```
 
   </details>
