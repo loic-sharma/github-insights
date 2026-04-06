@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-01-05 to 2026-04-05.
+Issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -13,8 +13,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 66 | [27](#dart-lang-sdk-61957-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 22 | [22](#dart-lang-sdk-62661-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
-Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 20 | [20](#flutter-flutter-183554-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
+Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 20 | [20](#flutter-flutter-183554-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [18](#dart-lang-language-314-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1235 | [17](#dart-lang-language-723-graph)
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-framework` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-design` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`f: cupertino` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 997 | [62](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-accessibility` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-go_router` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-tool` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-engine` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 60 | [8](#flutter-flutter-166248-graph)
@@ -175,7 +175,7 @@ Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/3
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-ios` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-android` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-web` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -236,12 +236,12 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 2
-Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Consider hiding windows until the engine is active in the desktop runner templat
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`team-ecosystem` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -280,12 +280,12 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 2
-Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`dart-lang/sdk` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -295,9 +295,9 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
+Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 5 | [5](#dart-lang-sdk-62952-graph)
 Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
 Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
-Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 5 | [5](#dart-lang-sdk-62952-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 221 | 4
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 66 | 4
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 15 | 4
@@ -307,7 +307,7 @@ dart compile exe support static linking of C code [dart-lang/sdk#47718](https://
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-01-05 to 2026-04-05.
+`dart-lang/language` issues that received the most reactions from 2026-01-05 to 2026-04-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -321,8 +321,8 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 36 | [7](#dart-lang-language-4154-graph)
 Introduce throws keyword (like Swift) for marking throwable functions [dart-lang/language#4321](https://github.com/dart-lang/language/issues/4321) | 28 | [6](#dart-lang-language-4321-graph)
 [Feature Request] Trailing Closure Syntax [dart-lang/language#4599](https://github.com/dart-lang/language/issues/4599) | 10 | [6](#dart-lang-language-4599-graph)
-Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 6 | [6](#dart-lang-language-4677-graph)
+Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1708 | [5](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1276 | [5](#dart-lang-language-69-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 249 | [5](#dart-lang-language-1076-graph)
@@ -338,9 +338,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [694, 698, 701, 702, 703, 706, 736, 739, 741, 744, 749, 751, 758]
+    line [694, 698, 701, 702, 703, 706, 736, 739, 741, 744, 749, 751, 758, 758]
   ```
 
   </details>
@@ -355,9 +355,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [935, 943, 946, 949, 949, 973, 977, 980, 982, 986, 989, 991, 997]
+    line [935, 943, 946, 949, 949, 973, 977, 980, 982, 986, 989, 991, 997, 997]
   ```
 
   </details>
@@ -372,9 +372,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 36]
   ```
 
   </details>
@@ -389,9 +389,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [628, 630, 634, 635, 640, 643, 646, 648, 650, 650, 651, 654, 655]
+    line [628, 630, 634, 635, 640, 643, 646, 648, 650, 650, 651, 654, 655, 655]
   ```
 
   </details>
@@ -406,9 +406,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [40, 45, 47, 48, 51, 53, 57, 61, 62, 64, 65, 66, 66]
+    line [40, 45, 47, 48, 51, 53, 57, 61, 62, 64, 65, 66, 66, 66]
   ```
 
   </details>
@@ -423,9 +423,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 3, 7, 13, 16, 18, 17, 20, 22]
+    line [0, 0, 0, 0, 0, 3, 7, 13, 16, 18, 17, 20, 22, 22]
   ```
 
   </details>
@@ -440,26 +440,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [26, 26, 26, 26, 26, 26, 26, 26, 26, 27, 27, 27, 46]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-183554-graph"></a>
-### Better trigger for CICD runs in flutter/packages and flutter/flutter
-  <sub>[flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20]
+    line [26, 26, 26, 26, 26, 26, 26, 26, 26, 27, 27, 27, 46, 46]
   ```
 
   </details>
@@ -474,9 +457,26 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 18, 20, 20, 20, 20, 20, 20]
+    line [0, 0, 0, 0, 0, 0, 18, 20, 20, 20, 20, 20, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-183554-graph"></a>
+### Better trigger for CICD runs in flutter/packages and flutter/flutter
+  <sub>[flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20]
   ```
 
   </details>
@@ -491,9 +491,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2307, 2307, 2307, 2308, 2308]
+    line [2291, 2291, 2291, 2297, 2297, 2299, 2303, 2303, 2307, 2307, 2307, 2308, 2308, 2308]
   ```
 
   </details>
@@ -508,9 +508,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 13, 14, 18, 18, 18, 18, 18, 18, 18]
+    line [0, 0, 0, 0, 13, 14, 18, 18, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -525,9 +525,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232, 1235]
+    line [1219, 1220, 1225, 1225, 1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235]
   ```
 
   </details>
@@ -542,9 +542,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 17]
   ```
 
   </details>
@@ -559,9 +559,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [230, 230, 231, 231, 231, 234, 234, 234, 234, 234, 234, 238, 244]
+    line [230, 230, 231, 231, 231, 234, 234, 234, 234, 234, 234, 238, 244, 244]
   ```
 
   </details>
@@ -576,9 +576,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [19, 19, 26, 26, 26, 26, 26, 34, 34, 34, 34, 34, 34]
+    line [19, 19, 26, 26, 26, 26, 26, 34, 34, 34, 34, 34, 34, 34]
   ```
 
   </details>
@@ -593,9 +593,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [269, 269, 270, 270, 270, 270, 272, 277, 280, 280, 280, 281, 282]
+    line [269, 269, 270, 270, 270, 270, 272, 277, 280, 280, 280, 281, 282, 282]
   ```
 
   </details>
@@ -610,9 +610,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 13]
   ```
 
   </details>
@@ -627,9 +627,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [69, 69, 70, 71, 71, 72, 73, 73, 74, 79, 79, 81, 81]
+    line [69, 69, 70, 71, 71, 72, 73, 73, 74, 79, 79, 81, 81, 81]
   ```
 
   </details>
@@ -644,9 +644,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 12, 12, 12]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 12, 12, 12, 12]
   ```
 
   </details>
@@ -661,9 +661,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [63, 65, 65, 65, 66, 69, 69, 69, 71, 71, 71, 71, 71]
+    line [63, 65, 65, 65, 66, 69, 69, 69, 71, 71, 71, 71, 71, 71]
   ```
 
   </details>
@@ -678,9 +678,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [32, 32, 32, 32, 34, 36, 36, 36, 37, 39, 39, 39, 41]
+    line [32, 32, 32, 32, 34, 36, 36, 36, 37, 39, 39, 39, 41, 41]
   ```
 
   </details>
@@ -695,9 +695,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [207, 211, 211, 211, 211, 211, 211, 211, 211, 212, 212, 212, 216]
+    line [207, 211, 211, 211, 211, 211, 211, 211, 211, 212, 212, 212, 216, 216]
   ```
 
   </details>
@@ -712,9 +712,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [89, 90, 91, 92, 92, 94, 95, 95, 95, 95, 95, 95, 97]
+    line [89, 90, 91, 92, 92, 94, 95, 95, 95, 95, 95, 95, 97, 97]
   ```
 
   </details>
@@ -729,9 +729,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [234, 234, 234, 234, 235, 235, 236, 237, 239, 242, 242, 242, 242]
+    line [234, 234, 234, 234, 235, 235, 236, 237, 239, 242, 242, 242, 242, 242]
   ```
 
   </details>
@@ -746,9 +746,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [52, 55, 58, 58, 58, 58, 58, 58, 58, 58, 58, 60, 60]
+    line [52, 55, 58, 58, 58, 58, 58, 58, 58, 58, 58, 60, 60, 60]
   ```
 
   </details>
@@ -763,9 +763,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [47, 47, 47, 47, 47, 47, 52, 52, 55, 55, 55, 55, 55]
+    line [47, 47, 47, 47, 47, 47, 52, 52, 55, 55, 55, 55, 55, 55]
   ```
 
   </details>
@@ -780,9 +780,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [236, 236, 236, 237, 237, 240, 240, 241, 241, 242, 242, 242, 243]
+    line [236, 236, 236, 237, 237, 240, 240, 241, 241, 242, 242, 242, 243, 243]
   ```
 
   </details>
@@ -797,9 +797,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [47, 49, 50, 51, 53, 53, 53, 53, 53, 53, 53, 54, 54]
+    line [47, 49, 50, 51, 53, 53, 53, 53, 53, 53, 53, 54, 54, 54]
   ```
 
   </details>
@@ -814,9 +814,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [36, 36, 36, 36, 37, 38, 38, 38, 39, 39, 40, 42, 43]
+    line [36, 36, 36, 36, 37, 38, 38, 38, 39, 39, 40, 42, 43, 43]
   ```
 
   </details>
@@ -831,9 +831,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [30, 30, 30, 30, 32, 32, 32, 35, 36, 36, 36, 36, 36]
+    line [30, 30, 30, 30, 32, 32, 32, 35, 36, 36, 36, 36, 36, 36]
   ```
 
   </details>
@@ -848,9 +848,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 27, 28, 28, 29, 29, 29, 29, 29]
+    line [0, 0, 0, 0, 0, 27, 28, 28, 29, 29, 29, 29, 29, 29]
   ```
 
   </details>
@@ -865,9 +865,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [554, 555, 557, 557, 557, 558, 558, 559, 559, 559, 559, 559, 559]
+    line [554, 555, 557, 557, 557, 558, 558, 559, 559, 559, 559, 559, 559, 559]
   ```
 
   </details>
@@ -882,9 +882,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [482, 482, 482, 482, 482, 482, 483, 484, 485, 485, 485, 487, 487]
+    line [482, 482, 482, 482, 482, 482, 483, 484, 485, 485, 485, 487, 487, 487]
   ```
 
   </details>
@@ -899,9 +899,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [342, 342, 343, 345, 345, 345, 345, 345, 346, 346, 346, 346, 348]
+    line [342, 342, 343, 345, 345, 345, 345, 345, 346, 346, 346, 346, 348, 348]
   ```
 
   </details>
@@ -916,9 +916,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [227, 227, 227, 227, 227, 227, 228, 231, 233, 233, 233, 233, 233]
+    line [227, 227, 227, 227, 227, 227, 228, 231, 233, 233, 233, 233, 233, 233]
   ```
 
   </details>
@@ -933,9 +933,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [157, 157, 157, 157, 157, 157, 158, 158, 163, 163, 163, 163, 163]
+    line [157, 157, 157, 157, 157, 157, 158, 158, 163, 163, 163, 163, 163, 163]
   ```
 
   </details>
@@ -950,9 +950,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [145, 145, 145, 145, 145, 145, 146, 148, 150, 150, 150, 151, 151]
+    line [145, 145, 145, 145, 145, 145, 146, 148, 150, 150, 150, 151, 151, 151]
   ```
 
   </details>
@@ -967,9 +967,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [101, 101, 102, 102, 102, 102, 102, 102, 103, 103, 103, 107, 107]
+    line [101, 101, 102, 102, 102, 102, 102, 102, 103, 103, 103, 107, 107, 107]
   ```
 
   </details>
@@ -984,9 +984,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [23, 24, 24, 24, 24, 24, 25, 27, 27, 27, 28, 28, 28]
+    line [23, 24, 24, 24, 24, 24, 25, 27, 27, 27, 28, 28, 28, 28]
   ```
 
   </details>
@@ -1001,9 +1001,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 20, 25, 25, 25, 25, 25, 25, 25, 25]
+    line [19, 19, 19, 19, 20, 25, 25, 25, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -1018,9 +1018,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [0, 0, 19, 20, 20, 20, 21, 21, 21, 23, 23, 23, 24]
+    line [0, 0, 19, 20, 20, 20, 21, 21, 21, 23, 23, 23, 24, 24]
   ```
 
   </details>
@@ -1035,9 +1035,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [9, 9, 9, 9, 9, 9, 15, 15, 15, 15, 15, 15, 15]
+    line [9, 9, 9, 9, 9, 9, 15, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -1052,26 +1052,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [6, 7, 7, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4613-graph"></a>
-### Proposal: Value assignment via if expressions (block-bodied branches)
-  <sub>[dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [6, 7, 7, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -1086,9 +1069,26 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4613-graph"></a>
+### Proposal: Value assignment via if expressions (block-bodied branches)
+  <sub>[dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1103,9 +1103,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [2032, 2034, 2034, 2034, 2034, 2035, 2035, 2036, 2036, 2036, 2037, 2036, 2037]
+    line [2032, 2034, 2034, 2034, 2034, 2035, 2035, 2036, 2036, 2036, 2037, 2036, 2037, 2037]
   ```
 
   </details>
@@ -1120,9 +1120,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1708, 1708, 1708, 1708, 1708]
+    line [1703, 1703, 1704, 1704, 1704, 1706, 1706, 1707, 1708, 1708, 1708, 1708, 1708, 1708]
   ```
 
   </details>
@@ -1137,9 +1137,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [1271, 1272, 1272, 1273, 1273, 1273, 1272, 1272, 1277, 1276, 1276, 1276, 1276]
+    line [1271, 1272, 1272, 1273, 1273, 1273, 1272, 1272, 1277, 1276, 1276, 1276, 1276, 1276]
   ```
 
   </details>
@@ -1154,9 +1154,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [879, 883, 883, 883, 883, 883, 882, 882, 883, 883, 883, 883, 883]
+    line [879, 883, 883, 883, 883, 883, 882, 882, 883, 883, 883, 883, 883, 883]
   ```
 
   </details>
@@ -1171,9 +1171,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [343, 343, 344, 345, 346, 346, 346, 346, 347, 347, 348, 348, 347]
+    line [343, 343, 344, 345, 346, 346, 346, 346, 347, 347, 348, 348, 347, 347]
   ```
 
   </details>
@@ -1188,9 +1188,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [244, 244, 244, 244, 244, 246, 246, 246, 246, 248, 248, 248, 249]
+    line [244, 244, 244, 244, 244, 246, 246, 246, 246, 248, 248, 248, 249, 249]
   ```
 
   </details>
@@ -1205,9 +1205,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [203, 203, 203, 205, 207, 207, 207, 207, 207, 208, 208, 208, 208]
+    line [203, 203, 203, 205, 207, 207, 207, 207, 207, 208, 208, 208, 208, 208]
   ```
 
   </details>
@@ -1222,9 +1222,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [103, 103, 103, 104, 105, 105, 105, 105, 105, 105, 106, 106, 108]
+    line [103, 103, 103, 104, 105, 105, 105, 105, 105, 105, 106, 106, 108, 108]
   ```
 
   </details>
@@ -1239,9 +1239,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [94, 94, 94, 94, 94, 99, 99, 99, 99, 99, 99, 99, 99]
+    line [94, 94, 94, 94, 94, 99, 99, 99, 99, 99, 99, 99, 99, 99]
   ```
 
   </details>
@@ -1256,9 +1256,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [66, 66, 66, 66, 66, 67, 67, 67, 67, 67, 68, 71, 71]
+    line [66, 66, 66, 66, 66, 67, 67, 67, 67, 67, 68, 71, 71, 71]
   ```
 
   </details>
@@ -1273,9 +1273,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [58, 58, 58, 58, 60, 60, 60, 60, 60, 61, 61, 61, 61]
+    line [58, 58, 58, 58, 60, 60, 60, 60, 60, 61, 61, 61, 61, 61]
   ```
 
   </details>
@@ -1290,26 +1290,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [37, 38, 38, 38, 38, 38, 39, 39, 39, 39, 40, 41, 42]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-164483-graph"></a>
-### [iOS] Extra silent accessibility focus before first ListView item
-  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 38 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions"
-    line [33, 33, 33, 33, 34, 34, 35, 37, 37, 37, 37, 38, 38]
+    line [37, 38, 38, 38, 38, 38, 39, 39, 39, 39, 40, 41, 42, 42]
   ```
 
   </details>
@@ -1324,9 +1307,26 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [33, 33, 34, 34, 34, 38, 38, 38, 38, 38, 38, 38, 38]
+    line [33, 33, 34, 34, 34, 38, 38, 38, 38, 38, 38, 38, 38, 38]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-164483-graph"></a>
+### [iOS] Extra silent accessibility focus before first ListView item
+  <sub>[flutter/flutter#164483](https://github.com/flutter/flutter/issues/164483) &mdash; 38 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions"
+    line [33, 33, 33, 33, 34, 34, 35, 37, 37, 37, 37, 38, 38, 38]
   ```
 
   </details>
@@ -1341,9 +1341,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [33, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 36, 37]
+    line [33, 35, 35, 35, 35, 35, 35, 35, 35, 35, 35, 36, 37, 37]
   ```
 
   </details>
@@ -1358,9 +1358,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [26, 29, 29, 29, 30, 30, 30, 30, 30, 30, 30, 31, 31]
+    line [26, 29, 29, 29, 30, 30, 30, 30, 30, 30, 30, 31, 31, 31]
   ```
 
   </details>
@@ -1375,26 +1375,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 21, 25, 25, 25, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-180002-graph"></a>
-### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
-  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions"
-    line [0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
+    line [0, 0, 0, 0, 0, 0, 0, 21, 25, 25, 25, 26, 26, 26]
   ```
 
   </details>
@@ -1409,9 +1392,26 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 21]
+    line [16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-180002-graph"></a>
+### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
+  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions"
+    line [0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1426,43 +1426,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 13, 13, 18, 18, 18, 18, 18, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62649-graph"></a>
-### Analyzer plugin performance: debounce/cancel requests, skip files
-  <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62796-graph"></a>
-### Add named factory constructors to Duration for single-unit creation
-  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
+    line [0, 0, 0, 13, 13, 18, 18, 18, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -1477,9 +1443,43 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30]
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62649-graph"></a>
+### Analyzer plugin performance: debounce/cancel requests, skip files
+  <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62796-graph"></a>
+### Add named factory constructors to Duration for single-unit creation
+  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
