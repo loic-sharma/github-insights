@@ -16,8 +16,8 @@ Overscroll effect isn't rendered properly when scrolling with backdrop filter bl
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 20 | [20](#flutter-flutter-183554-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [18](#dart-lang-language-314-graph)
-[Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 18 | [18](#flutter-flutter-184093-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
+[Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 18 | [18](#flutter-flutter-184093-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1235 | [17](#dart-lang-language-723-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 244 | [15](#flutter-flutter-142845-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [15](#flutter-flutter-87734-graph)
@@ -499,23 +499,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="flutter-flutter-184093-graph"></a>
-### [Decoupling] Freeze Material and Cupertino during decoupling
-  <sub>[flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4630-graph"></a>
 ### Explicit Error Propagation (Zig-Inspired)
   <sub>[dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -528,6 +511,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 13, 14, 18, 18, 18, 18, 18, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-184093-graph"></a>
+### [Decoupling] Freeze Material and Cupertino during decoupling
+  <sub>[flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 18]
   ```
 
   </details>
@@ -1400,23 +1400,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="flutter-flutter-180002-graph"></a>
-### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
-  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
-    y-axis "Reactions"
-    line [0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
@@ -1429,6 +1412,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
     line [16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-180002-graph"></a>
+### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
+  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions"
+    line [0, 19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
