@@ -11,11 +11,11 @@ Issue | Total reactions | Recent reactions
 Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 41 | [41](#flutter-flutter-184254-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 657 | [31](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 66 | [27](#dart-lang-sdk-61957-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 22 | [22](#dart-lang-sdk-62661-graph)
 [Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 22 | [22](#flutter-flutter-184093-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 22 | [22](#dart-lang-sdk-62661-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
-`flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 20 | [20](#flutter-flutter-183554-graph)
+`flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [18](#dart-lang-language-314-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1235 | [17](#dart-lang-language-723-graph)
@@ -236,8 +236,8 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 2
-Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 
 #### Desktop
 
@@ -280,8 +280,8 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 296 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 2
-Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 
 ### Dart SDK
 
@@ -295,9 +295,9 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
-Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
 Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 5 | [5](#dart-lang-sdk-62952-graph)
 Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
+Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 221 | 4
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 66 | 4
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 15 | 4
@@ -414,23 +414,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62661-graph"></a>
-### bug: glob workspace pattern reports `dart(path_does_not_exist)`
-  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 22 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 3, 7, 13, 16, 18, 17, 20, 22, 22]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-184093-graph"></a>
 ### [Decoupling] Freeze Material and Cupertino during decoupling
   <sub>[flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -443,6 +426,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 22]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62661-graph"></a>
+### bug: glob workspace pattern reports `dart(path_does_not_exist)`
+  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 3, 7, 13, 16, 18, 17, 20, 22, 22]
   ```
 
   </details>
@@ -465,23 +465,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="flutter-flutter-182244-graph"></a>
-### `flutter pub get` fails to get new Git Tags
-  <sub>[flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 18, 20, 20, 20, 20, 20, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-183554-graph"></a>
 ### Better trigger for CICD runs in flutter/packages and flutter/flutter
   <sub>[flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -494,6 +477,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-182244-graph"></a>
+### `flutter pub get` fails to get new Git Tags
+  <sub>[flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 18, 20, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -1400,23 +1400,6 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
-<a name="dart-lang-sdk-59988-graph"></a>
-### "Find usages" finds unrelated "call" method usages.
-  <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
-    y-axis "Reactions"
-    line [16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-180002-graph"></a>
 ### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
   <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
@@ -1434,6 +1417,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="dart-lang-sdk-59988-graph"></a>
+### "Find usages" finds unrelated "call" method usages.
+  <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions"
+    line [16, 16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-124595-graph"></a>
 ### flutter image picker is slow to pick larger files
   <sub>[flutter/flutter#124595](https://github.com/flutter/flutter/issues/124595) &mdash; 18 total reactions, 5 recent reactions</sub><br />
@@ -1446,23 +1446,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 13, 13, 18, 18, 18, 18, 18, 18, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62649-graph"></a>
-### Analyzer plugin performance: debounce/cancel requests, skip files
-  <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5, 5, 5]
   ```
 
   </details>
@@ -1497,6 +1480,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62649-graph"></a>
+### Analyzer plugin performance: debounce/cancel requests, skip files
+  <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5, 5, 5]
   ```
 
   </details>
