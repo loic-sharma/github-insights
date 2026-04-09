@@ -11,7 +11,7 @@ Issue | Total reactions | Recent reactions
 Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 41 | [41](#flutter-flutter-184254-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 657 | [31](#flutter-flutter-170310-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 66 | [27](#dart-lang-sdk-61957-graph)
-[Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 24 | [24](#flutter-flutter-184093-graph)
+[Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 25 | [25](#flutter-flutter-184093-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 22 | [22](#dart-lang-sdk-62661-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
@@ -57,7 +57,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 761 | [70](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 998 | [63](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 657 | [31](#flutter-flutter-170310-graph)
-[Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 24 | [24](#flutter-flutter-184093-graph)
+[Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 25 | [25](#flutter-flutter-184093-graph)
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 14 | [14](#flutter-flutter-182466-graph)
 Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) | 99 | [5](#flutter-flutter-119328-graph)
 ☂️ Relocation: Establish new material and cupertino packages in flutter/packages [flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) | 31 | [5](#flutter-flutter-172932-graph)
@@ -77,7 +77,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 998 | [63](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 657 | [31](#flutter-flutter-170310-graph)
-[Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 24 | [24](#flutter-flutter-184093-graph)
+[Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 25 | [25](#flutter-flutter-184093-graph)
 Pull-Down Menus for iOS 14 [flutter/flutter#60298](https://github.com/flutter/flutter/issues/60298) | 62 | 3
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 1
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 68 | 1
@@ -416,7 +416,7 @@ Allow both optional positional and optional named arguments in the same function
 
 <a name="flutter-flutter-184093-graph"></a>
 ### [Decoupling] Freeze Material and Cupertino during decoupling
-  <sub>[flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) &mdash; 24 total reactions, 24 recent reactions</sub><br />
+  <sub>[flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) &mdash; 25 total reactions, 25 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -425,7 +425,7 @@ Allow both optional positional and optional named arguments in the same function
   xychart-beta
     x-axis "Week" [Jan 5, Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 24]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 17, 25]
   ```
 
   </details>
