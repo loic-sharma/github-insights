@@ -165,8 +165,8 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 449 | 4
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 347 | 4
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 219 | 4
+TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 62 | 4
 [Impeller] Unsharp circle border when using impeller [flutter/flutter#121696](https://github.com/flutter/flutter/issues/121696) | 22 | 4
-TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 61 | 3
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 354 | 2
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 197 | 2
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 137 | 2
