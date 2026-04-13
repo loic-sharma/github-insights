@@ -12,9 +12,9 @@ Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on 
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 658 | [30](#flutter-flutter-170310-graph)
 [Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 28 | [28](#flutter-flutter-184093-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 67 | [25](#dart-lang-sdk-61957-graph)
+Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 22 | [22](#flutter-flutter-183554-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 22 | [22](#dart-lang-sdk-62661-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
-Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 20 | [20](#flutter-flutter-183554-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [17](#dart-lang-language-314-graph)
@@ -107,10 +107,10 @@ TextField: Keyboard not showing on `autofocus: true` after app is paused then re
 Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https://github.com/flutter/flutter/issues/160725) | 21 | 2
 [Feature Request] Ability to copy WidgetSpan to clipboard [flutter/flutter#92506](https://github.com/flutter/flutter/issues/92506) | 20 | 2
 FocusNode does not auto scroll to TextFormField when item already selected [flutter/flutter#58877](https://github.com/flutter/flutter/issues/58877) | 16 | 2
+Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 86 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 54 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 37 | 1
-A KeyRepeatEvent is dispatched, but the state shows that the physical key is not pressed [flutter/flutter#107972](https://github.com/flutter/flutter/issues/107972) | 32 | 1
 
 #### Accessibility
 
@@ -215,7 +215,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 29 | 1
 Camera application is crashing and throws an exception - Access denied finding property "vendor.camera.aux.packagelist" [flutter/flutter#46952](https://github.com/flutter/flutter/issues/46952) | 22 | 1
 Android: Extend WidgetsBindingObserver to allow listening on onWindowFocusChanged [flutter/flutter#50557](https://github.com/flutter/flutter/issues/50557) | 20 | 1
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 18 | 1
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 18 | 1
 
 #### Web
 
@@ -296,8 +296,8 @@ Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 6 | [6](#dart-lang-sdk-62952-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
-Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
+Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 79 | 4
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 66 | 4
 Investigate CodeQL (code scanning) support [dart-lang/sdk#52953](https://github.com/dart-lang/sdk/issues/52953) | 13 | 4
@@ -431,6 +431,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
+<a name="flutter-flutter-183554-graph"></a>
+### Better trigger for CICD runs in flutter/packages and flutter/flutter
+  <sub>[flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20, 22]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-62661-graph"></a>
 ### bug: glob workspace pattern reports `dart(path_does_not_exist)`
   <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 22 total reactions, 22 recent reactions</sub><br />
@@ -460,23 +477,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions"
     line [26, 26, 26, 26, 26, 26, 26, 26, 27, 27, 27, 46, 46, 46]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-183554-graph"></a>
-### Better trigger for CICD runs in flutter/packages and flutter/flutter
-  <sub>[flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20, 20]
   ```
 
   </details>
@@ -1400,23 +1400,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62796-graph"></a>
-### Add named factory constructors to Duration for single-unit creation
-  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-62649-graph"></a>
 ### Analyzer plugin performance: debounce/cancel requests, skip files
   <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1429,6 +1412,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62796-graph"></a>
+### Add named factory constructors to Duration for single-unit creation
+  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
