@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-01-12 to 2026-04-13.
+Issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-framework` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set t
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-design` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`f: cupertino` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 998 | [63](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-accessibility` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-go_router` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-tool` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-engine` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 244 | [8](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-ios` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-android` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android: Extend WidgetsBindingObserver to allow listening on onWindowFocusChange
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-web` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`team-ecosystem` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`dart-lang/sdk` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ dart compile exe support static linking of C code [dart-lang/sdk#47718](https://
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-01-12 to 2026-04-13.
+`dart-lang/language` issues that received the most reactions from 2026-01-12 to 2026-04-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
