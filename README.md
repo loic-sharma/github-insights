@@ -11,7 +11,7 @@ Issue | Total reactions | Recent reactions
 Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 54 | [54](#flutter-flutter-184254-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 658 | [30](#flutter-flutter-170310-graph)
 [Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 28 | [28](#flutter-flutter-184093-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 67 | [25](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 68 | [26](#dart-lang-sdk-61957-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 22 | [22](#flutter-flutter-183554-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 22 | [22](#dart-lang-sdk-62661-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
@@ -289,7 +289,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 67 | [25](#dart-lang-sdk-61957-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 68 | [26](#dart-lang-sdk-61957-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 22 | [22](#dart-lang-sdk-62661-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [12](#dart-lang-sdk-56841-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 25 | [6](#dart-lang-sdk-45307-graph)
@@ -416,7 +416,7 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
 
 <a name="dart-lang-sdk-61957-graph"></a>
 ### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 67 total reactions, 25 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 68 total reactions, 26 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -425,7 +425,7 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   xychart-beta
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions"
-    line [45, 47, 48, 51, 53, 57, 61, 62, 64, 65, 66, 66, 66, 67]
+    line [45, 47, 48, 51, 53, 57, 61, 62, 64, 65, 66, 66, 66, 68]
   ```
 
   </details>
