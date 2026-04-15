@@ -235,8 +235,8 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 2
-Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 1
 
 #### Desktop
@@ -279,8 +279,8 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 2
-Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 1
 
 ### Dart SDK
@@ -296,8 +296,8 @@ Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 6 | [6](#dart-lang-sdk-62952-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
-Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
+Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 79 | 4
 Disposable [dart-lang/sdk#43490](https://github.com/dart-lang/sdk/issues/43490) | 66 | 4
 Investigate CodeQL (code scanning) support [dart-lang/sdk#52953](https://github.com/dart-lang/sdk/issues/52953) | 13 | 4
@@ -319,8 +319,8 @@ Deprecate and remove "default constructors" feature. [dart-lang/language#4654](h
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | [9](#dart-lang-language-4271-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 97 | [8](#dart-lang-language-2128-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 36 | [6](#dart-lang-language-4154-graph)
-Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 6 | [6](#dart-lang-language-4677-graph)
+Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1708 | [5](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1276 | [5](#dart-lang-language-69-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 249 | [5](#dart-lang-language-1076-graph)
@@ -1060,23 +1060,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-language-4613-graph"></a>
-### Proposal: Value assignment via if expressions (block-bodied branches)
-  <sub>[dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-62952-graph"></a>
 ### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
   <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -1106,6 +1089,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4613-graph"></a>
+### Proposal: Value assignment via if expressions (block-bodied branches)
+  <sub>[dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1383,23 +1383,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="flutter-flutter-180002-graph"></a>
-### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
-  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
-    y-axis "Reactions"
-    line [19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-59988-graph"></a>
 ### "Find usages" finds unrelated "call" method usages.
   <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
@@ -1412,6 +1395,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions"
     line [16, 16, 16, 16, 16, 21, 21, 21, 21, 21, 21, 21, 21, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-180002-graph"></a>
+### [go_router] pop() not working when both top-level 'onEnter' and 'redirect' are async and the route have onExit callback
+  <sub>[flutter/flutter#180002](https://github.com/flutter/flutter/issues/180002) &mdash; 21 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
+    y-axis "Reactions"
+    line [19, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1434,23 +1434,6 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62796-graph"></a>
-### Add named factory constructors to Duration for single-unit creation
-  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-62649-graph"></a>
 ### Analyzer plugin performance: debounce/cancel requests, skip files
   <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1463,6 +1446,23 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 3, 3, 3, 4, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62796-graph"></a>
+### Add named factory constructors to Duration for single-unit creation
+  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
