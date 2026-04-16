@@ -319,8 +319,8 @@ Deprecate and remove "default constructors" feature. [dart-lang/language#4654](h
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | [9](#dart-lang-language-4271-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 97 | [8](#dart-lang-language-2128-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 36 | [6](#dart-lang-language-4154-graph)
-Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 6 | [6](#dart-lang-language-4677-graph)
+Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/language/issues/1482) | 1708 | [5](#dart-lang-language-1482-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1276 | [5](#dart-lang-language-69-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 249 | [5](#dart-lang-language-1076-graph)
@@ -1060,9 +1060,9 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-language-4613-graph"></a>
-### Proposal: Value assignment via if expressions (block-bodied branches)
-  <sub>[dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-62952-graph"></a>
+### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
+  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1071,7 +1071,7 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   xychart-beta
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions" 0 --> 20
-    line [0, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 6, 6]
   ```
 
   </details>
@@ -1094,9 +1094,9 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62952-graph"></a>
-### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
-  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-language-4613-graph"></a>
+### Proposal: Value assignment via if expressions (block-bodied branches)
+  <sub>[dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1105,7 +1105,7 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   xychart-beta
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 6, 6]
+    line [0, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
