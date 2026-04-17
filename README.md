@@ -2,13 +2,13 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-01-12 to 2026-04-16.
+Issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 762 | [68](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 999 | [64](#flutter-flutter-101479-graph)
-Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 56 | [56](#flutter-flutter-184254-graph)
+Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 57 | [57](#flutter-flutter-184254-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 658 | [30](#flutter-flutter-170310-graph)
 [Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 28 | [28](#flutter-flutter-184093-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 68 | [26](#dart-lang-sdk-61957-graph)
@@ -28,7 +28,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-framework` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -45,12 +45,12 @@ Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 69 | 3
 Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/flutter/issues/84631) | 48 | 3
 [go_router]: Bad state: Future already completed on context.pop() [flutter/flutter#160696](https://github.com/flutter/flutter/issues/160696) | 18 | 3
+Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 310 | 2
 PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set to false [flutter/flutter#138624](https://github.com/flutter/flutter/issues/138624) | 91 | 2
-[proposal] Allow Horizontal ListView with Vertical ListView Children Without Fixed Height [flutter/flutter#73786](https://github.com/flutter/flutter/issues/73786) | 70 | 2
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-design` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`f: cupertino` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 999 | [64](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-accessibility` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-go_router` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-tool` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-engine` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 244 | [8](#flutter-flutter-61229-graph)
@@ -175,11 +175,11 @@ Space between text and underline [flutter/flutter#30541](https://github.com/flut
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-ios` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 56 | [56](#flutter-flutter-184254-graph)
+Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices [flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) | 57 | [57](#flutter-flutter-184254-graph)
 [iOS] Tap interactions not working on iOS 26 for webview_flutter [flutter/flutter#175099](https://github.com/flutter/flutter/issues/175099) | 72 | [9](#flutter-flutter-175099-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 164 | [7](#flutter-flutter-126005-graph)
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -197,7 +197,7 @@ Laggy First Keyboard Open (Physical iOS Device) [flutter/flutter#160725](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-android` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android: Extend WidgetsBindingObserver to allow listening on onWindowFocusChange
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-web` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -235,13 +235,13 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 2
-Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 1
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`team-ecosystem` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -279,13 +279,13 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] support scaling page content using two-finger pinch gesture [flutter/flutter#97305](https://github.com/flutter/flutter/issues/97305) | 33 | 2
-Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 17 | 2
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 663 | 1
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`dart-lang/sdk` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-01-12 to 2026-04-16.
+`dart-lang/language` issues that received the most reactions from 2026-01-12 to 2026-04-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -365,7 +365,7 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
 
 <a name="flutter-flutter-184254-graph"></a>
 ### Thread DartWorker crash EXC_BAD_ACCESS on macOS/iOS/Xcode 26.4 in debug mode on physical devices
-  <sub>[flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) &mdash; 56 total reactions, 56 recent reactions</sub><br />
+  <sub>[flutter/flutter#184254](https://github.com/flutter/flutter/issues/184254) &mdash; 57 total reactions, 57 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -374,7 +374,7 @@ Introduce throws keyword (like Swift) for marking throwable functions [dart-lang
   xychart-beta
     x-axis "Week" [Jan 12, Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 44, 56]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 36, 44, 57]
   ```
 
   </details>
