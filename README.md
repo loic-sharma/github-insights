@@ -17,7 +17,7 @@ Overscroll effect isn't rendered properly when scrolling with backdrop filter bl
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [17](#dart-lang-language-314-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1235 | [15](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1236 | [16](#dart-lang-language-723-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [15](#flutter-flutter-87734-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 283 | [14](#dart-lang-language-2364-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 244 | [14](#flutter-flutter-142845-graph)
@@ -302,8 +302,8 @@ Add named factory constructors to Duration for single-unit creation [dart-lang/s
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 79 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 66 | 4
+proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 29 | 4
 Investigate CodeQL (code scanning) support [dart-lang/sdk#52953](https://github.com/dart-lang/sdk/issues/52953) | 13 | 4
-[Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
 
 ### Dart language
 
@@ -313,10 +313,10 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [17](#dart-lang-language-314-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1235 | [15](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1236 | [16](#dart-lang-language-723-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 283 | [14](#dart-lang-language-2364-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 12 | [12](#dart-lang-language-4654-graph)
-Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 98 | [8](#dart-lang-language-2128-graph)
+Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 99 | [9](#dart-lang-language-2128-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 36 | [6](#dart-lang-language-4154-graph)
 Proposal: Value assignment via if expressions (block-bodied branches) [dart-lang/language#4613](https://github.com/dart-lang/language/issues/4613) | 6 | [6](#dart-lang-language-4613-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 6 | [6](#dart-lang-language-4677-graph)
@@ -518,7 +518,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1235 total reactions, 15 recent reactions</sub><br />
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1236 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -527,7 +527,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20]
     y-axis "Reactions"
-    line [1225, 1225, 1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1235]
+    line [1225, 1225, 1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1236]
   ```
 
   </details>
@@ -652,6 +652,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-language-2128-graph"></a>
+### Record spreading
+  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 99 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20]
+    y-axis "Reactions"
+    line [91, 92, 92, 94, 95, 95, 95, 95, 95, 95, 97, 97, 98, 99]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-174980-graph"></a>
 ### [wimp] Impeller for web ☂️ 
   <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 45 total reactions, 9 recent reactions</sub><br />
@@ -698,23 +715,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20]
     y-axis "Reactions"
     line [236, 237, 237, 240, 240, 241, 241, 242, 242, 242, 243, 244, 244, 244]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-2128-graph"></a>
-### Record spreading
-  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 98 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20]
-    y-axis "Reactions"
-    line [91, 92, 92, 94, 95, 95, 95, 95, 95, 95, 97, 97, 98, 98]
   ```
 
   </details>
