@@ -42,11 +42,11 @@ Move Listenable, ValueListanable to a Dart package [flutter/flutter#171101](http
 Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 113 | 3
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 95 | 3
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 70 | 3
+[go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 54 | 3
 Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/flutter/issues/84631) | 48 | 3
 [go_router]: Bad state: Future already completed on context.pop() [flutter/flutter#160696](https://github.com/flutter/flutter/issues/160696) | 18 | 3
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 310 | 2
 PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set to false [flutter/flutter#138624](https://github.com/flutter/flutter/issues/138624) | 91 | 2
-[proposal] Allow Horizontal ListView with Vertical ListView Children Without Fixed Height [flutter/flutter#73786](https://github.com/flutter/flutter/issues/73786) | 70 | 2
 
 #### Design
 
@@ -60,9 +60,9 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 [Decoupling] Freeze Material and Cupertino during decoupling [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 28 | [28](#flutter-flutter-184093-graph)
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 15 | [15](#flutter-flutter-182466-graph)
 Introduce side sheets [flutter/flutter#119328](https://github.com/flutter/flutter/issues/119328) | 99 | [5](#flutter-flutter-119328-graph)
+Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 153 | 4
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 75 | 4
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 276 | 3
-Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 152 | 3
 [proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 80 | 3
 Add support for preferredSize with context  in `PreferredSizeWidget` [flutter/flutter#116136](https://github.com/flutter/flutter/issues/116136) | 19 | 3
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 103 | 2
