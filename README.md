@@ -18,9 +18,9 @@ Overscroll effect isn't rendered properly when scrolling with backdrop filter bl
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [17](#dart-lang-language-314-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1236 | [16](#dart-lang-language-723-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [15](#dart-lang-language-2364-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 34 | [15](#flutter-flutter-87734-graph)
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 15 | [15](#flutter-flutter-182466-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 283 | [14](#dart-lang-language-2364-graph)
 
 ## Trending issues by team
 
@@ -314,7 +314,7 @@ Issue | Total reactions | Recent reactions
 Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) | 18 | [18](#dart-lang-language-4630-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [17](#dart-lang-language-314-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1236 | [16](#dart-lang-language-723-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 283 | [14](#dart-lang-language-2364-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [15](#dart-lang-language-2364-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 12 | [12](#dart-lang-language-4654-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 99 | [9](#dart-lang-language-2128-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 36 | [6](#dart-lang-language-4154-graph)
@@ -533,6 +533,23 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-2364-graph"></a>
+### Primary constructor on classes
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 284 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20]
+    y-axis "Reactions"
+    line [270, 270, 270, 270, 272, 277, 280, 280, 280, 281, 282, 283, 283, 284]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-87734-graph"></a>
 ### [web] Incomplete sourcemaps
   <sub>[flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) &mdash; 34 total reactions, 15 recent reactions</sub><br />
@@ -562,23 +579,6 @@ Static Metaprogramming [dart-lang/language#1482](https://github.com/dart-lang/la
     x-axis "Week" [Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 13, 14, 14, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-2364-graph"></a>
-### Primary constructor on classes
-  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 283 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 19, Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20]
-    y-axis "Reactions"
-    line [270, 270, 270, 270, 272, 277, 280, 280, 280, 281, 282, 283, 283, 283]
   ```
 
   </details>
