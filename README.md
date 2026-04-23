@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-01-19 to 2026-04-22.
+Issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-framework` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set t
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-design` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Add ReorderableListView.seperated constructor [flutter/flutter#76706](https://gi
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`f: cupertino` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1002 | [58](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ A KeyRepeatEvent is dispatched, but the state shows that the physical key is not
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-accessibility` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-go_router` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-tool` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-engine` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 45 | [9](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-ios` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-android` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Camera application is crashing and throws an exception - Access denied finding p
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-web` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`team-ecosystem` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`dart-lang/sdk` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Investigate CodeQL (code scanning) support [dart-lang/sdk#52953](https://github.
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-01-19 to 2026-04-22.
+`dart-lang/language` issues that received the most reactions from 2026-01-19 to 2026-04-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
