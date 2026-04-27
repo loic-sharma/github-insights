@@ -303,7 +303,7 @@ Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 79 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 66 | 4
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 29 | 4
-Investigate CodeQL (code scanning) support [dart-lang/sdk#52953](https://github.com/dart-lang/sdk/issues/52953) | 13 | 4
+Change error handlers accepting `Function` to be typed. [dart-lang/sdk#54946](https://github.com/dart-lang/sdk/issues/54946) | 18 | 4
 
 ### Dart language
 
