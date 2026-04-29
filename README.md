@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-01-26 to 2026-04-28.
+Issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Deprecate and remove "default constructors" feature. [dart-lang/language#4654](h
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-framework` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-design` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Add ReorderableListView.seperated constructor [flutter/flutter#76706](https://gi
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`f: cupertino` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1004 | [57](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -102,8 +102,8 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 120 | 2
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 2
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 27 | 2
-LastPass doesn't support text fields in Flutter apps [flutter/flutter#27918](https://github.com/flutter/flutter/issues/27918) | 23 | 2
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 23 | 2
+LastPass doesn't support text fields in Flutter apps [flutter/flutter#27918](https://github.com/flutter/flutter/issues/27918) | 23 | 2
 [Feature Request] Ability to copy WidgetSpan to clipboard [flutter/flutter#92506](https://github.com/flutter/flutter/issues/92506) | 20 | 2
 FocusNode does not auto scroll to TextFormField when item already selected [flutter/flutter#58877](https://github.com/flutter/flutter/issues/58877) | 16 | 2
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 115 | 1
@@ -114,7 +114,7 @@ showDatePicker has date format issues when DatePickerEntryMode.input is selected
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-accessibility` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-go_router` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-tool` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-engine` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 45 | [9](#flutter-flutter-174980-graph)
@@ -175,10 +175,11 @@ Allow release mode builds to run on simulators [flutter/flutter#11754](https://g
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-ios` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 13 | [13](#flutter-flutter-181480-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 165 | [8](#flutter-flutter-126005-graph)
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 24 | [5](#flutter-flutter-173940-graph)
@@ -193,11 +194,10 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 [in_app_purchase][ios] `AppStorePurchaseDetails.pendingCompletePurchase = true` after calling `completePurchase` [flutter/flutter#98484](https://github.com/flutter/flutter/issues/98484) | 28 | 2
 [iOS] Process for renaming `Runner` incomplete for non-trivial projects [flutter/flutter#135201](https://github.com/flutter/flutter/issues/135201) | 16 | 2
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 376 | 1
-Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 293 | 1
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-android` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Camera application is crashing and throws an exception - Access denied finding p
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-web` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://gi
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -250,6 +250,7 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 227 | [5](#flutter-flutter-41980-graph)
 Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 84 | 4
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 52 | 4
+[webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 134 | 3
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 89 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 32 | 3
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 76 | 2
@@ -258,12 +259,11 @@ Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/f
 Consider hiding windows until the engine is active in the desktop runner templates [flutter/flutter#55427](https://github.com/flutter/flutter/issues/55427) | 15 | 2
 Bringing Fluent Design to Flutter for additional Mobile design options and Desktop nativity [flutter/flutter#46481](https://github.com/flutter/flutter/issues/46481) | 197 | 1
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 147 | 1
-[webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 132 | 1
 Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 58 | 1
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`team-ecosystem` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://gi
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`dart-lang/sdk` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -297,8 +297,8 @@ Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/
 Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 7 | [7](#dart-lang-sdk-62952-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
-Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
 Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
+Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 79 | 4
 dart compile exe support static linking of C code [dart-lang/sdk#47718](https://github.com/dart-lang/sdk/issues/47718) | 66 | 4
@@ -307,7 +307,7 @@ Change error handlers accepting `Function` to be typed. [dart-lang/sdk#54946](ht
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-01-26 to 2026-04-28.
+`dart-lang/language` issues that received the most reactions from 2026-01-26 to 2026-04-29.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -579,6 +579,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 10, 11, 12, 12, 12, 12, 12, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-181480-graph"></a>
+### The Dart VM Service was not discovered after 30 seconds.
+  <sub>[flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
   ```
 
   </details>
@@ -1349,23 +1366,6 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62649-graph"></a>
-### Analyzer plugin performance: debounce/cancel requests, skip files
-  <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 3, 3, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-62796-graph"></a>
 ### Add named factory constructors to Duration for single-unit creation
   <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1378,6 +1378,23 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
     x-axis "Week" [Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62649-graph"></a>
+### Analyzer plugin performance: debounce/cancel requests, skip files
+  <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 3, 3, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
