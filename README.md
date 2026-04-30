@@ -43,10 +43,10 @@ Move Listenable, ValueListanable to a Dart package [flutter/flutter#171101](http
 Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 113 | 3
 [go_router] support popUntil [flutter/flutter#131625](https://github.com/flutter/flutter/issues/131625) | 54 | 3
 Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/flutter/issues/84631) | 48 | 3
+go_router deep linking behaviour [flutter/flutter#138632](https://github.com/flutter/flutter/issues/138632) | 22 | 3
 [go_router]: Bad state: Future already completed on context.pop() [flutter/flutter#160696](https://github.com/flutter/flutter/issues/160696) | 18 | 3
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 310 | 2
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 95 | 2
-Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutter/flutter/issues/25652) | 77 | 2
 
 #### Design
 
@@ -315,7 +315,7 @@ Explicit Error Propagation (Zig-Inspired) [dart-lang/language#4630](https://gith
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [17](#dart-lang-language-314-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [14](#dart-lang-language-2364-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 13 | [13](#dart-lang-language-4654-graph)
-Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1236 | [11](#dart-lang-language-723-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1237 | [12](#dart-lang-language-723-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 99 | [7](#dart-lang-language-2128-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | [6](#dart-lang-language-1122-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 250 | [6](#dart-lang-language-1076-graph)
@@ -603,7 +603,7 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
 
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
-  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1236 total reactions, 11 recent reactions</sub><br />
+  <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1237 total reactions, 12 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -612,7 +612,7 @@ Allow use switch expression to init a const variable [dart-lang/language#4021](h
   xychart-beta
     x-axis "Week" [Jan 26, Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27]
     y-axis "Reactions"
-    line [1225, 1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1236, 1236]
+    line [1225, 1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1236, 1237]
   ```
 
   </details>
