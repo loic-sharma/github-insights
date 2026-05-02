@@ -167,9 +167,9 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 TextHeightBehaviour should allow more tightly-wrapped text [flutter/flutter#146860](https://github.com/flutter/flutter/issues/146860) | 62 | 3
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 60 | 3
 Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://github.com/flutter/flutter/issues/13343) | 37 | 3
+[linux] Do not use header bar by default on Wayland [flutter/flutter#111453](https://github.com/flutter/flutter/issues/111453) | 24 | 3
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 137 | 2
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 88 | 2
-Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 60 | 2
 
 ### Platforms
 
