@@ -18,8 +18,8 @@ Overscroll effect isn't rendered properly when scrolling with backdrop filter bl
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 16 | [16](#flutter-flutter-182466-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 246 | [15](#flutter-flutter-142845-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [14](#dart-lang-language-2364-graph)
+FormatException: advisoriesUpdated must be a String [flutter/flutter#185943](https://github.com/flutter/flutter/issues/185943) | 14 | [14](#flutter-flutter-185943-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1238 | [13](#dart-lang-language-723-graph)
-FormatException: advisoriesUpdated must be a String [flutter/flutter#185943](https://github.com/flutter/flutter/issues/185943) | 13 | [13](#flutter-flutter-185943-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 13 | [13](#dart-lang-language-4654-graph)
 
 ## Trending issues by team
@@ -109,8 +109,8 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 65 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 37 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
 [Selection] Reimplement SelectableText with SelectionArea [flutter/flutter#104547](https://github.com/flutter/flutter/issues/104547) | 25 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
 
 #### Accessibility
 
@@ -303,7 +303,7 @@ Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 79 | 4
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 29 | 4
 Change error handlers accepting `Function` to be typed. [dart-lang/sdk#54946](https://github.com/dart-lang/sdk/issues/54946) | 18 | 4
-[Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
+[analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 4 | 4
 
 ### Dart language
 
@@ -533,6 +533,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-185943-graph"></a>
+### FormatException: advisoriesUpdated must be a String
+  <sub>[flutter/flutter#185943](https://github.com/flutter/flutter/issues/185943) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-723-graph"></a>
 ### Static extension methods
   <sub>[dart-lang/language#723](https://github.com/dart-lang/language/issues/723) &mdash; 1238 total reactions, 13 recent reactions</sub><br />
@@ -545,23 +562,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
     y-axis "Reactions"
     line [1225, 1227, 1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1236, 1238, 1238]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-185943-graph"></a>
-### FormatException: advisoriesUpdated must be a String
-  <sub>[flutter/flutter#185943](https://github.com/flutter/flutter/issues/185943) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
   ```
 
   </details>
