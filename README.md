@@ -135,6 +135,7 @@ Issue | Total reactions | Recent reactions
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
+FormatException: advisoriesUpdated must be a String [flutter/flutter#185943](https://github.com/flutter/flutter/issues/185943) | 14 | [14](#flutter-flutter-185943-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 195 | 2
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 175 | 2
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 27 | 2
@@ -148,7 +149,6 @@ Multiplatform tooling: A way to store and update app properties, like name, desc
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
 Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 91 | 0
-Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 89 | 0
 
 ### Engine
 
@@ -297,13 +297,13 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 26 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
-Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
 Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
+Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
+[analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 5 | [5](#dart-lang-sdk-63313-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 79 | 4
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 29 | 4
 Change error handlers accepting `Function` to be typed. [dart-lang/sdk#54946](https://github.com/dart-lang/sdk/issues/54946) | 18 | 4
-[analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 4 | 4
 
 ### Dart language
 
@@ -1264,6 +1264,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-sdk-62796-graph"></a>
+### Add named factory constructors to Duration for single-unit creation
+  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-62649-graph"></a>
 ### Analyzer plugin performance: debounce/cancel requests, skip files
   <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1281,9 +1298,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62796-graph"></a>
-### Add named factory constructors to Duration for single-unit creation
-  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-63313-graph"></a>
+### [analyzer] CollectionElement no longer possible to be exhausted in switches
+  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 5 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -1292,7 +1309,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
