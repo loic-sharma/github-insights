@@ -181,9 +181,9 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 165 | [8](#flutter-flutter-126005-graph)
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 25 | [5](#flutter-flutter-173940-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 161 | 4
 Blinking cursor should use less CPU [flutter/flutter#59327](https://github.com/flutter/flutter/issues/59327) | 64 | 4
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 24 | 4
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 38 | 3
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 30 | 3
@@ -1208,6 +1208,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
     y-axis "Reactions"
     line [0, 0, 0, 21, 25, 25, 25, 26, 26, 26, 26, 26, 26, 26]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-173940-graph"></a>
+### Flutter: Cleaning Xcode workspace takes 2-3 minutes
+  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 25 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
+    y-axis "Reactions"
+    line [20, 20, 21, 21, 21, 23, 23, 23, 24, 24, 24, 24, 24, 25]
   ```
 
   </details>
