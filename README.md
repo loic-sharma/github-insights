@@ -6,8 +6,8 @@ Issues that received the most reactions from 2026-02-02 to 2026-05-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 765 | [63](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [62](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 764 | [62](#flutter-flutter-168813-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 33 | [33](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 669 | [30](#flutter-flutter-170310-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [24](#dart-lang-sdk-62661-graph)
@@ -54,8 +54,8 @@ Code generation experience needs improvements [flutter/flutter#63323](https://gi
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 765 | [63](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [62](#flutter-flutter-101479-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 764 | [62](#flutter-flutter-168813-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 33 | [33](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 669 | [30](#flutter-flutter-170310-graph)
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 16 | [16](#flutter-flutter-182466-graph)
@@ -110,7 +110,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 37 | 1
 WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/flutter#54400](https://github.com/flutter/flutter/issues/54400) | 28 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
+[Selection] Reimplement SelectableText with SelectionArea [flutter/flutter#104547](https://github.com/flutter/flutter/issues/104547) | 25 | 1
 
 #### Accessibility
 
@@ -193,7 +193,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 376 | 1
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 293 | 1
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 56 | 1
-Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 32 | 1
+☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 32 | 1
 
 #### Android
 
@@ -292,8 +292,8 @@ Issue | Total reactions | Recent reactions
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [24](#dart-lang-sdk-62661-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 69 | [19](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [10](#dart-lang-sdk-56841-graph)
-Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 7 | [7](#dart-lang-sdk-62952-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
+Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 7 | [7](#dart-lang-sdk-62952-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 225 | [6](#dart-lang-sdk-55281-graph)
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 26 | [6](#dart-lang-sdk-45307-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
@@ -329,6 +329,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
 
 ## Graphs
 
+<a name="flutter-flutter-168813-graph"></a>
+### ☂️ Bring Material 3 Expressive to Flutter
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 765 total reactions, 63 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
+    y-axis "Reactions"
+    line [703, 706, 736, 739, 741, 744, 749, 751, 758, 761, 762, 762, 763, 765]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
   <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1011 total reactions, 62 recent reactions</sub><br />
@@ -341,23 +358,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
     y-axis "Reactions"
     line [949, 973, 977, 980, 982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168813-graph"></a>
-### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 764 total reactions, 62 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
-    y-axis "Reactions"
-    line [703, 706, 736, 739, 741, 744, 749, 751, 758, 761, 762, 762, 763, 764]
   ```
 
   </details>
@@ -856,23 +856,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62952-graph"></a>
-### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
-  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63313-graph"></a>
 ### [analyzer] CollectionElement no longer possible to be exhausted in switches
   <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -885,6 +868,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62952-graph"></a>
+### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
+  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 2, Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7]
   ```
 
   </details>
