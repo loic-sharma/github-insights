@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-09 to 2026-05-09.
+Issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Deprecate and remove "default constructors" feature. [dart-lang/language#4654](h
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-framework` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-design` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`f: cupertino` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [62](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -110,11 +110,11 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 37 | 1
 WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/flutter#54400](https://github.com/flutter/flutter/issues/54400) | 28 | 1
-[Selection] Reimplement SelectableText with SelectionArea [flutter/flutter#104547](https://github.com/flutter/flutter/issues/104547) | 25 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-accessibility` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-go_router` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-tool` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-engine` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 46 | [9](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-ios` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-android` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Camera application is crashing and throws an exception - Access denied finding p
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-web` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`team-ecosystem` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,15 +285,15 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [24](#dart-lang-sdk-62661-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [19](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [10](#dart-lang-sdk-56841-graph)
-Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 7 | [7](#dart-lang-sdk-62952-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
+Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 7 | [7](#dart-lang-sdk-62952-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 225 | [6](#dart-lang-sdk-55281-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 80 | [5](#dart-lang-sdk-53884-graph)
@@ -307,7 +307,7 @@ Change error handlers accepting `Function` to be typed. [dart-lang/sdk#54946](ht
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-09 to 2026-05-09.
+`dart-lang/language` issues that received the most reactions from 2026-02-09 to 2026-05-10.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -788,23 +788,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62952-graph"></a>
-### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
-  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63313-graph"></a>
 ### [analyzer] CollectionElement no longer possible to be exhausted in switches
   <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -817,6 +800,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62952-graph"></a>
+### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
+  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7]
   ```
 
   </details>
