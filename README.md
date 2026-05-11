@@ -89,7 +89,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 0
-Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
@@ -110,7 +110,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 37 | 1
 WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/flutter#54400](https://github.com/flutter/flutter/issues/54400) | 28 | 1
-[Selection] Reimplement SelectableText with SelectionArea [flutter/flutter#104547](https://github.com/flutter/flutter/issues/104547) | 25 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
 
 #### Accessibility
 
@@ -292,14 +292,14 @@ Issue | Total reactions | Recent reactions
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [24](#dart-lang-sdk-62661-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [19](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [10](#dart-lang-sdk-56841-graph)
-Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 7 | [7](#dart-lang-sdk-62952-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
+Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 7 | [7](#dart-lang-sdk-62952-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 225 | [6](#dart-lang-sdk-55281-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 80 | [5](#dart-lang-sdk-53884-graph)
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
-Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 Analyzer plugin performance: debounce/cancel requests, skip files [dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) | 5 | [5](#dart-lang-sdk-62649-graph)
+Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 proposal: `avoid_non_null_checks ` [dart-lang/sdk#58535](https://github.com/dart-lang/sdk/issues/58535) | 29 | 4
 Add --no-pub flag [dart-lang/sdk#45307](https://github.com/dart-lang/sdk/issues/45307) | 26 | 4
@@ -315,8 +315,8 @@ Primary constructor on classes [dart-lang/language#2364](https://github.com/dart
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1238 | [13](#dart-lang-language-723-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 13 | [13](#dart-lang-language-4654-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [11](#dart-lang-language-314-graph)
+Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 38 | [6](#dart-lang-language-4154-graph)
-Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 6 | [6](#dart-lang-language-4677-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | [5](#dart-lang-language-1122-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 250 | [5](#dart-lang-language-1076-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | [5](#dart-lang-language-4271-graph)
@@ -788,6 +788,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-sdk-63313-graph"></a>
+### [analyzer] CollectionElement no longer possible to be exhausted in switches
+  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-62952-graph"></a>
 ### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
   <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -805,9 +822,9 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-sdk-63313-graph"></a>
-### [analyzer] CollectionElement no longer possible to be exhausted in switches
-  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+<a name="dart-lang-language-4677-graph"></a>
+### Setter functions, parameterized setters.
+  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -816,7 +833,7 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   xychart-beta
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 7]
   ```
 
   </details>
@@ -953,23 +970,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions" 0 --> 20
     line [9, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4677-graph"></a>
-### Setter functions, parameterized setters.
-  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -1247,23 +1247,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="flutter-flutter-124595-graph"></a>
-### flutter image picker is slow to pick larger files
-  <sub>[flutter/flutter#124595](https://github.com/flutter/flutter/issues/124595) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions" 0 --> 20
-    line [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4630-graph"></a>
 ### Explicit Error Propagation (Zig-Inspired)
   <sub>[dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) &mdash; 18 total reactions, 5 recent reactions</sub><br />
@@ -1276,6 +1259,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions" 0 --> 20
     line [14, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-124595-graph"></a>
+### flutter image picker is slow to pick larger files
+  <sub>[flutter/flutter#124595](https://github.com/flutter/flutter/issues/124595) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions" 0 --> 20
+    line [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -1298,23 +1298,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62796-graph"></a>
-### Add named factory constructors to Duration for single-unit creation
-  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-62649-graph"></a>
 ### Analyzer plugin performance: debounce/cancel requests, skip files
   <sub>[dart-lang/sdk#62649](https://github.com/dart-lang/sdk/issues/62649) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1327,6 +1310,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions" 0 --> 20
     line [3, 3, 3, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62796-graph"></a>
+### Add named factory constructors to Duration for single-unit creation
+  <sub>[dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
