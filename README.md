@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-09 to 2026-05-12.
+Issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -14,8 +14,8 @@ bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#6
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 22 | [22](#flutter-flutter-183554-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [20](#flutter-flutter-182244-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 254 | [19](#flutter-flutter-65504-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [19](#dart-lang-sdk-61957-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 252 | [17](#flutter-flutter-65504-graph)
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 16 | [16](#flutter-flutter-182466-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [14](#dart-lang-language-2364-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 246 | [14](#flutter-flutter-142845-graph)
@@ -28,12 +28,12 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-framework` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 252 | [17](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 254 | [19](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 246 | [14](#flutter-flutter-142845-graph)
 Flutter clipboard should support images [flutter/flutter#32045](https://github.com/flutter/flutter/issues/32045) | 108 | [6](#flutter-flutter-32045-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 72 | [5](#flutter-flutter-81005-graph)
@@ -42,15 +42,15 @@ Desktop Client Side Decoration support [flutter/flutter#31373](https://github.co
 Move Listenable, ValueListanable to a Dart package [flutter/flutter#171101](https://github.com/flutter/flutter/issues/171101) | 25 | 4
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 128 | 3
 Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/flutter/issues/84631) | 48 | 3
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 168 | 2
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 145 | 2
 Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flutter/flutter/issues/21980) | 126 | 2
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 95 | 2
 Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutter/flutter/issues/25652) | 77 | 2
-[Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 65 | 2
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-design` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`f: cupertino` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [62](#flutter-flutter-101479-graph)
@@ -89,11 +89,11 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -110,11 +110,11 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 37 | 1
 WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/flutter#54400](https://github.com/flutter/flutter/issues/54400) | 28 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
+[Selection] Reimplement SelectableText with SelectionArea [flutter/flutter#104547](https://github.com/flutter/flutter/issues/104547) | 25 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-accessibility` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-go_router` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-tool` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,15 +152,15 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-engine` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 46 | [9](#flutter-flutter-174980-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 454 | [8](#flutter-flutter-66618-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 244 | [7](#flutter-flutter-61229-graph)
+Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 563 | [6](#flutter-flutter-26801-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 72 | [6](#flutter-flutter-127852-graph)
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2039 | [5](#flutter-flutter-14330-graph)
-Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 562 | [5](#flutter-flutter-26801-graph)
 text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 62 | [5](#flutter-flutter-63043-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 350 | 4
 [Impeller] Unsharp circle border when using impeller [flutter/flutter#121696](https://github.com/flutter/flutter/issues/121696) | 22 | 4
@@ -175,7 +175,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-ios` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-android` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -211,15 +211,15 @@ Add support for Android 13 per-app language preferences  [flutter/flutter#109842
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 68 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 58 | 2
 How to use local aar inside flutter plugin? [flutter/flutter#28195](https://github.com/flutter/flutter/issues/28195) | 29 | 2
-Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 77 | 1
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 1
+Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 77 | 1
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 29 | 1
 [local_auth plugin]: Add option to only use strong biometric authentication systems on Android [flutter/flutter#81169](https://github.com/flutter/flutter/issues/81169) | 25 | 1
 Camera application is crashing and throws an exception - Access denied finding property "vendor.camera.aux.packagelist" [flutter/flutter#46952](https://github.com/flutter/flutter/issues/46952) | 22 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-web` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`team-ecosystem` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Change error handlers accepting `Function` to be typed. [dart-lang/sdk#54946](ht
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-09 to 2026-05-12.
+`dart-lang/language` issues that received the most reactions from 2026-02-09 to 2026-05-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -465,6 +465,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 254 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions"
+    line [235, 236, 237, 239, 242, 242, 242, 242, 241, 245, 245, 245, 245, 254]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-61957-graph"></a>
 ### [Dot shorthands] A new lint and fix to prefer dot shorthands
   <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 70 total reactions, 19 recent reactions</sub><br />
@@ -477,23 +494,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions"
     line [53, 57, 61, 62, 64, 65, 66, 66, 66, 68, 69, 69, 70, 70]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 252 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions"
-    line [235, 236, 237, 239, 242, 242, 242, 242, 241, 245, 245, 245, 245, 252]
   ```
 
   </details>
@@ -839,6 +839,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="flutter-flutter-26801-graph"></a>
+### Apple CarPlay / Android Auto support?
+  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 563 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions"
+    line [558, 558, 559, 559, 559, 559, 559, 559, 559, 559, 560, 561, 562, 563]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-55324-graph"></a>
 ### Support Firefox as a browser in flutter run
   <sub>[flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) &mdash; 233 total reactions, 6 recent reactions</sub><br />
@@ -1004,23 +1021,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions"
     line [2035, 2035, 2036, 2036, 2036, 2037, 2036, 2037, 2038, 2038, 2040, 2041, 2039, 2039]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-26801-graph"></a>
-### Apple CarPlay / Android Auto support?
-  <sub>[flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) &mdash; 562 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions"
-    line [558, 558, 559, 559, 559, 559, 559, 559, 559, 559, 560, 561, 562, 562]
   ```
 
   </details>
