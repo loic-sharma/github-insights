@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-09 to 2026-05-13.
+Issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-framework` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-design` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`f: cupertino` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [62](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -105,16 +105,16 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 27 | 2
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 23 | 2
 [Feature Request] Ability to copy WidgetSpan to clipboard [flutter/flutter#92506](https://github.com/flutter/flutter/issues/92506) | 20 | 2
+Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 115 | 1
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 86 | 1
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 65 | 1
 showDatePicker has date format issues when DatePickerEntryMode.input is selected [flutter/flutter#62401](https://github.com/flutter/flutter/issues/62401) | 51 | 1
 WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/flutter#54400](https://github.com/flutter/flutter/issues/54400) | 28 | 1
-KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-accessibility` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-go_router` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-tool` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-engine` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 46 | [9](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-ios` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-android` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Camera application is crashing and throws an exception - Access denied finding p
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-web` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`team-ecosystem` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Change error handlers accepting `Function` to be typed. [dart-lang/sdk#54946](ht
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-09 to 2026-05-13.
+`dart-lang/language` issues that received the most reactions from 2026-02-09 to 2026-05-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
