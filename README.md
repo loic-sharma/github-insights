@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-09 to 2026-05-14.
+Issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ FormatException: advisoriesUpdated must be a String [flutter/flutter#185943](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-framework` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-design` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`f: cupertino` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [62](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | [7](#flutter-flutter-113192-graph)
@@ -114,7 +114,7 @@ WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/f
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-accessibility` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-go_router` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-tool` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-engine` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 46 | [9](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-ios` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-android` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Camera application is crashing and throws an exception - Access denied finding p
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-web` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -229,6 +229,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 151 | [6](#flutter-flutter-40376-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 108 | 3
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 346 | 2
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 298 | 2
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 65 | 2
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 2
 [web][PWA] SafeArea Widget does not work on iOS Safari PWA [flutter/flutter#84833](https://github.com/flutter/flutter/issues/84833) | 48 | 2
@@ -237,11 +238,10 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 884 | 1
-Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 664 | 1
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Bringing Fluent Design to Flutter for additional Mobile design options and Deskt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`team-ecosystem` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -273,6 +273,7 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 151 | [6](#flutter-flutter-40376-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 108 | 3
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 346 | 2
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 298 | 2
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 65 | 2
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 2
 [web][PWA] SafeArea Widget does not work on iOS Safari PWA [flutter/flutter#84833](https://github.com/flutter/flutter/issues/84833) | 48 | 2
@@ -281,18 +282,17 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 884 | 1
-Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 664 | 1
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [24](#dart-lang-sdk-62661-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [19](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [10](#dart-lang-sdk-56841-graph)
-Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 7 | [7](#dart-lang-sdk-62952-graph)
+Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 8 | [8](#dart-lang-sdk-62952-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 225 | [6](#dart-lang-sdk-55281-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 15 | [6](#dart-lang-sdk-54785-graph)
@@ -307,14 +307,14 @@ Change error handlers accepting `Function` to be typed. [dart-lang/sdk#54946](ht
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-09 to 2026-05-14.
+`dart-lang/language` issues that received the most reactions from 2026-02-09 to 2026-05-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1239 | [14](#dart-lang-language-723-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [14](#dart-lang-language-2364-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 13 | [13](#dart-lang-language-4654-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2308 | [11](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2309 | [12](#dart-lang-language-314-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 100 | [6](#dart-lang-language-2128-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 38 | [6](#dart-lang-language-4154-graph)
@@ -601,6 +601,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-language-314-graph"></a>
+### Add data classes
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2309 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions"
+    line [2299, 2303, 2303, 2307, 2307, 2307, 2308, 2308, 2308, 2308, 2308, 2308, 2308, 2309]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-126005-graph"></a>
 ### ☂️ Add Swift Package Manager compatibility
   <sub>[flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) &mdash; 169 total reactions, 12 recent reactions</sub><br />
@@ -613,23 +630,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions"
     line [157, 158, 158, 163, 163, 163, 163, 163, 163, 164, 164, 165, 165, 169]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-314-graph"></a>
-### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2308 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions"
-    line [2299, 2303, 2303, 2307, 2307, 2307, 2308, 2308, 2308, 2308, 2308, 2308, 2308, 2308]
   ```
 
   </details>
@@ -720,6 +720,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
+<a name="dart-lang-sdk-62952-graph"></a>
+### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
+  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7, 8]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-31713-graph"></a>
 ### Implement PlatformView support on Windows
   <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 489 total reactions, 7 recent reactions</sub><br />
@@ -800,23 +817,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 7]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62952-graph"></a>
-### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
-  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7, 7]
   ```
 
   </details>
@@ -1247,23 +1247,6 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
   </details>
   </sub>
 
-<a name="dart-lang-language-4630-graph"></a>
-### Explicit Error Propagation (Zig-Inspired)
-  <sub>[dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) &mdash; 18 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions" 0 --> 20
-    line [14, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-124595-graph"></a>
 ### flutter image picker is slow to pick larger files
   <sub>[flutter/flutter#124595](https://github.com/flutter/flutter/issues/124595) &mdash; 18 total reactions, 5 recent reactions</sub><br />
@@ -1276,6 +1259,23 @@ Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/languag
     x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions" 0 --> 20
     line [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4630-graph"></a>
+### Explicit Error Propagation (Zig-Inspired)
+  <sub>[dart-lang/language#4630](https://github.com/dart-lang/language/issues/4630) &mdash; 18 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 9, Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions" 0 --> 20
+    line [14, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
