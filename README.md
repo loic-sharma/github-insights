@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-16 to 2026-05-16.
+Issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Deprecate and remove "default constructors" feature. [dart-lang/language#4654](h
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
@@ -89,11 +89,11 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 32 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
@@ -114,7 +114,7 @@ WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/f
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 454 | [8](#flutter-flutter-66618-graph)
@@ -175,7 +175,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Camera application is crashing and throws an exception - Access denied finding p
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-16.
+`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
