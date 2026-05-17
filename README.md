@@ -180,7 +180,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 169 | [12](#flutter-flutter-126005-graph)
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 25 | [5](#flutter-flutter-173940-graph)
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 26 | [6](#flutter-flutter-173940-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 161 | 4
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
 Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 38 | 3
@@ -907,6 +907,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
+<a name="flutter-flutter-173940-graph"></a>
+### Flutter: Cleaning Xcode workspace takes 2-3 minutes
+  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 26 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    y-axis "Reactions"
+    line [21, 21, 21, 23, 23, 23, 24, 24, 24, 24, 24, 25, 26]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-182244-graph"></a>
 ### `flutter pub get` fails to get new Git Tags
   <sub>[flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) &mdash; 20 total reactions, 6 recent reactions</sub><br />
@@ -1106,23 +1123,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
     y-axis "Reactions"
     line [0, 21, 25, 25, 25, 26, 26, 26, 26, 26, 26, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-173940-graph"></a>
-### Flutter: Cleaning Xcode workspace takes 2-3 minutes
-  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 25 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions"
-    line [21, 21, 21, 23, 23, 23, 24, 24, 24, 24, 24, 25, 25]
   ```
 
   </details>
