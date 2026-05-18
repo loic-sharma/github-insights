@@ -2,11 +2,11 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-16 to 2026-05-17.
+Issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 767 | [60](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 768 | [61](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 33 | [33](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 671 | [27](#flutter-flutter-170310-graph)
@@ -18,9 +18,9 @@ Overscroll effect isn't rendered properly when scrolling with backdrop filter bl
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [15](#dart-lang-sdk-61957-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [14](#dart-lang-language-2364-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 248 | [14](#flutter-flutter-142845-graph)
-FormatException: advisoriesUpdated must be a String [flutter/flutter#185943](https://github.com/flutter/flutter/issues/185943) | 14 | [14](#flutter-flutter-185943-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 13 | [13](#dart-lang-language-4654-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 169 | [12](#flutter-flutter-126005-graph)
+Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1239 | [11](#dart-lang-language-723-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Deprecate and remove "default constructors" feature. [dart-lang/language#4654](h
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,11 +50,11 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 767 | [60](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 768 | [61](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 33 | [33](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 671 | [27](#flutter-flutter-170310-graph)
@@ -68,19 +68,19 @@ SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 103 | 2
 Add ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 42 | 2
 Add dismissLimits to Dismissible to limit the drag extent [flutter/flutter#88515](https://github.com/flutter/flutter/issues/88515) | 28 | 2
-Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 95 | 1
+Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 33 | [33](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 671 | [27](#flutter-flutter-170310-graph)
+Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 69 | 1
 CupertinoPageRoute should support _kBackGestureWidth customization [flutter/flutter#46598](https://github.com/flutter/flutter/issues/46598) | 15 | 1
-Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 127 | 0
 [proposal] Provide a way to close a specific dialog [flutter/flutter#62960](https://github.com/flutter/flutter/issues/62960) | 120 | 0
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 79 | 0
 Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/flutter/flutter/issues/55809) | 61 | 0
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
@@ -110,11 +110,11 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 1
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | 1
 WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/flutter#54400](https://github.com/flutter/flutter/issues/54400) | 28 | 1
-[Selection] Reimplement SelectableText with SelectionArea [flutter/flutter#104547](https://github.com/flutter/flutter/issues/104547) | 25 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,18 +123,17 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-FormatException: advisoriesUpdated must be a String [flutter/flutter#185943](https://github.com/flutter/flutter/issues/185943) | 14 | [14](#flutter-flutter-185943-graph)
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [6](#flutter-flutter-182244-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 195 | 2
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 175 | 2
@@ -149,10 +148,11 @@ Add support to define widget preview and see it in the IDE when developing [flut
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
+Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 91 | 0
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 454 | [8](#flutter-flutter-66618-graph)
@@ -175,7 +175,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -183,21 +183,21 @@ Issue | Total reactions | Recent reactions
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 26 | [6](#flutter-flutter-173940-graph)
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 161 | 4
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
-Severe debugging lag on physical iPhone 12 device (iOS 26) with Flutter 3.35.4 via Xcode 26 [flutter/flutter#175962](https://github.com/flutter/flutter/issues/175962) | 38 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 120 | 2
-[video_player] Incorrect colors in HDR playback on iOS [flutter/flutter#91241](https://github.com/flutter/flutter/issues/91241) | 70 | 2
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
-The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 15 | 2
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 376 | 1
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 293 | 1
 Blinking cursor should use less CPU [flutter/flutter#59327](https://github.com/flutter/flutter/issues/59327) | 64 | 1
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 56 | 1
-☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 32 | 1
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 32 | 1
+☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 32 | 1
+[SwiftPM] ☂ Allow Swift Package Manager to be used with Add to App [flutter/flutter#146957](https://github.com/flutter/flutter/issues/146957) | 31 | 1
+iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 30 | 1
+Support multiple windows on iPad [flutter/flutter#48838](https://github.com/flutter/flutter/issues/48838) | 29 | 1
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Camera application is crashing and throws an exception - Access denied finding p
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -299,15 +299,15 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 "Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
 Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
-[breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
 [Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
+[breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 553 | 3
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 64 | 3
-`dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 20 | 3
+Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 36 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-17.
+`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -331,16 +331,16 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 767 total reactions, 60 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 768 total reactions, 61 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [736, 739, 741, 744, 749, 751, 758, 761, 762, 762, 763, 765, 767]
+    line [736, 739, 741, 744, 749, 751, 758, 761, 762, 762, 763, 765, 767, 768]
   ```
 
   </details>
@@ -355,9 +355,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [977, 980, 982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011, 1011]
+    line [977, 980, 982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011]
   ```
 
   </details>
@@ -372,9 +372,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 17, 28, 28, 30, 33, 33, 33]
+    line [0, 0, 0, 0, 0, 0, 17, 28, 28, 30, 33, 33, 33, 33]
   ```
 
   </details>
@@ -389,9 +389,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [646, 648, 650, 650, 651, 654, 655, 658, 666, 667, 668, 670, 671]
+    line [646, 648, 650, 650, 651, 654, 655, 658, 666, 667, 668, 670, 671, 671]
   ```
 
   </details>
@@ -406,9 +406,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 19, 20, 20, 22, 22, 22, 22, 22]
+    line [0, 0, 0, 0, 0, 19, 20, 20, 22, 22, 22, 22, 22, 22]
   ```
 
   </details>
@@ -423,9 +423,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [7, 13, 16, 18, 17, 20, 22, 22, 22, 22, 24, 24, 24]
+    line [7, 13, 16, 18, 17, 20, 22, 22, 22, 22, 24, 24, 24, 24]
   ```
 
   </details>
@@ -440,9 +440,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [236, 237, 239, 242, 242, 242, 242, 241, 245, 245, 245, 245, 255]
+    line [236, 237, 239, 242, 242, 242, 242, 241, 245, 245, 245, 245, 255, 255]
   ```
 
   </details>
@@ -457,9 +457,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [26, 26, 26, 27, 27, 27, 46, 46, 46, 46, 46, 46, 46]
+    line [26, 26, 26, 27, 27, 27, 46, 46, 46, 46, 46, 46, 46, 46]
   ```
 
   </details>
@@ -474,9 +474,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 13, 13, 13, 14, 14, 16, 16, 16, 16]
+    line [0, 0, 0, 0, 13, 13, 13, 14, 14, 16, 16, 16, 16, 16]
   ```
 
   </details>
@@ -491,9 +491,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [57, 61, 62, 64, 65, 66, 66, 66, 68, 69, 69, 70, 70]
+    line [57, 61, 62, 64, 65, 66, 66, 66, 68, 69, 69, 70, 70, 70]
   ```
 
   </details>
@@ -508,9 +508,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [272, 277, 280, 280, 280, 281, 282, 283, 283, 284, 284, 284, 284]
+    line [272, 277, 280, 280, 280, 281, 282, 283, 283, 284, 284, 284, 284, 284]
   ```
 
   </details>
@@ -525,26 +525,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [234, 234, 234, 234, 234, 238, 244, 244, 244, 246, 246, 246, 248]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-185943-graph"></a>
-### FormatException: advisoriesUpdated must be a String
-  <sub>[flutter/flutter#185943](https://github.com/flutter/flutter/issues/185943) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
+    line [234, 234, 234, 234, 234, 238, 244, 244, 244, 246, 246, 246, 248, 248]
   ```
 
   </details>
@@ -559,9 +542,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 10, 11, 12, 12, 12, 12, 12, 13, 13, 13, 13]
+    line [0, 0, 10, 11, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13]
   ```
 
   </details>
@@ -576,9 +559,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [158, 158, 163, 163, 163, 163, 163, 163, 164, 164, 165, 165, 169]
+    line [158, 158, 163, 163, 163, 163, 163, 163, 164, 164, 165, 165, 169, 169]
   ```
 
   </details>
@@ -593,9 +576,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1236, 1238, 1238, 1239]
+    line [1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1236, 1238, 1238, 1239, 1239]
   ```
 
   </details>
@@ -610,9 +593,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [52, 52, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56]
+    line [52, 52, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56, 56]
   ```
 
   </details>
@@ -627,9 +610,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [26, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 35]
+    line [26, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 35, 35]
   ```
 
   </details>
@@ -644,9 +627,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [448, 448, 448, 449, 449, 449, 449, 449, 449, 449, 453, 454, 454]
+    line [448, 448, 448, 449, 449, 449, 449, 449, 449, 449, 453, 454, 454, 454]
   ```
 
   </details>
@@ -661,9 +644,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [73, 73, 74, 79, 79, 81, 81, 81, 81, 81, 81, 81, 81]
+    line [73, 73, 74, 79, 79, 81, 81, 81, 81, 81, 81, 81, 81, 81]
   ```
 
   </details>
@@ -678,9 +661,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [38, 38, 39, 39, 40, 42, 43, 43, 45, 45, 45, 46, 46]
+    line [38, 38, 39, 39, 40, 42, 43, 43, 45, 45, 45, 46, 46, 46]
   ```
 
   </details>
@@ -695,9 +678,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7, 8]
+    line [0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7, 8, 8]
   ```
 
   </details>
@@ -712,9 +695,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [2303, 2303, 2307, 2307, 2307, 2308, 2308, 2308, 2308, 2308, 2308, 2308, 2309]
+    line [2303, 2303, 2307, 2307, 2307, 2308, 2308, 2308, 2308, 2308, 2308, 2308, 2309, 2309]
   ```
 
   </details>
@@ -729,26 +712,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [483, 484, 485, 485, 485, 487, 487, 489, 489, 489, 489, 489, 489]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4677-graph"></a>
-### Setter functions, parameterized setters.
-  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 7]
+    line [483, 484, 485, 485, 485, 487, 487, 489, 489, 489, 489, 489, 489, 489]
   ```
 
   </details>
@@ -763,9 +729,26 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4677-graph"></a>
+### Setter functions, parameterized setters.
+  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 7, 7]
   ```
 
   </details>
@@ -780,9 +763,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [228, 231, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233]
+    line [228, 231, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233]
   ```
 
   </details>
@@ -797,9 +780,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [219, 219, 219, 220, 220, 221, 221, 221, 223, 225, 225, 225, 225]
+    line [219, 219, 219, 220, 220, 221, 221, 221, 223, 225, 225, 225, 225, 225]
   ```
 
   </details>
@@ -814,9 +797,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [149, 150, 150, 150, 150, 150, 150, 152, 152, 154, 154, 154, 155]
+    line [149, 150, 150, 150, 150, 150, 150, 152, 152, 154, 154, 154, 155, 155]
   ```
 
   </details>
@@ -831,9 +814,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [146, 148, 150, 150, 150, 151, 151, 151, 151, 151, 151, 151, 151]
+    line [146, 148, 150, 150, 150, 151, 151, 151, 151, 151, 151, 151, 151, 151]
   ```
 
   </details>
@@ -848,9 +831,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [102, 102, 103, 103, 103, 107, 107, 107, 107, 108, 108, 108, 108]
+    line [102, 102, 103, 103, 103, 107, 107, 107, 107, 108, 108, 108, 108, 108]
   ```
 
   </details>
@@ -865,9 +848,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [95, 95, 95, 95, 95, 95, 97, 97, 98, 99, 99, 99, 100]
+    line [95, 95, 95, 95, 95, 95, 97, 97, 98, 99, 99, 99, 100, 100]
   ```
 
   </details>
@@ -882,9 +865,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [39, 39, 39, 39, 40, 41, 42, 42, 43, 44, 44, 44, 44]
+    line [39, 39, 39, 39, 40, 41, 42, 42, 43, 44, 44, 44, 44, 44]
   ```
 
   </details>
@@ -899,9 +882,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [32, 35, 36, 36, 36, 36, 36, 36, 36, 36, 36, 38, 38]
+    line [32, 35, 36, 36, 36, 36, 36, 36, 36, 36, 36, 38, 38, 38]
   ```
 
   </details>
@@ -916,9 +899,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [21, 21, 21, 23, 23, 23, 24, 24, 24, 24, 24, 25, 26]
+    line [21, 21, 21, 23, 23, 23, 24, 24, 24, 24, 24, 25, 26, 26]
   ```
 
   </details>
@@ -933,9 +916,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [18, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+    line [18, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -950,9 +933,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [558, 559, 559, 559, 559, 559, 559, 559, 559, 560, 561, 562, 563]
+    line [558, 559, 559, 559, 559, 559, 559, 559, 559, 560, 561, 562, 563, 563]
   ```
 
   </details>
@@ -967,9 +950,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [361, 361, 362, 362, 362, 362, 362, 362, 362, 363, 366, 366, 366]
+    line [361, 361, 362, 362, 362, 362, 362, 362, 362, 363, 366, 366, 366, 366]
   ```
 
   </details>
@@ -984,9 +967,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [211, 211, 211, 212, 212, 212, 216, 216, 216, 216, 216, 216, 216]
+    line [211, 211, 211, 212, 212, 212, 216, 216, 216, 216, 216, 216, 216, 216]
   ```
 
   </details>
@@ -1001,9 +984,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [83, 83, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 85]
+    line [83, 83, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 85, 85]
   ```
 
   </details>
@@ -1018,9 +1001,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [75, 75, 75, 75, 75, 75, 76, 79, 79, 79, 79, 80, 80]
+    line [75, 75, 75, 75, 75, 75, 76, 79, 79, 79, 79, 80, 80, 80]
   ```
 
   </details>
@@ -1035,9 +1018,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [68, 68, 68, 68, 68, 69, 69, 69, 69, 70, 72, 72, 73]
+    line [68, 68, 68, 68, 68, 69, 69, 69, 69, 70, 72, 72, 73, 73]
   ```
 
   </details>
@@ -1052,9 +1035,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [67, 67, 67, 67, 68, 71, 71, 71, 72, 72, 72, 72, 72]
+    line [67, 67, 67, 67, 68, 71, 71, 71, 72, 72, 72, 72, 72, 72]
   ```
 
   </details>
@@ -1069,9 +1052,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [64, 64, 65, 65, 65, 65, 69, 69, 69, 69, 69, 69, 69]
+    line [64, 64, 65, 65, 65, 65, 69, 69, 69, 69, 69, 69, 69, 69]
   ```
 
   </details>
@@ -1086,9 +1069,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [57, 57, 57, 57, 57, 57, 57, 57, 57, 62, 62, 62, 62]
+    line [57, 57, 57, 57, 57, 57, 57, 57, 57, 62, 62, 62, 62, 62]
   ```
 
   </details>
@@ -1103,9 +1086,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [36, 36, 37, 39, 39, 39, 41, 41, 41, 41, 41, 41, 41]
+    line [36, 36, 37, 39, 39, 39, 41, 41, 41, 41, 41, 41, 41, 41]
   ```
 
   </details>
@@ -1120,9 +1103,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [0, 21, 25, 25, 25, 26, 26, 26, 26, 26, 26, 26, 26]
+    line [0, 21, 25, 25, 25, 26, 26, 26, 26, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -1137,9 +1120,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
+    line [21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
   ```
 
   </details>
@@ -1154,9 +1137,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [11, 11, 11, 12, 12, 14, 16, 16, 16, 16, 16, 16, 16]
+    line [11, 11, 11, 12, 12, 14, 16, 16, 16, 16, 16, 16, 16, 16]
   ```
 
   </details>
@@ -1171,9 +1154,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11]
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
