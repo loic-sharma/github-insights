@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-16 to 2026-05-18.
+Issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
@@ -114,7 +114,7 @@ KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](htt
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 454 | [8](#flutter-flutter-66618-graph)
@@ -175,7 +175,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ TextFormField focus consumes enormous system resources on simulator & iPhone [fl
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Camera application is crashing and throws an exception - Access denied finding p
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-18.
+`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
