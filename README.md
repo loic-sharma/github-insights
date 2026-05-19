@@ -110,7 +110,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 [web] ☂️ Enhancing Flutter Web's text editing system by using Platform Views [flutter/flutter#120613](https://github.com/flutter/flutter/issues/120613) | 49 | 1
 TextFormField focus consumes enormous system resources on simulator & iPhone [flutter/flutter#113192](https://github.com/flutter/flutter/issues/113192) | 29 | 1
 WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/flutter#54400](https://github.com/flutter/flutter/issues/54400) | 28 | 1
-[Selection] Reimplement SelectableText with SelectionArea [flutter/flutter#104547](https://github.com/flutter/flutter/issues/104547) | 25 | 1
+KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](https://github.com/flutter/flutter/issues/67915) | 25 | 1
 
 #### Accessibility
 
