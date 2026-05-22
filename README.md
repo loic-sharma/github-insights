@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-16 to 2026-05-21.
+Issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Add dismissLimits to Dismissible to limit the drag extent [flutter/flutter#88515
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
@@ -93,7 +93,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
@@ -114,7 +114,7 @@ WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/f
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 454 | [8](#flutter-flutter-66618-graph)
@@ -175,7 +175,7 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,12 +241,12 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 489 | [7](#flutter-flutter-31713-graph)
-Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 85 | [5](#flutter-flutter-49757-graph)
+Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 86 | [6](#flutter-flutter-49757-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 349 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 78 | 4
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 134 | 3
@@ -263,7 +263,7 @@ Implement PlatformView support on Linux [flutter/flutter#41724](https://github.c
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-21.
+`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -907,6 +907,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
+<a name="flutter-flutter-49757-graph"></a>
+### Desktop app frame rate isn't synced to display
+  <sub>[flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) &mdash; 86 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [83, 83, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 85, 86]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-81005-graph"></a>
 ### Jump to index in sliver world
   <sub>[flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) &mdash; 74 total reactions, 6 recent reactions</sub><br />
@@ -1021,23 +1038,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
     line [211, 211, 211, 212, 212, 212, 216, 216, 216, 216, 216, 216, 216, 216]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-49757-graph"></a>
-### Desktop app frame rate isn't synced to display
-  <sub>[flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) &mdash; 85 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [83, 83, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 85, 85]
   ```
 
   </details>
