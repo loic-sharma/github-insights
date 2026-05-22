@@ -11,8 +11,8 @@ Issue | Total reactions | Recent reactions
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 33 | [33](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 671 | [27](#flutter-flutter-170310-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 22 | [22](#flutter-flutter-183554-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 256 | [21](#flutter-flutter-65504-graph)
 bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [21](#dart-lang-sdk-62661-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 255 | [20](#flutter-flutter-65504-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 16 | [16](#flutter-flutter-182466-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [15](#dart-lang-sdk-61957-graph)
@@ -32,7 +32,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 255 | [20](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 256 | [21](#flutter-flutter-65504-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 248 | [14](#flutter-flutter-142845-graph)
 Flutter clipboard should support images [flutter/flutter#32045](https://github.com/flutter/flutter/issues/32045) | 108 | [6](#flutter-flutter-32045-graph)
@@ -414,6 +414,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 256 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [236, 237, 239, 242, 242, 242, 242, 241, 245, 245, 245, 245, 255, 256]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-62661-graph"></a>
 ### bug: glob workspace pattern reports `dart(path_does_not_exist)`
   <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 24 total reactions, 21 recent reactions</sub><br />
@@ -426,23 +443,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
     line [7, 13, 16, 18, 17, 20, 22, 22, 22, 22, 24, 24, 24, 24]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 255 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [236, 237, 239, 242, 242, 242, 242, 241, 245, 245, 245, 245, 255, 255]
   ```
 
   </details>
