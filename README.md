@@ -2,25 +2,25 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-02-16 to 2026-05-22.
+Issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 769 | [62](#flutter-flutter-168813-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 34 | [34](#flutter-flutter-184093-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 671 | [27](#flutter-flutter-170310-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [33](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 769 | [32](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 672 | [26](#flutter-flutter-170310-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 22 | [22](#flutter-flutter-183554-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 256 | [21](#flutter-flutter-65504-graph)
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [21](#dart-lang-sdk-62661-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 257 | [21](#flutter-flutter-65504-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
-[MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 16 | [16](#flutter-flutter-182466-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [15](#dart-lang-sdk-61957-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [14](#dart-lang-language-2364-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 248 | [14](#flutter-flutter-142845-graph)
-☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 170 | [13](#flutter-flutter-126005-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 249 | [15](#flutter-flutter-142845-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [15](#dart-lang-sdk-62661-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 13 | [13](#dart-lang-language-4654-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [12](#dart-lang-language-2364-graph)
+☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 170 | [12](#flutter-flutter-126005-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [12](#dart-lang-sdk-61957-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1239 | [11](#dart-lang-language-723-graph)
+[dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 85 | [10](#dart-lang-sdk-53884-graph)
 
 ## Trending issues by team
 
@@ -28,56 +28,56 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-framework` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 256 | [21](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 257 | [21](#flutter-flutter-65504-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 46 | [20](#flutter-flutter-138940-graph)
-☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 248 | [14](#flutter-flutter-142845-graph)
+☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 249 | [15](#flutter-flutter-142845-graph)
 Flutter clipboard should support images [flutter/flutter#32045](https://github.com/flutter/flutter/issues/32045) | 108 | [6](#flutter-flutter-32045-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 74 | [6](#flutter-flutter-81005-graph)
-Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 170 | 4
-Desktop Client Side Decoration support [flutter/flutter#31373](https://github.com/flutter/flutter/issues/31373) | 87 | 4
-Move Listenable, ValueListanable to a Dart package [flutter/flutter#171101](https://github.com/flutter/flutter/issues/171101) | 25 | 4
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 170 | 3
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 128 | 3
 Bug with font weight when using GoogleFonts.xxxTextTheme? [flutter/flutter#174576](https://github.com/flutter/flutter/issues/174576) | 114 | 3
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 96 | 3
 Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/flutter/issues/84631) | 48 | 3
+Move Listenable, ValueListanable to a Dart package [flutter/flutter#171101](https://github.com/flutter/flutter/issues/171101) | 25 | 3
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 145 | 2
 Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flutter/flutter/issues/21980) | 126 | 2
 Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutter/flutter/issues/25652) | 77 | 2
+[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 69 | 2
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-design` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 769 | [62](#flutter-flutter-168813-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 34 | [34](#flutter-flutter-184093-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 671 | [27](#flutter-flutter-170310-graph)
-[MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 16 | [16](#flutter-flutter-182466-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [33](#flutter-flutter-101479-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 769 | [32](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 672 | [26](#flutter-flutter-170310-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 155 | [6](#flutter-flutter-102560-graph)
 DropdownMenu is very slow when using large lists [flutter/flutter#132945](https://github.com/flutter/flutter/issues/132945) | 20 | [5](#flutter-flutter-132945-graph)
-[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 80 | 3
 Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter/issues/31728) | 76 | 3
-☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 75 | 3
+[MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 16 | 3
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 276 | 2
-Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 103 | 2
 Add ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 42 | 2
 ☂️ Relocation: Establish new material and cupertino packages in flutter/packages [flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) | 32 | 2
 Add dismissLimits to Dismissible to limit the drag extent [flutter/flutter#88515](https://github.com/flutter/flutter/issues/88515) | 28 | 2
+Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
+Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 95 | 1
+[proposal] blankcanvas 2.0 [flutter/flutter#165502](https://github.com/flutter/flutter/issues/165502) | 80 | 1
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`f: cupertino` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [38](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 34 | [34](#flutter-flutter-184093-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 671 | [27](#flutter-flutter-170310-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1011 | [33](#flutter-flutter-101479-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 672 | [26](#flutter-flutter-170310-graph)
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 69 | 1
 Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter#47441](https://github.com/flutter/flutter/issues/47441) | 55 | 1
@@ -93,17 +93,17 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 127 | 2
-Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 120 | 2
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 38 | 2
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 27 | 2
 [Feature Request] Ability to copy WidgetSpan to clipboard [flutter/flutter#92506](https://github.com/flutter/flutter/issues/92506) | 20 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
+Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 120 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 115 | 1
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 86 | 1
 [proposal] ability to change text overflow on the TextField [flutter/flutter#61069](https://github.com/flutter/flutter/issues/61069) | 65 | 1
@@ -114,7 +114,7 @@ WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/f
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-accessibility` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,18 +123,17 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-go_router` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-tool` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-`flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 20 | [6](#flutter-flutter-182244-graph)
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 195 | 2
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 175 | 2
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 27 | 2
@@ -149,21 +148,22 @@ Add support to define widget preview and see it in the IDE when developing [flut
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
+Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 91 | 0
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-engine` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 454 | [8](#flutter-flutter-66618-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 46 | [8](#flutter-flutter-174980-graph)
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 454 | [6](#flutter-flutter-66618-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 73 | [6](#flutter-flutter-127852-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 563 | [5](#flutter-flutter-26801-graph)
 text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 62 | [5](#flutter-flutter-63043-graph)
-Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2039 | 4
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 350 | 4
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 244 | 4
 [Impeller] Unsharp circle border when using impeller [flutter/flutter#121696](https://github.com/flutter/flutter/issues/121696) | 22 | 4
+Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2039 | 3
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 89 | 3
 Flutter Crashes OpenGL on MediaTek [flutter/flutter#166248](https://github.com/flutter/flutter/issues/166248) | 61 | 3
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 60 | 3
@@ -175,19 +175,19 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-ios` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 170 | [13](#flutter-flutter-126005-graph)
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 28 | [8](#flutter-flutter-173940-graph)
-Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 161 | 4
+☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 170 | [12](#flutter-flutter-126005-graph)
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 28 | [7](#flutter-flutter-173940-graph)
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
+Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 161 | 3
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 16 | 3
-Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 120 | 2
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 376 | 1
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 293 | 1
+Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 120 | 1
 Blinking cursor should use less CPU [flutter/flutter#59327](https://github.com/flutter/flutter/issues/59327) | 64 | 1
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 56 | 1
 ☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 32 | 1
@@ -197,37 +197,38 @@ iOS: italic system font doesn't render properly [flutter/flutter#130492](https:/
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-android` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 45 | [7](#flutter-flutter-168635-graph)
+App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 45 | [6](#flutter-flutter-168635-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 42 | [6](#flutter-flutter-151638-graph)
 Font rendering in Flutter 3.38.1 shows differences compared to previous versions [flutter/flutter#178533](https://github.com/flutter/flutter/issues/178533) | 26 | [5](#flutter-flutter-178533-graph)
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 100 | 3
-"Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 3
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 59 | 3
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 21 | 3
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 3
-[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 20 | 3
+Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 2
+"Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 2
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 40 | 2
 How to use local aar inside flutter plugin? [flutter/flutter#28195](https://github.com/flutter/flutter/issues/28195) | 29 | 2
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 77 | 1
-Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 1
-Slight flicker on the screen when loading from app overview on Android [flutter/flutter#34864](https://github.com/flutter/flutter/issues/34864) | 35 | 1
+Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 45 | 1
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 29 | 1
 [local_auth plugin]: Add option to only use strong biometric authentication systems on Android [flutter/flutter#81169](https://github.com/flutter/flutter/issues/81169) | 25 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-web` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 56 | [9](#flutter-flutter-156910-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 35 | [9](#flutter-flutter-87734-graph)
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | [6](#flutter-flutter-55324-graph)
-Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 151 | [6](#flutter-flutter-40376-graph)
+Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | [5](#flutter-flutter-55324-graph)
+Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 151 | [5](#flutter-flutter-40376-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 110 | [5](#flutter-flutter-149031-graph)
+[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 56 | 4
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 884 | 2
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 346 | 2
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 298 | 2
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 123 | 2
@@ -236,42 +237,42 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 884 | 1
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 664 | 1
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 489 | [7](#flutter-flutter-31713-graph)
-Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 86 | [6](#flutter-flutter-49757-graph)
+Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 489 | [6](#flutter-flutter-31713-graph)
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 349 | 4
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 78 | 4
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 134 | 3
+Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 86 | 3
 [proposal] Add-to-App support for desktop platforms [flutter/flutter#80339](https://github.com/flutter/flutter/issues/80339) | 32 | 3
-Consider hiding windows until the engine is active in the desktop runner templates [flutter/flutter#55427](https://github.com/flutter/flutter/issues/55427) | 16 | 3
-[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 65 | 2
 [feature-request] Support pen pressure and pointer kinds on Linux [flutter/flutter#63209](https://github.com/flutter/flutter/issues/63209) | 51 | 2
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 38 | 2
-Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 29 | 2
 Wayland: support the xdg-decoration protocol to use server-side decorations when available [flutter/flutter#94381](https://github.com/flutter/flutter/issues/94381) | 20 | 2
+Consider hiding windows until the engine is active in the desktop runner templates [flutter/flutter#55427](https://github.com/flutter/flutter/issues/55427) | 16 | 2
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 227 | 1
 Bringing Fluent Design to Flutter for additional Mobile design options and Desktop nativity [flutter/flutter#46481](https://github.com/flutter/flutter/issues/46481) | 197 | 1
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 147 | 1
+Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 89 | 1
+Make Windows plugin APIs thread-safe [flutter/flutter#134346](https://github.com/flutter/flutter/issues/134346) | 58 | 1
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`team-ecosystem` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 56 | [9](#flutter-flutter-156910-graph)
 [web] Incomplete sourcemaps [flutter/flutter#87734](https://github.com/flutter/flutter/issues/87734) | 35 | [9](#flutter-flutter-87734-graph)
-Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | [6](#flutter-flutter-55324-graph)
-Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 151 | [6](#flutter-flutter-40376-graph)
+Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | [5](#flutter-flutter-55324-graph)
+Support Google AdSense in Flutter Web applications [flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) | 151 | [5](#flutter-flutter-40376-graph)
 [WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 110 | [5](#flutter-flutter-149031-graph)
+[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 56 | 4
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 884 | 2
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 346 | 2
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 298 | 2
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 123 | 2
@@ -280,25 +281,24 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 884 | 1
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 664 | 1
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`dart-lang/sdk` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [21](#dart-lang-sdk-62661-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [15](#dart-lang-sdk-61957-graph)
+bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) | 24 | [15](#dart-lang-sdk-62661-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [12](#dart-lang-sdk-61957-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 85 | [10](#dart-lang-sdk-53884-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [8](#dart-lang-sdk-56841-graph)
 Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 8 | [8](#dart-lang-sdk-62952-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 225 | [6](#dart-lang-sdk-55281-graph)
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 39 | [6](#dart-lang-sdk-54003-graph)
-"Find usages" finds unrelated "call" method usages. [dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) | 21 | [5](#dart-lang-sdk-59988-graph)
 Add named factory constructors to Duration for single-unit creation [dart-lang/sdk#62796](https://github.com/dart-lang/sdk/issues/62796) | 5 | [5](#dart-lang-sdk-62796-graph)
+`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 5 | [5](#dart-lang-sdk-63427-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
 [breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
@@ -307,61 +307,27 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-02-16 to 2026-05-22.
+`dart-lang/language` issues that received the most reactions from 2026-02-23 to 2026-05-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [14](#dart-lang-language-2364-graph)
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 13 | [13](#dart-lang-language-4654-graph)
+Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [12](#dart-lang-language-2364-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1239 | [11](#dart-lang-language-723-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2310 | [8](#dart-lang-language-314-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2310 | [7](#dart-lang-language-314-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
-Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 100 | [6](#dart-lang-language-2128-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 38 | [6](#dart-lang-language-4154-graph)
+Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1277 | [5](#dart-lang-language-69-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | [5](#dart-lang-language-1122-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | [5](#dart-lang-language-4271-graph)
+Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 100 | [5](#dart-lang-language-2128-graph)
 First-class, functional-style `Result<E, T>` types with built-in operators [dart-lang/language#3501](https://github.com/dart-lang/language/issues/3501) | 69 | [5](#dart-lang-language-3501-graph)
 Allow use switch expression to init a const variable [dart-lang/language#4021](https://github.com/dart-lang/language/issues/4021) | 16 | [5](#dart-lang-language-4021-graph)
-Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1277 | 4
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 250 | 4
 Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 213 | 4
 Add possibility to consistently get object property name [dart-lang/language#251](https://github.com/dart-lang/language/issues/251) | 110 | 4
 
 ## Graphs
-
-<a name="flutter-flutter-168813-graph"></a>
-### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 769 total reactions, 62 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [736, 739, 741, 744, 749, 751, 758, 761, 762, 762, 763, 765, 767, 769]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-101479-graph"></a>
-### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1011 total reactions, 38 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [977, 980, 982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011]
-  ```
-
-  </details>
-  </sub>
 
 <a name="flutter-flutter-184093-graph"></a>
 ### [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages
@@ -372,9 +338,43 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 17, 28, 28, 30, 33, 33, 33, 34]
+    line [0, 0, 0, 0, 0, 17, 28, 28, 30, 33, 33, 33, 34]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-101479-graph"></a>
+### ☂️ Move the material and cupertino packages outside of Flutter
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1011 total reactions, 33 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [980, 982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-168813-graph"></a>
+### ☂️ Bring Material 3 Expressive to Flutter
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 769 total reactions, 32 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [739, 741, 744, 749, 751, 758, 761, 762, 762, 763, 765, 767, 769]
   ```
 
   </details>
@@ -382,16 +382,16 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 671 total reactions, 27 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 672 total reactions, 26 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [646, 648, 650, 650, 651, 654, 655, 658, 666, 667, 668, 670, 671, 671]
+    line [648, 650, 650, 651, 654, 655, 658, 666, 667, 668, 670, 671, 672]
   ```
 
   </details>
@@ -406,9 +406,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 19, 20, 20, 22, 22, 22, 22, 22, 22]
+    line [0, 0, 0, 0, 19, 20, 20, 22, 22, 22, 22, 22, 22]
   ```
 
   </details>
@@ -416,33 +416,16 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
 <a name="flutter-flutter-65504-graph"></a>
 ### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 256 total reactions, 21 recent reactions</sub><br />
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 257 total reactions, 21 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [236, 237, 239, 242, 242, 242, 242, 241, 245, 245, 245, 245, 255, 256]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-62661-graph"></a>
-### bug: glob workspace pattern reports `dart(path_does_not_exist)`
-  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 24 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [7, 13, 16, 18, 17, 20, 22, 22, 22, 22, 24, 24, 24, 24]
+    line [237, 239, 242, 242, 242, 242, 241, 245, 245, 245, 245, 255, 257]
   ```
 
   </details>
@@ -457,60 +440,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [26, 26, 26, 27, 27, 27, 46, 46, 46, 46, 46, 46, 46, 46]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-182466-graph"></a>
-### [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop
-  <sub>[flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) &mdash; 16 total reactions, 16 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 13, 13, 13, 14, 14, 16, 16, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-61957-graph"></a>
-### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 70 total reactions, 15 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [57, 61, 62, 64, 65, 66, 66, 66, 68, 69, 69, 70, 70, 70]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-2364-graph"></a>
-### Primary constructor on classes
-  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 284 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [272, 277, 280, 280, 280, 281, 282, 283, 283, 284, 284, 284, 284, 284]
+    line [26, 26, 27, 27, 27, 46, 46, 46, 46, 46, 46, 46, 46]
   ```
 
   </details>
@@ -518,33 +450,33 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
-  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 248 total reactions, 14 recent reactions</sub><br />
+  <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 249 total reactions, 15 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [234, 234, 234, 234, 234, 238, 244, 244, 244, 246, 246, 246, 248, 248]
+    line [234, 234, 234, 234, 238, 244, 244, 244, 246, 246, 246, 248, 249]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-126005-graph"></a>
-### ☂️ Add Swift Package Manager compatibility
-  <sub>[flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) &mdash; 170 total reactions, 13 recent reactions</sub><br />
+<a name="dart-lang-sdk-62661-graph"></a>
+### bug: glob workspace pattern reports `dart(path_does_not_exist)`
+  <sub>[dart-lang/sdk#62661](https://github.com/dart-lang/sdk/issues/62661) &mdash; 24 total reactions, 15 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [158, 158, 163, 163, 163, 163, 163, 163, 164, 164, 165, 165, 169, 170]
+    line [13, 16, 18, 17, 20, 22, 22, 22, 22, 24, 24, 24, 24]
   ```
 
   </details>
@@ -559,9 +491,60 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 10, 11, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13]
+    line [0, 10, 11, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-2364-graph"></a>
+### Primary constructor on classes
+  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 284 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [277, 280, 280, 280, 281, 282, 283, 283, 284, 284, 284, 284, 284]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-126005-graph"></a>
+### ☂️ Add Swift Package Manager compatibility
+  <sub>[flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) &mdash; 170 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [158, 163, 163, 163, 163, 163, 163, 164, 164, 165, 165, 169, 170]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61957-graph"></a>
+### [Dot shorthands] A new lint and fix to prefer dot shorthands
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 70 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [61, 62, 64, 65, 66, 66, 66, 68, 69, 69, 70, 70, 70]
   ```
 
   </details>
@@ -576,9 +559,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [1228, 1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1236, 1238, 1238, 1239, 1239]
+    line [1231, 1232, 1232, 1232, 1232, 1235, 1235, 1235, 1236, 1238, 1238, 1239, 1239]
   ```
 
   </details>
@@ -593,26 +576,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [75, 75, 75, 75, 75, 75, 76, 79, 79, 79, 79, 80, 80, 85]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-156910-graph"></a>
-### [web] Deprecate and remove `flutter_service_worker.js`
-  <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 56 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [52, 52, 55, 55, 55, 55, 55, 55, 55, 55, 55, 56, 56, 56]
+    line [75, 75, 75, 75, 75, 76, 79, 79, 79, 79, 80, 80, 85]
   ```
 
   </details>
@@ -627,43 +593,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [26, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 35, 35]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-314-graph"></a>
-### Add data classes
-  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2310 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [2303, 2303, 2307, 2307, 2307, 2308, 2308, 2308, 2308, 2308, 2308, 2308, 2309, 2310]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-66618-graph"></a>
-### WebGPU in Flutter
-  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 454 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [448, 448, 448, 449, 449, 449, 449, 449, 449, 449, 453, 454, 454, 454]
+    line [34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 34, 35, 35]
   ```
 
   </details>
@@ -678,9 +610,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [73, 73, 74, 79, 79, 81, 81, 81, 81, 81, 81, 81, 81, 81]
+    line [73, 74, 79, 79, 81, 81, 81, 81, 81, 81, 81, 81, 81]
   ```
 
   </details>
@@ -695,26 +627,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [38, 38, 39, 39, 40, 42, 43, 43, 45, 45, 45, 46, 46, 46]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-173940-graph"></a>
-### Flutter: Cleaning Xcode workspace takes 2-3 minutes
-  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 28 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [21, 21, 21, 23, 23, 23, 24, 24, 24, 24, 24, 25, 26, 28]
+    line [38, 39, 39, 40, 42, 43, 43, 45, 45, 45, 46, 46, 46]
   ```
 
   </details>
@@ -729,60 +644,43 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7, 8, 8]
+    line [0, 0, 0, 0, 4, 5, 6, 6, 7, 7, 7, 8, 8]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-31713-graph"></a>
-### Implement PlatformView support on Windows
-  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 489 total reactions, 7 recent reactions</sub><br />
+<a name="dart-lang-language-314-graph"></a>
+### Add data classes
+  <sub>[dart-lang/language#314](https://github.com/dart-lang/language/issues/314) &mdash; 2310 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [483, 484, 485, 485, 485, 487, 487, 489, 489, 489, 489, 489, 489, 489]
+    line [2303, 2307, 2307, 2307, 2308, 2308, 2308, 2308, 2308, 2308, 2308, 2309, 2310]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-168635-graph"></a>
-### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
-  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 45 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-173940-graph"></a>
+### Flutter: Cleaning Xcode workspace takes 2-3 minutes
+  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 28 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [39, 39, 39, 39, 40, 41, 42, 42, 43, 44, 44, 44, 44, 45]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-63313-graph"></a>
-### [analyzer] CollectionElement no longer possible to be exhausted in switches
-  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7]
+    line [21, 21, 23, 23, 23, 24, 24, 24, 24, 24, 25, 26, 28]
   ```
 
   </details>
@@ -797,26 +695,60 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 7, 7]
+    line [0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 7, 7]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-55324-graph"></a>
-### Support Firefox as a browser in flutter run
-  <sub>[flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) &mdash; 233 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-sdk-63313-graph"></a>
+### [analyzer] CollectionElement no longer possible to be exhausted in switches
+  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-31713-graph"></a>
+### Implement PlatformView support on Windows
+  <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 489 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [228, 231, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233]
+    line [484, 485, 485, 485, 487, 487, 489, 489, 489, 489, 489, 489, 489]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-66618-graph"></a>
+### WebGPU in Flutter
+  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 454 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [448, 448, 449, 449, 449, 449, 449, 449, 449, 453, 454, 454, 454]
   ```
 
   </details>
@@ -831,9 +763,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [219, 219, 219, 220, 220, 221, 221, 221, 223, 225, 225, 225, 225, 225]
+    line [219, 219, 220, 220, 221, 221, 221, 223, 225, 225, 225, 225, 225]
   ```
 
   </details>
@@ -848,26 +780,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [149, 150, 150, 150, 150, 150, 150, 152, 152, 154, 154, 154, 155, 155]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-40376-graph"></a>
-### Support Google AdSense in Flutter Web applications
-  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 151 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [146, 148, 150, 150, 150, 151, 151, 151, 151, 151, 151, 151, 151, 151]
+    line [150, 150, 150, 150, 150, 150, 152, 152, 154, 154, 154, 155, 155]
   ```
 
   </details>
@@ -882,43 +797,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [102, 102, 103, 103, 103, 107, 107, 107, 107, 108, 108, 108, 108, 108]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-2128-graph"></a>
-### Record spreading
-  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 100 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [95, 95, 95, 95, 95, 95, 97, 97, 98, 99, 99, 99, 100, 100]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-49757-graph"></a>
-### Desktop app frame rate isn't synced to display
-  <sub>[flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) &mdash; 86 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [83, 83, 84, 84, 84, 84, 84, 84, 84, 84, 84, 84, 85, 86]
+    line [102, 103, 103, 103, 107, 107, 107, 107, 108, 108, 108, 108, 108]
   ```
 
   </details>
@@ -933,9 +814,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [68, 68, 68, 68, 68, 69, 69, 69, 69, 70, 72, 72, 73, 74]
+    line [68, 68, 68, 68, 69, 69, 69, 69, 70, 72, 72, 73, 74]
   ```
 
   </details>
@@ -950,9 +831,26 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [67, 67, 67, 67, 68, 71, 71, 71, 72, 72, 72, 72, 72, 73]
+    line [67, 67, 67, 68, 71, 71, 71, 72, 72, 72, 72, 72, 73]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-168635-graph"></a>
+### App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15
+  <sub>[flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) &mdash; 45 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [39, 39, 39, 40, 41, 42, 42, 43, 44, 44, 44, 44, 45]
   ```
 
   </details>
@@ -967,9 +865,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [36, 36, 37, 39, 39, 39, 41, 41, 41, 41, 41, 41, 41, 42]
+    line [36, 37, 39, 39, 39, 41, 41, 41, 41, 41, 41, 41, 42]
   ```
 
   </details>
@@ -984,9 +882,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [33, 33, 33, 33, 33, 33, 33, 34, 35, 35, 35, 35, 35, 39]
+    line [33, 33, 33, 33, 33, 33, 34, 35, 35, 35, 35, 35, 39]
   ```
 
   </details>
@@ -1001,26 +899,26 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [32, 35, 36, 36, 36, 36, 36, 36, 36, 36, 36, 38, 38, 38]
+    line [35, 36, 36, 36, 36, 36, 36, 36, 36, 36, 38, 38, 38]
   ```
 
   </details>
   </sub>
 
-<a name="flutter-flutter-182244-graph"></a>
-### `flutter pub get` fails to get new Git Tags
-  <sub>[flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) &mdash; 20 total reactions, 6 recent reactions</sub><br />
+<a name="dart-lang-language-69-graph"></a>
+### Optional Semicolons
+  <sub>[dart-lang/language#69](https://github.com/dart-lang/language/issues/69) &mdash; 1277 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions" 0 --> 20
-    line [18, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [1272, 1277, 1276, 1276, 1276, 1276, 1276, 1276, 1277, 1277, 1277, 1277, 1277]
   ```
 
   </details>
@@ -1035,9 +933,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [558, 559, 559, 559, 559, 559, 559, 559, 559, 560, 561, 562, 563, 563]
+    line [559, 559, 559, 559, 559, 559, 559, 559, 560, 561, 562, 563, 563]
   ```
 
   </details>
@@ -1052,9 +950,26 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [361, 361, 362, 362, 362, 362, 362, 362, 362, 363, 366, 366, 366, 366]
+    line [361, 362, 362, 362, 362, 362, 362, 362, 363, 366, 366, 366, 366]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-55324-graph"></a>
+### Support Firefox as a browser in flutter run
+  <sub>[flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) &mdash; 233 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [231, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233, 233]
   ```
 
   </details>
@@ -1069,9 +984,26 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [211, 211, 211, 212, 212, 212, 216, 216, 216, 216, 216, 216, 216, 216]
+    line [211, 211, 212, 212, 212, 216, 216, 216, 216, 216, 216, 216, 216]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-40376-graph"></a>
+### Support Google AdSense in Flutter Web applications
+  <sub>[flutter/flutter#40376](https://github.com/flutter/flutter/issues/40376) &mdash; 151 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [148, 150, 150, 150, 151, 151, 151, 151, 151, 151, 151, 151, 151]
   ```
 
   </details>
@@ -1086,9 +1018,26 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [105, 105, 105, 105, 106, 106, 108, 108, 108, 108, 108, 108, 109, 110]
+    line [105, 105, 105, 106, 106, 108, 108, 108, 108, 108, 108, 109, 110]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-2128-graph"></a>
+### Record spreading
+  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 100 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions"
+    line [95, 95, 95, 95, 95, 97, 97, 98, 99, 99, 99, 100, 100]
   ```
 
   </details>
@@ -1103,9 +1052,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [64, 64, 65, 65, 65, 65, 69, 69, 69, 69, 69, 69, 69, 69]
+    line [64, 65, 65, 65, 65, 69, 69, 69, 69, 69, 69, 69, 69]
   ```
 
   </details>
@@ -1120,9 +1069,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [57, 57, 57, 57, 57, 57, 57, 57, 57, 62, 62, 62, 62, 62]
+    line [57, 57, 57, 57, 57, 57, 57, 57, 62, 62, 62, 62, 62]
   ```
 
   </details>
@@ -1137,26 +1086,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions"
-    line [0, 21, 25, 25, 25, 26, 26, 26, 26, 26, 26, 26, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-59988-graph"></a>
-### "Find usages" finds unrelated "call" method usages.
-  <sub>[dart-lang/sdk#59988](https://github.com/dart-lang/sdk/issues/59988) &mdash; 21 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
-    y-axis "Reactions"
-    line [21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21, 21]
+    line [21, 25, 25, 25, 26, 26, 26, 26, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -1171,9 +1103,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [15, 15, 15, 15, 15, 15, 15, 15, 16, 16, 18, 18, 19, 20]
+    line [15, 15, 15, 15, 15, 15, 15, 16, 16, 18, 18, 19, 20]
   ```
 
   </details>
@@ -1188,9 +1120,9 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [11, 11, 11, 12, 12, 14, 16, 16, 16, 16, 16, 16, 16, 16]
+    line [11, 11, 12, 12, 14, 16, 16, 16, 16, 16, 16, 16, 16]
   ```
 
   </details>
@@ -1205,9 +1137,26 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Feb 16, Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+    line [0, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63427-graph"></a>
+### `dart format .` tries to access dependency's files in `build`
+  <sub>[dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
