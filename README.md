@@ -8,7 +8,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1012 | [34](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 34 | [34](#flutter-flutter-184093-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 769 | [32](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 770 | [33](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 673 | [27](#flutter-flutter-170310-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 22 | [22](#flutter-flutter-183554-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 257 | [21](#flutter-flutter-65504-graph)
@@ -56,7 +56,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1012 | [34](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 34 | [34](#flutter-flutter-184093-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 769 | [32](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 770 | [33](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 673 | [27](#flutter-flutter-170310-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 155 | [6](#flutter-flutter-102560-graph)
 DropdownMenu is very slow when using large lists [flutter/flutter#132945](https://github.com/flutter/flutter/issues/132945) | 20 | [5](#flutter-flutter-132945-graph)
@@ -365,7 +365,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 769 total reactions, 32 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 770 total reactions, 33 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -374,7 +374,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   xychart-beta
     x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25]
     y-axis "Reactions"
-    line [739, 741, 744, 749, 751, 758, 761, 762, 762, 763, 765, 767, 769, 769]
+    line [739, 741, 744, 749, 751, 758, 761, 762, 762, 763, 765, 767, 769, 770]
   ```
 
   </details>
