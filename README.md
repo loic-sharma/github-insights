@@ -6,7 +6,7 @@ Issues that received the most reactions from 2026-02-23 to 2026-05-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1013 | [35](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1014 | [36](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 771 | [34](#flutter-flutter-168813-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 34 | [34](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 674 | [28](#flutter-flutter-170310-graph)
@@ -54,7 +54,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1013 | [35](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1014 | [36](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 771 | [34](#flutter-flutter-168813-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 34 | [34](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 674 | [28](#flutter-flutter-170310-graph)
@@ -75,7 +75,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 `f: cupertino` issues that received the most reactions from 2026-02-23 to 2026-05-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1013 | [35](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1014 | [36](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 34 | [34](#flutter-flutter-184093-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 674 | [28](#flutter-flutter-170310-graph)
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
@@ -331,7 +331,7 @@ Allow both optional positional and optional named arguments in the same function
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1013 total reactions, 35 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1014 total reactions, 36 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -340,7 +340,7 @@ Allow both optional positional and optional named arguments in the same function
   xychart-beta
     x-axis "Week" [Feb 23, Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25]
     y-axis "Reactions"
-    line [980, 982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011, 1013]
+    line [980, 982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011, 1014]
   ```
 
   </details>
