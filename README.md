@@ -7,7 +7,7 @@ Issues that received the most reactions from 2026-03-02 to 2026-05-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 35 | [35](#flutter-flutter-184093-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1014 | [33](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1015 | [34](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 771 | [31](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 674 | [26](#flutter-flutter-170310-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 22 | [22](#flutter-flutter-183554-graph)
@@ -42,11 +42,11 @@ Move Listenable, ValueListanable to a Dart package [flutter/flutter#171101](http
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 170 | 3
 ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.com/flutter/flutter/issues/18636) | 128 | 3
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 96 | 3
+[Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 66 | 3
 Flutter Emoji font override [flutter/flutter#84631](https://github.com/flutter/flutter/issues/84631) | 48 | 3
+Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 311 | 2
 Code generation experience needs improvements [flutter/flutter#63323](https://github.com/flutter/flutter/issues/63323) | 145 | 2
 Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flutter/flutter/issues/21980) | 126 | 2
-Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutter/flutter/issues/25652) | 77 | 2
-Move useful Flutter types out of Flutter [flutter/flutter#149466](https://github.com/flutter/flutter/issues/149466) | 69 | 2
 
 #### Design
 
@@ -55,7 +55,7 @@ Move useful Flutter types out of Flutter [flutter/flutter#149466](https://github
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 35 | [35](#flutter-flutter-184093-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1014 | [33](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1015 | [34](#flutter-flutter-101479-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 771 | [31](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 674 | [26](#flutter-flutter-170310-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 155 | [5](#flutter-flutter-102560-graph)
@@ -76,7 +76,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 35 | [35](#flutter-flutter-184093-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1014 | [33](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1015 | [34](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 674 | [26](#flutter-flutter-170310-graph)
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
 ☂️ Reinforcement: Refactor widgets from design into the core before decoupling [flutter/flutter#53059](https://github.com/flutter/flutter/issues/53059) | 69 | 1
@@ -183,7 +183,7 @@ Issue | Total reactions | Recent reactions
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 28 | [7](#flutter-flutter-173940-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 18 | [5](#flutter-flutter-162196-graph)
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
-Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 161 | 2
+Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 3
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
 [SwiftPM] ☂ Allow Swift Package Manager to be used with Add to App [flutter/flutter#146957](https://github.com/flutter/flutter/issues/146957) | 32 | 2
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 376 | 1
@@ -192,8 +192,8 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 Blinking cursor should use less CPU [flutter/flutter#59327](https://github.com/flutter/flutter/issues/59327) | 64 | 1
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 56 | 1
 [in_app_purchase] add `appAccountToken` to PurchaseOption [flutter/flutter#95637](https://github.com/flutter/flutter/issues/95637) | 36 | 1
-☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 32 | 1
 Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutter#125741](https://github.com/flutter/flutter/issues/125741) | 32 | 1
+☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 32 | 1
 
 #### Android
 
@@ -230,14 +230,14 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 346 | 2
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 298 | 2
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | 2
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 212 | 2
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 123 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 664 | 1
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 211 | 1
 
 #### Desktop
 
@@ -274,14 +274,14 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 346 | 2
 [path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 298 | 2
 Support Firefox as a browser in flutter run [flutter/flutter#55324](https://github.com/flutter/flutter/issues/55324) | 233 | 2
+[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 212 | 2
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 123 | 2
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 664 | 1
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 211 | 1
 
 ### Dart SDK
 
@@ -293,17 +293,17 @@ bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#6
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 85 | [10](#dart-lang-sdk-53884-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 70 | [9](#dart-lang-sdk-61957-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 81 | [8](#dart-lang-sdk-56841-graph)
-Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 8 | [8](#dart-lang-sdk-62952-graph)
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 8 | [8](#dart-lang-sdk-63427-graph)
+Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 8 | [8](#dart-lang-sdk-62952-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 226 | [7](#dart-lang-sdk-55281-graph)
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 40 | [7](#dart-lang-sdk-54003-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 65 | 4
+[Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
 [breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
 [analyzer] Support rule-specific options in analysis_options.yaml for analyzer plugins [dart-lang/sdk#63098](https://github.com/dart-lang/sdk/issues/63098) | 4 | 4
-[Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
-`dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 20 | 3
+Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 554 | 3
 
 ### Dart language
 
@@ -348,7 +348,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1014 total reactions, 33 recent reactions</sub><br />
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1015 total reactions, 34 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -357,7 +357,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   xychart-beta
     x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25]
     y-axis "Reactions"
-    line [982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011, 1014]
+    line [982, 986, 989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011, 1015]
   ```
 
   </details>
@@ -618,23 +618,6 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   </details>
   </sub>
 
-<a name="dart-lang-sdk-62952-graph"></a>
-### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
-  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 4, 5, 6, 6, 7, 7, 7, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63427-graph"></a>
 ### `dart format .` tries to access dependency's files in `build`
   <sub>[dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -647,6 +630,23 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
     x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-62952-graph"></a>
+### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
+  <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 4, 5, 6, 6, 7, 7, 7, 8, 8, 8]
   ```
 
   </details>
