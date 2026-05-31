@@ -320,12 +320,12 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1277 | [5](#dart-lang-language-69-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | [5](#dart-lang-language-1122-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | [5](#dart-lang-language-4271-graph)
+Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 29 | [5](#dart-lang-language-260-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 24 | [5](#dart-lang-language-4383-graph)
 Allow use switch expression to init a const variable [dart-lang/language#4021](https://github.com/dart-lang/language/issues/4021) | 16 | [5](#dart-lang-language-4021-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 250 | 4
 Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 213 | 4
 Add possibility to consistently get object property name [dart-lang/language#251](https://github.com/dart-lang/language/issues/251) | 110 | 4
-First-class, functional-style `Result<E, T>` types with built-in operators [dart-lang/language#3501](https://github.com/dart-lang/language/issues/3501) | 69 | 4
 
 ## Graphs
 
@@ -1021,6 +1021,23 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
     x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25]
     y-axis "Reactions"
     line [57, 57, 57, 57, 57, 57, 57, 62, 62, 62, 62, 62, 62]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-260-graph"></a>
+### Anonymous methods
+  <sub>[dart-lang/language#260](https://github.com/dart-lang/language/issues/260) &mdash; 29 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25]
+    y-axis "Reactions"
+    line [24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 29]
   ```
 
   </details>
