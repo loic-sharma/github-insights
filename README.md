@@ -314,13 +314,13 @@ Issue | Total reactions | Recent reactions
 Deprecate and remove "default constructors" feature. [dart-lang/language#4654](https://github.com/dart-lang/language/issues/4654) | 13 | [13](#dart-lang-language-4654-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1239 | [8](#dart-lang-language-723-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2310 | [7](#dart-lang-language-314-graph)
+Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 31 | [7](#dart-lang-language-260-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [6](#dart-lang-language-2364-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 101 | [6](#dart-lang-language-2128-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1277 | [5](#dart-lang-language-69-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | [5](#dart-lang-language-1122-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | [5](#dart-lang-language-4271-graph)
-Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 29 | [5](#dart-lang-language-260-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 24 | [5](#dart-lang-language-4383-graph)
 Allow use switch expression to init a const variable [dart-lang/language#4021](https://github.com/dart-lang/language/issues/4021) | 16 | [5](#dart-lang-language-4021-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 250 | 4
@@ -737,6 +737,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
+<a name="dart-lang-language-260-graph"></a>
+### Anonymous methods
+  <sub>[dart-lang/language#260](https://github.com/dart-lang/language/issues/260) &mdash; 31 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1]
+    y-axis "Reactions"
+    line [24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 29, 31]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-173940-graph"></a>
 ### Flutter: Cleaning Xcode workspace takes 2-3 minutes
   <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 28 total reactions, 7 recent reactions</sub><br />
@@ -1021,23 +1038,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1]
     y-axis "Reactions"
     line [57, 57, 57, 57, 57, 57, 57, 62, 62, 62, 62, 62, 62, 62]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-260-graph"></a>
-### Anonymous methods
-  <sub>[dart-lang/language#260](https://github.com/dart-lang/language/issues/260) &mdash; 29 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1]
-    y-axis "Reactions"
-    line [24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 29, 29]
   ```
 
   </details>
