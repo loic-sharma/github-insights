@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-03-02 to 2026-06-03.
+Issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#6
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-framework` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flut
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-design` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`f: cupertino` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 35 | [35](#flutter-flutter-184093-graph)
@@ -93,7 +93,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
@@ -114,7 +114,7 @@ TextFormField focus consumes enormous system resources on simulator & iPhone [fl
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-accessibility` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-go_router` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-tool` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-engine` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 249 | [8](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/3
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-ios` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-android` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-web` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -235,13 +235,13 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 25 | 2
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
-Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
+Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`team-ecosystem` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -279,13 +279,13 @@ Support Firefox as a browser in flutter run [flutter/flutter#55324](https://gith
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 25 | 2
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
-Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
+Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`dart-lang/sdk` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -301,13 +301,13 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 65 | 4
 [Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
+Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
 [breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
 [analyzer] Support rule-specific options in analysis_options.yaml for analyzer plugins [dart-lang/sdk#63098](https://github.com/dart-lang/sdk/issues/63098) | 4 | 4
-Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 554 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-03-02 to 2026-06-03.
+`dart-lang/language` issues that received the most reactions from 2026-03-02 to 2026-06-04.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -319,12 +319,12 @@ Setter functions, parameterized setters. [dart-lang/language#4677](https://githu
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [6](#dart-lang-language-2364-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 252 | [6](#dart-lang-language-1076-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 101 | [6](#dart-lang-language-2128-graph)
+[dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 6 | [6](#dart-lang-language-4696-graph)
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1277 | [5](#dart-lang-language-69-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | [5](#dart-lang-language-1122-graph)
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | [5](#dart-lang-language-4271-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 24 | [5](#dart-lang-language-4383-graph)
 Allow use switch expression to init a const variable [dart-lang/language#4021](https://github.com/dart-lang/language/issues/4021) | 16 | [5](#dart-lang-language-4021-graph)
-[dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 5 | [5](#dart-lang-language-4696-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 283 | 4
 
 ## Graphs
@@ -941,6 +941,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-language-4696-graph"></a>
+### [dart-4.0] Language spec on the website
+  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-69-graph"></a>
 ### Optional Semicolons
   <sub>[dart-lang/language#69](https://github.com/dart-lang/language/issues/69) &mdash; 1277 total reactions, 5 recent reactions</sub><br />
@@ -1140,23 +1157,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1]
     y-axis "Reactions" 0 --> 20
     line [11, 12, 12, 14, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4696-graph"></a>
-### [dart-4.0] Language spec on the website
-  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5]
   ```
 
   </details>
