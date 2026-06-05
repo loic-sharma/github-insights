@@ -236,8 +236,8 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 25 | 2
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 
 #### Desktop
 
@@ -280,8 +280,8 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 25 | 2
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 
 ### Dart SDK
 
@@ -300,10 +300,10 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 65 | 4
-Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
 [breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
-[analyzer] Support rule-specific options in analysis_options.yaml for analyzer plugins [dart-lang/sdk#63098](https://github.com/dart-lang/sdk/issues/63098) | 4 | 4
 [Bug] Dart debug adapter's hot reload ignores registered `reloadSources` service [dart-lang/sdk#62822](https://github.com/dart-lang/sdk/issues/62822) | 4 | 4
+[analyzer] Support rule-specific options in analysis_options.yaml for analyzer plugins [dart-lang/sdk#63098](https://github.com/dart-lang/sdk/issues/63098) | 4 | 4
+Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
 
 ### Dart language
 
@@ -315,8 +315,8 @@ Deprecate and remove "default constructors" feature. [dart-lang/language#4654](h
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1240 | [9](#dart-lang-language-723-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2310 | [7](#dart-lang-language-314-graph)
-Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
 [dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 7 | [7](#dart-lang-language-4696-graph)
+Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 284 | [6](#dart-lang-language-2364-graph)
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 252 | [6](#dart-lang-language-1076-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 101 | [6](#dart-lang-language-2128-graph)
@@ -822,9 +822,9 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4677-graph"></a>
-### Setter functions, parameterized setters.
-  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+<a name="dart-lang-language-4696-graph"></a>
+### [dart-4.0] Language spec on the website
+  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 7 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -833,7 +833,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7]
   ```
 
   </details>
@@ -856,9 +856,9 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4696-graph"></a>
-### [dart-4.0] Language spec on the website
-  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+<a name="dart-lang-language-4677-graph"></a>
+### Setter functions, parameterized setters.
+  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -867,7 +867,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Mar 2, Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7]
+    line [0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7]
   ```
 
   </details>
