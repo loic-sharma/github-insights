@@ -8,16 +8,16 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 36 | [36](#flutter-flutter-184093-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 776 | [35](#flutter-flutter-168813-graph)
-Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 70 | [33](#flutter-flutter-151638-graph)
+Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 71 | [34](#flutter-flutter-151638-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1014 | [32](#flutter-flutter-101479-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 677 | [27](#flutter-flutter-170310-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 49 | [23](#flutter-flutter-138940-graph)
 Better trigger for CICD runs in flutter/packages and flutter/flutter [flutter/flutter#183554](https://github.com/flutter/flutter/issues/183554) | 23 | [23](#flutter-flutter-183554-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 256 | [22](#flutter-flutter-142845-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 93 | [19](#dart-lang-sdk-56841-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 260 | [18](#flutter-flutter-65504-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 92 | [18](#dart-lang-sdk-56841-graph)
 [two_dimensional_scrollables] Part of rows out of viewport don't get gestures [flutter/flutter#187084](https://github.com/flutter/flutter/issues/187084) | 15 | [15](#flutter-flutter-187084-graph)
-`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 13 | [13](#dart-lang-sdk-63427-graph)
+`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 14 | [14](#dart-lang-sdk-63427-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 86 | [11](#dart-lang-sdk-53884-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 72 | [10](#dart-lang-sdk-61957-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 49 | [10](#flutter-flutter-174980-graph)
@@ -46,7 +46,7 @@ Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 311 | 2
 Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flutter/flutter/issues/21980) | 126 | 2
 Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutter/flutter/issues/25652) | 77 | 2
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 69 | 2
+Move useful Flutter types out of Flutter [flutter/flutter#149466](https://github.com/flutter/flutter/issues/149466) | 69 | 2
 
 #### Design
 
@@ -201,7 +201,7 @@ Running iOS apps on M1 hardware via 'My Mac (Designed for iPad)' [flutter/flutte
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 70 | [33](#flutter-flutter-151638-graph)
+Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 71 | [34](#flutter-flutter-151638-graph)
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 45 | [6](#flutter-flutter-168635-graph)
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 60 | 4
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 100 | 3
@@ -289,8 +289,8 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 92 | [18](#dart-lang-sdk-56841-graph)
-`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 13 | [13](#dart-lang-sdk-63427-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 93 | [19](#dart-lang-sdk-56841-graph)
+`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 14 | [14](#dart-lang-sdk-63427-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 86 | [11](#dart-lang-sdk-53884-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 72 | [10](#dart-lang-sdk-61957-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 227 | [8](#dart-lang-sdk-55281-graph)
@@ -301,8 +301,8 @@ bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#6
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 65 | 4
-[breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
 Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
+[breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
 [analyzer] Support rule-specific options in analysis_options.yaml for analyzer plugins [dart-lang/sdk#63098](https://github.com/dart-lang/sdk/issues/63098) | 4 | 4
 
 ### Dart language
@@ -365,7 +365,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
 <a name="flutter-flutter-151638-graph"></a>
 ### Investigate path resolution for "libflutter.so" binary
-  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 70 total reactions, 33 recent reactions</sub><br />
+  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 71 total reactions, 34 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -374,7 +374,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   xychart-beta
     x-axis "Week" [Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
     y-axis "Reactions"
-    line [39, 39, 39, 41, 41, 41, 41, 41, 41, 41, 42, 42, 43, 70]
+    line [39, 39, 39, 41, 41, 41, 41, 41, 41, 41, 42, 42, 43, 71]
   ```
 
   </details>
@@ -465,6 +465,23 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   </details>
   </sub>
 
+<a name="dart-lang-sdk-56841-graph"></a>
+### Implement shared native memory multithreading
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 93 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    y-axis "Reactions"
+    line [79, 79, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 91, 93]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-65504-graph"></a>
 ### Ctrl+F support, finding text on a page (even when scrolled off screen)
   <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 260 total reactions, 18 recent reactions</sub><br />
@@ -477,23 +494,6 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
     x-axis "Week" [Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
     y-axis "Reactions"
     line [242, 242, 242, 242, 241, 245, 245, 245, 245, 255, 257, 259, 259, 260]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-56841-graph"></a>
-### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 92 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
-    y-axis "Reactions"
-    line [79, 79, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 91, 92]
   ```
 
   </details>
@@ -518,7 +518,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
 <a name="dart-lang-sdk-63427-graph"></a>
 ### `dart format .` tries to access dependency's files in `build`
-  <sub>[dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -527,7 +527,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   xychart-beta
     x-axis "Week" [Mar 9, Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 11, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 11, 14]
   ```
 
   </details>
