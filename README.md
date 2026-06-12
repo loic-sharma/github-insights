@@ -212,10 +212,10 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 40 | 2
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 30 | 2
 How to use local aar inside flutter plugin? [flutter/flutter#28195](https://github.com/flutter/flutter/issues/28195) | 29 | 2
+WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBinding` [flutter/flutter#130872](https://github.com/flutter/flutter/issues/130872) | 20 | 2
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 87 | 1
-[camera] startVideoRecording/stopVideoRecording() freezes the UI  [flutter/flutter#57451](https://github.com/flutter/flutter/issues/57451) | 51 | 1
 
 #### Web
 
@@ -233,8 +233,8 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 25 | 2
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 15 | 2
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 884 | 1
@@ -277,8 +277,8 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 44 | 2
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 25 | 2
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 Implement PlatformDispatcher.onError for web [flutter/flutter#100277](https://github.com/flutter/flutter/issues/100277) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 15 | 2
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 884 | 1
