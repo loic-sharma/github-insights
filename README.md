@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-03-16 to 2026-06-13.
+Issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-framework` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Move useful Flutter types out of Flutter [flutter/flutter#149466](https://github
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-design` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`f: cupertino` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 36 | [36](#flutter-flutter-184093-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
@@ -114,7 +114,7 @@ WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/f
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-accessibility` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-go_router` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-tool` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-engine` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 50 | [10](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-ios` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,16 +188,16 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
 [SwiftPM] ☂ Allow Swift Package Manager to be used with Add to App [flutter/flutter#146957](https://github.com/flutter/flutter/issues/146957) | 32 | 2
+[SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 15 | 2
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 293 | 1
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 56 | 1
 [in_app_purchase] add `appAccountToken` to PurchaseOption [flutter/flutter#95637](https://github.com/flutter/flutter/issues/95637) | 36 | 1
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 33 | 1
 ☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 32 | 1
-Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 30 | 1
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-android` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-web` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://git
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`team-ecosystem` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`dart-lang/sdk` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](h
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-03-16 to 2026-06-13.
+`dart-lang/language` issues that received the most reactions from 2026-03-16 to 2026-06-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
