@@ -18,7 +18,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 15 | [15](#dart-lang-sdk-63427-graph)
 [two_dimensional_scrollables] Part of rows out of viewport don't get gestures [flutter/flutter#187084](https://github.com/flutter/flutter/issues/187084) | 15 | [15](#flutter-flutter-187084-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 86 | [11](#dart-lang-sdk-53884-graph)
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 50 | [10](#flutter-flutter-174980-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 51 | [11](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 251 | [9](#flutter-flutter-61229-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1240 | [8](#dart-lang-language-723-graph)
 
@@ -155,7 +155,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 `team-engine` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 50 | [10](#flutter-flutter-174980-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 51 | [11](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 251 | [9](#flutter-flutter-61229-graph)
 text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 63 | [6](#flutter-flutter-63043-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 454 | [5](#flutter-flutter-66618-graph)
@@ -321,11 +321,11 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 217 | [5](#dart-lang-language-4271-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 24 | [5](#dart-lang-language-4383-graph)
 [dart 4.0] Drop support for older formatting styles [dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) | 5 | [5](#dart-lang-language-4703-graph)
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2311 | 4
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | 4
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 283 | 4
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 252 | 4
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 133 | 4
-First-class, functional-style `Result<E, T>` types with built-in operators [dart-lang/language#3501](https://github.com/dart-lang/language/issues/3501) | 69 | 4
 
 ## Graphs
 
@@ -535,7 +535,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
 <a name="flutter-flutter-174980-graph"></a>
 ### [wimp] Impeller for web ☂️ 
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 50 total reactions, 10 recent reactions</sub><br />
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 51 total reactions, 11 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -544,7 +544,7 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
   xychart-beta
     x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [40, 42, 43, 43, 45, 45, 45, 46, 46, 46, 46, 47, 50, 50]
+    line [40, 42, 43, 43, 45, 45, 45, 46, 46, 46, 46, 47, 50, 51]
   ```
 
   </details>
