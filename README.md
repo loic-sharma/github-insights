@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-03-16 to 2026-06-14.
+Issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Static extension methods [dart-lang/language#723](https://github.com/dart-lang/l
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-framework` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -46,11 +46,11 @@ Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 311 | 2
 Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flutter/flutter/issues/21980) | 126 | 2
 Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutter/flutter/issues/25652) | 77 | 2
-[go_router] Failed assertion: line 3817 pos 18: '!keyReservation.contains(key)': is not true. [flutter/flutter#140586](https://github.com/flutter/flutter/issues/140586) | 69 | 2
+Move useful Flutter types out of Flutter [flutter/flutter#149466](https://github.com/flutter/flutter/issues/149466) | 69 | 2
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-design` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`f: cupertino` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 36 | [36](#flutter-flutter-184093-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
@@ -102,8 +102,8 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 38 | 2
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 27 | 2
-TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
+TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 15 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
@@ -114,7 +114,7 @@ WidgetSpans in RTL text laying out LTR if they occur on the same line [flutter/f
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-accessibility` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-go_router` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-tool` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-engine` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 50 | [10](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-ios` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-android` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -211,15 +211,15 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 2
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 40 | 2
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 30 | 2
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 2
 WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBinding` [flutter/flutter#130872](https://github.com/flutter/flutter/issues/130872) | 20 | 2
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 87 | 1
 [camera] startVideoRecording/stopVideoRecording() freezes the UI  [flutter/flutter#57451](https://github.com/flutter/flutter/issues/57451) | 51 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-web` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://git
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`team-ecosystem` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`dart-lang/sdk` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,14 +307,14 @@ Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](h
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-03-16 to 2026-06-14.
+`dart-lang/language` issues that received the most reactions from 2026-03-16 to 2026-06-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1240 | [8](#dart-lang-language-723-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
-[dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 7 | [7](#dart-lang-language-4696-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
+[dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 7 | [7](#dart-lang-language-4696-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 101 | [6](#dart-lang-language-2128-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 285 | [5](#dart-lang-language-2364-graph)
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 268 | [5](#dart-lang-language-333-graph)
@@ -338,9 +338,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [749, 751, 758, 761, 762, 762, 763, 765, 767, 769, 771, 775, 785]
+    line [749, 751, 758, 761, 762, 762, 763, 765, 767, 769, 771, 775, 785, 785]
   ```
 
   </details>
@@ -355,9 +355,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [0, 0, 17, 28, 28, 30, 33, 33, 33, 34, 35, 36, 36]
+    line [0, 0, 17, 28, 28, 30, 33, 33, 33, 34, 35, 36, 36, 36]
   ```
 
   </details>
@@ -372,9 +372,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [39, 39, 41, 41, 41, 41, 41, 41, 41, 42, 42, 43, 72]
+    line [39, 39, 41, 41, 41, 41, 41, 41, 41, 42, 42, 43, 72, 72]
   ```
 
   </details>
@@ -389,9 +389,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011, 1015, 1014, 1014]
+    line [989, 991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011, 1015, 1014, 1014, 1014]
   ```
 
   </details>
@@ -406,9 +406,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [651, 654, 655, 658, 666, 667, 668, 670, 671, 672, 674, 675, 678]
+    line [651, 654, 655, 658, 666, 667, 668, 670, 671, 672, 674, 675, 678, 678]
   ```
 
   </details>
@@ -423,9 +423,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [234, 238, 244, 244, 244, 246, 246, 246, 248, 249, 249, 256, 256]
+    line [234, 238, 244, 244, 244, 246, 246, 246, 248, 249, 249, 256, 256, 256]
   ```
 
   </details>
@@ -440,9 +440,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [27, 27, 46, 46, 46, 46, 46, 46, 46, 46, 47, 49, 49]
+    line [27, 27, 46, 46, 46, 46, 46, 46, 46, 46, 47, 49, 49, 49]
   ```
 
   </details>
@@ -457,9 +457,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [242, 242, 242, 241, 245, 245, 245, 245, 255, 257, 259, 259, 261]
+    line [242, 242, 242, 241, 245, 245, 245, 245, 255, 257, 259, 259, 261, 261]
   ```
 
   </details>
@@ -474,9 +474,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [79, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 91, 94]
+    line [79, 81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 91, 94, 94]
   ```
 
   </details>
@@ -491,9 +491,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 11, 15]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 11, 15, 15]
   ```
 
   </details>
@@ -508,9 +508,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 15]
   ```
 
   </details>
@@ -525,9 +525,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [75, 75, 76, 79, 79, 79, 79, 80, 80, 85, 85, 86, 86]
+    line [75, 75, 76, 79, 79, 79, 79, 80, 80, 85, 85, 86, 86, 86]
   ```
 
   </details>
@@ -542,9 +542,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [40, 42, 43, 43, 45, 45, 45, 46, 46, 46, 46, 47, 50]
+    line [40, 42, 43, 43, 45, 45, 45, 46, 46, 46, 46, 47, 50, 50]
   ```
 
   </details>
@@ -559,9 +559,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [242, 242, 243, 244, 244, 244, 244, 244, 244, 244, 248, 250, 251]
+    line [242, 242, 243, 244, 244, 244, 244, 244, 244, 244, 248, 250, 251, 251]
   ```
 
   </details>
@@ -576,9 +576,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [1232, 1232, 1235, 1235, 1235, 1236, 1238, 1238, 1239, 1239, 1239, 1240, 1240]
+    line [1232, 1232, 1235, 1235, 1235, 1236, 1238, 1238, 1239, 1239, 1239, 1240, 1240, 1240]
   ```
 
   </details>
@@ -593,9 +593,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [163, 163, 163, 163, 164, 164, 165, 165, 169, 170, 171, 171, 171]
+    line [163, 163, 163, 163, 164, 164, 165, 165, 169, 170, 171, 171, 171, 171]
   ```
 
   </details>
@@ -610,9 +610,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [150, 150, 150, 152, 152, 154, 154, 154, 155, 155, 155, 156, 158]
+    line [150, 150, 150, 152, 152, 154, 154, 154, 155, 155, 155, 156, 158, 158]
   ```
 
   </details>
@@ -627,9 +627,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [68, 69, 69, 69, 69, 70, 72, 72, 73, 74, 74, 76, 76]
+    line [68, 69, 69, 69, 69, 70, 72, 72, 73, 74, 74, 76, 76, 76]
   ```
 
   </details>
@@ -644,9 +644,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [65, 66, 66, 66, 68, 69, 69, 70, 70, 70, 70, 72, 72]
+    line [65, 66, 66, 66, 68, 69, 69, 70, 70, 70, 70, 72, 72, 72]
   ```
 
   </details>
@@ -661,9 +661,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [33, 33, 33, 34, 35, 35, 35, 35, 35, 40, 40, 41, 41]
+    line [33, 33, 33, 34, 35, 35, 35, 35, 35, 40, 40, 41, 41, 41]
   ```
 
   </details>
@@ -678,9 +678,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 29, 32, 32]
+    line [24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 29, 32, 32, 32]
   ```
 
   </details>
@@ -695,9 +695,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [23, 23, 24, 24, 24, 24, 24, 25, 26, 28, 28, 29, 31]
+    line [23, 23, 24, 24, 24, 24, 24, 25, 26, 28, 28, 29, 31, 31]
   ```
 
   </details>
@@ -712,9 +712,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 4, 5, 6, 6, 7, 7, 7, 8, 8, 8, 8, 8]
+    line [0, 4, 5, 6, 6, 7, 7, 7, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -729,9 +729,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [220, 221, 221, 221, 223, 225, 225, 225, 225, 225, 227, 227, 227]
+    line [220, 221, 221, 221, 223, 225, 225, 225, 225, 225, 227, 227, 227, 227]
   ```
 
   </details>
@@ -746,9 +746,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [106, 106, 108, 108, 108, 108, 108, 108, 109, 110, 110, 112, 112]
+    line [106, 106, 108, 108, 108, 108, 108, 108, 109, 110, 110, 112, 112, 112]
   ```
 
   </details>
@@ -763,9 +763,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [17, 20, 22, 22, 22, 22, 24, 24, 24, 24, 24, 24, 24]
+    line [17, 20, 22, 22, 22, 22, 24, 24, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -780,43 +780,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 13, 13, 13, 13, 13, 13, 14, 14, 16, 18, 18, 20]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4696-graph"></a>
-### [dart-4.0] Language spec on the website
-  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-63313-graph"></a>
-### [analyzer] CollectionElement no longer possible to be exhausted in switches
-  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7]
+    line [0, 13, 13, 13, 13, 13, 13, 14, 14, 16, 18, 18, 20, 20]
   ```
 
   </details>
@@ -831,9 +797,43 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7]
+    line [0, 0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4696-graph"></a>
+### [dart-4.0] Language spec on the website
+  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63313-graph"></a>
+### [analyzer] CollectionElement no longer possible to be exhausted in switches
+  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -848,9 +848,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [95, 95, 97, 97, 98, 99, 99, 99, 100, 100, 101, 101, 101]
+    line [95, 95, 97, 97, 98, 99, 99, 99, 100, 100, 101, 101, 101, 101]
   ```
 
   </details>
@@ -865,9 +865,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [94, 95, 95, 95, 95, 95, 95, 95, 95, 96, 96, 100, 100]
+    line [94, 95, 95, 95, 95, 95, 95, 95, 95, 96, 96, 100, 100, 100]
   ```
 
   </details>
@@ -882,9 +882,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [57, 57, 57, 57, 57, 62, 62, 62, 62, 62, 62, 63, 63]
+    line [57, 57, 57, 57, 57, 62, 62, 62, 62, 62, 62, 63, 63, 63]
   ```
 
   </details>
@@ -899,9 +899,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [40, 41, 42, 42, 43, 44, 44, 44, 44, 45, 45, 45, 45]
+    line [40, 41, 42, 42, 43, 44, 44, 44, 44, 45, 45, 45, 45, 45]
   ```
 
   </details>
@@ -916,9 +916,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6]
   ```
 
   </details>
@@ -933,9 +933,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [707, 707, 708, 708, 708, 708, 708, 708, 712, 712, 712, 712, 712]
+    line [707, 707, 708, 708, 708, 708, 708, 708, 712, 712, 712, 712, 712, 712]
   ```
 
   </details>
@@ -950,9 +950,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [485, 487, 487, 489, 489, 489, 489, 489, 489, 489, 489, 489, 490]
+    line [485, 487, 487, 489, 489, 489, 489, 489, 489, 489, 489, 489, 490, 490]
   ```
 
   </details>
@@ -967,9 +967,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [449, 449, 449, 449, 449, 449, 453, 454, 454, 454, 454, 454, 454]
+    line [449, 449, 449, 449, 449, 449, 453, 454, 454, 454, 454, 454, 454, 454]
   ```
 
   </details>
@@ -984,9 +984,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [280, 281, 282, 283, 283, 284, 284, 284, 284, 284, 284, 284, 285]
+    line [280, 281, 282, 283, 283, 284, 284, 284, 284, 284, 284, 284, 285, 285]
   ```
 
   </details>
@@ -1001,9 +1001,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [263, 263, 263, 263, 263, 263, 263, 263, 264, 267, 267, 267, 268]
+    line [263, 263, 263, 263, 263, 263, 263, 263, 264, 267, 267, 267, 268, 268]
   ```
 
   </details>
@@ -1018,9 +1018,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [212, 212, 216, 216, 216, 216, 216, 216, 216, 216, 216, 216, 217]
+    line [212, 212, 216, 216, 216, 216, 216, 216, 216, 216, 216, 216, 217, 217]
   ```
 
   </details>
@@ -1035,9 +1035,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [103, 107, 107, 107, 107, 108, 108, 108, 108, 108, 108, 108, 108]
+    line [103, 107, 107, 107, 107, 108, 108, 108, 108, 108, 108, 108, 108, 108]
   ```
 
   </details>
@@ -1052,9 +1052,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [68, 71, 71, 71, 72, 72, 72, 72, 72, 73, 73, 73, 73]
+    line [68, 71, 71, 71, 72, 72, 72, 72, 72, 73, 73, 73, 73, 73]
   ```
 
   </details>
@@ -1069,9 +1069,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [24, 24, 24, 25, 25, 25, 25, 25, 25, 25, 27, 27, 29]
+    line [24, 24, 24, 25, 25, 25, 25, 25, 25, 25, 27, 27, 29, 29]
   ```
 
   </details>
@@ -1086,9 +1086,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 19, 19, 19, 21, 21, 21, 24, 24, 24]
+    line [19, 19, 19, 19, 19, 19, 19, 21, 21, 21, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1103,9 +1103,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [15, 15, 15, 15, 16, 16, 18, 18, 19, 20, 20, 20, 20]
+    line [15, 15, 15, 15, 16, 16, 18, 18, 19, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -1120,9 +1120,9 @@ First-class, functional-style `Result<E, T>` types with built-in operators [dart
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8]
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
   ```
 
   </details>
