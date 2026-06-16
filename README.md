@@ -181,7 +181,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 171 | [8](#flutter-flutter-126005-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 31 | [8](#flutter-flutter-173940-graph)
-[SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 20 | [7](#flutter-flutter-162196-graph)
+[SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 21 | [8](#flutter-flutter-162196-graph)
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 3
 The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 16 | 3
@@ -301,9 +301,9 @@ bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#6
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 65 | 4
-Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
 [analyzer] Support rule-specific options in analysis_options.yaml for analyzer plugins [dart-lang/sdk#63098](https://github.com/dart-lang/sdk/issues/63098) | 4 | 4
 [breaking change] cancel inner type promotions on await and yield [dart-lang/sdk#63334](https://github.com/dart-lang/sdk/issues/63334) | 4 | 4
+Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
 
 ### Dart language
 
@@ -318,13 +318,13 @@ Setter functions, parameterized setters. [dart-lang/language#4677](https://githu
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 101 | [6](#dart-lang-language-2128-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 285 | [5](#dart-lang-language-2364-graph)
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 268 | [5](#dart-lang-language-333-graph)
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 217 | [5](#dart-lang-language-4271-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 24 | [5](#dart-lang-language-4383-graph)
 [dart 4.0] Drop support for older formatting styles [dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) | 5 | [5](#dart-lang-language-4703-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2311 | 4
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | 4
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 283 | 4
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 252 | 4
+static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | 4
 Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 133 | 4
 
 ## Graphs
@@ -703,6 +703,23 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
   </details>
   </sub>
 
+<a name="flutter-flutter-162196-graph"></a>
+### [SwiftPM] Xcode build does not update the generated package's supported platforms
+  <sub>[flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) &mdash; 21 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    y-axis "Reactions"
+    line [0, 13, 13, 13, 13, 13, 13, 14, 14, 16, 18, 18, 20, 21]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-62952-graph"></a>
 ### Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling
   <sub>[dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -766,23 +783,6 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
     x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
     line [17, 20, 22, 22, 22, 22, 24, 24, 24, 24, 24, 24, 24, 24]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-162196-graph"></a>
-### [SwiftPM] Xcode build does not update the generated package's supported platforms
-  <sub>[flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) &mdash; 20 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 13, 13, 13, 13, 13, 13, 14, 14, 16, 18, 18, 20, 20]
   ```
 
   </details>
@@ -1004,23 +1004,6 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
     x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions"
     line [263, 263, 263, 263, 263, 263, 263, 263, 264, 267, 267, 267, 268, 268]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4271-graph"></a>
-### static enough metaprogramming
-  <sub>[dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) &mdash; 217 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
-    y-axis "Reactions"
-    line [212, 212, 216, 216, 216, 216, 216, 216, 216, 216, 216, 216, 217, 217]
   ```
 
   </details>
