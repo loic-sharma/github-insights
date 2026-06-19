@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-03-16 to 2026-06-18.
+Issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -14,7 +14,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 256 | [22](#flutter-flutter-142845-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 49 | [22](#flutter-flutter-138940-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 262 | [20](#flutter-flutter-65504-graph)
-`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 16 | [16](#dart-lang-sdk-63427-graph)
+`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 17 | [17](#dart-lang-sdk-63427-graph)
 [two_dimensional_scrollables] Part of rows out of viewport don't get gestures [flutter/flutter#187084](https://github.com/flutter/flutter/issues/187084) | 16 | [16](#flutter-flutter-187084-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 94 | [15](#dart-lang-sdk-56841-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 86 | [11](#dart-lang-sdk-53884-graph)
@@ -28,7 +28,7 @@ AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/is
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-framework` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-design` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`f: cupertino` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 36 | [36](#flutter-flutter-184093-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 4
@@ -103,8 +103,8 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 [Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 38 | 2
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 27 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 15 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
@@ -114,7 +114,7 @@ Flutter should be able to interact with host clipboard for rich content [flutter
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-accessibility` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-go_router` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-tool` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-engine` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 51 | [11](#flutter-flutter-174980-graph)
@@ -175,7 +175,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-ios` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-android` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-web` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -259,11 +259,11 @@ Wayland: support the xdg-decoration protocol to use server-side decorations when
 Support flavors for Linux [flutter/flutter#162373](https://github.com/flutter/flutter/issues/162373) | 15 | 2
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 227 | 1
 [video_player] add Linux support [flutter/flutter#39091](https://github.com/flutter/flutter/issues/39091) | 57 | 1
-Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/flutter/issues/98994) | 29 | 1
+[Proposal] Icon support Linux desktop application [flutter/flutter#53229](https://github.com/flutter/flutter/issues/53229) | 48 | 1
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`team-ecosystem` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,11 +285,11 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`dart-lang/sdk` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 16 | [16](#dart-lang-sdk-63427-graph)
+`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 17 | [17](#dart-lang-sdk-63427-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 94 | [15](#dart-lang-sdk-56841-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 86 | [11](#dart-lang-sdk-53884-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 72 | [8](#dart-lang-sdk-61957-graph)
@@ -307,7 +307,7 @@ Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-03-16 to 2026-06-18.
+`dart-lang/language` issues that received the most reactions from 2026-03-16 to 2026-06-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -467,7 +467,7 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
 <a name="dart-lang-sdk-63427-graph"></a>
 ### `dart format .` tries to access dependency's files in `build`
-  <sub>[dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) &mdash; 16 total reactions, 16 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) &mdash; 17 total reactions, 17 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -476,7 +476,7 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
   xychart-beta
     x-axis "Week" [Mar 16, Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 11, 15, 16]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 11, 15, 17]
   ```
 
   </details>
