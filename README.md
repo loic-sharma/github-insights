@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-03-23 to 2026-06-21.
+Issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/is
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-framework` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flut
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-design` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`f: cupertino` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 38 | [38](#flutter-flutter-184093-graph)
@@ -89,11 +89,11 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 2
@@ -103,8 +103,8 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 2
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 27 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 15 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
@@ -114,7 +114,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-accessibility` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-go_router` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-tool` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-engine` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 252 | [10](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-ios` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -184,8 +184,8 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 171 | [8](#flutter-flutter-126005-graph)
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 3
-[SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
 The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 16 | 3
+[SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 2
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-android` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -210,8 +210,8 @@ Android build fails with certain plugins if project is in a different drive (fro
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 2
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 2
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 40 | 2
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 2
 WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBinding` [flutter/flutter#130872](https://github.com/flutter/flutter/issues/130872) | 20 | 2
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 87 | 1
 [camera] startVideoRecording/stopVideoRecording() freezes the UI  [flutter/flutter#57451](https://github.com/flutter/flutter/issues/57451) | 51 | 1
@@ -219,7 +219,7 @@ Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error whe
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-web` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Support flavors for Windows [flutter/flutter#98994](https://github.com/flutter/f
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`team-ecosystem` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`dart-lang/sdk` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -303,18 +303,19 @@ bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#6
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 5 | [5](#dart-lang-sdk-63292-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 65 | 4
-[analyzer] Support rule-specific options in analysis_options.yaml for analyzer plugins [dart-lang/sdk#63098](https://github.com/dart-lang/sdk/issues/63098) | 4 | 4
+Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-03-23 to 2026-06-21.
+`dart-lang/language` issues that received the most reactions from 2026-03-23 to 2026-06-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1240 | [8](#dart-lang-language-723-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
-Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
 [dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 7 | [7](#dart-lang-language-4696-graph)
+Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
+Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 429 | [6](#dart-lang-language-356-graph)
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 269 | [6](#dart-lang-language-333-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 101 | [6](#dart-lang-language-2128-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2312 | [5](#dart-lang-language-314-graph)
@@ -325,7 +326,6 @@ Support method/function overloads [dart-lang/language#1122](https://github.com/d
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 283 | 4
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 252 | 4
 static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | 4
-Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/language/issues/3001) | 133 | 4
 
 ## Graphs
 
@@ -338,9 +338,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [751, 758, 761, 762, 762, 763, 765, 767, 769, 771, 775, 785, 787]
+    line [751, 758, 761, 762, 762, 763, 765, 767, 769, 771, 775, 785, 787, 787]
   ```
 
   </details>
@@ -355,9 +355,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [0, 17, 28, 28, 30, 33, 33, 33, 34, 35, 36, 36, 38]
+    line [0, 17, 28, 28, 30, 33, 33, 33, 34, 35, 36, 36, 38, 38]
   ```
 
   </details>
@@ -372,9 +372,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [39, 41, 41, 41, 41, 41, 41, 41, 42, 42, 43, 72, 72]
+    line [39, 41, 41, 41, 41, 41, 41, 41, 42, 42, 43, 72, 72, 72]
   ```
 
   </details>
@@ -389,9 +389,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011, 1015, 1014, 1014, 1017]
+    line [991, 997, 998, 999, 1003, 1010, 1011, 1011, 1011, 1015, 1014, 1014, 1017, 1017]
   ```
 
   </details>
@@ -406,9 +406,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [654, 655, 658, 666, 667, 668, 670, 671, 672, 674, 675, 678, 680]
+    line [654, 655, 658, 666, 667, 668, 670, 671, 672, 674, 675, 678, 680, 680]
   ```
 
   </details>
@@ -423,9 +423,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [238, 244, 244, 244, 246, 246, 246, 248, 249, 249, 256, 256, 256]
+    line [238, 244, 244, 244, 246, 246, 246, 248, 249, 249, 256, 256, 256, 256]
   ```
 
   </details>
@@ -440,9 +440,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [27, 46, 46, 46, 46, 46, 46, 46, 46, 47, 49, 49, 49]
+    line [27, 46, 46, 46, 46, 46, 46, 46, 46, 47, 49, 49, 49, 49]
   ```
 
   </details>
@@ -457,9 +457,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [242, 242, 241, 245, 245, 245, 245, 255, 257, 259, 259, 261, 262]
+    line [242, 242, 241, 245, 245, 245, 245, 255, 257, 259, 259, 261, 262, 262]
   ```
 
   </details>
@@ -474,9 +474,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 11, 15, 17]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 8, 11, 15, 17, 17]
   ```
 
   </details>
@@ -491,9 +491,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 16]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15, 15, 16, 16]
   ```
 
   </details>
@@ -508,9 +508,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 91, 94, 94]
+    line [81, 81, 81, 81, 81, 81, 81, 81, 81, 81, 91, 94, 94, 94]
   ```
 
   </details>
@@ -525,9 +525,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [23, 24, 24, 24, 24, 24, 25, 26, 28, 28, 29, 31, 35]
+    line [23, 24, 24, 24, 24, 24, 25, 26, 28, 28, 29, 31, 35, 35]
   ```
 
   </details>
@@ -542,9 +542,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [75, 76, 79, 79, 79, 79, 80, 80, 85, 85, 86, 86, 86]
+    line [75, 76, 79, 79, 79, 79, 80, 80, 85, 85, 86, 86, 86, 86]
   ```
 
   </details>
@@ -559,9 +559,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [242, 243, 244, 244, 244, 244, 244, 244, 244, 248, 250, 251, 252]
+    line [242, 243, 244, 244, 244, 244, 244, 244, 244, 248, 250, 251, 252, 252]
   ```
 
   </details>
@@ -576,9 +576,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [42, 43, 43, 45, 45, 45, 46, 46, 46, 46, 47, 50, 51]
+    line [42, 43, 43, 45, 45, 45, 46, 46, 46, 46, 47, 50, 51, 51]
   ```
 
   </details>
@@ -593,9 +593,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [13, 13, 13, 13, 13, 13, 14, 14, 16, 18, 18, 20, 23]
+    line [13, 13, 13, 13, 13, 13, 14, 14, 16, 18, 18, 20, 23, 23]
   ```
 
   </details>
@@ -610,9 +610,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [1232, 1235, 1235, 1235, 1236, 1238, 1238, 1239, 1239, 1239, 1240, 1240, 1240]
+    line [1232, 1235, 1235, 1235, 1236, 1238, 1238, 1239, 1239, 1239, 1240, 1240, 1240, 1240]
   ```
 
   </details>
@@ -627,9 +627,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [163, 163, 163, 164, 164, 165, 165, 169, 170, 171, 171, 171, 171]
+    line [163, 163, 163, 164, 164, 165, 165, 169, 170, 171, 171, 171, 171, 171]
   ```
 
   </details>
@@ -644,9 +644,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [150, 150, 152, 152, 154, 154, 154, 155, 155, 155, 156, 158, 158]
+    line [150, 150, 152, 152, 154, 154, 154, 155, 155, 155, 156, 158, 158, 158]
   ```
 
   </details>
@@ -661,9 +661,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [69, 69, 69, 69, 70, 72, 72, 73, 74, 74, 76, 76, 76]
+    line [69, 69, 69, 69, 70, 72, 72, 73, 74, 74, 76, 76, 76, 76]
   ```
 
   </details>
@@ -678,9 +678,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [33, 33, 34, 35, 35, 35, 35, 35, 40, 40, 41, 41, 41]
+    line [33, 33, 34, 35, 35, 35, 35, 35, 40, 40, 41, 41, 41, 41]
   ```
 
   </details>
@@ -695,9 +695,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [24, 24, 24, 24, 24, 24, 24, 24, 24, 29, 32, 32, 32]
+    line [24, 24, 24, 24, 24, 24, 24, 24, 24, 29, 32, 32, 32, 32]
   ```
 
   </details>
@@ -712,9 +712,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [4, 5, 6, 6, 7, 7, 7, 8, 8, 8, 8, 8, 8]
+    line [4, 5, 6, 6, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -729,9 +729,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [221, 221, 221, 223, 225, 225, 225, 225, 225, 227, 227, 227, 227]
+    line [221, 221, 221, 223, 225, 225, 225, 225, 225, 227, 227, 227, 227, 227]
   ```
 
   </details>
@@ -746,43 +746,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [66, 66, 66, 68, 69, 69, 70, 70, 70, 70, 72, 72, 72]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-63313-graph"></a>
-### [analyzer] CollectionElement no longer possible to be exhausted in switches
-  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4677-graph"></a>
-### Setter functions, parameterized setters.
-  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+    line [66, 66, 66, 68, 69, 69, 70, 70, 70, 70, 72, 72, 72, 72]
   ```
 
   </details>
@@ -797,9 +763,60 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 7, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63313-graph"></a>
+### [analyzer] CollectionElement no longer possible to be exhausted in switches
+  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4677-graph"></a>
+### Setter functions, parameterized setters.
+  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-356-graph"></a>
+### Abstract static methods
+  <sub>[dart-lang/language#356](https://github.com/dart-lang/language/issues/356) &mdash; 429 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions"
+    line [424, 424, 424, 424, 425, 425, 425, 425, 425, 425, 426, 426, 426, 429]
   ```
 
   </details>
@@ -814,9 +831,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [263, 263, 263, 263, 263, 263, 263, 264, 267, 267, 267, 268, 269]
+    line [263, 263, 263, 263, 263, 263, 263, 264, 267, 267, 267, 268, 269, 269]
   ```
 
   </details>
@@ -831,9 +848,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [106, 108, 108, 108, 108, 108, 108, 109, 110, 110, 112, 112, 112]
+    line [106, 108, 108, 108, 108, 108, 108, 109, 110, 110, 112, 112, 112, 112]
   ```
 
   </details>
@@ -848,9 +865,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [95, 97, 97, 98, 99, 99, 99, 100, 100, 101, 101, 101, 101]
+    line [95, 97, 97, 98, 99, 99, 99, 100, 100, 101, 101, 101, 101, 101]
   ```
 
   </details>
@@ -865,9 +882,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [95, 95, 95, 95, 95, 95, 95, 95, 96, 96, 100, 100, 100]
+    line [95, 95, 95, 95, 95, 95, 95, 95, 96, 96, 100, 100, 100, 100]
   ```
 
   </details>
@@ -882,9 +899,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [57, 57, 57, 57, 62, 62, 62, 62, 62, 62, 63, 63, 63]
+    line [57, 57, 57, 57, 62, 62, 62, 62, 62, 62, 63, 63, 63, 63]
   ```
 
   </details>
@@ -899,9 +916,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [20, 22, 22, 22, 22, 24, 24, 24, 24, 24, 24, 24, 24]
+    line [20, 22, 22, 22, 22, 24, 24, 24, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -916,9 +933,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6]
   ```
 
   </details>
@@ -933,9 +950,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [2308, 2308, 2308, 2308, 2308, 2308, 2308, 2309, 2310, 2310, 2310, 2310, 2312]
+    line [2308, 2308, 2308, 2308, 2308, 2308, 2308, 2309, 2310, 2310, 2310, 2310, 2312, 2312]
   ```
 
   </details>
@@ -950,9 +967,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [707, 708, 708, 708, 708, 708, 708, 712, 712, 712, 712, 712, 712]
+    line [707, 708, 708, 708, 708, 708, 708, 712, 712, 712, 712, 712, 712, 712]
   ```
 
   </details>
@@ -967,9 +984,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [559, 559, 559, 559, 560, 561, 562, 563, 563, 563, 563, 563, 564]
+    line [559, 559, 559, 559, 560, 561, 562, 563, 563, 563, 563, 563, 564, 564]
   ```
 
   </details>
@@ -984,9 +1001,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [449, 449, 449, 449, 449, 453, 454, 454, 454, 454, 454, 454, 454]
+    line [449, 449, 449, 449, 449, 453, 454, 454, 454, 454, 454, 454, 454, 454]
   ```
 
   </details>
@@ -1001,9 +1018,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [281, 282, 283, 283, 284, 284, 284, 284, 284, 284, 284, 285, 285]
+    line [281, 282, 283, 283, 284, 284, 284, 284, 284, 284, 284, 285, 285, 285]
   ```
 
   </details>
@@ -1018,9 +1035,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [107, 107, 107, 107, 108, 108, 108, 108, 108, 108, 108, 108, 108]
+    line [107, 107, 107, 107, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108]
   ```
 
   </details>
@@ -1035,9 +1052,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [71, 71, 71, 72, 72, 72, 72, 72, 73, 73, 73, 73, 73]
+    line [71, 71, 71, 72, 72, 72, 72, 72, 73, 73, 73, 73, 73, 73]
   ```
 
   </details>
@@ -1052,9 +1069,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [41, 42, 42, 43, 44, 44, 44, 44, 45, 45, 45, 45, 45]
+    line [41, 42, 42, 43, 44, 44, 44, 44, 45, 45, 45, 45, 45, 45]
   ```
 
   </details>
@@ -1069,9 +1086,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [24, 24, 25, 25, 25, 25, 25, 25, 25, 27, 27, 29, 29]
+    line [24, 24, 25, 25, 25, 25, 25, 25, 25, 27, 27, 29, 29, 29]
   ```
 
   </details>
@@ -1086,9 +1103,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [19, 19, 19, 19, 19, 19, 21, 21, 21, 24, 24, 24, 24]
+    line [19, 19, 19, 19, 19, 19, 21, 21, 21, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1103,9 +1120,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
-    line [17, 19, 19, 19, 19, 19, 19, 20, 20, 20, 20, 20, 22]
+    line [17, 19, 19, 19, 19, 19, 19, 20, 20, 20, 20, 20, 22, 22]
   ```
 
   </details>
@@ -1120,26 +1137,9 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [15, 15, 15, 16, 16, 18, 18, 19, 20, 20, 20, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-63292-graph"></a>
-### [analysis_server_plugin] Extremely slow
-  <sub>[dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
+    line [15, 15, 15, 16, 16, 18, 18, 19, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -1154,9 +1154,26 @@ Parameter destructuring [dart-lang/language#3001](https://github.com/dart-lang/l
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15]
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63292-graph"></a>
+### [analysis_server_plugin] Extremely slow
+  <sub>[dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
   ```
 
   </details>
