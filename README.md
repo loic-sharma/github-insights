@@ -210,8 +210,8 @@ Android build fails with certain plugins if project is in a different drive (fro
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 2
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 2
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 40 | 2
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 2
 WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBinding` [flutter/flutter#130872](https://github.com/flutter/flutter/issues/130872) | 20 | 2
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 87 | 1
 [camera] startVideoRecording/stopVideoRecording() freezes the UI  [flutter/flutter#57451](https://github.com/flutter/flutter/issues/57451) | 51 | 1
@@ -303,7 +303,7 @@ bug: glob workspace pattern reports `dart(path_does_not_exist)` [dart-lang/sdk#6
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 22 | [5](#dart-lang-sdk-61822-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 5 | [5](#dart-lang-sdk-63292-graph)
 Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
-[analyzer] Support rule-specific options in analysis_options.yaml for analyzer plugins [dart-lang/sdk#63098](https://github.com/dart-lang/sdk/issues/63098) | 4 | 4
+Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
 
 ### Dart language
 
@@ -313,8 +313,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1240 | [8](#dart-lang-language-723-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
-Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
 [dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 7 | [7](#dart-lang-language-4696-graph)
+Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 429 | [6](#dart-lang-language-356-graph)
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 269 | [6](#dart-lang-language-333-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 101 | [6](#dart-lang-language-2128-graph)
@@ -754,23 +754,6 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-language-4677-graph"></a>
-### Setter functions, parameterized setters.
-  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
-    y-axis "Reactions" 0 --> 20
-    line [0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4696-graph"></a>
 ### [dart-4.0] Language spec on the website
   <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -800,6 +783,23 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
     x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4677-graph"></a>
+### Setter functions, parameterized setters.
+  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -958,23 +958,6 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-language-4703-graph"></a>
-### [dart 4.0] Drop support for older formatting styles
-  <sub>[dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63471-graph"></a>
 ### [SIMD] Support for Int8x16 and Int8x16List.
   <sub>[dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -987,6 +970,23 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
     x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4703-graph"></a>
+### [dart 4.0] Drop support for older formatting styles
+  <sub>[dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 6]
   ```
 
   </details>
