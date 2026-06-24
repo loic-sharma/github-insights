@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-03-23 to 2026-06-23.
+Issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/is
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-framework` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flut
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-design` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -63,16 +63,16 @@ DropdownMenu is very slow when using large lists [flutter/flutter#132945](https:
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 17 | 4
 SliverAppBar flexibleSpace with height depending on children [flutter/flutter#18345](https://github.com/flutter/flutter/issues/18345) | 276 | 2
 Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter/issues/31728) | 76 | 2
+Overscrolling outer scrollview / SliverAppBar.stretch does not work in NestedScrollView [flutter/flutter#54059](https://github.com/flutter/flutter/issues/54059) | 47 | 2
 Add ReorderableListView.seperated constructor [flutter/flutter#76706](https://github.com/flutter/flutter/issues/76706) | 42 | 2
 ☂️ Relocation: Establish new material and cupertino packages in flutter/packages [flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) | 33 | 2
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 313 | 1
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 128 | 1
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 104 | 1
-Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 95 | 1
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`f: cupertino` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 41 | [41](#flutter-flutter-184093-graph)
@@ -89,11 +89,11 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 2
@@ -114,7 +114,7 @@ KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](htt
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-accessibility` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-go_router` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-tool` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-engine` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 252 | [10](#flutter-flutter-61229-graph)
@@ -167,15 +167,15 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 221 | 2
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 139 | 2
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 99 | 2
+Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 55 | 2
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 55 | 2
  Add the ability to use C# and .NET libraries in flutter cross Platform. [flutter/flutter#74720](https://github.com/flutter/flutter/issues/74720) | 41 | 2
-Secondary isolates should get dart:ui bindings. [flutter/flutter#13343](https://github.com/flutter/flutter/issues/13343) | 37 | 2
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-ios` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -184,8 +184,8 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 171 | [8](#flutter-flutter-126005-graph)
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 3
-The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 16 | 3
 [SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
+The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 16 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 2
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-android` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error whe
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-web` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Support flavors for Linux [flutter/flutter#162373](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`team-ecosystem` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`dart-lang/sdk` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,25 +307,25 @@ Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](h
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-03-23 to 2026-06-23.
+`dart-lang/language` issues that received the most reactions from 2026-03-23 to 2026-06-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1240 | [8](#dart-lang-language-723-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
-[dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 7 | [7](#dart-lang-language-4696-graph)
 Setter functions, parameterized setters. [dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) | 7 | [7](#dart-lang-language-4677-graph)
+[dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 7 | [7](#dart-lang-language-4696-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 429 | [6](#dart-lang-language-356-graph)
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 269 | [6](#dart-lang-language-333-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 101 | [6](#dart-lang-language-2128-graph)
 [dart 4.0] Drop support for older formatting styles [dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) | 6 | [6](#dart-lang-language-4703-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2312 | [5](#dart-lang-language-314-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 285 | [5](#dart-lang-language-2364-graph)
+Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 41 | [5](#dart-lang-language-4154-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 24 | [5](#dart-lang-language-4383-graph)
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | 4
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 283 | 4
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 252 | 4
-static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-lang/language/issues/4271) | 216 | 4
 
 ## Graphs
 
@@ -754,9 +754,9 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-language-4696-graph"></a>
-### [dart-4.0] Language spec on the website
-  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+<a name="dart-lang-language-4677-graph"></a>
+### Setter functions, parameterized setters.
+  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -765,7 +765,7 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   xychart-beta
     x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 7, 7, 7]
+    line [0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -788,9 +788,9 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-language-4677-graph"></a>
-### Setter functions, parameterized setters.
-  <sub>[dart-lang/language#4677](https://github.com/dart-lang/language/issues/4677) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+<a name="dart-lang-language-4696-graph"></a>
+### [dart-4.0] Language spec on the website
+  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 7 total reactions, 7 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -799,7 +799,7 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   xychart-beta
     x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
-    line [0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7, 7, 7, 7]
   ```
 
   </details>
@@ -958,23 +958,6 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
   </details>
   </sub>
 
-<a name="dart-lang-sdk-63471-graph"></a>
-### [SIMD] Support for Int8x16 and Int8x16List.
-  <sub>[dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4703-graph"></a>
 ### [dart 4.0] Drop support for older formatting styles
   <sub>[dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -987,6 +970,23 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
     x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 6]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63471-graph"></a>
+### [SIMD] Support for Int8x16 and Int8x16List.
+  <sub>[dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 6]
   ```
 
   </details>
@@ -1140,6 +1140,23 @@ static enough metaprogramming [dart-lang/language#4271](https://github.com/dart-
     x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
     line [41, 42, 42, 43, 44, 44, 44, 44, 45, 45, 45, 45, 45, 45]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4154-graph"></a>
+### Augmentations
+  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 41 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions"
+    line [36, 36, 36, 36, 36, 36, 38, 38, 38, 39, 39, 40, 40, 41]
   ```
 
   </details>
