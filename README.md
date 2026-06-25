@@ -6,8 +6,8 @@ Issues that received the most reactions from 2026-03-23 to 2026-06-25.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 790 | [41](#flutter-flutter-168813-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 41 | [41](#flutter-flutter-184093-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 787 | [38](#flutter-flutter-168813-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 73 | [34](#flutter-flutter-151638-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 153 | [32](#flutter-flutter-172561-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 681 | [27](#flutter-flutter-170310-graph)
@@ -54,8 +54,8 @@ Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flut
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 790 | [41](#flutter-flutter-168813-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 41 | [41](#flutter-flutter-184093-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 787 | [38](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 681 | [27](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1017 | [26](#flutter-flutter-101479-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 158 | [8](#flutter-flutter-102560-graph)
@@ -103,8 +103,8 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 30 | 2
 [Keyboard] Synchronize keyboard state on defocus and refocus [flutter/flutter#99330](https://github.com/flutter/flutter/issues/99330) | 27 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 15 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
@@ -164,12 +164,12 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 61 | 3
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2039 | 2
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 350 | 2
+Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 336 | 2
 Allow release mode builds to run on simulators [flutter/flutter#11754](https://github.com/flutter/flutter/issues/11754) | 221 | 2
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 139 | 2
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 99 | 2
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 55 | 2
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 55 | 2
- Add the ability to use C# and .NET libraries in flutter cross Platform. [flutter/flutter#74720](https://github.com/flutter/flutter/issues/74720) | 41 | 2
 
 ### Platforms
 
@@ -184,8 +184,8 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 171 | [8](#flutter-flutter-126005-graph)
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 3
-[SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
 The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 16 | 3
+[SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 2
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
@@ -210,8 +210,8 @@ Android build fails with certain plugins if project is in a different drive (fro
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 2
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 2
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 40 | 2
-WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBinding` [flutter/flutter#130872](https://github.com/flutter/flutter/issues/130872) | 20 | 2
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 20 | 2
+WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBinding` [flutter/flutter#130872](https://github.com/flutter/flutter/issues/130872) | 20 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 87 | 1
 [camera] startVideoRecording/stopVideoRecording() freezes the UI  [flutter/flutter#57451](https://github.com/flutter/flutter/issues/57451) | 51 | 1
@@ -329,6 +329,23 @@ Allow both optional positional and optional named arguments in the same function
 
 ## Graphs
 
+<a name="flutter-flutter-168813-graph"></a>
+### ☂️ Bring Material 3 Expressive to Flutter
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 790 total reactions, 41 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions"
+    line [751, 758, 761, 762, 762, 763, 765, 767, 769, 771, 775, 785, 787, 790]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-184093-graph"></a>
 ### [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages
   <sub>[flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) &mdash; 41 total reactions, 41 recent reactions</sub><br />
@@ -341,23 +358,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions"
     line [0, 17, 28, 28, 30, 33, 33, 33, 34, 35, 36, 36, 38, 41]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168813-graph"></a>
-### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 787 total reactions, 38 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
-    y-axis "Reactions"
-    line [751, 758, 761, 762, 762, 763, 765, 767, 769, 771, 775, 785, 787, 787]
   ```
 
   </details>
@@ -771,6 +771,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="dart-lang-sdk-63313-graph"></a>
+### [analyzer] CollectionElement no longer possible to be exhausted in switches
+  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4696-graph"></a>
 ### [dart-4.0] Language spec on the website
   <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -800,23 +817,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
     y-axis "Reactions" 0 --> 20
     line [0, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-63313-graph"></a>
-### [analyzer] CollectionElement no longer possible to be exhausted in switches
-  <sub>[dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 23, Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
