@@ -2,13 +2,13 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-03-30 to 2026-06-29.
+Issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [43](#flutter-flutter-172561-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 791 | [40](#flutter-flutter-168813-graph)
-Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 73 | [34](#flutter-flutter-151638-graph)
+Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 74 | [35](#flutter-flutter-151638-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 681 | [26](#flutter-flutter-170310-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 41 | [25](#flutter-flutter-184093-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 50 | [23](#flutter-flutter-138940-graph)
@@ -28,7 +28,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-framework` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Dependency Injection for Flutter [flutter/flutter#21980](https://github.com/flut
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-design` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`f: cupertino` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 681 | [26](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#6
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 87 | 2
@@ -114,7 +114,7 @@ KeyboardListener is buggy after focusing a TextField [flutter/flutter#67915](htt
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-accessibility` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-go_router` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-tool` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Multiplatform tooling: A way to store and update app properties, like name, desc
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-engine` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 255 | [13](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Merge the platform and UI threads [flutter/flutter#150525](https://github.com/fl
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-ios` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,11 +197,11 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-android` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 73 | [34](#flutter-flutter-151638-graph)
+Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 74 | [35](#flutter-flutter-151638-graph)
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 60 | 4
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 45 | 4
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 100 | 3
@@ -219,7 +219,7 @@ WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBindi
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-web` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Support flavors for Linux [flutter/flutter#162373](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`team-ecosystem` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`dart-lang/sdk` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-03-30 to 2026-06-29.
+`dart-lang/language` issues that received the most reactions from 2026-03-30 to 2026-06-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -365,7 +365,7 @@ Allow both optional positional and optional named arguments in the same function
 
 <a name="flutter-flutter-151638-graph"></a>
 ### Investigate path resolution for "libflutter.so" binary
-  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 73 total reactions, 34 recent reactions</sub><br />
+  <sub>[flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) &mdash; 74 total reactions, 35 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -374,7 +374,7 @@ Allow both optional positional and optional named arguments in the same function
   xychart-beta
     x-axis "Week" [Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29]
     y-axis "Reactions"
-    line [41, 41, 41, 41, 41, 41, 41, 42, 42, 43, 72, 72, 73, 73]
+    line [41, 41, 41, 41, 41, 41, 41, 42, 42, 43, 72, 72, 73, 74]
   ```
 
   </details>
