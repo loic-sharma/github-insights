@@ -20,7 +20,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 28 | [15](#flutter-flutter-162196-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 255 | [13](#flutter-flutter-61229-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 94 | [13](#dart-lang-sdk-56841-graph)
-[dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 86 | [11](#dart-lang-sdk-53884-graph)
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 36 | [12](#flutter-flutter-173940-graph)
 
 ## Trending issues by team
 
@@ -180,7 +180,7 @@ Merge the platform and UI threads [flutter/flutter#150525](https://github.com/fl
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 28 | [15](#flutter-flutter-162196-graph)
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 35 | [11](#flutter-flutter-173940-graph)
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 36 | [12](#flutter-flutter-173940-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 171 | [8](#flutter-flutter-126005-graph)
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 3
@@ -567,6 +567,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="flutter-flutter-173940-graph"></a>
+### Flutter: Cleaning Xcode workspace takes 2-3 minutes
+  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 36 total reactions, 12 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29]
+    y-axis "Reactions"
+    line [24, 24, 24, 24, 24, 25, 26, 28, 28, 29, 31, 35, 35, 36]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-53884-graph"></a>
 ### [dart2wasm] Support non-JS wasm runtimes
   <sub>[dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) &mdash; 86 total reactions, 11 recent reactions</sub><br />
@@ -579,23 +596,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29]
     y-axis "Reactions"
     line [76, 79, 79, 79, 79, 80, 80, 85, 85, 86, 86, 86, 86, 86]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-173940-graph"></a>
-### Flutter: Cleaning Xcode workspace takes 2-3 minutes
-  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 35 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29]
-    y-axis "Reactions"
-    line [24, 24, 24, 24, 24, 25, 26, 28, 28, 29, 31, 35, 35, 35]
   ```
 
   </details>
