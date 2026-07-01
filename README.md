@@ -302,8 +302,8 @@ analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin is
 [Feature request] Date class, without time [dart-lang/sdk#49426](https://github.com/dart-lang/sdk/issues/49426) | 66 | [5](#dart-lang-sdk-49426-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 37 | [5](#dart-lang-sdk-46196-graph)
 Implement `dart_data_home` and `DART_DATA_HOME` (XDG-state) in Dart and Flutter tooling [dart-lang/sdk#62952](https://github.com/dart-lang/sdk/issues/62952) | 9 | [5](#dart-lang-sdk-62952-graph)
+Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 5 | [5](#dart-lang-sdk-63700-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 5 | [5](#dart-lang-sdk-63292-graph)
-Dart need a dart REPL now [dart-lang/sdk#39965](https://github.com/dart-lang/sdk/issues/39965) | 118 | 4
 
 ### Dart language
 
@@ -1157,6 +1157,23 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29]
     y-axis "Reactions" 0 --> 20
     line [5, 6, 6, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63700-graph"></a>
+### Deprecate and remove `HashMap`
+  <sub>[dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Mar 30, Apr 6, Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
