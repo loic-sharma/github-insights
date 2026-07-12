@@ -10,7 +10,7 @@ Issue | Total reactions | Recent reactions
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 801 | [39](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 692 | [34](#flutter-flutter-170310-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 74 | [33](#flutter-flutter-151638-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 265 | [23](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 266 | [24](#flutter-flutter-65504-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1018 | [20](#flutter-flutter-101479-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 32 | [19](#flutter-flutter-162196-graph)
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 17 | [17](#dart-lang-sdk-63427-graph)
@@ -32,7 +32,7 @@ AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/is
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 265 | [23](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 266 | [24](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 257 | [13](#flutter-flutter-142845-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 76 | [7](#flutter-flutter-81005-graph)
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 100 | [5](#flutter-flutter-102003-graph)
@@ -292,10 +292,10 @@ Issue | Total reactions | Recent reactions
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 17 | [17](#dart-lang-sdk-63427-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 95 | [14](#dart-lang-sdk-56841-graph)
 analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns) [dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) | 9 | [9](#dart-lang-sdk-63538-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 75 | [8](#dart-lang-sdk-61957-graph)
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 42 | [8](#dart-lang-sdk-54003-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 228 | [7](#dart-lang-sdk-55281-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 86 | [7](#dart-lang-sdk-53884-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 74 | [7](#dart-lang-sdk-61957-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 38 | [6](#dart-lang-sdk-46196-graph)
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
@@ -312,7 +312,7 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 434 | [10](#dart-lang-language-356-graph)
-[dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 9 | [9](#dart-lang-language-4726-graph)
+[dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 10 | [10](#dart-lang-language-4726-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
 [dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 8 | [8](#dart-lang-language-4696-graph)
 [dart 4.0] Drop support for older formatting styles [dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) | 8 | [8](#dart-lang-language-4703-graph)
@@ -399,7 +399,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-65504-graph"></a>
 ### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 265 total reactions, 23 recent reactions</sub><br />
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 266 total reactions, 24 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -408,7 +408,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6]
     y-axis "Reactions"
-    line [245, 245, 245, 245, 255, 257, 259, 259, 261, 262, 262, 262, 265]
+    line [245, 245, 245, 245, 255, 257, 259, 259, 261, 262, 262, 262, 266]
   ```
 
   </details>
@@ -620,7 +620,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
 
 <a name="dart-lang-language-4726-graph"></a>
 ### [dart 4.0] Remove support for `new` in constructor invocations
-  <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 10 total reactions, 10 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -629,7 +629,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
   ```
 
   </details>
@@ -664,6 +664,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6]
     y-axis "Reactions"
     line [164, 164, 165, 165, 169, 170, 171, 171, 171, 171, 171, 171, 171]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61957-graph"></a>
+### [Dot shorthands] A new lint and fix to prefer dot shorthands
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 75 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6]
+    y-axis "Reactions"
+    line [68, 69, 69, 70, 70, 70, 70, 72, 72, 72, 72, 72, 75]
   ```
 
   </details>
@@ -817,23 +834,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6]
     y-axis "Reactions"
     line [69, 70, 72, 72, 73, 74, 74, 76, 76, 76, 76, 76, 76]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-61957-graph"></a>
-### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 74 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6]
-    y-axis "Reactions"
-    line [68, 69, 69, 70, 70, 70, 70, 72, 72, 72, 72, 72, 74]
   ```
 
   </details>
