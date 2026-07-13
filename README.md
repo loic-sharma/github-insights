@@ -13,8 +13,8 @@ Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 266 | [24](#flutter-flutter-65504-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1018 | [20](#flutter-flutter-101479-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 32 | [19](#flutter-flutter-162196-graph)
-[GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 17 | [17](#flutter-flutter-186804-graph)
+[GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 17 | [17](#dart-lang-sdk-63427-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 95 | [14](#dart-lang-sdk-56841-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 257 | [13](#flutter-flutter-142845-graph)
@@ -99,11 +99,11 @@ Issue | Total reactions | Recent reactions
 Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [flutter/flutter#179482](https://github.com/flutter/flutter/issues/179482) | 19 | 4
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 116 | 2
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
-Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 31 | 2
+Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 15 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
@@ -145,10 +145,10 @@ Investigate running test suites in a single isolate [flutter/flutter#90225](http
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 21 | 1
 Offline mode needs to be extended to all flutter commands [flutter/flutter#22429](https://github.com/flutter/flutter/issues/22429) | 18 | 1
 Flutter 3.32.0 cannot find package:integration_test when building with --no-pub flag [flutter/flutter#169336](https://github.com/flutter/flutter/issues/169336) | 16 | 1
-Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 429 | 0
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 175 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
+Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 91 | 0
 
 ### Engine
 
@@ -157,8 +157,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 256 | [12](#flutter-flutter-61229-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 51 | [8](#flutter-flutter-174980-graph)
+WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 456 | [7](#flutter-flutter-66618-graph)
 text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 64 | [7](#flutter-flutter-63043-graph)
-WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 455 | [6](#flutter-flutter-66618-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 564 | [5](#flutter-flutter-26801-graph)
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 350 | 3
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 336 | 2
@@ -189,8 +189,8 @@ The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 35 | 2
-Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 iOS: italic system font doesn't render properly [flutter/flutter#130492](https://github.com/flutter/flutter/issues/130492) | 31 | 2
+Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 293 | 1
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 1
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 1
@@ -253,8 +253,8 @@ Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutt
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 228 | 2
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 149 | 2
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 134 | 2
-Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
+Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Wayland: support the xdg-decoration protocol to use server-side decorations when available [flutter/flutter#94381](https://github.com/flutter/flutter/issues/94381) | 20 | 2
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 490 | 1
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 349 | 1
@@ -301,8 +301,8 @@ Support creating files and sockets from file descriptors [dart-lang/sdk#46196](h
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 24 | [5](#dart-lang-sdk-61822-graph)
 [hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 11 | [5](#dart-lang-sdk-56512-graph)
-[analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 5 | [5](#dart-lang-sdk-63292-graph)
 Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 5 | [5](#dart-lang-sdk-63700-graph)
+[analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 5 | [5](#dart-lang-sdk-63292-graph)
 Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.com/dart-lang/sdk/issues/28617) | 555 | 4
 
 ### Dart language
@@ -448,23 +448,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-188877-graph"></a>
-### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
-  <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-186804-graph"></a>
 ### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
   <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -477,6 +460,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 15, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-188877-graph"></a>
+### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
+  <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17]
   ```
 
   </details>
@@ -771,6 +771,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-66618-graph"></a>
+### WebGPU in Flutter
+  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 456 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    y-axis "Reactions"
+    line [449, 449, 453, 454, 454, 454, 454, 454, 454, 454, 455, 455, 455, 456]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-333-graph"></a>
 ### It is necessary to implement threads
   <sub>[dart-lang/language#333](https://github.com/dart-lang/language/issues/333) &mdash; 270 total reactions, 7 recent reactions</sub><br />
@@ -868,23 +885,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-66618-graph"></a>
-### WebGPU in Flutter
-  <sub>[flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) &mdash; 455 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
-    y-axis "Reactions"
-    line [449, 449, 453, 454, 454, 454, 454, 454, 454, 454, 455, 455, 455, 455]
   ```
 
   </details>
@@ -1060,23 +1060,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4383-graph"></a>
-### Feature request: `defer` statement
-  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 24 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
-    y-axis "Reactions"
-    line [19, 19, 19, 21, 21, 21, 24, 24, 24, 24, 24, 24, 24, 24]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61822-graph"></a>
 ### `dart fix` should apply fixes from plugins
   <sub>[dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) &mdash; 24 total reactions, 5 recent reactions</sub><br />
@@ -1089,6 +1072,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
     y-axis "Reactions"
     line [19, 19, 19, 19, 20, 20, 20, 20, 20, 22, 23, 24, 24, 24]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4383-graph"></a>
+### Feature request: `defer` statement
+  <sub>[dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) &mdash; 24 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    y-axis "Reactions"
+    line [19, 19, 19, 21, 21, 21, 24, 24, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1128,23 +1128,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-63292-graph"></a>
-### [analysis_server_plugin] Extremely slow
-  <sub>[dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63700-graph"></a>
 ### Deprecate and remove `HashMap`
   <sub>[dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1157,6 +1140,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63292-graph"></a>
+### [analysis_server_plugin] Extremely slow
+  <sub>[dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
   ```
 
   </details>
