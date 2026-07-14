@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-04-13 to 2026-07-13.
+Issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-framework` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PageView with height based on current child [flutter/flutter#29749](https://gith
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-design` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ InkWell and InkResponse not close enough to the real thing [flutter/flutter#2092
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`f: cupertino` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 692 | [34](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [flutter/flutter#179482](https://github.com/flutter/flutter/issues/179482) | 19 | 4
@@ -114,7 +114,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-accessibility` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-go_router` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-tool` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-engine` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 256 | [12](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Support woff2 font [flutter/flutter#109108](https://github.com/flutter/flutter/i
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-ios` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-android` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ WebView sometimes isn't loaded when run with `IntegrationTestWidgetsFlutterBindi
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-web` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`team-ecosystem` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`dart-lang/sdk` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Allow AOT executables to be cross-compiled [dart-lang/sdk#28617](https://github.
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-04-13 to 2026-07-13.
+`dart-lang/language` issues that received the most reactions from 2026-04-13 to 2026-07-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
