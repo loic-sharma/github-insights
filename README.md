@@ -14,8 +14,8 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1018 | [20](#flutter-flutter-101479-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 32 | [19](#flutter-flutter-162196-graph)
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
-[GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 17 | [17](#flutter-flutter-186804-graph)
+[GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 95 | [14](#dart-lang-sdk-56841-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 14 | [14](#flutter-flutter-186825-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 257 | [13](#flutter-flutter-142845-graph)
@@ -88,8 +88,8 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
@@ -103,8 +103,8 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 31 | 2
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
-Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
+Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 1
@@ -145,10 +145,10 @@ Investigate running test suites in a single isolate [flutter/flutter#90225](http
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 21 | 1
 Offline mode needs to be extended to all flutter commands [flutter/flutter#22429](https://github.com/flutter/flutter/issues/22429) | 18 | 1
 Flutter 3.32.0 cannot find package:integration_test when building with --no-pub flag [flutter/flutter#169336](https://github.com/flutter/flutter/issues/169336) | 16 | 1
+Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 429 | 0
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 175 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
-Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 91 | 0
 
 ### Engine
 
@@ -184,8 +184,8 @@ Issue | Total reactions | Recent reactions
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 37 | [13](#flutter-flutter-173940-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 171 | [8](#flutter-flutter-126005-graph)
 [iOS] invalid symbols files produced by --split-debug-info [flutter/flutter#138182](https://github.com/flutter/flutter/issues/138182) | 20 | 4
-[SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
 The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 16 | 3
+[SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 [webview_flutter] In iOS version 17.2, when moving the input focus in a WebView, an unknown area appears at the top of the screen. [flutter/flutter#140501](https://github.com/flutter/flutter/issues/140501) | 45 | 2
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 35 | 2
@@ -206,8 +206,8 @@ Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 100 | 3
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 45 | 3
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 42 | 3
-[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 21 | 3
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 3
+[video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 21 | 3
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 79 | 2
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 2
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 2
@@ -302,8 +302,8 @@ Support creating files and sockets from file descriptors [dart-lang/sdk#46196](h
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 24 | [5](#dart-lang-sdk-61822-graph)
 [hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 11 | [5](#dart-lang-sdk-56512-graph)
-Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 5 | [5](#dart-lang-sdk-63700-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 5 | [5](#dart-lang-sdk-63292-graph)
+Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 5 | [5](#dart-lang-sdk-63700-graph)
 
 ### Dart language
 
@@ -465,23 +465,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="flutter-flutter-188877-graph"></a>
-### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
-  <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-186804-graph"></a>
 ### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
   <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -494,6 +477,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 15, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-188877-graph"></a>
+### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
+  <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17]
   ```
 
   </details>
@@ -1162,23 +1162,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-sdk-63700-graph"></a>
-### Deprecate and remove `HashMap`
-  <sub>[dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63292-graph"></a>
 ### [analysis_server_plugin] Extremely slow
   <sub>[dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1191,6 +1174,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63700-graph"></a>
+### Deprecate and remove `HashMap`
+  <sub>[dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 13, Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
   ```
 
   </details>
