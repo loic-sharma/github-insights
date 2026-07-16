@@ -237,7 +237,7 @@ Support Safari as a browser in flutter run [flutter/flutter#55323](https://githu
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
-Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 664 | 1
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 298 | 1
 
 #### Desktop
 
@@ -281,7 +281,7 @@ Support Safari as a browser in flutter run [flutter/flutter#55323](https://githu
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
-Server-side rendering for Flutter web [flutter/flutter#47600](https://github.com/flutter/flutter/issues/47600) | 664 | 1
+[path_provider] Add support for web [flutter/flutter#45296](https://github.com/flutter/flutter/issues/45296) | 298 | 1
 
 ### Dart SDK
 
