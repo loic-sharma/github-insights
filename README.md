@@ -16,7 +16,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 17 | [17](#flutter-flutter-186804-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1018 | [16](#flutter-flutter-101479-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 95 | [14](#dart-lang-sdk-56841-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 96 | [15](#dart-lang-sdk-56841-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 14 | [14](#flutter-flutter-186825-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 257 | [13](#flutter-flutter-142845-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 41 | [13](#flutter-flutter-184093-graph)
@@ -290,7 +290,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 95 | [14](#dart-lang-sdk-56841-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 96 | [15](#dart-lang-sdk-56841-graph)
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 26 | [11](#dart-lang-sdk-56366-graph)
 analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns) [dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) | 9 | [9](#dart-lang-sdk-63538-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 76 | [8](#dart-lang-sdk-61957-graph)
@@ -501,7 +501,7 @@ Allow both optional positional and optional named arguments in the same function
 
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 95 total reactions, 14 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 96 total reactions, 15 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -510,7 +510,7 @@ Allow both optional positional and optional named arguments in the same function
   xychart-beta
     x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
     y-axis "Reactions"
-    line [81, 81, 81, 81, 81, 81, 91, 94, 94, 94, 95, 95, 95]
+    line [81, 81, 81, 81, 81, 81, 91, 94, 94, 94, 95, 95, 96]
   ```
 
   </details>
