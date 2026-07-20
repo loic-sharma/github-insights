@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-04-20 to 2026-07-19.
+Issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-framework` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-design` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ InkWell and InkResponse not close enough to the real thing [flutter/flutter#2092
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`f: cupertino` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 692 | [26](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [flutter/flutter#179482](https://github.com/flutter/flutter/issues/179482) | 19 | 4
@@ -114,7 +114,7 @@ Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flu
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-accessibility` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,22 +123,22 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-go_router` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-tool` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 84 | 2
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 57 | 2
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 2
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 2
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 27 | 2
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 2
 Enable hot restart on profile mode [flutter/flutter#37987](https://github.com/flutter/flutter/issues/37987) | 30 | 1
 Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 21 | 1
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-engine` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 256 | [12](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-ios` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-android` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-web` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -251,8 +251,8 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 252 | 2
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 149 | 2
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 134 | 2
-Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
+Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 490 | 1
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 349 | 1
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 228 | 1
@@ -263,7 +263,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`team-ecosystem` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`dart-lang/sdk` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lan
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-04-20 to 2026-07-19.
+`dart-lang/language` issues that received the most reactions from 2026-04-20 to 2026-07-20.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -338,9 +338,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [122, 122, 122, 122, 123, 123, 123, 123, 125, 163, 164, 164, 164]
+    line [122, 122, 122, 122, 123, 123, 123, 123, 125, 163, 164, 164, 164, 164]
   ```
 
   </details>
@@ -355,9 +355,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [762, 763, 765, 767, 769, 771, 775, 785, 787, 790, 792, 801, 802]
+    line [762, 763, 765, 767, 769, 771, 775, 785, 787, 790, 792, 801, 802, 802]
   ```
 
   </details>
@@ -372,9 +372,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [41, 41, 41, 41, 42, 42, 43, 72, 72, 73, 74, 74, 75]
+    line [41, 41, 41, 41, 42, 42, 43, 72, 72, 73, 74, 74, 75, 75]
   ```
 
   </details>
@@ -389,9 +389,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [667, 668, 670, 671, 672, 674, 675, 678, 680, 681, 683, 692, 692]
+    line [667, 668, 670, 671, 672, 674, 675, 678, 680, 681, 683, 692, 692, 692]
   ```
 
   </details>
@@ -406,9 +406,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [245, 245, 245, 255, 257, 259, 259, 261, 262, 262, 262, 266, 267]
+    line [245, 245, 245, 255, 257, 259, 259, 261, 262, 262, 262, 266, 267, 267]
   ```
 
   </details>
@@ -423,9 +423,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [13, 13, 14, 14, 16, 18, 18, 20, 23, 25, 29, 32, 33]
+    line [13, 13, 14, 14, 16, 18, 18, 20, 23, 25, 29, 32, 33, 33]
   ```
 
   </details>
@@ -440,9 +440,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 5, 8, 11, 15, 17, 17, 17, 17, 18]
+    line [0, 0, 0, 0, 5, 8, 11, 15, 17, 17, 17, 17, 18, 18]
   ```
 
   </details>
@@ -457,9 +457,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17, 17]
   ```
 
   </details>
@@ -474,9 +474,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 15, 17]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 15, 17, 17]
   ```
 
   </details>
@@ -491,9 +491,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [1003, 1010, 1011, 1011, 1011, 1015, 1014, 1014, 1017, 1017, 1018, 1018, 1018]
+    line [1003, 1010, 1011, 1011, 1011, 1015, 1014, 1014, 1017, 1017, 1018, 1018, 1018, 1018]
   ```
 
   </details>
@@ -508,9 +508,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [81, 81, 81, 81, 81, 81, 91, 94, 94, 94, 95, 95, 96]
+    line [81, 81, 81, 81, 81, 81, 91, 94, 94, 94, 95, 95, 96, 96]
   ```
 
   </details>
@@ -525,9 +525,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 14, 14]
   ```
 
   </details>
@@ -542,9 +542,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [246, 246, 246, 248, 249, 249, 256, 256, 256, 257, 257, 257, 257]
+    line [246, 246, 246, 248, 249, 249, 256, 256, 256, 257, 257, 257, 257, 257]
   ```
 
   </details>
@@ -559,9 +559,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [30, 33, 33, 33, 34, 35, 36, 36, 38, 41, 41, 41, 41]
+    line [30, 33, 33, 33, 34, 35, 36, 36, 38, 41, 41, 41, 41, 41]
   ```
 
   </details>
@@ -576,9 +576,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [24, 24, 25, 26, 28, 28, 29, 31, 35, 35, 36, 36, 37]
+    line [24, 24, 25, 26, 28, 28, 29, 31, 35, 35, 36, 36, 37, 37]
   ```
 
   </details>
@@ -593,9 +593,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 13]
   ```
 
   </details>
@@ -610,9 +610,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [244, 244, 244, 244, 244, 248, 250, 251, 252, 255, 255, 256, 256]
+    line [244, 244, 244, 244, 244, 248, 250, 251, 252, 255, 255, 256, 256, 256]
   ```
 
   </details>
@@ -627,9 +627,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [15, 15, 16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 26]
+    line [15, 15, 16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 26, 26]
   ```
 
   </details>
@@ -644,9 +644,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [425, 425, 425, 425, 425, 425, 426, 426, 426, 429, 429, 434, 434]
+    line [425, 425, 425, 425, 425, 425, 426, 426, 426, 429, 429, 434, 434, 434]
   ```
 
   </details>
@@ -661,9 +661,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 4, 7, 7, 7, 7, 7, 8, 9]
+    line [0, 0, 0, 0, 0, 4, 7, 7, 7, 7, 7, 8, 9, 9]
   ```
 
   </details>
@@ -678,9 +678,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9, 9]
   ```
 
   </details>
@@ -695,9 +695,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [69, 69, 70, 70, 70, 70, 72, 72, 72, 72, 72, 75, 76]
+    line [69, 69, 70, 70, 70, 70, 72, 72, 72, 72, 72, 75, 76, 76]
   ```
 
   </details>
@@ -712,9 +712,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [24, 24, 24, 24, 24, 29, 32, 32, 32, 32, 32, 32, 32]
+    line [24, 24, 24, 24, 24, 29, 32, 32, 32, 32, 32, 32, 32, 32]
   ```
 
   </details>
@@ -729,9 +729,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 6, 6, 8, 8]
+    line [0, 0, 0, 0, 0, 0, 5, 5, 5, 6, 6, 8, 8, 8]
   ```
 
   </details>
@@ -746,9 +746,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [449, 453, 454, 454, 454, 454, 454, 454, 454, 455, 455, 455, 456]
+    line [449, 453, 454, 454, 454, 454, 454, 454, 454, 455, 455, 455, 456, 456]
   ```
 
   </details>
@@ -763,9 +763,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [263, 263, 263, 264, 267, 267, 267, 268, 269, 269, 270, 270, 270]
+    line [263, 263, 263, 264, 267, 267, 267, 268, 269, 269, 270, 270, 270, 270]
   ```
 
   </details>
@@ -780,9 +780,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [164, 165, 165, 169, 170, 171, 171, 171, 171, 171, 171, 171, 171]
+    line [164, 165, 165, 169, 170, 171, 171, 171, 171, 171, 171, 171, 171, 171]
   ```
 
   </details>
@@ -797,9 +797,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [79, 79, 80, 80, 85, 85, 86, 86, 86, 86, 86, 86, 86]
+    line [79, 79, 80, 80, 85, 85, 86, 86, 86, 86, 86, 86, 86, 86]
   ```
 
   </details>
@@ -814,9 +814,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [62, 62, 62, 62, 62, 62, 63, 63, 63, 63, 64, 64, 64]
+    line [62, 62, 62, 62, 62, 62, 63, 63, 63, 63, 64, 64, 64, 64]
   ```
 
   </details>
@@ -831,9 +831,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [35, 35, 35, 35, 40, 40, 41, 41, 41, 41, 42, 42, 42]
+    line [35, 35, 35, 35, 40, 40, 41, 41, 41, 41, 42, 42, 42, 42]
   ```
 
   </details>
@@ -848,9 +848,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+    line [0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -865,9 +865,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [225, 225, 225, 225, 225, 227, 227, 227, 227, 227, 227, 228, 229]
+    line [225, 225, 225, 225, 225, 227, 227, 227, 227, 227, 227, 228, 229, 229]
   ```
 
   </details>
@@ -882,9 +882,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [154, 154, 154, 155, 155, 155, 156, 158, 158, 158, 158, 158, 158]
+    line [154, 154, 154, 155, 155, 155, 156, 158, 158, 158, 158, 158, 158, 158]
   ```
 
   </details>
@@ -899,9 +899,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [70, 72, 72, 73, 74, 74, 76, 76, 76, 76, 76, 76, 76]
+    line [70, 72, 72, 73, 74, 74, 76, 76, 76, 76, 76, 76, 76, 76]
   ```
 
   </details>
@@ -916,9 +916,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [45, 45, 46, 46, 46, 46, 47, 50, 51, 51, 51, 51, 51]
+    line [45, 45, 46, 46, 46, 46, 47, 50, 51, 51, 51, 51, 51, 51]
   ```
 
   </details>
@@ -933,9 +933,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [36, 36, 38, 38, 38, 39, 39, 40, 40, 41, 41, 41, 42]
+    line [36, 36, 38, 38, 38, 39, 39, 40, 40, 41, 41, 41, 42, 42]
   ```
 
   </details>
@@ -950,9 +950,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [32, 32, 32, 32, 32, 32, 32, 32, 32, 37, 38, 38, 38]
+    line [32, 32, 32, 32, 32, 32, 32, 32, 32, 37, 38, 38, 38, 38]
   ```
 
   </details>
@@ -967,9 +967,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -984,9 +984,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [560, 561, 562, 563, 563, 563, 563, 563, 564, 564, 564, 564, 564]
+    line [560, 561, 562, 563, 563, 563, 563, 563, 564, 564, 564, 564, 564, 564]
   ```
 
   </details>
@@ -1001,9 +1001,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [284, 284, 284, 284, 284, 284, 284, 285, 285, 285, 287, 287, 288]
+    line [284, 284, 284, 284, 284, 284, 284, 285, 285, 285, 287, 287, 288, 288]
   ```
 
   </details>
@@ -1018,9 +1018,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [273, 273, 273, 273, 274, 274, 274, 274, 274, 274, 274, 274, 278]
+    line [273, 273, 273, 273, 274, 274, 274, 274, 274, 274, 274, 274, 278, 278]
   ```
 
   </details>
@@ -1035,9 +1035,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [95, 95, 95, 95, 96, 96, 100, 100, 100, 100, 100, 100, 100]
+    line [95, 95, 95, 95, 96, 96, 100, 100, 100, 100, 100, 100, 100, 100]
   ```
 
   </details>
@@ -1052,9 +1052,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [46, 46, 46, 46, 46, 47, 49, 49, 49, 50, 51, 51, 51]
+    line [46, 46, 46, 46, 46, 47, 49, 49, 49, 50, 51, 51, 51, 51]
   ```
 
   </details>
@@ -1069,9 +1069,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [19, 19, 21, 21, 21, 24, 24, 24, 24, 24, 24, 24, 24]
+    line [19, 19, 21, 21, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1086,9 +1086,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [19, 19, 19, 20, 20, 20, 20, 20, 22, 23, 24, 24, 24]
+    line [19, 19, 19, 20, 20, 20, 20, 20, 22, 23, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1103,9 +1103,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [6, 6, 6, 6, 6, 6, 6, 7, 8, 10, 10, 11, 11]
+    line [6, 6, 6, 6, 6, 6, 6, 7, 8, 10, 10, 11, 11, 11]
   ```
 
   </details>
@@ -1120,9 +1120,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
   ```
 
   </details>
@@ -1137,9 +1137,9 @@ Allow both optional positional and optional named arguments in the same function
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13]
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
