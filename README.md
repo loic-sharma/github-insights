@@ -20,7 +20,7 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 258 | [14](#flutter-flutter-142845-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 38 | [14](#flutter-flutter-173940-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 14 | [14](#flutter-flutter-186825-graph)
-[Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 41 | [13](#flutter-flutter-184093-graph)
+[dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 14 | [14](#dart-lang-language-4726-graph)
 
 ## Trending issues by team
 
@@ -102,8 +102,8 @@ Password manager autofill does not work on web [flutter/flutter#174773](https://
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
-TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
+TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 1
@@ -311,7 +311,7 @@ Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lan
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 13 | [13](#dart-lang-language-4726-graph)
+[dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 14 | [14](#dart-lang-language-4726-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 434 | [10](#dart-lang-language-356-graph)
 [dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 9 | [9](#dart-lang-language-4696-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
@@ -567,6 +567,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
+<a name="dart-lang-language-4726-graph"></a>
+### [dart 4.0] Remove support for `new` in constructor invocations
+  <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 14]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-184093-graph"></a>
 ### [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages
   <sub>[flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) &mdash; 41 total reactions, 13 recent reactions</sub><br />
@@ -579,23 +596,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
     line [30, 33, 33, 33, 34, 35, 36, 36, 38, 41, 41, 41, 41, 41]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4726-graph"></a>
-### [dart 4.0] Remove support for `new` in constructor invocations
-  <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 13]
   ```
 
   </details>
