@@ -64,11 +64,11 @@ DropdownMenu is very slow when using large lists [flutter/flutter#132945](https:
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 129 | 2
 Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter/issues/31728) | 76 | 2
 ☂️ Relocation: Establish new material and cupertino packages in flutter/packages [flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) | 33 | 2
+Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) | 19 | 2
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 313 | 1
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 104 | 1
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 96 | 1
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 76 | 1
-InkWell and InkResponse not close enough to the real thing [flutter/flutter#20922](https://github.com/flutter/flutter/issues/20922) | 56 | 1
 
 #### Cupertino
 
@@ -103,8 +103,8 @@ Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [f
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
-TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
+TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 135 | 1
@@ -137,8 +137,8 @@ Issue | Total reactions | Recent reactions
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 84 | 2
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 57 | 2
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 2
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 2
 Flutter test doesn't report the failing tests in the summary [flutter/flutter#102387](https://github.com/flutter/flutter/issues/102387) | 27 | 2
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 2
 Enable hot restart on profile mode [flutter/flutter#37987](https://github.com/flutter/flutter/issues/37987) | 30 | 1
 Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 21 | 1
