@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-04-20 to 2026-07-22.
+Issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-framework` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ListView: Poor performance with many variable-extent items + jumpTo (scroll bar,
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-design` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ InkWell and InkResponse not close enough to the real thing [flutter/flutter#2092
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`f: cupertino` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 692 | [26](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 18 | [5](#flutter-flutter-174773-graph)
@@ -114,7 +114,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-accessibility` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-go_router` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-tool` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-engine` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 257 | [13](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flu
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-ios` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-android` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-web` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`team-ecosystem` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`dart-lang/sdk` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lan
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-04-20 to 2026-07-22.
+`dart-lang/language` issues that received the most reactions from 2026-04-20 to 2026-07-23.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
