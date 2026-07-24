@@ -13,10 +13,10 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 267 | [22](#flutter-flutter-65504-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 34 | [21](#flutter-flutter-162196-graph)
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
-[GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 17 | [17](#flutter-flutter-186804-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1018 | [16](#flutter-flutter-101479-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 96 | [15](#dart-lang-sdk-56841-graph)
+[GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 97 | [16](#dart-lang-sdk-56841-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1017 | [15](#flutter-flutter-101479-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 15 | [15](#flutter-flutter-186825-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 258 | [14](#flutter-flutter-142845-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 38 | [14](#flutter-flutter-173940-graph)
@@ -56,11 +56,11 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 804 | [42](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 692 | [26](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1018 | [16](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1017 | [15](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 41 | [13](#flutter-flutter-184093-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 159 | [7](#flutter-flutter-102560-graph)
-DropdownMenu is very slow when using large lists [flutter/flutter#132945](https://github.com/flutter/flutter/issues/132945) | 20 | 4
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 18 | 4
+DropdownMenu is very slow when using large lists [flutter/flutter#132945](https://github.com/flutter/flutter/issues/132945) | 19 | 3
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 129 | 2
 Expanded hitTest area [flutter/flutter#31728](https://github.com/flutter/flutter/issues/31728) | 76 | 2
 ☂️ Relocation: Establish new material and cupertino packages in flutter/packages [flutter/flutter#172932](https://github.com/flutter/flutter/issues/172932) | 33 | 2
@@ -76,7 +76,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 692 | [26](#flutter-flutter-170310-graph)
-☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1018 | [16](#flutter-flutter-101479-graph)
+☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1017 | [15](#flutter-flutter-101479-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 41 | [13](#flutter-flutter-184093-graph)
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 129 | 2
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
@@ -88,8 +88,8 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
@@ -134,7 +134,6 @@ Issue | Total reactions | Recent reactions
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 84 | 2
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 57 | 2
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 2
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 2
@@ -149,6 +148,7 @@ Support different dependencies when using flavors [flutter/flutter#46979](https:
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
+Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 89 | 0
 
 ### Engine
 
@@ -168,8 +168,8 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 55 | 2
  Add the ability to use C# and .NET libraries in flutter cross Platform. [flutter/flutter#74720](https://github.com/flutter/flutter/issues/74720) | 41 | 2
 Support woff2 font [flutter/flutter#109108](https://github.com/flutter/flutter/issues/109108) | 25 | 2
-Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2039 | 1
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 355 | 1
+Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 198 | 1
 
 ### Platforms
 
@@ -226,11 +226,10 @@ Issue | Total reactions | Recent reactions
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [42](#flutter-flutter-172561-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 15 | [15](#flutter-flutter-186825-graph)
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 18 | [5](#flutter-flutter-174773-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 887 | 4
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 112 | 4
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 90 | 4
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 111 | 3
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 26 | 3
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 212 | 2
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 885 | 2
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 116 | 2
 Support Safari as a browser in flutter run [flutter/flutter#55323](https://github.com/flutter/flutter/issues/55323) | 52 | 2
 [web][PWA] SafeArea Widget does not work on iOS Safari PWA [flutter/flutter#84833](https://github.com/flutter/flutter/issues/84833) | 49 | 2
@@ -238,6 +237,7 @@ Support Safari as a browser in flutter run [flutter/flutter#55323](https://githu
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
+[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 346 | 1
 
 #### Desktop
 
@@ -251,8 +251,8 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 252 | 2
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 149 | 2
 [webview_flutter] Add Linux support [flutter/flutter#41726](https://github.com/flutter/flutter/issues/41726) | 134 | 2
-Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
 Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
+Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 490 | 1
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 349 | 1
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 228 | 1
@@ -270,11 +270,10 @@ Issue | Total reactions | Recent reactions
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [42](#flutter-flutter-172561-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 15 | [15](#flutter-flutter-186825-graph)
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 18 | [5](#flutter-flutter-174773-graph)
-Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 887 | 4
-[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 112 | 4
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 90 | 4
+[WEB] Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 111 | 3
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 26 | 3
-[web] Scroll is not recognized by the browser [flutter/flutter#69529](https://github.com/flutter/flutter/issues/69529) | 212 | 2
+Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 885 | 2
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 116 | 2
 Support Safari as a browser in flutter run [flutter/flutter#55323](https://github.com/flutter/flutter/issues/55323) | 52 | 2
 [web][PWA] SafeArea Widget does not work on iOS Safari PWA [flutter/flutter#84833](https://github.com/flutter/flutter/issues/84833) | 49 | 2
@@ -282,6 +281,7 @@ Support Safari as a browser in flutter run [flutter/flutter#55323](https://githu
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 19 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
+[web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 346 | 1
 
 ### Dart SDK
 
@@ -290,7 +290,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
-Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 96 | [15](#dart-lang-sdk-56841-graph)
+Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 97 | [16](#dart-lang-sdk-56841-graph)
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 26 | [11](#dart-lang-sdk-56366-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 77 | [9](#dart-lang-sdk-61957-graph)
 analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns) [dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) | 9 | [9](#dart-lang-sdk-63538-graph)
@@ -321,11 +321,11 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 288 | [5](#dart-lang-language-2364-graph)
 Terminating Tokens [dart-lang/language#72](https://github.com/dart-lang/language/issues/72) | 278 | [5](#dart-lang-language-72-graph)
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 24 | [5](#dart-lang-language-4383-graph)
-Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2312 | 4
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1240 | 4
 Support method/function overloads [dart-lang/language#1122](https://github.com/dart-lang/language/issues/1122) | 366 | 4
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 284 | 4
 Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 216 | 4
+Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 252 | 3
 
 ## Graphs
 
@@ -448,23 +448,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="flutter-flutter-188877-graph"></a>
-### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
-  <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-186804-graph"></a>
 ### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
   <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -482,9 +465,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="flutter-flutter-101479-graph"></a>
-### ☂️ Move the material and cupertino packages outside of Flutter
-  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1018 total reactions, 16 recent reactions</sub><br />
+<a name="flutter-flutter-188877-graph"></a>
+### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
+  <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 17 total reactions, 17 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -492,8 +475,8 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   ```mermaid
   xychart-beta
     x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
-    y-axis "Reactions"
-    line [1003, 1010, 1011, 1011, 1011, 1015, 1014, 1014, 1017, 1017, 1018, 1018, 1018, 1018]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17, 17]
   ```
 
   </details>
@@ -501,7 +484,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
 <a name="dart-lang-sdk-56841-graph"></a>
 ### Implement shared native memory multithreading
-  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 96 total reactions, 15 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) &mdash; 97 total reactions, 16 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -510,7 +493,24 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   xychart-beta
     x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions"
-    line [81, 81, 81, 81, 81, 81, 91, 94, 94, 94, 95, 95, 96, 96]
+    line [81, 81, 81, 81, 81, 81, 91, 94, 94, 94, 95, 95, 96, 97]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-101479-graph"></a>
+### ☂️ Move the material and cupertino packages outside of Flutter
+  <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1017 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
+    y-axis "Reactions"
+    line [1003, 1010, 1011, 1011, 1011, 1015, 1014, 1014, 1017, 1017, 1018, 1018, 1018, 1017]
   ```
 
   </details>
@@ -669,23 +669,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-63538-graph"></a>
-### analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns)
-  <sub>[dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4696-graph"></a>
 ### [dart-4.0] Language spec on the website
   <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -698,6 +681,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 4, 7, 7, 7, 7, 7, 8, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63538-graph"></a>
+### analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns)
+  <sub>[dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 20, Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9, 9]
   ```
 
   </details>
