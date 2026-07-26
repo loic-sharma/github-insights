@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-04-27 to 2026-07-25.
+Issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,16 +28,16 @@ AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/is
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-framework` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 267 | [22](#flutter-flutter-65504-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 258 | [12](#flutter-flutter-142845-graph)
+Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 713 | [5](#flutter-flutter-30701-graph)
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 100 | [5](#flutter-flutter-102003-graph)
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 76 | [5](#flutter-flutter-81005-graph)
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 51 | [5](#flutter-flutter-138940-graph)
-Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 712 | 4
 Move Listenable, ValueListenable to a Dart package [flutter/flutter#171101](https://github.com/flutter/flutter/issues/171101) | 29 | 4
 Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [flutter/flutter#179482](https://github.com/flutter/flutter/issues/179482) | 19 | 4
 Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 170 | 3
@@ -50,7 +50,7 @@ ListView: Poor performance with many variable-extent items + jumpTo (scroll bar,
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-design` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`f: cupertino` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 692 | [25](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 18 | [5](#flutter-flutter-174773-graph)
@@ -114,7 +114,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-accessibility` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-go_router` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-tool` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-engine` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 257 | [13](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-ios` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-android` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-web` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`team-ecosystem` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`dart-lang/sdk` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -301,13 +301,13 @@ Support creating files and sockets from file descriptors [dart-lang/sdk#46196](h
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 25 | [6](#dart-lang-sdk-61822-graph)
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 [hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 11 | [5](#dart-lang-sdk-56512-graph)
-Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 5 | [5](#dart-lang-sdk-63700-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 5 | [5](#dart-lang-sdk-63292-graph)
+Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 5 | [5](#dart-lang-sdk-63700-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 229 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-04-27 to 2026-07-25.
+`dart-lang/language` issues that received the most reactions from 2026-04-27 to 2026-07-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -635,23 +635,6 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
   </details>
   </sub>
 
-<a name="dart-lang-language-4696-graph"></a>
-### [dart-4.0] Language spec on the website
-  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 4, 7, 7, 7, 7, 7, 8, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63538-graph"></a>
 ### analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns)
   <sub>[dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -664,6 +647,23 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
     x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4696-graph"></a>
+### [dart-4.0] Language spec on the website
+  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 4, 7, 7, 7, 7, 7, 8, 9, 9]
   ```
 
   </details>
@@ -924,6 +924,23 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
   </details>
   </sub>
 
+<a name="flutter-flutter-30701-graph"></a>
+### Support multiple windows for desktop shells
+  <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 713 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
+    y-axis "Reactions"
+    line [708, 708, 712, 712, 712, 712, 712, 712, 712, 712, 712, 712, 713]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-72-graph"></a>
 ### Terminating Tokens
   <sub>[dart-lang/language#72](https://github.com/dart-lang/language/issues/72) &mdash; 278 total reactions, 5 recent reactions</sub><br />
@@ -1060,23 +1077,6 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
   </details>
   </sub>
 
-<a name="dart-lang-sdk-63700-graph"></a>
-### Deprecate and remove `HashMap`
-  <sub>[dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63292-graph"></a>
 ### [analysis_server_plugin] Extremely slow
   <sub>[dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1089,6 +1089,23 @@ Remove dynamic type [dart-lang/language#3192](https://github.com/dart-lang/langu
     x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63700-graph"></a>
+### Deprecate and remove `HashMap`
+  <sub>[dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5]
   ```
 
   </details>
