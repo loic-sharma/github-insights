@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-04-27 to 2026-07-29.
+Issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-framework` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ListView: Poor performance with many variable-extent items + jumpTo (scroll bar,
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-design` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://g
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`f: cupertino` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 693 | [26](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 18 | [5](#flutter-flutter-174773-graph)
@@ -114,7 +114,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-accessibility` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-go_router` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-tool` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,12 +152,12 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-engine` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 257 | [13](#flutter-flutter-61229-graph)
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 456 | [7](#flutter-flutter-66618-graph)
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 51 | [6](#flutter-flutter-174980-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 52 | [7](#flutter-flutter-174980-graph)
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 564 | 4
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 101 | 4
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 351 | 2
@@ -175,7 +175,7 @@ Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-ios` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-android` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Documentation request: deep linking and Android launchMode [flutter/flutter#1109
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-web` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`team-ecosystem` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Autofill on web is only activated after clicking twice on the TextField [flutter
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`dart-lang/sdk` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-04-27 to 2026-07-29.
+`dart-lang/language` issues that received the most reactions from 2026-04-27 to 2026-07-30.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -822,6 +822,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="flutter-flutter-174980-graph"></a>
+### [wimp] Impeller for web ☂️ 
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 52 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    y-axis "Reactions"
+    line [45, 46, 46, 46, 46, 47, 50, 51, 51, 51, 51, 51, 51, 52]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-54003-graph"></a>
 ### Data assets feature
   <sub>[dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) &mdash; 42 total reactions, 7 recent reactions</sub><br />
@@ -868,23 +885,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
     y-axis "Reactions" 0 --> 20
     line [0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174980-graph"></a>
-### [wimp] Impeller for web ☂️ 
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 51 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Apr 27, May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
-    y-axis "Reactions"
-    line [45, 46, 46, 46, 46, 47, 50, 51, 51, 51, 51, 51, 51, 51]
   ```
 
   </details>
