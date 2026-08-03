@@ -137,8 +137,8 @@ Issue | Total reactions | Recent reactions
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 57 | 2
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 2
 Enable hot restart on profile mode [flutter/flutter#37987](https://github.com/flutter/flutter/issues/37987) | 30 | 1
-Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 1
+Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 26 | 1
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 21 | 1
 Offline mode needs to be extended to all flutter commands [flutter/flutter#22429](https://github.com/flutter/flutter/issues/22429) | 18 | 1
@@ -215,7 +215,7 @@ Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error whe
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 1
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 1
 [camera] startVideoRecording/stopVideoRecording() freezes the UI  [flutter/flutter#57451](https://github.com/flutter/flutter/issues/57451) | 51 | 1
-Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 45 | 1
+App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 45 | 1
 
 #### Web
 
@@ -251,8 +251,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 252 | 2
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 149 | 2
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 78 | 2
-Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
+Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 673 | 1
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 349 | 1
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 228 | 1
@@ -299,11 +299,11 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 42 | [7](#dart-lang-sdk-54003-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 39 | [7](#dart-lang-sdk-46196-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
-Code actions (e.g. find references/rename/method extract) break when a dot shorthand member has the same name as a local variable [dart-lang/sdk#63944](https://github.com/dart-lang/sdk/issues/63944) | 7 | [7](#dart-lang-sdk-63944-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 25 | [6](#dart-lang-sdk-61822-graph)
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 [hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 11 | [5](#dart-lang-sdk-56512-graph)
 Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 5 | [5](#dart-lang-sdk-63700-graph)
+Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 86 | 4
 
 ### Dart language
 
@@ -868,23 +868,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
     line [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-63944-graph"></a>
-### Code actions (e.g. find references/rename/method extract) break when a dot shorthand member has the same name as a local variable
-  <sub>[dart-lang/sdk#63944](https://github.com/dart-lang/sdk/issues/63944) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 7]
   ```
 
   </details>
