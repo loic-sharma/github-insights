@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-05-04 to 2026-08-02.
+Issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-framework` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-design` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`f: cupertino` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 694 | [25](#flutter-flutter-170310-graph)
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 18 | [5](#flutter-flutter-174773-graph)
@@ -102,8 +102,8 @@ Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [f
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
-TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
 Autofill on web is only activated after clicking twice on the TextField [flutter/flutter#66356](https://github.com/flutter/flutter/issues/66356) | 17 | 2
+TextField should support typing accented words with external keyboard [flutter/flutter#59541](https://github.com/flutter/flutter/issues/59541) | 17 | 2
 [web] - Password managers can't autofill until after focusing on inputs due to lazy-loaded inputs [flutter/flutter#127694](https://github.com/flutter/flutter/issues/127694) | 16 | 2
 Add a way to detect keyboard language [flutter/flutter#25841](https://github.com/flutter/flutter/issues/25841) | 183 | 1
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 135 | 1
@@ -114,7 +114,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-accessibility` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-go_router` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-tool` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-engine` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 257 | [13](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-ios` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-android` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -215,11 +215,11 @@ Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error whe
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 77 | 1
 "Lost connection to device" randomly when not doing anything in particular [flutter/flutter#9707](https://github.com/flutter/flutter/issues/9707) | 69 | 1
 [camera] startVideoRecording/stopVideoRecording() freezes the UI  [flutter/flutter#57451](https://github.com/flutter/flutter/issues/57451) | 51 | 1
-App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 45 | 1
+Documentation request: deep linking and Android launchMode [flutter/flutter#110928](https://github.com/flutter/flutter/issues/110928) | 45 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-web` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`team-ecosystem` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`dart-lang/sdk` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -295,10 +295,10 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 78 | [9](#dart-lang-sdk-61957-graph)
 analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns) [dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) | 9 | [9](#dart-lang-sdk-63538-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 87 | [8](#dart-lang-sdk-53884-graph)
+Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 232 | [7](#dart-lang-sdk-55281-graph)
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 42 | [7](#dart-lang-sdk-54003-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 39 | [7](#dart-lang-sdk-46196-graph)
 [analyzer] CollectionElement no longer possible to be exhausted in switches [dart-lang/sdk#63313](https://github.com/dart-lang/sdk/issues/63313) | 7 | [7](#dart-lang-sdk-63313-graph)
-Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 231 | [6](#dart-lang-sdk-55281-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 25 | [6](#dart-lang-sdk-61822-graph)
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 [hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 11 | [5](#dart-lang-sdk-56512-graph)
@@ -307,7 +307,7 @@ Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sd
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-05-04 to 2026-08-02.
+`dart-lang/language` issues that received the most reactions from 2026-05-04 to 2026-08-03.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -338,9 +338,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [765, 767, 769, 771, 775, 785, 787, 790, 792, 801, 802, 806, 806]
+    line [765, 767, 769, 771, 775, 785, 787, 790, 792, 801, 802, 806, 806, 806]
   ```
 
   </details>
@@ -355,9 +355,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [122, 122, 123, 123, 123, 123, 125, 163, 164, 164, 164, 164, 164]
+    line [122, 122, 123, 123, 123, 123, 125, 163, 164, 164, 164, 164, 164, 164]
   ```
 
   </details>
@@ -372,9 +372,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [41, 41, 42, 42, 43, 72, 72, 73, 74, 74, 75, 75, 75]
+    line [41, 41, 42, 42, 43, 72, 72, 73, 74, 74, 75, 75, 75, 75]
   ```
 
   </details>
@@ -389,9 +389,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [670, 671, 672, 674, 675, 678, 680, 681, 683, 692, 692, 692, 694]
+    line [670, 671, 672, 674, 675, 678, 680, 681, 683, 692, 692, 692, 694, 694]
   ```
 
   </details>
@@ -406,9 +406,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [245, 255, 257, 259, 259, 261, 262, 262, 262, 266, 267, 267, 268]
+    line [245, 255, 257, 259, 259, 261, 262, 262, 262, 266, 267, 267, 268, 268]
   ```
 
   </details>
@@ -423,9 +423,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [14, 14, 16, 18, 18, 20, 23, 25, 29, 32, 33, 34, 36]
+    line [14, 14, 16, 18, 18, 20, 23, 25, 29, 32, 33, 34, 36, 36]
   ```
 
   </details>
@@ -440,9 +440,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 15, 17, 17, 20]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 15, 17, 17, 20, 20]
   ```
 
   </details>
@@ -457,9 +457,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 5, 8, 11, 15, 17, 17, 17, 17, 18, 18, 18]
+    line [0, 0, 5, 8, 11, 15, 17, 17, 17, 17, 18, 18, 18, 18]
   ```
 
   </details>
@@ -474,9 +474,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17, 17, 17]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17, 17, 17, 17]
   ```
 
   </details>
@@ -491,9 +491,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [81, 81, 81, 81, 91, 94, 94, 94, 95, 95, 96, 97, 97]
+    line [81, 81, 81, 81, 91, 94, 94, 94, 95, 95, 96, 97, 97, 97]
   ```
 
   </details>
@@ -508,9 +508,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 16, 16]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 16, 16, 16]
   ```
 
   </details>
@@ -525,9 +525,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 14, 15, 15]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 13, 14, 15, 15, 15]
   ```
 
   </details>
@@ -542,9 +542,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [246, 248, 249, 249, 256, 256, 256, 257, 257, 257, 257, 259, 259]
+    line [246, 248, 249, 249, 256, 256, 256, 257, 257, 257, 257, 259, 259, 259]
   ```
 
   </details>
@@ -559,9 +559,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [244, 244, 244, 248, 250, 251, 252, 255, 255, 256, 256, 257, 257]
+    line [244, 244, 244, 248, 250, 251, 252, 255, 255, 256, 256, 257, 257, 257]
   ```
 
   </details>
@@ -576,9 +576,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [25, 26, 28, 28, 29, 31, 35, 35, 36, 36, 37, 38, 38]
+    line [25, 26, 28, 28, 29, 31, 35, 35, 36, 36, 37, 38, 38, 38]
   ```
 
   </details>
@@ -593,9 +593,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [33, 33, 34, 35, 36, 36, 38, 41, 41, 41, 41, 41, 45]
+    line [33, 33, 34, 35, 36, 36, 38, 41, 41, 41, 41, 41, 45, 45]
   ```
 
   </details>
@@ -610,9 +610,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [708, 712, 712, 712, 712, 712, 712, 712, 712, 712, 712, 713, 719]
+    line [708, 712, 712, 712, 712, 712, 712, 712, 712, 712, 712, 713, 719, 719]
   ```
 
   </details>
@@ -627,9 +627,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [425, 425, 425, 425, 426, 426, 426, 429, 429, 434, 434, 434, 436]
+    line [425, 425, 425, 425, 426, 426, 426, 429, 429, 434, 434, 434, 436, 436]
   ```
 
   </details>
@@ -644,9 +644,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 26, 26, 26]
+    line [16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 26, 26, 26, 26]
   ```
 
   </details>
@@ -661,9 +661,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 4, 7, 7, 7, 7, 7, 8, 9, 11, 11]
+    line [0, 0, 0, 4, 7, 7, 7, 7, 7, 8, 9, 11, 11, 11]
   ```
 
   </details>
@@ -678,9 +678,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [70, 70, 70, 70, 72, 72, 72, 72, 72, 75, 76, 77, 78]
+    line [70, 70, 70, 70, 72, 72, 72, 72, 72, 75, 76, 77, 78, 78]
   ```
 
   </details>
@@ -695,9 +695,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 5, 5, 5, 6, 6, 8, 8, 9, 9]
+    line [0, 0, 0, 0, 5, 5, 5, 6, 6, 8, 8, 9, 9, 9]
   ```
 
   </details>
@@ -712,9 +712,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9, 9, 9]
+    line [0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9, 9, 9, 9]
   ```
 
   </details>
@@ -729,9 +729,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [263, 264, 267, 267, 267, 268, 269, 269, 270, 270, 270, 271, 271]
+    line [263, 264, 267, 267, 267, 268, 269, 269, 270, 270, 270, 271, 271, 271]
   ```
 
   </details>
@@ -746,9 +746,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [80, 80, 85, 85, 86, 86, 86, 86, 86, 86, 86, 86, 87]
+    line [80, 80, 85, 85, 86, 86, 86, 86, 86, 86, 86, 86, 87, 87]
   ```
 
   </details>
@@ -763,9 +763,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [46, 46, 46, 46, 47, 50, 51, 51, 51, 51, 51, 51, 53]
+    line [46, 46, 46, 46, 47, 50, 51, 51, 51, 51, 51, 51, 53, 53]
   ```
 
   </details>
@@ -780,9 +780,26 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [24, 24, 24, 29, 32, 32, 32, 32, 32, 32, 32, 32, 32]
+    line [24, 24, 24, 29, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-55281-graph"></a>
+### Dart Analyzer very slow/stuck
+  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 232 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
+    y-axis "Reactions"
+    line [225, 225, 225, 227, 227, 227, 227, 227, 227, 228, 229, 229, 231, 232]
   ```
 
   </details>
@@ -797,9 +814,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [165, 169, 170, 171, 171, 171, 171, 171, 171, 171, 171, 172, 172]
+    line [165, 169, 170, 171, 171, 171, 171, 171, 171, 171, 171, 172, 172, 172]
   ```
 
   </details>
@@ -814,9 +831,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [35, 35, 40, 40, 41, 41, 41, 41, 42, 42, 42, 42, 42]
+    line [35, 35, 40, 40, 41, 41, 41, 41, 42, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -831,9 +848,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [32, 32, 32, 32, 32, 32, 32, 37, 38, 38, 38, 39, 39]
+    line [32, 32, 32, 32, 32, 32, 32, 37, 38, 38, 38, 39, 39, 39]
   ```
 
   </details>
@@ -848,9 +865,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+    line [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -865,26 +882,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [1011, 1011, 1011, 1015, 1014, 1014, 1017, 1017, 1018, 1018, 1018, 1017, 1017]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-55281-graph"></a>
-### Dart Analyzer very slow/stuck
-  <sub>[dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) &mdash; 231 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
-    y-axis "Reactions"
-    line [225, 225, 225, 227, 227, 227, 227, 227, 227, 228, 229, 229, 231]
+    line [1011, 1011, 1011, 1015, 1014, 1014, 1017, 1017, 1018, 1018, 1018, 1017, 1017, 1017]
   ```
 
   </details>
@@ -899,9 +899,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [38, 38, 38, 39, 39, 40, 40, 41, 41, 41, 42, 42, 42]
+    line [38, 38, 38, 39, 39, 40, 40, 41, 41, 41, 42, 42, 42, 42]
   ```
 
   </details>
@@ -916,9 +916,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [19, 20, 20, 20, 20, 20, 22, 23, 24, 24, 24, 25, 25]
+    line [19, 20, 20, 20, 20, 20, 22, 23, 24, 24, 24, 25, 25, 25]
   ```
 
   </details>
@@ -933,9 +933,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [0, 0, 0, 0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -950,9 +950,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [273, 273, 274, 274, 274, 274, 274, 274, 274, 274, 278, 278, 278]
+    line [273, 273, 274, 274, 274, 274, 274, 274, 274, 274, 278, 278, 278, 278]
   ```
 
   </details>
@@ -967,9 +967,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [154, 155, 155, 155, 156, 158, 158, 158, 158, 158, 158, 159, 159]
+    line [154, 155, 155, 155, 156, 158, 158, 158, 158, 158, 158, 159, 159, 159]
   ```
 
   </details>
@@ -984,9 +984,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [95, 95, 96, 96, 100, 100, 100, 100, 100, 100, 100, 100, 100]
+    line [95, 95, 96, 96, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100]
   ```
 
   </details>
@@ -1001,9 +1001,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [46, 46, 46, 47, 49, 49, 49, 50, 51, 51, 51, 51, 51]
+    line [46, 46, 46, 47, 49, 49, 49, 50, 51, 51, 51, 51, 51, 51]
   ```
 
   </details>
@@ -1018,9 +1018,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [21, 21, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
+    line [21, 21, 21, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -1035,9 +1035,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 13, 14, 15, 15, 15, 15, 15, 17, 18, 18]
+    line [0, 0, 0, 13, 14, 15, 15, 15, 15, 15, 17, 18, 18, 18]
   ```
 
   </details>
@@ -1052,9 +1052,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [6, 6, 6, 6, 6, 7, 8, 10, 10, 11, 11, 11, 11]
+    line [6, 6, 6, 6, 6, 7, 8, 10, 10, 11, 11, 11, 11, 11]
   ```
 
   </details>
@@ -1069,9 +1069,9 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27]
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5]
   ```
 
   </details>
