@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-05-04 to 2026-08-05.
+Issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -18,8 +18,8 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 97 | [16](#dart-lang-sdk-56841-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 16 | [16](#dart-lang-language-4726-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 15 | [15](#flutter-flutter-186825-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 258 | [14](#flutter-flutter-61229-graph)
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 259 | [13](#flutter-flutter-142845-graph)
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 257 | [13](#flutter-flutter-61229-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 38 | [13](#flutter-flutter-173940-graph)
 
 ## Trending issues by team
@@ -28,7 +28,7 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-framework` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-design` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`f: cupertino` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 694 | [25](#flutter-flutter-170310-graph)
@@ -88,12 +88,12 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 19 | [6](#flutter-flutter-174773-graph)
@@ -114,7 +114,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-accessibility` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-go_router` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-tool` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,10 +152,10 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-engine` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 257 | [13](#flutter-flutter-61229-graph)
+AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 258 | [14](#flutter-flutter-61229-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 53 | [8](#flutter-flutter-174980-graph)
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 101 | 4
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 564 | 3
@@ -175,7 +175,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-ios` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-android` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -207,8 +207,8 @@ remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatA
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 3
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 102 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 60 | 2
-App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 46 | 2
 Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error when using `flutter run` [flutter/flutter#38965](https://github.com/flutter/flutter/issues/38965) | 46 | 2
+App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 46 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
 [video_player] on [android] issue with seekTo [flutter/flutter#171583](https://github.com/flutter/flutter/issues/171583) | 21 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
@@ -219,7 +219,7 @@ Use the default NDK version from AGP [flutter/flutter#139427](https://github.com
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-web` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`team-ecosystem` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`dart-lang/sdk` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sd
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-05-04 to 2026-08-05.
+`dart-lang/language` issues that received the most reactions from 2026-05-04 to 2026-08-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -533,6 +533,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
+<a name="flutter-flutter-61229-graph"></a>
+### AVIF codec support
+  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 258 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
+    y-axis "Reactions"
+    line [244, 244, 244, 248, 250, 251, 252, 255, 255, 256, 256, 257, 257, 258]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-142845-graph"></a>
 ### ☂️ Multi View for Windows/MacOS
   <sub>[flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) &mdash; 259 total reactions, 13 recent reactions</sub><br />
@@ -545,23 +562,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
     line [246, 248, 249, 249, 256, 256, 256, 257, 257, 257, 257, 259, 259, 259]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-61229-graph"></a>
-### AVIF codec support
-  <sub>[flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) &mdash; 257 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
-    y-axis "Reactions"
-    line [244, 244, 244, 248, 250, 251, 252, 255, 255, 256, 256, 257, 257, 257]
   ```
 
   </details>
