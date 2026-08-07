@@ -14,8 +14,8 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 36 | [23](#flutter-flutter-162196-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 20 | [20](#flutter-flutter-186804-graph)
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
-[GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 17 | [17](#dart-lang-language-4726-graph)
+[GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 97 | [16](#dart-lang-sdk-56841-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 15 | [15](#flutter-flutter-186825-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 258 | [14](#flutter-flutter-61229-graph)
@@ -88,8 +88,8 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
+Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
 
 #### Text input
 
@@ -251,8 +251,8 @@ Implement PlatformView support on Windows [flutter/flutter#31713](https://github
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 252 | 2
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 149 | 2
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 78 | 2
-Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
+Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 21 | 2
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 673 | 1
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 349 | 1
@@ -323,9 +323,9 @@ Terminating Tokens [dart-lang/language#72](https://github.com/dart-lang/language
 Feature request: `defer` statement [dart-lang/language#4383](https://github.com/dart-lang/language/issues/4383) | 24 | [5](#dart-lang-language-4383-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 288 | 4
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 284 | 4
+Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 103 | 4
 Discontinue old-style typedef. [dart-lang/language#2517](https://github.com/dart-lang/language/issues/2517) | 22 | 4
 Allow extensions to satisfy interfaces for the extended type [dart-lang/language#4722](https://github.com/dart-lang/language/issues/4722) | 4 | 4
-Static nested classes [dart-lang/language#336](https://github.com/dart-lang/language/issues/336) | 216 | 3
 
 ## Graphs
 
@@ -465,23 +465,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="flutter-flutter-188877-graph"></a>
-### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
-  <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 17 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17, 17, 17, 17]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4726-graph"></a>
 ### [dart 4.0] Remove support for `new` in constructor invocations
   <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 17 total reactions, 17 recent reactions</sub><br />
@@ -494,6 +477,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 13, 16, 16, 17]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-188877-graph"></a>
+### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
+  <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 17 total reactions, 17 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 16, 16, 17, 17, 17, 17]
   ```
 
   </details>
@@ -686,23 +686,6 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   </details>
   </sub>
 
-<a name="dart-lang-sdk-63538-graph"></a>
-### analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns)
-  <sub>[dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9, 9, 9, 9]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4703-graph"></a>
 ### [dart 4.0] Drop support for older formatting styles
   <sub>[dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -715,6 +698,23 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
     x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 5, 5, 5, 6, 6, 8, 8, 9, 9, 9]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63538-graph"></a>
+### analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns)
+  <sub>[dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 4, May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 3, 4, 6, 9, 9, 9, 9, 9]
   ```
 
   </details>
