@@ -137,8 +137,8 @@ Issue | Total reactions | Recent reactions
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 57 | 2
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 2
 Enable hot restart on profile mode [flutter/flutter#37987](https://github.com/flutter/flutter/issues/37987) | 30 | 1
-Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 1
+Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 26 | 1
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 21 | 1
 Offline mode needs to be extended to all flutter commands [flutter/flutter#22429](https://github.com/flutter/flutter/issues/22429) | 18 | 1
@@ -250,8 +250,8 @@ Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://g
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 491 | 2
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 252 | 2
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 149 | 2
-Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
 Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
+Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
 Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 21 | 2
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 673 | 1
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 90 | 1
@@ -303,7 +303,7 @@ Support creating files and sockets from file descriptors [dart-lang/sdk#46196](h
 [hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 11 | [5](#dart-lang-sdk-56512-graph)
 Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 5 | [5](#dart-lang-sdk-63700-graph)
 Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 86 | 4
-[breaking-change] Eliminate spurious null from iterable/stream type argument of generator functions [dart-lang/sdk#63795](https://github.com/dart-lang/sdk/issues/63795) | 4 | 4
+Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 4 | 4
 
 ### Dart language
 
