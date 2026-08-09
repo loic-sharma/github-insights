@@ -2,17 +2,17 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-05-11 to 2026-08-08.
+Issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 807 | [42](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 808 | [43](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [42](#flutter-flutter-172561-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 75 | [34](#flutter-flutter-151638-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 694 | [24](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 699 | [29](#flutter-flutter-170310-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 268 | [23](#flutter-flutter-65504-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 36 | [22](#flutter-flutter-162196-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 20 | [20](#flutter-flutter-186804-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 21 | [21](#flutter-flutter-186804-graph)
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 17 | [17](#flutter-flutter-188877-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 17 | [17](#dart-lang-language-4726-graph)
@@ -28,7 +28,7 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-framework` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,12 +50,12 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-design` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 807 | [42](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 694 | [24](#flutter-flutter-170310-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 808 | [43](#flutter-flutter-168813-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 699 | [29](#flutter-flutter-170310-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 45 | [12](#flutter-flutter-184093-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1017 | [6](#flutter-flutter-101479-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 159 | [5](#flutter-flutter-102560-graph)
@@ -72,10 +72,10 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`f: cupertino` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 694 | [24](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 699 | [29](#flutter-flutter-170310-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 45 | [12](#flutter-flutter-184093-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1017 | [6](#flutter-flutter-101479-graph)
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 129 | 2
@@ -93,7 +93,7 @@ add darkMode as named constructor argument to CupertinoApp [flutter/flutter#4822
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 19 | [6](#flutter-flutter-174773-graph)
@@ -114,7 +114,7 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-accessibility` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,22 +123,22 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-go_router` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-tool` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 57 | 2
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 2
 Enable hot restart on profile mode [flutter/flutter#37987](https://github.com/flutter/flutter/issues/37987) | 30 | 1
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 1
 Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 1
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 26 | 1
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 21 | 1
 Offline mode needs to be extended to all flutter commands [flutter/flutter#22429](https://github.com/flutter/flutter/issues/22429) | 18 | 1
@@ -152,7 +152,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-engine` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 258 | [14](#flutter-flutter-61229-graph)
@@ -175,12 +175,12 @@ Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [f
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-ios` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 36 | [22](#flutter-flutter-162196-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 20 | [20](#flutter-flutter-186804-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 21 | [21](#flutter-flutter-186804-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 38 | [13](#flutter-flutter-173940-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 172 | [7](#flutter-flutter-126005-graph)
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 36 | 3
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-android` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -219,7 +219,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-web` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ App freezes when GPU is disabled while the app is running [flutter/flutter#12419
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`team-ecosystem` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,7 +285,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`dart-lang/sdk` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -307,7 +307,7 @@ Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](h
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-05-11 to 2026-08-08.
+`dart-lang/language` issues that received the most reactions from 2026-05-11 to 2026-08-09.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -331,7 +331,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 807 total reactions, 42 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 808 total reactions, 43 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -340,7 +340,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   xychart-beta
     x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [767, 769, 771, 775, 785, 787, 790, 792, 801, 802, 806, 806, 807]
+    line [767, 769, 771, 775, 785, 787, 790, 792, 801, 802, 806, 806, 808]
   ```
 
   </details>
@@ -382,7 +382,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 694 total reactions, 24 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 699 total reactions, 29 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -391,7 +391,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   xychart-beta
     x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
     y-axis "Reactions"
-    line [671, 672, 674, 675, 678, 680, 681, 683, 692, 692, 692, 694, 694]
+    line [671, 672, 674, 675, 678, 680, 681, 683, 692, 692, 692, 694, 699]
   ```
 
   </details>
@@ -433,7 +433,7 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
 
 <a name="flutter-flutter-186804-graph"></a>
 ### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
-  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 21 total reactions, 21 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -441,8 +441,8 @@ Static nested classes [dart-lang/language#336](https://github.com/dart-lang/lang
   ```mermaid
   xychart-beta
     x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 13, 15, 17, 17, 20, 20]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 13, 15, 17, 17, 20, 21]
   ```
 
   </details>
