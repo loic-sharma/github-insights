@@ -12,7 +12,7 @@ Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 699 | [29](#flutter-flutter-170310-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 268 | [23](#flutter-flutter-65504-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 36 | [22](#flutter-flutter-162196-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 21 | [21](#flutter-flutter-186804-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 22 | [22](#flutter-flutter-186804-graph)
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 17 | [17](#dart-lang-language-4726-graph)
@@ -180,7 +180,7 @@ Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [f
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 36 | [22](#flutter-flutter-162196-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 21 | [21](#flutter-flutter-186804-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 22 | [22](#flutter-flutter-186804-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 39 | [14](#flutter-flutter-173940-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 172 | [7](#flutter-flutter-126005-graph)
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 36 | 3
@@ -433,7 +433,7 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
 <a name="flutter-flutter-186804-graph"></a>
 ### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
-  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 21 total reactions, 21 recent reactions</sub><br />
+  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 22 total reactions, 22 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -442,7 +442,7 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
   xychart-beta
     x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 13, 15, 17, 17, 20, 21, 21]
+    line [0, 0, 0, 0, 0, 0, 0, 13, 15, 17, 17, 20, 21, 22]
   ```
 
   </details>
