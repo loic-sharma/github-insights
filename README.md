@@ -202,8 +202,8 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 75 | [34](#flutter-flutter-151638-graph)
+remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 44 | [5](#flutter-flutter-104219-graph)
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 81 | 4
-remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 42 | 3
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 3
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 102 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 60 | 2
@@ -1043,6 +1043,23 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-104219-graph"></a>
+### remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication
+  <sub>[flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) &mdash; 44 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
+    y-axis "Reactions"
+    line [40, 40, 40, 40, 40, 40, 41, 41, 42, 42, 42, 42, 42, 44]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4154-graph"></a>
 ### Augmentations
   <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 43 total reactions, 5 recent reactions</sub><br />
@@ -1077,23 +1094,6 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4744-graph"></a>
-### [dart 4.0] Drop support for dart_internal
-  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63700-graph"></a>
 ### Deprecate and remove `HashMap`
   <sub>[dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1106,6 +1106,23 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
     x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 5, 5, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4744-graph"></a>
+### [dart 4.0] Drop support for dart_internal
+  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
