@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-05-11 to 2026-08-13.
+Issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-framework` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-design` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,7 +72,7 @@ Cupertino back gesture are disabled when using PageRouteBuilder [flutter/flutter
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`f: cupertino` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 703 | [33](#flutter-flutter-170310-graph)
@@ -88,12 +88,12 @@ Support iPadOS pointer interactions [flutter/flutter#55809](https://github.com/f
 Equivalent of `InkWell` in Cupertino style [flutter/flutter#48017](https://github.com/flutter/flutter/issues/48017) | 55 | 0
 Proposal Refactor Scroll To Top iOS (non-breaking) [flutter/flutter#74727](https://github.com/flutter/flutter/issues/74727) | 47 | 0
 Introduce HIG blur materials to the Cupertino package [flutter/flutter#162945](https://github.com/flutter/flutter/issues/162945) | 45 | 0
-add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 Add a Sidebar widget to Cupertino for a native look on iPadOS [flutter/flutter#60762](https://github.com/flutter/flutter/issues/60762) | 24 | 0
+add darkMode as named constructor argument to CupertinoApp [flutter/flutter#48222](https://github.com/flutter/flutter/issues/48222) | 24 | 0
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 19 | [6](#flutter-flutter-174773-graph)
@@ -114,7 +114,7 @@ TextField: Keyboard not showing on `autofocus: true` after app is paused then re
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-accessibility` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -123,14 +123,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-go_router` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-tool` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -152,7 +152,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-engine` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 259 | [15](#flutter-flutter-61229-graph)
@@ -175,7 +175,7 @@ Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [f
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-ios` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -188,8 +188,8 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 78 | 2
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
-[tool] `flutter clean` spends too much time in "Cleaning Xcode workspace" [flutter/flutter#127708](https://github.com/flutter/flutter/issues/127708) | 17 | 2
 The Dart VM Service was not discovered after 30 seconds. [flutter/flutter#181480](https://github.com/flutter/flutter/issues/181480) | 17 | 2
+[tool] `flutter clean` spends too much time in "Cleaning Xcode workspace" [flutter/flutter#127708](https://github.com/flutter/flutter/issues/127708) | 17 | 2
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 1
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 121 | 1
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 57 | 1
@@ -197,7 +197,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-android` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -207,8 +207,8 @@ Android build fails with certain plugins if project is in a different drive (fro
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 3
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 102 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 60 | 2
-Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error when using `flutter run` [flutter/flutter#38965](https://github.com/flutter/flutter/issues/38965) | 46 | 2
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 46 | 2
+Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error when using `flutter run` [flutter/flutter#38965](https://github.com/flutter/flutter/issues/38965) | 46 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 87 | 1
@@ -219,7 +219,7 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-web` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -241,7 +241,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -263,7 +263,7 @@ Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/fl
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`team-ecosystem` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -285,14 +285,14 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`dart-lang/sdk` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 97 | [16](#dart-lang-sdk-56841-graph)
+[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 80 | [10](#dart-lang-sdk-61957-graph)
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 26 | [10](#dart-lang-sdk-56366-graph)
-[Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 79 | [9](#dart-lang-sdk-61957-graph)
 analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns) [dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) | 9 | [9](#dart-lang-sdk-63538-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 232 | [7](#dart-lang-sdk-55281-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 87 | [7](#dart-lang-sdk-53884-graph)
@@ -307,7 +307,7 @@ Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lan
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-05-11 to 2026-08-13.
+`dart-lang/language` issues that received the most reactions from 2026-05-11 to 2026-08-14.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -318,9 +318,9 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 271 | [8](#dart-lang-language-333-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1245 | [7](#dart-lang-language-723-graph)
+[dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 7 | [7](#dart-lang-language-4744-graph)
 Terminating Tokens [dart-lang/language#72](https://github.com/dart-lang/language/issues/72) | 278 | [5](#dart-lang-language-72-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 43 | [5](#dart-lang-language-4154-graph)
-[dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 5 | [5](#dart-lang-language-4744-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 288 | 4
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 284 | 4
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 103 | 4
@@ -652,6 +652,23 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
   </details>
   </sub>
 
+<a name="dart-lang-sdk-61957-graph"></a>
+### [Dot shorthands] A new lint and fix to prefer dot shorthands
+  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 80 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
+    y-axis "Reactions"
+    line [70, 70, 70, 72, 72, 72, 72, 72, 75, 76, 77, 78, 79, 80]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-56366-graph"></a>
 ### [proposal] [dart2wasm] Wasm component model / WASI support
   <sub>[dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) &mdash; 26 total reactions, 10 recent reactions</sub><br />
@@ -681,23 +698,6 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
     x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 5, 5, 5, 6, 6, 8, 8, 9, 9, 9, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-61957-graph"></a>
-### [Dot shorthands] A new lint and fix to prefer dot shorthands
-  <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 79 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
-    y-axis "Reactions"
-    line [70, 70, 70, 72, 72, 72, 72, 72, 75, 76, 77, 78, 79, 79]
   ```
 
   </details>
@@ -868,6 +868,23 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
     x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
     y-axis "Reactions"
     line [32, 32, 32, 32, 32, 32, 37, 38, 38, 38, 39, 39, 39, 39]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4744-graph"></a>
+### [dart 4.0] Drop support for dart_internal
+  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
   ```
 
   </details>
@@ -1089,23 +1106,6 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
     x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
     y-axis "Reactions" 0 --> 20
     line [6, 6, 6, 6, 7, 8, 10, 10, 11, 11, 11, 11, 11, 11]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4744-graph"></a>
-### [dart 4.0] Drop support for dart_internal
-  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 11, May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
