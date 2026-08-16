@@ -280,11 +280,11 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 80 | [10](#dart-lang-sdk-61957-graph)
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 26 | [10](#dart-lang-sdk-56366-graph)
 analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns) [dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) | 9 | [9](#dart-lang-sdk-63538-graph)
+False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 8 | [8](#dart-lang-sdk-64037-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 232 | [7](#dart-lang-sdk-55281-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 87 | [7](#dart-lang-sdk-53884-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 39 | [7](#dart-lang-sdk-46196-graph)
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 42 | [6](#dart-lang-sdk-54003-graph)
-False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 6 | [6](#dart-lang-sdk-64037-graph)
 [SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 6 | [6](#dart-lang-sdk-63511-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 25 | [5](#dart-lang-sdk-61822-graph)
@@ -723,6 +723,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64037-graph"></a>
+### False positive for `prefer_const_constructors_in_immutables` with primary constructors
+  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-333-graph"></a>
 ### It is necessary to implement threads
   <sub>[dart-lang/language#333](https://github.com/dart-lang/language/issues/333) &mdash; 271 total reactions, 7 recent reactions</sub><br />
@@ -888,23 +905,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
     y-axis "Reactions" 0 --> 20
     line [0, 13, 14, 15, 15, 15, 15, 15, 17, 18, 18, 19, 19]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64037-graph"></a>
-### False positive for `prefer_const_constructors_in_immutables` with primary constructors
-  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]
   ```
 
   </details>
