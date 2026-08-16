@@ -18,8 +18,8 @@ Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 97 | [16](#dart-lang-sdk-56841-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 270 | [15](#flutter-flutter-65504-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 259 | [15](#flutter-flutter-61229-graph)
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 41 | [15](#flutter-flutter-173940-graph)
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 15 | [15](#flutter-flutter-186825-graph)
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 40 | [14](#flutter-flutter-173940-graph)
 [Decoupling] Material and Cupertino are now frozen. Resume contributions in flutter/packages [flutter/flutter#184093](https://github.com/flutter/flutter/issues/184093) | 46 | [13](#flutter-flutter-184093-graph)
 
 ## Trending issues by team
@@ -167,7 +167,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 38 | [24](#flutter-flutter-162196-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 24 | [24](#flutter-flutter-186804-graph)
-Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 40 | [14](#flutter-flutter-173940-graph)
+Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 41 | [15](#flutter-flutter-173940-graph)
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 172 | 3
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 36 | 3
 [SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
@@ -519,6 +519,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="flutter-flutter-173940-graph"></a>
+### Flutter: Cleaning Xcode workspace takes 2-3 minutes
+  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 41 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
+    y-axis "Reactions"
+    line [28, 28, 29, 31, 35, 35, 36, 36, 37, 38, 38, 38, 41]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-186825-graph"></a>
 ### [web] support in-canvas platform views using HTML-in-Canvas API
   <sub>[flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) &mdash; 15 total reactions, 15 recent reactions</sub><br />
@@ -531,23 +548,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 13, 13, 14, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-173940-graph"></a>
-### Flutter: Cleaning Xcode workspace takes 2-3 minutes
-  <sub>[flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) &mdash; 40 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10]
-    y-axis "Reactions"
-    line [28, 28, 29, 31, 35, 35, 36, 36, 37, 38, 38, 38, 40]
   ```
 
   </details>
