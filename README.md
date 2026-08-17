@@ -6,15 +6,15 @@ Issues that received the most reactions from 2026-05-18 to 2026-08-17.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 810 | [42](#flutter-flutter-168813-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [42](#flutter-flutter-172561-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 809 | [41](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 711 | [40](#flutter-flutter-170310-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 75 | [34](#flutter-flutter-151638-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 38 | [24](#flutter-flutter-162196-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 24 | [24](#flutter-flutter-186804-graph)
+`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 18 | [18](#dart-lang-language-4726-graph)
-`dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 18 | [18](#dart-lang-sdk-63427-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 97 | [16](#dart-lang-sdk-56841-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 270 | [15](#flutter-flutter-65504-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 259 | [15](#flutter-flutter-61229-graph)
@@ -45,8 +45,8 @@ Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [f
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 312 | 2
 PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 180 | 2
 ListView: Poor performance with many variable-extent items + jumpTo (scroll bar, trackpad, mouse wheels) [flutter/flutter#52207](https://github.com/flutter/flutter/issues/52207) | 173 | 2
-Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 170 | 2
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 170 | 2
+Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065](https://github.com/flutter/flutter/issues/151065) | 170 | 2
 
 #### Design
 
@@ -54,7 +54,7 @@ Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#3212
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 809 | [41](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 810 | [42](#flutter-flutter-168813-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 711 | [40](#flutter-flutter-170310-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1017 | [6](#flutter-flutter-101479-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 159 | 4
@@ -122,8 +122,8 @@ Issue | Total reactions | Recent reactions
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 57 | 2
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 2
 Enable hot restart on profile mode [flutter/flutter#37987](https://github.com/flutter/flutter/issues/37987) | 30 | 1
-Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 1
+Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 27 | 1
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 26 | 1
 `flutter pub get` fails to get new Git Tags [flutter/flutter#182244](https://github.com/flutter/flutter/issues/182244) | 21 | 1
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 429 | 0
@@ -192,8 +192,8 @@ remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatA
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 3
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 102 | 2
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 60 | 2
-Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error when using `flutter run` [flutter/flutter#38965](https://github.com/flutter/flutter/issues/38965) | 46 | 2
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 46 | 2
+Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error when using `flutter run` [flutter/flutter#38965](https://github.com/flutter/flutter/issues/38965) | 46 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
 [webview_flutter][android] webview crashes when embedded in a scrollview [flutter/flutter#104889](https://github.com/flutter/flutter/issues/104889) | 87 | 1
@@ -278,8 +278,8 @@ Issue | Total reactions | Recent reactions
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 97 | [16](#dart-lang-sdk-56841-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 80 | [10](#dart-lang-sdk-61957-graph)
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 26 | [10](#dart-lang-sdk-56366-graph)
+False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 9 | [9](#dart-lang-sdk-64037-graph)
 analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns) [dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) | 9 | [9](#dart-lang-sdk-63538-graph)
-False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 8 | [8](#dart-lang-sdk-64037-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 232 | [7](#dart-lang-sdk-55281-graph)
 [dart2wasm] Support non-JS wasm runtimes [dart-lang/sdk#53884](https://github.com/dart-lang/sdk/issues/53884) | 87 | [7](#dart-lang-sdk-53884-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 39 | [7](#dart-lang-sdk-46196-graph)
@@ -314,6 +314,23 @@ Allow both optional positional and optional named arguments in the same function
 
 ## Graphs
 
+<a name="flutter-flutter-168813-graph"></a>
+### ☂️ Bring Material 3 Expressive to Flutter
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 810 total reactions, 42 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    y-axis "Reactions"
+    line [769, 771, 775, 785, 787, 790, 792, 801, 802, 806, 806, 809, 809, 810]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-172561-graph"></a>
 ### [web] ☂️ WebParagraph
   <sub>[flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) &mdash; 164 total reactions, 42 recent reactions</sub><br />
@@ -326,23 +343,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
     y-axis "Reactions"
     line [123, 123, 123, 123, 125, 163, 164, 164, 164, 164, 164, 164, 164, 164]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168813-graph"></a>
-### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 809 total reactions, 41 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
-    y-axis "Reactions"
-    line [769, 771, 775, 785, 787, 790, 792, 801, 802, 806, 806, 809, 809, 809]
   ```
 
   </details>
@@ -416,6 +416,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="dart-lang-sdk-63427-graph"></a>
+### `dart format .` tries to access dependency's files in `build`
+  <sub>[dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) &mdash; 18 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    y-axis "Reactions" 0 --> 20
+    line [5, 8, 11, 15, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-188877-graph"></a>
 ### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
   <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -445,23 +462,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 11, 13, 16, 16, 17, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-63427-graph"></a>
-### `dart format .` tries to access dependency's files in `build`
-  <sub>[dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
-    y-axis "Reactions" 0 --> 20
-    line [5, 8, 11, 15, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -654,6 +654,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64037-graph"></a>
+### False positive for `prefer_const_constructors_in_immutables` with primary constructors
+  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 9]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-63538-graph"></a>
 ### analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns)
   <sub>[dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) &mdash; 9 total reactions, 9 recent reactions</sub><br />
@@ -700,23 +717,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
     y-axis "Reactions"
     line [24, 29, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64037-graph"></a>
-### False positive for `prefer_const_constructors_in_immutables` with primary constructors
-  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8]
   ```
 
   </details>
