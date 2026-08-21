@@ -7,7 +7,7 @@ Issues that received the most reactions from 2026-05-18 to 2026-08-21.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 811 | [43](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 713 | [42](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 714 | [43](#flutter-flutter-170310-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [42](#flutter-flutter-172561-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 76 | [35](#flutter-flutter-151638-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 39 | [25](#flutter-flutter-162196-graph)
@@ -55,7 +55,7 @@ Proposal: Framework needs to be aware of physical pixels [flutter/flutter#151065
 Issue | Total reactions | Recent reactions
 -- | -- | --
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 811 | [43](#flutter-flutter-168813-graph)
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 713 | [42](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 714 | [43](#flutter-flutter-170310-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 14 | [14](#flutter-flutter-191322-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1020 | [9](#flutter-flutter-101479-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 159 | 4
@@ -304,9 +304,9 @@ Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 8 | [8](#dart-lang-language-4744-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1246 | [7](#dart-lang-language-723-graph)
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 271 | [7](#dart-lang-language-333-graph)
+Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 44 | [6](#dart-lang-language-4154-graph)
 Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 289 | [5](#dart-lang-language-2364-graph)
 Terminating Tokens [dart-lang/language#72](https://github.com/dart-lang/language/issues/72) | 278 | [5](#dart-lang-language-72-graph)
-Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 43 | [5](#dart-lang-language-4154-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 284 | 4
 Discontinue old-style typedef. [dart-lang/language#2517](https://github.com/dart-lang/language/issues/2517) | 22 | 4
 Allow extensions to satisfy interfaces for the extended type [dart-lang/language#4722](https://github.com/dart-lang/language/issues/4722) | 4 | 4
@@ -333,7 +333,7 @@ Allow both optional positional and optional named arguments in the same function
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 713 total reactions, 42 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 714 total reactions, 43 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -342,7 +342,7 @@ Allow both optional positional and optional named arguments in the same function
   xychart-beta
     x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
     y-axis "Reactions"
-    line [672, 674, 675, 678, 680, 681, 683, 692, 692, 692, 694, 699, 711, 713]
+    line [672, 674, 675, 678, 680, 681, 683, 692, 692, 692, 694, 699, 711, 714]
   ```
 
   </details>
@@ -909,6 +909,23 @@ Allow both optional positional and optional named arguments in the same function
   </details>
   </sub>
 
+<a name="dart-lang-language-4154-graph"></a>
+### Augmentations
+  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 44 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    y-axis "Reactions"
+    line [38, 39, 39, 40, 40, 41, 41, 41, 42, 42, 42, 42, 43, 44]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-54003-graph"></a>
 ### Data assets feature
   <sub>[dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) &mdash; 42 total reactions, 6 recent reactions</sub><br />
@@ -1023,23 +1040,6 @@ Allow both optional positional and optional named arguments in the same function
     x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
     y-axis "Reactions"
     line [96, 96, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4154-graph"></a>
-### Augmentations
-  <sub>[dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) &mdash; 43 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 18, May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
-    y-axis "Reactions"
-    line [38, 39, 39, 40, 40, 41, 41, 41, 42, 42, 42, 42, 43, 43]
   ```
 
   </details>
