@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-05-25 to 2026-08-23.
+Issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Detect backspace/delete key press [flutter/flutter#191015](https://github.com/fl
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-framework` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-design` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ InkWell and InkResponse not close enough to the real thing [flutter/flutter#2092
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`f: cupertino` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 13 | [13](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ TextField: Keyboard not showing on `autofocus: true` after app is paused then re
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-accessibility` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-go_router` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-tool` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -130,14 +130,14 @@ Multiplatform tooling: A way to store and update app properties, like name, desc
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 89 | 0
+Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 82 | 0
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 59 | 0
 Support keyboard events in flutter_driver [flutter/flutter#9383](https://github.com/flutter/flutter/issues/9383) | 53 | 0
-Meta issue for the difficulty of using assets with Flutter [flutter/flutter#27802](https://github.com/flutter/flutter/issues/27802) | 38 | 0
 "Hot Reload received invalid response" ... "Error while starting Kernel isolate task" on hot reload [flutter/flutter#64758](https://github.com/flutter/flutter/issues/64758) | 34 | 0
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-engine` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 259 | [15](#flutter-flutter-61229-graph)
@@ -148,8 +148,8 @@ Support home and lock screen widgets [flutter/flutter#26134](https://github.com/
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 102 | 3
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 565 | 2
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 2
-Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 2
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 2
+Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 2
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 351 | 1
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 198 | 1
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 139 | 1
@@ -160,7 +160,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-ios` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -176,13 +176,13 @@ Support `flutter build ipa` with manual signing and provisioning profiles [flutt
 [SwiftPM] ☂ Allow Swift Package Manager to be used with Add to App [flutter/flutter#146957](https://github.com/flutter/flutter/issues/146957) | 33 | 2
 Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 2
 [tool] `flutter clean` spends too much time in "Cleaning Xcode workspace" [flutter/flutter#127708](https://github.com/flutter/flutter/issues/127708) | 17 | 2
+Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 377 | 1
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 294 | 1
 Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flutter/issues/28894) | 162 | 1
-Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 57 | 1
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-android` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -200,11 +200,11 @@ App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [f
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 32 | 1
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 30 | 1
 Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 22 | 1
-Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects [flutter/flutter#54397](https://github.com/flutter/flutter/issues/54397) | 21 | 1
+[documentation] [tools] Decouple Flutter installation from Android Studio [flutter/flutter#71368](https://github.com/flutter/flutter/issues/71368) | 21 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-web` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -236,8 +236,8 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 252 | 2
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 149 | 2
 Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 88 | 2
-Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
+Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 21 | 2
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 228 | 1
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 90 | 1
@@ -248,7 +248,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`team-ecosystem` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`dart-lang/sdk` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -282,17 +282,17 @@ False positive for `prefer_const_constructors_in_immutables` with primary constr
 analysis_server_plugin 0.3.15+/analyzer 13.x: analysis server hangs on plugin isolate load/analysis (flutter analyze never returns) [dart-lang/sdk#63538](https://github.com/dart-lang/sdk/issues/63538) | 9 | [9](#dart-lang-sdk-63538-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 232 | [7](#dart-lang-sdk-55281-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 39 | [7](#dart-lang-sdk-46196-graph)
-[SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 Deprecated (and change) null-unsafe function parameters. [dart-lang/sdk#63511](https://github.com/dart-lang/sdk/issues/63511) | 6 | [6](#dart-lang-sdk-63511-graph)
+[SIMD] Support for Int8x16 and Int8x16List. [dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) | 6 | [6](#dart-lang-sdk-63471-graph)
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 25 | [5](#dart-lang-sdk-61822-graph)
 [hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 11 | [5](#dart-lang-sdk-56512-graph)
 Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 86 | 4
-Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 4 | 4
 [breaking-change] Eliminate spurious null from iterable/stream type argument of generator functions [dart-lang/sdk#63795](https://github.com/dart-lang/sdk/issues/63795) | 4 | 4
+Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 4 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-05-25 to 2026-08-23.
+`dart-lang/language` issues that received the most reactions from 2026-05-25 to 2026-08-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -303,7 +303,6 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 8 | [8](#dart-lang-language-4744-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1246 | [7](#dart-lang-language-723-graph)
-Primary constructor on classes [dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) | 289 | [5](#dart-lang-language-2364-graph)
 Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 44 | [5](#dart-lang-language-4154-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 284 | 4
 Terminating Tokens [dart-lang/language#72](https://github.com/dart-lang/language/issues/72) | 278 | 4
@@ -311,6 +310,7 @@ It is necessary to implement threads [dart-lang/language#333](https://github.com
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 104 | 4
 Discontinue old-style typedef. [dart-lang/language#2517](https://github.com/dart-lang/language/issues/2517) | 22 | 4
 Allow extensions to satisfy interfaces for the extended type [dart-lang/language#4722](https://github.com/dart-lang/language/issues/4722) | 4 | 4
+Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 253 | 3
 
 ## Graphs
 
@@ -323,9 +323,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [771, 775, 785, 787, 790, 792, 801, 802, 806, 806, 809, 809, 813]
+    line [771, 775, 785, 787, 790, 792, 801, 802, 806, 806, 809, 809, 813, 813]
   ```
 
   </details>
@@ -340,9 +340,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [674, 675, 678, 680, 681, 683, 692, 692, 692, 694, 699, 711, 715]
+    line [674, 675, 678, 680, 681, 683, 692, 692, 692, 694, 699, 711, 715, 715]
   ```
 
   </details>
@@ -357,9 +357,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [123, 123, 123, 125, 163, 164, 164, 164, 164, 164, 164, 164, 164]
+    line [123, 123, 123, 125, 163, 164, 164, 164, 164, 164, 164, 164, 164, 164]
   ```
 
   </details>
@@ -374,9 +374,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [42, 43, 72, 72, 73, 74, 74, 75, 75, 75, 75, 75, 76]
+    line [42, 43, 72, 72, 73, 74, 74, 75, 75, 75, 75, 75, 76, 76]
   ```
 
   </details>
@@ -391,9 +391,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [18, 18, 20, 23, 25, 29, 32, 33, 34, 36, 36, 38, 39]
+    line [18, 18, 20, 23, 25, 29, 32, 33, 34, 36, 36, 38, 39, 39]
   ```
 
   </details>
@@ -408,9 +408,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 11, 13, 16, 16, 17, 18, 19]
+    line [0, 0, 0, 0, 0, 0, 11, 13, 16, 16, 17, 18, 19, 19]
   ```
 
   </details>
@@ -425,9 +425,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 16, 16, 17, 17, 17, 17, 18, 18]
+    line [0, 0, 0, 0, 0, 16, 16, 17, 17, 17, 17, 18, 18, 18]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [81, 91, 94, 94, 94, 95, 95, 96, 97, 97, 97, 97, 98]
+    line [81, 91, 94, 94, 94, 95, 95, 96, 97, 97, 97, 97, 98, 98]
   ```
 
   </details>
@@ -459,9 +459,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 17]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 17, 17]
   ```
 
   </details>
@@ -476,9 +476,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [248, 250, 251, 252, 255, 255, 256, 256, 257, 257, 258, 259, 259]
+    line [248, 250, 251, 252, 255, 255, 256, 256, 257, 257, 258, 259, 259, 259]
   ```
 
   </details>
@@ -493,9 +493,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 15]
   ```
 
   </details>
@@ -510,9 +510,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [28, 29, 31, 35, 35, 36, 36, 37, 38, 38, 38, 41, 42]
+    line [28, 29, 31, 35, 35, 36, 36, 37, 38, 38, 38, 41, 42, 42]
   ```
 
   </details>
@@ -527,9 +527,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [259, 259, 261, 262, 262, 262, 266, 267, 267, 268, 268, 270, 270]
+    line [259, 259, 261, 262, 262, 262, 266, 267, 267, 268, 268, 270, 270, 270]
   ```
 
   </details>
@@ -544,9 +544,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [8, 11, 15, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18]
+    line [8, 11, 15, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18, 18]
   ```
 
   </details>
@@ -561,9 +561,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 13, 15, 17, 17, 20, 21, 24, 25]
+    line [0, 0, 0, 0, 0, 13, 15, 17, 17, 20, 21, 24, 25, 25]
   ```
 
   </details>
@@ -595,9 +595,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [425, 426, 426, 426, 429, 429, 434, 434, 434, 436, 436, 436, 436]
+    line [425, 426, 426, 426, 429, 429, 434, 434, 434, 436, 436, 436, 436, 436]
   ```
 
   </details>
@@ -612,9 +612,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [4, 7, 7, 7, 7, 7, 8, 9, 11, 11, 11, 11, 11]
+    line [4, 7, 7, 7, 7, 7, 8, 9, 11, 11, 11, 11, 11, 11]
   ```
 
   </details>
@@ -629,9 +629,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [249, 256, 256, 256, 257, 257, 257, 257, 259, 259, 259, 259, 259]
+    line [249, 256, 256, 256, 257, 257, 257, 257, 259, 259, 259, 259, 259, 259]
   ```
 
   </details>
@@ -646,9 +646,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [70, 72, 72, 72, 72, 72, 75, 76, 77, 78, 79, 80, 80]
+    line [70, 72, 72, 72, 72, 72, 75, 76, 77, 78, 79, 80, 80, 80]
   ```
 
   </details>
@@ -663,9 +663,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 5, 5, 5, 6, 6, 8, 8, 9, 9, 9, 10, 10]
+    line [0, 5, 5, 5, 6, 6, 8, 8, 9, 9, 9, 10, 10, 10]
   ```
 
   </details>
@@ -680,9 +680,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [1015, 1014, 1014, 1017, 1017, 1018, 1018, 1018, 1017, 1017, 1017, 1017, 1020]
+    line [1015, 1014, 1014, 1017, 1017, 1018, 1018, 1018, 1017, 1017, 1017, 1017, 1020, 1020]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [712, 712, 712, 712, 712, 712, 712, 712, 713, 719, 720, 720, 721]
+    line [712, 712, 712, 712, 712, 712, 712, 712, 713, 719, 720, 720, 721, 721]
   ```
 
   </details>
@@ -714,9 +714,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [17, 17, 17, 17, 17, 17, 17, 26, 26, 26, 26, 26, 26]
+    line [17, 17, 17, 17, 17, 17, 17, 26, 26, 26, 26, 26, 26, 26]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 3, 4, 6, 9, 9, 9, 9, 9, 9, 9]
+    line [0, 0, 0, 3, 4, 6, 9, 9, 9, 9, 9, 9, 9, 9]
   ```
 
   </details>
@@ -748,9 +748,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [29, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32]
+    line [29, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32]
   ```
 
   </details>
@@ -765,9 +765,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [1239, 1240, 1240, 1240, 1240, 1240, 1240, 1240, 1240, 1241, 1245, 1245, 1246]
+    line [1239, 1240, 1240, 1240, 1240, 1240, 1240, 1240, 1240, 1241, 1245, 1245, 1246, 1246]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [227, 227, 227, 227, 227, 227, 228, 229, 229, 231, 232, 232, 232]
+    line [227, 227, 227, 227, 227, 227, 228, 229, 229, 231, 232, 232, 232, 232]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [46, 47, 50, 51, 51, 51, 51, 51, 51, 53, 53, 53, 53]
+    line [46, 47, 50, 51, 51, 51, 51, 51, 51, 53, 53, 53, 53, 53]
   ```
 
   </details>
@@ -833,9 +833,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [32, 32, 32, 32, 37, 38, 38, 38, 39, 39, 39, 39, 39]
+    line [32, 32, 32, 32, 37, 38, 38, 38, 39, 39, 39, 39, 39, 39]
   ```
 
   </details>
@@ -850,9 +850,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [47, 49, 49, 49, 50, 51, 51, 51, 51, 51, 51, 51, 52]
+    line [47, 49, 49, 49, 50, 51, 51, 51, 51, 51, 51, 51, 52, 52]
   ```
 
   </details>
@@ -867,26 +867,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [13, 14, 15, 15, 15, 15, 15, 17, 18, 18, 19, 19, 19]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-63471-graph"></a>
-### [SIMD] Support for Int8x16 and Int8x16List.
-  <sub>[dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
+    line [13, 14, 15, 15, 15, 15, 15, 17, 18, 18, 19, 19, 19, 19]
   ```
 
   </details>
@@ -901,26 +884,26 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 6]
+    line [0, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 6, 6, 6]
   ```
 
   </details>
   </sub>
 
-<a name="dart-lang-language-2364-graph"></a>
-### Primary constructor on classes
-  <sub>[dart-lang/language#2364](https://github.com/dart-lang/language/issues/2364) &mdash; 289 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-63471-graph"></a>
+### [SIMD] Support for Int8x16 and Int8x16List.
+  <sub>[dart-lang/sdk#63471](https://github.com/dart-lang/sdk/issues/63471) &mdash; 6 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
-    y-axis "Reactions"
-    line [284, 284, 285, 285, 285, 287, 287, 288, 288, 288, 288, 288, 289]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6]
   ```
 
   </details>
@@ -935,9 +918,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [39, 39, 40, 40, 41, 41, 41, 42, 42, 42, 42, 43, 44]
+    line [39, 39, 40, 40, 41, 41, 41, 42, 42, 42, 42, 43, 44, 44]
   ```
 
   </details>
@@ -952,9 +935,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions"
-    line [20, 20, 20, 22, 23, 24, 24, 24, 25, 25, 25, 25, 25]
+    line [20, 20, 20, 22, 23, 24, 24, 24, 25, 25, 25, 25, 25, 25]
   ```
 
   </details>
@@ -969,9 +952,9 @@ Allow extensions to satisfy interfaces for the extended type [dart-lang/language
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17]
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
-    line [6, 6, 7, 8, 10, 10, 11, 11, 11, 11, 11, 11, 11]
+    line [6, 6, 7, 8, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11]
   ```
 
   </details>
