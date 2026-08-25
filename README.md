@@ -308,9 +308,9 @@ Discontinue old-style typedef. [dart-lang/language#2517](https://github.com/dart
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 284 | 4
 Terminating Tokens [dart-lang/language#72](https://github.com/dart-lang/language/issues/72) | 278 | 4
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 271 | 4
+Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 254 | 4
 Add possibility to consistently get object property name [dart-lang/language#251](https://github.com/dart-lang/language/issues/251) | 114 | 4
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 104 | 4
-Allow extensions to satisfy interfaces for the extended type [dart-lang/language#4722](https://github.com/dart-lang/language/issues/4722) | 4 | 4
 
 ## Graphs
 
