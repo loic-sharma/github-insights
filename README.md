@@ -39,7 +39,6 @@ Overscroll effect isn't rendered properly when scrolling with backdrop filter bl
 Rewrite the NestedScrollView [flutter/flutter#102003](https://github.com/flutter/flutter/issues/102003) | 100 | 4
 Move Listenable, ValueListenable to a Dart package [flutter/flutter#171101](https://github.com/flutter/flutter/issues/171101) | 29 | 4
 Move useful Flutter types out of Flutter [flutter/flutter#149466](https://github.com/flutter/flutter/issues/149466) | 70 | 3
-Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [flutter/flutter#179482](https://github.com/flutter/flutter/issues/179482) | 19 | 3
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 312 | 2
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 210 | 2
 PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 180 | 2
@@ -47,6 +46,7 @@ ListView: Poor performance with many variable-extent items + jumpTo (scroll bar,
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 170 | 2
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 76 | 2
 NestedScrollView in DraggableScrollableSheet not working [flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) | 54 | 2
+Going back to the previous route, images should not be redrawn [flutter/flutter#124382](https://github.com/flutter/flutter/issues/124382) | 36 | 2
 
 #### Design
 
@@ -61,6 +61,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 159 | 4
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 66 | 3
 Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) | 20 | 3
+Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [flutter/flutter#179482](https://github.com/flutter/flutter/issues/179482) | 19 | 3
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 19 | 3
 ☂️ Reinforcement: Add more basic components to the core framework [flutter/flutter#97496](https://github.com/flutter/flutter/issues/97496) | 77 | 2
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 27 | 2
@@ -68,7 +69,6 @@ Ink widget decoration visible or/and renders outside the ListView boundary up to
 Table > TableRow > TableCell colspan [flutter/flutter#21594](https://github.com/flutter/flutter/issues/21594) | 313 | 1
 Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://github.com/flutter/flutter/issues/63693) | 129 | 1
 Use a system default font on flutter [flutter/flutter#48381](https://github.com/flutter/flutter/issues/48381) | 104 | 1
-Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 96 | 1
 
 #### Cupertino
 
