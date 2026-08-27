@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-05-25 to 2026-08-26.
+Issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-framework` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Going back to the previous route, images should not be redrawn [flutter/flutter#
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-design` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ Use a system default font on flutter [flutter/flutter#48381](https://github.com/
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`f: cupertino` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ TextField: Keyboard not showing on `autofocus: true` after app is paused then re
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-accessibility` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-go_router` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-tool` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Support keyboard events in flutter_driver [flutter/flutter#9383](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-engine` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 259 | [15](#flutter-flutter-61229-graph)
@@ -148,8 +148,8 @@ Support home and lock screen widgets [flutter/flutter#26134](https://github.com/
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 102 | 3
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 565 | 2
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 2
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 2
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 2
+Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 2
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 351 | 1
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 198 | 1
 Space between text and underline [flutter/flutter#30541](https://github.com/flutter/flutter/issues/30541) | 139 | 1
@@ -160,7 +160,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-ios` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Emoji size is off on iOS [flutter/flutter#28894](https://github.com/flutter/flut
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-android` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -190,21 +190,21 @@ Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](
 Android build fails with certain plugins if project is in a different drive (from sdk) [flutter/flutter#105395](https://github.com/flutter/flutter/issues/105395) | 81 | 4
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 44 | 4
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 102 | 2
+[camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 92 | 2
 Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error when using `flutter run` [flutter/flutter#38965](https://github.com/flutter/flutter/issues/38965) | 46 | 2
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 2
 [webview] Android Talk Back cannot focus on widgets via tap if they are over platformview [flutter/flutter#101887](https://github.com/flutter/flutter/issues/101887) | 18 | 2
-[camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 91 | 1
 [camera] Support choosing lenses [flutter/flutter#91247](https://github.com/flutter/flutter/issues/91247) | 60 | 1
 [camera] startVideoRecording/stopVideoRecording() freezes the UI  [flutter/flutter#57451](https://github.com/flutter/flutter/issues/57451) | 51 | 1
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 46 | 1
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 32 | 1
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 30 | 1
 Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 22 | 1
-Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects [flutter/flutter#54397](https://github.com/flutter/flutter/issues/54397) | 21 | 1
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-web` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -237,8 +237,8 @@ Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutt
 Implement PlatformView support on Linux [flutter/flutter#41724](https://github.com/flutter/flutter/issues/41724) | 149 | 2
 Desktop app frame rate isn't synced to display [flutter/flutter#49757](https://github.com/flutter/flutter/issues/49757) | 88 | 2
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 31 | 2
-Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://github.com/flutter/flutter/issues/65517) | 27 | 2
+Transparent Backgrounds for Linux [flutter/flutter#66751](https://github.com/flutter/flutter/issues/66751) | 27 | 2
 Linux Desktop: high CPU usage when running an animation [flutter/flutter#101591](https://github.com/flutter/flutter/issues/101591) | 21 | 2
 macOS: Failed to foreground app; open returned 1 on Flutter 3.35.x [flutter/flutter#176850](https://github.com/flutter/flutter/issues/176850) | 15 | 2
 [Desktop] - Splash screen or background color customization [flutter/flutter#41980](https://github.com/flutter/flutter/issues/41980) | 228 | 1
@@ -248,7 +248,7 @@ Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](ht
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`team-ecosystem` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`dart-lang/sdk` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,14 +292,14 @@ Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lan
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-05-25 to 2026-08-26.
+`dart-lang/language` issues that received the most reactions from 2026-05-25 to 2026-08-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 20 | [20](#dart-lang-language-4726-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 436 | [11](#dart-lang-language-356-graph)
-[dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 11 | [11](#dart-lang-language-4696-graph)
 [dart 4.0] Drop support for older formatting styles [dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) | 11 | [11](#dart-lang-language-4703-graph)
+[dart-4.0] Language spec on the website [dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) | 11 | [11](#dart-lang-language-4696-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
 Anonymous methods [dart-lang/language#260](https://github.com/dart-lang/language/issues/260) | 32 | [8](#dart-lang-language-260-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1246 | [7](#dart-lang-language-723-graph)
@@ -603,23 +603,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4696-graph"></a>
-### [dart-4.0] Language spec on the website
-  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 11 total reactions, 11 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
-    y-axis "Reactions" 0 --> 20
-    line [4, 7, 7, 7, 7, 7, 8, 9, 11, 11, 11, 11, 11, 11]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4703-graph"></a>
 ### [dart 4.0] Drop support for older formatting styles
   <sub>[dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) &mdash; 11 total reactions, 11 recent reactions</sub><br />
@@ -632,6 +615,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
     y-axis "Reactions" 0 --> 20
     line [0, 5, 5, 5, 6, 6, 8, 8, 9, 9, 9, 10, 10, 11]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4696-graph"></a>
+### [dart-4.0] Language spec on the website
+  <sub>[dart-lang/language#4696](https://github.com/dart-lang/language/issues/4696) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [May 25, Jun 1, Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24]
+    y-axis "Reactions" 0 --> 20
+    line [4, 7, 7, 7, 7, 7, 8, 9, 11, 11, 11, 11, 11, 11]
   ```
 
   </details>
