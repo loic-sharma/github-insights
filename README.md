@@ -43,10 +43,10 @@ Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter
 NestedScrollView in DraggableScrollableSheet not working [flutter/flutter#64157](https://github.com/flutter/flutter/issues/64157) | 54 | 2
 Going back to the previous route, images should not be redrawn [flutter/flutter#124382](https://github.com/flutter/flutter/issues/124382) | 36 | 2
 Move Listenable, ValueListenable to a Dart package [flutter/flutter#171101](https://github.com/flutter/flutter/issues/171101) | 29 | 2
+[Selection] SelectableRegion should support rich text clipboard [flutter/flutter#104206](https://github.com/flutter/flutter/issues/104206) | 23 | 2
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 312 | 1
 [breaking] make child positional [flutter/flutter#178236](https://github.com/flutter/flutter/issues/178236) | 184 | 1
 PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 180 | 1
-ListView: Poor performance with many variable-extent items + jumpTo (scroll bar, trackpad, mouse wheels) [flutter/flutter#52207](https://github.com/flutter/flutter/issues/52207) | 173 | 1
 
 #### Design
 
@@ -90,8 +90,8 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 135 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 116 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 55 | 1
-Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 1
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 31 | 1
+Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 1
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 24 | 1
 [Feature Request] Ability to copy WidgetSpan to clipboard [flutter/flutter#92506](https://github.com/flutter/flutter/issues/92506) | 21 | 1
@@ -170,9 +170,9 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 123 | 3
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 36 | 3
 [SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 3
+Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 378 | 2
 Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.com/flutter/flutter/issues/12920) | 81 | 2
 [tool] `flutter clean` spends too much time in "Cleaning Xcode workspace" [flutter/flutter#127708](https://github.com/flutter/flutter/issues/127708) | 17 | 2
-Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 377 | 1
 Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutter/flutter/issues/28901) | 294 | 1
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 172 | 1
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 78 | 1
@@ -198,9 +198,9 @@ FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flu
 Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 30 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 1
 Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 22 | 1
-Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 1
-[documentation] [tools] Decouple Flutter installation from Android Studio [flutter/flutter#71368](https://github.com/flutter/flutter/issues/71368) | 21 | 1
 Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects [flutter/flutter#54397](https://github.com/flutter/flutter/issues/54397) | 21 | 1
+[documentation] [tools] Decouple Flutter installation from Android Studio [flutter/flutter#71368](https://github.com/flutter/flutter/issues/71368) | 21 | 1
+Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 1
 
 #### Web
 
