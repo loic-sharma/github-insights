@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-06-01 to 2026-09-01.
+Issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/la
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-framework` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PageView with height based on current child [flutter/flutter#29749](https://gith
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-design` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ Use a system default font on flutter [flutter/flutter#48381](https://github.com/
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`f: cupertino` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -90,8 +90,8 @@ Autocorrect tooltips don't appear on iOS [flutter/flutter#12920](https://github.
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 135 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 116 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 55 | 1
-Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 1
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 31 | 1
+Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 1
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 24 | 1
 [Feature Request] Ability to copy WidgetSpan to clipboard [flutter/flutter#92506](https://github.com/flutter/flutter/issues/92506) | 21 | 1
@@ -99,7 +99,7 @@ Image Keyboard for other platforms [flutter/flutter#132577](https://github.com/f
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-accessibility` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,23 +108,23 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-go_router` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-tool` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 59 | 3
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 2
+Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 28 | 2
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 430 | 1
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 193 | 1
-Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 57 | 1
 Enable hot restart on profile mode [flutter/flutter#37987](https://github.com/flutter/flutter/issues/37987) | 30 | 1
-Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 27 | 1
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 26 | 1
 Flutter 3.32.0 cannot find package:integration_test when building with --no-pub flag [flutter/flutter#169336](https://github.com/flutter/flutter/issues/169336) | 17 | 1
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 175 | 0
@@ -137,7 +137,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-engine` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 259 | [10](#flutter-flutter-61229-graph)
@@ -149,8 +149,8 @@ String.fromEnvironment without a const silently does the wrong thing in the VM [
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 565 | 2
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 2
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 198 | 2
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 2
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 2
+Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 2
 [Impeller] Provide an API for loading Shader at runtime (and tooling support for producing them) [flutter/flutter#166944](https://github.com/flutter/flutter/issues/166944) | 16 | 2
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 351 | 1
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 74 | 1
@@ -160,7 +160,7 @@ Unable receive Platform Channel calls in background isolates [flutter/flutter#11
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-ios` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -178,11 +178,11 @@ Flutter support for Apple Watch [flutter/flutter#28901](https://github.com/flutt
 Support `flutter build ipa` with manual signing and provisioning profiles [flutter/flutter#106612](https://github.com/flutter/flutter/issues/106612) | 78 | 1
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 57 | 1
 `flutter attach` doesn't work on physical iOS device in larger apps [flutter/flutter#122698](https://github.com/flutter/flutter/issues/122698) | 52 | 1
-Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 33 | 1
+☂️ Support running iOS apps on ARM Macs as "My Mac (Designed for iPad)" [flutter/flutter#141719](https://github.com/flutter/flutter/issues/141719) | 33 | 1
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-android` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -199,12 +199,12 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 1
 Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 22 | 1
 Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects [flutter/flutter#54397](https://github.com/flutter/flutter/issues/54397) | 21 | 1
-[documentation] [tools] Decouple Flutter installation from Android Studio [flutter/flutter#71368](https://github.com/flutter/flutter/issues/71368) | 21 | 1
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 1
+[documentation] [tools] Decouple Flutter installation from Android Studio [flutter/flutter#71368](https://github.com/flutter/flutter/issues/71368) | 21 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-web` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Scale flutter on linux Xorg based on Xft.dpi [flutter/flutter#65517](https://git
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`team-ecosystem` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`dart-lang/sdk` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -288,11 +288,11 @@ Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang
 `dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 25 | [5](#dart-lang-sdk-61822-graph)
 [hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 11 | [5](#dart-lang-sdk-56512-graph)
 Improve VM's JSON decoder  [dart-lang/sdk#55522](https://github.com/dart-lang/sdk/issues/55522) | 86 | 4
-Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lang/sdk/issues/63700) | 4 | 4
+[breaking-change] Eliminate spurious null from iterable/stream type argument of generator functions [dart-lang/sdk#63795](https://github.com/dart-lang/sdk/issues/63795) | 4 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-06-01 to 2026-09-01.
+`dart-lang/language` issues that received the most reactions from 2026-06-01 to 2026-09-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -310,7 +310,7 @@ Terminating Tokens [dart-lang/language#72](https://github.com/dart-lang/language
 It is necessary to implement threads [dart-lang/language#333](https://github.com/dart-lang/language/issues/333) | 271 | 4
 Allow both optional positional and optional named arguments in the same function signature. [dart-lang/language#1076](https://github.com/dart-lang/language/issues/1076) | 254 | 4
 Add possibility to consistently get object property name [dart-lang/language#251](https://github.com/dart-lang/language/issues/251) | 114 | 4
-Allow extensions to satisfy interfaces for the extended type [dart-lang/language#4722](https://github.com/dart-lang/language/issues/4722) | 4 | 4
+Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 105 | 4
 
 ## Graphs
 
