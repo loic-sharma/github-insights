@@ -12,8 +12,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 76 | [33](#flutter-flutter-151638-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 41 | [23](#flutter-flutter-162196-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 22 | [22](#dart-lang-sdk-64170-graph)
-flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 21 | [21](#flutter-flutter-192261-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
+flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 21 | [21](#flutter-flutter-192261-graph)
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 18 | [18](#dart-lang-sdk-64037-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 16 | [16](#flutter-flutter-191322-graph)
@@ -89,8 +89,8 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 135 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 116 | 1
 ☂️ Proposal: desktop context menu fidelity [flutter/flutter#74255](https://github.com/flutter/flutter/issues/74255) | 55 | 1
-Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 1
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 31 | 1
+Add the native keyboard actions bar such as the up/down/done buttons in iOS [flutter/flutter#72625](https://github.com/flutter/flutter/issues/72625) | 31 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 1
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 24 | 1
 [Feature Request] Ability to copy WidgetSpan to clipboard [flutter/flutter#92506](https://github.com/flutter/flutter/issues/92506) | 21 | 1
@@ -124,11 +124,11 @@ Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https:
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 28 | 2
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 430 | 1
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 193 | 1
+Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 176 | 1
 Building all integration test targets into a single application binary [flutter/flutter#115751](https://github.com/flutter/flutter/issues/115751) | 47 | 1
 Enable hot restart on profile mode [flutter/flutter#37987](https://github.com/flutter/flutter/issues/37987) | 30 | 1
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 26 | 1
 Flutter 3.32.0 cannot find package:integration_test when building with --no-pub flag [flutter/flutter#169336](https://github.com/flutter/flutter/issues/169336) | 17 | 1
-Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 175 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 126 | 0
 Flutter Widget Previews Architecture [flutter/flutter#159342](https://github.com/flutter/flutter/issues/159342) | 100 | 0
@@ -149,8 +149,8 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 2
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 337 | 2
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 198 | 2
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 2
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 2
+Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 2
 [Impeller] Provide an API for loading Shader at runtime (and tooling support for producing them) [flutter/flutter#166944](https://github.com/flutter/flutter/issues/166944) | 16 | 2
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 351 | 1
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 74 | 1
@@ -192,6 +192,7 @@ remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatA
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 102 | 2
 Using activity-alias as MAIN/LAUNCHER activity will throw an incorrect error when using `flutter run` [flutter/flutter#38965](https://github.com/flutter/flutter/issues/38965) | 46 | 2
 [webview] Android Talk Back cannot focus on widgets via tap if they are over platformview [flutter/flutter#101887](https://github.com/flutter/flutter/issues/101887) | 18 | 2
+Allow to dynamically depend on plugins based on current app flavor [flutter/flutter#80940](https://github.com/flutter/flutter/issues/80940) | 15 | 2
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 92 | 1
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 46 | 1
 FlutterActivity should extend AppCompatActivity instead of Activity [flutter/flutter#71208](https://github.com/flutter/flutter/issues/71208) | 32 | 1
@@ -200,7 +201,6 @@ Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flut
 Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 22 | 1
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 1
 Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects [flutter/flutter#54397](https://github.com/flutter/flutter/issues/54397) | 21 | 1
-[documentation] [tools] Decouple Flutter installation from Android Studio [flutter/flutter#71368](https://github.com/flutter/flutter/issues/71368) | 21 | 1
 
 #### Web
 
@@ -298,8 +298,8 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 436 | [10](#dart-lang-language-356-graph)
-[dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
+[dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
 Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 8 | [8](#dart-lang-language-4759-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1246 | [6](#dart-lang-language-723-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 289 | [6](#dart-lang-language-649-graph)
@@ -416,23 +416,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
-<a name="flutter-flutter-192261-graph"></a>
-### flutter attach has no --flavor, so appFlavor becomes null after hot restart
-  <sub>[flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) &mdash; 21 total reactions, 21 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4726-graph"></a>
 ### [dart 4.0] Remove support for `new` in constructor invocations
   <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 21 total reactions, 21 recent reactions</sub><br />
@@ -445,6 +428,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
     y-axis "Reactions"
     line [0, 0, 0, 0, 11, 13, 16, 16, 17, 18, 19, 20, 21]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-192261-graph"></a>
+### flutter attach has no --flavor, so appFlavor becomes null after hot restart
+  <sub>[flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) &mdash; 21 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21]
   ```
 
   </details>
@@ -620,23 +620,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
-<a name="dart-lang-language-4744-graph"></a>
-### [dart 4.0] Drop support for dart_internal
-  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4767-graph"></a>
 ### Allow user-declared `operator !`.
   <sub>[dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -649,6 +632,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4744-graph"></a>
+### [dart 4.0] Drop support for dart_internal
+  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 10, 10]
   ```
 
   </details>
@@ -1062,23 +1062,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
-<a name="dart-lang-language-4755-graph"></a>
-### Invariant collections
-  <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-63795-graph"></a>
 ### [breaking-change] Eliminate spurious null from iterable/stream type argument of generator functions
   <sub>[dart-lang/sdk#63795](https://github.com/dart-lang/sdk/issues/63795) &mdash; 5 total reactions, 5 recent reactions</sub><br />
@@ -1091,6 +1074,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 4, 4, 5]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4755-graph"></a>
+### Invariant collections
+  <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5]
   ```
 
   </details>
