@@ -14,8 +14,8 @@ Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 22 | [22](#dart-lang-sdk-64170-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
+False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 19 | [19](#dart-lang-sdk-64037-graph)
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
-False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 18 | [18](#dart-lang-sdk-64037-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 17 | [17](#flutter-flutter-191322-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [14](#flutter-flutter-173940-graph)
 material_ui TextTheme conflict after Flutter/package update - previously working [google_fonts] [flutter/flutter#191067](https://github.com/flutter/flutter/issues/191067) | 14 | [14](#flutter-flutter-191067-graph)
@@ -275,7 +275,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 22 | [22](#dart-lang-sdk-64170-graph)
-False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 18 | [18](#dart-lang-sdk-64037-graph)
+False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 19 | [19](#dart-lang-sdk-64037-graph)
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 26 | [9](#dart-lang-sdk-56366-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 80 | [8](#dart-lang-sdk-61957-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 40 | [8](#dart-lang-sdk-46196-graph)
@@ -298,9 +298,9 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 436 | [10](#dart-lang-language-356-graph)
+Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
-Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 8 | [8](#dart-lang-language-4759-graph)
 Static extension methods [dart-lang/language#723](https://github.com/dart-lang/language/issues/723) | 1246 | [6](#dart-lang-language-723-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 289 | [6](#dart-lang-language-649-graph)
 [dart 4.0] Drop support for older formatting styles [dart-lang/language#4703](https://github.com/dart-lang/language/issues/4703) | 11 | [6](#dart-lang-language-4703-graph)
@@ -450,6 +450,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64037-graph"></a>
+### False positive for `prefer_const_constructors_in_immutables` with primary constructors
+  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 19 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 17, 18, 18, 19]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-188877-graph"></a>
 ### [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9
   <sub>[flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) &mdash; 18 total reactions, 18 recent reactions</sub><br />
@@ -462,23 +479,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 16, 16, 17, 17, 17, 17, 18, 18, 18, 18, 18]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64037-graph"></a>
-### False positive for `prefer_const_constructors_in_immutables` with primary constructors
-  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 17, 18, 18, 18]
   ```
 
   </details>
@@ -637,6 +637,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
+<a name="dart-lang-language-4759-graph"></a>
+### Automatic type-parameter matching promotion
+  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 10]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4767-graph"></a>
 ### Allow user-declared `operator !`.
   <sub>[dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -717,23 +734,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
     y-axis "Reactions"
     line [32, 32, 37, 38, 38, 38, 39, 39, 39, 39, 39, 39, 40, 40]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4759-graph"></a>
-### Automatic type-parameter matching promotion
-  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8]
   ```
 
   </details>
