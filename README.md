@@ -2,11 +2,11 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-06-08 to 2026-09-07.
+Issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 716 | [41](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 717 | [42](#flutter-flutter-170310-graph)
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [41](#flutter-flutter-172561-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 815 | [39](#flutter-flutter-168813-graph)
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 76 | [33](#flutter-flutter-151638-graph)
@@ -18,9 +18,9 @@ SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issu
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 18 | [18](#dart-lang-sdk-64037-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 17 | [17](#flutter-flutter-191322-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [14](#flutter-flutter-173940-graph)
+material_ui TextTheme conflict after Flutter/package update - previously working [google_fonts] [flutter/flutter#191067](https://github.com/flutter/flutter/issues/191067) | 14 | [14](#flutter-flutter-191067-graph)
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 26 | [13](#flutter-flutter-186804-graph)
-material_ui TextTheme conflict after Flutter/package update - previously working [google_fonts] [flutter/flutter#191067](https://github.com/flutter/flutter/issues/191067) | 13 | [13](#flutter-flutter-191067-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ material_ui TextTheme conflict after Flutter/package update - previously working
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-framework` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,14 +50,14 @@ Ability to change the keyboard language programmatically [flutter/flutter#99606]
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-design` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 716 | [41](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 717 | [42](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 815 | [39](#flutter-flutter-168813-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 17 | [17](#flutter-flutter-191322-graph)
-material_ui TextTheme conflict after Flutter/package update - previously working [google_fonts] [flutter/flutter#191067](https://github.com/flutter/flutter/issues/191067) | 13 | [13](#flutter-flutter-191067-graph)
+material_ui TextTheme conflict after Flutter/package update - previously working [google_fonts] [flutter/flutter#191067](https://github.com/flutter/flutter/issues/191067) | 14 | [14](#flutter-flutter-191067-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1020 | [6](#flutter-flutter-101479-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 160 | 3
 [animation] using animations package with go_router package instead of Navigator.push() method [flutter/flutter#121929](https://github.com/flutter/flutter/issues/121929) | 66 | 3
@@ -72,13 +72,13 @@ Use a system default font on flutter [flutter/flutter#48381](https://github.com/
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`f: cupertino` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-accessibility` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-go_router` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-tool` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flut
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-engine` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 259 | [9](#flutter-flutter-61229-graph)
@@ -149,8 +149,8 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 2
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 337 | 2
 Antialiasing behaviour when same-colour  [flutter/flutter#14288](https://github.com/flutter/flutter/issues/14288) | 198 | 2
-Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 2
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 2
+Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 2
 [Impeller] Provide an API for loading Shader at runtime (and tooling support for producing them) [flutter/flutter#166944](https://github.com/flutter/flutter/issues/166944) | 16 | 2
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 351 | 1
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 74 | 1
@@ -160,7 +160,7 @@ Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [f
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-ios` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -170,8 +170,8 @@ Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](htt
 Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPhone 7) [flutter/flutter#129632](https://github.com/flutter/flutter/issues/129632) | 36 | 3
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 378 | 2
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 123 | 2
-Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 34 | 2
 [SwiftPM] ☂ Allow Swift Package Manager to be used with Add to App [flutter/flutter#146957](https://github.com/flutter/flutter/issues/146957) | 34 | 2
+Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 34 | 2
 [camera] Missing logical cameras in list returned by `availableCameras()` on iOS. [flutter/flutter#134151](https://github.com/flutter/flutter/issues/134151) | 18 | 2
 [tool] `flutter clean` spends too much time in "Cleaning Xcode workspace" [flutter/flutter#127708](https://github.com/flutter/flutter/issues/127708) | 17 | 2
 [SwiftPM] Support conditional compilation in plugins [flutter/flutter#161182](https://github.com/flutter/flutter/issues/161182) | 16 | 2
@@ -182,7 +182,7 @@ Color codes in error messages are probably escaped when using the iOS simulator 
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-android` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-web` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Transparent Backgrounds for Flutter Windows Desktop Applications. [flutter/flutt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`team-ecosystem` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`dart-lang/sdk` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Deprecate and remove `HashMap` [dart-lang/sdk#63700](https://github.com/dart-lan
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-06-08 to 2026-09-07.
+`dart-lang/language` issues that received the most reactions from 2026-06-08 to 2026-09-08.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -316,7 +316,7 @@ Add possibility to consistently get object property name [dart-lang/language#251
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 716 total reactions, 41 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 717 total reactions, 42 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Add possibility to consistently get object property name [dart-lang/language#251
   xychart-beta
     x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
     y-axis "Reactions"
-    line [678, 680, 681, 683, 692, 692, 692, 694, 699, 711, 715, 716, 716, 716]
+    line [678, 680, 681, 683, 692, 692, 692, 694, 699, 711, 715, 716, 716, 717]
   ```
 
   </details>
@@ -518,6 +518,23 @@ Add possibility to consistently get object property name [dart-lang/language#251
   </details>
   </sub>
 
+<a name="flutter-flutter-191067-graph"></a>
+### material_ui TextTheme conflict after Flutter/package update - previously working [google_fonts]
+  <sub>[flutter/flutter#191067](https://github.com/flutter/flutter/issues/191067) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 14]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-191015-graph"></a>
 ### Detect backspace/delete key press
   <sub>[flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -547,23 +564,6 @@ Add possibility to consistently get object property name [dart-lang/language#251
     x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
     y-axis "Reactions"
     line [0, 0, 0, 13, 15, 17, 17, 20, 21, 24, 25, 26, 26, 26]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-191067-graph"></a>
-### material_ui TextTheme conflict after Flutter/package update - previously working [google_fonts]
-  <sub>[flutter/flutter#191067](https://github.com/flutter/flutter/issues/191067) &mdash; 13 total reactions, 13 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 8, Jun 15, Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 13]
   ```
 
   </details>
