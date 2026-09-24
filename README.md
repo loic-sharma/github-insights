@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-06-22 to 2026-09-23.
+Issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -18,9 +18,9 @@ False positive for `prefer_const_constructors_in_immutables` with primary constr
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 18 | [18](#flutter-flutter-191322-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 727 | [15](#flutter-flutter-30701-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 27 | [14](#flutter-flutter-186804-graph)
-Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 28 | [15](#flutter-flutter-186804-graph)
 material_ui TextTheme conflict after Flutter/package update - previously working [google_fonts] [flutter/flutter#191067](https://github.com/flutter/flutter/issues/191067) | 14 | [14](#flutter-flutter-191067-graph)
+Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
 
 ## Trending issues by team
 
@@ -28,12 +28,12 @@ material_ui TextTheme conflict after Flutter/package update - previously working
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-framework` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 727 | [15](#flutter-flutter-30701-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 270 | [8](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 272 | [10](#flutter-flutter-65504-graph)
 Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) | 23 | [6](#flutter-flutter-17793-graph)
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 211 | 3
 Overscroll effect isn't rendered properly when scrolling with backdrop filter blur on 3.16  [flutter/flutter#138940](https://github.com/flutter/flutter/issues/138940) | 52 | 3
@@ -50,7 +50,7 @@ Flutter clipboard should support images [flutter/flutter#32045](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-design` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,17 +72,17 @@ InkWell and InkResponse not close enough to the real thing [flutter/flutter#2092
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`f: cupertino` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
-Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 21 | [6](#flutter-flutter-174773-graph)
+Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 22 | [7](#flutter-flutter-174773-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 90 | 3
 Semi-transparent keyboard on iOS 26 reveals widgets that do not draw under it [flutter/flutter#179482](https://github.com/flutter/flutter/issues/179482) | 19 | 3
 Flutter should be able to interact with host clipboard for rich content [flutter/flutter#23603](https://github.com/flutter/flutter/issues/23603) | 129 | 2
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-accessibility` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-go_router` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-tool` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-engine` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 261 | [9](#flutter-flutter-61229-graph)
@@ -160,13 +160,13 @@ Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the e
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-ios` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [19](#flutter-flutter-162196-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 27 | [14](#flutter-flutter-186804-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 28 | [15](#flutter-flutter-186804-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [9](#flutter-flutter-173940-graph)
 [tool] `flutter clean` spends too much time in "Cleaning Xcode workspace" [flutter/flutter#127708](https://github.com/flutter/flutter/issues/127708) | 19 | 4
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 379 | 3
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-android` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -197,19 +197,19 @@ App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [f
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 1
 Stylus doesn't trigger PointerDownEvent [flutter/flutter#42846](https://github.com/flutter/flutter/issues/42846) | 24 | 1
 Support to manually dispose a `WebViewController` [flutter/flutter#119616](https://github.com/flutter/flutter/issues/119616) | 22 | 1
+[documentation] [tools] Decouple Flutter installation from Android Studio [flutter/flutter#71368](https://github.com/flutter/flutter/issues/71368) | 21 | 1
 Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects [flutter/flutter#54397](https://github.com/flutter/flutter/issues/54397) | 21 | 1
 Pausing on a breakpoint on Android shows the app "isn't responding" dialog [flutter/flutter#164524](https://github.com/flutter/flutter/issues/164524) | 21 | 1
-[documentation] [tools] Decouple Flutter installation from Android Studio [flutter/flutter#71368](https://github.com/flutter/flutter/issues/71368) | 21 | 1
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 21 | 1
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-web` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [39](#flutter-flutter-172561-graph)
-Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 21 | [6](#flutter-flutter-174773-graph)
+Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 22 | [7](#flutter-flutter-174773-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 61 | [5](#flutter-flutter-156910-graph)
 [WEB] ☂️ Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 116 | 4
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 90 | 3
@@ -226,7 +226,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,12 +248,12 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`team-ecosystem` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [web] ☂️ WebParagraph [flutter/flutter#172561](https://github.com/flutter/flutter/issues/172561) | 164 | [39](#flutter-flutter-172561-graph)
-Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 21 | [6](#flutter-flutter-174773-graph)
+Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 22 | [7](#flutter-flutter-174773-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 61 | [5](#flutter-flutter-156910-graph)
 [WEB] ☂️ Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 116 | 4
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 90 | 3
@@ -270,7 +270,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`dart-lang/sdk` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -287,19 +287,19 @@ Implement shared native memory multithreading [dart-lang/sdk#56841](https://gith
 INTENT TO DEPRECATE: dart:mirrors [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 73 | 4
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 45 | 4
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
+[hook] `hook/generate.dart` 🪝 [dart-lang/sdk#56512](https://github.com/dart-lang/sdk/issues/56512) | 12 | 4
 Linter rule to prevent returning futures from the try block [dart-lang/sdk#62555](https://github.com/dart-lang/sdk/issues/62555) | 8 | 4
-[analysis_server_plugin] dart analyze does not detect custom analyzer plugins rules when run on a folder [dart-lang/sdk#62710](https://github.com/dart-lang/sdk/issues/62710) | 7 | 4
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-06-22 to 2026-09-23.
+`dart-lang/language` issues that received the most reactions from 2026-06-22 to 2026-09-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
-Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
-Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
+Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
+Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 436 | [7](#dart-lang-language-356-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 290 | [7](#dart-lang-language-649-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
@@ -520,7 +520,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
 
 <a name="flutter-flutter-186804-graph"></a>
 ### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
-  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 27 total reactions, 14 recent reactions</sub><br />
+  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 28 total reactions, 15 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -529,24 +529,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
     y-axis "Reactions"
-    line [0, 13, 15, 17, 17, 20, 21, 24, 25, 26, 26, 26, 26, 27]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-191015-graph"></a>
-### Detect backspace/delete key press
-  <sub>[flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14]
+    line [0, 13, 15, 17, 17, 20, 21, 24, 25, 26, 26, 26, 26, 28]
   ```
 
   </details>
@@ -569,6 +552,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-191015-graph"></a>
+### Detect backspace/delete key press
+  <sub>[flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) &mdash; 14 total reactions, 14 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 13, 14, 14, 14, 14, 14]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-61957-graph"></a>
 ### [Dot shorthands] A new lint and fix to prefer dot shorthands
   <sub>[dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) &mdash; 84 total reactions, 12 recent reactions</sub><br />
@@ -586,9 +586,26 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4759-graph"></a>
-### Automatic type-parameter matching promotion
-  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 272 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
+    y-axis "Reactions"
+    line [262, 262, 266, 267, 267, 268, 268, 270, 270, 270, 270, 270, 270, 272]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4744-graph"></a>
+### [dart 4.0] Drop support for dart_internal
+  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -597,7 +614,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 10, 10, 10]
+    line [0, 0, 0, 0, 0, 0, 0, 7, 8, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -620,9 +637,9 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-language-4744-graph"></a>
-### [dart 4.0] Drop support for dart_internal
-  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+<a name="dart-lang-language-4759-graph"></a>
+### Automatic type-parameter matching promotion
+  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -631,7 +648,7 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   xychart-beta
     x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 7, 8, 10, 10, 10, 10, 10]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 10, 10, 10]
   ```
 
   </details>
@@ -688,23 +705,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 270 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
-    y-axis "Reactions"
-    line [262, 262, 266, 267, 267, 268, 268, 270, 270, 270, 270, 270, 270, 270]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-46196-graph"></a>
 ### Support creating files and sockets from file descriptors
   <sub>[dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) &mdash; 40 total reactions, 8 recent reactions</sub><br />
@@ -756,6 +756,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
+<a name="flutter-flutter-174773-graph"></a>
+### Password manager autofill does not work on web
+  <sub>[flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) &mdash; 22 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
+    y-axis "Reactions"
+    line [15, 15, 15, 17, 18, 18, 19, 19, 19, 21, 21, 21, 21, 22]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-1759-graph"></a>
 ### `async*` methods should start synchronously when their streams are listened to.
   <sub>[dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) &mdash; 15 total reactions, 7 recent reactions</sub><br />
@@ -790,23 +807,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64064-graph"></a>
-### (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling
-  <sub>[dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4755-graph"></a>
 ### Invariant collections
   <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -819,6 +819,23 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 5, 6, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-64064-graph"></a>
+### (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling
+  <sub>[dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -853,23 +870,6 @@ Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language
     x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
     y-axis "Reactions"
     line [17, 17, 17, 18, 19, 19, 19, 20, 20, 20, 23, 23, 23, 23]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174773-graph"></a>
-### Password manager autofill does not work on web
-  <sub>[flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) &mdash; 21 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 22, Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21]
-    y-axis "Reactions"
-    line [15, 15, 15, 17, 18, 18, 19, 19, 19, 21, 21, 21, 21, 21]
   ```
 
   </details>
