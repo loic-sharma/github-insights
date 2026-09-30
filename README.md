@@ -11,8 +11,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 25 | [25](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
-[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
+[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 30 | [17](#flutter-flutter-186804-graph)
@@ -68,7 +68,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 96 | 1
 InkWell and InkResponse not close enough to the real thing [flutter/flutter#20922](https://github.com/flutter/flutter/issues/20922) | 56 | 1
 [proposal] InkRipple and InkSplash implementations warrant improvements [flutter/flutter#73163](https://github.com/flutter/flutter/issues/73163) | 54 | 1
-Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 48 | 1
+[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 48 | 1
 
 #### Cupertino
 
@@ -190,6 +190,7 @@ Android build fails with certain plugins if project is in a different drive (fro
 Investigate path resolution for "libflutter.so" binary [flutter/flutter#151638](https://github.com/flutter/flutter/issues/151638) | 76 | 3
 remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 44 | 3
 Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 102 | 2
+Back gesture on Android 12+ kills app rather than backgrounding it [flutter/flutter#117061](https://github.com/flutter/flutter/issues/117061) | 32 | 2
 Allow to dynamically depend on plugins based on current app flavor [flutter/flutter#80940](https://github.com/flutter/flutter/issues/80940) | 15 | 2
 Add support for Android 13 per-app language preferences  [flutter/flutter#109842](https://github.com/flutter/flutter/issues/109842) | 101 | 1
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 92 | 1
@@ -200,7 +201,6 @@ systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32
 Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects [flutter/flutter#54397](https://github.com/flutter/flutter/issues/54397) | 21 | 1
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 20 | 1
 Haptic Feedback does not work properly on Samsung devices [flutter/flutter#73987](https://github.com/flutter/flutter/issues/73987) | 19 | 1
-[webview] Android Talk Back cannot focus on widgets via tap if they are over platformview [flutter/flutter#101887](https://github.com/flutter/flutter/issues/101887) | 18 | 1
 
 #### Web
 
@@ -232,7 +232,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
 Implement PlatformView support on Windows [flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) | 499 | [9](#flutter-flutter-31713-graph)
-macOS: Failed to foreground app; open returned 1 on Flutter 3.35.x [flutter/flutter#176850](https://github.com/flutter/flutter/issues/176850) | 16 | 3
+macOS: Failed to foreground app; open returned 1 on Flutter 3.35.x [flutter/flutter#176850](https://github.com/flutter/flutter/issues/176850) | 17 | 4
 Implement PlatformView support on macOS [flutter/flutter#41722](https://github.com/flutter/flutter/issues/41722) | 674 | 2
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 351 | 2
 Distribute Flutter as a Flatpak [flutter/flutter#41737](https://github.com/flutter/flutter/issues/41737) | 252 | 2
@@ -283,11 +283,11 @@ LSP: `textDocument/references` throws for an override of an Object's member [dar
 [breaking-change] Eliminate spurious null from iterable/stream type argument of generator functions [dart-lang/sdk#63795](https://github.com/dart-lang/sdk/issues/63795) | 6 | [6](#dart-lang-sdk-63795-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 232 | [5](#dart-lang-sdk-55281-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
+[analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 10 | [5](#dart-lang-sdk-63292-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 98 | 4
 INTENT TO DEPRECATE: dart:mirrors [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 73 | 4
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 45 | 4
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
-[analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 9 | 4
 Linter rule to prevent returning futures from the try block [dart-lang/sdk#62555](https://github.com/dart-lang/sdk/issues/62555) | 8 | 4
 
 ### Dart language
@@ -399,23 +399,6 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   </details>
   </sub>
 
-<a name="flutter-flutter-192515-graph"></a>
-### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
-  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-64037-graph"></a>
 ### False positive for `prefer_const_constructors_in_immutables` with primary constructors
   <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -428,6 +411,23 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
     x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-192515-graph"></a>
+### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
+  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20]
   ```
 
   </details>
@@ -989,6 +989,23 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
     x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
     y-axis "Reactions" 0 --> 20
     line [7, 8, 9, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-63292-graph"></a>
+### [analysis_server_plugin] Extremely slow
+  <sub>[dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) &mdash; 10 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions" 0 --> 20
+    line [5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 8, 8, 10]
   ```
 
   </details>
