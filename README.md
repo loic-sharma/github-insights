@@ -11,10 +11,10 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 25 | [25](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
-False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
+False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 32 | [19](#flutter-flutter-186804-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 31 | [18](#flutter-flutter-186804-graph)
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 727 | [15](#flutter-flutter-30701-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [15](#flutter-flutter-162196-graph)
@@ -68,7 +68,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 96 | 1
 InkWell and InkResponse not close enough to the real thing [flutter/flutter#20922](https://github.com/flutter/flutter/issues/20922) | 56 | 1
 [proposal] InkRipple and InkSplash implementations warrant improvements [flutter/flutter#73163](https://github.com/flutter/flutter/issues/73163) | 54 | 1
-[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 48 | 1
+Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 48 | 1
 
 #### Cupertino
 
@@ -90,12 +90,12 @@ Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https
 Image Keyboard for other platforms [flutter/flutter#132577](https://github.com/flutter/flutter/issues/132577) | 20 | 2
 Ability to change the keyboard language programmatically [flutter/flutter#99606](https://github.com/flutter/flutter/issues/99606) | 135 | 1
 [web] Textfield 'autofocus: true' doesn't show up the keyboard [flutter/flutter#58498](https://github.com/flutter/flutter/issues/58498) | 116 | 1
+[Windows] On screen keyboard pops up abnormally on touch screen tablets [flutter/flutter#99050](https://github.com/flutter/flutter/issues/99050) | 39 | 1
 [Android] TextField cursor doesn't move to tapped position, but converts into text selection mode after selecting input mode from virtual keyboard. [flutter/flutter#98720](https://github.com/flutter/flutter/issues/98720) | 31 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 1
 TextField: Keyboard not showing on `autofocus: true` after app is paused then resumed in Android [flutter/flutter#52599](https://github.com/flutter/flutter/issues/52599) | 24 | 1
 [Feature Request] Ability to copy WidgetSpan to clipboard [flutter/flutter#92506](https://github.com/flutter/flutter/issues/92506) | 21 | 1
 Allow custom spacing between helperText, errorText and border on InputDecoration [flutter/flutter#68117](https://github.com/flutter/flutter/issues/68117) | 19 | 1
-`suffixIcon/prefixIcon` alignment in an growing multiline TextField [flutter/flutter#95920](https://github.com/flutter/flutter/issues/95920) | 18 | 1
 
 #### Accessibility
 
@@ -154,7 +154,7 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 Support soft hyphenation (line breaks at U+00AD plus rendering a hyphen at the end of the line) [flutter/flutter#18443](https://github.com/flutter/flutter/issues/18443) | 351 | 1
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 337 | 1
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 74 | 1
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
+Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 1
 
 ### Platforms
 
@@ -165,7 +165,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 31 | [18](#flutter-flutter-186804-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 32 | [19](#flutter-flutter-186804-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [15](#flutter-flutter-162196-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [9](#flutter-flutter-173940-graph)
 [tool] `flutter clean` spends too much time in "Cleaning Xcode workspace" [flutter/flutter#127708](https://github.com/flutter/flutter/issues/127708) | 19 | 4
@@ -197,8 +197,8 @@ Add support for Android 13 per-app language preferences  [flutter/flutter#109842
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 46 | 1
 [Android] Autofill from saved credentials doesn't work [flutter/flutter#137760](https://github.com/flutter/flutter/issues/137760) | 26 | 1
 Stylus doesn't trigger PointerDownEvent [flutter/flutter#42846](https://github.com/flutter/flutter/issues/42846) | 24 | 1
-systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 21 | 1
 Expose Android setSystemGestureExclusionRects and getSystemGestureExclusionRects [flutter/flutter#54397](https://github.com/flutter/flutter/issues/54397) | 21 | 1
+systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 21 | 1
 Calling VirtualDisplayController::resize() just before VirtualDisplayController::dispose() causes a crash [flutter/flutter#154613](https://github.com/flutter/flutter/issues/154613) | 20 | 1
 Haptic Feedback does not work properly on Samsung devices [flutter/flutter#73987](https://github.com/flutter/flutter/issues/73987) | 19 | 1
 
@@ -297,9 +297,9 @@ Support creating files and sockets from file descriptors [dart-lang/sdk#46196](h
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
-[dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
 Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
+[dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 436 | [7](#dart-lang-language-356-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 290 | [7](#dart-lang-language-649-graph)
@@ -399,23 +399,6 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64037-graph"></a>
-### False positive for `prefer_const_constructors_in_immutables` with primary constructors
-  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-192515-graph"></a>
 ### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
   <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -433,6 +416,40 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64037-graph"></a>
+### False positive for `prefer_const_constructors_in_immutables` with primary constructors
+  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-186804-graph"></a>
+### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
+  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 32 total reactions, 19 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions"
+    line [13, 15, 17, 17, 20, 21, 24, 25, 26, 26, 26, 26, 28, 32]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-191322-graph"></a>
 ### [packages] Migrate packages to material_ui and cupertino_ui
   <sub>[flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) &mdash; 19 total reactions, 19 recent reactions</sub><br />
@@ -445,23 +462,6 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
     x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 15, 16, 16, 17, 17, 19, 19]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-186804-graph"></a>
-### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
-  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 31 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
-    y-axis "Reactions"
-    line [13, 15, 17, 17, 20, 21, 24, 25, 26, 26, 26, 26, 28, 31]
   ```
 
   </details>
@@ -586,23 +586,6 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   </details>
   </sub>
 
-<a name="dart-lang-language-4744-graph"></a>
-### [dart 4.0] Drop support for dart_internal
-  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 7, 8, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4759-graph"></a>
 ### Automatic type-parameter matching promotion
   <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -632,6 +615,23 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
     x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4744-graph"></a>
+### [dart 4.0] Drop support for dart_internal
+  <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 7, 8, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
