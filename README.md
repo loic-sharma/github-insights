@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-06-29 to 2026-10-01.
+Issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ LSP: `textDocument/references` throws for an override of an Object's member [dar
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-framework` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter clipboard should support images [flutter/flutter#32045](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-design` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ InkWell and InkResponse not close enough to the real thing [flutter/flutter#2092
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`f: cupertino` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Allow custom spacing between helperText, errorText and border on InputDecoration
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-accessibility` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-go_router` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-tool` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-engine` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 261 | [6](#flutter-flutter-61229-graph)
@@ -160,7 +160,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-ios` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-android` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Haptic Feedback does not work properly on Samsung devices [flutter/flutter#73987
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-web` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`team-ecosystem` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ New DOM renderer for Flutter web [flutter/flutter#139292](https://github.com/flu
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`dart-lang/sdk` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,14 +292,14 @@ Support creating files and sockets from file descriptors [dart-lang/sdk#46196](h
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-06-29 to 2026-10-01.
+`dart-lang/language` issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
-Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
 Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
+Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 Abstract static methods [dart-lang/language#356](https://github.com/dart-lang/language/issues/356) | 436 | [7](#dart-lang-language-356-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 290 | [7](#dart-lang-language-649-graph)
@@ -603,23 +603,6 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   </details>
   </sub>
 
-<a name="dart-lang-language-4767-graph"></a>
-### Allow user-declared `operator !`.
-  <sub>[dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4759-graph"></a>
 ### Automatic type-parameter matching promotion
   <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -632,6 +615,23 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
     x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4767-graph"></a>
+### Allow user-declared `operator !`.
+  <sub>[dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10]
   ```
 
   </details>
