@@ -6,13 +6,13 @@ Issues that received the most reactions from 2026-06-29 to 2026-10-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 725 | [44](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 726 | [45](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 819 | [28](#flutter-flutter-168813-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 25 | [25](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
-[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
+[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 32 | [19](#flutter-flutter-186804-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 [GNU/Linux][Bug Report / Question] Unable to use mimalloc after (excluding) Flutter 3.41.9 [flutter/flutter#188877](https://github.com/flutter/flutter/issues/188877) | 18 | [18](#flutter-flutter-188877-graph)
@@ -54,7 +54,7 @@ Flutter clipboard should support images [flutter/flutter#32045](https://github.c
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 725 | [44](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 726 | [45](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 819 | [28](#flutter-flutter-168813-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1022 | [5](#flutter-flutter-101479-graph)
@@ -68,7 +68,7 @@ Add new Cupertino calendar date picker mode [flutter/flutter#63693](https://gith
 Can't swipe to dismiss scrollable Bottom Sheet [flutter/flutter#36283](https://github.com/flutter/flutter/issues/36283) | 96 | 1
 InkWell and InkResponse not close enough to the real thing [flutter/flutter#20922](https://github.com/flutter/flutter/issues/20922) | 56 | 1
 [proposal] InkRipple and InkSplash implementations warrant improvements [flutter/flutter#73163](https://github.com/flutter/flutter/issues/73163) | 54 | 1
-Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com/flutter/flutter/issues/108683) | 48 | 1
+[ListTile] Support custom height constraints of leading/trailing [flutter/flutter#98178](https://github.com/flutter/flutter/issues/98178) | 48 | 1
 
 #### Cupertino
 
@@ -141,7 +141,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 261 | [6](#flutter-flutter-61229-graph)
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 56 | [5](#flutter-flutter-174980-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 57 | [6](#flutter-flutter-174980-graph)
 text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 67 | 4
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 102 | 3
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 457 | 2
@@ -282,10 +282,10 @@ LSP: `textDocument/references` throws for an override of an Object's member [dar
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
 [breaking-change] Eliminate spurious null from iterable/stream type argument of generator functions [dart-lang/sdk#63795](https://github.com/dart-lang/sdk/issues/63795) | 6 | [6](#dart-lang-sdk-63795-graph)
 Dart Analyzer very slow/stuck [dart-lang/sdk#55281](https://github.com/dart-lang/sdk/issues/55281) | 232 | [5](#dart-lang-sdk-55281-graph)
+dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | [5](#dart-lang-sdk-44489-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 10 | [5](#dart-lang-sdk-63292-graph)
 Implement shared native memory multithreading [dart-lang/sdk#56841](https://github.com/dart-lang/sdk/issues/56841) | 98 | 4
-dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 73 | 4
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 45 | 4
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 41 | 4
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
@@ -316,7 +316,7 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 725 total reactions, 44 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 726 total reactions, 45 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   xychart-beta
     x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
     y-axis "Reactions"
-    line [683, 692, 692, 692, 694, 699, 711, 715, 716, 716, 719, 724, 724, 725]
+    line [683, 692, 692, 692, 694, 699, 711, 715, 716, 716, 719, 724, 724, 726]
   ```
 
   </details>
@@ -399,23 +399,6 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   </details>
   </sub>
 
-<a name="flutter-flutter-192515-graph"></a>
-### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
-  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-64037-graph"></a>
 ### False positive for `prefer_const_constructors_in_immutables` with primary constructors
   <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -428,6 +411,23 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
     x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-192515-graph"></a>
+### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
+  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20]
   ```
 
   </details>
@@ -841,6 +841,23 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   </details>
   </sub>
 
+<a name="flutter-flutter-174980-graph"></a>
+### [wimp] Impeller for web ☂️ 
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 57 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions"
+    line [51, 51, 51, 51, 53, 53, 53, 53, 53, 53, 53, 55, 55, 57]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-17793-graph"></a>
 ### Circular Progress Indicator CPU Spike 
   <sub>[flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) &mdash; 23 total reactions, 6 recent reactions</sub><br />
@@ -909,6 +926,23 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
   </details>
   </sub>
 
+<a name="dart-lang-sdk-44489-graph"></a>
+### dart:mirrors deprecation and discontinuation
+  <sub>[dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) &mdash; 74 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
+    y-axis "Reactions"
+    line [69, 71, 71, 71, 71, 71, 71, 71, 71, 71, 72, 73, 73, 74]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-156910-graph"></a>
 ### [web] Deprecate and remove `flutter_service_worker.js`
   <sub>[flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) &mdash; 61 total reactions, 5 recent reactions</sub><br />
@@ -921,23 +955,6 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
     x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
     y-axis "Reactions"
     line [56, 56, 56, 56, 59, 60, 60, 60, 60, 61, 61, 61, 61, 61]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174980-graph"></a>
-### [wimp] Impeller for web ☂️ 
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 56 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jun 29, Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28]
-    y-axis "Reactions"
-    line [51, 51, 51, 51, 53, 53, 53, 53, 53, 53, 53, 55, 55, 56]
   ```
 
   </details>
