@@ -11,8 +11,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 25 | [25](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
-[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
+[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 32 | [19](#flutter-flutter-186804-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 727 | [15](#flutter-flutter-30701-graph)
@@ -399,23 +399,6 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-192515-graph"></a>
-### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
-  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-64037-graph"></a>
 ### False positive for `prefer_const_constructors_in_immutables` with primary constructors
   <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 20 recent reactions</sub><br />
@@ -428,6 +411,23 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
     x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-192515-graph"></a>
+### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
+  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20, 20]
   ```
 
   </details>
