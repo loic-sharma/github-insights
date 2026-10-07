@@ -2,25 +2,25 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-07-06 to 2026-10-06.
+Issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 726 | [43](#flutter-flutter-170310-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 819 | [27](#flutter-flutter-168813-graph)
-SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 25 | [25](#dart-lang-sdk-64170-graph)
+SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 27 | [27](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
-False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 33 | [20](#flutter-flutter-186804-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 32 | [19](#flutter-flutter-186804-graph)
+False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 727 | [15](#flutter-flutter-30701-graph)
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [13](#dart-lang-sdk-61957-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [13](#flutter-flutter-162196-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
-Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
+Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/d
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-framework` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Scrollbar resizing and jumping [flutter/flutter#25652](https://github.com/flutte
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-design` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ Add Dropdown support to `FilterChip` [flutter/flutter#108683](https://github.com
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`f: cupertino` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-accessibility` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,23 +108,23 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-go_router` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-tool` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https://github.com/flutter/flutter/issues/27801) | 60 | 3
+[Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 128 | 2
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 28 | 2
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 430 | 1
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 176 | 1
-[Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 127 | 1
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 85 | 1
 Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 28 | 1
 [proposal] Provide way to generate platform files  in flutter module with custom minimum sdk  [flutter/flutter#78862](https://github.com/flutter/flutter/issues/78862) | 26 | 1
@@ -137,7 +137,7 @@ Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutt
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-engine` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 262 | [6](#flutter-flutter-61229-graph)
@@ -153,19 +153,19 @@ Image Keyboard for other platforms [flutter/flutter#132577](https://github.com/f
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 565 | 1
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 337 | 1
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 74 | 1
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 1
+Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-ios` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 33 | [20](#flutter-flutter-186804-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
-[tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 32 | [19](#flutter-flutter-186804-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [13](#flutter-flutter-162196-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [8](#flutter-flutter-173940-graph)
 [tool] `flutter clean` spends too much time in "Cleaning Xcode workspace" [flutter/flutter#127708](https://github.com/flutter/flutter/issues/127708) | 19 | 4
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-android` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-web` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`team-ecosystem` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,11 +270,11 @@ Web: include different files depending on the flavor [flutter/flutter#141371](ht
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`dart-lang/sdk` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 25 | [25](#dart-lang-sdk-64170-graph)
+SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 27 | [27](#dart-lang-sdk-64170-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [13](#dart-lang-sdk-61957-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
@@ -292,14 +292,14 @@ Linter rule to prevent returning futures from the try block [dart-lang/sdk#62555
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-07-06 to 2026-10-06.
+`dart-lang/language` issues that received the most reactions from 2026-07-06 to 2026-10-07.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 21 | [21](#dart-lang-language-4726-graph)
-Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
 Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
+Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 10 | [10](#dart-lang-language-4767-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 290 | [7](#dart-lang-language-649-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
@@ -350,7 +350,7 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
 
 <a name="dart-lang-sdk-64170-graph"></a>
 ### SIMD tracking issue.
-  <sub>[dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) &mdash; 25 total reactions, 25 recent reactions</sub><br />
+  <sub>[dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) &mdash; 27 total reactions, 27 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -359,7 +359,7 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
   xychart-beta
     x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 22, 24, 24, 24, 25, 25]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 22, 24, 24, 24, 25, 27]
   ```
 
   </details>
@@ -399,9 +399,9 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64037-graph"></a>
-### False positive for `prefer_const_constructors_in_immutables` with primary constructors
-  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+<a name="flutter-flutter-186804-graph"></a>
+### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
+  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 33 total reactions, 20 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -409,8 +409,8 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
   ```mermaid
   xychart-beta
     x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20, 20]
+    y-axis "Reactions"
+    line [15, 17, 17, 20, 21, 24, 25, 26, 26, 26, 26, 28, 32, 33]
   ```
 
   </details>
@@ -433,9 +433,9 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
   </details>
   </sub>
 
-<a name="flutter-flutter-186804-graph"></a>
-### [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get`
-  <sub>[flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) &mdash; 32 total reactions, 19 recent reactions</sub><br />
+<a name="dart-lang-sdk-64037-graph"></a>
+### False positive for `prefer_const_constructors_in_immutables` with primary constructors
+  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 20 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -443,8 +443,8 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
   ```mermaid
   xychart-beta
     x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
-    y-axis "Reactions"
-    line [15, 17, 17, 20, 21, 24, 25, 26, 26, 26, 26, 28, 32, 32]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20, 20]
   ```
 
   </details>
@@ -552,23 +552,6 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
   </details>
   </sub>
 
-<a name="dart-lang-language-4767-graph"></a>
-### Allow user-declared `operator !`.
-  <sub>[dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4759-graph"></a>
 ### Automatic type-parameter matching promotion
   <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -598,6 +581,23 @@ Deprecate function formal parameters and function type aliases [dart-lang/langua
     x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 7, 8, 10, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4767-graph"></a>
+### Allow user-declared `operator !`.
+  <sub>[dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 6, Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
