@@ -281,9 +281,9 @@ LSP: `textDocument/references` throws for an override of an Object's member [dar
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 10 | [10](#dart-lang-sdk-64617-graph)
 [proposal] [dart2wasm] Wasm component model / WASI support [dart-lang/sdk#56366](https://github.com/dart-lang/sdk/issues/56366) | 26 | [9](#dart-lang-sdk-56366-graph)
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
+Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 6 | [6](#dart-lang-sdk-64619-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 10 | [5](#dart-lang-sdk-63292-graph)
-Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 5 | [5](#dart-lang-sdk-64619-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 42 | 4
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
 `dart format .` tries to access dependency's files in `build` [dart-lang/sdk#63427](https://github.com/dart-lang/sdk/issues/63427) | 21 | 4
@@ -300,8 +300,8 @@ Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/d
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 22 | [10](#dart-lang-language-4726-graph)
 Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
-Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
+Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 106 | [5](#dart-lang-language-2128-graph)
 Discontinue old-style typedef [dart-lang/language#2517](https://github.com/dart-lang/language/issues/2517) | 24 | [5](#dart-lang-language-2517-graph)
@@ -603,23 +603,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4759-graph"></a>
-### Automatic type-parameter matching promotion
-  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-64617-graph"></a>
 ### Find references/rename ignore declarations in a non-default conditional import/export variant
   <sub>[dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -632,6 +615,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4759-graph"></a>
+### Automatic type-parameter matching promotion
+  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -722,23 +722,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
-<a name="dart-lang-language-4755-graph"></a>
-### Invariant collections
-  <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4785-graph"></a>
 ### An invariant core library
   <sub>[dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -751,6 +734,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4755-graph"></a>
+### Invariant collections
+  <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8]
   ```
 
   </details>
@@ -875,6 +875,23 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64619-graph"></a>
+### Find references/rename miss implicit uses of a `call` method
+  <sub>[dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-2128-graph"></a>
 ### Record spreading
   <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 106 total reactions, 5 recent reactions</sub><br />
@@ -955,23 +972,6 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
     x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
     y-axis "Reactions" 0 --> 20
     line [5, 5, 5, 5, 5, 5, 6, 6, 6, 8, 8, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64619-graph"></a>
-### Find references/rename miss implicit uses of a `call` method
-  <sub>[dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 13, Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]
   ```
 
   </details>
