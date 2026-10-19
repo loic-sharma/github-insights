@@ -2,15 +2,15 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-07-20 to 2026-10-18.
+Issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 727 | [35](#flutter-flutter-170310-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
+[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 822 | [20](#flutter-flutter-168813-graph)
-[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 34 | [17](#flutter-flutter-186804-graph)
@@ -19,8 +19,8 @@ gen-l10n should support Standalone UI packages [flutter/flutter#191072](https://
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 86 | [13](#flutter-flutter-127852-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 62 | [11](#flutter-flutter-174980-graph)
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 11 | [11](#dart-lang-language-4767-graph)
-Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 10 | [10](#dart-lang-sdk-64617-graph)
 
 ## Trending issues by team
 
@@ -28,7 +28,7 @@ Find references/rename ignore declarations in a non-default conditional import/e
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-framework` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-design` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`f: cupertino` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-accessibility` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-go_router` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-tool` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,11 +137,11 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-engine` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 86 | [13](#flutter-flutter-127852-graph)
-[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 59 | [8](#flutter-flutter-174980-graph)
+[wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 62 | [11](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 262 | [6](#flutter-flutter-61229-graph)
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 102 | 3
 text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 67 | 3
@@ -160,11 +160,11 @@ Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-ios` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 20 | [20](#flutter-flutter-192515-graph)
+[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 34 | [17](#flutter-flutter-186804-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [9](#flutter-flutter-162196-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [7](#flutter-flutter-173940-graph)
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-android` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/f
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-web` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`team-ecosystem` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`dart-lang/sdk` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -283,16 +283,16 @@ Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#6461
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 10 | [5](#dart-lang-sdk-63292-graph)
+Find references misses uses of operators in other files [dart-lang/sdk#64629](https://github.com/dart-lang/sdk/issues/64629) | 5 | [5](#dart-lang-sdk-64629-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 42 | 4
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
 [dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
-Find references misses uses of operators in other files [dart-lang/sdk#64629](https://github.com/dart-lang/sdk/issues/64629) | 4 | 4
+Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
 dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | 3
-Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 45 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-07-20 to 2026-10-18.
+`dart-lang/language` issues that received the most reactions from 2026-07-20 to 2026-10-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -300,8 +300,8 @@ Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/d
 Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 22 | [9](#dart-lang-language-4726-graph)
-An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
+An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 106 | [5](#dart-lang-language-2128-graph)
 Discontinue old-style typedef [dart-lang/language#2517](https://github.com/dart-lang/language/issues/2517) | 24 | [5](#dart-lang-language-2517-graph)
@@ -323,9 +323,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [692, 694, 699, 711, 715, 716, 716, 719, 724, 724, 726, 726, 727]
+    line [692, 694, 699, 711, 715, 716, 716, 719, 724, 724, 726, 726, 727, 727]
   ```
 
   </details>
@@ -340,9 +340,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 22, 24, 24, 24, 25, 28, 28]
+    line [0, 0, 0, 0, 0, 0, 22, 24, 24, 24, 25, 28, 28, 28]
   ```
 
   </details>
@@ -357,9 +357,26 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 21, 23, 23, 23, 23, 23, 23]
+    line [0, 0, 0, 0, 0, 0, 21, 23, 23, 23, 23, 23, 23, 23]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-192515-graph"></a>
+### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
+  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 22 total reactions, 22 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20, 20, 20, 22]
   ```
 
   </details>
@@ -374,26 +391,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [806, 806, 809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-192515-graph"></a>
-### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
-  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 19, 20, 20, 20, 20]
+    line [806, 806, 809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822, 822]
   ```
 
   </details>
@@ -408,9 +408,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20, 20, 20]
+    line [0, 0, 0, 8, 17, 18, 18, 19, 19, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -425,9 +425,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 15, 16, 16, 17, 17, 19, 19, 19, 19]
+    line [0, 0, 0, 0, 15, 16, 16, 17, 17, 19, 19, 19, 19, 19]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [17, 20, 21, 24, 25, 26, 26, 26, 26, 28, 32, 34, 34]
+    line [17, 20, 21, 24, 25, 26, 26, 26, 26, 28, 32, 34, 34, 34]
   ```
 
   </details>
@@ -459,9 +459,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [713, 719, 720, 720, 721, 721, 722, 726, 726, 727, 727, 727, 727]
+    line [713, 719, 720, 720, 721, 721, 722, 726, 726, 727, 727, 727, 727, 727]
   ```
 
   </details>
@@ -476,9 +476,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
   ```
 
   </details>
@@ -493,9 +493,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14]
+    line [0, 0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -510,9 +510,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [73, 73, 73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86]
+    line [73, 73, 73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 86]
   ```
 
   </details>
@@ -527,9 +527,26 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-174980-graph"></a>
+### [wimp] Impeller for web ☂️ 
+  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 62 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
+    y-axis "Reactions"
+    line [51, 53, 53, 53, 53, 53, 53, 53, 55, 55, 57, 58, 59, 62]
   ```
 
   </details>
@@ -544,26 +561,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 11, 11]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64617-graph"></a>
-### Find references/rename ignore declarations in a non-default conditional import/export variant
-  <sub>[dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10]
+    line [0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 11, 11, 11]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10]
+    line [0, 0, 0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -595,9 +595,26 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 7, 8, 10, 10, 10, 10, 10, 10, 10, 10]
+    line [0, 0, 0, 7, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-64617-graph"></a>
+### Find references/rename ignore declarations in a non-default conditional import/export variant
+  <sub>[dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10]
   ```
 
   </details>
@@ -612,9 +629,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [490, 491, 491, 491, 492, 492, 494, 494, 494, 494, 499, 499, 499]
+    line [490, 491, 491, 491, 492, 492, 494, 494, 494, 494, 499, 499, 499, 499]
   ```
 
   </details>
@@ -629,9 +646,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [77, 78, 79, 80, 80, 80, 80, 80, 84, 84, 85, 85, 85]
+    line [77, 78, 79, 80, 80, 80, 80, 80, 84, 84, 85, 85, 85, 85]
   ```
 
   </details>
@@ -646,9 +663,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [34, 36, 36, 38, 39, 39, 41, 41, 41, 42, 42, 42, 42]
+    line [34, 36, 36, 38, 39, 39, 41, 41, 41, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -663,43 +680,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [16, 16, 17, 18, 19, 20, 21, 21, 21, 21, 21, 22, 22]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-174980-graph"></a>
-### [wimp] Impeller for web ☂️ 
-  <sub>[flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) &mdash; 59 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
-    y-axis "Reactions"
-    line [51, 53, 53, 53, 53, 53, 53, 53, 55, 55, 57, 58, 59]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4785-graph"></a>
-### An invariant core library
-  <sub>[dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8]
+    line [16, 16, 17, 18, 19, 20, 21, 21, 21, 21, 21, 22, 22, 22]
   ```
 
   </details>
@@ -714,9 +697,26 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8]
+    line [0, 0, 0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4785-graph"></a>
+### An invariant core library
+  <sub>[dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8, 8]
   ```
 
   </details>
@@ -731,9 +731,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [267, 268, 268, 270, 270, 270, 270, 270, 270, 273, 273, 274, 274]
+    line [267, 268, 268, 270, 270, 270, 270, 270, 270, 273, 273, 274, 274, 274]
   ```
 
   </details>
@@ -748,9 +748,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 94, 94, 94]
+    line [90, 90, 90, 90, 90, 90, 90, 90, 90, 90, 94, 94, 94, 94]
   ```
 
   </details>
@@ -765,9 +765,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [38, 38, 38, 41, 42, 43, 44, 44, 44, 44, 44, 44, 44]
+    line [38, 38, 38, 41, 42, 43, 44, 44, 44, 44, 44, 44, 44, 44]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [18, 18, 19, 19, 19, 21, 21, 21, 21, 22, 23, 24, 24]
+    line [18, 18, 19, 19, 19, 21, 21, 21, 21, 22, 23, 24, 24, 24]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [8, 8, 8, 8, 8, 8, 8, 8, 15, 15, 15, 15, 15]
+    line [8, 8, 8, 8, 8, 8, 8, 8, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7]
   ```
 
   </details>
@@ -833,9 +833,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7]
+    line [0, 0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
@@ -850,9 +850,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [257, 257, 258, 259, 259, 259, 259, 260, 261, 261, 261, 262, 262]
+    line [257, 257, 258, 259, 259, 259, 259, 260, 261, 261, 261, 262, 262, 262]
   ```
 
   </details>
@@ -867,9 +867,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [101, 101, 103, 103, 104, 104, 105, 105, 105, 105, 105, 106, 106]
+    line [101, 101, 103, 103, 104, 104, 105, 105, 105, 105, 105, 106, 106, 106]
   ```
 
   </details>
@@ -884,9 +884,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [56, 59, 60, 60, 60, 60, 61, 61, 61, 61, 61, 61, 61]
+    line [56, 59, 60, 60, 60, 60, 61, 61, 61, 61, 61, 61, 61, 61]
   ```
 
   </details>
@@ -901,9 +901,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [22, 22, 22, 22, 22, 23, 23, 23, 23, 24, 24, 24, 24]
+    line [22, 22, 22, 22, 22, 23, 23, 23, 23, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -918,9 +918,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [19, 19, 19, 20, 20, 20, 23, 23, 23, 23, 23, 23, 23]
+    line [19, 19, 19, 20, 20, 20, 23, 23, 23, 23, 23, 23, 23, 23]
   ```
 
   </details>
@@ -935,9 +935,9 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [15, 15, 15, 15, 15, 16, 16, 16, 17, 17, 20, 20, 20]
+    line [15, 15, 15, 15, 15, 16, 16, 16, 17, 17, 20, 20, 20, 20]
   ```
 
   </details>
@@ -952,9 +952,26 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12]
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
-    line [5, 5, 5, 5, 5, 6, 6, 6, 8, 8, 10, 10, 10]
+    line [5, 5, 5, 5, 5, 6, 6, 6, 8, 8, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-64629-graph"></a>
+### Find references misses uses of operators in other files
+  <sub>[dart-lang/sdk#64629](https://github.com/dart-lang/sdk/issues/64629) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5]
   ```
 
   </details>
