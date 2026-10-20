@@ -10,7 +10,7 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 822 | [20](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 823 | [21](#flutter-flutter-168813-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 34 | [17](#flutter-flutter-186804-graph)
@@ -55,7 +55,7 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 727 | [35](#flutter-flutter-170310-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 822 | [20](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 823 | [21](#flutter-flutter-168813-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1022 | 4
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 162 | 4
@@ -303,7 +303,7 @@ Automatic type-parameter matching promotion [dart-lang/language#4759](https://gi
 An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
-Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 106 | [5](#dart-lang-language-2128-graph)
+Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 107 | [6](#dart-lang-language-2128-graph)
 Discontinue old-style typedef [dart-lang/language#2517](https://github.com/dart-lang/language/issues/2517) | 24 | [5](#dart-lang-language-2517-graph)
 Add possibility to consistently get object property name [dart-lang/language#251](https://github.com/dart-lang/language/issues/251) | 114 | 4
 Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](https://github.com/dart-lang/language/issues/2077) | 17 | 4
@@ -384,7 +384,7 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
 <a name="flutter-flutter-168813-graph"></a>
 ### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 822 total reactions, 20 recent reactions</sub><br />
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 823 total reactions, 21 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -393,7 +393,7 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
   xychart-beta
     x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [806, 806, 809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822, 822]
+    line [806, 806, 809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822, 823]
   ```
 
   </details>
@@ -860,7 +860,7 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
 <a name="dart-lang-language-2128-graph"></a>
 ### Record spreading
-  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 106 total reactions, 5 recent reactions</sub><br />
+  <sub>[dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) &mdash; 107 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -869,7 +869,7 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
   xychart-beta
     x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions"
-    line [101, 101, 103, 103, 104, 104, 105, 105, 105, 105, 105, 106, 106, 106]
+    line [101, 101, 103, 103, 104, 104, 105, 105, 105, 105, 105, 106, 106, 107]
   ```
 
   </details>
