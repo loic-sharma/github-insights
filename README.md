@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-07-20 to 2026-10-21.
+Issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ LSP: `textDocument/references` throws for an override of an Object's member [dar
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-framework` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-design` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`f: cupertino` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-accessibility` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-go_router` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-tool` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-engine` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 88 | [15](#flutter-flutter-127852-graph)
@@ -152,15 +152,15 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 457 | 1
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 1
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 337 | 1
+Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 90 | 1
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 61 | 1
 Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
-Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 1
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-ios` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Stuttering while scrolling PlatformViews only on iPhone 12 onwards (works on iPh
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-android` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/f
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-web` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`team-ecosystem` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`dart-lang/sdk` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://githu
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-07-20 to 2026-10-21.
+`dart-lang/language` issues that received the most reactions from 2026-07-20 to 2026-10-22.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
