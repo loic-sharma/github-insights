@@ -68,7 +68,7 @@ Support for M3 Docked `DatePicker` [flutter/flutter#114088](https://github.com/f
 InteractiveViewer double tap to zoom [flutter/flutter#64156](https://github.com/flutter/flutter/issues/64156) | 29 | 1
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 27 | 1
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 24 | 1
-consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533](https://github.com/flutter/flutter/issues/154533) | 19 | 1
+[MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 19 | 1
 
 #### Cupertino
 
@@ -154,7 +154,7 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 1
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 90 | 1
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 61 | 1
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
+Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 1
 
 ### Platforms
 
@@ -239,12 +239,12 @@ Implement PlatformView support on macOS [flutter/flutter#41722](https://github.c
 [webview_flutter] Add Windows support [flutter/flutter#37597](https://github.com/flutter/flutter/issues/37597) | 351 | 2
 [Windows Arm64] Create Flutter SDK for Windows Arm64 [flutter/flutter#136417](https://github.com/flutter/flutter/issues/136417) | 31 | 2
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 200 | 1
+Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 91 | 1
 Transparent Backgrounds for Flutter Windows Desktop Applications. [flutter/flutter#71735](https://github.com/flutter/flutter/issues/71735) | 86 | 1
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 79 | 1
 [in_app_purchase] Add support for Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 75 | 1
 [Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 66 | 1
 Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 54 | 1
-[macos] Transparent FlutterViewController [flutter/flutter#59969](https://github.com/flutter/flutter/issues/59969) | 40 | 1
 
 ### Ecosystem
 
@@ -286,8 +286,8 @@ Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#5478
 Find references misses uses of operators in other files [dart-lang/sdk#64629](https://github.com/dart-lang/sdk/issues/64629) | 5 | [5](#dart-lang-sdk-64629-graph)
 Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 42 | 4
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
-[dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
 Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
+[dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
 dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | 3
 
 ### Dart language
@@ -300,8 +300,8 @@ Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/d
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
 Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 22 | [9](#dart-lang-language-4726-graph)
-An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
+An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 107 | [6](#dart-lang-language-2128-graph)
 Discontinue old-style typedef [dart-lang/language#2517](https://github.com/dart-lang/language/issues/2517) | 24 | [5](#dart-lang-language-2517-graph)
@@ -688,23 +688,6 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
   </details>
   </sub>
 
-<a name="dart-lang-language-4785-graph"></a>
-### An invariant core library
-  <sub>[dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4755-graph"></a>
 ### Invariant collections
   <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -717,6 +700,23 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
     x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4785-graph"></a>
+### An invariant core library
+  <sub>[dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 20, Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8, 8]
   ```
 
   </details>
