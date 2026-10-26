@@ -281,14 +281,14 @@ Find references/rename ignore declarations in a non-default conditional import/e
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [8](#dart-lang-sdk-61957-graph)
 Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
+investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 6 | [6](#dart-lang-sdk-64137-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 10 | [5](#dart-lang-sdk-63292-graph)
-investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 5 | [5](#dart-lang-sdk-64137-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
 [dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
 Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
+Use a real/persistent ByteStore in analyzer plugins [dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) | 4 | 4
 dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | 3
-Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 45 | 3
 
 ### Dart language
 
@@ -858,6 +858,23 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64137-graph"></a>
+### investigate ways to run AOT compiled code on Graphene OS when DCL is restricted
+  <sub>[dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
   <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1022 total reactions, 5 recent reactions</sub><br />
@@ -955,23 +972,6 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions" 0 --> 20
     line [5, 5, 5, 5, 6, 6, 6, 8, 8, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64137-graph"></a>
-### investigate ways to run AOT compiled code on Graphene OS when DCL is restricted
-  <sub>[dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
   ```
 
   </details>
