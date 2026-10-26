@@ -15,9 +15,9 @@ False positive for `prefer_const_constructors_in_immutables` with primary constr
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 823 | [17](#flutter-flutter-168813-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 90 | [17](#flutter-flutter-127852-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 34 | [16](#flutter-flutter-186804-graph)
+[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 15 | [15](#flutter-flutter-194435-graph)
 gen-l10n should support Standalone UI packages [flutter/flutter#191072](https://github.com/flutter/flutter/issues/191072) | 14 | [14](#flutter-flutter-191072-graph)
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
-[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 14 | [14](#flutter-flutter-194435-graph)
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 13 | [13](#dart-lang-language-4767-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 63 | [12](#flutter-flutter-174980-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
@@ -68,7 +68,7 @@ SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#425
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 24 | 1
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 19 | 1
 consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533](https://github.com/flutter/flutter/issues/154533) | 19 | 1
-Rapid switching with AnimatedSwitcher leads to duplicate keys  [flutter/flutter#121336](https://github.com/flutter/flutter/issues/121336) | 18 | 1
+`suffixIcon/prefixIcon` alignment in an growing multiline TextField [flutter/flutter#95920](https://github.com/flutter/flutter/issues/95920) | 18 | 1
 
 #### Cupertino
 
@@ -154,7 +154,7 @@ TextOverflow.ellipsis not applied properly with multi-line Text with maxLines se
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 565 | 1
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 1
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 61 | 1
-Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 1
+Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
 
 ### Platforms
 
@@ -166,7 +166,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 34 | [16](#flutter-flutter-186804-graph)
-[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 14 | [14](#flutter-flutter-194435-graph)
+[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 15 | [15](#flutter-flutter-194435-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [7](#flutter-flutter-162196-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [6](#flutter-flutter-173940-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 379 | 3
@@ -221,8 +221,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 45 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
+[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 
 #### Desktop
 
@@ -265,8 +265,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 45 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
+[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 
 ### Dart SDK
 
@@ -285,8 +285,8 @@ Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#5478
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 10 | [5](#dart-lang-sdk-63292-graph)
 investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 5 | [5](#dart-lang-sdk-64137-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
-Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
 [dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
+Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
 dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | 3
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 45 | 3
 
@@ -299,8 +299,8 @@ Issue | Total reactions | Recent reactions
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 13 | [13](#dart-lang-language-4767-graph)
 Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
-Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
+Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 107 | [6](#dart-lang-language-2128-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 22 | [6](#dart-lang-language-4726-graph)
@@ -467,6 +467,23 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
+<a name="flutter-flutter-194435-graph"></a>
+### [google_sign_in] Update to GoogleSignIn-iOS 10
+  <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 15 total reactions, 15 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 15]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-191072-graph"></a>
 ### gen-l10n should support Standalone UI packages
   <sub>[flutter/flutter#191072](https://github.com/flutter/flutter/issues/191072) &mdash; 14 total reactions, 14 recent reactions</sub><br />
@@ -496,23 +513,6 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-194435-graph"></a>
-### [google_sign_in] Update to GoogleSignIn-iOS 10
-  <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14]
   ```
 
   </details>
@@ -671,23 +671,6 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
-<a name="dart-lang-language-4755-graph"></a>
-### Invariant collections
-  <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 8 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8, 8, 8]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4785-graph"></a>
 ### An invariant core library
   <sub>[dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -700,6 +683,23 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8, 8, 8]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4755-graph"></a>
+### Invariant collections
+  <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 8 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8, 8, 8]
   ```
 
   </details>
