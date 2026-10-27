@@ -6,14 +6,14 @@ Issues that received the most reactions from 2026-07-27 to 2026-10-27.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 727 | [35](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 728 | [36](#flutter-flutter-170310-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 824 | [18](#flutter-flutter-168813-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 91 | [18](#flutter-flutter-127852-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 823 | [17](#flutter-flutter-168813-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 34 | [16](#flutter-flutter-186804-graph)
 [google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 16 | [16](#flutter-flutter-194435-graph)
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -54,9 +54,9 @@ Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 727 | [35](#flutter-flutter-170310-graph)
+Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 728 | [36](#flutter-flutter-170310-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
-☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 823 | [17](#flutter-flutter-168813-graph)
+☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 824 | [18](#flutter-flutter-168813-graph)
 ☂️ Move the material and cupertino packages outside of Flutter [flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) | 1022 | [5](#flutter-flutter-101479-graph)
 Support Material Symbols  [flutter/flutter#102560](https://github.com/flutter/flutter/issues/102560) | 162 | 3
 Ink widget decoration visible or/and renders outside the ListView boundary up to the cacheExtent. [flutter/flutter#73315](https://github.com/flutter/flutter/issues/73315) | 25 | 2
@@ -66,9 +66,9 @@ Support for M3 Docked `DatePicker` [flutter/flutter#114088](https://github.com/f
 InteractiveViewer double tap to zoom [flutter/flutter#64156](https://github.com/flutter/flutter/issues/64156) | 29 | 1
 SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#42588](https://github.com/flutter/flutter/issues/42588) | 27 | 1
 CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](https://github.com/flutter/flutter/issues/119558) | 24 | 1
-consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533](https://github.com/flutter/flutter/issues/154533) | 19 | 1
 [MouseCursor] Android-specific guidance from PR #171796 was incorrectly applied globally, removing click cursors on desktop [flutter/flutter#182466](https://github.com/flutter/flutter/issues/182466) | 19 | 1
-`suffixIcon/prefixIcon` alignment in an growing multiline TextField [flutter/flutter#95920](https://github.com/flutter/flutter/issues/95920) | 18 | 1
+consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533](https://github.com/flutter/flutter/issues/154533) | 19 | 1
+Rapid switching with AnimatedSwitcher leads to duplicate keys  [flutter/flutter#121336](https://github.com/flutter/flutter/issues/121336) | 18 | 1
 
 #### Cupertino
 
@@ -208,8 +208,8 @@ Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/f
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+[WEB] ☂️ Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 117 | [6](#flutter-flutter-149031-graph)
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 24 | [6](#flutter-flutter-174773-graph)
-[WEB] ☂️ Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 116 | [5](#flutter-flutter-149031-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 61 | [5](#flutter-flutter-156910-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 94 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 69 | 3
@@ -221,8 +221,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 45 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
+[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 
 #### Desktop
 
@@ -252,8 +252,8 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
+[WEB] ☂️ Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 117 | [6](#flutter-flutter-149031-graph)
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 24 | [6](#flutter-flutter-174773-graph)
-[WEB] ☂️ Web Cache invalidation based on pubspec.yaml version [flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) | 116 | [5](#flutter-flutter-149031-graph)
 [web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 61 | [5](#flutter-flutter-156910-graph)
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 94 | 4
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 69 | 3
@@ -265,8 +265,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 45 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
+[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 
 ### Dart SDK
 
@@ -278,10 +278,10 @@ SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issu
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 11 | [11](#dart-lang-sdk-64617-graph)
+investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 9 | [9](#dart-lang-sdk-64137-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [8](#dart-lang-sdk-61957-graph)
-Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
-investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 6 | [6](#dart-lang-sdk-64137-graph)
+Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 10 | [5](#dart-lang-sdk-63292-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
@@ -297,8 +297,8 @@ dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 13 | [13](#dart-lang-language-4767-graph)
-Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
+Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
@@ -316,7 +316,7 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
 
 <a name="flutter-flutter-170310-graph"></a>
 ### Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets
-  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 727 total reactions, 35 recent reactions</sub><br />
+  <sub>[flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) &mdash; 728 total reactions, 36 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   xychart-beta
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions"
-    line [694, 699, 711, 715, 716, 716, 719, 724, 724, 726, 726, 727, 727, 727]
+    line [694, 699, 711, 715, 716, 716, 719, 724, 724, 726, 726, 727, 727, 728]
   ```
 
   </details>
@@ -416,6 +416,23 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
+<a name="flutter-flutter-168813-graph"></a>
+### ☂️ Bring Material 3 Expressive to Flutter
+  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 824 total reactions, 18 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions"
+    line [806, 809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822, 823, 824]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-127852-graph"></a>
 ### [Impeller] Implement Wide Gamut colors for Vulkan
   <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 91 total reactions, 18 recent reactions</sub><br />
@@ -428,23 +445,6 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions"
     line [73, 73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 91]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-168813-graph"></a>
-### ☂️ Bring Material 3 Expressive to Flutter
-  <sub>[flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) &mdash; 823 total reactions, 17 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions"
-    line [806, 809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822, 823, 823]
   ```
 
   </details>
@@ -586,23 +586,6 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
-<a name="dart-lang-language-4759-graph"></a>
-### Automatic type-parameter matching promotion
-  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4744-graph"></a>
 ### [dart 4.0] Drop support for dart_internal
   <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -615,6 +598,23 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 7, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4759-graph"></a>
+### Automatic type-parameter matching promotion
+  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -649,6 +649,23 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions"
     line [491, 491, 491, 492, 492, 494, 494, 494, 494, 499, 499, 499, 499, 499]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-64137-graph"></a>
+### investigate ways to run AOT compiled code on Graphene OS when DCL is restricted
+  <sub>[dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) &mdash; 9 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 9]
   ```
 
   </details>
@@ -756,6 +773,23 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64064-graph"></a>
+### (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling
+  <sub>[dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-64619-graph"></a>
 ### Find references/rename miss implicit uses of a `call` method
   <sub>[dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -773,9 +807,9 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64064-graph"></a>
-### (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling
-  <sub>[dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+<a name="flutter-flutter-149031-graph"></a>
+### [WEB] ☂️ Web Cache invalidation based on pubspec.yaml version
+  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 117 total reactions, 6 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -783,8 +817,8 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   ```mermaid
   xychart-beta
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+    y-axis "Reactions"
+    line [112, 113, 113, 114, 114, 115, 115, 115, 116, 116, 116, 115, 116, 117]
   ```
 
   </details>
@@ -858,23 +892,6 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64137-graph"></a>
-### investigate ways to run AOT compiled code on Graphene OS when DCL is restricted
-  <sub>[dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) &mdash; 6 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
   <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1022 total reactions, 5 recent reactions</sub><br />
@@ -904,23 +921,6 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions"
     line [257, 258, 259, 259, 259, 259, 260, 261, 261, 261, 262, 262, 262, 262]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-149031-graph"></a>
-### [WEB] ☂️ Web Cache invalidation based on pubspec.yaml version
-  <sub>[flutter/flutter#149031](https://github.com/flutter/flutter/issues/149031) &mdash; 116 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions"
-    line [112, 113, 113, 114, 114, 115, 115, 115, 116, 116, 116, 115, 116, 116]
   ```
 
   </details>
