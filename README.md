@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-07-27 to 2026-10-27.
+Issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ LSP: `textDocument/references` throws for an override of an Object's member [dar
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-framework` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-design` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`f: cupertino` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-accessibility` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-go_router` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-tool` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-engine` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 92 | [19](#flutter-flutter-127852-graph)
@@ -160,7 +160,7 @@ Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-ios` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-android` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/f
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-web` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`team-ecosystem` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`dart-lang/sdk` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -278,7 +278,7 @@ SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issu
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 11 | [11](#dart-lang-sdk-64617-graph)
-investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 9 | [9](#dart-lang-sdk-64137-graph)
+investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 10 | [10](#dart-lang-sdk-64137-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [8](#dart-lang-sdk-61957-graph)
 Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
@@ -292,7 +292,7 @@ dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://githu
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-07-27 to 2026-10-27.
+`dart-lang/language` issues that received the most reactions from 2026-07-27 to 2026-10-28.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -620,6 +620,23 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64137-graph"></a>
+### investigate ways to run AOT compiled code on Graphene OS when DCL is restricted
+  <sub>[dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 10]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 728 total reactions, 9 recent reactions</sub><br />
@@ -649,23 +666,6 @@ Open enums [dart-lang/language#2647](https://github.com/dart-lang/language/issue
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions"
     line [491, 491, 491, 492, 492, 494, 494, 494, 494, 499, 499, 499, 499, 499]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64137-graph"></a>
-### investigate ways to run AOT compiled code on Graphene OS when DCL is restricted
-  <sub>[dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) &mdash; 9 total reactions, 9 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 9]
   ```
 
   </details>
