@@ -8,13 +8,13 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 728 | [36](#flutter-flutter-170310-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
+[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 97 | [24](#flutter-flutter-127852-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
-[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 95 | [22](#flutter-flutter-127852-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
+[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 20 | [20](#flutter-flutter-194435-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 824 | [18](#flutter-flutter-168813-graph)
-[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 18 | [18](#flutter-flutter-194435-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 35 | [17](#flutter-flutter-186804-graph)
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
 gen-l10n should support Standalone UI packages [flutter/flutter#191072](https://github.com/flutter/flutter/issues/191072) | 14 | [14](#flutter-flutter-191072-graph)
@@ -140,7 +140,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 `team-engine` issues that received the most reactions from 2026-07-27 to 2026-10-30.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 95 | [22](#flutter-flutter-127852-graph)
+[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 97 | [24](#flutter-flutter-127852-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 63 | [12](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 262 | [5](#flutter-flutter-61229-graph)
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 102 | 3
@@ -165,7 +165,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
-[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 18 | [18](#flutter-flutter-194435-graph)
+[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 20 | [20](#flutter-flutter-194435-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 35 | [17](#flutter-flutter-186804-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [7](#flutter-flutter-162196-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [6](#flutter-flutter-173940-graph)
@@ -278,7 +278,7 @@ SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issu
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 11 | [11](#dart-lang-sdk-64617-graph)
-investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 10 | [10](#dart-lang-sdk-64137-graph)
+investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 11 | [11](#dart-lang-sdk-64137-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [8](#dart-lang-sdk-61957-graph)
 Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
@@ -348,6 +348,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="flutter-flutter-127852-graph"></a>
+### [Impeller] Implement Wide Gamut colors for Vulkan
+  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 97 total reactions, 24 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions"
+    line [73, 73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 97]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-192261-graph"></a>
 ### flutter attach has no --flavor, so appFlavor becomes null after hot restart
   <sub>[flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -360,23 +377,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 21, 23, 23, 23, 23, 23, 23, 23, 23]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-127852-graph"></a>
-### [Impeller] Implement Wide Gamut colors for Vulkan
-  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 95 total reactions, 22 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions"
-    line [73, 73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 95]
   ```
 
   </details>
@@ -416,6 +416,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="flutter-flutter-194435-graph"></a>
+### [google_sign_in] Update to GoogleSignIn-iOS 10
+  <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 20 total reactions, 20 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-191322-graph"></a>
 ### [packages] Migrate packages to material_ui and cupertino_ui
   <sub>[flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) &mdash; 19 total reactions, 19 recent reactions</sub><br />
@@ -445,23 +462,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions"
     line [806, 809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822, 823, 824]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-194435-graph"></a>
-### [google_sign_in] Update to GoogleSignIn-iOS 10
-  <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 18 total reactions, 18 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 18]
   ```
 
   </details>
@@ -586,6 +586,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64137-graph"></a>
+### investigate ways to run AOT compiled code on Graphene OS when DCL is restricted
+  <sub>[dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) &mdash; 11 total reactions, 11 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 11]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4744-graph"></a>
 ### [dart 4.0] Drop support for dart_internal
   <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -615,23 +632,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64137-graph"></a>
-### investigate ways to run AOT compiled code on Graphene OS when DCL is restricted
-  <sub>[dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Jul 27, Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 10]
   ```
 
   </details>
