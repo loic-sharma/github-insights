@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-03 to 2026-11-01.
+Issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -11,15 +11,15 @@ SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issu
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 99 | [26](#flutter-flutter-127852-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
+[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 21 | [21](#flutter-flutter-194435-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
-[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 20 | [20](#flutter-flutter-194435-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 824 | [18](#flutter-flutter-168813-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 35 | [15](#flutter-flutter-186804-graph)
-Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
 gen-l10n should support Standalone UI packages [flutter/flutter#191072](https://github.com/flutter/flutter/issues/191072) | 14 | [14](#flutter-flutter-191072-graph)
-Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 13 | [13](#dart-lang-language-4767-graph)
+Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
 investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 13 | [13](#dart-lang-sdk-64137-graph)
+Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 13 | [13](#dart-lang-language-4767-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 
 ## Trending issues by team
@@ -28,7 +28,7 @@ LSP: `textDocument/references` throws for an override of an Object's member [dar
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-framework` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-design` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ consider changing the behavior of `CarouselView.padding` [flutter/flutter#154533
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`f: cupertino` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-accessibility` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-go_router` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-tool` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-engine` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 99 | [26](#flutter-flutter-127852-graph)
@@ -160,12 +160,12 @@ Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-ios` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 22 | [22](#flutter-flutter-192515-graph)
-[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 20 | [20](#flutter-flutter-194435-graph)
+[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 21 | [21](#flutter-flutter-194435-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 35 | [15](#flutter-flutter-186804-graph)
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 44 | [6](#flutter-flutter-173940-graph)
 [SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 42 | [6](#flutter-flutter-162196-graph)
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-android` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-web` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -213,7 +213,6 @@ Password manager autofill does not work on web [flutter/flutter#174773](https://
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 94 | 4
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 887 | 2
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 69 | 2
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 61 | 2
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 347 | 1
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 100 | 1
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 45 | 1
@@ -223,10 +222,11 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 23 | 1
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 20 | 1
+[web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`team-ecosystem` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -257,7 +257,6 @@ Password manager autofill does not work on web [flutter/flutter#174773](https://
 Spellcheck on Flutter Web [flutter/flutter#40682](https://github.com/flutter/flutter/issues/40682) | 94 | 4
 Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#46789](https://github.com/flutter/flutter/issues/46789) | 887 | 2
 [Flutter-web] Control+MouseWheel should zoom the browser window [flutter/flutter#129933](https://github.com/flutter/flutter/issues/129933) | 69 | 2
-[web] Deprecate and remove `flutter_service_worker.js` [flutter/flutter#156910](https://github.com/flutter/flutter/issues/156910) | 61 | 2
 [web] Support compute on separate thread in Flutter Web [flutter/flutter#33577](https://github.com/flutter/flutter/issues/33577) | 347 | 1
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 100 | 1
 Web: include different files depending on the flavor [flutter/flutter#141371](https://github.com/flutter/flutter/issues/141371) | 45 | 1
@@ -267,10 +266,11 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 23 | 1
 Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter/flutter#163554](https://github.com/flutter/flutter/issues/163554) | 20 | 1
+[web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -279,26 +279,26 @@ False positive for `prefer_const_constructors_in_immutables` with primary constr
 investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 13 | [13](#dart-lang-sdk-64137-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 11 | [11](#dart-lang-sdk-64617-graph)
-Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
+Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [6](#dart-lang-sdk-61957-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 11 | [6](#dart-lang-sdk-63292-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
 Use a real/persistent ByteStore in analyzer plugins [dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) | 5 | [5](#dart-lang-sdk-64202-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
-Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
 [dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
+Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
 dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-03 to 2026-11-01.
+`dart-lang/language` issues that received the most reactions from 2026-08-03 to 2026-11-02.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 13 | [13](#dart-lang-language-4767-graph)
-Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
+Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
@@ -323,9 +323,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [699, 711, 715, 716, 716, 719, 724, 724, 726, 726, 727, 727, 728]
+    line [699, 711, 715, 716, 716, 719, 724, 724, 726, 726, 727, 727, 728, 728]
   ```
 
   </details>
@@ -340,9 +340,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 22, 24, 24, 24, 25, 28, 28, 28, 28]
+    line [0, 0, 0, 0, 22, 24, 24, 24, 25, 28, 28, 28, 28, 28]
   ```
 
   </details>
@@ -357,9 +357,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 99]
+    line [73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 99, 99]
   ```
 
   </details>
@@ -374,9 +374,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 21, 23, 23, 23, 23, 23, 23, 23, 23]
+    line [0, 0, 0, 0, 21, 23, 23, 23, 23, 23, 23, 23, 23, 23]
   ```
 
   </details>
@@ -391,9 +391,26 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 19, 20, 20, 20, 20, 22, 22]
+    line [0, 0, 0, 0, 0, 0, 19, 20, 20, 20, 20, 22, 22, 22]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-194435-graph"></a>
+### [google_sign_in] Update to GoogleSignIn-iOS 10
+  <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 21 total reactions, 21 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20, 21]
   ```
 
   </details>
@@ -408,26 +425,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 8, 17, 18, 18, 19, 19, 20, 20, 20, 20, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-194435-graph"></a>
-### [google_sign_in] Update to GoogleSignIn-iOS 10
-  <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 20 total reactions, 20 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20]
+    line [0, 8, 17, 18, 18, 19, 19, 20, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -442,9 +442,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 15, 16, 16, 17, 17, 19, 19, 19, 19, 19, 19]
+    line [0, 0, 15, 16, 16, 17, 17, 19, 19, 19, 19, 19, 19, 19]
   ```
 
   </details>
@@ -459,9 +459,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822, 823, 824]
+    line [809, 809, 813, 813, 815, 817, 819, 819, 819, 821, 822, 823, 824, 824]
   ```
 
   </details>
@@ -476,26 +476,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [21, 24, 25, 26, 26, 26, 26, 28, 32, 34, 34, 34, 35]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-191015-graph"></a>
-### Detect backspace/delete key press
-  <sub>[flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) &mdash; 14 total reactions, 14 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
+    line [21, 24, 25, 26, 26, 26, 26, 28, 32, 34, 34, 34, 35, 35]
   ```
 
   </details>
@@ -510,26 +493,26 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 14]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 14, 14]
   ```
 
   </details>
   </sub>
 
-<a name="dart-lang-language-4767-graph"></a>
-### Allow user-declared `operator !`.
-  <sub>[dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+<a name="flutter-flutter-191015-graph"></a>
+### Detect backspace/delete key press
+  <sub>[flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) &mdash; 14 total reactions, 14 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 10, 10, 10, 10, 10, 11, 11, 13, 13]
+    line [0, 0, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14]
   ```
 
   </details>
@@ -544,9 +527,26 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 13]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 13, 13]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4767-graph"></a>
+### Allow user-declared `operator !`.
+  <sub>[dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) &mdash; 13 total reactions, 13 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 10, 10, 10, 10, 10, 11, 11, 13, 13, 13]
   ```
 
   </details>
@@ -561,9 +561,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12]
   ```
 
   </details>
@@ -578,9 +578,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 11]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 11, 11, 11]
   ```
 
   </details>
@@ -595,26 +595,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [53, 53, 53, 53, 53, 53, 55, 55, 57, 58, 59, 63, 63]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-language-4759-graph"></a>
-### Automatic type-parameter matching promotion
-  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10, 10, 10]
+    line [53, 53, 53, 53, 53, 53, 55, 55, 57, 58, 59, 63, 63, 63]
   ```
 
   </details>
@@ -629,9 +612,26 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 7, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+    line [0, 7, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-language-4759-graph"></a>
+### Automatic type-parameter matching promotion
+  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10]
   ```
 
   </details>
@@ -646,9 +646,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [720, 720, 721, 721, 722, 726, 726, 727, 727, 727, 727, 728, 728]
+    line [720, 720, 721, 721, 722, 726, 726, 727, 727, 727, 727, 728, 728, 728]
   ```
 
   </details>
@@ -663,9 +663,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [491, 491, 492, 492, 494, 494, 494, 494, 499, 499, 499, 499, 499]
+    line [491, 491, 492, 492, 494, 494, 494, 494, 499, 499, 499, 499, 499, 499]
   ```
 
   </details>
@@ -680,9 +680,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8, 8, 8]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 3, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -697,9 +697,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8, 8, 8]
+    line [0, 0, 0, 2, 5, 6, 7, 7, 8, 8, 8, 8, 8, 8]
   ```
 
   </details>
@@ -714,9 +714,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [268, 270, 270, 270, 270, 270, 270, 273, 273, 274, 274, 274, 275]
+    line [268, 270, 270, 270, 270, 270, 270, 273, 273, 274, 274, 274, 275, 275]
   ```
 
   </details>
@@ -731,26 +731,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [8, 8, 8, 8, 8, 8, 15, 15, 15, 15, 15, 15, 15]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64619-graph"></a>
-### Find references/rename miss implicit uses of a `call` method
-  <sub>[dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7]
+    line [8, 8, 8, 8, 8, 8, 15, 15, 15, 15, 15, 15, 15, 15]
   ```
 
   </details>
@@ -765,9 +748,26 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+    line [0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-64619-graph"></a>
+### Find references/rename miss implicit uses of a `call` method
+  <sub>[dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
   ```
 
   </details>
@@ -782,9 +782,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [258, 259, 259, 259, 259, 260, 261, 261, 261, 262, 262, 262, 263]
+    line [258, 259, 259, 259, 259, 260, 261, 261, 261, 262, 262, 262, 263, 263]
   ```
 
   </details>
@@ -799,9 +799,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [103, 103, 104, 104, 105, 105, 105, 105, 105, 106, 106, 107, 107]
+    line [103, 103, 104, 104, 105, 105, 105, 105, 105, 106, 106, 107, 107, 107]
   ```
 
   </details>
@@ -816,9 +816,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [79, 80, 80, 80, 80, 80, 84, 84, 85, 85, 85, 85, 85]
+    line [79, 80, 80, 80, 80, 80, 84, 84, 85, 85, 85, 85, 85, 85]
   ```
 
   </details>
@@ -833,9 +833,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [38, 41, 42, 43, 44, 44, 44, 44, 44, 44, 44, 44, 44]
+    line [38, 41, 42, 43, 44, 44, 44, 44, 44, 44, 44, 44, 44, 44]
   ```
 
   </details>
@@ -850,9 +850,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [36, 38, 39, 39, 41, 41, 41, 42, 42, 42, 42, 42, 42]
+    line [36, 38, 39, 39, 41, 41, 41, 42, 42, 42, 42, 42, 42, 42]
   ```
 
   </details>
@@ -867,9 +867,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [19, 19, 19, 21, 21, 21, 21, 22, 23, 24, 24, 24, 24]
+    line [19, 19, 19, 21, 21, 21, 21, 22, 23, 24, 24, 24, 24, 24]
   ```
 
   </details>
@@ -884,9 +884,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [17, 18, 19, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22]
+    line [17, 18, 19, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22, 22]
   ```
 
   </details>
@@ -901,9 +901,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [5, 5, 5, 6, 6, 6, 8, 8, 10, 10, 10, 10, 11]
+    line [5, 5, 5, 6, 6, 6, 8, 8, 10, 10, 10, 10, 11, 11]
   ```
 
   </details>
@@ -918,9 +918,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [1017, 1017, 1020, 1020, 1020, 1020, 1022, 1022, 1022, 1022, 1022, 1022, 1022]
+    line [1017, 1017, 1020, 1020, 1020, 1020, 1022, 1022, 1022, 1022, 1022, 1022, 1022, 1022]
   ```
 
   </details>
@@ -935,9 +935,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [15, 15, 15, 16, 16, 16, 17, 17, 20, 20, 20, 20, 20]
+    line [15, 15, 15, 16, 16, 16, 17, 17, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
@@ -952,9 +952,9 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
 
   ```mermaid
   xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26]
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 5]
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 5, 5]
   ```
 
   </details>
