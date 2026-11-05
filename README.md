@@ -2,14 +2,14 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-03 to 2026-11-04.
+Issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 730 | [36](#flutter-flutter-170310-graph)
+[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 29 | [29](#flutter-flutter-194435-graph)
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 101 | [28](#flutter-flutter-127852-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
-[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 26 | [26](#flutter-flutter-194435-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 23 | [23](#flutter-flutter-192515-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
@@ -28,13 +28,13 @@ Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/d
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-framework` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 728 | [9](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 275 | [7](#flutter-flutter-65504-graph)
-Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) | 23 | 4
+Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) | 25 | [6](#flutter-flutter-17793-graph)
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 314 | 2
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 211 | 2
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 78 | 2
@@ -50,7 +50,7 @@ PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set t
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-design` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ CupertinoListSection should have a sliver equivalent [flutter/flutter#119558](ht
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`f: cupertino` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-accessibility` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-go_router` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-tool` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377]
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-engine` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 101 | [28](#flutter-flutter-127852-graph)
@@ -160,11 +160,11 @@ Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-ios` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 26 | [26](#flutter-flutter-194435-graph)
+[google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 29 | [29](#flutter-flutter-194435-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 23 | [23](#flutter-flutter-192515-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 35 | [15](#flutter-flutter-186804-graph)
 [iOS 27] VoiceOver's implicit-scroll-into-view no longer works - single-finger swipe never advances past the visible boundary of a Scrollable [flutter/flutter#192774](https://github.com/flutter/flutter/issues/192774) | 15 | [15](#flutter-flutter-192774-graph)
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-android` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-web` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Transparent Backgrounds for Flutter Windows Desktop Applications. [flutter/flutt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`team-ecosystem` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://githu
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-03 to 2026-11-04.
+`dart-lang/language` issues that received the most reactions from 2026-08-03 to 2026-11-05.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -331,6 +331,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="flutter-flutter-194435-graph"></a>
+### [google_sign_in] Update to GoogleSignIn-iOS 10
+  <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 29 total reactions, 29 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20, 29]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-127852-graph"></a>
 ### [Impeller] Implement Wide Gamut colors for Vulkan
   <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 101 total reactions, 28 recent reactions</sub><br />
@@ -360,23 +377,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
     line [0, 0, 0, 0, 22, 24, 24, 24, 25, 28, 28, 28, 28, 28]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-194435-graph"></a>
-### [google_sign_in] Update to GoogleSignIn-iOS 10
-  <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 26 total reactions, 26 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20, 26]
   ```
 
   </details>
@@ -870,6 +870,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
     line [36, 38, 39, 39, 41, 41, 41, 42, 42, 42, 42, 42, 42, 42]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-17793-graph"></a>
+### Circular Progress Indicator CPU Spike 
+  <sub>[flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) &mdash; 25 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions"
+    line [19, 20, 20, 20, 23, 23, 23, 23, 23, 23, 23, 23, 23, 25]
   ```
 
   </details>
