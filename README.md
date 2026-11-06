@@ -2,13 +2,13 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-03 to 2026-11-05.
+Issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 730 | [36](#flutter-flutter-170310-graph)
+[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 103 | [30](#flutter-flutter-127852-graph)
 [google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 30 | [30](#flutter-flutter-194435-graph)
-[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 102 | [29](#flutter-flutter-127852-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
 flutter attach has no --flavor, so appFlavor becomes null after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 23 | [23](#flutter-flutter-192515-graph)
@@ -28,12 +28,12 @@ investigate ways to run AOT compiled code on Graphene OS when DCL is restricted 
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-framework` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 728 | [9](#flutter-flutter-30701-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 275 | [7](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 276 | [8](#flutter-flutter-65504-graph)
 Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) | 25 | [6](#flutter-flutter-17793-graph)
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 314 | 2
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 211 | 2
@@ -50,7 +50,7 @@ PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set t
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-design` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#425
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`f: cupertino` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-accessibility` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-go_router` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-tool` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,10 +137,10 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-engine` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 102 | [29](#flutter-flutter-127852-graph)
+[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 103 | [30](#flutter-flutter-127852-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 63 | [10](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 263 | [6](#flutter-flutter-61229-graph)
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 91 | 3
@@ -160,7 +160,7 @@ Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://gi
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-ios` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-android` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https:
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-web` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Transparent Backgrounds for Flutter Windows Desktop Applications. [flutter/flutt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`team-ecosystem` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Flutter web still loads fonts.gstatic.com with `--no-web-resources-cdn` [flutter
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -279,20 +279,20 @@ False positive for `prefer_const_constructors_in_immutables` with primary constr
 investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 13 | [13](#dart-lang-sdk-64137-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 11 | [11](#dart-lang-sdk-64617-graph)
-Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
+Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [6](#dart-lang-sdk-61957-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 11 | [6](#dart-lang-sdk-63292-graph)
+Use a real/persistent ByteStore in analyzer plugins [dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) | 6 | [6](#dart-lang-sdk-64202-graph)
+☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 23 | [5](#dart-lang-sdk-61635-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
-Use a real/persistent ByteStore in analyzer plugins [dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) | 5 | [5](#dart-lang-sdk-64202-graph)
-☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 22 | 4
-Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
 [dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
+Find references/go to definition don't work for operators in relational patterns [dart-lang/sdk#64630](https://github.com/dart-lang/sdk/issues/64630) | 4 | 4
 dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-03 to 2026-11-05.
+`dart-lang/language` issues that received the most reactions from 2026-08-03 to 2026-11-06.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -331,6 +331,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="flutter-flutter-127852-graph"></a>
+### [Impeller] Implement Wide Gamut colors for Vulkan
+  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 103 total reactions, 30 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions"
+    line [73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 99, 103]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-194435-graph"></a>
 ### [google_sign_in] Update to GoogleSignIn-iOS 10
   <sub>[flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) &mdash; 30 total reactions, 30 recent reactions</sub><br />
@@ -343,23 +360,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 20, 30]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-127852-graph"></a>
-### [Impeller] Implement Wide Gamut colors for Vulkan
-  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 102 total reactions, 29 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions"
-    line [73, 74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 99, 102]
   ```
 
   </details>
@@ -688,6 +688,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="flutter-flutter-65504-graph"></a>
+### Ctrl+F support, finding text on a page (even when scrolled off screen)
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 276 total reactions, 8 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions"
+    line [268, 270, 270, 270, 270, 270, 270, 273, 273, 274, 274, 274, 275, 276]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-language-4755-graph"></a>
 ### Invariant collections
   <sub>[dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) &mdash; 8 total reactions, 8 recent reactions</sub><br />
@@ -722,23 +739,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
-<a name="flutter-flutter-65504-graph"></a>
-### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 275 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions"
-    line [268, 270, 270, 270, 270, 270, 270, 273, 273, 274, 274, 274, 275, 275]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-1759-graph"></a>
 ### `async*` methods should start synchronously when their streams are listened to.
   <sub>[dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) &mdash; 15 total reactions, 7 recent reactions</sub><br />
@@ -756,23 +756,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64619-graph"></a>
-### Find references/rename miss implicit uses of a `call` method
-  <sub>[dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-64064-graph"></a>
 ### (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling
   <sub>[dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -785,6 +768,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-64619-graph"></a>
+### Find references/rename miss implicit uses of a `call` method
+  <sub>[dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
   ```
 
   </details>
@@ -943,6 +943,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="dart-lang-sdk-64202-graph"></a>
+### Use a real/persistent ByteStore in analyzer plugins
+  <sub>[dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 5, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-101479-graph"></a>
 ### ☂️ Move the material and cupertino packages outside of Flutter
   <sub>[flutter/flutter#101479](https://github.com/flutter/flutter/issues/101479) &mdash; 1022 total reactions, 5 recent reactions</sub><br />
@@ -960,6 +977,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="dart-lang-sdk-61635-graph"></a>
+### ☂️ Development modular AOT compiler targeting iOS/arm64
+  <sub>[dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) &mdash; 23 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions"
+    line [18, 18, 18, 18, 18, 20, 22, 22, 22, 22, 22, 22, 22, 23]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-54785-graph"></a>
 ### Manage the `dart.` namespace of the compilation environment.
   <sub>[dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -972,23 +1006,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
     line [15, 15, 15, 16, 16, 16, 17, 17, 20, 20, 20, 20, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
-<a name="dart-lang-sdk-64202-graph"></a>
-### Use a real/persistent ByteStore in analyzer plugins
-  <sub>[dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) &mdash; 5 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 3, Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 5, 5]
   ```
 
   </details>
