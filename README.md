@@ -10,8 +10,8 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 103 | [30](#flutter-flutter-127852-graph)
 [google_sign_in] Update to GoogleSignIn-iOS 10 [flutter/flutter#194435](https://github.com/flutter/flutter/issues/194435) | 30 | [30](#flutter-flutter-194435-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
-[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 23 | [23](#flutter-flutter-192515-graph)
 flutter attach loses appFlavor after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
+[iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 23 | [23](#flutter-flutter-192515-graph)
 False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [20](#dart-lang-sdk-64037-graph)
 [packages] Migrate packages to material_ui and cupertino_ui [flutter/flutter#191322](https://github.com/flutter/flutter/issues/191322) | 19 | [19](#flutter-flutter-191322-graph)
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 825 | [16](#flutter-flutter-168813-graph)
@@ -32,7 +32,7 @@ investigate ways to run AOT compiled code on Graphene OS when DCL is restricted 
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 728 | [8](#flutter-flutter-30701-graph)
+Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 729 | [9](#flutter-flutter-30701-graph)
 Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 276 | [8](#flutter-flutter-65504-graph)
 Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) | 25 | [6](#flutter-flutter-17793-graph)
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 314 | 2
@@ -128,12 +128,12 @@ Support wildcard/globs in `flutter: assets:` YAML [flutter/flutter#27801](https:
 Investigate running test suites in a single isolate [flutter/flutter#90225](https://github.com/flutter/flutter/issues/90225) | 29 | 2
 Flutter 3.32.0 cannot find package:integration_test when building with --no-pub flag [flutter/flutter#169336](https://github.com/flutter/flutter/issues/169336) | 18 | 2
 Customizable project structure (platforms) [flutter/flutter#71400](https://github.com/flutter/flutter/issues/71400) | 430 | 1
+Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 90 | 1
 Platform specific assets [flutter/flutter#8230](https://github.com/flutter/flutter/issues/8230) | 60 | 1
 Include assets from a directory recursively [flutter/flutter#118635](https://github.com/flutter/flutter/issues/118635) | 28 | 1
 Allow to provide compile-time variables for native platforms from a file [flutter/flutter#139289](https://github.com/flutter/flutter/issues/139289) | 193 | 0
 Multiplatform tooling: A way to store and update app properties, like name, descriptions, icons, permission and apply them to all platform runners/embedders [flutter/flutter#79952](https://github.com/flutter/flutter/issues/79952) | 135 | 0
 Enable custom "flutter create" templates [flutter/flutter#77104](https://github.com/flutter/flutter/issues/77104) | 89 | 0
-Provide an API in the Flutter tool to make it extensible [flutter/flutter#25377](https://github.com/flutter/flutter/issues/25377) | 89 | 0
 
 ### Engine
 
@@ -153,8 +153,8 @@ WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/iss
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 1
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 102 | 1
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 62 | 1
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 1
+Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
 
 ### Platforms
 
@@ -217,11 +217,11 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 100 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
+[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 23 | 1
-[web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https://github.com/flutter/flutter/issues/47872) | 16 | 1
+[web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 [web] Optimize network requests on page load [flutter/flutter#118115](https://github.com/flutter/flutter/issues/118115) | 15 | 1
 
 #### Desktop
@@ -261,11 +261,11 @@ Improve the indexability (SEO) of Flutter apps on the web  [flutter/flutter#4678
 Flutter web - Need documentation on how to conditionally display a "Refresh. New Version is available." prompt when updated code is deployed to production. [flutter/flutter#104509](https://github.com/flutter/flutter/issues/104509) | 100 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
+[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 23 | 1
-[web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https://github.com/flutter/flutter/issues/47872) | 16 | 1
+[web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 [web] Optimize network requests on page load [flutter/flutter#118115](https://github.com/flutter/flutter/issues/118115) | 15 | 1
 
 ### Dart SDK
@@ -279,8 +279,8 @@ False positive for `prefer_const_constructors_in_immutables` with primary constr
 investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 13 | [13](#dart-lang-sdk-64137-graph)
 LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 11 | [11](#dart-lang-sdk-64617-graph)
-(WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
 Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
+(WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [6](#dart-lang-sdk-61957-graph)
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 11 | [6](#dart-lang-sdk-63292-graph)
 Use a real/persistent ByteStore in analyzer plugins [dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) | 6 | [6](#dart-lang-sdk-64202-graph)
@@ -297,8 +297,8 @@ dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://githu
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 13 | [13](#dart-lang-language-4767-graph)
-Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 [dart 4.0] Drop support for dart_internal [dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) | 10 | [10](#dart-lang-language-4744-graph)
+Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
@@ -307,10 +307,10 @@ Add possibility to consistently get object property name [dart-lang/language#251
 Record spreading [dart-lang/language#2128](https://github.com/dart-lang/language/issues/2128) | 107 | 4
 Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](https://github.com/dart-lang/language/issues/2077) | 17 | 4
 Deprecate function formal parameters and function type aliases [dart-lang/language#2901](https://github.com/dart-lang/language/issues/2901) | 13 | 4
+Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2312 | 3
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1280 | 3
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 211 | 3
 Allow access to earlier variables in constructor initializer list [dart-lang/language#1394](https://github.com/dart-lang/language/issues/1394) | 88 | 3
-Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/issues/4154) | 45 | 3
 
 ## Graphs
 
@@ -382,23 +382,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
-<a name="flutter-flutter-192515-graph"></a>
-### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
-  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 23 total reactions, 23 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 19, 20, 20, 20, 20, 22, 22, 23]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-192261-graph"></a>
 ### flutter attach loses appFlavor after hot restart
   <sub>[flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) &mdash; 23 total reactions, 23 recent reactions</sub><br />
@@ -411,6 +394,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
     line [0, 0, 0, 21, 23, 23, 23, 23, 23, 23, 23, 23, 23]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-192515-graph"></a>
+### [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable)
+  <sub>[flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) &mdash; 23 total reactions, 23 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 19, 20, 20, 20, 20, 22, 22, 23]
   ```
 
   </details>
@@ -620,23 +620,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
-<a name="dart-lang-language-4759-graph"></a>
-### Automatic type-parameter matching promotion
-  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4744-graph"></a>
 ### [dart 4.0] Drop support for dart_internal
   <sub>[dart-lang/language#4744](https://github.com/dart-lang/language/issues/4744) &mdash; 10 total reactions, 10 recent reactions</sub><br />
@@ -654,9 +637,26 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
+<a name="dart-lang-language-4759-graph"></a>
+### Automatic type-parameter matching promotion
+  <sub>[dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) &mdash; 10 total reactions, 10 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 8, 10, 10, 10, 10, 10, 10, 10, 10, 10]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
-  <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 728 total reactions, 8 recent reactions</sub><br />
+  <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 729 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -665,7 +665,7 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   xychart-beta
     x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
-    line [720, 721, 721, 722, 726, 726, 727, 727, 727, 727, 728, 728, 728]
+    line [720, 721, 721, 722, 726, 726, 727, 727, 727, 727, 728, 728, 729]
   ```
 
   </details>
@@ -756,23 +756,6 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64064-graph"></a>
-### (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling
-  <sub>[dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) &mdash; 7 total reactions, 7 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-64619-graph"></a>
 ### Find references/rename miss implicit uses of a `call` method
   <sub>[dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) &mdash; 7 total reactions, 7 recent reactions</sub><br />
@@ -785,6 +768,23 @@ Augmentations [dart-lang/language#4154](https://github.com/dart-lang/language/is
     x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions" 0 --> 20
     line [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7, 7]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-64064-graph"></a>
+### (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling
+  <sub>[dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) &mdash; 7 total reactions, 7 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]
   ```
 
   </details>
