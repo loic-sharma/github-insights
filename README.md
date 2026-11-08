@@ -309,8 +309,8 @@ Adding more null aware operators: ?+ , ?- , ?/ , ?* [dart-lang/language#2077](ht
 Deprecate function formal parameters and function type aliases [dart-lang/language#2901](https://github.com/dart-lang/language/issues/2901) | 13 | 4
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2312 | 3
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1280 | 3
+Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/language/issues/649) | 287 | 3
 Proposal for a pipe-like operator to chain constructor/method invocations without nesting [dart-lang/language#4211](https://github.com/dart-lang/language/issues/4211) | 211 | 3
-Allow access to earlier variables in constructor initializer list [dart-lang/language#1394](https://github.com/dart-lang/language/issues/1394) | 88 | 3
 
 ## Graphs
 
@@ -841,23 +841,6 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
   </details>
   </sub>
 
-<a name="flutter-flutter-17793-graph"></a>
-### Circular Progress Indicator CPU Spike 
-  <sub>[flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) &mdash; 25 total reactions, 6 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
-    y-axis "Reactions"
-    line [20, 20, 20, 23, 23, 23, 23, 23, 23, 23, 23, 23, 25]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-174773-graph"></a>
 ### Password manager autofill does not work on web
   <sub>[flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) &mdash; 25 total reactions, 6 recent reactions</sub><br />
@@ -870,6 +853,23 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
     x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
     y-axis "Reactions"
     line [19, 19, 21, 21, 21, 21, 22, 23, 24, 24, 24, 24, 25]
+  ```
+
+  </details>
+  </sub>
+
+<a name="flutter-flutter-17793-graph"></a>
+### Circular Progress Indicator CPU Spike 
+  <sub>[flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) &mdash; 25 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2]
+    y-axis "Reactions"
+    line [20, 20, 20, 23, 23, 23, 23, 23, 23, 23, 23, 23, 25]
   ```
 
   </details>
