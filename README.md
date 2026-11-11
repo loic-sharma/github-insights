@@ -2,11 +2,11 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-10 to 2026-11-10.
+Issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 105 | [32](#flutter-flutter-127852-graph)
+[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 107 | [34](#flutter-flutter-127852-graph)
 Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutter#170310](https://github.com/flutter/flutter/issues/170310) | 730 | [31](#flutter-flutter-170310-graph)
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 23 | [23](#flutter-flutter-192515-graph)
@@ -28,7 +28,7 @@ Find references/rename ignore declarations in a non-default conditional import/e
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-framework` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Add platform screenshot capability to package:integration_test [flutter/flutter#
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-design` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#425
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`f: cupertino` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-accessibility` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-go_router` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-tool` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,10 +137,10 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-engine` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 Issue | Total reactions | Recent reactions
 -- | -- | --
-[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 105 | [32](#flutter-flutter-127852-graph)
+[Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 107 | [34](#flutter-flutter-127852-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 63 | [10](#flutter-flutter-174980-graph)
 AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/issues/61229) | 263 | [5](#flutter-flutter-61229-graph)
 [Impeller] Provide an API for loading Shader at runtime (and tooling support for producing them) [flutter/flutter#166944](https://github.com/flutter/flutter/issues/166944) | 18 | 4
@@ -160,7 +160,7 @@ Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-ios` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-android` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/f
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-web` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`team-ecosystem` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-10 to 2026-11-10.
+`dart-lang/language` issues that received the most reactions from 2026-08-10 to 2026-11-11.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -316,7 +316,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
 
 <a name="flutter-flutter-127852-graph"></a>
 ### [Impeller] Implement Wide Gamut colors for Vulkan
-  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 105 total reactions, 32 recent reactions</sub><br />
+  <sub>[flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) &mdash; 107 total reactions, 34 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -325,7 +325,7 @@ Import shorthand syntax [dart-lang/language#649](https://github.com/dart-lang/la
   xychart-beta
     x-axis "Week" [Aug 10, Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9]
     y-axis "Reactions"
-    line [74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 99, 103, 105]
+    line [74, 74, 74, 74, 74, 74, 74, 74, 77, 86, 90, 99, 103, 107]
   ```
 
   </details>
