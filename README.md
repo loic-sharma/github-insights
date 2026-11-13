@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-10 to 2026-11-12.
+Issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Find references/rename ignore declarations in a non-default conditional import/e
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-framework` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set t
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-design` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#425
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`f: cupertino` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Detect backspace/delete key press [flutter/flutter#191015](https://github.com/flutter/flutter/issues/191015) | 14 | [14](#flutter-flutter-191015-graph)
@@ -99,7 +99,7 @@ Autofill Hints iOS: email field doesn't autofill if keyboardType is `TextInputTy
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-accessibility` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-go_router` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-tool` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-engine` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 109 | [36](#flutter-flutter-127852-graph)
@@ -153,14 +153,14 @@ Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [f
 Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com/flutter/flutter/issues/26801) | 565 | 1
 Add support for visionOS [flutter/flutter#128313](https://github.com/flutter/flutter/issues/128313) | 356 | 1
 String.fromEnvironment without a const silently does the wrong thing in the VM [flutter/flutter#55870](https://github.com/flutter/flutter/issues/55870) | 102 | 1
-Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
 Add Support for tvOS [flutter/flutter#47928](https://github.com/flutter/flutter/issues/47928) | 56 | 1
+Allow text wrapping behavior to be controlled [flutter/flutter#61081](https://github.com/flutter/flutter/issues/61081) | 56 | 1
 
 ### Platforms
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-ios` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-android` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/f
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-web` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -220,13 +220,13 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Finished with error: Failed to establish connection with the application instance in Chrome. [flutter/flutter#49482](https://github.com/flutter/flutter/issues/49482) | 56 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
+[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 23 | 1
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`team-ecosystem` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -264,13 +264,13 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Finished with error: Failed to establish connection with the application instance in Chrome. [flutter/flutter#49482](https://github.com/flutter/flutter/issues/49482) | 56 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
+[web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
 [Web] App crashes on safari on iOS when loading large images [flutter/flutter#152709](https://github.com/flutter/flutter/issues/152709) | 23 | 1
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-10 to 2026-11-12.
+`dart-lang/language` issues that received the most reactions from 2026-08-10 to 2026-11-13.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
