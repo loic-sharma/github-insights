@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-17 to 2026-11-14.
+Issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Find references/rename ignore declarations in a non-default conditional import/e
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-framework` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -39,6 +39,7 @@ Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.co
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 314 | 2
 Add TextOverflow  "ellipsisStart" , "ellipsisMiddle"  and "ellipsisEnd"  [flutter/flutter#45336](https://github.com/flutter/flutter/issues/45336) | 211 | 2
 Jump to index in sliver world [flutter/flutter#81005](https://github.com/flutter/flutter/issues/81005) | 78 | 2
+Copying text in `SelectionArea` is not like copying text from HTML [flutter/flutter#104548](https://github.com/flutter/flutter/issues/104548) | 39 | 2
 ☂️ Multi View for Windows/MacOS [flutter/flutter#142845](https://github.com/flutter/flutter/issues/142845) | 260 | 1
 PageView with height based on current child [flutter/flutter#29749](https://github.com/flutter/flutter/issues/29749) | 181 | 1
 Add option to smoothly animate stepped mouse scroll deltas [flutter/flutter#32120](https://github.com/flutter/flutter/issues/32120) | 171 | 1
@@ -46,11 +47,10 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 [integration_test] Allow driving native UI interactions from Dart [flutter/flutter#86295](https://github.com/flutter/flutter/issues/86295) | 111 | 1
 Flutter clipboard should support images [flutter/flutter#32045](https://github.com/flutter/flutter/issues/32045) | 109 | 1
 Allow Hero to define it's Overlay level [flutter/flutter#50763](https://github.com/flutter/flutter/issues/50763) | 94 | 1
-PopScope does not invoke `onPopInvoked` for iOS back gesture when `canPop` set to false [flutter/flutter#138624](https://github.com/flutter/flutter/issues/138624) | 92 | 1
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-design` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#425
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`f: cupertino` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 26 | [7](#flutter-flutter-174773-graph)
@@ -99,7 +99,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-accessibility` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-go_router` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-tool` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-engine` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 110 | [36](#flutter-flutter-127852-graph)
@@ -160,7 +160,7 @@ TextOverflow.ellipsis not applied properly with multi-line Text with maxLines se
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-ios` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-android` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutt
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-web` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`team-ecosystem` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-17 to 2026-11-14.
+`dart-lang/language` issues that received the most reactions from 2026-08-17 to 2026-11-15.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -875,23 +875,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-sdk-61635-graph"></a>
-### ☂️ Development modular AOT compiler targeting iOS/arm64
-  <sub>[dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) &mdash; 23 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9]
-    y-axis "Reactions"
-    line [18, 18, 18, 20, 22, 22, 22, 22, 22, 22, 22, 23, 23]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-language-4726-graph"></a>
 ### [dart 4.0] Remove support for `new` in constructor invocations
   <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 23 total reactions, 5 recent reactions</sub><br />
@@ -904,6 +887,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9]
     y-axis "Reactions"
     line [19, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22, 22, 23]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-61635-graph"></a>
+### ☂️ Development modular AOT compiler targeting iOS/arm64
+  <sub>[dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) &mdash; 23 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9]
+    y-axis "Reactions"
+    line [18, 18, 18, 20, 22, 22, 22, 22, 22, 22, 22, 23, 23]
   ```
 
   </details>
