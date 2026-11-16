@@ -15,12 +15,12 @@ Support for iOS 26 “Liquid Glass” Design in Cupertino Widgets [flutter/flutt
 ☂️ Bring Material 3 Expressive to Flutter [flutter/flutter#168813](https://github.com/flutter/flutter/issues/168813) | 829 | [18](#flutter-flutter-168813-graph)
 Allow user-declared `operator !`. [dart-lang/language#4767](https://github.com/dart-lang/language/issues/4767) | 14 | [14](#dart-lang-language-4767-graph)
 investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 13 | [13](#dart-lang-sdk-64137-graph)
-LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 731 | [11](#flutter-flutter-30701-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 35 | [11](#flutter-flutter-186804-graph)
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 11 | [11](#dart-lang-sdk-64617-graph)
 [wimp] Impeller for web ☂️  [flutter/flutter#174980](https://github.com/flutter/flutter/issues/174980) | 63 | [10](#flutter-flutter-174980-graph)
 [webview_flutter_wkwebview] iOS Crash when PlatformView is deallocated during `UIApplication` termination  [flutter/flutter#168535](https://github.com/flutter/flutter/issues/168535) | 44 | [10](#flutter-flutter-168535-graph)
+Automatic type-parameter matching promotion [dart-lang/language#4759](https://github.com/dart-lang/language/issues/4759) | 10 | [10](#dart-lang-language-4759-graph)
 
 ## Trending issues by team
 
@@ -120,7 +120,7 @@ Issue | Total reactions | Recent reactions
 Issue | Total reactions | Recent reactions
 -- | -- | --
 flutter attach loses appFlavor after hot restart [flutter/flutter#192261](https://github.com/flutter/flutter/issues/192261) | 23 | [23](#flutter-flutter-192261-graph)
-gen-l10n should support Standalone UI packages [flutter/flutter#191072](https://github.com/flutter/flutter/issues/191072) | 21 | [8](#flutter-flutter-191072-graph)
+gen-l10n should support Standalone UI packages [flutter/flutter#191072](https://github.com/flutter/flutter/issues/191072) | 22 | [9](#flutter-flutter-191072-graph)
 Tree shake unused assets [flutter/flutter#64106](https://github.com/flutter/flutter/issues/64106) | 85 | 4
 Support different dependencies when using flavors [flutter/flutter#46979](https://github.com/flutter/flutter/issues/46979) | 178 | 3
 [Proposal]Allow multiple arb files to organize l10n / intl localizations for a language [flutter/flutter#107157](https://github.com/flutter/flutter/issues/107157) | 129 | 3
@@ -192,6 +192,7 @@ Add support for Android 13 per-app language preferences  [flutter/flutter#109842
 [camera] Taking pictures is too slow on some devices [flutter/flutter#84957](https://github.com/flutter/flutter/issues/84957) | 92 | 1
 Use the default NDK version from AGP [flutter/flutter#139427](https://github.com/flutter/flutter/issues/139427) | 78 | 1
 App UI overlaps with 3-button navigation bar on Samsung One UI 7 / Android 15 [flutter/flutter#168635](https://github.com/flutter/flutter/issues/168635) | 47 | 1
+remove non-free dependency com.google.android.play.core.splitcompat.SplitCompatApplication [flutter/flutter#104219](https://github.com/flutter/flutter/issues/104219) | 45 | 1
 Stylus doesn't trigger PointerDownEvent [flutter/flutter#42846](https://github.com/flutter/flutter/issues/42846) | 24 | 1
 systemNavigationBarColor not working After Upgrading from Flutter 3.29.3 to 3.32.1 [flutter/flutter#169746](https://github.com/flutter/flutter/issues/169746) | 21 | 1
 [webview] Android Talk Back cannot focus on widgets via tap if they are over platformview [flutter/flutter#101887](https://github.com/flutter/flutter/issues/101887) | 18 | 1
@@ -200,7 +201,6 @@ Allow to dynamically depend on plugins based on current app flavor [flutter/flut
 Firebase Test Lab Robo Test support [flutter/flutter#36681](https://github.com/flutter/flutter/issues/36681) | 189 | 0
 Can't resolve symbol io.flutter.plugin dependency [flutter/flutter#19830](https://github.com/flutter/flutter/issues/19830) | 120 | 0
 Provide background Service and WorkManager execution out of the box for Dart execution [flutter/flutter#22234](https://github.com/flutter/flutter/issues/22234) | 105 | 0
-Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutter/flutter/issues/2057) | 102 | 0
 
 #### Web
 
@@ -220,8 +220,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Finished with error: Failed to establish connection with the application instance in Chrome. [flutter/flutter#49482](https://github.com/flutter/flutter/issues/49482) | 56 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
+[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 
 #### Desktop
@@ -264,8 +264,8 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Finished with error: Failed to establish connection with the application instance in Chrome. [flutter/flutter#49482](https://github.com/flutter/flutter/issues/49482) | 56 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
+[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 
 ### Dart SDK
@@ -276,7 +276,6 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 SIMD tracking issue. [dart-lang/sdk#64170](https://github.com/dart-lang/sdk/issues/64170) | 28 | [28](#dart-lang-sdk-64170-graph)
 investigate ways to run AOT compiled code on Graphene OS when DCL is restricted [dart-lang/sdk#64137](https://github.com/dart-lang/sdk/issues/64137) | 13 | [13](#dart-lang-sdk-64137-graph)
-LSP: `textDocument/references` throws for an override of an Object's member [dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) | 12 | [12](#dart-lang-sdk-64422-graph)
 Find references/rename ignore declarations in a non-default conditional import/export variant [dart-lang/sdk#64617](https://github.com/dart-lang/sdk/issues/64617) | 11 | [11](#dart-lang-sdk-64617-graph)
 (WIP, DR) Automatic Dart Source Generation for CLI and IDE Tooling [dart-lang/sdk#64064](https://github.com/dart-lang/sdk/issues/64064) | 7 | [7](#dart-lang-sdk-64064-graph)
 Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#64619](https://github.com/dart-lang/sdk/issues/64619) | 7 | [7](#dart-lang-sdk-64619-graph)
@@ -284,11 +283,12 @@ Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#6461
 Use a real/persistent ByteStore in analyzer plugins [dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) | 6 | [6](#dart-lang-sdk-64202-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [5](#dart-lang-sdk-61957-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 23 | [5](#dart-lang-sdk-61635-graph)
-False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [5](#dart-lang-sdk-64037-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
+False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [5](#dart-lang-sdk-64037-graph)
 [dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
 dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | 3
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 45 | 3
+Support creating files and sockets from file descriptors [dart-lang/sdk#46196](https://github.com/dart-lang/sdk/issues/46196) | 42 | 3
 
 ### Dart language
 
@@ -467,23 +467,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64422-graph"></a>
-### LSP: `textDocument/references` throws for an override of an Object's member
-  <sub>[dart-lang/sdk#64422](https://github.com/dart-lang/sdk/issues/64422) &mdash; 12 total reactions, 12 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
-    y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12]
-  ```
-
-  </details>
-  </sub>
-
 <a name="flutter-flutter-30701-graph"></a>
 ### Support multiple windows for desktop shells
   <sub>[flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) &mdash; 731 total reactions, 11 recent reactions</sub><br />
@@ -586,6 +569,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="flutter-flutter-191072-graph"></a>
+### gen-l10n should support Standalone UI packages
+  <sub>[flutter/flutter#191072](https://github.com/flutter/flutter/issues/191072) &mdash; 22 total reactions, 9 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
+    y-axis "Reactions"
+    line [0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 14, 14, 20, 22]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-31713-graph"></a>
 ### Implement PlatformView support on Windows
   <sub>[flutter/flutter#31713](https://github.com/flutter/flutter/issues/31713) &mdash; 499 total reactions, 8 recent reactions</sub><br />
@@ -615,23 +615,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
     y-axis "Reactions"
     line [270, 270, 270, 270, 270, 273, 273, 274, 274, 274, 275, 276, 278, 278]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-191072-graph"></a>
-### gen-l10n should support Standalone UI packages
-  <sub>[flutter/flutter#191072](https://github.com/flutter/flutter/issues/191072) &mdash; 21 total reactions, 8 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
-    y-axis "Reactions"
-    line [0, 0, 0, 0, 0, 0, 0, 0, 14, 14, 14, 14, 20, 21]
   ```
 
   </details>
@@ -875,23 +858,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-language-4726-graph"></a>
-### [dart 4.0] Remove support for `new` in constructor invocations
-  <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 23 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
-    y-axis "Reactions"
-    line [19, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22, 22, 23, 23]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-61635-graph"></a>
 ### ☂️ Development modular AOT compiler targeting iOS/arm64
   <sub>[dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) &mdash; 23 total reactions, 5 recent reactions</sub><br />
@@ -909,9 +875,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64037-graph"></a>
-### False positive for `prefer_const_constructors_in_immutables` with primary constructors
-  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-language-4726-graph"></a>
+### [dart 4.0] Remove support for `new` in constructor invocations
+  <sub>[dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) &mdash; 23 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -919,8 +885,8 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   ```mermaid
   xychart-beta
     x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
-    y-axis "Reactions" 0 --> 20
-    line [17, 18, 18, 19, 19, 20, 20, 20, 20, 20, 20, 20, 20, 20]
+    y-axis "Reactions"
+    line [19, 20, 21, 21, 21, 21, 21, 22, 22, 22, 22, 22, 23, 23]
   ```
 
   </details>
@@ -938,6 +904,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
     x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
     y-axis "Reactions" 0 --> 20
     line [15, 16, 16, 16, 17, 17, 20, 20, 20, 20, 20, 20, 20, 20]
+  ```
+
+  </details>
+  </sub>
+
+<a name="dart-lang-sdk-64037-graph"></a>
+### False positive for `prefer_const_constructors_in_immutables` with primary constructors
+  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
+    y-axis "Reactions" 0 --> 20
+    line [17, 18, 18, 19, 19, 20, 20, 20, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
