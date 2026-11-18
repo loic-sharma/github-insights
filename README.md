@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-17 to 2026-11-17.
+Issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ gen-l10n should support Standalone UI packages [flutter/flutter#191072](https://
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-framework` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter clipboard should support images [flutter/flutter#32045](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-design` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#425
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`f: cupertino` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 26 | [7](#flutter-flutter-174773-graph)
@@ -99,7 +99,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-accessibility` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-go_router` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-tool` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-engine` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 111 | [37](#flutter-flutter-127852-graph)
@@ -160,7 +160,7 @@ TextOverflow.ellipsis not applied properly with multi-line Text with maxLines se
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-ios` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-android` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Provide background Service and WorkManager execution out of the box for Dart exe
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-web` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`team-ecosystem` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](h
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -282,17 +282,17 @@ Find references/rename miss implicit uses of a `call` method [dart-lang/sdk#6461
 [analysis_server_plugin] Extremely slow [dart-lang/sdk#63292](https://github.com/dart-lang/sdk/issues/63292) | 11 | [6](#dart-lang-sdk-63292-graph)
 Use a real/persistent ByteStore in analyzer plugins [dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) | 6 | [6](#dart-lang-sdk-64202-graph)
 [Dot shorthands] A new lint and fix to prefer dot shorthands [dart-lang/sdk#61957](https://github.com/dart-lang/sdk/issues/61957) | 85 | [5](#dart-lang-sdk-61957-graph)
+`dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 30 | [5](#dart-lang-sdk-61822-graph)
 ☂️ Development modular AOT compiler targeting iOS/arm64 [dart-lang/sdk#61635](https://github.com/dart-lang/sdk/issues/61635) | 23 | [5](#dart-lang-sdk-61635-graph)
-False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [5](#dart-lang-sdk-64037-graph)
 Manage the `dart.` namespace of the compilation environment. [dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) | 20 | [5](#dart-lang-sdk-54785-graph)
-`dart fix` should apply fixes from plugins [dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) | 29 | 4
+False positive for `prefer_const_constructors_in_immutables` with primary constructors [dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) | 20 | [5](#dart-lang-sdk-64037-graph)
 [dart2wasm, typed_data] Support for Relaxed SIMD. [dart-lang/sdk#64216](https://github.com/dart-lang/sdk/issues/64216) | 4 | 4
 dart:mirrors deprecation and discontinuation [dart-lang/sdk#44489](https://github.com/dart-lang/sdk/issues/44489) | 74 | 3
 Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issues/54003) | 45 | 3
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-17 to 2026-11-17.
+`dart-lang/language` issues that received the most reactions from 2026-08-17 to 2026-11-18.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -301,8 +301,8 @@ Automatic type-parameter matching promotion [dart-lang/language#4759](https://gi
 Invariant collections [dart-lang/language#4755](https://github.com/dart-lang/language/issues/4755) | 8 | [8](#dart-lang-language-4755-graph)
 An invariant core library [dart-lang/language#4785](https://github.com/dart-lang/language/issues/4785) | 8 | [8](#dart-lang-language-4785-graph)
 `async*` methods should start synchronously when their streams are listened to. [dart-lang/language#1759](https://github.com/dart-lang/language/issues/1759) | 15 | [7](#dart-lang-language-1759-graph)
+Restrict `for (id in ...)` to local variables. [dart-lang/language#4840](https://github.com/dart-lang/language/issues/4840) | 6 | [6](#dart-lang-language-4840-graph)
 [dart 4.0] Remove support for `new` in constructor invocations [dart-lang/language#4726](https://github.com/dart-lang/language/issues/4726) | 23 | [5](#dart-lang-language-4726-graph)
-Restrict `for (id in ...)` to local variables. [dart-lang/language#4840](https://github.com/dart-lang/language/issues/4840) | 5 | [5](#dart-lang-language-4840-graph)
 Add data classes [dart-lang/language#314](https://github.com/dart-lang/language/issues/314) | 2313 | 4
 Optional Semicolons [dart-lang/language#69](https://github.com/dart-lang/language/issues/69) | 1281 | 4
 Add possibility to consistently get object property name [dart-lang/language#251](https://github.com/dart-lang/language/issues/251) | 114 | 4
@@ -739,6 +739,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="dart-lang-language-4840-graph"></a>
+### Restrict `for (id in ...)` to local variables.
+  <sub>[dart-lang/language#4840](https://github.com/dart-lang/language/issues/4840) &mdash; 6 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
+    y-axis "Reactions" 0 --> 20
+    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-64202-graph"></a>
 ### Use a real/persistent ByteStore in analyzer plugins
   <sub>[dart-lang/sdk#64202](https://github.com/dart-lang/sdk/issues/64202) &mdash; 6 total reactions, 6 recent reactions</sub><br />
@@ -841,6 +858,23 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
+<a name="dart-lang-sdk-61822-graph"></a>
+### `dart fix` should apply fixes from plugins
+  <sub>[dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) &mdash; 30 total reactions, 5 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
+    y-axis "Reactions"
+    line [25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 25, 27, 27, 30]
+  ```
+
+  </details>
+  </sub>
+
 <a name="flutter-flutter-17793-graph"></a>
 ### Circular Progress Indicator CPU Spike 
   <sub>[flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) &mdash; 25 total reactions, 5 recent reactions</sub><br />
@@ -892,23 +926,6 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-sdk-64037-graph"></a>
-### False positive for `prefer_const_constructors_in_immutables` with primary constructors
-  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
-    y-axis "Reactions" 0 --> 20
-    line [17, 18, 18, 19, 19, 20, 20, 20, 20, 20, 20, 20, 20, 20]
-  ```
-
-  </details>
-  </sub>
-
 <a name="dart-lang-sdk-54785-graph"></a>
 ### Manage the `dart.` namespace of the compilation environment.
   <sub>[dart-lang/sdk#54785](https://github.com/dart-lang/sdk/issues/54785) &mdash; 20 total reactions, 5 recent reactions</sub><br />
@@ -926,9 +943,9 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   </details>
   </sub>
 
-<a name="dart-lang-language-4840-graph"></a>
-### Restrict `for (id in ...)` to local variables.
-  <sub>[dart-lang/language#4840](https://github.com/dart-lang/language/issues/4840) &mdash; 5 total reactions, 5 recent reactions</sub><br />
+<a name="dart-lang-sdk-64037-graph"></a>
+### False positive for `prefer_const_constructors_in_immutables` with primary constructors
+  <sub>[dart-lang/sdk#64037](https://github.com/dart-lang/sdk/issues/64037) &mdash; 20 total reactions, 5 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -937,7 +954,7 @@ Proposal for a pipe-like operator to chain constructor/method invocations withou
   xychart-beta
     x-axis "Week" [Aug 17, Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16]
     y-axis "Reactions" 0 --> 20
-    line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5]
+    line [17, 18, 18, 19, 19, 20, 20, 20, 20, 20, 20, 20, 20, 20]
   ```
 
   </details>
