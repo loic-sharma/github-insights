@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-17 to 2026-11-18.
+Issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Find references/rename ignore declarations in a non-default conditional import/e
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-framework` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter clipboard should support images [flutter/flutter#32045](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-design` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ SliverAppBar not tappable while scrolling up when snap=true [flutter/flutter#425
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`f: cupertino` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 26 | [7](#flutter-flutter-174773-graph)
@@ -99,7 +99,7 @@ Add a way to detect keyboard language [flutter/flutter#25841](https://github.com
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-accessibility` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-go_router` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-tool` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Enable custom "flutter create" templates [flutter/flutter#77104](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-engine` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 111 | [37](#flutter-flutter-127852-graph)
@@ -160,7 +160,7 @@ TextOverflow.ellipsis not applied properly with multi-line Text with maxLines se
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-ios` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter's text rendering has different letter spacing from iOS native [flutter/f
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-android` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Provide background Service and WorkManager execution out of the box for Dart exe
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-web` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`team-ecosystem` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Data assets feature [dart-lang/sdk#54003](https://github.com/dart-lang/sdk/issue
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-17 to 2026-11-18.
+`dart-lang/language` issues that received the most reactions from 2026-08-17 to 2026-11-19.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
