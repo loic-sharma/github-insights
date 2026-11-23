@@ -33,7 +33,7 @@ Automatic type-parameter matching promotion [dart-lang/language#4759](https://gi
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Support multiple windows for desktop shells [flutter/flutter#30701](https://github.com/flutter/flutter/issues/30701) | 731 | [10](#flutter-flutter-30701-graph)
-Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 278 | [8](#flutter-flutter-65504-graph)
+Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) | 279 | [9](#flutter-flutter-65504-graph)
 Circular Progress Indicator CPU Spike  [flutter/flutter#17793](https://github.com/flutter/flutter/issues/17793) | 26 | [6](#flutter-flutter-17793-graph)
 [Proposal]Let Flutter run animations at 60fps even if there are heavy widgets, possibly using React Fiber-like or suspend-like algorithm? [flutter/flutter#101227](https://github.com/flutter/flutter/issues/101227) | 69 | 3
 Reusing state logic is either too verbose or too difficult [flutter/flutter#51752](https://github.com/flutter/flutter/issues/51752) | 314 | 2
@@ -571,7 +571,7 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
 
 <a name="flutter-flutter-65504-graph"></a>
 ### Ctrl+F support, finding text on a page (even when scrolled off screen)
-  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 278 total reactions, 8 recent reactions</sub><br />
+  <sub>[flutter/flutter#65504](https://github.com/flutter/flutter/issues/65504) &mdash; 279 total reactions, 9 recent reactions</sub><br />
   <sub>
   <details>
   <summary>Graph...</summary>
@@ -580,7 +580,7 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
   xychart-beta
     x-axis "Week" [Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16, Nov 23]
     y-axis "Reactions"
-    line [270, 270, 270, 270, 273, 273, 274, 274, 274, 275, 276, 278, 278, 278]
+    line [270, 270, 270, 270, 273, 273, 274, 274, 274, 275, 276, 278, 278, 279]
   ```
 
   </details>
