@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-24 to 2026-11-23.
+Issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Ctrl+F support, finding text on a page (even when scrolled off screen) [flutter/
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-framework` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ Flutter clipboard should support images [flutter/flutter#32045](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-design` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`f: cupertino` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 27 | [8](#flutter-flutter-174773-graph)
@@ -99,7 +99,7 @@ Ability to change the keyboard language programmatically [flutter/flutter#99606]
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-accessibility` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-go_router` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-tool` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Support keyboard events in flutter_driver [flutter/flutter#9383](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-engine` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 113 | [39](#flutter-flutter-127852-graph)
@@ -160,7 +160,7 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-ios` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -177,12 +177,12 @@ Font weight is too light in light mode and too heavy in dark mode [flutter/flutt
 ☂️ Add Swift Package Manager compatibility [flutter/flutter#126005](https://github.com/flutter/flutter/issues/126005) | 173 | 1
 Color codes in error messages are probably escaped when using the iOS simulator [flutter/flutter#20663](https://github.com/flutter/flutter/issues/20663) | 58 | 1
 Flutter's text rendering has different letter spacing from iOS native [flutter/flutter#150824](https://github.com/flutter/flutter/issues/150824) | 34 | 1
-Flutter can receive touches even when hidden behind another native ViewController [flutter/flutter#14720](https://github.com/flutter/flutter/issues/14720) | 30 | 1
 Support multiple windows on iPad/iPhone Duo [flutter/flutter#48838](https://github.com/flutter/flutter/issues/48838) | 30 | 1
+Flutter can receive touches even when hidden behind another native ViewController [flutter/flutter#14720](https://github.com/flutter/flutter/issues/14720) | 30 | 1
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-android` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutt
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-web` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -218,15 +218,15 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Finished with error: Failed to establish connection with the application instance in Chrome. [flutter/flutter#49482](https://github.com/flutter/flutter/issues/49482) | 56 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
+[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https://github.com/flutter/flutter/issues/47872) | 16 | 1
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 [web] Optimize network requests on page load [flutter/flutter#118115](https://github.com/flutter/flutter/issues/118115) | 15 | 1
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -239,16 +239,16 @@ macOS: Failed to foreground app; open returned 1 on Flutter 3.35.x [flutter/flut
 [video_player] Add Windows support [flutter/flutter#37673](https://github.com/flutter/flutter/issues/37673) | 201 | 2
 Avoid requiring Visual Studio for Windows development [flutter/flutter#77638](https://github.com/flutter/flutter/issues/77638) | 92 | 2
 Use gtk4 for linux desktop [flutter/flutter#94804](https://github.com/flutter/flutter/issues/94804) | 80 | 2
+[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 67 | 2
 Middle Mouse Button Scrolling [flutter/flutter#66537](https://github.com/flutter/flutter/issues/66537) | 55 | 2
 Transparent Backgrounds for Flutter Windows Desktop Applications. [flutter/flutter#71735](https://github.com/flutter/flutter/issues/71735) | 86 | 1
 [camera] Add Linux support [flutter/flutter#41710](https://github.com/flutter/flutter/issues/41710) | 77 | 1
 [in_app_purchase] Add support for Windows Store [flutter/flutter#97050](https://github.com/flutter/flutter/issues/97050) | 75 | 1
-[Windows] ☂️  Add support for Arm64 as a target [flutter/flutter#62597](https://github.com/flutter/flutter/issues/62597) | 66 | 1
 [macos] Transparent FlutterViewController [flutter/flutter#59969](https://github.com/flutter/flutter/issues/59969) | 40 | 1
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`team-ecosystem` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -262,15 +262,15 @@ Flutter web - Need documentation on how to conditionally display a "Refresh. New
 Finished with error: Failed to establish connection with the application instance in Chrome. [flutter/flutter#49482](https://github.com/flutter/flutter/issues/49482) | 56 | 1
 Support Microsoft Edge on Mac and Linux in flutter run [flutter/flutter#78153](https://github.com/flutter/flutter/issues/78153) | 30 | 1
 [web] DeferredLoadException after deploying a new version of app. And (in general) browser cache invalidation on a new version deployment. [flutter/flutter#127459](https://github.com/flutter/flutter/issues/127459) | 28 | 1
-[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 [web] Allow dynamic loading of font assets from `pubspec.yaml` [flutter/flutter#122282](https://github.com/flutter/flutter/issues/122282) | 27 | 1
+[Web]: Proposal to Stop downloading google font roboto when the app uses global custom font [flutter/flutter#136118](https://github.com/flutter/flutter/issues/136118) | 27 | 1
 Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https://github.com/flutter/flutter/issues/47872) | 16 | 1
 [web] support in-canvas platform views using HTML-in-Canvas API [flutter/flutter#186825](https://github.com/flutter/flutter/issues/186825) | 16 | 1
 [web] Optimize network requests on page load [flutter/flutter#118115](https://github.com/flutter/flutter/issues/118115) | 15 | 1
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add support for Certificate Transparency [dart-lang/sdk#43352](https://github.co
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-24 to 2026-11-23.
+`dart-lang/language` issues that received the most reactions from 2026-08-24 to 2026-11-24.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
