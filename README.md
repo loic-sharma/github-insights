@@ -146,10 +146,10 @@ AVIF codec support [flutter/flutter#61229](https://github.com/flutter/flutter/is
 [Impeller] Provide an API for loading Shader at runtime (and tooling support for producing them) [flutter/flutter#166944](https://github.com/flutter/flutter/issues/166944) | 18 | 4
 Roku support [flutter/flutter#37159](https://github.com/flutter/flutter/issues/37159) | 91 | 3
 Code Push / Hot Update / out of band updates [flutter/flutter#14330](https://github.com/flutter/flutter/issues/14330) | 2040 | 2
+text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 68 | 2
 Flutter Fonts are not rendering correctly, Antialiasing is doubled on desktop [flutter/flutter#67034](https://github.com/flutter/flutter/issues/67034) | 63 | 2
 WebGPU in Flutter [flutter/flutter#66618](https://github.com/flutter/flutter/issues/66618) | 458 | 1
 Support home and lock screen widgets [flutter/flutter#26134](https://github.com/flutter/flutter/issues/26134) | 338 | 1
-text rendering using subpixel / cleartype [flutter/flutter#63043](https://github.com/flutter/flutter/issues/63043) | 67 | 1
 TextOverflow.ellipsis not applied properly with multi-line Text with maxLines set [flutter/flutter#50168](https://github.com/flutter/flutter/issues/50168) | 47 | 1
 Text decoration underline is not aligning some characters or space [flutter/flutter#42833](https://github.com/flutter/flutter/issues/42833) | 45 | 1
 Internationalized words in text widgets are not centered vertically. [flutter/flutter#42925](https://github.com/flutter/flutter/issues/42925) | 20 | 1
@@ -166,7 +166,7 @@ Issue | Total reactions | Recent reactions
 -- | -- | --
 [iPhone Duo] Proposal: populate MediaQuery.displayFeatures on iOS for iPhone Duo (foldable) [flutter/flutter#192515](https://github.com/flutter/flutter/issues/192515) | 23 | [23](#flutter-flutter-192515-graph)
 [tools] FlutterGeneratedPluginSwiftPackage deployment target not bumped during `flutter pub get` [flutter/flutter#186804](https://github.com/flutter/flutter/issues/186804) | 35 | [10](#flutter-flutter-186804-graph)
-[SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 44 | [5](#flutter-flutter-162196-graph)
+[SwiftPM] Xcode build does not update the generated package's supported platforms [flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) | 45 | [6](#flutter-flutter-162196-graph)
 Flutter adds additional one frame touch latency compared to native [flutter/flutter#110431](https://github.com/flutter/flutter/issues/110431) | 381 | 4
 Flutter: Cleaning Xcode workspace takes 2-3 minutes [flutter/flutter#173940](https://github.com/flutter/flutter/issues/173940) | 45 | 3
 Let iOS keyboard dismissal synchronize with scroll [flutter/flutter#57609](https://github.com/flutter/flutter/issues/57609) | 124 | 2
@@ -705,6 +705,23 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
   </details>
   </sub>
 
+<a name="flutter-flutter-162196-graph"></a>
+### [SwiftPM] Xcode build does not update the generated package's supported platforms
+  <sub>[flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) &mdash; 45 total reactions, 6 recent reactions</sub><br />
+  <sub>
+  <details>
+  <summary>Graph...</summary>
+
+  ```mermaid
+  xychart-beta
+    x-axis "Week" [Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16, Nov 23]
+    y-axis "Reactions"
+    line [39, 41, 41, 41, 42, 42, 42, 42, 42, 42, 42, 43, 43, 45]
+  ```
+
+  </details>
+  </sub>
+
 <a name="dart-lang-sdk-61822-graph"></a>
 ### `dart fix` should apply fixes from plugins
   <sub>[dart-lang/sdk#61822](https://github.com/dart-lang/sdk/issues/61822) &mdash; 31 total reactions, 6 recent reactions</sub><br />
@@ -785,23 +802,6 @@ Allow access to earlier variables in constructor initializer list [dart-lang/lan
     x-axis "Week" [Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16, Nov 23]
     y-axis "Reactions"
     line [80, 80, 80, 84, 84, 85, 85, 85, 85, 85, 85, 85, 85, 85]
-  ```
-
-  </details>
-  </sub>
-
-<a name="flutter-flutter-162196-graph"></a>
-### [SwiftPM] Xcode build does not update the generated package's supported platforms
-  <sub>[flutter/flutter#162196](https://github.com/flutter/flutter/issues/162196) &mdash; 44 total reactions, 5 recent reactions</sub><br />
-  <sub>
-  <details>
-  <summary>Graph...</summary>
-
-  ```mermaid
-  xychart-beta
-    x-axis "Week" [Aug 24, Aug 31, Sep 7, Sep 14, Sep 21, Sep 28, Oct 5, Oct 12, Oct 19, Oct 26, Nov 2, Nov 9, Nov 16, Nov 23]
-    y-axis "Reactions"
-    line [39, 41, 41, 41, 42, 42, 42, 42, 42, 42, 42, 43, 43, 44]
   ```
 
   </details>
