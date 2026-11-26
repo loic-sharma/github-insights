@@ -2,7 +2,7 @@
 
 ## Trending issues
 
-Issues that received the most reactions from 2026-08-24 to 2026-11-25.
+Issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -28,7 +28,7 @@ Support multiple windows for desktop shells [flutter/flutter#30701](https://gith
 
 #### Framework
 
-`team-framework` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-framework` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -50,7 +50,7 @@ ShadowBox inset attribute? Inner shadow [flutter/flutter#18636](https://github.c
 
 #### Design
 
-`team-design` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-design` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -72,13 +72,13 @@ Investigate adaptive width and alignment properties for SnackBar [flutter/flutte
 
 #### Cupertino
 
-`f: cupertino` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`f: cupertino` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 #### Text input
 
-`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-text-input` and `a: text input` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 Password manager autofill does not work on web [flutter/flutter#174773](https://github.com/flutter/flutter/issues/174773) | 27 | [8](#flutter-flutter-174773-graph)
@@ -99,7 +99,7 @@ Ability to change the keyboard language programmatically [flutter/flutter#99606]
 
 #### Accessibility
 
-`team-accessibility` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-accessibility` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -108,14 +108,14 @@ Accessibility Focus jumps to Scaffold's AppBar while trying to swipe down or up 
 
 #### go_router
 
-`team-go_router` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-go_router` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
 
 ### Tool
 
-`team-tool` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-tool` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -137,7 +137,7 @@ Support keyboard events in flutter_driver [flutter/flutter#9383](https://github.
 
 ### Engine
 
-`team-engine` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-engine` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 Issue | Total reactions | Recent reactions
 -- | -- | --
 [Impeller] Implement Wide Gamut colors for Vulkan [flutter/flutter#127852](https://github.com/flutter/flutter/issues/127852) | 119 | [45](#flutter-flutter-127852-graph)
@@ -160,7 +160,7 @@ Apple CarPlay / Android Auto support? [flutter/flutter#26801](https://github.com
 
 #### iOS
 
-`team-ios` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-ios` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -182,7 +182,7 @@ Flutter can receive touches even when hidden behind another native ViewControlle
 
 #### Android
 
-`team-android` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-android` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -204,7 +204,7 @@ Support making Android Wear apps [flutter/flutter#2057](https://github.com/flutt
 
 #### Web
 
-`team-web` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-web` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -226,7 +226,7 @@ Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https
 
 #### Desktop
 
-`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-windows`, `team-macos`, and `team-linux` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -248,7 +248,7 @@ Transparent Backgrounds for Flutter Windows Desktop Applications. [flutter/flutt
 
 ### Ecosystem
 
-`team-ecosystem` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`team-ecosystem` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -270,7 +270,7 @@ Allow specifying --user-data-dir for chrome launch [flutter/flutter#47872](https
 
 ### Dart SDK
 
-`dart-lang/sdk` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`dart-lang/sdk` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
@@ -292,7 +292,7 @@ Add support for Certificate Transparency [dart-lang/sdk#43352](https://github.co
 
 ### Dart language
 
-`dart-lang/language` issues that received the most reactions from 2026-08-24 to 2026-11-25.
+`dart-lang/language` issues that received the most reactions from 2026-08-24 to 2026-11-26.
 
 Issue | Total reactions | Recent reactions
 -- | -- | --
